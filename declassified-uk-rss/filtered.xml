@@ -84,9 +84,9 @@
 </rss><!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 1146/1211 objects using memcached
+Object Caching 1061/1126 objects using memcached
 Page Caching using memcached (DONOTCACHEPAGE constant is defined) 
-Database Caching 7/19 queries in 0.147 seconds using memcached
+Database Caching 7/11 queries in 0.132 seconds using memcached
 
-Served from: www.dailymaverick.co.za @ 2020-12-28 22:25:35 by W3 Total Cache
+Served from: www.dailymaverick.co.za @ 2020-12-28 23:23:25 by W3 Total Cache
 -->
