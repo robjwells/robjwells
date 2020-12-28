@@ -4,10 +4,6 @@ name: Declassified UK RSS filter
 
 # Controls when the action will run. 
 on:
-  # Triggers the workflow on push or pull request events but only for the master branch
-  push:
-    branches: [ master ]
-    
   schedule:
     - cron: "0 * * * *"
 
@@ -36,10 +32,10 @@ jobs:
         working-directory: ./declassified-uk-rss
         run: python3 declassified-uk-rss.py
 
-      - name: Upload filtered RSS
-        uses: actions/upload-artifact@v2.2.1
-        with:
-          # Artifact name
-          name: filtered-rss
-          # A file, directory or wildcard pattern that describes what to upload
-          path: ./declassified-uk-rss/filtered.xml
+      - name: Commit filtered RSS file
+        run: |
+          git config --global user.name "RSS bot"
+          git config --global user.email "rob+rssbot@robjwells.com"
+          git add ./declassified-uk-rss/filtered.xml
+          git commit -m "Update Declassified UK RSS"
+          git push
