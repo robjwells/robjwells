@@ -28,6 +28,9 @@ jobs:
 
       - name: Setup Python
         uses: actions/setup-python@v2.2.1
+    
+      - name: Install Python packages
+        run: python3 -m pip install requests beautifulsoup4
       
       - name: Run filter script
         working-directory: ./declassified-uk-rss
