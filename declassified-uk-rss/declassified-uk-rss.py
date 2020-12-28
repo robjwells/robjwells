@@ -1,7 +1,7 @@
 #!/usr/local/bin/python3
 
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Comment
 
 r = requests.get("https://www.dailymaverick.co.za/dmrss/")
 s = BeautifulSoup(r.content, "lxml-xml")
@@ -10,5 +10,13 @@ for item in s.find_all("item"):
     if "declassified" not in item.find("category").text.lower():
         item.decompose()
 
-with open("filtered.xml", "wb") as out:
-    out.write(s.encode("utf-8"))
+url = 'https://robjwells.github.io/robjwells/declassified-uk-rss/filtered.xml'
+s.find('channel').find('link')['href'] = url
+
+comments = s.find_all(text=lambda text: isinstance(text, Comment))
+for comment in comments:
+    _ = comment.extract()
+
+if s.find_all("item"):
+    with open("filtered.xml", "wb") as out:
+        out.write(s.encode("utf-8"))
