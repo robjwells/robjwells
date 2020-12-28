@@ -32,3 +32,7 @@ jobs:
       - name: Run filter script
         working-directory: $GITHUB_WORKSPACE/declassified-uk-rss
         run: python3 declassified-uk-rss.py
+      
+      - name: List files
+        working-directory: $GITHUB_WORKSPACE/declassified-uk-rss
+        run: ls -R
