@@ -37,5 +37,4 @@ jobs:
           git config --global user.name "RSS bot"
           git config --global user.email "rob+rssbot@robjwells.com"
           git add ./declassified-uk-rss/filtered.xml
-          git commit -m "Update Declassified UK RSS"
-          git push
+          git commit -m "Update Declassified UK RSS" && git push || true
