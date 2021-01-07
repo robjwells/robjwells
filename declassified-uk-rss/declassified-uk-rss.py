@@ -18,8 +18,6 @@ for comment in comments:
     _ = comment.extract()
 
 if s.find_all("item"):
-    as_string = str(s)
-    fewer_breaks = "\n".join([line for line in as_string.split("\n") if line])
-    print(fewer_breaks)
+    fewer_breaks = "\n".join([line for line in str(s).split("\n") if line])
     with open("filtered.xml", "wb") as out:
         out.write(fewer_breaks.encode("utf-8"))
