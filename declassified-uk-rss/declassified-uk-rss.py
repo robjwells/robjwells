@@ -74,3 +74,7 @@ def main(*, output_filename: str = OUTPUT_FILENAME) -> None:
 
     if contains_items(soup) and more_than_date_has_changed(xml):
         Path(output_filename).write_text(xml)
+
+
+if __name__ == "__main__":
+    main()
