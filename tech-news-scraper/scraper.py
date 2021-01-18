@@ -50,7 +50,7 @@ def send_email(body: str, subject: str) -> None:
     mailer = smtplib.SMTP(host="smtp.fastmail.com", port=587)
     mailer.ehlo()
     mailer.starttls()
-    mailer.login("robjwells@fastmail.fm", "7nur8nga2q24t5ps")
+    mailer.login("robjwells@fastmail.fm", "whoops")
     mailer.sendmail(address, [address], message.as_string())
     mailer.quit()
 
