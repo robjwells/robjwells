@@ -1,0 +1,38 @@
+name: Scrape HN & Lobsters
+
+# Controls when the action will run. 
+on:
+  schedule:
+    - cron: "58 19 * * *"
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      - name: Setup Python
+        uses: actions/setup-python@v2.2.1
+    
+      - name: Install Python packages
+        run: python3 -m pip install requests beautifulsoup4
+      
+      - name: Run filter script
+        working-directory: ./tech-news-scraper
+        run: python3 scraper.py
+
+      - name: Commit filtered RSS file
+        run: |
+          git config --global user.name "Scraper bot"
+          git config --global user.email "rob+scraperbot@robjwells.com"
+          git add ./tech-news-scraper/tech-news-summary.md
+          git commit -m "Update tech news summary" && git push || true
