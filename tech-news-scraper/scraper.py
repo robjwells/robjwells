@@ -52,7 +52,7 @@ def main(sites: List[Site]) -> None:
     # 'Shuffle' stories by sorting by URL
     sorted_stories = sorted(filtered_stories, key=lambda story: story.url)
     stories_str = "\n\n".join(
-        [f"- {story.title}\n{story.url}" for story in sorted_stories]
+        [f"- [{story.title}]({story.url})" for story in sorted_stories]
     )
     with open("tech-news-summary.md", "w") as output_file:
         output_file.write(stories_str)
