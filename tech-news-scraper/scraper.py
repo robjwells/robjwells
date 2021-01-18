@@ -2,9 +2,7 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
-from email.mime.text import MIMEText
 from itertools import chain
-import smtplib
 from typing import List, Set
 
 import bs4  # type: ignore
@@ -42,19 +40,6 @@ def fetch_stories(site: Site) -> Set[Story]:
     }
 
 
-def send_email(body: str, subject: str) -> None:
-    message = MIMEText(body, _charset="utf-8")
-    message["subject"] = subject
-    address = message["To"] = message["From"] = "rob@robjwells.com"
-
-    mailer = smtplib.SMTP(host="smtp.fastmail.com", port=587)
-    mailer.ehlo()
-    mailer.starttls()
-    mailer.login("robjwells@fastmail.fm", "whoops")
-    mailer.sendmail(address, [address], message.as_string())
-    mailer.quit()
-
-
 def main(sites: List[Site]) -> None:
     all_stories = chain.from_iterable(fetch_stories(site) for site in sites)
     # Keep unique stories that are external links
@@ -67,10 +52,10 @@ def main(sites: List[Site]) -> None:
     # 'Shuffle' stories by sorting by URL
     sorted_stories = sorted(filtered_stories, key=lambda story: story.url)
     stories_str = "\n\n".join(
-        [f"{story.title}\n{story.url}" for story in sorted_stories]
+        [f"- {story.title}\n{story.url}" for story in sorted_stories]
     )
-    subject = "HN & Lobsters digest"
-    send_email(body=stories_str, subject=subject)
+    with open("tech-news-summary.md", "w") as output_file:
+        output_file.write(stories_str)
 
 
 if __name__ == "__main__":
