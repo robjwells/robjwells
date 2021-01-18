@@ -3,7 +3,7 @@ name: Scrape HN & Lobsters
 # Controls when the action will run. 
 on:
   schedule:
-    - cron: "58 19 * * *"
+    - cron: "3 5 * * *"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
