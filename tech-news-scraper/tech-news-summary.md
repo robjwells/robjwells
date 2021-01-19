@@ -1,26 +1,34 @@
-- [Stromatolites: A Billion-Year-Old Living Organism](http://www.bbc.com/travel/story/20210117-stromatolites-the-earths-oldest-living-lifeforms)
+- [Windows 9x TLB Invalidation Bug](http://blog.stuffedcow.net/2015/08/win9x-tlb-invalidation-bug/)
+
+- [The Whale Who Will Come Soon](http://oceans.nautil.us/feature/662/the-whale-who-will-come-soon)
+
+- [Scriptometer: measuring the ease of SOP (Script-Oriented Programming) of programming languages](http://rigaux.org/language-study/scripting-language/)
+
+- [Software effort estimation is mostly fake research](http://shape-of-code.coding-guidelines.com/2021/01/17/software-effort-estimation-is-mostly-fake-research/)
+
+- [A Study of the “Human Flesh” Search Engine (2010) [pdf]](http://www.u.arizona.edu/~qpzhang/paper/HFS_Computer_2010.pdf)
 
 - [It is your moral obligation to use Firefox (2019)](https://0x46.net/thoughts/2019/04/09/use-firefox/)
 
 - [2020 Game](https://2020game.io/)
 
-- [Just Funnin’ – the infamous “Cowboys” section of the Lucid book](https://billwadge.wordpress.com/2021/01/16/just-funnin-the-infamous-cowboys-section-of-the-lucid-book/)
+- [Persisting Haskell ADTs The Relational Way](https://agentm.github.io/project-m36/posts/2017-10-08-haskell-adts-dbms.html)
 
-- [GitHub Stale Bots – A False Economy](https://blog.benwinding.com/github-stale-bots/)
+- [Colorize](https://alexbeals.com/projects/colorize/)
 
-- [Compilers are hard](https://blog.shipreq.com/post/compilers_are_hard/)
+- [Three reasons fungi are not plants](https://asm.org/Articles/2021/January/Three-Reasons-Fungi-Are-Not-Plants)
 
-- [Finding Bugs in C and C++ Compilers using YARPGen](https://blog.sigplan.org/2021/01/14/finding-bugs-in-c-and-c-compilers-using-yarpgen/)
+- [Learning to Suffer](https://backpackinglight.com/learning-curve-learning-to-suffer)
 
 - [Traps to Avoid When Reviewing Code Changes](https://blog.sulami.xyz/posts/code-reviews/)
 
-- [Unconditional loops are unconditionally awesome](https://brson.github.io/2021/01/17/rust-unconditional-loops)
-
-- [Disabling Safari AutoFill for a single line address input (2019)](https://bytes.grubhub.com/disabling-safari-autofill-for-a-single-line-address-input-b83137b5b1c7)
+- [The embedded YouTube player told me what you were watching](https://bugs.xdavidhu.me/google/2021/01/18/the-embedded-youtube-player-told-me-what-you-were-watching-and-more/)
 
 - [CS 498MC • Martian Computing](https://davis68.github.io/martian-computing/)
 
-- [Venice combats overtourism by tracking visitors](https://edition.cnn.com/travel/article/venice-control-room-tourism/index.html)
+- [Label a Dataset with a Few Lines of Code](https://eric-landau.medium.com/label-a-dataset-with-a-few-lines-of-code-45c140ff119d)
+
+- [Full success of first-ever cubesat mission equipped with Hall-effect propulsion](https://exotrail.com/news/2021-01-12/100-exotrail-paves-the-way-for-new-space-mobility-with-first-of-its-kind-successful-in-orbit-demonstration-mission/)
 
 - [Deploy your own Matrix server on Fedora CoreOS](https://fedoramagazine.org/deploy-your-own-matrix-server-on-fedora-coreos/)
 
@@ -28,78 +36,66 @@
 
 - [That XOR Trick](https://florian.github.io//xor-trick/)
 
-- [That XOR Trick](https://florian.github.io/xor-trick)
+- [Viscous Liquid Monopropellant, new non-explosive and non-toxic rocket fuel (2019)](https://forum.kerbalspaceprogram.com/index.php?/topic/185992-rocket-labs-monopropellant-l-viscous-liquid-monopropellant/)
 
-- [BBC Micro Bot User Guide](https://github.com/8bitkick/BBCMicroBot/blob/master/docs/user%20guide.md)
+- [Crossword.el – download and play crossword puzzles in Emacs](https://github.com/Boruch-Baum/emacs-crossword)
 
-- [React Component for 3D Maps](https://github.com/felixpalmer/procedural-gl-react)
+- [FreeBSD Xfce4 on VMware Installation Guide](https://github.com/coonrad/FreeBSD-Xfce4-VMware-Install-Guide)
 
-- [Show HN: 100 LOC Ruby forward proxy using only standard libraries](https://github.com/jamesmoriarty/forward-proxy)
+- [Show HN: A high-performance TensorFlow library for quantitative finance](https://github.com/google/tf-quant-finance)
 
-- [Show HN: BFS, Dijkstra and A* interactive demo made in React](https://github.com/npretto/pathfinding)
+- [Sosumi Snap – Download and Install macOS in Ubuntu](https://github.com/popey/sosumi-snap)
 
-- [Diff the behavior of two python functions](https://github.com/pschanely/CrossHair/blob/master/doc/diff_behavior.md)
+- [Again on 0-based vs. 1-based indexing](https://hisham.hm/2021/01/18/again-on-0-based-vs-1-based-indexing/)
 
 - [Text Encoding Menu in 2021](https://hsivonen.fi/encoding-menu-2021/)
 
-- [New measurements of the sky's blackness](https://hubblesite.org/contents/news-releases/2021/news-2021-01)
+- [More PHP and MySQL findings](https://hugopeixoto.net/articles/more-mysql-and-php-findings.html)
 
 - [We can do better than Signal](https://icyphox.sh/blog/signal/)
 
 - [Jami - Share, freely and privately](https://jami.net/)
 
-- [Categories of Nets](https://johncarlosbaez.wordpress.com/2021/01/17/categories-of-nets/)
+- [BuildZoom (better way to build custom homes) Is hiring a principal engineer](https://jobs.lever.co/buildzoom)
 
-- [The Dubai Lamp: The “World’s Most Efficient” LED Light Bulb](https://kbelectricpa.com/dubai-lamp-worlds-efficient-led-light-bulb/)
+- [Everything you need to know to design your own CNC router](https://mattferraro.dev/posts/cnc-router)
 
-- [the tragedy of gemini](https://maya.land/monologues/2021/01/11/the-tragedy-of-gemini.html)
+- [Centralisation Is a Danger to Democracy](https://redecentralize.org/blog/2021/01/18/centralization-is-a-danger-to-democracy)
 
-- [The Race to Replace C & C++](https://media.handmade-seattle.com/the-race-to-replace-c-and-cpp/)
+- [runson.cloud](https://runson.cloud)
 
-- [MuseScore 3.6](https://musescore.org/en/3.6)
+- [Shuffle — An online editor for busy developers](https://shuffle.dev)
 
-- [Can you treat loneliness by creating an imaginary friend?](https://nautil.us/blog/can-you-treat-loneliness-by-creating-an-imaginary-friend)
+- [An introduction to Morphic: Self's UI toolkit](https://sin-ack.github.io/posts/morphic-intro/)
 
-- [BitLocker Lockscreen Bypass](https://secret.club/2021/01/15/bitlocker-bypass.html)
+- [What You Should Know Before Leaking a Zoom Meeting](https://theintercept.com/2021/01/18/leak-zoom-meeting/)
 
-- [NEAT: Simple neuroevolution framework, in Rust](https://sgolem.com/blog/neat-simple-neuroevolution-framework-in-rust)
+- [The self-hosted web IRC client](https://thelounge.chat/)
 
-- [IEEE Medal of Honor Goes to Data Compression Pioneer Jacob Ziv](https://spectrum.ieee.org/the-institute/ieee-member-news/ieee-medal-of-honor-goes-to-data-compression-pioneer-jacob-ziv)
+- [Tech companies are profiling us from before birth](https://thereader.mitpress.mit.edu/tech-companies-are-profiling-us-from-before-birth/)
 
-- [Reusing Tags](https://text.causal.agency/015-reusing-tags.txt)
+- [I wasted $40k on a fantastic startup idea](https://tjcx.me/p/i-wasted-40k-on-a-fantastic-startup-idea)
 
-- [Context switching costs more than we give it credit for](https://thinkingthrough.substack.com/p/context-switching-cost-more-than)
+- [Nobody lives here: Nearly 5M Census Blocks with zero population (2014)](https://tumblr.mapsbynik.com/post/82791188950/nobody-lives-here-the-4-million-census-blocks)
 
-- [Would Rust secure cURL?](https://timmmm.github.io/curl-vulnerabilities-rust/)
+- [The short, tormented life of computer genius Phil Katz (2000)](https://web.archive.org/web/20000829071343/http://www2.jsonline.com/news/state/may00/katz21052000a.asp)
 
-- [The IPv6 ULA registry](https://ula.ungleich.ch/)
+- [Jim Simons proved the textbooks wrong, almost](https://www.bloomberg.com/opinion/articles/2021-01-16/investing-legend-james-simons-s-record-won-t-be-beat)
 
-- [The Amiga 1000 Parceiro](https://www.amigalove.com/viewtopic.php?t=1689)
-
-- [Dover (YC S19) is hiring a growth engineer to modernize recruiting](https://www.dover.io/open-roles/growth-engineer)
+- [Parler’s de-platforming shows the exceptional power of cloud providers](https://www.cnbc.com/2021/01/16/how-parler-deplatforming-shows-power-of-cloud-providers.html)
 
 - [Tracking down a segfault that suddenly started happening](https://www.downtowndougbrown.com/2021/01/tracking-down-a-segfault-that-suddenly-started-happening/)
 
-- [Japanese people may have gained longevity by balancing their diets](https://www.economist.com/graphic-detail/2021/01/16/japanese-people-may-have-gained-longevity-by-balancing-their-diets)
-
-- [Decluttering low-Earth orbit: It's time to tidy up space](https://www.economist.com/leaders/2021/01/14/its-time-to-tidy-up-space)
-
 - [GPT-Neo – Building a GPT-3-sized model, open source and free](https://www.eleuther.ai/gpt-neo)
 
-- [Julia adoption keeps climbing](https://www.hpcwire.com/2021/01/13/julia-update-adoption-keeps-climbing-is-it-a-python-challenger/)
+- [New Drug Therapy Approvals 2020](https://www.fda.gov/media/144982/download)
 
-- [Writing Environment-Agnostic Functional Acceptance Tests](https://www.jvt.me/posts/2021/01/18/agnostic-acceptance-tests/)
+- [Software engineering is a learning process, working code is a side effect](https://www.lambdabytes.io/posts/selearning/)
 
-- [We are sending more foster kids to prison than to college](https://www.kansascity.com/news/special-reports/article238206754.html)
+- [Hecto: Build your own text editor in Rust](https://www.philippflenker.com/hecto/)
 
-- [The values of Emacs, the Neovim revolution, and the VSCode gorilla](https://www.murilopereira.com/the-values-of-emacs-the-neovim-revolution-and-the-vscode-gorilla/)
+- [ZFS Topology FAQ – What is ZPOOL? What is VDEV?](https://www.reddit.com/r/zfs/comments/fn5ugg/zfs_topology_faq_whats_a_zpool_whats_a_vdev/)
 
-- [BladeRF-wiphy: Open-source, software defined radio modem](https://www.nuand.com/bladeRF-wiphy/)
+- [Parler comes back online hosted by Russia](https://www.reuters.com/article/BigStory12/idUSKBN29N23N)
 
-- [Patient Regains Sight Following Artificial Cornea Implantation](https://www.prnewswire.com/il/news-releases/corneat-visions-first-patient-regains-sight-following-artificial-cornea-implantation-at-rabin-medical-center-ending-a-decade-of-blindness-301205312.html)
-
-- [Dostoevsky in Love](https://www.theguardian.com/books/2021/jan/14/dostoevsky-in-love-by-alex-christofi-review-unpredictable-dangerous-and-thrilling)
-
-- [Inequality Killed the Roman Republic](https://www.themetasophist.com/notes/how-inequality-killed-the-roman-republic)
-
-- [How to write Fault Tolerant Software (2018)](https://www.youtube.com/watch?v=nHcKOiWi-X4)
+- [Amazon permanently shuts down Prime Pantry](https://www.subscriptioninsider.com/topics/business-operations/amazon-permanently-shuts-down-prime-pantry)
