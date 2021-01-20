@@ -1,101 +1,99 @@
-- [Windows 9x TLB Invalidation Bug](http://blog.stuffedcow.net/2015/08/win9x-tlb-invalidation-bug/)
+- [Ruby 3, concurrency and the ecosystem](http://kirshatrov.com/2021/01/06/ruby-concurrency-and-ecosystem/)
 
-- [The Whale Who Will Come Soon](http://oceans.nautil.us/feature/662/the-whale-who-will-come-soon)
+- [The Big Idea is "Messaging" - Alan Kay on Misunderstanding in OOP [1998]](http://lists.squeakfoundation.org/pipermail/squeak-dev/1998-October/017019.html)
 
-- [Scriptometer: measuring the ease of SOP (Script-Oriented Programming) of programming languages](http://rigaux.org/language-study/scripting-language/)
+- [Share a picture by sending an email](http://pix.fastloop.xyz/)
 
-- [Software effort estimation is mostly fake research](http://shape-of-code.coding-guidelines.com/2021/01/17/software-effort-estimation-is-mostly-fake-research/)
+- [Radio users reminded not to use radios in crimes](http://www.arrl.org/news/fcc-issues-enforcement-advisory-radio-users-reminded-not-to-use-radios-in-crimes)
 
-- [A Study of the “Human Flesh” Search Engine (2010) [pdf]](http://www.u.arizona.edu/~qpzhang/paper/HFS_Computer_2010.pdf)
+- [Tracing Execution in Oil (set -x /xtrace)](http://www.oilshell.org/preview/doc/xtrace.html)
 
-- [It is your moral obligation to use Firefox (2019)](https://0x46.net/thoughts/2019/04/09/use-firefox/)
+- [Nabis (YC W19) hiring software engineers (PST ± 3h) to ship $1B of cannabis](https://angel.co/company/nabis/jobs/650850-senior-software-engineer)
 
-- [2020 Game](https://2020game.io/)
+- [Gaming the system: How GameStop stock surged](https://arstechnica.com/gaming/2021/01/gaming-the-system-how-gamestop-stock-surged-1500-in-nine-months/)
 
-- [Persisting Haskell ADTs The Relational Way](https://agentm.github.io/project-m36/posts/2017-10-08-haskell-adts-dbms.html)
+- [Identifying Authorship Style in Malicious Binaries: Techniques, Challenges](https://arxiv.org/abs/2101.06124)
 
-- [Colorize](https://alexbeals.com/projects/colorize/)
+- [Command PATH security in Go](https://blog.golang.org/path-security)
 
-- [Three reasons fungi are not plants](https://asm.org/Articles/2021/January/Three-Reasons-Fungi-Are-Not-Plants)
+- [Exploring the Supply Chain of the Pfizer/BioNTech and Moderna Covid-19 Vaccines](https://blog.jonasneubert.com/2021/01/10/exploring-the-supply-chain-of-the-pfizer-biontech-and-moderna-covid-19-vaccines/)
 
-- [Learning to Suffer](https://backpackinglight.com/learning-curve-learning-to-suffer)
+- [IPFS Support in Brave](https://brave.com/ipfs-support/)
 
-- [Traps to Avoid When Reviewing Code Changes](https://blog.sulami.xyz/posts/code-reviews/)
+- [Syllabus for Classics of Computer Science](https://canvas.harvard.edu/courses/34992/assignments/syllabus)
 
-- [The embedded YouTube player told me what you were watching](https://bugs.xdavidhu.me/google/2021/01/18/the-embedded-youtube-player-told-me-what-you-were-watching-and-more/)
+- [godocs.io is now available](https://drewdevault.com/2020/12/18/godocs.io.html)
 
-- [CS 498MC • Martian Computing](https://davis68.github.io/martian-computing/)
+- [Elasticsearch does not belong to Elastic](https://drewdevault.com/2021/01/19/Elasticsearch-does-not-belong-to-Elastic.html)
 
-- [Label a Dataset with a Few Lines of Code](https://eric-landau.medium.com/label-a-dataset-with-a-few-lines-of-code-45c140ff119d)
+- [Spooky action at a distance](https://drewdevault.com/2021/01/19/Spooky-code-at-a-distance.html)
 
-- [Full success of first-ever cubesat mission equipped with Hall-effect propulsion](https://exotrail.com/news/2021-01-12/100-exotrail-paves-the-way-for-new-space-mobility-with-first-of-its-kind-successful-in-orbit-demonstration-mission/)
+- [My Favourite DevTool Features](https://emergent.systems/posts/devtools/)
 
-- [Deploy your own Matrix server on Fedora CoreOS](https://fedoramagazine.org/deploy-your-own-matrix-server-on-fedora-coreos/)
+- [KFC Mascot Col. Sanders Talks Malbolge Programming on General Hospital](https://esoteric.codes/blog/kfc-col-sanders-talks-malbolge-general-hospital)
 
-- [Discover Fedora Kinoite: a Silverblue variant with the KDE Plasma desktop](https://fedoramagazine.org/discover-fedora-kinoite/)
+- [Go proposal: types that can only be created by defining package](https://github.com/golang/go/issues/43123)
 
-- [That XOR Trick](https://florian.github.io//xor-trick/)
+- [Show HN: Il2cpp-modder – Generate DLL injection projects for hacking Unity games](https://github.com/juanmjacobs/il2cpp-modder)
 
-- [Viscous Liquid Monopropellant, new non-explosive and non-toxic rocket fuel (2019)](https://forum.kerbalspaceprogram.com/index.php?/topic/185992-rocket-labs-monopropellant-l-viscous-liquid-monopropellant/)
+- [Lispsyntax.jl: A Clojure-like Lisp syntax for julia](https://github.com/swadey/LispSyntax.jl)
 
-- [Crossword.el – download and play crossword puzzles in Emacs](https://github.com/Boruch-Baum/emacs-crossword)
+- [Cairo in Go: vector to SVG, PDF, EPS, raster, HTML Canvas, etc](https://github.com/tdewolff/canvas)
 
-- [FreeBSD Xfce4 on VMware Installation Guide](https://github.com/coonrad/FreeBSD-Xfce4-VMware-Install-Guide)
+- [novelWriter: markdown-like plain text editor designed for writing and organising novels](https://github.com/vkbo/novelWriter)
 
-- [Show HN: A high-performance TensorFlow library for quantitative finance](https://github.com/google/tf-quant-finance)
+- [The State of State Machines](https://googleprojectzero.blogspot.com/2021/01/the-state-of-state-machines.html)
 
-- [Sosumi Snap – Download and Install macOS in Ubuntu](https://github.com/popey/sosumi-snap)
+- [User power, not power users: htop and its design philosophy](https://hisham.hm/2020/12/18/user-power-not-power-users-htop-and-its-design-philosophy/)
 
 - [Again on 0-based vs. 1-based indexing](https://hisham.hm/2021/01/18/again-on-0-based-vs-1-based-indexing/)
 
-- [Text Encoding Menu in 2021](https://hsivonen.fi/encoding-menu-2021/)
+- [Container networking is simple (2020)](https://iximiuz.com/en/posts/container-networking-is-simple/)
 
-- [More PHP and MySQL findings](https://hugopeixoto.net/articles/more-mysql-and-php-findings.html)
+- [When costs are nonlinear, keep it small](https://jessitron.com/2021/01/18/when-costs-are-nonlinear-keep-it-small/)
 
-- [We can do better than Signal](https://icyphox.sh/blog/signal/)
+- [Fennel 0.8.0 released](https://lists.sr.ht/~technomancy/fennel/%3C878s8px0sl.fsf%40whirlwind%3E)
 
-- [Jami - Share, freely and privately](https://jami.net/)
+- [Linux and Powershell](https://matteoguadrini.github.io/posts/linux-and-powershell/)
 
-- [BuildZoom (better way to build custom homes) Is hiring a principal engineer](https://jobs.lever.co/buildzoom)
+- [Exploring the role of competitive brain processes in artistic cognition](https://medicalxpress.com/news/2021-01-exploring-role-competitive-brain-artistic.html)
 
-- [Everything you need to know to design your own CNC router](https://mattferraro.dev/posts/cnc-router)
+- [Java on Truffle – Going Fully Metacircular](https://medium.com/graalvm/java-on-truffle-going-fully-metacircular-215531e3f840)
 
-- [Centralisation Is a Danger to Democracy](https://redecentralize.org/blog/2021/01/18/centralization-is-a-danger-to-democracy)
+- [Make Your Own Internet Archive with Archive Box](https://nixintel.info/osint-tools/make-your-own-internet-archive-with-archive-box/)
+
+- [An interactive review of the Oklab perceptual color space](https://raphlinus.github.io/color/2021/01/18/oklab-critique.html)
+
+- [China wants to build an open source ecosystem to rival GitHub](https://restofworld.org/2021/china-gitee-to-rival-github/)
 
 - [runson.cloud](https://runson.cloud)
 
-- [Shuffle — An online editor for busy developers](https://shuffle.dev)
+- [Tailscale on NixOS: A New Minecraft Server in Ten Minutes](https://tailscale.com/blog/nixos-minecraft/)
 
-- [An introduction to Morphic: Self's UI toolkit](https://sin-ack.github.io/posts/morphic-intro/)
+- [Never Been Seen: Science Museum Group Collection](https://thesciencemuseum.github.io/never-been-seen/index.html)
 
-- [What You Should Know Before Leaking a Zoom Meeting](https://theintercept.com/2021/01/18/leak-zoom-meeting/)
+- [This Anime Does Not Exist](https://thisanimedoesnotexist.ai/)
 
-- [The self-hosted web IRC client](https://thelounge.chat/)
+- [The Evolution of a Research Paper](https://tratt.net/laurie/blog/entries/the_evolution_of_a_research_paper.html)
 
-- [Tech companies are profiling us from before birth](https://thereader.mitpress.mit.edu/tech-companies-are-profiling-us-from-before-birth/)
+- [A Few Words About the Telex (2017)](https://vulcanhammer.info/2017/07/14/a-few-words-about-the-telex/)
 
-- [I wasted $40k on a fantastic startup idea](https://tjcx.me/p/i-wasted-40k-on-a-fantastic-startup-idea)
+- [Jack Ma Emerges for First Time Since Crackdown on Ant, Alibaba](https://www.bloomberg.com/news/articles/2021-01-20/jack-ma-emerges-for-first-time-since-crackdown-on-ant-alibaba)
 
-- [Nobody lives here: Nearly 5M Census Blocks with zero population (2014)](https://tumblr.mapsbynik.com/post/82791188950/nobody-lives-here-the-4-million-census-blocks)
+- [Show HN: Gamejoy – hosted Zoom games for remote teams](https://www.gamejoyhq.com/)
 
-- [The short, tormented life of computer genius Phil Katz (2000)](https://web.archive.org/web/20000829071343/http://www2.jsonline.com/news/state/may00/katz21052000a.asp)
+- [The Unauthorized Story of Andreessen Horowitz](https://www.newcomer.co/p/the-unauthorized-story-of-andreessen)
 
-- [Jim Simons proved the textbooks wrong, almost](https://www.bloomberg.com/opinion/articles/2021-01-16/investing-legend-james-simons-s-record-won-t-be-beat)
+- [Three Mathematicians We Lost in 2020](https://www.newyorker.com/culture/annals-of-inquiry/three-mathematicians-we-lost-in-2020)
 
-- [Parler’s de-platforming shows the exceptional power of cloud providers](https://www.cnbc.com/2021/01/16/how-parler-deplatforming-shows-power-of-cloud-providers.html)
+- [Digital VT100 (1978)](https://www.oldcomputr.com/digital-vt100-1978/)
 
-- [Tracking down a segfault that suddenly started happening](https://www.downtowndougbrown.com/2021/01/tracking-down-a-segfault-that-suddenly-started-happening/)
+- [Why do they still make car alarms?](https://www.popularmechanics.com/cars/a17477/why-the-hell-do-they-still-make-car-alarms/)
 
-- [GPT-Neo – Building a GPT-3-sized model, open source and free](https://www.eleuther.ai/gpt-neo)
+- [Go's ioutil package to be deprecated in 1.16](https://www.srcbeat.com/2021/01/golang-ioutil-deprecated/)
 
-- [New Drug Therapy Approvals 2020](https://www.fda.gov/media/144982/download)
+- [JuliaCall Update: Automated Julia Installation for R Packages](https://www.stochasticlifestyle.com/juliacall-update-automated-julia-installation-for-r-packages/)
 
-- [Software engineering is a learning process, working code is a side effect](https://www.lambdabytes.io/posts/selearning/)
+- [Capitol Attack Was Months in the Making on Facebook](https://www.techtransparencyproject.org/articles/capitol-attack-was-months-making-facebook)
 
-- [Hecto: Build your own text editor in Rust](https://www.philippflenker.com/hecto/)
-
-- [ZFS Topology FAQ – What is ZPOOL? What is VDEV?](https://www.reddit.com/r/zfs/comments/fn5ugg/zfs_topology_faq_whats_a_zpool_whats_a_vdev/)
-
-- [Parler comes back online hosted by Russia](https://www.reuters.com/article/BigStory12/idUSKBN29N23N)
-
-- [Amazon permanently shuts down Prime Pantry](https://www.subscriptioninsider.com/topics/business-operations/amazon-permanently-shuts-down-prime-pantry)
+- [Show HN: Virtual breadboard in the browser, inspired by Ben Eater's 6502](https://www.tejotron.com/)
