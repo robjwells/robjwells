@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
 <channel>
 <atom:link href="https://robjwells.github.io/robjwells/declassified-uk-rss/filtered.xml" rel="self" type="application/rss+xml"/>
 <title>Daily Maverick</title>
 <link>https://www.dailymaverick.co.za</link>
 <description>Defend Truth</description>
 <language>en</language>
-<pubDate>Wed, 20 Jan 2021 22:18:47 +0000</pubDate>
-<lastBuildDate>Wed, 20 Jan 2021 22:18:47 +0000</lastBuildDate>
+<pubDate>Fri, 22 Jan 2021 17:42:10 +0000</pubDate>
+<lastBuildDate>Fri, 22 Jan 2021 17:42:10 +0000</lastBuildDate>
 <managingEditor>no-reply@dailymaverick.co.za (Editor)</managingEditor>
 <webMaster>no-reply@dailymaverick.co.za (Webmaster)</webMaster>
 <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -21,11 +21,11 @@
 <height>32</height>
 </image>
 <item>
-<title>Declassified UK: Op-ED: Britain whitewashes Uganda’s stolen election</title>
-<description>The UK government has effectively endorsed evidently unfair elections in Uganda, where both the opposition and media were subjected to violence and intimidation, to help Yoweri Museveni, a favoured authoritarian leader who has been in power for 34 years, to remain in office.</description>
-<link>https://www.dailymaverick.co.za/article/2021-01-20-britain-whitewashes-ugandas-stolen-election/</link>
-<guid>https://www.dailymaverick.co.za/article/2021-01-20-britain-whitewashes-ugandas-stolen-election/</guid>
-<pubDate>Wed, 20 Jan 2021 08:00:29 +0200</pubDate>
+<title>Declassified UK: UK’s former Brexit secretary says Assange judge ‘got the law wrong’</title>
+<description>As US prosecutors lodge an appeal in their resolve to jail Julian Assange for espionage, a former British Cabinet minister has delivered a stinging attack on Britain’s extradition treaty with the US.</description>
+<link>https://www.dailymaverick.co.za/article/2021-01-22-uks-former-brexit-secretary-says-assange-judge-got-the-law-wrong/</link>
+<guid>https://www.dailymaverick.co.za/article/2021-01-22-uks-former-brexit-secretary-says-assange-judge-got-the-law-wrong/</guid>
+<pubDate>Fri, 22 Jan 2021 08:11:01 +0200</pubDate>
 <category>Declassified UK</category>
 </item>
 </channel>
