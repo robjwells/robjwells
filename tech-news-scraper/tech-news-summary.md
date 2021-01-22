@@ -1,97 +1,99 @@
-- [Browser-based Video Editor in ~1k Lines of Vanilla Javascript](http://github.com/bwasti/mebm)
+- [Unlocking LUKS2 Volumes with TPM2, FIDO2, PKCS#11 Security HW on Systemd 248](http://0pointer.net/blog/unlocking-luks2-volumes-with-tpm2-fido2-pkcs11-security-hardware-on-systemd-248.html)
 
-- [Datalegreya Font](http://www.datalegreya.com/?lang=en)
+- [Bertrand Might: Life, legacy and next steps](http://bertrand.might.net/)
 
-- [The Wisdom of Surrender: Samuel Beckett and Quietism](https://aeon.co/essays/how-samuel-beckett-sought-salvation-in-the-midst-of-suffering)
+- [Monarch butterfly population moves closer to extinction](https://abcnews.go.com/Technology/wireStory/monarch-butterfly-population-moves-closer-extinction-75351089)
 
-- [I tried creating a web browser and Google blocked me (2019)](https://blog.samuelmaddock.com/posts/google-widevine-blocked-my-browser/)
+- [Still alive](https://astralcodexten.substack.com/p/still-alive)
 
-- [Compilers Are Hard](https://blog.shipreq.com/post/compilers_are_hard)
+- [AWS announces forks of Elasticsearch and Kibana](https://aws.amazon.com/blogs/opensource/stepping-up-for-a-truly-open-source-elasticsearch)
 
-- [Writing a C64 Assembly Demo (2019)](https://celso.io/retrocomputing/2019/12/23/c64-assembly.html)
+- [A Tour of Go 1.16's io/fs package](https://benjamincongdon.me/blog/2021/01/21/A-Tour-of-Go-116s-iofs-package/)
+
+- [Bitwarden releases “emergency access” feature](https://bitwarden.com/help/article/releasenotes/#2021-01-19)
+
+- [VSCode, Dev Containers and Docker](https://blog.feabhas.com/2021/01/vscode-dev-containers-and-docker-moving-software-development-forward/)
+
+- [Google's Project Loon is shutting down](https://blog.x.company/loons-final-flight-e9d699123a96?gi=b913b3d1667e)
+
+- [QSCM - A tiny bootstrapped Scheme](https://c9x.me/qscm/)
+
+- [We may Soon have City-Spanning 900 HMz Mesh Networks](https://cheapskatesguide.org/articles/900mhz-mesh.html/)
+
+- [Geocities and Neopets didn’t teach us HTML and CSS](https://christianheilmann.com/2021/01/21/geocities-and-neopets-didnt-teach-us-html-and-css/)
 
 - [Encrypted Secrets with NixOS](https://christine.website/blog/nixos-encrypted-secrets-2021-01-20)
 
-- [Running Racket CS on iOS](https://defn.io/2021/01/19/racket-cs-on-ios/)
+- [How We Ported Linux to the M1](https://corellium.com/blog/linux-m1)
 
-- [Rust GUI: Introduction, a.k.a. the state of Rust GUI libraries (As of January 2021)](https://dev.to/davidedelpapa/rust-gui-introduction-a-k-a-the-state-of-rust-gui-libraries-as-of-january-2021-40gl)
+- [Basic Scripting with Awk and Gnuplot](https://cyberchris.xyz/posts/awk-and-gnuplot/)
 
-- [godocs.io is now available](https://drewdevault.com/2020/12/18/godocs.io.html)
+- [Predicting Hard Drive Failure with Machine Learning](https://datto.engineering/post/predicting-hard-drive-failure-with-machine-learning)
 
-- [Fediverse in 2020](https://fediverse.party/en/post/fediverse-in-2020)
+- [On the complexity of JSON serialization](https://einarwh.wordpress.com/2020/05/08/on-the-complexity-of-json-serialization/)
 
-- [A dwm build with preprocessor directives to decide which patches to include during build time](https://github.com/bakkeby/dwm-flexipatch)
+- [FunkWhale: Decentralized Music Server](https://funkwhale.audio/en_US/)
 
-- [Parse HTML at the command line](https://github.com/ericchiang/pup)
+- [How do you tag a jellyfish? (2017)](https://futureoftheocean.wordpress.com/2017/08/01/how-do-you-tag-a-jellyfish/)
 
-- [proposal: add native support for programming persistent memory in Go](https://github.com/golang/go/issues/43810)
+- [An Unusual Performance Optimization](https://gettalong.org/blog/2021/an-unusual-performance-optimization.html)
 
-- [Distributed search engines using BitTorrent and SQLite](https://github.com/lmatteis/torrent-net)
+- [ascii-crc](https://git.envs.net/mpech/ascii-crc)
+
+- [Rust for Windows](https://github.com/microsoft/windows-rs)
+
+- [Toolz: A functional standard library for Python](https://github.com/pytoolz/toolz)
 
 - [Open source Alfred alternative](https://github.com/spotter-application/spotter)
 
-- [Dumbdown - the dumb alternative to markdown, is now a real project](https://github.com/treenotation/dumbdown)
+- [xmake v2.5.1 released, Support for Apple Silicon and more powerful package management](https://github.com/xmake-io/xmake/wiki/xmake-v2.5.1-released,-Support-for-Apple-Silicon-and-more-powerful--package-management)
 
-- [Porting Firefox to Apple Silicon](https://hacks.mozilla.org/2021/01/porting-firefox-to-apple-silicon/)
+- [What is good and bad about the F-35 cockpit](https://hushkit.net/2021/01/21/what-is-good-and-bad-about-the-f-35-cockpit-a-panthers-pilots-guide-to-modern-cockpits/)
 
-- [Finding the Words to Say: Hidden State Visualizations for Language Models](https://jalammar.github.io/hidden-states/)
+- [XTerm does graphics! (sort of)](https://jirkasnotes.wordpress.com/2019/07/17/xterm-does-graphics-sort-of/)
 
-- [When costs are nonlinear, keep it small](https://jessitron.com/2021/01/18/when-costs-are-nonlinear-keep-it-small/)
+- [DDoS-Guard to forfeit internet space occupied by Parler](https://krebsonsecurity.com/2021/01/ddos-guard-to-forfeit-internet-space-occupied-by-parler/)
 
-- [Why am I wasting time on EndBASIC?](https://jmmv.dev/2021/01/why-endbasic.html)
+- [The database servers powering Let's Encrypt](https://letsencrypt.org/2021/01/21/next-gen-database-servers.html)
 
-- [Flow-Based Programming](https://jpaulm.github.io/fbp/index.html)
+- [Installing Debian on modern hardware](https://lwn.net/SubscriberLink/843172/21340b641eaa0f62/)
 
-- [The Lakota: A Human Story](https://kirkcenter.org/reviews/the-lakota-as-a-human-story/)
+- [Social Networking Ecosystem Review](https://matrix.org/_matrix/media/r0/download/twitter.modular.im/981b258141aa0b197804127cd2f7d298757bad20)
 
-- [FedEx shipping damage creates fractured artworks](https://kottke.org/21/01/fedex-shipping-damage-creates-fractured-artworks)
+- [Show HN: Pluto – In-browser spatial video chat](https://pluto.video)
 
-- [Lenna's Inception  » Postmortem](https://lennasinception.com/postmortem/)
+- [Relationship Hero (YC S17) Is Hiring Coaches – Full Time Remote](https://relationshiphero.com/careers?role=coach)
 
-- [Fennel 0.8.0 released](https://lists.sr.ht/~technomancy/fennel/%3C878s8px0sl.fsf%40whirlwind%3E)
+- [How I use Pandoc to create programming eBooks](https://scastiel.dev/posts/2021-01-21-how-i-use-pandoc-to-create-my-programming-ebooks/)
 
-- [Color or Fruit? On the Unlikely Etymology of “Orange”](https://lithub.com/color-or-fruit-on-the-unlikely-etymology-of-orange/)
+- [Why isn't differential dataflow more popular?](https://scattered-thoughts.net/writing/why-isnt-differential-dataflow-more-popular/)
 
-- [Installing Debian on Modern Hardware](https://lwn.net/SubscriberLink/843172/21340b641eaa0f62/)
-
-- [Select a muscle and it provides the exercises to workout the selected muscle](https://musclewiki.com/)
-
-- [Life of a Netflix Partner Engineer – The case of the extra 40 ms](https://netflixtechblog.com/life-of-a-netflix-partner-engineer-the-case-of-extra-40-ms-b4c2dd278513)
-
-- [Vertical farms grow veggies on site at restaurants and grocery stores](https://newatlas.com/good-thinking/vertical-field-urban-farm-geoponics/)
-
-- [Choosing Haskell isn’t a stand-in for good software design](https://ozataman.medium.com/choosing-haskell-isnt-a-stand-in-for-good-software-design-7d893882f963)
-
-- [Python 3's F-Strings: An Improved String Formatting Syntax](https://realpython.com/python-f-strings/)
-
-- [Rust in Production: 1Password](https://serokell.io/blog/rust-in-production-1password)
+- [SecureDrop: Share and accept documents securely](https://securedrop.org/)
 
 - [Please Stop Encrypting with RSA Directly](https://soatok.blog/2021/01/20/please-stop-encrypting-with-rsa-directly/)
 
-- [Solar2D Game Engine](https://solar2d.com/)
+- [Show HN: A dead code killer for Erlang](https://tech.nextroll.com/blog/dev/2021/01/06/erlang-rebar3-hank.html)
 
-- [Privacy Comparison of Web Browsers](https://spyware.neocities.org/articles/browsers.html)
+- [Retiring Tucows Downloads](https://tucows.com/retired/)
 
-- [Tailscale on NixOS: A New Minecraft Server in Ten Minutes](https://tailscale.com/blog/nixos-minecraft/)
+- [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/index.html)
 
-- [Star Wars PDP-11/45](https://toobnix.org/videos/watch/1c110cea-7605-4411-8415-23c35c6c4edf)
+- [MultiLogo: A Study of Children and Concurrent Programming (1990)](https://web.media.mit.edu/~mres/papers/MultiLogo/MultiLogo.html)
 
-- [Show HN: Beeper – All Your Chats in One App](https://www.beeperhq.com/?hn)
+- [Tcl/Tk 8.6.11](https://wiki.tcl-lang.org/page/Changes+in+Tcl%2FTk+8%2E6%2E11)
 
-- [Periodical cicada Brood X will emerge in 15 states in 2021](https://www.cicadamania.com/cicadas/category/types/magicicada/)
+- [New Intel CEO rehiring retired CPU architects](https://www.anandtech.com/show/16438/new-intel-ceo-making-waves-rehiring-retired-cpu-architects)
 
-- [Watchy Pebble-like Smartwatch with E-paper display, ESP32 processor launched for $45](https://www.cnx-software.com/2021/01/19/watchy-pebble-like-smartwatch-with-e-paper-display-esp32-processor/)
+- [Valetudo is a cloud-free web interface for robot vacuum cleaners](https://www.cnx-software.com/2021/01/20/valetudo-is-a-cloud-free-web-interface-for-robot-vacuum-cleaners/)
 
-- [Inside California’s colossal container-ship traffic jam](https://www.freightwaves.com/news/inside-californias-colossal-container-ship-traffic-jam/)
+- [Over 700k paintings from the Rijksmuseum online copyright free](https://www.ianvisits.co.uk/blog/2021/01/21/over-700000-paintings-from-the-rijksmuseum-online-copyright-free/)
 
-- [Don’t think, just defunctionalize](https://www.joachim-breitner.de/blog/778-Don’t_think,_just_defunctionalize)
+- [What my retraction taught me](https://www.nature.com/articles/d41586-021-00073-4)
 
-- [Show HN: A mindfulness based social network designed to be checked once a week](https://www.sundayy.app/)
+- [DeLorean considering all-electric reboot](https://www.newdelorean.com/nhtsa-releases-final-low-volume-manufacturing-rules/)
 
-- ['Too negative ': Welsh seaside images (1979)](https://www.theguardian.com/artanddesign/gallery/2021/jan/19/welsh-seaside-images-controversy-michael-bennett-in-pictures)
+- [Judge refuses to reinstate Parler after Amazon shut it down](https://www.npr.org/2021/01/21/956486352/judge-refuses-to-reinstate-parler-after-amazon-shut-it-down)
 
-- [Ultraleap – tactile sensations projected onto your hands](https://www.ultraleap.com/haptics/#how-it-works)
+- [Meet Raspberry Silicon: Raspberry Pi Pico now on sale at $4](https://www.raspberrypi.org/blog/raspberry-pi-silicon-pico-now-on-sale/)
 
-- [Show HN: I built an online interactive course that helps you learn Vim faster](https://www.vim.so)
-
-- [How religion shaped modern economics](https://www.wsj.com/articles/how-religion-shaped-modern-economics-11610643698)
+- [W3C releases first draft of WCAG 3.0](https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/)
