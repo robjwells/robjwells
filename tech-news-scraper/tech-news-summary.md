@@ -1,99 +1,105 @@
-- [Unlocking LUKS2 Volumes with TPM2, FIDO2, PKCS#11 Security HW on Systemd 248](http://0pointer.net/blog/unlocking-luks2-volumes-with-tpm2-fido2-pkcs11-security-hardware-on-systemd-248.html)
+- [Auto-Redistrict – automatically creates electoral districts](http://autoredistrict.org/)
 
-- [Bertrand Might: Life, legacy and next steps](http://bertrand.might.net/)
+- [The Fundamental Mechanism of Scaling](http://brooker.co.za/blog/2021/01/22/cloud-scale.html)
 
-- [Monarch butterfly population moves closer to extinction](https://abcnews.go.com/Technology/wireStory/monarch-butterfly-population-moves-closer-extinction-75351089)
+- [The Analog Computer Inside Prime Minister](http://www.insidegmt.com/2021/01/the-analog-computer-inside-prime-minister/)
 
-- [Still alive](https://astralcodexten.substack.com/p/still-alive)
+- [Booting Windows XP, Or Not](http://www.os2museum.com/wp/booting-windows-xp-or-not/)
 
-- [AWS announces forks of Elasticsearch and Kibana](https://aws.amazon.com/blogs/opensource/stepping-up-for-a-truly-open-source-elasticsearch)
+- [Who Will Control the Software That Powers the Internet?](https://a16z.com/2021/01/14/internet-control-crypto-decentralization-community-owned-operated-networks/)
+
+- [AWS blog: Stepping up for a truly open source Elasticsearch](https://aws.amazon.com/blogs/opensource/stepping-up-for-a-truly-open-source-elasticsearch/)
 
 - [A Tour of Go 1.16's io/fs package](https://benjamincongdon.me/blog/2021/01/21/A-Tour-of-Go-116s-iofs-package/)
 
-- [Bitwarden releases “emergency access” feature](https://bitwarden.com/help/article/releasenotes/#2021-01-19)
+- [“Halt and Catch Fire” Syllabus](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/)
 
-- [VSCode, Dev Containers and Docker](https://blog.feabhas.com/2021/01/vscode-dev-containers-and-docker-moving-software-development-forward/)
-
-- [Google's Project Loon is shutting down](https://blog.x.company/loons-final-flight-e9d699123a96?gi=b913b3d1667e)
-
-- [QSCM - A tiny bootstrapped Scheme](https://c9x.me/qscm/)
-
-- [We may Soon have City-Spanning 900 HMz Mesh Networks](https://cheapskatesguide.org/articles/900mhz-mesh.html/)
-
-- [Geocities and Neopets didn’t teach us HTML and CSS](https://christianheilmann.com/2021/01/21/geocities-and-neopets-didnt-teach-us-html-and-css/)
-
-- [Encrypted Secrets with NixOS](https://christine.website/blog/nixos-encrypted-secrets-2021-01-20)
+- [Category Theory Illustrated - Monoids](https://boris-marinov.github.io/category-theory-illustrated/03_monoid/)
 
 - [How We Ported Linux to the M1](https://corellium.com/blog/linux-m1)
 
-- [Basic Scripting with Awk and Gnuplot](https://cyberchris.xyz/posts/awk-and-gnuplot/)
+- [The Secure Messaging App Conundrum: Signal vs. Telegram (a comparisson for non experts)](https://cqi.inf.usi.ch/publications/telegram_vs_signal.pdf)
 
-- [Predicting Hard Drive Failure with Machine Learning](https://datto.engineering/post/predicting-hard-drive-failure-with-machine-learning)
+- [Wehe – Check Your ISP for Net Neutrality Violations](https://dd.meddle.mobi/)
 
-- [On the complexity of JSON serialization](https://einarwh.wordpress.com/2020/05/08/on-the-complexity-of-json-serialization/)
+- [Don't DRY, CARE](https://dev.to/jwoudenberg/don-t-dry-care-3he9)
 
-- [FunkWhale: Decentralized Music Server](https://funkwhale.audio/en_US/)
+- [Can we talk about client-side certificates?](https://drewdevault.com/2020/06/12/Can-we-talk-about-client-side-certs.html)
 
-- [How do you tag a jellyfish? (2017)](https://futureoftheocean.wordpress.com/2017/08/01/how-do-you-tag-a-jellyfish/)
+- [Simhashing (hopefully) made simple](https://ferd.ca/simhashing-hopefully-made-simple.html)
 
-- [An Unusual Performance Optimization](https://gettalong.org/blog/2021/an-unusual-performance-optimization.html)
+- [Tencent is acquiring a majority stake in Klei Entertainment](https://forums.kleientertainment.com/forums/topic/126355-studio-announcement/)
 
-- [ascii-crc](https://git.envs.net/mpech/ascii-crc)
+- [Access Control for GitHub Pages](https://github.blog/changelog/2021-01-21-access-control-for-github-pages/)
 
-- [Rust for Windows](https://github.com/microsoft/windows-rs)
+- [fe - A tiny, embeddable language implemented in ANSI C in less than 800 sloc](https://github.com/rxi/fe)
 
-- [Toolz: A functional standard library for Python](https://github.com/pytoolz/toolz)
+- [tio, A simple TTY terminal I/O application](https://github.com/tio/tio)
 
-- [Open source Alfred alternative](https://github.com/spotter-application/spotter)
+- [Remembering Windows 3.1 themes and user empowerment](https://hisham.hm/2019/07/26/remembering-windows-31-themes-and-user-empowerment/)
 
-- [xmake v2.5.1 released, Support for Apple Silicon and more powerful package management](https://github.com/xmake-io/xmake/wiki/xmake-v2.5.1-released,-Support-for-Apple-Silicon-and-more-powerful--package-management)
+- [The right way to turn off your old APIs](https://httptoolkit.tech/blog/how-to-turn-off-your-old-apis/)
 
-- [What is good and bad about the F-35 cockpit](https://hushkit.net/2021/01/21/what-is-good-and-bad-about-the-f-35-cockpit-a-panthers-pilots-guide-to-modern-cockpits/)
+- [Show HN: Iconduck – 100k open source icons, downloadable and searchable](https://iconduck.com/)
 
-- [XTerm does graphics! (sort of)](https://jirkasnotes.wordpress.com/2019/07/17/xterm-does-graphics-sort-of/)
+- [Jerry, Inc. (YC S17) Is Hiring for Engineering and Product (All Levels)](https://jerry.ai/careers)
 
-- [DDoS-Guard to forfeit internet space occupied by Parler](https://krebsonsecurity.com/2021/01/ddos-guard-to-forfeit-internet-space-occupied-by-parler/)
+- [The Next Gen Database Servers Powering Let's Encrypt](https://letsencrypt.org/2021/01/21/next-gen-database-servers.html)
 
-- [The database servers powering Let's Encrypt](https://letsencrypt.org/2021/01/21/next-gen-database-servers.html)
+- [Writing a Simple Garbage Collector in C (2020)](https://maplant.com/gc.html)
 
-- [Installing Debian on modern hardware](https://lwn.net/SubscriberLink/843172/21340b641eaa0f62/)
+- [A brief insight into the complexities of creating a new capability at the BBC](https://medium.com/bbc-design-engineering/a-brief-insight-into-the-complexities-of-creating-a-new-capability-at-the-bbc-b52c464ed7ee)
 
-- [Social Networking Ecosystem Review](https://matrix.org/_matrix/media/r0/download/twitter.modular.im/981b258141aa0b197804127cd2f7d298757bad20)
+- [KindleDrip — From Your Kindle’s Email Address to Using Your Credit Card](https://medium.com/realmodelabs/kindledrip-from-your-kindles-email-address-to-using-your-credit-card-bb93dbfb2a08)
 
-- [Show HN: Pluto – In-browser spatial video chat](https://pluto.video)
+- [Oversight Board accepts case on Trump's indefinite suspension from Facebook](https://oversightboard.com/news/236821561313092-oversight-board-accepts-case-on-former-us-president-trump-s-indefinite-suspension-from-facebook-and-instagram/)
 
-- [Relationship Hero (YC S17) Is Hiring Coaches – Full Time Remote](https://relationshiphero.com/careers?role=coach)
+- [Dissecting the Apple M1 GPU, Part II](https://rosenzweig.io/blog/asahi-gpu-part-2.html)
 
-- [How I use Pandoc to create programming eBooks](https://scastiel.dev/posts/2021-01-21-how-i-use-pandoc-to-create-my-programming-ebooks/)
+- [Show HN: Rysolv – Fix open source issues, get paid](https://rysolv.com/issues)
 
 - [Why isn't differential dataflow more popular?](https://scattered-thoughts.net/writing/why-isnt-differential-dataflow-more-popular/)
 
-- [SecureDrop: Share and accept documents securely](https://securedrop.org/)
+- [freshermeat: An open source software directory and release tracker](https://sr.ht/~cedric/freshermeat/)
 
-- [Please Stop Encrypting with RSA Directly](https://soatok.blog/2021/01/20/please-stop-encrypting-with-rsa-directly/)
+- [How hard should I push myself?](https://superorganizers.every.to/p/how-hard-should-i-push-myself)
 
-- [Show HN: A dead code killer for Erlang](https://tech.nextroll.com/blog/dev/2021/01/06/erlang-rebar3-hank.html)
+- [One hull crack located in ISS, another one suspected](https://tass.com/science/1247847)
 
-- [Retiring Tucows Downloads](https://tucows.com/retired/)
+- [.NET GC Internals mini-series](https://tooslowexception.com/net-gc-internals-mini-series/)
 
-- [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/index.html)
+- [Facebook deactivated account after it advocated decentralized social networks](https://twitter.com/lincolncannon/status/1352655954882379776)
 
-- [MultiLogo: A Study of Children and Concurrent Programming (1990)](https://web.media.mit.edu/~mres/papers/MultiLogo/MultiLogo.html)
+- [Open Source is Discrimination](https://writing.kemitchell.com/2021/01/21/Open-Source-Discrimination.html)
 
-- [Tcl/Tk 8.6.11](https://wiki.tcl-lang.org/page/Changes+in+Tcl%2FTk+8%2E6%2E11)
+- [New six-film series from Adam Curtis](https://www.bbc.com/mediacentre/2021/cgyoomh)
 
-- [New Intel CEO rehiring retired CPU architects](https://www.anandtech.com/show/16438/new-intel-ceo-making-waves-rehiring-retired-cpu-architects)
+- [Climate change: US emissions in 2020 in biggest fall since WWII](https://www.bbc.com/news/science-environment-55632050)
 
-- [Valetudo is a cloud-free web interface for robot vacuum cleaners](https://www.cnx-software.com/2021/01/20/valetudo-is-a-cloud-free-web-interface-for-robot-vacuum-cleaners/)
+- [Libvirt: Adoption of GLib library to replace GNULIB and home grown code](https://www.berrange.com/posts/2020/01/30/libvirt-adoption-of-glib-library-to-replace-gnulib-home-grown-code/)
 
-- [Over 700k paintings from the Rijksmuseum online copyright free](https://www.ianvisits.co.uk/blog/2021/01/21/over-700000-paintings-from-the-rijksmuseum-online-copyright-free/)
+- [Patricia Highsmith was an enduring writer](https://www.economist.com/books-and-arts/2021/01/20/a-poisonous-person-patricia-highsmith-was-an-enduring-writer)
 
-- [What my retraction taught me](https://www.nature.com/articles/d41586-021-00073-4)
+- [Chipmaking Is Being Redesigned](https://www.economist.com/business/2021/01/23/chipmaking-is-being-redesigned-effects-will-be-far-reaching)
 
-- [DeLorean considering all-electric reboot](https://www.newdelorean.com/nhtsa-releases-final-low-volume-manufacturing-rules/)
+- [Brad Cox has died](https://www.legacy.com/us/obituaries/scnow/name/brad-cox-obituary?pid=197454225)
 
-- [Judge refuses to reinstate Parler after Amazon shut it down](https://www.npr.org/2021/01/21/956486352/judge-refuses-to-reinstate-parler-after-amazon-shut-it-down)
+- [Show HN: I built Multy – Generate a short URL to share a list of websites](https://www.multy.me/)
 
-- [Meet Raspberry Silicon: Raspberry Pi Pico now on sale at $4](https://www.raspberrypi.org/blog/raspberry-pi-silicon-pico-now-on-sale/)
+- [PostgreSQL on ARM-Based AWS EC2 Instances](https://www.percona.com/blog/2021/01/22/postgresql-on-arm-based-aws-ec2-instances-is-it-any-good/)
 
-- [W3C releases first draft of WCAG 3.0](https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/)
+- [Pidgin – A Universal Chat Client](https://www.pidgin.im/plugins)
+
+- [Why I’ve tracked every single piece of clothing I’ve worn for three years](https://www.reaktor.com/blog/why-ive-tracked-every-single-piece-of-clothing-ive-worn-for-three-years/)
+
+- [ClippyJS - Add Clippy or his friends to any website for instant nostalgia](https://www.smore.com/clippy-js)
+
+- [Wild lynx could be reintroduced into Scottish Highlands](https://www.theguardian.com/environment/2021/jan/20/wild-lynx-could-be-reintroduced-into-scottish-highlands)
+
+- [Electric vehicles close to ‘tipping point’ of mass adoption](https://www.theguardian.com/environment/2021/jan/22/electric-vehicles-close-to-tipping-point-of-mass-adoption)
+
+- [Atomic resolution video of salt crystals forming in real time](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00161.html)
+
+- [Bluetooth Attack Can Steal a Tesla Model X in Minutes](https://www.wired.com/story/tesla-model-x-hack-bluetooth/)
+
+- [Rebuilding the spellchecker, pt.4: Introduction to suggest algorithm](https://zverok.github.io/blog/2021-01-21-spellchecker-4.html)
