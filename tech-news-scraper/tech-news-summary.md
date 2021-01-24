@@ -1,105 +1,103 @@
-- [Auto-Redistrict – automatically creates electoral districts](http://autoredistrict.org/)
+- [2 times 3 can sometimes equal 7 with Android's Neural Network API](http://alexanderganderson.github.io/engineering/2021/01/23/integer_indeterminism.html)
 
-- [The Fundamental Mechanism of Scaling](http://brooker.co.za/blog/2021/01/22/cloud-scale.html)
+- [On the Dangers of Stochastic Parrots:Can Language Models Be Too Big?](http://faculty.washington.edu/ebender/papers/Stochastic_Parrots.pdf)
 
-- [The Analog Computer Inside Prime Minister](http://www.insidegmt.com/2021/01/the-analog-computer-inside-prime-minister/)
+- [Perceived relations between Gopher, Gemini, and HTTP](http://len.falken.ink/web/perceived-relations-between-gopher-gemini-and-http.txt)
 
-- [Booting Windows XP, Or Not](http://www.os2museum.com/wp/booting-windows-xp-or-not/)
+- [Examining a technology sample kit: IBM components from 1948 to 1986](http://www.righto.com/2021/01/examining-technology-sample-kit-ibm.html)
 
-- [Who Will Control the Software That Powers the Internet?](https://a16z.com/2021/01/14/internet-control-crypto-decentralization-community-owned-operated-networks/)
+- [Replicating GPT-2 at Home](https://bkkaggle.github.io/blog/algpt2/2020/07/17/ALGPT2-part-2.html)
 
-- [AWS blog: Stepping up for a truly open source Elasticsearch](https://aws.amazon.com/blogs/opensource/stepping-up-for-a-truly-open-source-elasticsearch/)
+- [I bought 200 Raspberry Pi Model B’s and I’m going to fix them](https://blog.jmdawson.co.uk/i-bought-200-raspberry-pi-model-bs-and-im-going-to-fix-them-part-1/)
 
-- [A Tour of Go 1.16's io/fs package](https://benjamincongdon.me/blog/2021/01/21/A-Tour-of-Go-116s-iofs-package/)
+- [TLB and Pagewalk Coherence in x86 Processors (2015)](https://blog.stuffedcow.net/2015/08/pagewalk-coherence/)
 
-- [“Halt and Catch Fire” Syllabus](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/)
+- [Making Win32 APIs More Accessible to More Languages](https://blogs.windows.com/windowsdeveloper/2021/01/21/making-win32-apis-more-accessible-to-more-languages/)
+
+- [Google has turned off access to sync features for Chromium](https://bodhi.fedoraproject.org/updates/FEDORA-2021-48866282e5)
 
 - [Category Theory Illustrated - Monoids](https://boris-marinov.github.io/category-theory-illustrated/03_monoid/)
 
-- [How We Ported Linux to the M1](https://corellium.com/blog/linux-m1)
+- [But how, exactly, databases use mmap?](https://brunocalza.me/but-how-exactly-databases-use-mmap/)
 
-- [The Secure Messaging App Conundrum: Signal vs. Telegram (a comparisson for non experts)](https://cqi.inf.usi.ch/publications/telegram_vs_signal.pdf)
+- [Software engineering topics I changed my mind on](https://chriskiehl.com/article/thoughts-after-6-years)
 
-- [Wehe – Check Your ISP for Net Neutrality Violations](https://dd.meddle.mobi/)
+- [Quite the reMarkable Device](https://figbert.com/posts/remarkable-tablet/)
 
-- [Don't DRY, CARE](https://dev.to/jwoudenberg/don-t-dry-care-3he9)
+- [Show HN: Filmulator – a streamlined, open-source raw photo editor](https://filmulator.org/v0-11-0/)
 
-- [Can we talk about client-side certificates?](https://drewdevault.com/2020/06/12/Can-we-talk-about-client-side-certs.html)
+- [Incompatible Timesharing System](https://github.com/PDP-10/its)
 
-- [Simhashing (hopefully) made simple](https://ferd.ca/simhashing-hopefully-made-simple.html)
+- [Tree – a lib for working with nested data structures, open-sourced by deepmind](https://github.com/deepmind/tree)
 
-- [Tencent is acquiring a majority stake in Klei Entertainment](https://forums.kleientertainment.com/forums/topic/126355-studio-announcement/)
+- [AXPbox 1.0.0 released - open source Alpha emulator](https://github.com/lenticularis39/axpbox/releases/tag/v1.0.0)
 
-- [Access Control for GitHub Pages](https://github.blog/changelog/2021-01-21-access-control-for-github-pages/)
+- [pfSense is Closed Source (2017)](https://github.com/rapi3/pfsense-is-closed-source)
 
 - [fe - A tiny, embeddable language implemented in ANSI C in less than 800 sloc](https://github.com/rxi/fe)
 
-- [tio, A simple TTY terminal I/O application](https://github.com/tio/tio)
+- [lite - A lightweight text editor written in Lua](https://github.com/rxi/lite)
 
-- [Remembering Windows 3.1 themes and user empowerment](https://hisham.hm/2019/07/26/remembering-windows-31-themes-and-user-empowerment/)
+- [Deploy full fledged K3s private clusters with Terraform](https://github.com/sagittaros/terraform-k3s-private-cloud)
 
-- [The right way to turn off your old APIs](https://httptoolkit.tech/blog/how-to-turn-off-your-old-apis/)
+- [Visual Sentence Composer for Japanese](https://japanesecomplete.com/visual-composer)
 
-- [Show HN: Iconduck – 100k open source icons, downloadable and searchable](https://iconduck.com/)
+- [Firecracker: start a VM in less than a second](https://jvns.ca/blog/2021/01/23/firecracker--start-a-vm-in-less-than-a-second/)
 
-- [Jerry, Inc. (YC S17) Is Hiring for Engineering and Product (All Levels)](https://jerry.ai/careers)
+- [Plotting Graphs from CSV Files in F# Using XPlot](https://markjames.dev/2021-01-23-plotting-csv-files-fsharp/)
 
-- [The Next Gen Database Servers Powering Let's Encrypt](https://letsencrypt.org/2021/01/21/next-gen-database-servers.html)
+- [MkLinux](https://mklinux.org/)
 
-- [Writing a Simple Garbage Collector in C (2020)](https://maplant.com/gc.html)
+- [Why Working from Home Will Stick [pdf]](https://nbloom.people.stanford.edu/sites/g/files/sbiybj4746/f/why_wfh_stick1_0.pdf)
 
-- [A brief insight into the complexities of creating a new capability at the BBC](https://medium.com/bbc-design-engineering/a-brief-insight-into-the-complexities-of-creating-a-new-capability-at-the-bbc-b52c464ed7ee)
+- [When Historical Fiction Is a Crime (2020)](https://newrepublic.com/article/160719/historical-fiction-crime-ahmet-altan-turkey)
 
-- [KindleDrip — From Your Kindle’s Email Address to Using Your Credit Card](https://medium.com/realmodelabs/kindledrip-from-your-kindles-email-address-to-using-your-credit-card-bb93dbfb2a08)
+- [No one knows how much the government can borrow](https://noahpinion.substack.com/p/no-one-knows-how-much-the-government)
 
-- [Oversight Board accepts case on Trump's indefinite suspension from Facebook](https://oversightboard.com/news/236821561313092-oversight-board-accepts-case-on-former-us-president-trump-s-indefinite-suspension-from-facebook-and-instagram/)
+- [Does Your Code Pass The Turkey Test? (JS Edition)](https://onurgumus.github.io/2021/01/23/Does-your-code-pass-the-Turkey-test.html)
 
-- [Dissecting the Apple M1 GPU, Part II](https://rosenzweig.io/blog/asahi-gpu-part-2.html)
+- [Whitehouse.gov Chooses WordPress, Again](https://pagely.com/blog/whitehouse-gov-chooses-wordpress-again/)
 
-- [Show HN: Rysolv – Fix open source issues, get paid](https://rysolv.com/issues)
+- [DrScheme in Space](https://parentheticallyspeaking.org/articles/drscheme-in-space/)
 
-- [Why isn't differential dataflow more popular?](https://scattered-thoughts.net/writing/why-isnt-differential-dataflow-more-popular/)
+- [Pip has dropped support for Python 2](https://pip.pypa.io/en/stable/news/#id1)
 
-- [freshermeat: An open source software directory and release tracker](https://sr.ht/~cedric/freshermeat/)
+- [Site.js: Small Web construction set](https://sitejs.org/)
 
-- [How hard should I push myself?](https://superorganizers.every.to/p/how-hard-should-i-push-myself)
+- [Emails a browser extension developer gets from scammers](https://sponsor.ajay.app/emails/)
 
-- [One hull crack located in ISS, another one suspected](https://tass.com/science/1247847)
+- [ijq: Interactive jq](https://sr.ht/~gpanders/ijq/)
 
-- [.NET GC Internals mini-series](https://tooslowexception.com/net-gc-internals-mini-series/)
+- [Getting Started with ECP5 FPGAs on the Colorlight i5 FPGA Development Board](https://tomverbeure.github.io/2021/01/22/The-Colorlight-i5-as-FPGA-development-board.html)
 
-- [Facebook deactivated account after it advocated decentralized social networks](https://twitter.com/lincolncannon/status/1352655954882379776)
+- [This TRS-80: Model 100s and the Associated Press](https://wayne.lorentz.me/This_TRS-80/)
 
-- [Open Source is Discrimination](https://writing.kemitchell.com/2021/01/21/Open-Source-Discrimination.html)
+- [Malware found on laptops given out by government](https://www.bbc.com/news/technology-55749959)
 
-- [New six-film series from Adam Curtis](https://www.bbc.com/mediacentre/2021/cgyoomh)
+- [Curve.fi is hiring Python (Vyper) dev and QA (py.test). Math knowledge is and+](https://www.curve.fi/careers)
 
-- [Climate change: US emissions in 2020 in biggest fall since WWII](https://www.bbc.com/news/science-environment-55632050)
+- [How to Pass a Variadic Pack as a First Argument of a Function in C++](https://www.fluentcpp.com/2021/01/22/how-to-pass-a-variadic-pack-as-a-first-argument-of-a-function-in-cpp/)
 
-- [Libvirt: Adoption of GLib library to replace GNULIB and home grown code](https://www.berrange.com/posts/2020/01/30/libvirt-adoption-of-glib-library-to-replace-gnulib-home-grown-code/)
+- [Cryptocurreny crime is way ahead of regulators and law enforcement](https://www.fnlondon.com/articles/nouriel-roubini-the-great-crypto-heist-20190719)
 
-- [Patricia Highsmith was an enduring writer](https://www.economist.com/books-and-arts/2021/01/20/a-poisonous-person-patricia-highsmith-was-an-enduring-writer)
+- [S3P - Massively Parallel S3 Copying](https://www.genui.com/open-source/s3p-massively-parallel-s3-copying)
 
-- [Chipmaking Is Being Redesigned](https://www.economist.com/business/2021/01/23/chipmaking-is-being-redesigned-effects-will-be-far-reaching)
+- [Brad Cox (creator of Objective-C) has died](https://www.legacy.com/us/obituaries/scnow/name/brad-cox-obituary?pid=197454225)
 
-- [Brad Cox has died](https://www.legacy.com/us/obituaries/scnow/name/brad-cox-obituary?pid=197454225)
+- [The Art of the Reverse Knit](https://www.nytimes.com/2021/01/22/style/reverse-knitting-pattern-mittens.html)
 
-- [Show HN: I built Multy – Generate a short URL to share a list of websites](https://www.multy.me/)
+- [Uber Lays off Postmates Founder/CEO, 180 others](https://www.nytimes.com/2021/01/23/technology/uber-postmates-layoffs.html)
 
-- [PostgreSQL on ARM-Based AWS EC2 Instances](https://www.percona.com/blog/2021/01/22/postgresql-on-arm-based-aws-ec2-instances-is-it-any-good/)
+- [PostgreSQL on ARM-based AWS EC2 Instances: Is It Any Good?](https://www.percona.com/blog/2021/01/22/postgresql-on-arm-based-aws-ec2-instances-is-it-any-good/)
 
-- [Pidgin – A Universal Chat Client](https://www.pidgin.im/plugins)
+- [Game Design Perspective: Stardew Valley (2020)](https://www.pixelatedplaygrounds.com/sidequests/game-design-perspective-stardew-valley)
 
-- [Why I’ve tracked every single piece of clothing I’ve worn for three years](https://www.reaktor.com/blog/why-ive-tracked-every-single-piece-of-clothing-ive-worn-for-three-years/)
+- [Forever chemicals are widespread in U.S. drinking water](https://www.scientificamerican.com/article/forever-chemicals-are-widespread-in-u-s-drinking-water/)
 
-- [ClippyJS - Add Clippy or his friends to any website for instant nostalgia](https://www.smore.com/clippy-js)
+- [Station M1 - my fastest ARM SBC](https://www.thanassis.space/stationm1.html)
 
-- [Wild lynx could be reintroduced into Scottish Highlands](https://www.theguardian.com/environment/2021/jan/20/wild-lynx-could-be-reintroduced-into-scottish-highlands)
+- [VisualAge for Java 1.0 – Let the Future Begin (1997)](https://www.tug.ca/articles/Volume13/V13N1/V13N1_Jenkins_VisualAge-for-Java.html)
 
-- [Electric vehicles close to ‘tipping point’ of mass adoption](https://www.theguardian.com/environment/2021/jan/22/electric-vehicles-close-to-tipping-point-of-mass-adoption)
+- [How long does a bottle of wine last after it is opened?](https://www.vinography.com/2020/12/how-long-does-a-bottle-of-wine-last-after-it-is-opened)
 
-- [Atomic resolution video of salt crystals forming in real time](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00161.html)
-
-- [Bluetooth Attack Can Steal a Tesla Model X in Minutes](https://www.wired.com/story/tesla-model-x-hack-bluetooth/)
-
-- [Rebuilding the spellchecker, pt.4: Introduction to suggest algorithm](https://zverok.github.io/blog/2021-01-21-spellchecker-4.html)
+- [FBI agents track cell phones that pinged near the Capitol](https://www.wusa9.com/article/features/producers-picks/fbi-tracks-cell-phones-that-were-near-capitol-insurrection-and-riot/65-ca268165-a5c5-46a4-8b88-943a8517343a)
