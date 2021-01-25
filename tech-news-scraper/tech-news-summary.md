@@ -1,103 +1,101 @@
-- [2 times 3 can sometimes equal 7 with Android's Neural Network API](http://alexanderganderson.github.io/engineering/2021/01/23/integer_indeterminism.html)
+- [The No-Order File System (2012)](http://pages.cs.wisc.edu/~vijayc/nofs.htm)
 
-- [On the Dangers of Stochastic Parrots:Can Language Models Be Too Big?](http://faculty.washington.edu/ebender/papers/Stochastic_Parrots.pdf)
+- [Papercraft Models of Computers](http://rockybergen.com/papercraft)
 
-- [Perceived relations between Gopher, Gemini, and HTTP](http://len.falken.ink/web/perceived-relations-between-gopher-gemini-and-http.txt)
+- [Ordering burritos from my SPARC (1992)](http://www.mit.edu/afs.new/sipb/user/marthag/postscript/burritos)
 
-- [Examining a technology sample kit: IBM components from 1948 to 1986](http://www.righto.com/2021/01/examining-technology-sample-kit-ibm.html)
+- [Shell Scripts, Audio, Images, and 3D Graphics](http://www.oilshell.org/blog/2021/01/audio-and-graphics.html)
 
-- [Replicating GPT-2 at Home](https://bkkaggle.github.io/blog/algpt2/2020/07/17/ALGPT2-part-2.html)
+- [Shell Scripts Are Executable Documentation](http://www.oilshell.org/blog/2021/01/shell-doc.html)
 
-- [I bought 200 Raspberry Pi Model B’s and I’m going to fix them](https://blog.jmdawson.co.uk/i-bought-200-raspberry-pi-model-bs-and-im-going-to-fix-them-part-1/)
+- [Show HN: CVservant: CV Creator for Academic Types](https://CVservant.com/)
 
-- [TLB and Pagewalk Coherence in x86 Processors (2015)](https://blog.stuffedcow.net/2015/08/pagewalk-coherence/)
+- [Waymo CEO dismisses Tesla self-driving plan: “This is not how it works”](https://arstechnica.com/cars/2021/01/waymo-ceo-tesla-is-not-a-competitor-at-all/)
 
-- [Making Win32 APIs More Accessible to More Languages](https://blogs.windows.com/windowsdeveloper/2021/01/21/making-win32-apis-more-accessible-to-more-languages/)
+- [Applications of Deep Neural Networks v2 [pdf]](https://arxiv.org/abs/2009.05673)
 
-- [Google has turned off access to sync features for Chromium](https://bodhi.fedoraproject.org/updates/FEDORA-2021-48866282e5)
+- [Japanese companies fight for share of EUV chip technology sector](https://asia.nikkei.com/Business/Electronics/Japanese-companies-fight-for-share-of-EUV-chip-technology-sector)
 
-- [Category Theory Illustrated - Monoids](https://boris-marinov.github.io/category-theory-illustrated/03_monoid/)
+- [Racket Compiler and Runtime Status](https://blog.racket-lang.org/2021/01/racket-status.html)
 
-- [But how, exactly, databases use mmap?](https://brunocalza.me/but-how-exactly-databases-use-mmap/)
+- [The computer revolution hasn’t happened yet (1997)](https://catonmat.net/videos/the-computer-revolution-hasnt-happened-yet)
 
-- [Software engineering topics I changed my mind on](https://chriskiehl.com/article/thoughts-after-6-years)
+- [A More Human Approach To Databases](https://ccorcos.github.io/filing-cabinets/)
+
+- [18.7 Million Americans Vaccinated](https://covidvaxcount.live/)
+
+- [Delta Chat – decentralized chat via email](https://delta.chat/en/)
+
+- [An experiment in teaching a language without relying on translation](https://drdru.github.io/)
+
+- [On the Complexity of JSON Serialization](https://einarwh.wordpress.com/2020/05/08/on-the-complexity-of-json-serialization/)
 
 - [Quite the reMarkable Device](https://figbert.com/posts/remarkable-tablet/)
 
-- [Show HN: Filmulator – a streamlined, open-source raw photo editor](https://filmulator.org/v0-11-0/)
+- [What is the future of databases?](https://filipnikolovski.com/posts/what-is-the-future-of-databases/)
 
-- [Incompatible Timesharing System](https://github.com/PDP-10/its)
+- [Network Performance in the Linux Kernel](https://fosdem.org/2021/schedule/event/network_performance_in_kernel/attachments/slides/4433/export/events/attachments/network_performance_in_kernel/slides/4433/chevallier_network_performance_in_the_linux_kernel.pdf)
 
-- [Tree – a lib for working with nested data structures, open-sourced by deepmind](https://github.com/deepmind/tree)
+- [Framebuffer UI (fbui) in-kernel Linux windowing system](https://github.com/8l/fbui)
 
-- [AXPbox 1.0.0 released - open source Alpha emulator](https://github.com/lenticularis39/axpbox/releases/tag/v1.0.0)
+- [GumTree - A neat code differencing tool](https://github.com/GumTreeDiff/gumtree)
 
-- [pfSense is Closed Source (2017)](https://github.com/rapi3/pfsense-is-closed-source)
+- [Small, strongly typed, embeddable language in Zig](https://github.com/Vexu/bog)
 
-- [fe - A tiny, embeddable language implemented in ANSI C in less than 800 sloc](https://github.com/rxi/fe)
+- [AeroPython: Classical Aerodynamics with Python](https://github.com/barbagroup/AeroPython)
+
+- [Experimental one-shot benchmark framework using Cachegrind](https://github.com/bheisler/iai)
+
+- [ffscreencast – a screencast CLI-tool with video overlay and multimonitor support](https://github.com/cytopia/ffscreencast)
+
+- [Deskreen – Turn any device with a web browser to a second computer screen](https://github.com/pavlobu/deskreen)
 
 - [lite - A lightweight text editor written in Lua](https://github.com/rxi/lite)
 
-- [Deploy full fledged K3s private clusters with Terraform](https://github.com/sagittaros/terraform-k3s-private-cloud)
+- [9p GitHub filesystem written in Go](https://github.com/sirnewton01/ghfs)
 
-- [Visual Sentence Composer for Japanese](https://japanesecomplete.com/visual-composer)
+- [SkiftOS: Simple, handmade operating system for the x86 platform](https://github.com/skiftOS/skift#skiftos)
 
-- [Firecracker: start a VM in less than a second](https://jvns.ca/blog/2021/01/23/firecracker--start-a-vm-in-less-than-a-second/)
+- [Our experience with the Fediverse, and why we left](https://infosec-handbook.eu/news/2020-12-05-leaving-the-fediverse/)
 
-- [Plotting Graphs from CSV Files in F# Using XPlot](https://markjames.dev/2021-01-23-plotting-csv-files-fsharp/)
+- [EndBASIC 0.5 release announcement](https://jmmv.dev/2021/01/endbasic-0.5.html)
 
-- [MkLinux](https://mklinux.org/)
+- [Proof of X](https://julian.digital/2020/08/06/proof-of-x/)
 
-- [Why Working from Home Will Stick [pdf]](https://nbloom.people.stanford.edu/sites/g/files/sbiybj4746/f/why_wfh_stick1_0.pdf)
+- [Krita 4.4.2 Released](https://krita.org/en/item/krita-4-4-2-released/)
 
-- [When Historical Fiction Is a Crime (2020)](https://newrepublic.com/article/160719/historical-fiction-crime-ahmet-altan-turkey)
+- [Hacking Habit Development with iOS Shortcuts](https://kylewill.blog/hacking-habit-development/)
 
-- [No one knows how much the government can borrow](https://noahpinion.substack.com/p/no-one-knows-how-much-the-government)
-
-- [Does Your Code Pass The Turkey Test? (JS Edition)](https://onurgumus.github.io/2021/01/23/Does-your-code-pass-the-Turkey-test.html)
-
-- [Whitehouse.gov Chooses WordPress, Again](https://pagely.com/blog/whitehouse-gov-chooses-wordpress-again/)
-
-- [DrScheme in Space](https://parentheticallyspeaking.org/articles/drscheme-in-space/)
+- [PGM Indexes: Learned indexes that match B-tree performance with 83x less space](https://pgm.di.unipi.it/)
 
 - [Pip has dropped support for Python 2](https://pip.pypa.io/en/stable/news/#id1)
 
-- [Site.js: Small Web construction set](https://sitejs.org/)
+- [Flattery-Driven Open-Source](https://ppinera.es/2021/01/03/flattery-driven-open-source/)
 
-- [Emails a browser extension developer gets from scammers](https://sponsor.ajay.app/emails/)
+- [The RustyHermit Unikernel](https://rust-osdev.com/showcase/rusty-hermit/)
+
+- [Offloading NixOS builds to a faster machine](https://sgt.hootr.club/molten-matter/nix-distributed-builds/)
+
+- [Make Boring Plans](https://skamille.medium.com/make-boring-plans-9438ce5cb053)
+
+- [Sokyokuban a puzzle game in a non-Euclidian world](https://sokyokuban.com/)
 
 - [ijq: Interactive jq](https://sr.ht/~gpanders/ijq/)
 
-- [Getting Started with ECP5 FPGAs on the Colorlight i5 FPGA Development Board](https://tomverbeure.github.io/2021/01/22/The-Colorlight-i5-as-FPGA-development-board.html)
+- [Could giant SPACs be next?](https://techcrunch.com/2021/01/22/is-anything-too-big-to-be-spacd/)
 
-- [This TRS-80: Model 100s and the Associated Press](https://wayne.lorentz.me/This_TRS-80/)
+- [Inlining and Compiler Optimizations](https://wolchok.org/posts/inlining-and-compiler-optimizations)
 
-- [Malware found on laptops given out by government](https://www.bbc.com/news/technology-55749959)
+- [Peering agreements between Backblaze and Cloudflare](https://www.reddit.com/r/backblaze/comments/l2lq42/how_long_will_cloudflare_peering_stay_for/gk6qie0/)
 
-- [Curve.fi is hiring Python (Vyper) dev and QA (py.test). Math knowledge is and+](https://www.curve.fi/careers)
+- [How we improved our website's performance](https://www.smashingmagazine.com/2021/01/smashingmag-performance-case-study/)
 
-- [How to Pass a Variadic Pack as a First Argument of a Function in C++](https://www.fluentcpp.com/2021/01/22/how-to-pass-a-variadic-pack-as-a-first-argument-of-a-function-in-cpp/)
+- [An Oddity In VIM](https://www.solipsys.co.uk/new/AnOddityInVIM.html?UA24lo)
 
-- [Cryptocurreny crime is way ahead of regulators and law enforcement](https://www.fnlondon.com/articles/nouriel-roubini-the-great-crypto-heist-20190719)
+- [Sales of electric cars up by 43% in 2020](https://www.theguardian.com/environment/2021/jan/19/global-sales-of-electric-cars-accelerate-fast-in-2020-despite-covid-pandemic)
 
-- [S3P - Massively Parallel S3 Copying](https://www.genui.com/open-source/s3p-massively-parallel-s3-copying)
+- [WhatsApp loses millions of users after terms update](https://www.theguardian.com/technology/2021/jan/24/whatsapp-loses-millions-of-users-after-terms-update)
 
-- [Brad Cox (creator of Objective-C) has died](https://www.legacy.com/us/obituaries/scnow/name/brad-cox-obituary?pid=197454225)
+- [5nm in the USA: TSMC's Board Approves $3.5B Fab in Arizona](https://www.tomshardware.com/news/tsmc-arizona-fab-investment)
 
-- [The Art of the Reverse Knit](https://www.nytimes.com/2021/01/22/style/reverse-knitting-pattern-mittens.html)
-
-- [Uber Lays off Postmates Founder/CEO, 180 others](https://www.nytimes.com/2021/01/23/technology/uber-postmates-layoffs.html)
-
-- [PostgreSQL on ARM-based AWS EC2 Instances: Is It Any Good?](https://www.percona.com/blog/2021/01/22/postgresql-on-arm-based-aws-ec2-instances-is-it-any-good/)
-
-- [Game Design Perspective: Stardew Valley (2020)](https://www.pixelatedplaygrounds.com/sidequests/game-design-perspective-stardew-valley)
-
-- [Forever chemicals are widespread in U.S. drinking water](https://www.scientificamerican.com/article/forever-chemicals-are-widespread-in-u-s-drinking-water/)
-
-- [Station M1 - my fastest ARM SBC](https://www.thanassis.space/stationm1.html)
-
-- [VisualAge for Java 1.0 – Let the Future Begin (1997)](https://www.tug.ca/articles/Volume13/V13N1/V13N1_Jenkins_VisualAge-for-Java.html)
-
-- [How long does a bottle of wine last after it is opened?](https://www.vinography.com/2020/12/how-long-does-a-bottle-of-wine-last-after-it-is-opened)
-
-- [FBI agents track cell phones that pinged near the Capitol](https://www.wusa9.com/article/features/producers-picks/fbi-tracks-cell-phones-that-were-near-capitol-insurrection-and-riot/65-ca268165-a5c5-46a4-8b88-943a8517343a)
+- [RISC-V Summit 2020 The Next Ten Years | Krste Asanović](https://www.youtube.com/watch?v=lg33UqZ_en0)
