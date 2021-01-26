@@ -1,101 +1,103 @@
-- [The No-Order File System (2012)](http://pages.cs.wisc.edu/~vijayc/nofs.htm)
+- [First atomic clock wristwatch (2003)](http://leapsecond.com/pages/atomic-bill/)
 
-- [Papercraft Models of Computers](http://rockybergen.com/papercraft)
+- [Smashing the Stack for Fun and Profit (1996)](http://phrack.org/archives/issues/49/14.txt)
 
-- [Ordering burritos from my SPARC (1992)](http://www.mit.edu/afs.new/sipb/user/marthag/postscript/burritos)
+- [Pallene: A statically typed companion language for Lua (2018)](http://www.inf.puc-rio.br/~roberto/docs/pallene-sblp.pdf)
 
-- [Shell Scripts, Audio, Images, and 3D Graphics](http://www.oilshell.org/blog/2021/01/audio-and-graphics.html)
+- [Ordering Burritos from my SPARC (1992)](http://www.mit.edu/afs.new/sipb/user/marthag/postscript/burritos)
 
-- [Shell Scripts Are Executable Documentation](http://www.oilshell.org/blog/2021/01/shell-doc.html)
+- [Examining a technology sample kit: IBM components from 1948 to 1986](http://www.righto.com/2021/01/examining-technology-sample-kit-ibm.html)
 
-- [Show HN: CVservant: CV Creator for Academic Types](https://CVservant.com/)
+- [Bundlewrap: First Impressions](https://3fx.ch/blog/2021/01/25/bundlewrap-first-impressions/)
 
-- [Waymo CEO dismisses Tesla self-driving plan: “This is not how it works”](https://arstechnica.com/cars/2021/01/waymo-ceo-tesla-is-not-a-competitor-at-all/)
+- [Myopia treatment 'smart glasses' from Japan to be sold in Asia](https://asia.nikkei.com/Business/Health-Care/Myopia-correcting-smart-glasses-from-Japan-to-be-sold-in-Asia)
 
-- [Applications of Deep Neural Networks v2 [pdf]](https://arxiv.org/abs/2009.05673)
+- [Halt and Catch Fire Syllabus](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/)
 
-- [Japanese companies fight for share of EUV chip technology sector](https://asia.nikkei.com/Business/Electronics/Japanese-companies-fight-for-share-of-EUV-chip-technology-sector)
+- [Command Path Security in Go](https://blog.golang.org/path-security)
 
-- [Racket Compiler and Runtime Status](https://blog.racket-lang.org/2021/01/racket-status.html)
+- [New campaign targeting security researchers](https://blog.google/threat-analysis-group/new-campaign-targeting-security-researchers/)
 
-- [The computer revolution hasn’t happened yet (1997)](https://catonmat.net/videos/the-computer-revolution-hasnt-happened-yet)
+- [The Pyra Handheld Linux PC is Shipping](https://boilingsteam.com/the-pyra-handheld-linux-pc-is-shipping/.)
 
-- [A More Human Approach To Databases](https://ccorcos.github.io/filing-cabinets/)
+- [Collapse OS – bootstrap post-collapse technology](https://collapseos.org/)
 
-- [18.7 Million Americans Vaccinated](https://covidvaxcount.live/)
+- [Programming In Five Easy Pieces](https://danielbmarkham.com/curry-howard-isomorphism/)
 
-- [Delta Chat – decentralized chat via email](https://delta.chat/en/)
+- [Zig Makes Go Cross Compilation Just Work](https://dev.to/kristoff_it/zig-makes-go-cross-compilation-just-work-29ho)
 
-- [An experiment in teaching a language without relying on translation](https://drdru.github.io/)
+- [Elm at Rakuten](https://dev.to/lucamug/elm-6m8)
 
-- [On the Complexity of JSON Serialization](https://einarwh.wordpress.com/2020/05/08/on-the-complexity-of-json-serialization/)
+- [Otokichi](https://en.wikipedia.org/wiki/Otokichi)
 
-- [Quite the reMarkable Device](https://figbert.com/posts/remarkable-tablet/)
+- [Stuff your logs](https://engineering.backtrace.io/2021-01-11-stuff-your-logs/)
 
-- [What is the future of databases?](https://filipnikolovski.com/posts/what-is-the-future-of-databases/)
+- [The high price of mistrust](https://fs.blog/2021/01/mistrust/)
 
-- [Network Performance in the Linux Kernel](https://fosdem.org/2021/schedule/event/network_performance_in_kernel/attachments/slides/4433/export/events/attachments/network_performance_in_kernel/slides/4433/chevallier_network_performance_in_the_linux_kernel.pdf)
+- [Improving how we deploy GitHub](https://github.blog/2021-01-25-improving-how-we-deploy-github/)
 
-- [Framebuffer UI (fbui) in-kernel Linux windowing system](https://github.com/8l/fbui)
+- [JerryScript: lightweight JS engine for IoT](https://github.com/jerryscript-project/jerryscript)
 
-- [GumTree - A neat code differencing tool](https://github.com/GumTreeDiff/gumtree)
+- [awa: Purely functional SSH library in OCaml](https://github.com/mirage/awa-ssh)
 
-- [Small, strongly typed, embeddable language in Zig](https://github.com/Vexu/bog)
+- [Why you should never ever use NixOS (2018)](https://hands-on.cloud/why-you-should-never-ever-use-nixos/)
 
-- [AeroPython: Classical Aerodynamics with Python](https://github.com/barbagroup/AeroPython)
+- [The road ahead for MirageOS in 2021](https://hannes.robur.coop/Posts/NGI)
 
-- [Experimental one-shot benchmark framework using Cachegrind](https://github.com/bheisler/iai)
+- [Future Plans for Autotools](https://lists.gnu.org/archive/html/autoconf/2021-01/msg00049.html)
 
-- [ffscreencast – a screencast CLI-tool with video overlay and multimonitor support](https://github.com/cytopia/ffscreencast)
+- [The endless browser wars](https://lwn.net/SubscriberLink/843607/6c830d9c90684026/)
 
-- [Deskreen – Turn any device with a web browser to a second computer screen](https://github.com/pavlobu/deskreen)
+- [Replacing Dropbox in favor of DigitalOcean spaces](https://mitjafelicijan.com/replacing-dropbox-in-favor-of-digitalocean-spaces.html)
 
-- [lite - A lightweight text editor written in Lua](https://github.com/rxi/lite)
+- [NN-512: A compiler that generates C99 code for neural net inference](https://nn-512.com/)
 
-- [9p GitHub filesystem written in Go](https://github.com/sirnewton01/ghfs)
+- [Octave Compass](https://octavecompass.com/1453)
 
-- [SkiftOS: Simple, handmade operating system for the x86 platform](https://github.com/skiftOS/skift#skiftos)
+- [OneSignal Is Hiring Engineers in California, New York, Texas, and the UK](https://onesignal.com/careers)
 
-- [Our experience with the Fediverse, and why we left](https://infosec-handbook.eu/news/2020-12-05-leaving-the-fediverse/)
+- [Scaling Kubernetes to 7,500 Nodes](https://openai.com/blog/scaling-kubernetes-to-7500-nodes/)
 
-- [EndBASIC 0.5 release announcement](https://jmmv.dev/2021/01/endbasic-0.5.html)
-
-- [Proof of X](https://julian.digital/2020/08/06/proof-of-x/)
-
-- [Krita 4.4.2 Released](https://krita.org/en/item/krita-4-4-2-released/)
-
-- [Hacking Habit Development with iOS Shortcuts](https://kylewill.blog/hacking-habit-development/)
-
-- [PGM Indexes: Learned indexes that match B-tree performance with 83x less space](https://pgm.di.unipi.it/)
+- [Introducing Open Web Docs](https://opencollective.com/open-web-docs/updates/introducing-open-web-docs)
 
 - [Pip has dropped support for Python 2](https://pip.pypa.io/en/stable/news/#id1)
 
-- [Flattery-Driven Open-Source](https://ppinera.es/2021/01/03/flattery-driven-open-source/)
-
-- [The RustyHermit Unikernel](https://rust-osdev.com/showcase/rusty-hermit/)
+- [Raspberry Pi: Boot to BASIC](https://popey.com/blog/2021/01/raspberry-pi-boot-to-basic/)
 
 - [Offloading NixOS builds to a faster machine](https://sgt.hootr.club/molten-matter/nix-distributed-builds/)
 
-- [Make Boring Plans](https://skamille.medium.com/make-boring-plans-9438ce5cb053)
+- [skiftOS](https://skiftos.org/)
 
-- [Sokyokuban a puzzle game in a non-Euclidian world](https://sokyokuban.com/)
+- [Our Journey to PostgreSQL 12](https://tech.coffeemeetsbagel.com/our-journey-to-postgresql-12-3d6ee15d305a)
 
-- [ijq: Interactive jq](https://sr.ht/~gpanders/ijq/)
+- [Right to Repair off to the races in 2021 with 14 active states](https://uspirg.org/blogs/blog/usp/right-repair-races-2021-14-active-states)
 
-- [Could giant SPACs be next?](https://techcrunch.com/2021/01/22/is-anything-too-big-to-be-spacd/)
+- [Dynamic Deadlock Detection in Abseil](https://whileydave.com/2020/12/19/dynamic-cycle-detection-for-lock-ordering/)
 
-- [Inlining and Compiler Optimizations](https://wolchok.org/posts/inlining-and-compiler-optimizations)
+- [How to stop another 'Day Zero'](https://www.bbc.com/future/article/20210105-day-zero-how-chennais-wetlands-could-save-it-from-drought)
 
-- [Peering agreements between Backblaze and Cloudflare](https://www.reddit.com/r/backblaze/comments/l2lq42/how_long_will_cloudflare_peering_stay_for/gk6qie0/)
+- [Rails: Postgres Partial Indexing](https://www.johnnunemaker.com/rails-postgres-partial-indexing/)
 
-- [How we improved our website's performance](https://www.smashingmagazine.com/2021/01/smashingmag-performance-case-study/)
+- [Time-lapse of a single cell transforming into a salamander (2019)](https://www.nationalgeographic.com/animals/2019/02/time-lapse-film-shows-salamander-development/)
 
-- [An Oddity In VIM](https://www.solipsys.co.uk/new/AnOddityInVIM.html?UA24lo)
+- [Remembering the night two atomic bombs fell on North Carolina](https://www.nationalgeographic.com/history/2021/01/remembering-night-two-atomic-bombs-dropped-on-north-carolina/)
 
-- [Sales of electric cars up by 43% in 2020](https://www.theguardian.com/environment/2021/jan/19/global-sales-of-electric-cars-accelerate-fast-in-2020-despite-covid-pandemic)
+- [Node.js race conditions](https://www.nodejsdesignpatterns.com/blog/node-js-race-conditions/)
 
-- [WhatsApp loses millions of users after terms update](https://www.theguardian.com/technology/2021/jan/24/whatsapp-loses-millions-of-users-after-terms-update)
+- [The Trouble with Reference Counting](https://www.perl.com/article/the-trouble-with-reference-counting/)
 
-- [5nm in the USA: TSMC's Board Approves $3.5B Fab in Arizona](https://www.tomshardware.com/news/tsmc-arizona-fab-investment)
+- [The Battle Inside Signal](https://www.platformer.news/p/-the-battle-inside-signal)
 
-- [RISC-V Summit 2020 The Next Ten Years | Krste Asanović](https://www.youtube.com/watch?v=lg33UqZ_en0)
+- [Dinosaur unearthed in Argentina could be largest land animal ever](https://www.smithsonianmag.com/smart-news/dinosaur-unearthed-argentina-could-be-largest-land-animal-ever-180976813/)
+
+- [Giant leak exposes data from almost all Brazilians](https://www.somagnews.com/giant-leak-exposes-data-from-almost-all-brazilians/)
+
+- [Vanilla Emacs on NixOS](https://www.srid.ca/vanilla-emacs-nixos.html)
+
+- [I made an alarm clock](https://www.stavros.io/posts/do-not-be-alarmed-clock/)
+
+- [SpaceX sends laser-linked Starlinks to the polar orbit](https://www.teslaoracle.com/2021/01/25/spacx-record-143-satellites-laser-starlinks/)
+
+- [Reflect (no-code test automation platform) is hiring our first account executive](https://www.workatastartup.com/jobs/41675)
+
+- [Gleam: Lean BEAM typing machine](https://www.youtube.com/watch?v=ceynSTa1dV4)
