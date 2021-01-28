@@ -1,103 +1,105 @@
-- [First atomic clock wristwatch (2003)](http://leapsecond.com/pages/atomic-bill/)
+- [David Bryant Copeland weighs in with a tweetstorm of hot takes on web development](http://tweetstorm.io/user/davetron5000/1354532413821612041)
 
-- [Smashing the Stack for Fun and Profit (1996)](http://phrack.org/archives/issues/49/14.txt)
+- [Show HN: My multiplayer custom-engine game that loads in less than a second](http://vnav.io)
 
-- [Pallene: A statically typed companion language for Lua (2018)](http://www.inf.puc-rio.br/~roberto/docs/pallene-sblp.pdf)
+- [Fix Terminals](http://www.leonerd.org.uk/hacks/fixterms/)
 
-- [Ordering Burritos from my SPARC (1992)](http://www.mit.edu/afs.new/sipb/user/marthag/postscript/burritos)
+- [Publishing Is Back to the Future](http://www.stratechery.com/2021/publishing-is-back-to-the-future/)
 
-- [Examining a technology sample kit: IBM components from 1948 to 1986](http://www.righto.com/2021/01/examining-technology-sample-kit-ibm.html)
+- [CSS: prefers-color-scheme](https://3fx.ch/blog/2021/01/27/css-prefers-color-scheme/)
 
-- [Bundlewrap: First Impressions](https://3fx.ch/blog/2021/01/25/bundlewrap-first-impressions/)
+- [Murder map of medieval London (2019)](https://arstechnica.com/science/2019/01/addictive-interactive-murder-map-lets-you-explore-medieval-london-crime/)
 
-- [Myopia treatment 'smart glasses' from Japan to be sold in Asia](https://asia.nikkei.com/Business/Health-Care/Myopia-correcting-smart-glasses-from-Japan-to-be-sold-in-Asia)
+- [Firefox 85 Cracks Down on Supercookies](https://blog.mozilla.org/security/2021/01/26/supercookie-protections/)
 
-- [Halt and Catch Fire Syllabus](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/)
+- [Defunctionalizing dependent type families in Haskell](https://blog.poisson.chat/posts/2021-01-16-dependent-fcfs.html)
 
-- [Command Path Security in Go](https://blog.golang.org/path-security)
+- [Automating my job with GPT-3](https://blog.seekwell.io/gpt3)
 
-- [New campaign targeting security researchers](https://blog.google/threat-analysis-group/new-campaign-targeting-security-researchers/)
+- [Show HN: Bunklist – Collect and discover useful websites through lists](https://bunklist.com)
 
-- [The Pyra Handheld Linux PC is Shipping](https://boilingsteam.com/the-pyra-handheld-linux-pc-is-shipping/.)
+- [What color was “Apple Beige”?](https://bzotto.medium.com/what-color-was-apple-beige-acd14bca0c1a)
 
-- [Collapse OS – bootstrap post-collapse technology](https://collapseos.org/)
+- [Let's Not Dumb Down the History of Computer Science (2014)](https://cacm.acm.org/opinion/articles/250078-lets-not-dumb-down-the-history-of-computer-science/fulltext)
 
-- [Programming In Five Easy Pieces](https://danielbmarkham.com/curry-howard-isomorphism/)
+- [Software development topics I've changed my mind on after 6 years in the industry](https://chriskiehl.com/article/thoughts-after-6-years)
 
-- [Zig Makes Go Cross Compilation Just Work](https://dev.to/kristoff_it/zig-makes-go-cross-compilation-just-work-29ho)
+- [The Mark Cuban Cost Plus Drug Company](https://costplusdrugs.com/)
 
-- [Elm at Rakuten](https://dev.to/lucamug/elm-6m8)
+- [Doubling down on permissive licensing and the Elasticsearch lockdown](https://crate.io/a/cratedb-doubling-down-on-permissive-licensing-and-the-elasticsearch-lockdown/)
 
-- [Otokichi](https://en.wikipedia.org/wiki/Otokichi)
+- [Re-Creating the Porky Pig Animation from Looney Tunes in CSS](https://css-tricks.com/re-creating-the-porky-pig-animation-from-looney-tunes-in-css/)
 
-- [Stuff your logs](https://engineering.backtrace.io/2021-01-11-stuff-your-logs/)
+- [Blizzard Diablo IV debugs Linux core dumps from Visual Studio](https://devblogs.microsoft.com/cppblog/blizzard-diablo-iv-debugs-linux-core-dumps-from-visual-studio/)
 
-- [The high price of mistrust](https://fs.blog/2021/01/mistrust/)
+- [High-Low Frequency Detectors](https://distill.pub/2020/circuits/frequency-edges/)
 
-- [Improving how we deploy GitHub](https://github.blog/2021-01-25-improving-how-we-deploy-github/)
+- [Machine learning saves us $1.7M a year on document previews](https://dropbox.tech/machine-learning/cannes--how-ml-saves-us--1-7m-a-year-on-document-previews)
 
-- [JerryScript: lightweight JS engine for IoT](https://github.com/jerryscript-project/jerryscript)
+- [Berty: Peer-to-peer messaging app that works with or without internet access](https://github.com/berty/berty)
 
-- [awa: Purely functional SSH library in OCaml](https://github.com/mirage/awa-ssh)
+- [Tinywm: An X11 window manager in 50 lines of C](https://github.com/mackstann/tinywm/blob/master/tinywm.c)
 
-- [Why you should never ever use NixOS (2018)](https://hands-on.cloud/why-you-should-never-ever-use-nixos/)
+- [Window System Design: If I had it to do over again in 2002 [pdf]](https://hack.org/mc/texts/gosling-wsd.pdf)
 
-- [The road ahead for MirageOS in 2021](https://hannes.robur.coop/Posts/NGI)
+- [Tesla’s charging stations left other manufacturers in the dust](https://hbr.org/2021/01/how-teslas-charging-stations-left-other-manufacturers-in-the-dust)
 
-- [Future Plans for Autotools](https://lists.gnu.org/archive/html/autoconf/2021-01/msg00049.html)
+- [Love and Death: “Quality of life” calculations leave out much that matters](https://hedgehogreview.com/blog/thr/posts/love-and-death)
 
-- [The endless browser wars](https://lwn.net/SubscriberLink/843607/6c830d9c90684026/)
+- [Fact-checking Technical Claims (2019)](https://jamison.dance/09-13-2019/fact-checking-technical-claims)
 
-- [Replacing Dropbox in favor of DigitalOcean spaces](https://mitjafelicijan.com/replacing-dropbox-in-favor-of-digitalocean-spaces.html)
+- [JanetDocs](https://janetdocs.com/)
 
-- [NN-512: A compiler that generates C99 code for neural net inference](https://nn-512.com/)
+- [OpenBSD on the Lenovo ThinkPad X1 Nano (1st Gen)](https://jcs.org/2021/01/27/x1nano)
 
-- [Octave Compass](https://octavecompass.com/1453)
+- [JaaS: The team that builds Jitsi can now also run it for you](https://jitsi.org/blog/jaas-the-team-that-builds-jitsi-can-now-also-run-it-for-you/)
 
-- [OneSignal Is Hiring Engineers in California, New York, Texas, and the UK](https://onesignal.com/careers)
+- [Opening Up the Samsung Q60 Series Smart TV (2019)](https://labs.f-secure.com/blog/samsung-q60r-smart-tv-opening-up-the-samsung-q60-series-smart-tv/)
 
-- [Scaling Kubernetes to 7,500 Nodes](https://openai.com/blog/scaling-kubernetes-to-7500-nodes/)
+- [OO in Python is mostly pointless](https://leontrolski.github.io/mostly-pointless.html)
 
-- [Introducing Open Web Docs](https://opencollective.com/open-web-docs/updates/introducing-open-web-docs)
+- [Towards Maintainable Elixir: The Development Process](https://medium.com/very-big-things/towards-maintainable-elixir-the-development-process-205ee257c109)
 
-- [Pip has dropped support for Python 2](https://pip.pypa.io/en/stable/news/#id1)
+- [Where do we go from here and who is going to step up to help us?](https://old.reddit.com/r/wallstreetbets/comments/l6j4r9/where_do_we_go_from_here_and_who_is_going_to_step/)
 
-- [Raspberry Pi: Boot to BASIC](https://popey.com/blog/2021/01/raspberry-pi-boot-to-basic/)
+- [Data fetching on the web still sucks](https://performancejs.com/post/hde6a90/Data-Fetching-on-the-Web-Still-Sucks)
 
-- [Offloading NixOS builds to a faster machine](https://sgt.hootr.club/molten-matter/nix-distributed-builds/)
+- [WhatsApp and the domestication of users](https://seirdy.one/2021/01/27/whatsapp-and-the-domestication-of-users.html)
 
-- [skiftOS](https://skiftos.org/)
+- [The unreasonable effectiveness of simple HTML](https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/)
 
-- [Our Journey to PostgreSQL 12](https://tech.coffeemeetsbagel.com/our-journey-to-postgresql-12-3d6ee15d305a)
+- [Peat fires continue to burn at air temperature of -50C in northeastern Yakutia](https://siberiantimes.com/other/others/news/peat-fires-continue-to-burn-at-air-temperature-of-50c-in-northeastern-yakutia/)
 
-- [Right to Repair off to the races in 2021 with 14 active states](https://uspirg.org/blogs/blog/usp/right-repair-races-2021-14-active-states)
+- [Setting up a git server on NixOS](https://terinstock.com/post/2021/01/Setting-up-a-git-server-on-NixOS/)
 
-- [Dynamic Deadlock Detection in Abseil](https://whileydave.com/2020/12/19/dynamic-cycle-detection-for-lock-ordering/)
+- [A Peek Into The Future Of Distros](https://venam.nixers.net/blog/programming/2021/01/26/future-of-distros.html)
 
-- [How to stop another 'Day Zero'](https://www.bbc.com/future/article/20210105-day-zero-how-chennais-wetlands-could-save-it-from-drought)
+- [WebRTC is now a W3C and IETF standard](https://web.dev/webrtc-standard-announcement/)
 
-- [Rails: Postgres Partial Indexing](https://www.johnnunemaker.com/rails-postgres-partial-indexing/)
+- [NAT Slipstreaming v2.0: New Attack Variant Can Expose All Internal Network Devices to The Internet](https://www.armis.com/resources/iot-security-blog/nat-slipstreaming-v2-0-new-attack-variant-can-expose-all-internal-network-devices-to-the-internet/)
 
-- [Time-lapse of a single cell transforming into a salamander (2019)](https://www.nationalgeographic.com/animals/2019/02/time-lapse-film-shows-salamander-development/)
+- [My 2 Year Journey to $10K MRR](https://www.bannerbear.com/journey-to-10k-mrr/)
 
-- [Remembering the night two atomic bombs fell on North Carolina](https://www.nationalgeographic.com/history/2021/01/remembering-night-two-atomic-bombs-dropped-on-north-carolina/)
+- [GameStop Is Rage Against the Financial Machine](https://www.bloomberg.com/opinion/articles/2021-01-27/gamestop-short-squeeze-is-rage-against-the-financial-machine)
 
-- [Node.js race conditions](https://www.nodejsdesignpatterns.com/blog/node-js-race-conditions/)
+- [The R language, for programmers](https://www.johndcook.com/blog/r_language_for_programmers/)
 
-- [The Trouble with Reference Counting](https://www.perl.com/article/the-trouble-with-reference-counting/)
+- [Heap-based buffer overflow in Sudo (CVE-2021-3156)](https://www.openwall.com/lists/oss-security/2021/01/26/3)
 
-- [The Battle Inside Signal](https://www.platformer.news/p/-the-battle-inside-signal)
+- [How to Read Rust Functions, Part 1](https://www.possiblerust.com/guide/how-to-read-rust-functions-part-1)
 
-- [Dinosaur unearthed in Argentina could be largest land animal ever](https://www.smithsonianmag.com/smart-news/dinosaur-unearthed-argentina-could-be-largest-land-animal-ever-180976813/)
+- [The Climate Crisis Is Worse Than You Can Imagine. Here’s What Happens If You Try](https://www.propublica.org/article/the-climate-crisis-is-worse-than-you-can-imagine-heres-what-happens-if-you-try)
 
-- [Giant leak exposes data from almost all Brazilians](https://www.somagnews.com/giant-leak-exposes-data-from-almost-all-brazilians/)
+- [Qt and CMake: The Past, the Present and the Future](https://www.qt.io/blog/qt-and-cmake-the-past-the-present-and-the-future)
 
-- [Vanilla Emacs on NixOS](https://www.srid.ca/vanilla-emacs-nixos.html)
+- [Butterfly wing clap explains mystery of flight](https://www.sciencedaily.com/releases/2021/01/210121132059.htm)
 
-- [I made an alarm clock](https://www.stavros.io/posts/do-not-be-alarmed-clock/)
+- [What am I running inside my bash?](https://www.thanassis.space/bashheimer.html)
 
-- [SpaceX sends laser-linked Starlinks to the polar orbit](https://www.teslaoracle.com/2021/01/25/spacx-record-143-satellites-laser-starlinks/)
+- [How we made Typerighter, the Guardian’s style guide checker](https://www.theguardian.com/info/2021/jan/26/how-we-made-typerighter-the-guardians-style-guide-checker)
 
-- [Reflect (no-code test automation platform) is hiring our first account executive](https://www.workatastartup.com/jobs/41675)
+- [Discord bans r/WallStreetBets server, subreddit went private for a while](https://www.theverge.com/2021/1/27/22253251/discord-bans-the-r-wallstreetbets-server)
 
-- [Gleam: Lean BEAM typing machine](https://www.youtube.com/watch?v=ceynSTa1dV4)
+- [Soteris (YC S19) is hiring employees #4-5 – cloud and data infrastructure](https://www.workatastartup.com/companies/12609)
+
+- [編程語言 Programming Language for the ancient Chinese](https://wy-lang.org/)
