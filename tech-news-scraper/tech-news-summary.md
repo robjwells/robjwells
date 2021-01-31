@@ -1,105 +1,101 @@
-- [David Bryant Copeland weighs in with a tweetstorm of hot takes on web development](http://tweetstorm.io/user/davetron5000/1354532413821612041)
+- [StrictMark: rational Markdown](http://doc.replicated.cc/%5EWiki/strictmark.sm)
 
-- [Show HN: My multiplayer custom-engine game that loads in less than a second](http://vnav.io)
+- [RETRO: a Modern, Pragmatic Forth](http://forth.works/doc.html)
 
-- [Fix Terminals](http://www.leonerd.org.uk/hacks/fixterms/)
+- [IBM paperweight teardown: Reverse-engineering 1970s memory chips](http://www.righto.com/2021/01/ibm-paperweight-teardown-reverse.html)
 
-- [Publishing Is Back to the Future](http://www.stratechery.com/2021/publishing-is-back-to-the-future/)
+- [Dissolving the Fermi Paradox (2018)](https://arxiv.org/abs/1806.02404)
 
-- [CSS: prefers-color-scheme](https://3fx.ch/blog/2021/01/27/css-prefers-color-scheme/)
+- [A network analysis on cloud gaming: Stadia, GeForce Now and PSNow](https://arxiv.org/abs/2012.06774)
 
-- [Murder map of medieval London (2019)](https://arstechnica.com/science/2019/01/addictive-interactive-murder-map-lets-you-explore-medieval-london-crime/)
+- [Website Fingerprinting on Early QUIC Traffic](https://arxiv.org/abs/2101.11871)
 
-- [Firefox 85 Cracks Down on Supercookies](https://blog.mozilla.org/security/2021/01/26/supercookie-protections/)
+- [On Go 2 Generics](https://benburkert.com/posts/on-go2-generics/)
 
-- [Defunctionalizing dependent type families in Haskell](https://blog.poisson.chat/posts/2021-01-16-dependent-fcfs.html)
+- [Coming in Go 1.16: ReadDir and DirEntry](https://benhoyt.com/writings/go-readdir/)
 
-- [Automating my job with GPT-3](https://blog.seekwell.io/gpt3)
+- [Fixing 200 broken raspberry Pis to prevent e-waste and donating the money raised](https://blog.jmdawson.co.uk/i-bought-200-raspberry-pi-model-bs-and-im-going-to-fix-them-part-4/)
 
-- [Show HN: Bunklist – Collect and discover useful websites through lists](https://bunklist.com)
+- [How to stream media using WebRTC and FFmpeg, and why it's a bad idea](https://blog.maxwellgale.com/2021/01/30/streaming-video-over-webrtc-using-ffmpeg/)
 
-- [What color was “Apple Beige”?](https://bzotto.medium.com/what-color-was-apple-beige-acd14bca0c1a)
+- [A few HiDPI tricks for Linux](https://blog.yossarian.net/2020/12/24/A-few-HiDPI-tricks-for-Linux)
 
-- [Let's Not Dumb Down the History of Computer Science (2014)](https://cacm.acm.org/opinion/articles/250078-lets-not-dumb-down-the-history-of-computer-science/fulltext)
+- [The weirdest compiler bug](https://blog.zaita.com/mingw64-compiler-bug/)
 
-- [Software development topics I've changed my mind on after 6 years in the industry](https://chriskiehl.com/article/thoughts-after-6-years)
+- [:focus-visible in WebKit](https://blogs.igalia.com/mrego/2021/01/28/focus-visible-in-webkit-january-2021/)
 
-- [The Mark Cuban Cost Plus Drug Company](https://costplusdrugs.com/)
+- [Creating my awesome Windows 10 dev setup](https://chimerical.ca/posts/creating-my-awesome-windows-10-dev-setup)
 
-- [Doubling down on permissive licensing and the Elasticsearch lockdown](https://crate.io/a/cratedb-doubling-down-on-permissive-licensing-and-the-elasticsearch-lockdown/)
+- [An Archeologist’s Guide to Beer Cans](https://daily.jstor.org/an-archeologists-guide-to-beer-cans/)
 
-- [Re-Creating the Porky Pig Animation from Looney Tunes in CSS](https://css-tricks.com/re-creating-the-porky-pig-animation-from-looney-tunes-in-css/)
+- [Element on Google Play Store](https://element.io/blog/element-on-google-play-store/)
 
-- [Blizzard Diablo IV debugs Linux core dumps from Visual Studio](https://devblogs.microsoft.com/cppblog/blizzard-diablo-iv-debugs-linux-core-dumps-from-visual-studio/)
+- [Cyclic dependencies are evil (2013)](https://fsharpforfunandprofit.com/posts/cyclic-dependencies/)
 
-- [High-Low Frequency Detectors](https://distill.pub/2020/circuits/frequency-edges/)
+- [Wayland Keylogger](https://github.com/Aishou/wayland-keylogger)
 
-- [Machine learning saves us $1.7M a year on document previews](https://dropbox.tech/machine-learning/cannes--how-ml-saves-us--1-7m-a-year-on-document-previews)
+- [I built a hash identification system with popularity ratings, john & hashcat modes, and descriptions](https://github.com/HashPals/Name-That-Hash)
 
-- [Berty: Peer-to-peer messaging app that works with or without internet access](https://github.com/berty/berty)
+- [Build your own X, a collection of tutorials (Search engine, Neural Net, etc.)](https://github.com/danistefanovic/build-your-own-x)
 
-- [Tinywm: An X11 window manager in 50 lines of C](https://github.com/mackstann/tinywm/blob/master/tinywm.c)
+- [emacs-ng: Emacs with Deno runtime and TypeScript](https://github.com/emacs-ng/emacs-ng)
 
-- [Window System Design: If I had it to do over again in 2002 [pdf]](https://hack.org/mc/texts/gosling-wsd.pdf)
+- [Show HN: Watchpoints, an easy to use watchpoints equivalent library for Python](https://github.com/gaogaotiantian/watchpoints)
 
-- [Tesla’s charging stations left other manufacturers in the dust](https://hbr.org/2021/01/how-teslas-charging-stations-left-other-manufacturers-in-the-dust)
+- [Comparing taskbars & desktop panels, & musing on the One True Linux Way](https://liam-on-linux.livejournal.com/77016.html)
 
-- [Love and Death: “Quality of life” calculations leave out much that matters](https://hedgehogreview.com/blog/thr/posts/love-and-death)
+- [Cory Doctorow: IP (2020)](https://locusmag.com/2020/09/cory-doctorow-ip)
 
-- [Fact-checking Technical Claims (2019)](https://jamison.dance/09-13-2019/fact-checking-technical-claims)
+- [Cory Doctorow: IP](https://locusmag.com/2020/09/cory-doctorow-ip/)
 
-- [JanetDocs](https://janetdocs.com/)
+- [My 90s TV: Browse 90s Television](https://my90stv.com)
 
-- [OpenBSD on the Lenovo ThinkPad X1 Nano (1st Gen)](https://jcs.org/2021/01/27/x1nano)
+- [Open Source for Everyone](https://openeveryone.substack.com/p/open-source-for-everyone)
 
-- [JaaS: The team that builds Jitsi can now also run it for you](https://jitsi.org/blog/jaas-the-team-that-builds-jitsi-can-now-also-run-it-for-you/)
+- [Machine That Changed The World: Interview with Ted Nelson (1990)](https://openvault.wgbh.org/catalog/V_4D37F2D8E1054BA49999027BF9D18957)
 
-- [Opening Up the Samsung Q60 Series Smart TV (2019)](https://labs.f-secure.com/blog/samsung-q60r-smart-tv-opening-up-the-samsung-q60-series-smart-tv/)
+- [Software Verification and Analysis Using Z3](https://research.nccgroup.com/2021/01/29/software-verification-and-analysis-using-z3/)
 
-- [OO in Python is mostly pointless](https://leontrolski.github.io/mostly-pointless.html)
+- [Oneness via gurus, psychedelics and the hidden code in Jordan Mechner's Karateka](https://schmud.de/posts/2020-12-16-be-here-now.html)
 
-- [Towards Maintainable Elixir: The Development Process](https://medium.com/very-big-things/towards-maintainable-elixir-the-development-process-205ee257c109)
+- [sudo: Ineffective NO_ROOT_MAILER and Baron Samedit](https://seclists.org/oss-sec/2021/q1/88)
 
-- [Where do we go from here and who is going to step up to help us?](https://old.reddit.com/r/wallstreetbets/comments/l6j4r9/where_do_we_go_from_here_and_who_is_going_to_step/)
+- [Starship: Cross-Shell Prompt](https://starship.rs/)
 
-- [Data fetching on the web still sucks](https://performancejs.com/post/hde6a90/Data-Fetching-on-the-Web-Still-Sucks)
+- [What Did We Lose When We Lost the Stars?](https://theconvivialsociety.substack.com/p/what-did-we-lose-when-we-lost-the)
 
-- [WhatsApp and the domestication of users](https://seirdy.one/2021/01/27/whatsapp-and-the-domestication-of-users.html)
+- [Element (Matrix chat app) suspended from the Google Play Store](https://twitter.com/element_hq/status/1355290296947499013)
 
-- [The unreasonable effectiveness of simple HTML](https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/)
+- [42 (YC W14) Is Hiring Software Engineers (Remote) – Node/PySpark](https://weworkremotely.com/remote-jobs/42-technologies-software-engineer-full-time-remote)
 
-- [Peat fires continue to burn at air temperature of -50C in northeastern Yakutia](https://siberiantimes.com/other/others/news/peat-fires-continue-to-burn-at-air-temperature-of-50c-in-northeastern-yakutia/)
+- [The Great Unbundling](https://www.ben-evans.com/presentations)
 
-- [Setting up a git server on NixOS](https://terinstock.com/post/2021/01/Setting-up-a-git-server-on-NixOS/)
+- [Why it’s usually crazier than you expect](https://www.collaborativefund.com/blog/crazy/)
 
-- [A Peek Into The Future Of Distros](https://venam.nixers.net/blog/programming/2021/01/26/future-of-distros.html)
+- [RV64X: A Free, open-source GPU for RISC-V](https://www.eetimes.com/rv64x-a-free-open-source-gpu-for-risc-v/)
 
-- [WebRTC is now a W3C and IETF standard](https://web.dev/webrtc-standard-announcement/)
+- [GNU Humor Collection](https://www.gnu.org/fun/humor.en.html)
 
-- [NAT Slipstreaming v2.0: New Attack Variant Can Expose All Internal Network Devices to The Internet](https://www.armis.com/resources/iot-security-blog/nat-slipstreaming-v2-0-new-attack-variant-can-expose-all-internal-network-devices-to-the-internet/)
+- [Philosophical Landmines (2013)](https://www.lesswrong.com/posts/L4HQ3gnSrBETRdcGu/philosophical-landmines)
 
-- [My 2 Year Journey to $10K MRR](https://www.bannerbear.com/journey-to-10k-mrr/)
+- [Chronicles of a Bubble Tea Addict](https://www.newyorker.com/culture/personal-history/chronicles-of-a-bubble-tea-addict)
 
-- [GameStop Is Rage Against the Financial Machine](https://www.bloomberg.com/opinion/articles/2021-01-27/gamestop-short-squeeze-is-rage-against-the-financial-machine)
+- [Electric cars are coming fast – is the nation’s grid up to it?](https://www.nytimes.com/2021/01/29/climate/gm-electric-cars-power-grid.html)
 
-- [The R language, for programmers](https://www.johndcook.com/blog/r_language_for_programmers/)
+- [A vast web of vengeance](https://www.nytimes.com/2021/01/30/technology/change-my-google-results.html)
 
-- [Heap-based buffer overflow in Sudo (CVE-2021-3156)](https://www.openwall.com/lists/oss-security/2021/01/26/3)
+- [Personal experiences bridge moral and political divides better than facts](https://www.pnas.org/content/118/6/e2008389118)
 
-- [How to Read Rust Functions, Part 1](https://www.possiblerust.com/guide/how-to-read-rust-functions-part-1)
+- [‘Meme stock’ rally rescues AMC theaters from $600M debt](https://www.polygon.com/movies/2021/1/29/22256360/amc-stock-price-reddit-rally-robinhood-debt-conversion)
 
-- [The Climate Crisis Is Worse Than You Can Imagine. Here’s What Happens If You Try](https://www.propublica.org/article/the-climate-crisis-is-worse-than-you-can-imagine-heres-what-happens-if-you-try)
+- [Recursive Sans & Mono: A highly-flexible variable font](https://www.recursive.design/)
 
-- [Qt and CMake: The Past, the Present and the Future](https://www.qt.io/blog/qt-and-cmake-the-past-the-present-and-the-future)
+- [IBM paperweight teardown: Reverse-engineering 1970s memory chips](https://www.righto.com/2021/01/ibm-paperweight-teardown-reverse.html)
 
-- [Butterfly wing clap explains mystery of flight](https://www.sciencedaily.com/releases/2021/01/210121132059.htm)
+- [Regular afternoon naps linked to improved cognitive function](https://www.sciencefocus.com/the-human-body/afternoon-naps-linked-to-improved-cognitive-function/)
 
-- [What am I running inside my bash?](https://www.thanassis.space/bashheimer.html)
+- [Docker, Django, Traefik, and IntercoolerJS: My go-to stack for building a SaaS](https://www.simplecto.com/docker-django-traefik-intercoolerjs-is-my-stack-for-2021/)
 
-- [How we made Typerighter, the Guardian’s style guide checker](https://www.theguardian.com/info/2021/jan/26/how-we-made-typerighter-the-guardians-style-guide-checker)
+- [CDC website built by Deloitte at a cost of $44M is abandoned due to bugs](https://www.technologyreview.com/2021/01/30/1017086/cdc-44-million-vaccine-data-vams-problems/)
 
-- [Discord bans r/WallStreetBets server, subreddit went private for a while](https://www.theverge.com/2021/1/27/22253251/discord-bans-the-r-wallstreetbets-server)
-
-- [Soteris (YC S19) is hiring employees #4-5 – cloud and data infrastructure](https://www.workatastartup.com/companies/12609)
-
-- [編程語言 Programming Language for the ancient Chinese](https://wy-lang.org/)
+- [Partitioning Oracle Attacks | USENIX](https://www.usenix.org/conference/usenixsecurity21/presentation/len)
