@@ -1,103 +1,99 @@
-- [RETRO: a Modern, Pragmatic Forth](http://forth.works/doc.html)
+- [Arbtt: an automatic, rule-based time-tracker](http://arbtt.nomeata.de/#what)
 
-- [The reshaped Mac experience](http://morrick.me/archives/9150)
+- [Where's the fastest place to put my server? How much does it matter?](http://calpaterson.com/latency.html)
 
-- [Bedrock Linux – a meta Linux distribution](https://bedrocklinux.org/)
+- [Reading Group. A large scale analysis of hundreds of in-memory cache clusters at Twitter. | Aleksey Charapko](http://charap.co/reading-group-a-large-scale-analysis-of-hundreds-of-in-memory-cache-clusters-at-twitter/)
 
-- [Chrome 89 Beta: advanced hardware interactions, web sharing on desktop](https://blog.chromium.org/2021/01/chrome-89-beta-advanced-hardware.html)
+- [Untrusted - a user javascript adventure game](https://alexnisnevich.github.io/untrusted/)
 
-- [AMD vs. Intel vs. Nvidia: How Users Are Switching](https://boilingsteam.com/amd-vs-nvidia-are-linux-gamers-switching-yet/)
+- [Idiomatic TLA+](https://apalache.informal.systems/docs/idiomatic/index.html)
 
-- [A Model for Identity in Software](https://christine.website/blog/identity-model-software-2021-01-31)
+- [Apache Arrow 3.0](https://arrow.apache.org/blog/2021/01/25/3.0.0-release/)
 
-- [Collapse OS: A minimal Forth OS for microcontrollers](https://collapseos.org)
+- [A Modern Compiler for the French Tax Code](https://arxiv.org/pdf/2011.07966.pdf)
 
-- [Hammers and nails, and operator overloads](https://davmac.wordpress.com/2021/01/31/hammers-and-nails-and-operator-overloads/)
+- [Asdf – An Extendable Version Manager](https://asdf-vm.com/)
 
-- [Introducing flox - Nix for simplicity and scale](https://discourse.nixos.org/t/introducing-flox-nix-for-simplicity-and-scale/11275)
+- [I Still Use RSS](https://atthis.link/blog/2021/rss.html)
 
-- [The Cult of Best Practice](https://domk.website/blog/2021-01-31-cult-of-best-practise.html)
+- [How Janet's PEG module works](https://bakpakin.com/writing/how-janets-peg-works.html)
 
-- [Element on Google Play Store](https://element.io/blog/element-on-google-play-store/)
+- [Bluetooth trackball Mark II](https://blog.jfedor.org/2021/01/bluetooth-trackball-mark-ii.html)
 
-- [How does clang 2.7 hold up in 2021?](https://gist.github.com/zeux/3ce4fcc3a43072b4315abde95319ecb6)
+- [Killing Containers at Scale](https://blog.repl.it/killing-containers-at-scale)
 
-- [A Critical Reading list on Tech && (Politics || Society || Ethics)](https://github.com/chobeat/awesome-critical-tech-reading-list)
+- [Threadripper 3990X: The Quest To Compile 1B Lines Of C++ On 64 Cores](https://blogs.embarcadero.com/threadripper-3990x-the-quest-to-compile-1-billion-lines-of-c-on-64-cores/)
 
-- [I couldn't find any "image to textual line art" programs, so I made one](https://github.com/lf94/png2linetext)
+- [Myths of Vaccine Manufacturing](https://blogs.sciencemag.org/pipeline/archives/2021/02/02/myths-of-vaccine-manufacturing)
 
-- [Microsoft open sources database library used in Exchange and Windows](https://github.com/microsoft/Extensible-Storage-Engine)
+- [Google’s approach to replacing the cookie is drawing antitrust scrutiny](https://digiday.com/media/why-googles-approach-to-replacing-the-cookie-is-drawing-antitrust-scrutiny)
 
-- [Uf2: USB Flashing Format](https://github.com/microsoft/uf2)
+- [Burrows–Wheeler transform](https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform)
 
-- [Semgrep: JavaScript browser security concat bypass not detected](https://github.com/returntocorp/semgrep/issues/2409)
+- [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/)
 
-- [Nissan Gives Up Root Shell Thanks To Hacked USB Drive](https://hackaday.com/2021/01/30/nissan-gives-up-root-shell-thanks-to-hacked-usb-drive/)
+- [Proposal for an App History API](https://github.com/WICG/proposals/issues/20)
 
-- [Phantom Malware: Conceal malicious actions  by imitating user activity](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9186656#8866)
+- [A Superoptimizer for LLVM IR](https://github.com/google/souper)
 
-- [Will Windows become Open Source?](https://jlelse.blog/thoughts/2021/01/windows-os)
+- [I converted my demoscene font collection to PNG and put it on GitHub](https://github.com/ianhan/BitmapFonts)
 
-- [The Linux "copy problem"](https://lwn.net/Articles/789623/)
+- [Show HN: Haven – Run a private website to share with only the people you choose](https://havenweb.org/)
 
-- [Why I still Lisp (and you should too!)](https://mendhekar.medium.com/why-i-still-lisp-and-you-should-too-18a2ae36bd8)
+- [Quantitative Economics with Julia - Table of Contents](https://julia.quantecon.org/index_toc.html)
 
-- [Meshtastic: Open-source, off-grid, hiking, climbing, GPS mesh communicator](https://meshtastic.letstalkthis.com/)
+- [Homebrew Python Is Not For You](https://justinmayer.com/posts/homebrew-python-is-not-for-you/)
 
-- [US, Argentina agree to exchange country-by-country reports on multinationals](https://mnetax.com/us-argentina-agree-to-exchange-country-by-country-reports-of-large-multinational-42276)
+- [Building in Public Definite Guide: Use Transparency to Win](https://kevoncheung.com/building-in-public)
 
-- [NES.css – NES-Style CSS Framework](https://nostalgic-css.github.io/NES.css/)
+- [The Only M1 Benchmark That Matters](https://lars.ingebrigtsen.no/2021/01/13/the-only-m1-benchmark-that-matters/)
 
-- [Salt Fat Acid Defeat: The restaurant before and after Covid](https://nplusonemag.com/online-only/online-only/salt-fat-acid-defeat/)
+- [Concatenability principle](https://minimalmodeling.substack.com/p/concatenability-principle)
 
-- [What is Open Source?](https://openeveryone.substack.com/p/what-is-open-source)
+- [Monkey.org](https://monkey.org/)
 
-- [Rome in 3D](https://relivehistoryin3d.com/projects/rome-in-3d/)
+- [Four books professional developers should read (and a few you don't need to)](https://notes.eatonphil.com/books-developers-should-read.html)
 
-- [Division by constant unsigned integers](https://rubenvannieuwpoort.nl/posts/division-by-constant-unsigned-integers)
+- [Drawbacks of developing in containers](https://ntietz.com/tech-blog/drawbacks-of-developing-in-containers/)
 
-- [WhatsApp and the Domestication of Users](https://seirdy.one/2021/01/27/whatsapp-and-the-domestication-of-users.html)
+- [Show HN: Egyptian Ratscrew Online](https://playcards.club)
 
-- [Sequoia PGP](https://sequoia-pgp.org/)
+- [The mathematics of shuffling](https://plus.maths.org/content/mathematics-shuffling)
 
-- [Why Robinhood disabled buys but not sells](https://stu2b50.dev/posts/why-robinhood-d3580b)
+- [fzf - the basics part 1 - layout](https://qmacro.org/autodidactics/2021/02/02/fzf-the-basics-1-layout/)
 
-- [Show HN: A retrainable subtitle synchronizer you can now build your own](https://subaligner.readthedocs.io/)
+- [Relationship Hero (YC S17) Is Hiring Couples Coaches – Full Time Remote](https://relationshiphero.com/careers?role=coach)
 
-- [It Feels Like the Game Is Rigged](https://theirrelevantinvestor.com/2021/02/01/it-feels-like-the-game-is-rigged/)
+- [Is Rust a Functional Programming Language?](https://robert.kra.hn/posts/2021-02-03_is-rust-fp/)
 
-- [Signal, Telegram rendered useless during Myanmar coup – deauth + SMS offline](https://twitter.com/the_ayeminthant/status/1356064981712691200)
+- [RNA Memory Hypothesis](https://scottlocklin.wordpress.com/2021/02/03/rna-memory-hypothesis/)
 
-- [Saving Some Allocations](https://vorner.github.io/2021/01/31/saving-some-allocations.html)
+- [Beam has raised $9.5M to reinvent the browser](https://sifted.eu/articles/beam/)
 
-- [Access to vocational education can boost income over the long term](https://voxeu.org/article/access-vocational-education-can-boost-income-over-long-term)
+- [Sequencing your DNA with a USB dongle and open source code](https://stackoverflow.blog/2021/02/03/sequencing-your-dna-with-a-usb-dongle-and-open-source-code/)
 
-- [The MIT License, Line by Line](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html)
+- [Cargo Cult Software Engineering (2000)](https://stevemcconnell.com/articles/cargo-cult-software-engineering/)
 
-- [GitHub Should Start an App Store](https://www.ankshilp.com/time_for_github_app_store/)
+- [What's new in PHP 8.1](https://stitcher.io/blog/new-in-php-81)
 
-- [Chicago Museum – Public Access to Our Public Presence: Sharing Our API](https://www.artic.edu/articles/902/public-access-to-our-public-presence-sharing-our-api)
+- [When Pushing is Not Enough, A Git Story](https://tech.lightspeedhq.com/when-pushing-is-not-enough-a-git-story/)
 
-- [Naked shorting: The curious incident of the shares that didn't exist (2005)](https://www.euromoney.com/article/b1320xkhl0443w/naked-shorting-the-curious-incident-of-the-shares-that-didnt-exist)
+- [Cold Paths](https://timkellogg.me/blog/2021/01/29/cold-paths)
 
-- [Rolex's Manufacturing Facilities (2015)](https://www.hodinkee.com/articles/inside-rolex)
+- [DVD Laser Scanner Microscope](https://www.gaudi.ch/GaudiLabs/?page_id=652)
 
-- [AtoB (YC S20) – Stripe for transportation – is hiring founding team engineers](https://www.notion.so/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf)
+- [The world is full of wasted motion](https://www.neelnanda.io/blog/mini-blog-post-22-the-8020-rule)
 
-- [James Baldwin, Here and Elsewhere](https://www.publicbooks.org/james-baldwin-here-and-elsewhere/)
+- [3 Things to Try When You Can’t Make a Trait Object](https://www.possiblerust.com/pattern/3-things-to-try-when-you-can-t-make-a-trait-object)
 
-- [A Collector of Math and Physics Surprises](https://www.quantamagazine.org/tadashi-tokieda-collects-math-and-physics-surprises-20181127/)
+- [Parler CEO says he was fired by board](https://www.reuters.com/article/ctech-us-parler-ceo-idCAKBN2A33B0-OCATC)
 
-- [The Cloak-and-Dagger Tale Behind an Anticipated Result in Particle Physics](https://www.sciencemag.org/news/2021/01/cloak-and-dagger-tale-behind-year-s-most-anticipated-result-particle-physics)
+- [Why I chose this tech stack](https://www.spakhm.com/p/tech-stack)
 
-- [That’s Big Sir to You (SuperDuper, Big Sur)](https://www.shirtpocket.com/blog/index.php/shadedgrey/thats_big_sir_to_you/)
+- [Spanish crew shot an alternative Dracula after Bela Lugosi had gone to bed](https://www.theguardian.com/film/2021/feb/03/they-came-at-night-how-a-spanish-crew-shot-an-alternative-dracula-after-bela-lugosi-had-gone-to-bed)
 
-- [More Mental Model Missteps](https://www.solipsys.co.uk/new/MoreMentalModelMissteps.html?UA31LO)
+- [Amazon shortchanged drivers $61.7M in tips](https://www.washingtonpost.com/technology/2021/02/02/amazon-ftc-tip-settlement/)
 
-- [ZX Spectrum Next: The Evolution of the Speccy](https://www.specnext.com/about/)
+- [Bill Evans – The Creative Process and Self-Teaching (2007) [video]](https://www.youtube.com/watch?v=YEHWaGuurUk)
 
-- [Spotify wins patent to surveil users’ emotions to recommend music](https://www.thesanfranciscotelegraph.com/technology/3678/in-spotify-music-listens-to-you-streaming-platform-wins-patent-to-surveil-users-emotions-to-recommend-music/)
-
-- [Building a personal data warehouse in Snowflake for fun and no profit](https://www.thomasdziedzic0.com/blog/building-a-personal-data-warehouse-in-snowflake-for-fun-and-no-profit)
-
-- [SOLID Machine Learning](https://www.umaneo.com/post/the-solid-principles-applied-to-machine-learning)
+- [Show HN: YTT Tech – My curated database of instructional YouTube Videos](https://ytt-tech.com)
