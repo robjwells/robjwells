@@ -1,99 +1,101 @@
-- [Arbtt: an automatic, rule-based time-tracker](http://arbtt.nomeata.de/#what)
+- [ditaa: DIagrams Through Ascii Art](http://ditaa.sourceforge.net/)
 
-- [Where's the fastest place to put my server? How much does it matter?](http://calpaterson.com/latency.html)
+- [On the Missed Opportunities of Static Types](http://sigusr2.net/on-the-missed-opportunities-of-static-types.html)
 
-- [Reading Group. A large scale analysis of hundreds of in-memory cache clusters at Twitter. | Aleksey Charapko](http://charap.co/reading-group-a-large-scale-analysis-of-hundreds-of-in-memory-cache-clusters-at-twitter/)
+- [The Mediocre Programmer](http://themediocreprogrammer.com/what-is-the-mediocre-programmer.html#what-is-the-mediocre-programmer)
 
-- [Untrusted - a user javascript adventure game](https://alexnisnevich.github.io/untrusted/)
+- [The /bin/true Command and Copyright](http://trillian.mit.edu/~jc/humor/ATT_Copyright_true.html)
 
-- [Idiomatic TLA+](https://apalache.informal.systems/docs/idiomatic/index.html)
+- [Evolving Frameworks: A Pattern Language for Developing Object-Oriented Frameworks (1996)](http://www.dsc.ufcg.edu.br/~jacques/cursos/map/html/frame/evolve.html)
 
-- [Apache Arrow 3.0](https://arrow.apache.org/blog/2021/01/25/3.0.0-release/)
+- [A one-bit processor explained: reverse-engineering the vintage MC14500B](http://www.righto.com/2021/02/a-one-bit-processor-explained-reverse.html)
 
-- [A Modern Compiler for the French Tax Code](https://arxiv.org/pdf/2011.07966.pdf)
+- [Scientific community on report of a strange chemical at Venus: Probably not](https://arstechnica.com/science/2021/02/scientific-community-on-report-of-a-strange-chemical-at-venus-probably-not/)
 
-- [Asdf – An Extendable Version Manager](https://asdf-vm.com/)
+- [Inline caching: quickening](https://bernsteinbear.com/blog/inline-caching-quickening/)
 
-- [I Still Use RSS](https://atthis.link/blog/2021/rss.html)
+- [creativity](https://blog.zdsmith.com/notes/creativity.html)
 
-- [How Janet's PEG module works](https://bakpakin.com/writing/how-janets-peg-works.html)
+- [My Automagic NixOS Wireguard Setup](https://christine.website/blog/my-wireguard-setup-2021-02-06)
 
-- [Bluetooth trackball Mark II](https://blog.jfedor.org/2021/01/bluetooth-trackball-mark-ii.html)
+- [Fun with a Functional Programming Interview Question](https://danielbmarkham.com/fun-with-an-interview-question/)
 
-- [Killing Containers at Scale](https://blog.repl.it/killing-containers-at-scale)
+- [Show HN: Epub.to – ePub to pdf, mobi, Kindle, and an API](https://epub.to)
 
-- [Threadripper 3990X: The Quest To Compile 1B Lines Of C++ On 64 Cores](https://blogs.embarcadero.com/threadripper-3990x-the-quest-to-compile-1-billion-lines-of-c-on-64-cores/)
+- [Double-thinking in SQL](https://explainextended.com/2009/07/12/double-thinking-in-sql/)
 
-- [Myths of Vaccine Manufacturing](https://blogs.sciencemag.org/pipeline/archives/2021/02/02/myths-of-vaccine-manufacturing)
+- [Using Nixos as a router](https://francis.begyn.be/blog/nixos-home-router)
 
-- [Google’s approach to replacing the cookie is drawing antitrust scrutiny](https://digiday.com/media/why-googles-approach-to-replacing-the-cookie-is-drawing-antitrust-scrutiny)
+- [pistorm 68000 Hardware Emulator](https://github.com/captain-amygdala/pistorm)
 
-- [Burrows–Wheeler transform](https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform)
+- [v86 -- x86 virtualization in the browser](https://github.com/copy/v86)
 
-- [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/)
+- [Mezzano: Operating system written in Common Lisp](https://github.com/froggey/Mezzano#mezzano-an-operating-system-written-in-common-lisp)
 
-- [Proposal for an App History API](https://github.com/WICG/proposals/issues/20)
+- [Supercookie: Browser Fingerprinting via Favicon](https://github.com/jonasstrehle/supercookie)
 
-- [A Superoptimizer for LLVM IR](https://github.com/google/souper)
+- [Awesome Quantified Self](https://github.com/woop/awesome-quantified-self)
 
-- [I converted my demoscene font collection to PNG and put it on GitHub](https://github.com/ianhan/BitmapFonts)
+- [I bought 200 Raspberry Pi Model B’s and I’m going to fix them: Part 5](https://james.li/i-bought-200-raspberry-pi-model-bs-and-im-going-to-fix-them-part-5/)
 
-- [Show HN: Haven – Run a private website to share with only the people you choose](https://havenweb.org/)
+- [Self-Directed Pandas Crash Course](https://kellyfoulk.herokuapp.com/post/3)
 
-- [Quantitative Economics with Julia - Table of Contents](https://julia.quantecon.org/index_toc.html)
+- [Show HN: LibreTranslate – Open-source neural machine translation API](https://libretranslate.com/)
 
-- [Homebrew Python Is Not For You](https://justinmayer.com/posts/homebrew-python-is-not-for-you/)
+- [FreeBSD 13.0 Beta1 Now Available](https://lists.freebsd.org/pipermail/freebsd-stable/2021-February/093047.html)
 
-- [Building in Public Definite Guide: Use Transparency to Win](https://kevoncheung.com/building-in-public)
+- [Architecture.md](https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html)
 
-- [The Only M1 Benchmark That Matters](https://lars.ingebrigtsen.no/2021/01/13/the-only-m1-benchmark-that-matters/)
+- [Further Adventures in Cython Profiling](https://mclare.blog/posts/further-adventures-in-cython-profiling)
 
-- [Concatenability principle](https://minimalmodeling.substack.com/p/concatenability-principle)
+- [Tracking NFS problems down to the SFP level](https://news.sherlock.stanford.edu/posts/tracking-nfs-problems-down-to-the-sfp-level)
 
-- [Monkey.org](https://monkey.org/)
+- [The Eisel-Lemire ParseNumberF64 Algorithm](https://nigeltao.github.io/blog/2020/eisel-lemire.html)
 
-- [Four books professional developers should read (and a few you don't need to)](https://notes.eatonphil.com/books-developers-should-read.html)
+- [Is license compatibility a partial order?](https://opensource.stackexchange.com/questions/11251/is-license-compatibility-a-partial-order)
 
-- [Drawbacks of developing in containers](https://ntietz.com/tech-blog/drawbacks-of-developing-in-containers/)
+- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
-- [Show HN: Egyptian Ratscrew Online](https://playcards.club)
+- [“I am dying of a broken heart” (2018)](https://papyrus-stories.com/2018/10/10/i-am-dying-of-a-broken-heart/)
 
-- [The mathematics of shuffling](https://plus.maths.org/content/mathematics-shuffling)
+- [New quantum receiver the first to detect entire radio frequency spectrum](https://phys.org/news/2021-02-quantum-entire-radio-frequency-spectrum.html)
 
-- [fzf - the basics part 1 - layout](https://qmacro.org/autodidactics/2021/02/02/fzf-the-basics-1-layout/)
+- [Rethinking Sanakirja](https://pijul.org/posts/2021-02-06-rethinking-sanakirja/)
 
-- [Relationship Hero (YC S17) Is Hiring Couples Coaches – Full Time Remote](https://relationshiphero.com/careers?role=coach)
+- [Practical problems in real name policies](https://shkspr.mobi/blog/2021/02/whats-my-name-again/)
 
-- [Is Rust a Functional Programming Language?](https://robert.kra.hn/posts/2021-02-03_is-rust-fp/)
+- [GHC 9.0 Reading Guide](https://takenobu-hs.github.io/downloads/haskell_ghc_reading_guide.pdf)
 
-- [RNA Memory Hypothesis](https://scottlocklin.wordpress.com/2021/02/03/rna-memory-hypothesis/)
+- [How to lower the price of plant-based meat](https://us14.campaign-archive.com/?u=66df320da8400b581cbc1b539&id=cea38367f1)
 
-- [Beam has raised $9.5M to reinvent the browser](https://sifted.eu/articles/beam/)
+- [Tini Veltman (1931–2021): From Assembly Language to a Nobel Prize](https://writings.stephenwolfram.com/2021/01/tini-veltman-1931-2021-from-assembly-language-to-a-nobel-prize/)
 
-- [Sequencing your DNA with a USB dongle and open source code](https://stackoverflow.blog/2021/02/03/sequencing-your-dna-with-a-usb-dongle-and-open-source-code/)
+- [Saharan dust: Orange skies and sandy snow in southern Europe](https://www.bbc.com/news/av/world-europe-55966867)
 
-- [Cargo Cult Software Engineering (2000)](https://stevemcconnell.com/articles/cargo-cult-software-engineering/)
+- [Some Arabic and Persian accounts of the export of tin from Cornwall](https://www.caitlingreen.org/2020/11/arabic-and-persian-accounts-of-cornish-tin-trade.html)
 
-- [What's new in PHP 8.1](https://stitcher.io/blog/new-in-php-81)
+- [Ford Makes $29B Commitment to Electric and Self-Driving Cars](https://www.caranddriver.com/news/a35432253/ford-ev-commitment-announced/)
 
-- [When Pushing is Not Enough, A Git Story](https://tech.lightspeedhq.com/when-pushing-is-not-enough-a-git-story/)
+- [Scientists develop transparent wood that is stronger and lighter than glass](https://www.cbc.ca/1.5902739)
 
-- [Cold Paths](https://timkellogg.me/blog/2021/01/29/cold-paths)
+- [Scientists Develop Transparent Wood That Is Stronger and Lighter Than Glass](https://www.cbc.ca/radio/quirks/scientists-develop-transparent-wood-that-is-stronger-and-lighter-than-glass-1.5902739)
 
-- [DVD Laser Scanner Microscope](https://www.gaudi.ch/GaudiLabs/?page_id=652)
+- [Is abstraction killing civilization?](https://www.datagubbe.se/endofciv/)
 
-- [The world is full of wasted motion](https://www.neelnanda.io/blog/mini-blog-post-22-the-8020-rule)
+- [Parents of daughters are more likely to divorce than those with sons](https://www.economist.com/science-and-technology/2021/02/06/daughters-provoke-parental-strife)
 
-- [3 Things to Try When You Can’t Make a Trait Object](https://www.possiblerust.com/pattern/3-things-to-try-when-you-can-t-make-a-trait-object)
+- [Folds are constructor substitution](https://www.haskellforall.com/2021/02/folds-are-constructor-substitution.html)
 
-- [Parler CEO says he was fired by board](https://www.reuters.com/article/ctech-us-parler-ceo-idCAKBN2A33B0-OCATC)
+- [Setting up a Signal Proxy using FreeBSD](https://www.neelc.org/posts/freebsd-signal-proxy/)
 
-- [Why I chose this tech stack](https://www.spakhm.com/p/tech-stack)
+- [Paul Taylor, the engineer who created the TTY machine for the deaf, has died](https://www.oregonlive.com/health/2021/02/he-died-in-portland-his-legacy-of-helping-the-deaf-communicate-with-the-world.html)
 
-- [Spanish crew shot an alternative Dracula after Bela Lugosi had gone to bed](https://www.theguardian.com/film/2021/feb/03/they-came-at-night-how-a-spanish-crew-shot-an-alternative-dracula-after-bela-lugosi-had-gone-to-bed)
+- [Why We Fight over Fiction](https://www.overcomingbias.com/2020/11/why-we-fight-over-fiction.html)
 
-- [Amazon shortchanged drivers $61.7M in tips](https://www.washingtonpost.com/technology/2021/02/02/amazon-ftc-tip-settlement/)
+- [A one-bit processor explained: reverse-engineering the vintage MC14500B](https://www.righto.com/2021/02/a-one-bit-processor-explained-reverse.html)
 
-- [Bill Evans – The Creative Process and Self-Teaching (2007) [video]](https://www.youtube.com/watch?v=YEHWaGuurUk)
+- [A Woman Who Stood Between America and a Generation of ‘Thalidomide Babies’](https://www.smithsonianmag.com/science-nature/woman-who-stood-between-america-and-epidemic-birth-defects-180963165/)
 
-- [Show HN: YTT Tech – My curated database of instructional YouTube Videos](https://ytt-tech.com)
+- [A Study of Eccentricity](https://www.strangeloopcanon.com/p/a-study-of-eccentricity)
+
+- [Show HN: You-tldr – easy-to-read transcripts of Youtube videos](https://you-tldr.com/)
