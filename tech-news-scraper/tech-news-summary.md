@@ -1,101 +1,97 @@
-- [ditaa: DIagrams Through Ascii Art](http://ditaa.sourceforge.net/)
+- [Base64.ai – Extract text, data, photos and more from all types of docs](http://base64.ai/)
 
-- [On the Missed Opportunities of Static Types](http://sigusr2.net/on-the-missed-opportunities-of-static-types.html)
+- [Foldable Words](http://bit-player.org/2021/foldable-words)
 
-- [The Mediocre Programmer](http://themediocreprogrammer.com/what-is-the-mediocre-programmer.html#what-is-the-mediocre-programmer)
+- [Computer intruder tried to poison Florida city’s drinking water with lye](https://arstechnica.com/information-technology/2021/02/computer-intruder-tried-to-poison-drinking-water-for-a-small-florida-city/)
 
-- [The /bin/true Command and Copyright](http://trillian.mit.edu/~jc/humor/ATT_Copyright_true.html)
+- [Pippin Kickstart 1.1](https://blitter.net/blog/2021/02/09/pippin-kickstart-1-1/)
 
-- [Evolving Frameworks: A Pattern Language for Developing Object-Oriented Frameworks (1996)](http://www.dsc.ufcg.edu.br/~jacques/cursos/map/html/frame/evolve.html)
+- [Turtle visual cortex is non-retinotopic](https://blog.jordan.matelsky.com/365papers/141/)
 
-- [A one-bit processor explained: reverse-engineering the vintage MC14500B](http://www.righto.com/2021/02/a-one-bit-processor-explained-reverse.html)
+- [An SQL Solution for Jupyter](https://blog.jupyter.org/an-sql-solution-for-jupyter-ef4a00a0d925)
 
-- [Scientific community on report of a strange chemical at Venus: Probably not](https://arstechnica.com/science/2021/02/scientific-community-on-report-of-a-strange-chemical-at-venus-probably-not/)
+- [Turning an old Amazon Kindle into a eink development platform](https://blog.lidskialf.net/2021/02/08/turning-an-old-kindle-into-a-eink-development-platform/)
 
-- [Inline caching: quickening](https://bernsteinbear.com/blog/inline-caching-quickening/)
+- [What's an SPF Record?](https://blog.ohmysmtp.com/blog/whats-an-spf-record/)
 
-- [creativity](https://blog.zdsmith.com/notes/creativity.html)
+- [GlobalSign: RSA-1024 leaf certificate issued after 2013-12-31](https://bugzilla.mozilla.org/show_bug.cgi?id=1690807)
 
-- [My Automagic NixOS Wireguard Setup](https://christine.website/blog/my-wireguard-setup-2021-02-06)
+- [Haxe 4.2](https://community.haxe.org/t/haxe-4-2-0-is-released/2888)
 
-- [Fun with a Functional Programming Interview Question](https://danielbmarkham.com/fun-with-an-interview-question/)
+- [Posix Threads Programming](https://computing.llnl.gov/tutorials/pthreads/)
 
-- [Show HN: Epub.to – ePub to pdf, mobi, Kindle, and an API](https://epub.to)
+- [cURL supports rustls](https://daniel.haxx.se/blog/2021/02/09/curl-supports-rustls/)
 
-- [Double-thinking in SQL](https://explainextended.com/2009/07/12/double-thinking-in-sql/)
+- [10 Things I Hate About SQL](https://dev.to/shaqq/10-things-i-hate-about-sql-a9e)
 
-- [Using Nixos as a router](https://francis.begyn.be/blog/nixos-home-router)
+- [SDL Moves to GitHub](https://discourse.libsdl.org/t/sdl-moving-to-github/28700/5)
 
-- [pistorm 68000 Hardware Emulator](https://github.com/captain-amygdala/pistorm)
+- [Elfstedentocht](https://en.wikipedia.org/wiki/Elfstedentocht)
 
-- [v86 -- x86 virtualization in the browser](https://github.com/copy/v86)
+- [OpenStreetMap proven to be a highly accurate map in top US cities](https://eng.lyft.com/how-lyft-discovered-openstreetmap-is-the-freshest-map-for-rideshare-a7a41bf92ec)
 
-- [Mezzano: Operating system written in Common Lisp](https://github.com/froggey/Mezzano#mezzano-an-operating-system-written-in-common-lisp)
+- [Minesweeper automates root cause analysis as a first-line defense against bugs](https://engineering.fb.com/2021/02/09/developer-tools/minesweeper/)
 
-- [Supercookie: Browser Fingerprinting via Favicon](https://github.com/jonasstrehle/supercookie)
+- [Ham Radio Forms a Planet-Sized Space Weather Sensor Network](https://eos.org/features/ham-radio-forms-a-planet-sized-space-weather-sensor-network)
 
-- [Awesome Quantified Self](https://github.com/woop/awesome-quantified-self)
+- [Creeping as a Service](https://every.to/divinations/creeping-as-a-service-craas)
 
-- [I bought 200 Raspberry Pi Model B’s and I’m going to fix them: Part 5](https://james.li/i-bought-200-raspberry-pi-model-bs-and-im-going-to-fix-them-part-5/)
+- [Rust Foundation - Hello World](https://foundation.rust-lang.org/posts/2021-02-08-hello-world/)
 
-- [Self-Directed Pandas Crash Course](https://kellyfoulk.herokuapp.com/post/3)
+- [An extension to Github auto-merge feature](https://github.com/apps/mergequeue)
 
-- [Show HN: LibreTranslate – Open-source neural machine translation API](https://libretranslate.com/)
+- [Github1s – One second to read GitHub code with VS Code](https://github.com/conwnet/github1s)
 
-- [FreeBSD 13.0 Beta1 Now Available](https://lists.freebsd.org/pipermail/freebsd-stable/2021-February/093047.html)
+- [Flynt: Convert old Python string formatting to f-strings](https://github.com/ikamensh/flynt)
 
-- [Architecture.md](https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html)
+- [Dependency on rust removes support for a number of platforms · Issue #5771 · pyca/cryptography](https://github.com/pyca/cryptography/issues/5771)
 
-- [Further Adventures in Cython Profiling](https://mclare.blog/posts/further-adventures-in-cython-profiling)
+- [Domain Specific Languages for Computational Law](https://github.com/smucclaw/dsl)
 
-- [Tracking NFS problems down to the SFP level](https://news.sherlock.stanford.edu/posts/tracking-nfs-problems-down-to-the-sfp-level)
+- [Browser Fuzzing at Mozilla](https://hacks.mozilla.org/2021/02/browser-fuzzing-at-mozilla/)
 
-- [The Eisel-Lemire ParseNumberF64 Algorithm](https://nigeltao.github.io/blog/2020/eisel-lemire.html)
+- [Looking at GSM security 30 years later](https://harrisonsand.com/gsm-security/)
 
-- [Is license compatibility a partial order?](https://opensource.stackexchange.com/questions/11251/is-license-compatibility-a-partial-order)
+- [Starting Over: A FOSS proposal for a new type of OS for a new type of computer](https://liam-on-linux.livejournal.com/77065.html)
 
-- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [Pattern matching accepted for Python](https://lwn.net/Articles/845480/)
 
-- [“I am dying of a broken heart” (2018)](https://papyrus-stories.com/2018/10/10/i-am-dying-of-a-broken-heart/)
+- [Madaidan's Insecurities](https://madaidans-insecurities.github.io/linux.html)
 
-- [New quantum receiver the first to detect entire radio frequency spectrum](https://phys.org/news/2021-02-quantum-entire-radio-frequency-spectrum.html)
+- [iRacing Telemetry with F#](https://markjames.dev/2021-02-09-iracing-telemetry-fsharp/)
 
-- [Rethinking Sanakirja](https://pijul.org/posts/2021-02-06-rethinking-sanakirja/)
+- [Sunsetting PHP Faker](https://marmelab.com/blog/2020/10/21/sunsetting-faker.html)
 
-- [Practical problems in real name policies](https://shkspr.mobi/blog/2021/02/whats-my-name-again/)
+- [Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610)
 
-- [GHC 9.0 Reading Guide](https://takenobu-hs.github.io/downloads/haskell_ghc_reading_guide.pdf)
+- [Dependent and independent pieces of data](https://minimalmodeling.substack.com/p/dependent-and-independent-pieces)
 
-- [How to lower the price of plant-based meat](https://us14.campaign-archive.com/?u=66df320da8400b581cbc1b539&id=cea38367f1)
+- [Fedora on the PinePhone: Pipewire Calling](https://odysee.com/@linmob:3/fedora-on-the-pinephone-pipewire-calling:1)
 
-- [Tini Veltman (1931–2021): From Assembly Language to a Nobel Prize](https://writings.stephenwolfram.com/2021/01/tini-veltman-1931-2021-from-assembly-language-to-a-nobel-prize/)
+- [Crackpot Cryptography and Security Theater](https://soatok.blog/2021/02/09/crackpot-cryptography-and-security-theater/)
 
-- [Saharan dust: Orange skies and sandy snow in southern Europe](https://www.bbc.com/news/av/world-europe-55966867)
+- [Python behind the scenes #8: how Python integers work](https://tenthousandmeters.com/blog/python-behind-the-scenes-8-how-python-integers-work/)
 
-- [Some Arabic and Persian accounts of the export of tin from Cornwall](https://www.caitlingreen.org/2020/11/arabic-and-persian-accounts-of-cornish-tin-trade.html)
+- [Cops are playing music while citizens are filming to trigger copyright filters](https://twitter.com/jason_koebler/status/1359213426740895744)
 
-- [Ford Makes $29B Commitment to Electric and Self-Driving Cars](https://www.caranddriver.com/news/a35432253/ford-ev-commitment-announced/)
+- [The Real Novelty of the Arpanet](https://twobithistory.org/2021/02/07/arpanet.html)
 
-- [Scientists develop transparent wood that is stronger and lighter than glass](https://www.cbc.ca/1.5902739)
+- [Brain2Pix: Video Reconstruction from Brain Activity](https://www.biorxiv.org/content/10.1101/2021.02.02.429430v1)
 
-- [Scientists Develop Transparent Wood That Is Stronger and Lighter Than Glass](https://www.cbc.ca/radio/quirks/scientists-develop-transparent-wood-that-is-stronger-and-lighter-than-glass-1.5902739)
+- [Thinking too much can be bad for you](https://www.economist.com/1843/2012/12/29/why-thinking-too-much-can-be-bad-for-you)
 
-- [Is abstraction killing civilization?](https://www.datagubbe.se/endofciv/)
+- [Edbrowse, a Command Line Editor Browser](https://www.edbrowse.org/)
 
-- [Parents of daughters are more likely to divorce than those with sons](https://www.economist.com/science-and-technology/2021/02/06/daughters-provoke-parental-strife)
+- [Lumi is hiring to build a marketplace for sustainable factories – work anywhere](https://www.lumi.com/jobs)
 
-- [Folds are constructor substitution](https://www.haskellforall.com/2021/02/folds-are-constructor-substitution.html)
+- [an atonement of nano](https://www.noa-s.org/nano.html)
 
-- [Setting up a Signal Proxy using FreeBSD](https://www.neelc.org/posts/freebsd-signal-proxy/)
+- [Haskell: The Bad Parts, part 2 (2020)](https://www.snoyman.com/blog/2020/11/haskell-bad-parts-2)
 
-- [Paul Taylor, the engineer who created the TTY machine for the deaf, has died](https://www.oregonlive.com/health/2021/02/he-died-in-portland-his-legacy-of-helping-the-deaf-communicate-with-the-world.html)
+- [Haskell: The Bad Parts, part 3](https://www.snoyman.com/blog/2020/12/haskell-bad-parts-3/)
 
-- [Why We Fight over Fiction](https://www.overcomingbias.com/2020/11/why-we-fight-over-fiction.html)
+- [The Queen has more power over British law than we thought](https://www.theguardian.com/commentisfree/2021/feb/08/queen-power-british-law-queens-consent)
 
-- [A one-bit processor explained: reverse-engineering the vintage MC14500B](https://www.righto.com/2021/02/a-one-bit-processor-explained-reverse.html)
+- [How to Get Startup Ideas](https://www.wilburlabs.com/blueprints/how-to-get-startup-ideas)
 
-- [A Woman Who Stood Between America and a Generation of ‘Thalidomide Babies’](https://www.smithsonianmag.com/science-nature/woman-who-stood-between-america-and-epidemic-birth-defects-180963165/)
-
-- [A Study of Eccentricity](https://www.strangeloopcanon.com/p/a-study-of-eccentricity)
-
-- [Show HN: You-tldr – easy-to-read transcripts of Youtube videos](https://you-tldr.com/)
+- [Fedora on the PinePhone: Pipewire Calling](https://www.youtube.com/watch?v=TcLnC74Vo7c)
