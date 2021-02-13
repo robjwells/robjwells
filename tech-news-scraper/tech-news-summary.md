@@ -1,97 +1,99 @@
-- [Base64.ai – Extract text, data, photos and more from all types of docs](http://base64.ai/)
+- [The GPL-Violations.org Project](http://gpl-violations.org/)
 
-- [Foldable Words](http://bit-player.org/2021/foldable-words)
+- [Linux Memory Management FAQ](http://landley.net/writing/memory-faq.txt)
 
-- [Computer intruder tried to poison Florida city’s drinking water with lye](https://arstechnica.com/information-technology/2021/02/computer-intruder-tried-to-poison-drinking-water-for-a-small-florida-city/)
+- [Calvin and Hobbes Search Engine](http://michaelyingling.com/random/calvin_and_hobbes/)
 
-- [Pippin Kickstart 1.1](https://blitter.net/blog/2021/02/09/pippin-kickstart-1-1/)
+- [Setting up a CI system part 2: Generating and deploying your test environment](http://www.mupuf.org/blog/2021/02/10/setting-up-a-ci-system-part-2-generating-and-deploying-your-test-environment/)
 
-- [Turtle visual cortex is non-retinotopic](https://blog.jordan.matelsky.com/365papers/141/)
+- [Updates to the Oil FAQ](http://www.oilshell.org/blog/2021/02/new-faqs.html)
 
-- [An SQL Solution for Jupyter](https://blog.jupyter.org/an-sql-solution-for-jupyter-ef4a00a0d925)
+- [Jerry, Inc. (YC S17) Is Hiring a VP of Engineering](https://apply.workable.com/jerry/j/B8AC064D37/)
 
-- [Turning an old Amazon Kindle into a eink development platform](https://blog.lidskialf.net/2021/02/08/turning-an-old-kindle-into-a-eink-development-platform/)
+- [Fictional Cryptocurrencies](https://astralcodexten.substack.com/p/list-of-fictional-cryptocurrencies)
 
-- [What's an SPF Record?](https://blog.ohmysmtp.com/blog/whats-an-spf-record/)
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
 
-- [GlobalSign: RSA-1024 leaf certificate issued after 2013-12-31](https://bugzilla.mozilla.org/show_bug.cgi?id=1690807)
+- [Small objects and pointer tagging](https://bernsteinbear.com/blog/small-objects/)
 
-- [Haxe 4.2](https://community.haxe.org/t/haxe-4-2-0-is-released/2888)
+- [Goodbye YC](https://blog.aaronkharris.com/goodbye-yc)
 
-- [Posix Threads Programming](https://computing.llnl.gov/tutorials/pthreads/)
+- [A crash course on running your own servers with a shoestring budget](https://blog.alexgleason.me/run-your-own-server/)
 
-- [cURL supports rustls](https://daniel.haxx.se/blog/2021/02/09/curl-supports-rustls/)
+- [I have no name, and I must recurse](https://blog.astrosnail.pt.eu.org/2021-02-11-snake.html)
 
-- [10 Things I Hate About SQL](https://dev.to/shaqq/10-things-i-hate-about-sql-a9e)
+- [Creating an Always On E-Ink Org Agenda](https://blog.lambda.cx/posts/org-agenda-eink/)
 
-- [SDL Moves to GitHub](https://discourse.libsdl.org/t/sdl-moving-to-github/28700/5)
+- [IMF researchers: digital footprint yields better credit assessment](https://blogs.imf.org/2020/12/17/what-is-really-new-in-fintech/)
 
-- [Elfstedentocht](https://en.wikipedia.org/wiki/Elfstedentocht)
+- [The Miyawaki Method: A Better Way to Build Forests? (2019)](https://daily.jstor.org/the-miyawaki-method-a-better-way-to-build-forests/)
 
-- [OpenStreetMap proven to be a highly accurate map in top US cities](https://eng.lyft.com/how-lyft-discovered-openstreetmap-is-the-freshest-map-for-rideshare-a7a41bf92ec)
+- [For The Love Of All That's Holy, Use CCL To Control Complexity In Your Systems](https://danielbmarkham.com/for-the-love-of-all-thats-holy-use-ccl-to-control-complexity-in-your-systems/)
 
-- [Minesweeper automates root cause analysis as a first-line defense against bugs](https://engineering.fb.com/2021/02/09/developer-tools/minesweeper/)
+- [How .NET container images are maintained](https://devblogs.microsoft.com/dotnet/staying-safe-with-dotnet-containers/)
 
-- [Ham Radio Forms a Planet-Sized Space Weather Sensor Network](https://eos.org/features/ham-radio-forms-a-planet-sized-space-weather-sensor-network)
+- [SerenityOS - Writing a full chain exploit](https://devcraft.io/2021/02/11/serenityos-writing-a-full-chain-exploit.html)
 
-- [Creeping as a Service](https://every.to/divinations/creeping-as-a-service-craas)
+- [Show HN: Digital Pottery in the Browser](https://digital-pottery.glitch.me/)
 
-- [Rust Foundation - Hello World](https://foundation.rust-lang.org/posts/2021-02-08-hello-world/)
+- [Self-Organising Textures](https://distill.pub/selforg/2021/textures)
 
-- [An extension to Github auto-merge feature](https://github.com/apps/mergequeue)
+- [Uncovering a 24-year-old bug in the Linux Kernel](https://engineering.skroutz.gr/blog/uncovering-a-24-year-old-bug-in-the-linux-kernel/)
 
-- [Github1s – One second to read GitHub code with VS Code](https://github.com/conwnet/github1s)
+- [Why Wasn't Ruby 3 Faster?](https://fastruby.io/blog/ruby/performance/why-wasnt-ruby-3-faster.html)
 
-- [Flynt: Convert old Python string formatting to f-strings](https://github.com/ikamensh/flynt)
+- [Flameshot – Superb Screenshot Tool](https://github.com/flameshot-org/flameshot/)
 
-- [Dependency on rust removes support for a number of platforms · Issue #5771 · pyca/cryptography](https://github.com/pyca/cryptography/issues/5771)
+- [Ggwave: Tiny Data-over-Sound Library](https://github.com/ggerganov/ggwave#ggwave)
 
-- [Domain Specific Languages for Computational Law](https://github.com/smucclaw/dsl)
+- [Show HN: Search inside YouTube videos using natural language queries](https://github.com/haltakov/natural-language-youtube-search)
 
-- [Browser Fuzzing at Mozilla](https://hacks.mozilla.org/2021/02/browser-fuzzing-at-mozilla/)
+- [Swift for TensorFlow Shuts Down](https://github.com/tensorflow/swift)
 
-- [Looking at GSM security 30 years later](https://harrisonsand.com/gsm-security/)
+- [windicss - Next generation tailwindcss compiler](https://github.com/voorjaar/windicss)
 
-- [Starting Over: A FOSS proposal for a new type of OS for a new type of computer](https://liam-on-linux.livejournal.com/77065.html)
+- [Unpacking Interview Questions](https://jacobian.org/series/unpacking-interview-questions/)
 
-- [Pattern matching accepted for Python](https://lwn.net/Articles/845480/)
+- [6 ways to log ineffectively](https://jhall.io/posts/6-logging-mistakes/)
 
-- [Madaidan's Insecurities](https://madaidans-insecurities.github.io/linux.html)
+- [DTB parser implementing notes](https://kivikakk.ee/2021/02/13/dtb-parser-implementing-notes/)
 
-- [iRacing Telemetry with F#](https://markjames.dev/2021-02-09-iracing-telemetry-fsharp/)
+- [Why I Built Litestream](https://litestream.io/blog/why-i-built-litestream/)
 
-- [Sunsetting PHP Faker](https://marmelab.com/blog/2020/10/21/sunsetting-faker.html)
+- [So, You Want to Learn to Break Ciphers](https://littlemaninmyhead.wordpress.com/2015/09/28/so-you-want-to-learn-to-break-ciphers/)
 
-- [Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610)
+- [Short fat engineers are undervalued](https://nested.substack.com/p/short-fat-engineers-are-undervalued)
 
-- [Dependent and independent pieces of data](https://minimalmodeling.substack.com/p/dependent-and-independent-pieces)
+- [AWS Babelfish: The Elephant in the PostgreSQL Room?](https://postgresql.fund/blog/babelfish-the-elephant-in-the-room/)
 
-- [Fedora on the PinePhone: Pipewire Calling](https://odysee.com/@linmob:3/fedora-on-the-pinephone-pipewire-calling:1)
+- [John Martin's Illustrations of Paradise Lost (1827)](https://publicdomainreview.org/collection/john-martin-s-illustrations-of-paradise-lost-1827)
 
-- [Crackpot Cryptography and Security Theater](https://soatok.blog/2021/02/09/crackpot-cryptography-and-security-theater/)
+- [Limit specific process memory on desktop linux with cgroups and earlyoom](https://raymii.org/s/articles/Limit_specific_process_memory_on_desktop_linux_with_cgroups.html)
 
-- [Python behind the scenes #8: how Python integers work](https://tenthousandmeters.com/blog/python-behind-the-scenes-8-how-python-integers-work/)
+- [The web didn't change; you did](https://remysharp.com/2021/02/11/the-web-didnt-change-you-did)
 
-- [Cops are playing music while citizens are filming to trigger copyright filters](https://twitter.com/jason_koebler/status/1359213426740895744)
+- [FIDO2 security key company releases hardware that's open source and uses Rust](https://solokeys.com/blogs/news/our-solo-v2-campaign-launches-on-january-26th)
 
-- [The Real Novelty of the Arpanet](https://twobithistory.org/2021/02/07/arpanet.html)
+- [Remote Desktop Access History: Pretty Cool, Until a Hacker Does It](https://tedium.co/2021/02/12/remote-desktop-access-history/)
 
-- [Brain2Pix: Video Reconstruction from Brain Activity](https://www.biorxiv.org/content/10.1101/2021.02.02.429430v1)
+- [The Future of Operating Systems](https://tomaka.medium.com/the-future-of-operating-systems-efa31e17d66d)
 
-- [Thinking too much can be bad for you](https://www.economist.com/1843/2012/12/29/why-thinking-too-much-can-be-bad-for-you)
+- [“I saw that you spun up an Ubuntu image in Azure”](https://twitter.com/LucaBongiorni/status/1359560585990537216)
 
-- [Edbrowse, a Command Line Editor Browser](https://www.edbrowse.org/)
+- [The Wayland Protocol](https://wayland-book.com/)
 
-- [Lumi is hiring to build a marketplace for sustainable factories – work anywhere](https://www.lumi.com/jobs)
+- [Best Story Wins](https://www.collaborativefund.com/blog/story/)
 
-- [an atonement of nano](https://www.noa-s.org/nano.html)
+- [Microbial ecosystems in the mouth and gut are linked to many ills](https://www.economist.com/science-and-technology/2021/02/10/microbial-ecosystems-in-the-mouth-and-gut-are-linked-to-many-ills)
 
-- [Haskell: The Bad Parts, part 2 (2020)](https://www.snoyman.com/blog/2020/11/haskell-bad-parts-2)
+- [SVG: The Good, the Bad and the Ugly](https://www.eisfunke.com/article/svg-the-good-the-bad-and-the-ugly.html)
 
-- [Haskell: The Bad Parts, part 3](https://www.snoyman.com/blog/2020/12/haskell-bad-parts-3/)
+- [Ditherpunk 2 – beyond 1-bit](https://www.makeworld.gq/2021/02/dithering.html)
 
-- [The Queen has more power over British law than we thought](https://www.theguardian.com/commentisfree/2021/feb/08/queen-power-british-law-queens-consent)
+- [The Making of Facebook’s Supreme Court](https://www.newyorker.com/tech/annals-of-technology/inside-the-making-of-facebooks-supreme-court)
 
-- [How to Get Startup Ideas](https://www.wilburlabs.com/blueprints/how-to-get-startup-ideas)
+- [Mathematician Solves Sensitivity Conjecture in Two Pages (2019)](https://www.quantamagazine.org/mathematician-solves-computer-science-conjecture-in-two-pages-20190725/)
 
-- [Fedora on the PinePhone: Pipewire Calling](https://www.youtube.com/watch?v=TcLnC74Vo7c)
+- [Svgrepo: Browse SVG vectors and icons](https://www.svgrepo.com/)
+
+- [Killer Whales: 'Transient' Orcas Are Thriving](https://www.theatlantic.com/science/archive/2021/01/orcas-killer-whale-resident-transient/617862/)
