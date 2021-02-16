@@ -1,99 +1,101 @@
-- [The GPL-Violations.org Project](http://gpl-violations.org/)
+- [Software Architecture: How You Make Them Care](http://beza1e1.tuxen.de/architecture_care.html)
 
-- [Linux Memory Management FAQ](http://landley.net/writing/memory-faq.txt)
+- [Windows Refund Day](http://marc.merlins.org/linux/refundday/#:~:text=For%20those%20who%20hadn%27t,with%20the%20machine%20they%20bought)
 
-- [Calvin and Hobbes Search Engine](http://michaelyingling.com/random/calvin_and_hobbes/)
+- [Starting a GNU Screen session via SSH's ~/.ssh/config](http://noone.org/blog/English/Computer/Shell/Starting%20a%20GNU%20Screen%20session%20via%20ssh_config.html)
 
-- [Setting up a CI system part 2: Generating and deploying your test environment](http://www.mupuf.org/blog/2021/02/10/setting-up-a-ci-system-part-2-generating-and-deploying-your-test-environment/)
+- [Error handling with Status(Or) (2017)](http://www.furidamu.org/blog/2017/01/28/error-handling-with-statusor/)
 
-- [Updates to the Oil FAQ](http://www.oilshell.org/blog/2021/02/new-faqs.html)
+- [Program = Proof](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf)
 
-- [Jerry, Inc. (YC S17) Is Hiring a VP of Engineering](https://apply.workable.com/jerry/j/B8AC064D37/)
+- [Typing is Hard](https://3fx.ch/typing-is-hard.html)
 
-- [Fictional Cryptocurrencies](https://astralcodexten.substack.com/p/list-of-fictional-cryptocurrencies)
+- [The Physics of baking good Pizza [pdf]](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf)
 
-- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
+- [Is This a Branch?](https://bartwronski.com/2021/01/18/is-this-a-branch/)
 
-- [Small objects and pointer tagging](https://bernsteinbear.com/blog/small-objects/)
+- [Don't Mess with Backprop: Doubts about Biologically Plausible Deep Learning](https://blog.evjang.com/2021/02/backprop.html)
 
-- [Goodbye YC](https://blog.aaronkharris.com/goodbye-yc)
+- [26 Years… of Delphi](https://blogs.embarcadero.com/26-years-of-delphi/)
 
-- [A crash course on running your own servers with a shoestring budget](https://blog.alexgleason.me/run-your-own-server/)
+- [The Worst Experience I've Had With an aarch64 MacBook](https://christine.website/blog/apple-macbook-air-m1-review-2021-02-15)
 
-- [I have no name, and I must recurse](https://blog.astrosnail.pt.eu.org/2021-02-11-snake.html)
+- [What security does a default OpenBSD installation offer?](https://dataswamp.org/~solene/2021-02-14-openbsd-default-security.html)
 
-- [Creating an Always On E-Ink Org Agenda](https://blog.lambda.cx/posts/org-agenda-eink/)
+- [Fastcheck: Property based testing for JavaScript and TypeScript](https://dubzzz.github.io/fast-check.github.com/)
 
-- [IMF researchers: digital footprint yields better credit assessment](https://blogs.imf.org/2020/12/17/what-is-really-new-in-fintech/)
+- [Media files extracted from North Korea's Red Star OS](https://github.com/BlackOtton/RedStar-Media)
 
-- [The Miyawaki Method: A Better Way to Build Forests? (2019)](https://daily.jstor.org/the-miyawaki-method-a-better-way-to-build-forests/)
+- [Sourcetrail: Free and open-source interactive source explorer](https://github.com/CoatiSoftware/Sourcetrail)
 
-- [For The Love Of All That's Holy, Use CCL To Control Complexity In Your Systems](https://danielbmarkham.com/for-the-love-of-all-thats-holy-use-ccl-to-control-complexity-in-your-systems/)
+- [NattyNarwhal/LobstersNntp: Lobsters NNTP gateway](https://github.com/NattyNarwhal/LobstersNntp)
 
-- [How .NET container images are maintained](https://devblogs.microsoft.com/dotnet/staying-safe-with-dotnet-containers/)
+- [Meshing Signed Distance Functions in Python](https://github.com/fogleman/sdf)
 
-- [SerenityOS - Writing a full chain exploit](https://devcraft.io/2021/02/11/serenityos-writing-a-full-chain-exploit.html)
+- [A lightweight metrics explorer for Prometheus, with a focus on on-the-fly analysis](https://github.com/spreadshirt/prometheus-explorer)
 
-- [Show HN: Digital Pottery in the Browser](https://digital-pottery.glitch.me/)
+- [How They SRE](https://github.com/upgundecha/howtheysre)
 
-- [Self-Organising Textures](https://distill.pub/selforg/2021/textures)
+- [Database as a Queue](https://isotopp.github.io/2021/01/20/database-as-a-queue.html)
 
-- [Uncovering a 24-year-old bug in the Linux Kernel](https://engineering.skroutz.gr/blog/uncovering-a-24-year-old-bug-in-the-linux-kernel/)
+- [Show HN: Jam, an Open Source Clubhouse (w/ WebRTC)](https://jam.systems)
 
-- [Why Wasn't Ruby 3 Faster?](https://fastruby.io/blog/ruby/performance/why-wasnt-ruby-3-faster.html)
+- [BuildZoom (better way to build custom homes) is hiring engineers in Arizona](https://jobs.lever.co/buildzoom)
 
-- [Flameshot – Superb Screenshot Tool](https://github.com/flameshot-org/flameshot/)
+- [All about thread-local storage](https://maskray.me/blog/2021-02-14-all-about-thread-local-storage)
 
-- [Ggwave: Tiny Data-over-Sound Library](https://github.com/ggerganov/ggwave#ggwave)
+- [How we hosted FOSDEM 2021 on Matrix](https://matrix.org/blog/2021/02/15/how-we-hosted-fosdem-2021-on-matrix)
 
-- [Show HN: Search inside YouTube videos using natural language queries](https://github.com/haltakov/natural-language-youtube-search)
+- [Running Nomad for home server](https://mrkaran.dev/posts/home-server-nomad/)
 
-- [Swift for TensorFlow Shuts Down](https://github.com/tensorflow/swift)
+- [Make the BeBox great again: TLS 1.2, inetd and more for PowerPC BeOS R5](https://oldvcr.blogspot.com/2021/02/make-bebox-great-again-tls-12-inetd-and.html)
 
-- [windicss - Next generation tailwindcss compiler](https://github.com/voorjaar/windicss)
+- [Pretty Good Phone Privacy [pdf]](https://raghavan.usc.edu/papers/pgpp-arxiv20.pdf)
 
-- [Unpacking Interview Questions](https://jacobian.org/series/unpacking-interview-questions/)
+- [Earley Parser](https://rahul.gopinath.org/post/2021/02/06/earley-parsing/)
 
-- [6 ways to log ineffectively](https://jhall.io/posts/6-logging-mistakes/)
+- [The Making of Lemmings (2015)](https://readonlymemory.vg/the-making-of-lemmings/)
 
-- [DTB parser implementing notes](https://kivikakk.ee/2021/02/13/dtb-parser-implementing-notes/)
+- [FPGA NTP Server](https://research.wand.net.nz/hardware/ntp.php)
 
-- [Why I Built Litestream](https://litestream.io/blog/why-i-built-litestream/)
+- [Livereload, the simple tool that can carry you very far](https://rtpg.co/2021/02/15/livereload.html)
 
-- [So, You Want to Learn to Break Ciphers](https://littlemaninmyhead.wordpress.com/2015/09/28/so-you-want-to-learn-to-break-ciphers/)
+- [Sonobus: Open-source app for low latency peer-to-peer audio](https://sonobus.net/)
 
-- [Short fat engineers are undervalued](https://nested.substack.com/p/short-fat-engineers-are-undervalued)
+- [Many Small Queries Are Efficient In SQLite (2016?)](https://sqlite.org/np1queryprob.html)
 
-- [AWS Babelfish: The Elephant in the PostgreSQL Room?](https://postgresql.fund/blog/babelfish-the-elephant-in-the-room/)
+- [The Therac-25 Incident](https://thedailywtf.com/articles/the-therac-25-incident)
 
-- [John Martin's Illustrations of Paradise Lost (1827)](https://publicdomainreview.org/collection/john-martin-s-illustrations-of-paradise-lost-1827)
+- [Network News Transfer Protocol (NNTP) (2006)](https://tools.ietf.org/html/rfc3977)
 
-- [Limit specific process memory on desktop linux with cgroups and earlyoom](https://raymii.org/s/articles/Limit_specific_process_memory_on_desktop_linux_with_cgroups.html)
+- [Faster JavaScript Calls](https://v8.dev/blog/adaptor-frame)
 
-- [The web didn't change; you did](https://remysharp.com/2021/02/11/the-web-didnt-change-you-did)
+- [Python strings are immutable, but only sometimes](https://web.eecs.utk.edu/~azh/blog/pythonstringsaremutable.html)
 
-- [FIDO2 security key company releases hardware that's open source and uses Rust](https://solokeys.com/blogs/news/our-solo-v2-campaign-launches-on-january-26th)
+- [ghostwriter: distraction-free Markdown editor, supports light/dark themes, live preview, export, etc](https://wereturtle.github.io/ghostwriter/)
 
-- [Remote Desktop Access History: Pretty Cool, Until a Hacker Does It](https://tedium.co/2021/02/12/remote-desktop-access-history/)
+- [Fake Amazon reviews 'being sold in bulk' online](https://www.bbc.com/news/business-56069472)
 
-- [The Future of Operating Systems](https://tomaka.medium.com/the-future-of-operating-systems-efa31e17d66d)
+- [Are the New M1 Macbooks Any Good for Deep Learning?](https://www.betterdatascience.com/m1-deep-learning/)
 
-- [“I saw that you spun up an Ubuntu image in Azure”](https://twitter.com/LucaBongiorni/status/1359560585990537216)
+- [The Long Hack: How China Exploited a U.S. Tech Supplier](https://www.bloomberg.com/features/2021-supermicro/)
 
-- [The Wayland Protocol](https://wayland-book.com/)
+- [Supermicro Hack: China Exploited a US Tech Supplier over Years [2021 Follow-Up]](https://www.bloomberg.com/features/2021-supermicro/#)
 
-- [Best Story Wins](https://www.collaborativefund.com/blog/story/)
+- [How Tim Cook transformed Apple after Steve Jobs](https://www.bloomberg.com/news/features/2021-02-09/this-is-how-tim-cook-transformed-apple-aapl-after-steve-jobs)
 
-- [Microbial ecosystems in the mouth and gut are linked to many ills](https://www.economist.com/science-and-technology/2021/02/10/microbial-ecosystems-in-the-mouth-and-gut-are-linked-to-many-ills)
+- [The name’s Ford, Alan Ford: how an Italian comic book spy became a Yugoslav hero](https://www.calvertjournal.com/articles/show/12465/alan-ford-comic-books-yugoslavia)
 
-- [SVG: The Good, the Bad and the Ugly](https://www.eisfunke.com/article/svg-the-good-the-bad-and-the-ugly.html)
+- [Virtual Boy Architecture](https://www.copetti.org/writings/consoles/virtual-boy/)
 
-- [Ditherpunk 2 – beyond 1-bit](https://www.makeworld.gq/2021/02/dithering.html)
+- [Ink – Scripting language for interactive stories](https://www.inklestudios.com/ink/)
 
-- [The Making of Facebook’s Supreme Court](https://www.newyorker.com/tech/annals-of-technology/inside-the-making-of-facebooks-supreme-court)
+- [Deep dive on Tether (Fall 2019)](https://www.kalzumeus.com/2019/10/28/tether-and-bitfinex/)
 
-- [Mathematician Solves Sensitivity Conjecture in Two Pages (2019)](https://www.quantamagazine.org/mathematician-solves-computer-science-conjecture-in-two-pages-20190725/)
+- [Who Should Stop Unethical A.I.?](https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai)
 
-- [Svgrepo: Browse SVG vectors and icons](https://www.svgrepo.com/)
+- [Closed loophole confirms the unreality of the quantum world (2018)](https://www.quantamagazine.org/closed-loophole-confirms-the-unreality-of-the-quantum-world-20180725/)
 
-- [Killer Whales: 'Transient' Orcas Are Thriving](https://www.theatlantic.com/science/archive/2021/01/orcas-killer-whale-resident-transient/617862/)
+- [Building Rich Terminal Dashboards](https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/)
+
+- [A Mathematician's Lament](https://www.youtube.com/watch?v=Ws6qmXDJgwU)
