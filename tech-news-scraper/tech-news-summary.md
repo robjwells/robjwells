@@ -1,101 +1,105 @@
-- [Software Architecture: How You Make Them Care](http://beza1e1.tuxen.de/architecture_care.html)
+- [Swiss File Knife – A Command Line Tools Collection](http://stahlworks.com/dev/swiss-file-knife.html)
 
-- [Windows Refund Day](http://marc.merlins.org/linux/refundday/#:~:text=For%20those%20who%20hadn%27t,with%20the%20machine%20they%20bought)
+- [Radio Amateur Copies Signal from Mars-Orbiting Satellite](http://www.arrl.org/news/british-columbia-radio-amateur-copies-signal-from-mars-orbiting-satellite)
 
-- [Starting a GNU Screen session via SSH's ~/.ssh/config](http://noone.org/blog/English/Computer/Shell/Starting%20a%20GNU%20Screen%20session%20via%20ssh_config.html)
+- [C as an intermediate language (2012)](http://yosefk.com/blog/c-as-an-intermediate-language.html)
 
-- [Error handling with Status(Or) (2017)](http://www.furidamu.org/blog/2017/01/28/error-handling-with-statusor/)
+- [Show HN: Archive as you browse, store locally and/or share with others via IPFS](https://archiveweb.page)
 
-- [Program = Proof](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf)
+- [Judge: Citibank isn't entitled to $500M it sent to various creditors last August](https://arstechnica.com/tech-policy/2021/02/citibank-just-got-a-500-million-lesson-in-the-importance-of-ui-design/)
 
-- [Typing is Hard](https://3fx.ch/typing-is-hard.html)
+- [New module changes in Go 1.16 - The Go Blog](https://blog.golang.org/go116-module-changes)
 
-- [The Physics of baking good Pizza [pdf]](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf)
+- [Stockfish developer statement on Fat Fritz 2](https://blog.stockfishchess.org/post/643239805544792064/statement-on-fat-fritz-2)
 
-- [Is This a Branch?](https://bartwronski.com/2021/01/18/is-this-a-branch/)
+- [Nvidia announces mining GPUs, cuts the hash rate of RTX-3060 in half](https://blogs.nvidia.com/blog/2021/02/18/geforce-cmp/)
 
-- [Don't Mess with Backprop: Doubts about Biologically Plausible Deep Learning](https://blog.evjang.com/2021/02/backprop.html)
+- [A more secure bundler: We fixed our source priorities](https://bundler.io/blog/2021/02/15/a-more-secure-bundler-we-fixed-our-source-priorities.html)
 
-- [26 Years… of Delphi](https://blogs.embarcadero.com/26-years-of-delphi/)
+- [Tagged unions are overrated for implementing IRs](https://buttondown.email/nelhage/archive/tagged-unions-are-overrated/)
 
-- [The Worst Experience I've Had With an aarch64 MacBook](https://christine.website/blog/apple-macbook-air-m1-review-2021-02-15)
+- [Python 3.x: RCE in Python applications that accept floats as untrusted input](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3177)
 
-- [What security does a default OpenBSD installation offer?](https://dataswamp.org/~solene/2021-02-14-openbsd-default-security.html)
+- [Nx (Numerical Elixir) is now publicly available](https://dashbit.co/blog/nx-numerical-elixir-is-now-publicly-available)
 
-- [Fastcheck: Property based testing for JavaScript and TypeScript](https://dubzzz.github.io/fast-check.github.com/)
+- [Tiny eink Dashboard](https://dev.to/gmemstr/tiny-eink-dashboard-29a4)
 
-- [Media files extracted from North Korea's Red Star OS](https://github.com/BlackOtton/RedStar-Media)
+- [Migrating to SQLAlchemy 2.0](https://docs.sqlalchemy.org/en/14/changelog/migration_20.html)
 
-- [Sourcetrail: Free and open-source interactive source explorer](https://github.com/CoatiSoftware/Sourcetrail)
+- [Reducing Real-Time Query Latency from 0.5 s to 0.01 s with an HTAP Database](https://en.pingcap.com/case-studies/reduce-real-time-query-latency-from-0.5s-to-0.01s-with-scale-out-htap-database)
 
-- [NattyNarwhal/LobstersNntp: Lobsters NNTP gateway](https://github.com/NattyNarwhal/LobstersNntp)
+- [Life, part 38](https://ericlippert.com/2021/02/17/life-part-38/)
 
-- [Meshing Signed Distance Functions in Python](https://github.com/fogleman/sdf)
+- [List of services offering free tiers to developers](https://free-for.dev/)
 
-- [A lightweight metrics explorer for Prometheus, with a focus on on-the-fly analysis](https://github.com/spreadshirt/prometheus-explorer)
+- [The Texas power outage is a nation-wide problem](https://garrettbattaglia.com/post/texas-power/)
 
-- [How They SRE](https://github.com/upgundecha/howtheysre)
+- [A low-level programming language inspired by TypeScript](https://github.com/evanw/thinscript)
 
-- [Database as a Queue](https://isotopp.github.io/2021/01/20/database-as-a-queue.html)
+- [Create full-fledged APIs for static datasets without writing a single line of code](https://github.com/roapi/roapi)
 
-- [Show HN: Jam, an Open Source Clubhouse (w/ WebRTC)](https://jam.systems)
+- [Gleam 0.14 – type-safe language for the Erlang VM](https://gleam.run/news/gleam-v0.14-released/)
 
-- [BuildZoom (better way to build custom homes) is hiring engineers in Arizona](https://jobs.lever.co/buildzoom)
+- [There’s no such thing as “a startup within a big company”](https://hunterwalk.medium.com/why-theres-no-such-thing-as-a-startup-within-a-big-company-c3003615f3bc)
 
-- [All about thread-local storage](https://maskray.me/blog/2021-02-14-all-about-thread-local-storage)
+- [1977: Zork](https://if50.substack.com/p/1977-zork)
 
-- [How we hosted FOSDEM 2021 on Matrix](https://matrix.org/blog/2021/02/15/how-we-hosted-fosdem-2021-on-matrix)
+- [Ruby Garbage Collection Deep Dive: Tri-Color Mark and Sweep](https://jemma.dev/blog/gc-mark-and-sweep)
 
-- [Running Nomad for home server](https://mrkaran.dev/posts/home-server-nomad/)
+- [Advanced Git Features You Didn’t Know You Needed](https://martinheinz.dev/blog/43)
 
-- [Make the BeBox great again: TLS 1.2, inetd and more for PowerPC BeOS R5](https://oldvcr.blogspot.com/2021/02/make-bebox-great-again-tls-12-inetd-and.html)
+- [min language - Welcome to the min programming language](https://min-lang.org)
 
-- [Pretty Good Phone Privacy [pdf]](https://raghavan.usc.edu/papers/pgpp-arxiv20.pdf)
+- [How to process large amounts of data in Elixir with Ecto](https://mkaszubowski.com/2021/02/16/ecto-repo-stream-data-processing.html)
 
-- [Earley Parser](https://rahul.gopinath.org/post/2021/02/06/earley-parsing/)
+- [How ClickHouse saved our data (2020)](https://mux.com/blog/from-russia-with-love-how-clickhouse-saved-our-data/)
 
-- [The Making of Lemmings (2015)](https://readonlymemory.vg/the-making-of-lemmings/)
+- [The Adams Event](https://newsroom.unsw.edu.au/news/science-tech/ancient-relic-points-turning-point-earths-history-42000-years-ago)
 
-- [FPGA NTP Server](https://research.wand.net.nz/hardware/ntp.php)
+- [Why you really need to upgrade pip](https://pythonspeed.com/articles/upgrade-pip/)
 
-- [Livereload, the simple tool that can carry you very far](https://rtpg.co/2021/02/15/livereload.html)
+- [Raptor Maps (YC S16) Is Hiring a Director of Marketing to Scale Solar Power](https://raptormaps.com/jobs/)
 
-- [Sonobus: Open-source app for low latency peer-to-peer audio](https://sonobus.net/)
+- [Things You Should Do Now, from the Phabricator authors](https://secure.phabricator.com/book/phabflavor/article/things_you_should_do_now/)
 
-- [Many Small Queries Are Efficient In SQLite (2016?)](https://sqlite.org/np1queryprob.html)
+- [Skyline – Your GitHub story in 3D](https://skyline.github.com/)
 
-- [The Therac-25 Incident](https://thedailywtf.com/articles/the-therac-25-incident)
+- [Enums are coming to PHP 8.1](https://stitcher.io/blog/php-enums)
 
-- [Network News Transfer Protocol (NNTP) (2006)](https://tools.ietf.org/html/rfc3977)
+- [12 requests per second – Realistic Python web frameworks](https://suade.org/dev/12-requests-per-second-with-python/)
 
-- [Faster JavaScript Calls](https://v8.dev/blog/adaptor-frame)
+- [TLS certificates specifying hosts via the CommonName field is more or less gone](https://utcc.utoronto.ca/~cks/space/blog/tech/TLSCertificateCNMostlyGone)
 
-- [Python strings are immutable, but only sometimes](https://web.eecs.utk.edu/~azh/blog/pythonstringsaremutable.html)
+- [Building a High Performance Text Editor](https://wbond.net/thoughts/building_a_high_performance_text_editor)
 
-- [ghostwriter: distraction-free Markdown editor, supports light/dark themes, live preview, export, etc](https://wereturtle.github.io/ghostwriter/)
+- [Why is it so hard to see code from 5 minutes ago?](https://web.eecs.utk.edu/~azh/blog/yestercode.html)
 
-- [Fake Amazon reviews 'being sold in bulk' online](https://www.bbc.com/news/business-56069472)
+- [Jane Austen's concept of information (Not Claude Shannon's) (2013)](https://www.cs.bham.ac.uk/research/projects/cogaff/misc/austen-info.html)
 
-- [Are the New M1 Macbooks Any Good for Deep Learning?](https://www.betterdatascience.com/m1-deep-learning/)
+- [Attributes of configuration languages](https://www.devever.net/~hl/configsys)
 
-- [The Long Hack: How China Exploited a U.S. Tech Supplier](https://www.bloomberg.com/features/2021-supermicro/)
+- [Implementing flat_map in Rust](https://www.eltonpinto.me/blog/posts/implementing_flatmap_in_rust/)
 
-- [Supermicro Hack: China Exploited a US Tech Supplier over Years [2021 Follow-Up]](https://www.bloomberg.com/features/2021-supermicro/#)
+- [How a small group of GTA fanatics reverse-engineered GTA 3 and Vice City without (so far) getting shut down](https://www.eurogamer.net/articles/2021-02-17-how-a-small-group-of-gta-fanatics-reverse-engineered-gta-3-and-vice-city-without-so-far-getting-shut-down-by-take-two)
 
-- [How Tim Cook transformed Apple after Steve Jobs](https://www.bloomberg.com/news/features/2021-02-09/this-is-how-tim-cook-transformed-apple-aapl-after-steve-jobs)
+- [Chrome RAM/CPU usage vs. Safari vs. Flotato](https://www.flotato.com/post/memory-chrome-safari-flotato)
 
-- [The name’s Ford, Alan Ford: how an Italian comic book spy became a Yugoslav hero](https://www.calvertjournal.com/articles/show/12465/alan-ford-comic-books-yugoslavia)
+- [A Recap on string_view](https://www.fluentcpp.com/2021/02/19/a-recap-on-string_view/)
 
-- [Virtual Boy Architecture](https://www.copetti.org/writings/consoles/virtual-boy/)
+- [The Rules of Margin Collapse](https://www.joshwcomeau.com/css/rules-of-margin-collapse/)
 
-- [Ink – Scripting language for interactive stories](https://www.inklestudios.com/ink/)
+- [Vertical farming does not save space](https://www.lowtechmagazine.com/2021/02/vertical-farming-ecosystem-services.html)
 
-- [Deep dive on Tether (Fall 2019)](https://www.kalzumeus.com/2019/10/28/tether-and-bitfinex/)
+- [Variable tyre pressure wheelset is a mountain biking breakthrough – Ride24](https://www.news24.com/ride24/news/variable-tyre-pressure-wheelset-is-a-mountain-biking-breakthrough-20210125)
 
-- [Who Should Stop Unethical A.I.?](https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai)
+- [How I started believing in Cycle Time over Estimation](https://www.norberhuis.nl/how-i-started-believing-in-cycle-time-over-estimation/)
 
-- [Closed loophole confirms the unreality of the quantum world (2018)](https://www.quantamagazine.org/closed-loophole-confirms-the-unreality-of-the-quantum-world-20180725/)
+- [Bruce Blackburn, Designer of NASA Worm Logo, Has Died](https://www.nytimes.com/2021/02/18/us/bruce-blackburn-dead.html)
 
-- [Building Rich Terminal Dashboards](https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/)
+- [Share of U.S. workers holding multiple jobs is rising](https://www.reuters.com/article/us-usa-economy-multiple-jobs-idUSKBN2AH2PI)
 
-- [A Mathematician's Lament](https://www.youtube.com/watch?v=Ws6qmXDJgwU)
+- [The MetaHumans: High-fidelity digital humans in minutes](https://www.unrealengine.com/en-US/digital-humans)
+
+- [Documentation Guide — Write the Docs](https://www.writethedocs.org/guide/index.html)
+
+- [Perseverance Rover lands on Mars [video]](https://www.youtube.com/watch?v=gm0b_ijaYMQ)
