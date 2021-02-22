@@ -1,105 +1,103 @@
-- [Swiss File Knife – A Command Line Tools Collection](http://stahlworks.com/dev/swiss-file-knife.html)
+- [Diplomacy: The Board Game of the Alpha Nerds (2014)](http://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/)
 
-- [Radio Amateur Copies Signal from Mars-Orbiting Satellite](http://www.arrl.org/news/british-columbia-radio-amateur-copies-signal-from-mars-orbiting-satellite)
+- [Passerine: An extensible and expressive new programming language](http://passerine.io)
 
-- [C as an intermediate language (2012)](http://yosefk.com/blog/c-as-an-intermediate-language.html)
+- [New browser-tracking hack works even when you flush caches or go incognito](https://arstechnica.com/information-technology/2021/02/new-browser-tracking-hack-works-even-when-you-flush-caches-or-go-incognito/)
 
-- [Show HN: Archive as you browse, store locally and/or share with others via IPFS](https://archiveweb.page)
+- [The Source Code Control System (1975) [pdf]](https://basepath.com/aup/talks/SCCS-Slideshow.pdf)
 
-- [Judge: Citibank isn't entitled to $500M it sent to various creditors last August](https://arstechnica.com/tech-policy/2021/02/citibank-just-got-a-500-million-lesson-in-the-importance-of-ui-design/)
+- [Please do not put IP addresses into DNS MX records](https://blog.hboeck.de/archives/904-Please-do-not-put-IP-addresses-into-DNS-MX-records.html)
 
-- [New module changes in Go 1.16 - The Go Blog](https://blog.golang.org/go116-module-changes)
+- [Replit (YC W18) is hiring to make computing more accessible](https://blog.repl.it/seriesa)
 
-- [Stockfish developer statement on Fat Fritz 2](https://blog.stockfishchess.org/post/643239805544792064/statement-on-fat-fritz-2)
+- [Designing for Voice User Interfaces](https://blog.snappymob.com/designing-for-voice-user-interfaces-principles-and-best-practices)
 
-- [Nvidia announces mining GPUs, cuts the hash rate of RTX-3060 in half](https://blogs.nvidia.com/blog/2021/02/18/geforce-cmp/)
+- [The modern packager’s security nightmare](https://blogs.gentoo.org/mgorny/2021/02/19/the-modern-packagers-security-nightmare/)
 
-- [A more secure bundler: We fixed our source priorities](https://bundler.io/blog/2021/02/15/a-more-secure-bundler-we-fixed-our-source-priorities.html)
+- [Oracle Testing](https://buttondown.email/hillelwayne/archive/oracle-testing/)
 
-- [Tagged unions are overrated for implementing IRs](https://buttondown.email/nelhage/archive/tagged-unions-are-overrated/)
+- [Turning a wireless keyboard into a wired keyboard](https://chadaustin.me/2021/02/wired-sculpt/)
 
-- [Python 3.x: RCE in Python applications that accept floats as untrusted input](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3177)
+- [555 phone number history in fiction](https://computer.rip/2021-02-20%20555%20500%20710%20etc.html)
 
-- [Nx (Numerical Elixir) is now publicly available](https://dashbit.co/blog/nx-numerical-elixir-is-now-publicly-available)
+- [Mistakes I've Made as an Engineering Manager](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/)
 
-- [Tiny eink Dashboard](https://dev.to/gmemstr/tiny-eink-dashboard-29a4)
+- [Scala 3.0.0-RC1 – first release candidate is here](https://dotty.epfl.ch/blog/2021/02/17/scala3-rc1.html)
 
-- [Migrating to SQLAlchemy 2.0](https://docs.sqlalchemy.org/en/14/changelog/migration_20.html)
+- [Acrobat on the Web Powered by WebAssembly](https://dzone.com/articles/acrobat-on-the-web-powered-by-webassembly)
 
-- [Reducing Real-Time Query Latency from 0.5 s to 0.01 s with an HTAP Database](https://en.pingcap.com/case-studies/reduce-real-time-query-latency-from-0.5s-to-0.01s-with-scale-out-htap-database)
+- [Project Xanadu](https://en.wikipedia.org/wiki/Project_Xanadu)
 
-- [Life, part 38](https://ericlippert.com/2021/02/17/life-part-38/)
+- [ELF: symbol lookup via DT_HASH (2017)](https://flapenguin.me/elf-dt-hash)
 
-- [List of services offering free tiers to developers](https://free-for.dev/)
+- [Dumping the Super Game Boy 2 boot ROM](https://gekkio.fi/blog/2015/dumping-the-super-game-boy-2-boot-rom/)
 
-- [The Texas power outage is a nation-wide problem](https://garrettbattaglia.com/post/texas-power/)
+- [Nuklear: A cross-platform GUI library in C](https://github.com/Immediate-Mode-UI/Nuklear)
 
-- [A low-level programming language inspired by TypeScript](https://github.com/evanw/thinscript)
+- [Show HN: Turn scripts into fine-tuned voices via Wiki markups](https://github.com/baxtree/wiki2ssml)
 
-- [Create full-fledged APIs for static datasets without writing a single line of code](https://github.com/roapi/roapi)
+- [Super Mario 64 Decompilation](https://github.com/n64decomp/sm64)
 
-- [Gleam 0.14 – type-safe language for the Erlang VM](https://gleam.run/news/gleam-v0.14-released/)
+- [tilleul/apple2 6502 assembler in a spreadsheet](https://github.com/tilleul/apple2/tree/master/tools/6502_assembler)
 
-- [There’s no such thing as “a startup within a big company”](https://hunterwalk.medium.com/why-theres-no-such-thing-as-a-startup-within-a-big-company-c3003615f3bc)
+- [Comparing ahash to other hashing algorithms](https://github.com/tkaitchuck/aHash/blob/master/compare/readme.md)
 
-- [1977: Zork](https://if50.substack.com/p/1977-zork)
+- [OpenBSD boots multi-user on the new Apple M1 hardware](https://marc.info/?l=openbsd-arm&m=161386122115249&w=2)
 
-- [Ruby Garbage Collection Deep Dive: Tri-Color Mark and Sweep](https://jemma.dev/blog/gc-mark-and-sweep)
+- [Inside SimpliSafe Alarm System](https://medium.com/tenable-techblog/inside-simplisafe-alarm-system-291a8c3e4d89)
 
-- [Advanced Git Features You Didn’t Know You Needed](https://martinheinz.dev/blog/43)
+- [Making hibernation work under Linux Lockdown](https://mjg59.dreamwidth.org/55845.html)
 
-- [min language - Welcome to the min programming language](https://min-lang.org)
+- [I paid for Spotify playlist placements so you don’t have to](https://najinsan.wordpress.com/2021/02/15/i-paid-for-spotify-playlist-placements-so-you-dont-have-to/)
 
-- [How to process large amounts of data in Elixir with Ecto](https://mkaszubowski.com/2021/02/16/ecto-repo-stream-data-processing.html)
+- [A Data Pipeline Is a Materialized View](https://nchammas.com/writing/data-pipeline-materialized-view)
 
-- [How ClickHouse saved our data (2020)](https://mux.com/blog/from-russia-with-love-how-clickhouse-saved-our-data/)
+- [Injecting Golang variables at build time](https://ols.wtf/2021/02/20/injecting-golang-variables-at-build-time.html)
 
-- [The Adams Event](https://newsroom.unsw.edu.au/news/science-tech/ancient-relic-points-turning-point-earths-history-42000-years-ago)
+- [What Every Programmer Should Know About Memory (2007)](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 
-- [Why you really need to upgrade pip](https://pythonspeed.com/articles/upgrade-pip/)
+- [My Life in E-ink](https://rgoswami.me/posts/my-life-in-eink/)
 
-- [Raptor Maps (YC S16) Is Hiring a Director of Marketing to Scale Solar Power](https://raptormaps.com/jobs/)
+- [Cross-Database Queries in SQLite](https://simonwillison.net/2021/Feb/21/cross-database-queries/)
 
-- [Things You Should Do Now, from the Phabricator authors](https://secure.phabricator.com/book/phabflavor/article/things_you_should_do_now/)
+- [Products vs Protocols: What Signal got right](https://snikket.org/blog/products-vs-protocols/)
 
-- [Skyline – Your GitHub story in 3D](https://skyline.github.com/)
+- [Design case history: the Commodore 64 (1985)](https://spectrum.ieee.org/ns/pdfs/commodore64_mar1985.pdf)
 
-- [Enums are coming to PHP 8.1](https://stitcher.io/blog/php-enums)
+- [Show HN: Ad Network for Sideprojects](https://tinyads.io)
 
-- [12 requests per second – Realistic Python web frameworks](https://suade.org/dev/12-requests-per-second-with-python/)
+- [TransferWise: World, Meet Wise](https://wise.com/gb/blog/world-meet-wise)
 
-- [TLS certificates specifying hosts via the CommonName field is more or less gone](https://utcc.utoronto.ca/~cks/space/blog/tech/TLSCertificateCNMostlyGone)
+- [Fullscreen Exclusive Is A Lie (…sort of)](https://www.anthropicstudios.com/2021/02/20/fullscreen-exclusive-is-a-lie/)
 
-- [Building a High Performance Text Editor](https://wbond.net/thoughts/building_a_high_performance_text_editor)
+- [Go is not an easy language](https://www.arp242.net/go-easy.html)
 
-- [Why is it so hard to see code from 5 minutes ago?](https://web.eecs.utk.edu/~azh/blog/yestercode.html)
+- [Biocrusts Are an Entire World Beneath Our Feet](https://www.atlasobscura.com/articles/what-is-a-biocrust)
 
-- [Jane Austen's concept of information (Not Claude Shannon's) (2013)](https://www.cs.bham.ac.uk/research/projects/cogaff/misc/austen-info.html)
+- [What Is Huffman Coding?](https://www.baseclass.io/huffman-coding/)
 
-- [Attributes of configuration languages](https://www.devever.net/~hl/configsys)
+- [2020 Industrial Capabilities Report to Congress [pdf]](https://www.businessdefense.gov/Portals/51/USA002573-20%20ICR_2020_Web.pdf)
 
-- [Implementing flat_map in Rust](https://www.eltonpinto.me/blog/posts/implementing_flatmap_in_rust/)
+- [Ultima VIII (or, How to Destroy a Gaming Franchise in One Easy Step)](https://www.filfre.net/2021/02/ultima-viii-or-how-to-destroy-a-gaming-franchise-in-one-easy-step/)
 
-- [How a small group of GTA fanatics reverse-engineered GTA 3 and Vice City without (so far) getting shut down](https://www.eurogamer.net/articles/2021-02-17-how-a-small-group-of-gta-fanatics-reverse-engineered-gta-3-and-vice-city-without-so-far-getting-shut-down-by-take-two)
+- [Wildcard](https://www.geoffreylitt.com/wildcard/)
 
-- [Chrome RAM/CPU usage vs. Safari vs. Flotato](https://www.flotato.com/post/memory-chrome-safari-flotato)
+- [‘It just blew fire’: Kauai woman watched as an engine fell apart on flight 328](https://www.hawaiinewsnow.com/2021/02/21/it-just-blew-fire-kauai-woman-watched-engine-failed-united-flight/)
 
-- [A Recap on string_view](https://www.fluentcpp.com/2021/02/19/a-recap-on-string_view/)
+- [Feedback Welcome: I am developing an e-paper calendar as a consumer product](https://www.invisible-computers.com/)
 
-- [The Rules of Margin Collapse](https://www.joshwcomeau.com/css/rules-of-margin-collapse/)
+- [YouTube blocked chess channel after mistaken detection of racial slurs](https://www.news18.com/news/buzz/youtube-ai-blocked-chess-channel-after-confusing-black-and-white-for-racist-slurs-3454316.html)
 
-- [Vertical farming does not save space](https://www.lowtechmagazine.com/2021/02/vertical-farming-ecosystem-services.html)
+- [Activists who embrace nuclear power](https://www.newyorker.com/tech/annals-of-technology/the-activists-who-embrace-nuclear-power)
 
-- [Variable tyre pressure wheelset is a mountain biking breakthrough – Ride24](https://www.news24.com/ride24/news/variable-tyre-pressure-wheelset-is-a-mountain-biking-breakthrough-20210125)
+- [When Engineers Were Humanists](https://www.nybooks.com/articles/2021/03/11/engineers-humanists-renaissance-inventions/)
 
-- [How I started believing in Cycle Time over Estimation](https://www.norberhuis.nl/how-i-started-believing-in-cycle-time-over-estimation/)
+- [When Bitcoin miners take over a town (2018)](https://www.politico.eu/article/this-is-what-happens-when-bitcoin-miners-take-over-your-town/)
 
-- [Bruce Blackburn, Designer of NASA Worm Logo, Has Died](https://www.nytimes.com/2021/02/18/us/bruce-blackburn-dead.html)
+- [Apparent hackers behind Kia ransomware attack demand millions in Bitcoin](https://www.thedrive.com/tech/39309/the-apparent-hackers-behind-kias-ransomware-attack-are-demanding-millions-in-bitcoin)
 
-- [Share of U.S. workers holding multiple jobs is rising](https://www.reuters.com/article/us-usa-economy-multiple-jobs-idUSKBN2AH2PI)
+- [Doomsday Ships Were Ready to Ride Out Nuclear Armageddon Before Doomsday Planes](https://www.thedrive.com/the-war-zone/39301/there-were-doomsday-ships-ready-to-ride-out-nuclear-armageddon-before-there-were-doomsday-planes)
 
-- [The MetaHumans: High-fidelity digital humans in minutes](https://www.unrealengine.com/en-US/digital-humans)
+- [What's Next for Teal, the typed dialect of Lua](https://www.youtube.com/watch?v=OqXbnaDR8QY)
 
-- [Documentation Guide — Write the Docs](https://www.writethedocs.org/guide/index.html)
-
-- [Perseverance Rover lands on Mars [video]](https://www.youtube.com/watch?v=gm0b_ijaYMQ)
+- [Formalising Mathematics: An Introduction](https://xenaproject.wordpress.com/2021/01/21/formalising-mathematics-an-introduction/)
