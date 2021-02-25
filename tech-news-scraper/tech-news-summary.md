@@ -1,103 +1,101 @@
-- [Diplomacy: The Board Game of the Alpha Nerds (2014)](http://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/)
+- [The Birth of Prolog (1992)](http://alain.colmerauer.free.fr/alcol/ArchivesPublications/PrologHistory/19november92.pdf)
 
-- [Passerine: An extensible and expressive new programming language](http://passerine.io)
+- [An Introduction to Display Editing with Vi (1980)](http://ex-vi.sourceforge.net/viin/paper.html)
 
-- [New browser-tracking hack works even when you flush caches or go incognito](https://arstechnica.com/information-technology/2021/02/new-browser-tracking-hack-works-even-when-you-flush-caches-or-go-incognito/)
+- [AROS is a lightweight, efficient, and flexible desktop operating system](http://www.aros.org/)
 
-- [The Source Code Control System (1975) [pdf]](https://basepath.com/aup/talks/SCCS-Slideshow.pdf)
+- [Grow the IndieWeb with Webmentions](https://amberwilson.co.uk/blog/grow-the-indieweb-with-webmentions/?mc_cid=a17a3fb8a8&mc_eid=05e6fe1e4b)
 
-- [Please do not put IP addresses into DNS MX records](https://blog.hboeck.de/archives/904-Please-do-not-put-IP-addresses-into-DNS-MX-records.html)
+- [Show HN: I wrote a book about using data science to solve “everyday” problems](https://andrewnc.github.io/blog/everyday_data_science.html)
 
-- [Replit (YC W18) is hiring to make computing more accessible](https://blog.repl.it/seriesa)
+- [Curry-Howard is a scam](https://blag.cedeela.fr/curry-howard-scam/)
 
-- [Designing for Voice User Interfaces](https://blog.snappymob.com/designing-for-voice-user-interfaces-principles-and-best-practices)
+- [Plain Text Protocols](https://blainsmith.com/articles/plain-text-protocols/)
 
-- [The modern packager’s security nightmare](https://blogs.gentoo.org/mgorny/2021/02/19/the-modern-packagers-security-nightmare/)
+- [Coinbase is a decentralized company, with no headquarters](https://blog.coinbase.com/coinbase-is-a-decentralized-company-with-no-headquarters-a9762c02546)
 
-- [Oracle Testing](https://buttondown.email/hillelwayne/archive/oracle-testing/)
+- [Writing Python inside your Rust code — Part 4](https://blog.m-ou.se/writing-python-inside-rust-4/)
 
-- [Turning a wireless keyboard into a wired keyboard](https://chadaustin.me/2021/02/wired-sculpt/)
+- [Firefox Release Includes Total Cookie Protection and Multiple Picture-in-Picture](https://blog.mozilla.org/blog/2021/02/23/latest-firefox-release-includes-multiple-picture-in-picture-and-total-cookie-protection/)
 
-- [555 phone number history in fiction](https://computer.rip/2021-02-20%20555%20500%20710%20etc.html)
+- [Counting connections at scale](https://blog.pusher.com/counting-connections-at-scale/)
 
-- [Mistakes I've Made as an Engineering Manager](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/)
+- [17 year old Firefox feature request fixed](https://bugzilla.mozilla.org/show_bug.cgi?id=259640)
 
-- [Scala 3.0.0-RC1 – first release candidate is here](https://dotty.epfl.ch/blog/2021/02/17/scala3-rc1.html)
+- [50 Years of Pascal](https://cacm.acm.org/magazines/2021/3/250705-50-years-of-pascal/fulltext)
 
-- [Acrobat on the Web Powered by WebAssembly](https://dzone.com/articles/acrobat-on-the-web-powered-by-webassembly)
+- [My Convoluted VRChat Google Meet Setup](https://christine.website/blog/convoluted-vrchat-gchat-setup-2021-02-24)
 
-- [Project Xanadu](https://en.wikipedia.org/wiki/Project_Xanadu)
+- [My experience as a Gazan girl getting into Silicon Valley companies](https://daliaawad28.medium.com/my-experience-as-a-gazan-girl-getting-into-silicon-valley-companies-488062d769a1)
 
-- [ELF: symbol lookup via DT_HASH (2017)](https://flapenguin.me/elf-dt-hash)
+- [Show HN: Horcrux, a Playground for Shamir Secret Sharing](https://francoisbest.com/horcrux)
 
-- [Dumping the Super Game Boy 2 boot ROM](https://gekkio.fi/blog/2015/dumping-the-super-game-boy-2-boot-rom/)
+- [Computing with metavalues](https://fredrikj.net/blog/2021/02/computing-with-metavalues/)
 
-- [Nuklear: A cross-platform GUI library in C](https://github.com/Immediate-Mode-UI/Nuklear)
+- [Show HN: Alert yourself after a long-running task in terminal](https://gist.github.com/petethepig/2d29e8b7e2ebc808bfe760b632608966)
 
-- [Show HN: Turn scripts into fine-tuned voices via Wiki markups](https://github.com/baxtree/wiki2ssml)
+- [Show HN: Can’t afford Bloomberg Terminal? No prob, I built the next best thing](https://github.com/DidierRLopes/GamestonkTerminal)
 
-- [Super Mario 64 Decompilation](https://github.com/n64decomp/sm64)
+- [2D IsometricRenderer](https://github.com/Grille/2D-isometricRenderer)
 
-- [tilleul/apple2 6502 assembler in a spreadsheet](https://github.com/tilleul/apple2/tree/master/tools/6502_assembler)
+- [TLA+ spec finds bugs in Apache BookKeeper](https://github.com/Vanlightly/bookkeeper-tlaplus)
 
-- [Comparing ahash to other hashing algorithms](https://github.com/tkaitchuck/aHash/blob/master/compare/readme.md)
+- [Cat: A statically-typed stack-based functional language](https://github.com/cdiggins/cat-language)
 
-- [OpenBSD boots multi-user on the new Apple M1 hardware](https://marc.info/?l=openbsd-arm&m=161386122115249&w=2)
+- [Show HN: Shellmath: Floating-point arithmetic directly in bash](https://github.com/clarity20/shellmath)
 
-- [Inside SimpliSafe Alarm System](https://medium.com/tenable-techblog/inside-simplisafe-alarm-system-291a8c3e4d89)
+- [Automatic Linux privilege escalation via exploitation of low-hanging fruit](https://github.com/liamg/traitor)
 
-- [Making hibernation work under Linux Lockdown](https://mjg59.dreamwidth.org/55845.html)
+- [rpi-open-firmware: open-source VPU side bootloader for Raspberry Pi](https://github.com/librerpi/rpi-open-firmware)
 
-- [I paid for Spotify playlist placements so you don’t have to](https://najinsan.wordpress.com/2021/02/15/i-paid-for-spotify-playlist-placements-so-you-dont-have-to/)
+- [RFC6238 TOTP implementation in pure PostgreSQL](https://github.com/pyramation/totp)
 
-- [A Data Pipeline Is a Materialized View](https://nchammas.com/writing/data-pipeline-materialized-view)
+- [The Parachute Message](https://github.com/tanyafish/parachute)
 
-- [Injecting Golang variables at build time](https://ols.wtf/2021/02/20/injecting-golang-variables-at-build-time.html)
+- [Cleanup Docker](https://hanami.run/blog/posts/cleanup-docker/)
 
-- [What Every Programmer Should Know About Memory (2007)](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+- [A little tool to make DNS queries](https://jvns.ca/blog/2021/02/24/a-little-tool-to-make-dns-queries/)
 
-- [My Life in E-ink](https://rgoswami.me/posts/my-life-in-eink/)
+- [Lockless algorithms for mere mortals (2020)](https://lwn.net/Articles/827180/)
 
-- [Cross-Database Queries in SQLite](https://simonwillison.net/2021/Feb/21/cross-database-queries/)
+- [Upstream camera support for Qualcomm platforms](https://memcpy.io/upstream-camera-support-for-qualcomm-platforms.html)
 
-- [Products vs Protocols: What Signal got right](https://snikket.org/blog/products-vs-protocols/)
+- [A Simple Way to Reduce Cognitive Bias](https://nautil.us/blog/a-simple-way-to-reduce-cognitive-bias)
 
-- [Design case history: the Commodore 64 (1985)](https://spectrum.ieee.org/ns/pdfs/commodore64_mar1985.pdf)
+- [A list of open and open source 5G software projects](https://open5g.info)
 
-- [Show HN: Ad Network for Sideprojects](https://tinyads.io)
+- [One file web application in go with embed package](https://philidor.dev/blog/go-embed-usecase)
 
-- [TransferWise: World, Meet Wise](https://wise.com/gb/blog/world-meet-wise)
+- [Lite: An Implementation Overview](https://rxi.github.io/lite_an_implementation_overview.html)
 
-- [Fullscreen Exclusive Is A Lie (…sort of)](https://www.anthropicstudios.com/2021/02/20/fullscreen-exclusive-is-a-lie/)
+- [Keeping platforms open](https://seirdy.one/2021/02/23/keeping-platforms-open.html)
 
-- [Go is not an easy language](https://www.arp242.net/go-easy.html)
+- [Cryptography Interface Design is a Security Concern](https://soatok.blog/2021/02/24/cryptography-interface-design-is-a-security-concern/)
 
-- [Biocrusts Are an Entire World Beneath Our Feet](https://www.atlasobscura.com/articles/what-is-a-biocrust)
+- [How often should I rotate my ssh keys?](https://tailscale.com/blog/rotate-ssh-keys/)
 
-- [What Is Huffman Coding?](https://www.baseclass.io/huffman-coding/)
+- [Upgrade FreeBSD with ZFS Boot Environments](https://vermaden.wordpress.com/2021/02/23/upgrade-freebsd-with-zfs-boot-environments/)
 
-- [2020 Industrial Capabilities Report to Congress [pdf]](https://www.businessdefense.gov/Portals/51/USA002573-20%20ICR_2020_Web.pdf)
+- [GhostWriter is a distraction free Markdown editor](https://wereturtle.github.io/ghostwriter/)
 
-- [Ultima VIII (or, How to Destroy a Gaming Franchise in One Easy Step)](https://www.filfre.net/2021/02/ultima-viii-or-how-to-destroy-a-gaming-franchise-in-one-easy-step/)
+- [Uxn: An 8-bit virtual stack machine](https://wiki.xxiivv.com/site/uxn.html)
 
-- [Wildcard](https://www.geoffreylitt.com/wildcard/)
+- [Apple buys a company every three to four weeks](https://www.bbc.com/news/business-56178792)
 
-- [‘It just blew fire’: Kauai woman watched as an engine fell apart on flight 328](https://www.hawaiinewsnow.com/2021/02/21/it-just-blew-fire-kauai-woman-watched-engine-failed-united-flight/)
+- [Rare 'Half-male, half-female' cardinal photographed in Pennsylvania](https://www.bbc.com/news/world-us-canada-56189600)
 
-- [Feedback Welcome: I am developing an e-paper calendar as a consumer product](https://www.invisible-computers.com/)
+- [Hundreds of workers at cybersecurity agency vote to strike](https://www.cbc.ca/news/politics/cse-cybersecurity-strike-1.5926825)
 
-- [YouTube blocked chess channel after mistaken detection of racial slurs](https://www.news18.com/news/buzz/youtube-ai-blocked-chess-channel-after-confusing-black-and-white-for-racist-slurs-3454316.html)
+- [The U.S. Air Force just admitted the F-35 stealth fighter has failed](https://www.forbes.com/sites/davidaxe/2021/02/23/the-us-air-force-just-admitted-the-f-35-stealth-fighter-has-failed/)
 
-- [Activists who embrace nuclear power](https://www.newyorker.com/tech/annals-of-technology/the-activists-who-embrace-nuclear-power)
+- [Stop Using Icon Fonts](https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/)
 
-- [When Engineers Were Humanists](https://www.nybooks.com/articles/2021/03/11/engineers-humanists-renaissance-inventions/)
+- [Google Cloud vs. AWS Onboarding Comparison](https://www.kevinslin.com/notes/ebd7fd65-988f-422a-93f5-b1fe5c3f29ce.html)
 
-- [When Bitcoin miners take over a town (2018)](https://www.politico.eu/article/this-is-what-happens-when-bitcoin-miners-take-over-your-town/)
+- [Google Funds Linux Kernel Developers to Focus Exclusively on Security](https://www.linuxfoundation.org/en/press-release/google-funds-linux-kernel-developers-to-focus-exclusively-on-security/)
 
-- [Apparent hackers behind Kia ransomware attack demand millions in Bitcoin](https://www.thedrive.com/tech/39309/the-apparent-hackers-behind-kias-ransomware-attack-are-demanding-millions-in-bitcoin)
+- [Amazon insiders sound alarm over security](https://www.politico.eu/article/data-at-risk-amazon-security-threat/)
 
-- [Doomsday Ships Were Ready to Ride Out Nuclear Armageddon Before Doomsday Planes](https://www.thedrive.com/the-war-zone/39301/there-were-doomsday-ships-ready-to-ride-out-nuclear-armageddon-before-there-were-doomsday-planes)
+- [Decades-Long Quest Reveals Details of the Proton’s Inner Antimatter](https://www.quantamagazine.org/protons-antimatter-revealed-by-decades-old-experiment-20210224/)
 
-- [What's Next for Teal, the typed dialect of Lua](https://www.youtube.com/watch?v=OqXbnaDR8QY)
-
-- [Formalising Mathematics: An Introduction](https://xenaproject.wordpress.com/2021/01/21/formalising-mathematics-an-introduction/)
+- [Zig Roadmap 2021](https://www.youtube.com/watch?v=pacsngNYXI0)
