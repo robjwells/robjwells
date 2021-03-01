@@ -1,105 +1,101 @@
-- [Introduction to SSA (2018)](http://blog.erlang.org/introducing-ssa/)
+- [Get a Life](http://crypto.stanford.edu/~blynn/haskell/life.html)
 
-- [Concrete Semantics with Isabelle/HOL](http://concrete-semantics.org/)
+- [Foundational distributed systems papers](http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html)
 
-- [Horizonator: Terrain renderer based on SRTM DEMs](http://notes.secretsauce.net/notes/2021/02/27_horizonator-terrain-renderer-based-on-srtm-dems.html)
+- [Unfolding the Earth: Myriahedral Projections](http://philogb.github.io/page/myriahedral/)
 
-- [Wi-LE: Can WiFi replace Bluetooth? (2019) [pdf]](http://web.cs.ucla.edu/~omid/Papers/Hotnets19.pdf)
+- [OMU – “One Man Unix”](http://www.pix.net/mirrored/discordia.org.uk/~steve/omu.html)
 
-- [NFTs and a Thousand True Fans](https://a16z.com/2021/02/27/nfts-and-a-thousand-true-fans/)
+- [Squeak: A Free Smalltalk System – On RISC OS](http://www.rowledge.org/tim/squeak/)
 
-- [The Bupstash Garbage Collector](https://acha.ninja/blog/the_bupstash_garbage_collector/)
+- [Actually Portable Executables](https://ahgamut.github.io/c/2021/02/27/ape-cosmo/)
 
-- [Apollo in Real Time – A journey through the Apollo missions](https://apolloinrealtime.org/)
-
-- [Two days with Volkswagen’s electric ID.4](https://arstechnica.com/?p=1745730)
+- [Cname / DNS based third party tracking](https://arxiv.org/abs/2102.09301v2)
 
 - [Abstraction is Okay, Magic is Not](https://asthasr.github.io/posts/abstraction-is-okay/)
 
-- [PureScript and Haskell](https://blog.drewolson.org/purescript-and-haskell)
+- [Why you should take a look at Nomad before jumping on Kubernetes](https://atodorov.me/2021/02/27/why-you-should-take-a-look-at-nomad-before-jumping-on-kubernetes/)
 
-- [Review: Perlroth's Book on the Cyberarms Market](https://blog.erratasec.com/2021/02/review-perlroths-book-on-cyberarms.html?m=1)
+- [How to run a Windows virtual machine on LXD on Linux](https://blog.simos.info/how-to-run-a-windows-virtual-machine-on-lxd-on-linux/)
 
-- [FreeBSD Wall Display Computer](https://blog.tyk.nu/blog/freebsd-wall-display-computer/)
+- [Weird architectures weren't supported to begin with](https://blog.yossarian.net/2021/02/28/Weird-architectures-werent-supported-to-begin-with)
 
-- [Try the new try.haxe](https://community.haxe.org/t/try-the-new-try-haxe/2921)
+- [Haskell Executable Sizes](https://dfithian.github.io/2021/02/28/haskell-executable-sizes.html)
 
-- [The curious case of the handlebar bag scam](https://cyclingtips.com/2021/02/route-werks-handlebar-bag-scam/)
+- [Users are losing out against Big Sur’s sealed System](https://eclecticlight.co/2021/02/28/last-week-on-my-mac-users-are-losing-out-against-big-surs-sealed-system/)
 
-- [DMR's Thesis: Unpacking an Enigma](https://dmrthesis.net)
+- [Reversible Computing](https://en.wikipedia.org/wiki/Reversible_computing)
 
-- [In Defense of Myers Briggs (2020)](https://dynomight.home.blog/2020/06/12/in-defense-of-meyers-briggs/)
+- [This is my thinly veiled attempt to get you to use a library I wrote](https://evinsellin.medium.com/this-is-my-thinly-veiled-attempt-to-get-you-to-use-a-library-i-wrote-9755dd0fa917)
 
-- [In Defense of Dumb TVs](https://frame.work/blog/in-defense-of-dumb-tvs)
+- [FreshBSD 2021: Relaunching the BSD Commit Log Search Engine](https://freshbsd.org/news/2021/02/28)
 
-- [A new chapter – full-time working from a van in a forest](https://ghuntley.com/a-new-chapter)
+- [Not Lisp again (2009)](https://funcall.blogspot.com/2009/03/not-lisp-again.html)
 
-- [Fake_contacts: Android app to create fake phone contacts, to do data-poisoning](https://github.com/BillDietrich/fake_contacts)
+- [Rust, Zig, and the Futility of "Replacing" C](https://gavinhoward.com/2021/02/rust-zig-and-the-futility-of-replacing-c/)
 
-- [murex: Bash-like $SHELL designed for greater commandline productivity and safer shell scripts](https://github.com/lmorg/murex)
+- [Show HN: A Native Tiling Window Manager for Windows 10, Inspired by I3wm](https://github.com/McYoloSwagHam/win3wm)
 
-- [Why isn't Godot an ECS-based game engine?](https://godotengine.org/article/why-isnt-godot-ecs-based-game-engine)
+- [RIP Flynn.io](https://github.com/flynn/flynn)
 
-- [Perl Cheat Sheet](https://juerd.nl/site.plp/perlcheat)
+- [JSON parser written in 6502 assembly language](https://github.com/ppelleti/json65)
 
-- [redbean: single-file distributable web server](https://justine.lol/redbean/index.html)
+- [Snyk: Find and fix vulnerabilities in open-source dependencies](https://github.com/snyk/snyk)
 
-- [How fighting games use delay-based and rollback netcode (2019)](https://ki.infil.net/w02-netcode.html)
+- [xmake v2.5.2 released, Support pull remote cross toolchain and package integration](https://github.com/xmake-io/xmake/wiki/xmake-v2.5.2-released,-Support-pull-remote-cross-toolchain-and-package-integration)
 
-- [ISO 8601: the better date format](https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/)
+- [Making SoA Tollerable](https://hacksoflife.blogspot.com/2021/02/making-soa-tollerable.html)
 
-- [Knowing when to look past your code](https://kivikakk.ee/2021/02/28/loader/)
+- [HardenedBSD February 2021 Status Report](https://hardenedbsd.org/article/shawn-webb/2021-02-28/hardenedbsd-february-2021-status-report)
 
-- [What was the difference between Windows, Windows/286 & Windows/386?](https://liam-on-linux.livejournal.com/78006.html)
+- [Little League wants all your information](https://honeypot.net/post/little-league-wants-all-your-information/)
 
-- [Cinder – a C++ library for programming with aesthetic intent](https://libcinder.org/)
+- [Models of Abstraction](https://justinblank.com/notebooks/modelsofabstraction.html)
 
-- [HTML over the wire (2020)](https://m.signalvnoise.com/html-over-the-wire/)
+- [Apple removes $1k featureless iPhone application (2008)](https://latimesblogs.latimes.com/technology/2008/08/iphone-i-am-ric.html)
 
-- [Testimony before the North Dakota Senate Industry, Business and Labor Committee](https://m.signalvnoise.com/testimony-before-the-north-dakota-senate-industry-business-and-labor-committee/)
+- [Warren Buffett's bet against hedge funds at the Long Now Foundation (2008-17)](https://longbets.org/362/)
 
-- [Makepad: online code editor written in rust with webgl frontend](https://makepad.dev/)
+- [Procfs: Processes as Files (1984) [pdf]](https://lucasvr.gobolinux.org/etc/Killian84-Procfs-USENIX.pdf)
 
-- [mrsh: A strictly POSIX-compliant shell](https://mrsh.sh/)
+- [Create animated GIF and WebP from videos using FFmpeg](https://mattj.io/posts/2021-02-27-create-animated-gif-and-webp-from-videos-using-ffmpeg/)
 
-- [How to Efficiently Choose the Right Database for Your Applications](https://pingcap.com/blog/how-to-efficiently-choose-the-right-database-for-your-applications)
+- [Multi-User Dungeons (MUDs): What Are They? and How to Play](https://medium.com/@williamson.f93/multi-user-dungeons-muds-what-are-they-and-how-to-play-af3ec0f29f4a)
 
-- [A Vim Guide for Advanced Users](https://thevaluable.dev/vim-advanced/)
+- [Meltano: ELT for the DataOps era](https://meltano.com/)
 
-- [Solving Advent of Code 2020 in under a second](https://timvisee.com/blog/solving-aoc-2020-in-under-a-second/)
+- [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
 
-- [dhcpleased(8) - DHCP client daemon](https://undeadly.org/cgi?action=article;sid=20210227232424)
+- [How screen scraping and TinyML can turn any dial into an API](https://petewarden.com/2021/02/28/how-screen-scraping-and-tinyml-can-turn-any-dial-into-an-api/)
+
+- [Introduction to libp2p](https://proto.school/introduction-to-libp2p/)
+
+- [Top-Down Parsing with Parsing Contexts -- A simple approach to context sensitive parsing](https://pure.rug.nl/ws/files/33882898/Kurs14a_ParsingContext.pdf)
+
+- [Show HN: QueryCal – calculate metrics from your calendars using SQL](https://querycal.com)
+
+- [Error Correcting Earley Parser](https://rahul.gopinath.org/post/2021/02/22/error-correcting-earley-parser/)
+
+- [I built a 5K iMac Display on my own](https://twitter.com/phillipcaudell/status/1352692104707919872)
 
 - [Switching back to OpenSSL](https://voidlinux.org/news/2021/02/OpenSSL.html)
 
-- [How to Read Assembly Language](https://wolchok.org/posts/how-to-read-assembly-language/)
+- [Reddit CEO: Platform doesn't plan to ban pornography](https://www.axios.com/reddit-ceo-pornography-axios-hbo-a16f347b-0da5-4368-97ec-a8d3cdfab064.html)
 
-- [Math Writer](https://writer.math.dev)
+- [The missing continent it took 375 years to find](https://www.bbc.com/future/article/20210205-the-last-secrets-of-the-worlds-lost-continent)
 
-- [Amazon rainforest plots sold via Facebook Marketplace ads](https://www.bbc.com/news/technology-56168844)
+- [How Perl Saved the Human Genome Project (1996)](https://www.foo.be/docs/tpj/issues/vol1_2/tpj0102-0001.html)
 
-- [Amazon rainforest rock art 'depicts giant Ice Age creatures' (2020)](https://www.bbc.com/news/world-latin-america-55172063)
+- [Rust and LLVM in 2021](https://www.icloud.com/keynote/09ZXbPfbCKm8vCtAnWdfi2xIg)
 
-- [Noweb – A Simple, Extensible Tool for Literate Programming](https://www.cs.tufts.edu/~nr/noweb/)
+- [Timezones](https://www.jwz.org/blog/2018/02/timezones/)
 
-- [Google Issues Quality Warning for Millions of Google Photos Users](https://www.forbes.com/sites/paulmonckton/2021/02/27/google-issues-quality-warning-for-millions-of-google-photos-users/)
-
-- [New Bone Cell Type Identified](https://www.genengnews.com/news/new-bone-cell-type-identified-could-point-to-drug-targets-for-osteoporosis-and-other-skeletal-diseases/)
-
-- [Zealandia: Earth’s Hidden Continent](https://www.geosociety.org/gsatoday/archive/27/3/article/GSATG321A.1.htm)
-
-- [Hardware SAS Raid on the Raspberry Pi CM4](https://www.jeffgeerling.com/blog/2021/hardware-raid-on-raspberry-pi-cm4)
-
-- [A 'Lamborghini' of Chariots Is Discovered at Pompeii](https://www.npr.org/2021/02/27/972118983/a-lamborghini-of-chariots-is-discovered-at-pompeii-archaeologists-are-wowed)
-
-- [Norman Golb, Dead Sea Scrolls Contrarian, Is Dead at 92](https://www.nytimes.com/2021/02/15/science/norman-golb-dead.html)
-
-- [Translating My Z3 Tutorial to Coq](https://www.philipzucker.com/translating-z3-to-coq/)
+- [OpenGL Superbible](https://www.opengl.org/sdk/docs/books/SuperBible/)
 
 - [RecipeRadar - a free and open source recipe search engine](https://www.reciperadar.com/)
 
-- [A single cell slime mold makes decisions without a central nervous system](https://www.tum.de/nc/en/about-tum/news/press-releases/details/36462/)
+- [Strange chip: Teardown of a vintage IBM token ring controller](https://www.righto.com/2021/02/strange-chip-teardown-of-vintage-ibm.html)
 
-- [OpenVMS x86 State of the Port](https://www.youtube.com/watch?v=RrHWrbB4oKM)
+- [The Mars Helicopter Is Online and Getting Ready to Fly](https://www.universetoday.com/150224/the-mars-helicopter-is-online-and-getting-ready-to-fly/)
 
-- [1991's PC technology was unbelievable (2011)](https://www.zdnet.com/article/1991s-pc-technology-was-unbelievable/)
+- [LayerCI (YC S20) is hiring to build the next generation of DevOps platforms](https://www.workatastartup.com/jobs/42204)
