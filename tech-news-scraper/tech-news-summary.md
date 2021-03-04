@@ -1,101 +1,105 @@
-- [Get a Life](http://crypto.stanford.edu/~blynn/haskell/life.html)
+- [Goat Ops](http://www.goatops.com/)
 
-- [Foundational distributed systems papers](http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html)
+- [Probability, Mathematical Statistics, Stochastic Processes](http://www.randomservices.org/random/)
 
-- [Unfolding the Earth: Myriahedral Projections](http://philogb.github.io/page/myriahedral/)
+- [Germanium transistors: logic circuits in the IBM 1401 computer](http://www.righto.com/2021/03/germanium-transistors-logic-circuits-in.html)
 
-- [OMU – “One Man Unix”](http://www.pix.net/mirrored/discordia.org.uk/~steve/omu.html)
+- [How can I run newer Unity games on OS X 10.9 Mavericks?](https://apple.stackexchange.com/questions/414688/how-can-i-run-newer-unity-games-on-os-x-10-9-mavericks)
 
-- [Squeak: A Free Smalltalk System – On RISC OS](http://www.rowledge.org/tim/squeak/)
+- [Accidentally quadratic: When Python is faster than C++](https://arxiv.org/abs/1911.12338)
 
-- [Actually Portable Executables](https://ahgamut.github.io/c/2021/02/27/ape-cosmo/)
+- [Using Apple Silicon (M1) as a cloud engineer, two months in](https://blog.earthly.dev/using-apple-silicon-m1-as-a-cloud-engineer-two-months-in/)
 
-- [Cname / DNS based third party tracking](https://arxiv.org/abs/2102.09301v2)
+- [GOGGLES: Democracy dies in darkness, and so does the Web](https://brave.com/wp-content/uploads/2021/03/goggles.pdf)
 
-- [Abstraction is Okay, Magic is Not](https://asthasr.github.io/posts/abstraction-is-okay/)
+- [Development on Windows is Painful](https://christine.website/blog/windows-pain-2021-03-03)
 
-- [Why you should take a look at Nomad before jumping on Kubernetes](https://atodorov.me/2021/02/27/why-you-should-take-a-look-at-nomad-before-jumping-on-kubernetes/)
+- [Google Cloud products in 4 words or less](https://cloud.google.com/blog/topics/developers-practitioners/back-popular-demand-google-cloud-products-4-words-or-less-2021-edition)
 
-- [How to run a Windows virtual machine on LXD on Linux](https://blog.simos.info/how-to-run-a-windows-virtual-machine-on-lxd-on-linux/)
+- [Video Game Programming From Scratch with Casey Muratori](https://corecursive.com/062-game-programming/)
 
-- [Weird architectures weren't supported to begin with](https://blog.yossarian.net/2021/02/28/Weird-architectures-werent-supported-to-begin-with)
+- [Flutter 2](https://developers.googleblog.com/2021/03/announcing-flutter-2.html)
 
-- [Haskell Executable Sizes](https://dfithian.github.io/2021/02/28/haskell-executable-sizes.html)
+- [Iceberg simulator – draw an iceberg and see how it floats and melts](https://engaging-data.com/iceberger-remixed/?h=)
 
-- [Users are losing out against Big Sur’s sealed System](https://eclecticlight.co/2021/02/28/last-week-on-my-mac-users-are-losing-out-against-big-surs-sealed-system/)
+- ["This destroyes the RSA cryptosystem" (by proving polynomial time bound on integer factorization)](https://eprint.iacr.org/2021/232)
 
-- [Reversible Computing](https://en.wikipedia.org/wiki/Reversible_computing)
+- [ImHUI: Imgui-style library for the web using actual HTML output](https://games.greggman.com/game/imhui-first-thoughts/)
 
-- [This is my thinly veiled attempt to get you to use a library I wrote](https://evinsellin.medium.com/this-is-my-thinly-veiled-attempt-to-get-you-to-use-a-library-i-wrote-9755dd0fa917)
+- [Dolt is Git for Data](https://github.com/dolthub/dolt)
 
-- [FreshBSD 2021: Relaunching the BSD Commit Log Search Engine](https://freshbsd.org/news/2021/02/28)
+- [Godot maintainer removes controversial satirical piece from documentation](https://github.com/godotengine/godot-docs/commit/b872229427dddb9b749f46af597e85e25cf2955a)
 
-- [Not Lisp again (2009)](https://funcall.blogspot.com/2009/03/not-lisp-again.html)
+- [Stealing from Python: the extract method](https://github.com/naver/lispe/wiki/6.10-Stealing-from-Python:-the-'extract'-method)
 
-- [Rust, Zig, and the Futility of "Replacing" C](https://gavinhoward.com/2021/02/rust-zig-and-the-futility-of-replacing-c/)
+- [fs.promises.readFile is 40% slower than fs.readFile](https://github.com/nodejs/node/issues/37583)
 
-- [Show HN: A Native Tiling Window Manager for Windows 10, Inspired by I3wm](https://github.com/McYoloSwagHam/win3wm)
+- [Cbonsai: Grow bonsai trees in your terminal](https://gitlab.com/jallbrit/cbonsai)
 
-- [RIP Flynn.io](https://github.com/flynn/flynn)
+- [Exciting New Features in Django 3.2](https://hakibenita.com/django-32-exciting-features)
 
-- [JSON parser written in 6502 assembly language](https://github.com/ppelleti/json65)
+- [High-level WebGL with low-level tags](https://hugodaniel.com/posts/high-level-webgl-low-level-tags/)
 
-- [Snyk: Find and fix vulnerabilities in open-source dependencies](https://github.com/snyk/snyk)
+- [Semantic Versioning Will Not Save You](https://hynek.me/articles/semver-will-not-save-you/)
 
-- [xmake v2.5.2 released, Support pull remote cross toolchain and package integration](https://github.com/xmake-io/xmake/wiki/xmake-v2.5.2-released,-Support-pull-remote-cross-toolchain-and-package-integration)
+- [VPS Showdown - March 2021 - DigitalOcean vs. Lightsail vs. Linode vs. UpCloud vs. Vultr](https://joshtronic.com/2021/03/01/vps-showdown-digitalocean-lightsail-linode-upcloud-vultr/)
 
-- [Making SoA Tollerable](https://hacksoflife.blogspot.com/2021/02/making-soa-tollerable.html)
+- [M1 MacBook Air hits 900 GFlops in the browser with Safari's experimental WebGPU](https://jott.live/markdown/m1_webgpu_perf)
 
-- [HardenedBSD February 2021 Status Report](https://hardenedbsd.org/article/shawn-webb/2021-02-28/hardenedbsd-february-2021-status-report)
+- [Killing TurboTax](https://kunle.app/feb-2021-how-to-dismantle-turbotax.html)
 
-- [Little League wants all your information](https://honeypot.net/post/little-league-wants-all-your-information/)
+- [PipeWire: The Linux audio/video bus](https://lwn.net/SubscriberLink/847412/d7826b1353e33734)
 
-- [Models of Abstraction](https://justinblank.com/notebooks/modelsofabstraction.html)
+- [A Terse Guide On Hiring Your First Engineering Manager](https://mikedebo.com/work/2021/03/02/terse-guide-on-hiring-an-engineering-manager/)
 
-- [Apple removes $1k featureless iPhone application (2008)](https://latimesblogs.latimes.com/technology/2008/08/iphone-i-am-ric.html)
+- [AWS faulty UX cost our business $7k and they refused to do anything about it](https://mikemorgenstern.medium.com/awss-faulty-ux-cost-our-business-7k-and-they-refused-to-do-anything-about-it-cd84759740ec)
 
-- [Warren Buffett's bet against hedge funds at the Long Now Foundation (2008-17)](https://longbets.org/362/)
+- [Feature phone with E Ink display and open-source OS](https://mudita.com/products/pure/)
 
-- [Procfs: Processes as Files (1984) [pdf]](https://lucasvr.gobolinux.org/etc/Killian84-Procfs-USENIX.pdf)
+- [How to build DOS COM files with GCC (2014)](https://nullprogram.com/blog/2014/12/09/)
 
-- [Create animated GIF and WebP from videos using FFmpeg](https://mattj.io/posts/2021-02-27-create-animated-gif-and-webp-from-videos-using-ffmpeg/)
+- [SMS Static Site](https://phasedust.com/)
 
-- [Multi-User Dungeons (MUDs): What Are They? and How to Play](https://medium.com/@williamson.f93/multi-user-dungeons-muds-what-are-they-and-how-to-play-af3ec0f29f4a)
+- [Bitsquatting Windows.com](https://remyhax.xyz/posts/bitsquatting-windows/)
 
-- [Meltano: ELT for the DataOps era](https://meltano.com/)
+- [Norwegian Won’t Fly the Boeing 737 Max Again](https://simpleflying.com/norwegian-drops-737-max/)
 
-- [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
+- [Did Schnorr destroy RSA? Show me the factors](https://sweis.medium.com/did-schnorr-destroy-rsa-show-me-the-factors-dcb1bb980ab0)
 
-- [How screen scraping and TinyML can turn any dial into an API](https://petewarden.com/2021/02/28/how-screen-scraping-and-tinyml-can-turn-any-dial-into-an-api/)
+- [Yedit – The missing edit.com replacement for modern Windows](https://virtuallyfun.com/wordpress/2021/03/03/yedit-the-missing-edit-com-replacement-for-modern-windows/)
 
-- [Introduction to libp2p](https://proto.school/introduction-to-libp2p/)
+- [vx-underground](https://vx-underground.org/index.html)
 
-- [Top-Down Parsing with Parsing Contexts -- A simple approach to context sensitive parsing](https://pure.rug.nl/ws/files/33882898/Kurs14a_ParsingContext.pdf)
+- [Twin sisters worth millions thanks to female gamers](https://www.bbc.com/news/business-56261671)
 
-- [Show HN: QueryCal – calculate metrics from your calendars using SQL](https://querycal.com)
+- [Okta to Acquire Auth0 for $6.5B](https://www.cnbc.com/2021/03/03/okta-is-buying-security-rival-auth0-for-6point5-billion-stock-falls.html)
 
-- [Error Correcting Earley Parser](https://rahul.gopinath.org/post/2021/02/22/error-correcting-earley-parser/)
+- [Arduino IDE 2.0 beta released with live debugger, revamped user interface](https://www.cnx-software.com/2021/03/03/arduino-ide-2-0-beta-released-with-live-debugger-revamped-user-interface/)
 
-- [I built a 5K iMac Display on my own](https://twitter.com/phillipcaudell/status/1352692104707919872)
+- [Architecture of Consoles | A Practical Analysis](https://www.copetti.org/writings/consoles/)
 
-- [Switching back to OpenSSL](https://voidlinux.org/news/2021/02/OpenSSL.html)
+- [A Brief Look Inside HPKG](https://www.haiku-os.org/blog/apl/2021-02-28_look_at_hpkg/)
 
-- [Reddit CEO: Platform doesn't plan to ban pornography](https://www.axios.com/reddit-ceo-pornography-axios-hbo-a16f347b-0da5-4368-97ec-a8d3cdfab064.html)
+- [Dialog – domain-specific language for interactive fiction](https://www.linusakesson.net/dialog/index.php)
 
-- [The missing continent it took 375 years to find](https://www.bbc.com/future/article/20210205-the-last-secrets-of-the-worlds-lost-continent)
+- [It Can Happen to You](https://www.mattkeeter.com/blog/2021-03-01-happen/)
 
-- [How Perl Saved the Human Genome Project (1996)](https://www.foo.be/docs/tpj/issues/vol1_2/tpj0102-0001.html)
+- [Reading A Letter That's Been Sealed For More Than 300 Years — Without Opening It](https://www.npr.org/2021/03/02/972607811/reading-a-letter-thats-been-sealed-for-more-than-300-years-without-opening-it)
 
-- [Rust and LLVM in 2021](https://www.icloud.com/keynote/09ZXbPfbCKm8vCtAnWdfi2xIg)
+- [The Baby-Formula Crime Ring (2018)](https://www.nytimes.com/interactive/2018/05/02/magazine/money-issue-baby-formula-crime-ring.html)
 
-- [Timezones](https://www.jwz.org/blog/2018/02/timezones/)
+- [Emily Riehl is rewriting the foundations of higher category theory](https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/)
 
-- [OpenGL Superbible](https://www.opengl.org/sdk/docs/books/SuperBible/)
+- [ThredUp S-1 IPO](https://www.sec.gov/Archives/edgar/data/1484778/000162828021003857/thredups-1.htm)
 
-- [RecipeRadar - a free and open source recipe search engine](https://www.reciperadar.com/)
+- [The Air Force is having to reverse engineer parts of its own stealth bomber](https://www.thedrive.com/the-war-zone/39537/the-air-force-needs-to-reverse-engineer-parts-of-its-own-stealth-bomber)
 
-- [Strange chip: Teardown of a vintage IBM token ring controller](https://www.righto.com/2021/02/strange-chip-teardown-of-vintage-ibm.html)
+- [Brave buys a search engine, promises no tracking, no profiling](https://www.theregister.com/2021/03/03/brave_buys_a_search_engine/)
 
-- [The Mars Helicopter Is Online and Getting Ready to Fly](https://www.universetoday.com/150224/the-mars-helicopter-is-online-and-getting-ready-to-fly/)
+- [Etleap (YC W13) Is Hiring a Customer Success Manager](https://www.workatastartup.com/jobs/42334)
 
-- [LayerCI (YC S20) is hiring to build the next generation of DevOps platforms](https://www.workatastartup.com/jobs/42204)
+- [Google to stop selling ads based on your specific web browsing](https://www.wsj.com/articles/google-to-stop-selling-ads-based-on-your-specific-web-browsing-11614780021)
+
+- [Brendan Eich: JavaScript, Firefox, Mozilla, and Brave](https://www.youtube.com/watch?v=krB0enBeSiE)
+
+- [Why You Should Take Any Vaccine](https://zeynep.substack.com/p/why-you-should-take-any-vaccine)
