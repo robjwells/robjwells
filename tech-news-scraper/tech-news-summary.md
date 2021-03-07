@@ -1,105 +1,107 @@
-- [Goat Ops](http://www.goatops.com/)
+- [Animated Engines](http://animatedengines.com/)
 
-- [Probability, Mathematical Statistics, Stochastic Processes](http://www.randomservices.org/random/)
+- [Finding Mona Lisa in the Game of Life](http://avinayak.github.io/algorithms/programming/2021/02/19/finding-mona-lisa-in-the-game-of-life.html)
 
-- [Germanium transistors: logic circuits in the IBM 1401 computer](http://www.righto.com/2021/03/germanium-transistors-logic-circuits-in.html)
+- [WordStar: A Writer's Word Processor (1996)](http://sfwriter.com/wordstar.htm)
 
-- [How can I run newer Unity games on OS X 10.9 Mavericks?](https://apple.stackexchange.com/questions/414688/how-can-i-run-newer-unity-games-on-os-x-10-9-mavericks)
+- [Lying to the Ghost in the Machine](http://www.antipope.org/charlie/blog-static/2021/03/lying-to-the-ghost-in-the-mach.html)
 
-- [Accidentally quadratic: When Python is faster than C++](https://arxiv.org/abs/1911.12338)
+- [The bizarre beasts living in Romania's poison cave (2015)](http://www.bbc.co.uk/earth/story/20150904-the-bizarre-beasts-living-in-romanias-poison-cave)
 
-- [Using Apple Silicon (M1) as a cloud engineer, two months in](https://blog.earthly.dev/using-apple-silicon-m1-as-a-cloud-engineer-two-months-in/)
+- [On Understanding Data Abstraction, Revisited (2009)](http://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf)
 
-- [GOGGLES: Democracy dies in darkness, and so does the Web](https://brave.com/wp-content/uploads/2021/03/goggles.pdf)
+- ["On Password Handling" - defining an algebra to make coding mistakes with passwords less likely](https://aaronbedra.com/post/on_password_handling/)
 
-- [Development on Windows is Painful](https://christine.website/blog/windows-pain-2021-03-03)
+- [SerenityOS: Kernel Hacking Adventures](https://abigpickle.github.io/posts/2021/03/serenityos-kernel-hacking-adventures/)
 
-- [Google Cloud products in 4 words or less](https://cloud.google.com/blog/topics/developers-practitioners/back-popular-demand-google-cloud-products-4-words-or-less-2021-edition)
+- [Wave Computing Rebrands to MIPS, Embraces RISC-V For Next-Gen Cores](https://abopen.com/news/wave-computing-rebrands-to-mips-risc-v/)
 
-- [Video Game Programming From Scratch with Casey Muratori](https://corecursive.com/062-game-programming/)
+- [The Math Behind Project Scheduling, Bug Tracking, and Triage (2017)](https://apenwarr.ca/log/?m=201712)
 
-- [Flutter 2](https://developers.googleblog.com/2021/03/announcing-flutter-2.html)
+- [Look & Feel Changes Coming to elementary OS 6](https://blog.elementary.io/look-and-feel-changes-elementary-os-6/)
 
-- [Iceberg simulator – draw an iceberg and see how it floats and melts](https://engaging-data.com/iceberger-remixed/?h=)
+- [Standard Ruby 1.0](https://blog.testdouble.com/posts/2021-03-04-announcing-standard-ruby-1.0/)
 
-- ["This destroyes the RSA cryptosystem" (by proving polynomial time bound on integer factorization)](https://eprint.iacr.org/2021/232)
+- [Cactus Comments: Federated web comments based on Matrix protocol](https://cactus.chat/)
 
-- [ImHUI: Imgui-style library for the web using actual HTML output](https://games.greggman.com/game/imhui-first-thoughts/)
+- [ContentFly (YC W21) Is Hiring Product Managers and Product Designers](https://contentfly.com/company)
 
-- [Dolt is Git for Data](https://github.com/dolthub/dolt)
+- [Towards a prevalent alternative prelude?](https://discourse.haskell.org/t/towards-a-prevalent-alternative-prelude/1986)
 
-- [Godot maintainer removes controversial satirical piece from documentation](https://github.com/godotengine/godot-docs/commit/b872229427dddb9b749f46af597e85e25cf2955a)
+- [Download the Entire Wikimedia Database](https://dumps.wikimedia.org/)
 
-- [Stealing from Python: the extract method](https://github.com/naver/lispe/wiki/6.10-Stealing-from-Python:-the-'extract'-method)
+- [Breaking the “Lattice Barrier” for the Hidden Number Problem](https://eprint.iacr.org/2020/1540)
 
-- [fs.promises.readFile is 40% slower than fs.readFile](https://github.com/nodejs/node/issues/37583)
+- [Dell Latitude 5310](https://f5n.org/blog/2021/dell-latitude-5130/)
 
-- [Cbonsai: Grow bonsai trees in your terminal](https://gitlab.com/jallbrit/cbonsai)
+- [FFMPEG from Zero to Hero](https://ffmpegfromzerotohero.com/)
 
-- [Exciting New Features in Django 3.2](https://hakibenita.com/django-32-exciting-features)
+- [Strema: a programming language built live on stream](https://gilmi.gitlab.io/strema/)
 
-- [High-level WebGL with low-level tags](https://hugodaniel.com/posts/high-level-webgl-low-level-tags/)
+- [Dolt is Git for Data: a SQL database that you can fork, clone, branch, merge](https://github.com/dolthub/dolt#dolt)
 
-- [Semantic Versioning Will Not Save You](https://hynek.me/articles/semver-will-not-save-you/)
+- [Banned C functions in git source code](https://github.com/git/git/blob/master/banned.h)
 
-- [VPS Showdown - March 2021 - DigitalOcean vs. Lightsail vs. Linode vs. UpCloud vs. Vultr](https://joshtronic.com/2021/03/01/vps-showdown-digitalocean-lightsail-linode-upcloud-vultr/)
+- [Justified Variables: Words of the same length with related meanings](https://github.com/timvieira/justified-variables)
 
-- [M1 MacBook Air hits 900 GFlops in the browser with Safari's experimental WebGPU](https://jott.live/markdown/m1_webgpu_perf)
+- [Listen to your network traffic with this small rust app](https://github.com/vvilhonen/nethoscope)
 
-- [Killing TurboTax](https://kunle.app/feb-2021-how-to-dismantle-turbotax.html)
+- [RectCut for dead simple UI layouts](https://halt.software/dead-simple-layouts/)
 
-- [PipeWire: The Linux audio/video bus](https://lwn.net/SubscriberLink/847412/d7826b1353e33734)
+- [U.S. Organizations Hacked Via Microsoft Exchange](https://krebsonsecurity.com/2021/03/at-least-30000-u-s-organizations-newly-hacked-via-holes-in-microsofts-email-software/)
 
-- [A Terse Guide On Hiring Your First Engineering Manager](https://mikedebo.com/work/2021/03/02/terse-guide-on-hiring-an-engineering-manager/)
+- [Psyche-C: A compiler frontend for the C programming language designed for static analysis tools](https://ltcmelo.github.io/psychec/)
 
-- [AWS faulty UX cost our business $7k and they refused to do anything about it](https://mikemorgenstern.medium.com/awss-faulty-ux-cost-our-business-7k-and-they-refused-to-do-anything-about-it-cd84759740ec)
+- [My Approach to Getting Dramatically Better as a Programmer](https://malisper.me/my-approach-to-getting-dramatically-better-as-a-programmer/)
 
-- [Feature phone with E Ink display and open-source OS](https://mudita.com/products/pure/)
+- [Nodes.io – a new way to create with code](https://nodes.io/)
 
-- [How to build DOS COM files with GCC (2014)](https://nullprogram.com/blog/2014/12/09/)
+- [JEP 398: Deprecate the Applet API for Removal](https://openjdk.java.net/jeps/398)
 
-- [SMS Static Site](https://phasedust.com/)
+- [Procrastination is flight, deadline is fight, freeze is staring at the screen](https://pmigdal.medium.com/dont-fight-flight-or-freeze-your-body-and-emotions-96f5aa30b299)
 
-- [Bitsquatting Windows.com](https://remyhax.xyz/posts/bitsquatting-windows/)
+- [Fourty Years On](https://popey.com/blog/2021/03/fourty-years-on/)
 
-- [Norwegian Won’t Fly the Boeing 737 Max Again](https://simpleflying.com/norwegian-drops-737-max/)
+- [Show HN: PrograMaker – Visual Programming Platform](https://programaker.com/about)
 
-- [Did Schnorr destroy RSA? Show me the factors](https://sweis.medium.com/did-schnorr-destroy-rsa-show-me-the-factors-dcb1bb980ab0)
+- [Taxi Drivers Take Longer Routes Than Uber Drivers](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2020.3721)
 
-- [Yedit – The missing edit.com replacement for modern Windows](https://virtuallyfun.com/wordpress/2021/03/03/yedit-the-missing-edit-com-replacement-for-modern-windows/)
+- [NFTs Are a Dangerous Trap](https://seths.blog/2021/03/nfts-are-a-dangerous-trap/)
 
-- [vx-underground](https://vx-underground.org/index.html)
+- [What the Mouse Knows](https://simonsarris.substack.com/p/what-the-mouse-knows)
 
-- [Twin sisters worth millions thanks to female gamers](https://www.bbc.com/news/business-56261671)
+- [Trespasser - C++ archeology and oxidization - Part 1 Loading Scene Data](https://speps.fr/articles/trespasser-part1/)
 
-- [Okta to Acquire Auth0 for $6.5B](https://www.cnbc.com/2021/03/03/okta-is-buying-security-rival-auth0-for-6point5-billion-stock-falls.html)
+- [Build Your Machine Today](https://vention.io)
 
-- [Arduino IDE 2.0 beta released with live debugger, revamped user interface](https://www.cnx-software.com/2021/03/03/arduino-ide-2-0-beta-released-with-live-debugger-revamped-user-interface/)
+- [Functioning iPhone returned to owner after 6 months at bottom of lake](https://www.cbc.ca/news/canada/british-columbia/cell-phone-recovered-from-harrison-lake-1.5937753?cmp=rss)
 
-- [Architecture of Consoles | A Practical Analysis](https://www.copetti.org/writings/consoles/)
+- [Citus 10 brings columnar compression to Postgres](https://www.citusdata.com/blog/2021/03/06/citus-10-columnar-compression-for-postgres/)
 
-- [A Brief Look Inside HPKG](https://www.haiku-os.org/blog/apl/2021-02-28_look_at_hpkg/)
+- [Reality Is Perplexing Enough: An Interview with Jorge Luis Borges (1968)](https://www.commonwealmagazine.org/interview-jorge-luis-borges)
 
-- [Dialog – domain-specific language for interactive fiction](https://www.linusakesson.net/dialog/index.php)
+- [Bay Area drug kingpins lured in low-level dealers with promises of cheap rent](https://www.eastbaytimes.com/2020/03/12/in-the-midst-of-housing-shortage-bay-area-drug-kingpins-lured-in-low-level-dealers-with-promises-of-cheap-rent-feds-say/)
 
-- [It Can Happen to You](https://www.mattkeeter.com/blog/2021-03-01-happen/)
+- [What Is RPN? Why Did/Does HP Use RPN? Learning RPN (1999)](https://www.hpmuseum.org/rpn.htm)
 
-- [Reading A Letter That's Been Sealed For More Than 300 Years — Without Opening It](https://www.npr.org/2021/03/02/972607811/reading-a-letter-thats-been-sealed-for-more-than-300-years-without-opening-it)
+- [Resilience in Ruby: Shell Commands](https://www.johnnunemaker.com/resilience-in-ruby-shell-commands/)
 
-- [The Baby-Formula Crime Ring (2018)](https://www.nytimes.com/interactive/2018/05/02/magazine/money-issue-baby-formula-crime-ring.html)
+- [The moving sofa problem (2016)](https://www.math.ucdavis.edu/~romik/movingsofa/)
 
-- [Emily Riehl is rewriting the foundations of higher category theory](https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/)
+- [Clojure from a Schemer's perspective](https://www.more-magic.net/posts/thoughts-on-clojure.html)
 
-- [ThredUp S-1 IPO](https://www.sec.gov/Archives/edgar/data/1484778/000162828021003857/thredups-1.htm)
+- [The Tanenbaum-Torvalds Debate](https://www.oreilly.com/openbook/opensources/book/appa.html)
 
-- [The Air Force is having to reverse engineer parts of its own stealth bomber](https://www.thedrive.com/the-war-zone/39537/the-air-force-needs-to-reverse-engineer-parts-of-its-own-stealth-bomber)
+- [Review: Blackbird Secure Desktop](https://www.osnews.com/story/133093/review-blackbird-secure-desktop-a-fully-open-source-modern-power9-workstation-without-any-proprietary-code/)
 
-- [Brave buys a search engine, promises no tracking, no profiling](https://www.theregister.com/2021/03/03/brave_buys_a_search_engine/)
+- [How CPUs are Designed and Built: Computer Architecture (1/4)](https://www.techspot.com/article/1821-how-cpus-are-designed-and-built/)
 
-- [Etleap (YC W13) Is Hiring a Customer Success Manager](https://www.workatastartup.com/jobs/42334)
+- [YouTuber Builds Working 3D-Printed Turbojet Engine and Tests It in His Attic](https://www.thedrive.com/news/39624/youtuber-builds-working-3d-printed-turbojet-engine-and-tests-it-in-his-attic)
 
-- [Google to stop selling ads based on your specific web browsing](https://www.wsj.com/articles/google-to-stop-selling-ads-based-on-your-specific-web-browsing-11614780021)
+- [Thanks HN: Lessons learned after Google nearly killed my site](https://www.uploader.win/blog/)
 
-- [Brendan Eich: JavaScript, Firefox, Mozilla, and Brave](https://www.youtube.com/watch?v=krB0enBeSiE)
+- [Tim Wu Explains Why He Thinks Facebook Should Be Broken Up (2019)](https://www.wired.com/story/tim-wu-explains-why-facebook-broken-up/)
 
-- [Why You Should Take Any Vaccine](https://zeynep.substack.com/p/why-you-should-take-any-vaccine)
+- [How does a PS/2 keyboard interface work?](https://www.youtube.com/watch?v=7aXbh9VUB3U)
+
+- [Functional Parsing (2020)](https://www.youtube.com/watch?v=dDtZLm7HIJs)
