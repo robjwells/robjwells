@@ -1,107 +1,99 @@
-- [Animated Engines](http://animatedengines.com/)
+- [Internet Archive Scholar: Search Millions of Research Papers](http://blog.archive.org/2021/03/09/search-scholarly-materials-preserved-in-the-internet-archive/)
 
-- [Finding Mona Lisa in the Game of Life](http://avinayak.github.io/algorithms/programming/2021/02/19/finding-mona-lisa-in-the-game-of-life.html)
+- [Write libraries instead of services, where possible](http://catern.com/services.html)
 
-- [WordStar: A Writer's Word Processor (1996)](http://sfwriter.com/wordstar.htm)
+- [Food: A Bittersweet Affair, Can I Program Out of My Food Problems?](http://christophermeiklejohn.com/food/2021/03/09/food-part-1.html)
 
-- [Lying to the Ghost in the Machine](http://www.antipope.org/charlie/blog-static/2021/03/lying-to-the-ghost-in-the-mach.html)
+- [Report on an Unidentified Space Station (1982)](http://geosci.uchicago.edu/~kite/doc/roauss.htm)
 
-- [The bizarre beasts living in Romania's poison cave (2015)](http://www.bbc.co.uk/earth/story/20150904-the-bizarre-beasts-living-in-romanias-poison-cave)
+- [Iteration Inside and Out (2013)](http://journal.stuffwithstuff.com/2013/01/13/iteration-inside-and-out/)
 
-- [On Understanding Data Abstraction, Revisited (2009)](http://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf)
+- [How I self-published a professional paperback and eBook using LaTeX and Pandoc](http://theroadchoseme.com/how-i-self-published-a-professional-paperback-and-ebook-using-latex-and-pandoc)
 
-- ["On Password Handling" - defining an algebra to make coding mistakes with passwords less likely](https://aaronbedra.com/post/on_password_handling/)
+- [Fire declared in OVH SBG2 datacentre building](http://travaux.ovh.net/?do=details&id=49471&)
 
-- [SerenityOS: Kernel Hacking Adventures](https://abigpickle.github.io/posts/2021/03/serenityos-kernel-hacking-adventures/)
+- [Papers Without Code](http://www.paperswithoutcode.com/)
 
-- [Wave Computing Rebrands to MIPS, Embraces RISC-V For Next-Gen Cores](https://abopen.com/news/wave-computing-rebrands-to-mips-risc-v/)
+- [Reverse-engineering the standard-cell logic inside a vintage IBM chip](http://www.righto.com/2021/03/reverse-engineering-standard-cell-logic.html)
 
-- [The Math Behind Project Scheduling, Bug Tracking, and Triage (2017)](https://apenwarr.ca/log/?m=201712)
+- [80486 CPU Board](http://www.s100computers.com/My%20System%20Pages/80486%20Board/80486%20CPU%20Board.htm)
 
-- [Look & Feel Changes Coming to elementary OS 6](https://blog.elementary.io/look-and-feel-changes-elementary-os-6/)
+- [Achieving 250K concurrent connections on Cloud Run](https://ahmet.im/blog/cloud-run-chat-server/)
 
-- [Standard Ruby 1.0](https://blog.testdouble.com/posts/2021-03-04-announcing-standard-ruby-1.0/)
+- [Accelerating Neural Networks on Mobile and Web with Sparse Inference](https://ai.googleblog.com/2021/03/accelerating-neural-networks-on-mobile.html)
 
-- [Cactus Comments: Federated web comments based on Matrix protocol](https://cactus.chat/)
+- [Vim is Turing-Complete](https://buttondown.email/hillelwayne/archive/vim-is-turing-complete/)
 
-- [ContentFly (YC W21) Is Hiring Product Managers and Product Designers](https://contentfly.com/company)
+- [half of curl’s vulnerabilities are C mistakes](https://daniel.haxx.se/blog/2021/03/09/half-of-curls-vulnerabilities-are-c-mistakes/)
 
-- [Towards a prevalent alternative prelude?](https://discourse.haskell.org/t/towards-a-prevalent-alternative-prelude/1986)
+- [Coding Constructs I Now Avoid (and why)](https://danielbmarkham.com/coding-constructs-i-now-avoid/)
 
-- [Download the Entire Wikimedia Database](https://dumps.wikimedia.org/)
+- [Compressing data with Parquet](https://dev.l1x.be/posts/2021/03/08/compressing-data-with-parquet/)
 
-- [Breaking the “Lattice Barrier” for the Hidden Number Problem](https://eprint.iacr.org/2020/1540)
+- [Pruning Unused Haskell Dependencies](https://dfithian.github.io/2021/03/08/pruning-unused-haskell-dependencies.html)
 
-- [Dell Latitude 5310](https://f5n.org/blog/2021/dell-latitude-5130/)
+- [Flipper Zero: Tamagochi for Hackers](https://flipperzero.one/)
 
-- [FFMPEG from Zero to Hero](https://ffmpegfromzerotohero.com/)
+- [User-defined type guards in TypeScript](https://gcollazo.com/user-defined-type-guards-in-typescript/)
 
-- [Strema: a programming language built live on stream](https://gilmi.gitlab.io/strema/)
+- [GitHub bug related to handling of authenticated sessions](https://github.blog/2021-03-08-github-security-update-a-bug-related-to-handling-of-authenticated-sessions/)
 
-- [Dolt is Git for Data: a SQL database that you can fork, clone, branch, merge](https://github.com/dolthub/dolt#dolt)
+- [Open source clones of popular sites](https://github.com/GorvGoyl/Clone-Wars)
 
-- [Banned C functions in git source code](https://github.com/git/git/blob/master/banned.h)
+- [Show HN: I made a tool to convert images of tables to CSV](https://github.com/artperrin/image2csv)
 
-- [Justified Variables: Words of the same length with related meanings](https://github.com/timvieira/justified-variables)
+- [Esbuild 0.9](https://github.com/evanw/esbuild/releases/tag/v0.9.0)
 
-- [Listen to your network traffic with this small rust app](https://github.com/vvilhonen/nethoscope)
+- [The Quirks of Gmail Ui](https://hanami.run/blog/posts/the-quirks-of-gmail-ui/)
 
-- [RectCut for dead simple UI layouts](https://halt.software/dead-simple-layouts/)
+- [Children Playing Blockchain](https://jott.live/markdown/elementary_blockchain)
 
-- [U.S. Organizations Hacked Via Microsoft Exchange](https://krebsonsecurity.com/2021/03/at-least-30000-u-s-organizations-newly-hacked-via-holes-in-microsofts-email-software/)
+- [The Railsification of SaaS](https://keithwhor.medium.com/the-railsification-of-saas-e5d284fa44a1)
 
-- [Psyche-C: A compiler frontend for the C programming language designed for static analysis tools](https://ltcmelo.github.io/psychec/)
+- [Signal Appears To Have Abandoned Their AGPL-licensed Server Sourcecode](https://linuxreviews.org/Signal_Appears_To_Have_Abandoned_Their_AGPL-licensed_Server_Sourcecode)
 
-- [My Approach to Getting Dramatically Better as a Programmer](https://malisper.me/my-approach-to-getting-dramatically-better-as-a-programmer/)
+- [Requirements change: migrating either/or data schema](https://minimalmodeling.substack.com/p/requirements-change-migrating-eitheror)
 
-- [Nodes.io – a new way to create with code](https://nodes.io/)
+- [PCSX2 - The Playstation 2 emulator - Q4 2020 Progress Report](https://pcsx2.net/297-q4-2020-progress-report.html)
 
-- [JEP 398: Deprecate the Applet API for Removal](https://openjdk.java.net/jeps/398)
+- [My Journey To Understanding Function Composition](https://savo.rocks/posts/my-journey-to-understanding-function-composition/)
 
-- [Procrastination is flight, deadline is fight, freeze is staring at the screen](https://pmigdal.medium.com/dont-fight-flight-or-freeze-your-body-and-emotions-96f5aa30b299)
+- [Show HN: Singlelink – an open-source micro-site platform](https://singlelink.co)
 
-- [Fourty Years On](https://popey.com/blog/2021/03/fourty-years-on/)
+- [Downsampling Time Series for Visual Representation [pdf]](https://skemman.is/bitstream/1946/15343/3/SS_MSthesis.pdf)
 
-- [Show HN: PrograMaker – Visual Programming Platform](https://programaker.com/about)
+- [The Roblox Microverse](https://stratechery.com/2021/the-roblox-microverse/)
 
-- [Taxi Drivers Take Longer Routes Than Uber Drivers](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2020.3721)
+- [Organizations announced for Google Summer of Code 2021](https://summerofcode.withgoogle.com/organizations/)
 
-- [NFTs Are a Dangerous Trap](https://seths.blog/2021/03/nfts-are-a-dangerous-trap/)
+- [Debian running on Rust coreutils](https://sylvestre.ledru.info/blog/2021/03/09/debian-running-on-rust-coreutils)
 
-- [What the Mouse Knows](https://simonsarris.substack.com/p/what-the-mouse-knows)
+- [T-Mobile to share customers' data with advertisers unless they opt out](https://thehill.com/policy/technology/542303-t-mobile-to-share-customers-web-mobile-app-data-with-advertisers-unless)
 
-- [Trespasser - C++ archeology and oxidization - Part 1 Loading Scene Data](https://speps.fr/articles/trespasser-part1/)
+- [The Future of Group Messaging](https://thejarren.com/group-messaging)
 
-- [Build Your Machine Today](https://vention.io)
+- [RSS as a Facebook alternative](https://thenewleafjournal.com/around-the-web-rss-as-a-facebook-alternative/)
 
-- [Functioning iPhone returned to owner after 6 months at bottom of lake](https://www.cbc.ca/news/canada/british-columbia/cell-phone-recovered-from-harrison-lake-1.5937753?cmp=rss)
+- [Italo Calvino, The Art of Fiction No. 130 (1992)](https://theparisreview.org/interviews/2027/the-art-of-fiction-no-130-italo-calvino)
 
-- [Citus 10 brings columnar compression to Postgres](https://www.citusdata.com/blog/2021/03/06/citus-10-columnar-compression-for-postgres/)
+- [Why asynchronous Rust doesn't work](https://theta.eu.org/2021/03/08/async-rust-2.html)
 
-- [Reality Is Perplexing Enough: An Interview with Jorge Luis Borges (1968)](https://www.commonwealmagazine.org/interview-jorge-luis-borges)
+- [GlusterFS 8 on FreeBSD 13](https://vermaden.wordpress.com/2021/03/09/glusterfs-8-on-freebsd-13/)
 
-- [Bay Area drug kingpins lured in low-level dealers with promises of cheap rent](https://www.eastbaytimes.com/2020/03/12/in-the-midst-of-housing-shortage-bay-area-drug-kingpins-lured-in-low-level-dealers-with-promises-of-cheap-rent-feds-say/)
+- [Webmention.io](https://webmention.io/)
 
-- [What Is RPN? Why Did/Does HP Use RPN? Learning RPN (1999)](https://www.hpmuseum.org/rpn.htm)
+- [UK businesses caught buying five-star Google reviews](https://www.bbc.com/news/technology-56321576)
 
-- [Resilience in Ruby: Shell Commands](https://www.johnnunemaker.com/resilience-in-ruby-shell-commands/)
+- [Hertz, the original meme stock, is turning out to be worthless](https://www.bloomberg.com/news/articles/2021-03-02/hertz-the-original-meme-stock-is-turning-out-to-be-worthless)
 
-- [The moving sofa problem (2016)](https://www.math.ucdavis.edu/~romik/movingsofa/)
+- [Hackers break into thousands of security cameras, exposing Tesla, jail, hospital](https://www.bnnbloomberg.ca/hackers-break-into-thousands-of-security-cameras-exposing-tesla-jails-hospitals-1.1574681)
 
-- [Clojure from a Schemer's perspective](https://www.more-magic.net/posts/thoughts-on-clojure.html)
+- [Show HN: Diahook – Webhooks as a Service](https://www.diahook.com/?r=hn)
 
-- [The Tanenbaum-Torvalds Debate](https://www.oreilly.com/openbook/opensources/book/appa.html)
+- [Git: Malicious repositories can execute remote code while cloning](https://www.openwall.com/lists/oss-security/2021/03/09/3)
 
-- [Review: Blackbird Secure Desktop](https://www.osnews.com/story/133093/review-blackbird-secure-desktop-a-fully-open-source-modern-power9-workstation-without-any-proprietary-code/)
+- [Orange Health (YC S20) Is Hiring Product Manager in Bangalore, India](https://www.orangehealth.in/jobs/product-manager-%2F-sr.-product-manager)
 
-- [How CPUs are Designed and Built: Computer Architecture (1/4)](https://www.techspot.com/article/1821-how-cpus-are-designed-and-built/)
+- [You want enabling CSS selectors, not disabling ones](https://www.silvestar.codes/articles/you-want-a-single-enabling-selector-not-the-one-that-disables-the-rule-of-the-previous-one/)
 
-- [YouTuber Builds Working 3D-Printed Turbojet Engine and Tests It in His Attic](https://www.thedrive.com/news/39624/youtuber-builds-working-3d-printed-turbojet-engine-and-tests-it-in-his-attic)
-
-- [Thanks HN: Lessons learned after Google nearly killed my site](https://www.uploader.win/blog/)
-
-- [Tim Wu Explains Why He Thinks Facebook Should Be Broken Up (2019)](https://www.wired.com/story/tim-wu-explains-why-facebook-broken-up/)
-
-- [How does a PS/2 keyboard interface work?](https://www.youtube.com/watch?v=7aXbh9VUB3U)
-
-- [Functional Parsing (2020)](https://www.youtube.com/watch?v=dDtZLm7HIJs)
+- [Drivers New to Automated Assists Often Missed a Giant Teddy Bear Speeding Past](https://www.thedrive.com/news/39688/drivers-new-to-automated-assists-more-often-missed-a-giant-teddy-bear-speeding-past-them-study)
