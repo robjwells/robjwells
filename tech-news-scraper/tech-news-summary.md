@@ -1,99 +1,91 @@
-- [Internet Archive Scholar: Search Millions of Research Papers](http://blog.archive.org/2021/03/09/search-scholarly-materials-preserved-in-the-internet-archive/)
+- [A short piece on writing tests](http://blog.loadzero.com/blog/on-tests/)
 
-- [Write libraries instead of services, where possible](http://catern.com/services.html)
+- [RegEx Crossword](http://jimbly.github.io/regex-crossword/)
 
-- [Food: A Bittersweet Affair, Can I Program Out of My Food Problems?](http://christophermeiklejohn.com/food/2021/03/09/food-part-1.html)
+- [The Mu Micro Virtual Machine Project](http://microvm.github.io/)
 
-- [Report on an Unidentified Space Station (1982)](http://geosci.uchicago.edu/~kite/doc/roauss.htm)
+- [The Soviet 8080 Processor – The 580](http://www.cpushack.com/2021/03/10/the-story-of-the-soviet-8080-processor-the-580/)
 
-- [Iteration Inside and Out (2013)](http://journal.stuffwithstuff.com/2013/01/13/iteration-inside-and-out/)
+- [A brief history of router architecture](https://blog.apnic.net/2021/03/12/a-brief-history-of-router-architecture/)
 
-- [How I self-published a professional paperback and eBook using LaTeX and Pandoc](http://theroadchoseme.com/how-i-self-published-a-professional-paperback-and-ebook-using-latex-and-pandoc)
+- [Performance differences between Postgres and MySQL](https://blog.arctype.com/performance-difference-between-postgresql-and-mysql/)
 
-- [Fire declared in OVH SBG2 datacentre building](http://travaux.ovh.net/?do=details&id=49471&)
+- [DIY Through Hole Plating of PCBs](https://blog.honzamrazek.cz/2017/10/diy-through-hole-plating-of-pcbs/)
 
-- [Papers Without Code](http://www.paperswithoutcode.com/)
+- [Diode Drive – Privacy-focused distributed alternative to GoogleDrive and Dropbox](https://diode.io/resources/download/)
 
-- [Reverse-engineering the standard-cell logic inside a vintage IBM chip](http://www.righto.com/2021/03/reverse-engineering-standard-cell-logic.html)
+- [Advanced Optimization and New Capabilities of GCC 10](https://documentation.suse.com/sbp/all/pdf/SBP-GCC-10_color_en.pdf)
 
-- [80486 CPU Board](http://www.s100computers.com/My%20System%20Pages/80486%20Board/80486%20CPU%20Board.htm)
+- [Marching cubes](https://en.wikipedia.org/wiki/Marching_cubes)
 
-- [Achieving 250K concurrent connections on Cloud Run](https://ahmet.im/blog/cloud-run-chat-server/)
+- [How Git servers work, and how to keep yours secure](https://gemini.nytpu.com/gemlog/2021-03-07.gmi)
 
-- [Accelerating Neural Networks on Mobile and Web with Sparse Inference](https://ai.googleblog.com/2021/03/accelerating-neural-networks-on-mobile.html)
+- [Show HN: A Terminal Tetris Game](https://github.com/adder46/tetris.rs)
 
-- [Vim is Turing-Complete](https://buttondown.email/hillelwayne/archive/vim-is-turing-complete/)
+- [qutebrowser v2.1.0](https://github.com/qutebrowser/qutebrowser/releases/tag/v2.1.0)
 
-- [half of curl’s vulnerabilities are C mistakes](https://daniel.haxx.se/blog/2021/03/09/half-of-curls-vulnerabilities-are-c-mistakes/)
+- [Format /etc/fstab files automatically](https://github.com/xyproto/fstabfmt)
 
-- [Coding Constructs I Now Avoid (and why)](https://danielbmarkham.com/coding-constructs-i-now-avoid/)
+- [Online Hacker Simulator](https://hacker-simulator.com/)
 
-- [Compressing data with Parquet](https://dev.l1x.be/posts/2021/03/08/compressing-data-with-parquet/)
+- [printvideo.com](https://justine.lol/printvideo.html)
 
-- [Pruning Unused Haskell Dependencies](https://dfithian.github.io/2021/03/08/pruning-unused-haskell-dependencies.html)
+- [Algebra and Data Types](https://justinpombrio.net/2021/03/11/algebra-and-data-types.html)
 
-- [Flipper Zero: Tamagochi for Hackers](https://flipperzero.one/)
+- [Speed of Rust vs. C](https://kornel.ski/rust-c-speed)
 
-- [User-defined type guards in TypeScript](https://gcollazo.com/user-defined-type-guards-in-typescript/)
+- [Spectre in JavaScript](https://leaky.page/)
 
-- [GitHub bug related to handling of authenticated sessions](https://github.blog/2021-03-08-github-security-update-a-bug-related-to-handling-of-authenticated-sessions/)
+- [Goroutines Are Not Significantly Lighter Than Threads](https://matklad.github.io//2021/03/12/goroutines-are-not-significantly-lighter-than-threads.html)
 
-- [Open source clones of popular sites](https://github.com/GorvGoyl/Clone-Wars)
+- [What's New in SQLite 3.35](https://nalgeon.github.io/sqlite-3-35/)
 
-- [Show HN: I made a tool to convert images of tables to CSV](https://github.com/artperrin/image2csv)
+- [An Interview with Cadey Ratio](https://opguides.info/interviews/cadeyratio/)
 
-- [Esbuild 0.9](https://github.com/evanw/esbuild/releases/tag/v0.9.0)
+- [Vitalik escalates ETH 2.0 merge as miners plan a 51% attack](https://our.status.im/vitalik-escalates-eth-2-0-merge-as-miners-plan-a-51-attack/)
 
-- [The Quirks of Gmail Ui](https://hanami.run/blog/posts/the-quirks-of-gmail-ui/)
+- [Point Cloud Library](https://pointclouds.org/)
 
-- [Children Playing Blockchain](https://jott.live/markdown/elementary_blockchain)
+- [A Spectre proof-of-concept for a Spectre-proof web](https://security.googleblog.com/2021/03/a-spectre-proof-of-concept-for-spectre.html)
 
-- [The Railsification of SaaS](https://keithwhor.medium.com/the-railsification-of-saas-e5d284fa44a1)
+- [Understanding Extended-Nonce Constructions](https://soatok.blog/2021/03/12/understanding-extended-nonce-constructions/)
 
-- [Signal Appears To Have Abandoned Their AGPL-licensed Server Sourcecode](https://linuxreviews.org/Signal_Appears_To_Have_Abandoned_Their_AGPL-licensed_Server_Sourcecode)
+- [No Us Without You - elifdef and elifndef](https://thephd.github.io/no-us-without-you-elifdef-elifndef-c-n2645)
 
-- [Requirements change: migrating either/or data schema](https://minimalmodeling.substack.com/p/requirements-change-migrating-eitheror)
+- [How to speed up rustdoc in 2021](https://txti.es/fckc0)
 
-- [PCSX2 - The Playstation 2 emulator - Q4 2020 Progress Report](https://pcsx2.net/297-q4-2020-progress-report.html)
+- [Binance investigated by CFTC over whether US residents trade on platform](https://www.bnnbloomberg.ca/binance-probed-by-cftc-over-whether-u-s-residents-made-trades-1.1576124)
 
-- [My Journey To Understanding Function Composition](https://savo.rocks/posts/my-journey-to-understanding-function-composition/)
+- [Fabbrica: A sans serif typeface with a utilitarian aesthetic](https://www.cinetype.com/fabbrica)
 
-- [Show HN: Singlelink – an open-source micro-site platform](https://singlelink.co)
+- [Deutsche Märchen: German fairy tales [pdf]](https://www.cs.ubc.ca/~udls/slides/2019-tim-deutsche_marchen.pdf)
 
-- [Downsampling Time Series for Visual Representation [pdf]](https://skemman.is/bitstream/1946/15343/3/SS_MSthesis.pdf)
+- [RethinkDB: why we failed (2017)](https://www.defmacro.org/2017/01/18/why-rethinkdb-failed.html?zarsrc=30&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo)
 
-- [The Roblox Microverse](https://stratechery.com/2021/the-roblox-microverse/)
+- [The internet didn’t kill counterculture – you just won’t find it on Instagram](https://www.documentjournal.com/2021/01/the-internet-didnt-kill-counterculture-you-just-wont-find-it-on-instagram/)
 
-- [Organizations announced for Google Summer of Code 2021](https://summerofcode.withgoogle.com/organizations/)
+- [CA crews handle tricky fire at Tesla factory](https://www.firehouse.com/operations-training/news/21214084/ca-crews-handle-tricky-fire-at-tesla-factory)
 
-- [Debian running on Rust coreutils](https://sylvestre.ledru.info/blog/2021/03/09/debian-running-on-rust-coreutils)
+- [Shrink, Reduce, and Implode: The Legacy Zip Compression Methods](https://www.hanshq.net/zip2.html)
 
-- [T-Mobile to share customers' data with advertisers unless they opt out](https://thehill.com/policy/technology/542303-t-mobile-to-share-customers-web-mobile-app-data-with-advertisers-unless)
+- [How I earn a living selling my open source software](https://www.indiehackers.com/post/how-i-earn-a-living-selling-my-open-source-software-476f6bb07e)
 
-- [The Future of Group Messaging](https://thejarren.com/group-messaging)
+- [M.2 on a Raspberry Pi – The Tofu CM4 Carrier Board](https://www.jeffgeerling.com/blog/2021/m2-on-raspberry-pi-tofu-compute-module-4-carrier-board)
 
-- [RSS as a Facebook alternative](https://thenewleafjournal.com/around-the-web-rss-as-a-facebook-alternative/)
+- [New Genes for Eye Colour](https://www.kcl.ac.uk/news/50-new-genes-eye-colour)
 
-- [Italo Calvino, The Art of Fiction No. 130 (1992)](https://theparisreview.org/interviews/2027/the-art-of-fiction-no-130-italo-calvino)
+- [Overview of Early Electric Cars](https://www.lowtechmagazine.com/overview-of-early-electric-cars.html)
 
-- [Why asynchronous Rust doesn't work](https://theta.eu.org/2021/03/08/async-rust-2.html)
+- [Hospitals lift curtain on prices, reveals giant swings for hips, knees and more](https://www.medtechdive.com/news/hospitals-price-transparency-spotty-compliance-swings-price/596593/)
 
-- [GlusterFS 8 on FreeBSD 13](https://vermaden.wordpress.com/2021/03/09/glusterfs-8-on-freebsd-13/)
+- [Myanmar's satellite held by Japan on space station due to spying concern](https://www.reuters.com/article/us-myanmar-politics-satellite-japan-excl-idUSKBN2B41O1)
 
-- [Webmention.io](https://webmention.io/)
+- [The demise and potential revival of the American chestnut](https://www.sierraclub.org/sierra/2021-2-march-april/feature/demise-and-potential-revival-american-chestnut)
 
-- [UK businesses caught buying five-star Google reviews](https://www.bbc.com/news/technology-56321576)
+- [How to convert your old laptop screen into an external monitor](https://www.slashdigit.com/convert-old-laptop-screen-external-monitor/)
 
-- [Hertz, the original meme stock, is turning out to be worthless](https://www.bloomberg.com/news/articles/2021-03-02/hertz-the-original-meme-stock-is-turning-out-to-be-worthless)
+- [Nix Flakes, Part 1: An introduction and tutorial](https://www.tweag.io/blog/2020-05-25-flakes/)
 
-- [Hackers break into thousands of security cameras, exposing Tesla, jail, hospital](https://www.bnnbloomberg.ca/hackers-break-into-thousands-of-security-cameras-exposing-tesla-jails-hospitals-1.1574681)
+- [GPT-3 vs. 3M free-text trivia responses](https://www.watercoolertrivia.com/blog/gpt-3-vs-water-cooler-trivia-participants-a-human-vs-robot-showdown)
 
-- [Show HN: Diahook – Webhooks as a Service](https://www.diahook.com/?r=hn)
-
-- [Git: Malicious repositories can execute remote code while cloning](https://www.openwall.com/lists/oss-security/2021/03/09/3)
-
-- [Orange Health (YC S20) Is Hiring Product Manager in Bangalore, India](https://www.orangehealth.in/jobs/product-manager-%2F-sr.-product-manager)
-
-- [You want enabling CSS selectors, not disabling ones](https://www.silvestar.codes/articles/you-want-a-single-enabling-selector-not-the-one-that-disables-the-rule-of-the-previous-one/)
-
-- [Drivers New to Automated Assists Often Missed a Giant Teddy Bear Speeding Past](https://www.thedrive.com/news/39688/drivers-new-to-automated-assists-more-often-missed-a-giant-teddy-bear-speeding-past-them-study)
+- [7-Zip, the open source file archiver, is now available for Linux](https://www.xda-developers.com/7-zip-linux-official-release/)
