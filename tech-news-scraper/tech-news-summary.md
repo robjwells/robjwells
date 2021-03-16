@@ -1,91 +1,101 @@
-- [A short piece on writing tests](http://blog.loadzero.com/blog/on-tests/)
+- [Why Programmers Should(n't) Learn Theory](http://www.pathsensitive.com/2021/03/why-programmers-shouldnt-learn-theory.html)
 
-- [RegEx Crossword](http://jimbly.github.io/regex-crossword/)
+- [Towards a new general dispatch mechanism in MoarVM](https://6guts.wordpress.com/2021/03/15/towards-a-new-general-dispatch-mechanism-in-moarvm/)
 
-- [The Mu Micro Virtual Machine Project](http://microvm.github.io/)
+- [Performance comparison: counting words in Python, Go, C++, C, AWK, Forth, and Rust](https://benhoyt.com/writings/count-words/)
 
-- [The Soviet 8080 Processor – The 580](http://www.cpushack.com/2021/03/10/the-story-of-the-soviet-8080-processor-the-580/)
+- [Bodyport (YC S15) is hiring a senior front-end engineer](https://bodyport.com/careers)
 
-- [A brief history of router architecture](https://blog.apnic.net/2021/03/12/a-brief-history-of-router-architecture/)
+- [What happens when you load into x0 on RISC-V?](https://commaok.xyz/post/riscv_isa_blog_post/)
 
-- [Performance differences between Postgres and MySQL](https://blog.arctype.com/performance-difference-between-postgresql-and-mysql/)
+- [On CSS sizes and performance budget](https://css-auditors.com/blog/the-second-css-report-about-css-file-sizes-and-file-count/)
 
-- [DIY Through Hole Plating of PCBs](https://blog.honzamrazek.cz/2017/10/diy-through-hole-plating-of-pcbs/)
+- [MIR: A lightweight JIT compiler project](https://developers.redhat.com/blog/2020/01/20/mir-a-lightweight-jit-compiler-project/)
 
-- [Diode Drive – Privacy-focused distributed alternative to GoogleDrive and Dropbox](https://diode.io/resources/download/)
+- [Show HN: Web app that blows water out of your phone's speakers (warning: loud)](https://fixmyspeakers.com)
 
-- [Advanced Optimization and New Capabilities of GCC 10](https://documentation.suse.com/sbp/all/pdf/SBP-GCC-10_color_en.pdf)
+- [Bresenham's Circle Drawing Algorithm](https://funloop.org/post/2021-03-15-bresenham-circle-drawing-algorithm.html)
 
-- [Marching cubes](https://en.wikipedia.org/wiki/Marching_cubes)
+- [Learning About ELF With Zig](https://g-w1.github.io/blog/zig/low-level/2021/03/15/elf-linux.html)
 
-- [How Git servers work, and how to keep yours secure](https://gemini.nytpu.com/gemlog/2021-03-07.gmi)
+- [Emacs-ng: Emacs with Deno runtime and TypeScript](https://github.com/emacs-ng/emacs-ng)
 
-- [Show HN: A Terminal Tetris Game](https://github.com/adder46/tetris.rs)
+- [GitUI anniversary release v0.13](https://github.com/extrawurst/gitui/releases/tag/v0.13.0)
 
-- [qutebrowser v2.1.0](https://github.com/qutebrowser/qutebrowser/releases/tag/v2.1.0)
+- [Chicken Story](https://github.com/eyal0/Chicken-story/blob/main/README.md)
 
-- [Format /etc/fstab files automatically](https://github.com/xyproto/fstabfmt)
+- [First release of mmv for over 30 years](https://github.com/rrthomas/mmv/)
 
-- [Online Hacker Simulator](https://hacker-simulator.com/)
+- [California Passes Regulation Banning "Dark Patterns" Under Landmark Privacy Law](https://gizmodo.com/california-passes-new-regulation-banning-dark-patterns-1846482961)
 
-- [printvideo.com](https://justine.lol/printvideo.html)
+- [Sd: My Script Directory](https://ianthehenry.com/posts/sd-my-script-directory/)
 
-- [Algebra and Data Types](https://justinpombrio.net/2021/03/11/algebra-and-data-types.html)
+- [Learning Without Burnout](https://junglecoder.com/blog/learning-without-burnout)
 
-- [Speed of Rust vs. C](https://kornel.ski/rust-c-speed)
+- [C++ killed the get & set accessors](https://kirit.com/C%2B%2B%20killed%20the%20get%20%26%20set%20accessors)
 
-- [Spectre in JavaScript](https://leaky.page/)
+- [We Don’t Use Docker](https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html?m=1)
 
-- [Goroutines Are Not Significantly Lighter Than Threads](https://matklad.github.io//2021/03/12/goroutines-are-not-significantly-lighter-than-threads.html)
+- [Quantization for Neural Networks](https://leimao.github.io/article/Neural-Networks-Quantization/)
 
-- [What's New in SQLite 3.35](https://nalgeon.github.io/sqlite-3-35/)
+- [The Dribbblisation of Design (2014)](https://medium.com/intercom-inside/the-dribbblisation-of-design-406422ccb026)
 
-- [An Interview with Cadey Ratio](https://opguides.info/interviews/cadeyratio/)
+- [A Programming Murder Mystery in Ruby](https://medium.com/sausheong/mystery-of-the-murdered-professor-d72ac102f7db)
 
-- [Vitalik escalates ETH 2.0 merge as miners plan a 51% attack](https://our.status.im/vitalik-escalates-eth-2-0-merge-as-miners-plan-a-51-attack/)
+- [Why are Climate models written in programming languages from 1950?](https://partee.io/2021/02/21/climate-model-response/)
 
-- [Point Cloud Library](https://pointclouds.org/)
+- [How C++ Resolves a Function Call](https://preshing.com/20210315/how-cpp-resolves-a-function-call/)
 
-- [A Spectre proof-of-concept for a Spectre-proof web](https://security.googleblog.com/2021/03/a-spectre-proof-of-concept-for-spectre.html)
+- [User IDs probably shouldn't be passed around as ints (2018)](https://rachelbythebay.com/w/2018/04/27/uid/)
 
-- [Understanding Extended-Nonce Constructions](https://soatok.blog/2021/03/12/understanding-extended-nonce-constructions/)
+- [Array Databases: Concepts, Standards, Implementations [pdf]](https://rd-alliance.org/system/files/Array-Databases_final-report.pdf)
 
-- [No Us Without You - elifdef and elifndef](https://thephd.github.io/no-us-without-you-elifdef-elifndef-c-n2645)
+- [Rust's type system is Turing-complete (2017)](https://sdleffler.github.io/RustTypeSystemTuringComplete/)
 
-- [How to speed up rustdoc in 2021](https://txti.es/fckc0)
+- [Accents, Dialects, and Discrimination](https://thewalrus.ca/accents-dialects-and-discrimination/)
 
-- [Binance investigated by CFTC over whether US residents trade on platform](https://www.bnnbloomberg.ca/binance-probed-by-cftc-over-whether-u-s-residents-made-trades-1.1576124)
+- [Photino.NET is an Electron for .NET but smaller](https://twitter.com/sergey_tihon/status/1369391535905718274)
 
-- [Fabbrica: A sans serif typeface with a utilitarian aesthetic](https://www.cinetype.com/fabbrica)
+- [How to Read ARM64 Assembly Language](https://wolchok.org/posts/how-to-read-arm64-assembly-language/)
 
-- [Deutsche Märchen: German fairy tales [pdf]](https://www.cs.ubc.ca/~udls/slides/2019-tim-deutsche_marchen.pdf)
+- [Learn How to Tie Knots](https://www.animatedknots.com)
 
-- [RethinkDB: why we failed (2017)](https://www.defmacro.org/2017/01/18/why-rethinkdb-failed.html?zarsrc=30&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo)
+- [Psychic Numbing and Genocide](https://www.apa.org/science/about/psa/2007/11/slovic)
 
-- [The internet didn’t kill counterculture – you just won’t find it on Instagram](https://www.documentjournal.com/2021/01/the-internet-didnt-kill-counterculture-you-just-wont-find-it-on-instagram/)
+- [CSS property usage in the wild updated by Google every 24 hours](https://www.chromestatus.com/metrics/css/popularity)
 
-- [CA crews handle tricky fire at Tesla factory](https://www.firehouse.com/operations-training/news/21214084/ca-crews-handle-tricky-fire-at-tesla-factory)
+- [Rails: How to Reduce Friction at the Authorization Layer](https://www.johnnunemaker.com/rails-authorization/)
 
-- [Shrink, Reduce, and Implode: The Legacy Zip Compression Methods](https://www.hanshq.net/zip2.html)
+- [How Many Decimals of Pi Do We Really Need?](https://www.jpl.nasa.gov/edu/news/2016/3/16/how-many-decimals-of-pi-do-we-really-need/)
 
-- [How I earn a living selling my open source software](https://www.indiehackers.com/post/how-i-earn-a-living-selling-my-open-source-software-476f6bb07e)
+- [Learnimprov – Just the first improv game site](https://www.learnimprov.com/)
 
-- [M.2 on a Raspberry Pi – The Tofu CM4 Carrier Board](https://www.jeffgeerling.com/blog/2021/m2-on-raspberry-pi-tofu-compute-module-4-carrier-board)
+- [Why we decided for and against Ubuntu Core](https://www.nitrokey.com/news/2021/nextbox-why-we-decided-and-against-ubuntu-core)
 
-- [New Genes for Eye Colour](https://www.kcl.ac.uk/news/50-new-genes-eye-colour)
+- [The Nokia N900: the future that wasn’t](https://www.osnews.com/story/133160/the-nokia-n900-the-future-that-wasnt/)
 
-- [Overview of Early Electric Cars](https://www.lowtechmagazine.com/overview-of-early-electric-cars.html)
+- [Rockstar thanks GTA Online player who fixed load times, official update coming](https://www.pcgamer.com/rockstar-thanks-gta-online-player-who-fixed-poor-load-times-official-update-coming/)
 
-- [Hospitals lift curtain on prices, reveals giant swings for hips, knees and more](https://www.medtechdive.com/news/hospitals-price-transparency-spotty-compliance-swings-price/596593/)
+- [Programming is Hard, Let's Go Scripting... (2007)](https://www.perl.com/pub/2007/12/06/soto-11.html/)
 
-- [Myanmar's satellite held by Japan on space station due to spying concern](https://www.reuters.com/article/us-myanmar-politics-satellite-japan-excl-idUSKBN2B41O1)
+- [Pine 64: March Update](https://www.pine64.org/2021/03/15/march-update/)
 
-- [The demise and potential revival of the American chestnut](https://www.sierraclub.org/sierra/2021-2-march-april/feature/demise-and-potential-revival-american-chestnut)
+- [Brain’s ‘wiring insulation’ a major factors of age-related brain deterioration](https://www.port.ac.uk/news-events-and-blogs/news/brains-wiring-insulation-is-one-of-the-major-factors-of-age-related-brain-deterioration)
 
-- [How to convert your old laptop screen into an external monitor](https://www.slashdigit.com/convert-old-laptop-screen-external-monitor/)
+- [Why the new USPS mail trucks look so weird](https://www.thedrive.com/news/39427/heres-why-the-new-usps-mail-trucks-look-so-weird)
 
-- [Nix Flakes, Part 1: An introduction and tutorial](https://www.tweag.io/blog/2020-05-25-flakes/)
+- [A hacker got all my texts for $16](https://www.vice.com/en/article/y3g8wb/hacker-got-my-texts-16-dollars-sakari-netnumber)
 
-- [GPT-3 vs. 3M free-text trivia responses](https://www.watercoolertrivia.com/blog/gpt-3-vs-water-cooler-trivia-participants-a-human-vs-robot-showdown)
+- [Magic Mushrooms Are Decriminalized in DC as of Today](https://www.washingtonian.com/2021/03/15/magic-mushrooms-are-decriminalized-in-dc-as-of-today/)
 
-- [7-Zip, the open source file archiver, is now available for Linux](https://www.xda-developers.com/7-zip-linux-official-release/)
+- [Scrollycoding – A new way to write code walkthroughs [video]](https://www.youtube.com/watch?v=7O2b7vfk-mo)
+
+- [X0.at: upload files from cURL](https://x0.at/)
+
+- [Add a Dark Theme to a Ruby on Rails App](https://yann-defretin.medium.com/add-a-dark-theme-to-a-ruby-on-rails-app-898562d2b6cc)
+
+- [Immutable Linux desktop with OpenSUSE and Snaps](https://ypsidanger.com/23800/running-snaps-on-opensuse-microos-desktop)
+
+- [Zoom Escaper: self-sabotage audio, making your presence unbearable to others](https://zoomescaper.com/)
+
+- [When Should I Interrupt Someone?](https://zwischenzugs.com/2021/03/15/when-should-i-interrupt-someone/)
