@@ -1,101 +1,101 @@
-- [Why Programmers Should(n't) Learn Theory](http://www.pathsensitive.com/2021/03/why-programmers-shouldnt-learn-theory.html)
+- [Atari Transputer Workstation](http://dunfield.classiccmp.org/atw800/index.htm)
 
-- [Towards a new general dispatch mechanism in MoarVM](https://6guts.wordpress.com/2021/03/15/towards-a-new-general-dispatch-mechanism-in-moarvm/)
+- [Why use old computers and operating systems?](http://john.ankarstrom.se/desktop/2021/03/18/why-old-systems/)
 
-- [Performance comparison: counting words in Python, Go, C++, C, AWK, Forth, and Rust](https://benhoyt.com/writings/count-words/)
+- [Show HN: LitiHolo – a desktop 3D hologram printer that makes true holograms](http://www.litiholo.com/3d-hologram-printer.html#3DHologramPrinterStory)
 
-- [Bodyport (YC S15) is hiring a senior front-end engineer](https://bodyport.com/careers)
+- [Longhouse lockdown: The Nias islanders of Indonesia](https://aeon.co/essays/lockdown-on-nias-island-in-indonesia-served-as-a-spiritual-reset)
 
-- [What happens when you load into x0 on RISC-V?](https://commaok.xyz/post/riscv_isa_blog_post/)
+- [Attackers are trying awfully hard to backdoor iOS developers’ Macs](https://arstechnica.com/gadgets/2021/03/attackers-are-trying-awfully-hard-to-backdoor-ios-developers-macs/)
 
-- [On CSS sizes and performance budget](https://css-auditors.com/blog/the-second-css-report-about-css-file-sizes-and-file-count/)
+- [Swarms of soldier crabs can implement logical gates (2012)](https://arxiv.org/abs/1204.1749)
 
-- [MIR: A lightweight JIT compiler project](https://developers.redhat.com/blog/2020/01/20/mir-a-lightweight-jit-compiler-project/)
+- [Reusing Standard RDF Vocabularies — Part 1](https://blog.adamretter.org.uk/vocabulary-reuse-part1)
 
-- [Show HN: Web app that blows water out of your phone's speakers (warning: loud)](https://fixmyspeakers.com)
+- [A practical look at JEP-389 in JDK16 with libsodium](https://blog.arkey.fr/2021/02/20/a-practical-look-at-jep-389-in-jdk16-with-libsodium/)
 
-- [Bresenham's Circle Drawing Algorithm](https://funloop.org/post/2021-03-15-bresenham-circle-drawing-algorithm.html)
+- [How We Spent Two Days Making Perl Faster (2015)](https://blog.booking.com/making-perl-faster.html)
 
-- [Learning About ELF With Zig](https://g-w1.github.io/blog/zig/low-level/2021/03/15/elf-linux.html)
+- [Building a shared vision for Async Rust](https://blog.rust-lang.org/2021/03/18/async-vision-doc.html)
 
-- [Emacs-ng: Emacs with Deno runtime and TypeScript](https://github.com/emacs-ng/emacs-ng)
+- [Stealing arbitrary GitHub Actions secrets](https://blog.teddykatz.com/2021/03/17/github-actions-write-access.html)
 
-- [GitUI anniversary release v0.13](https://github.com/extrawurst/gitui/releases/tag/v0.13.0)
+- [A Directory of Personal Blogs, includes search option](https://blogsurf.io/)
 
-- [Chicken Story](https://github.com/eyal0/Chicken-story/blob/main/README.md)
+- [Interview with CEO of rsync.net: “no firewalls and no routers”](https://console.dev/qa/rsync-john-kozubik/)
 
-- [First release of mmv for over 30 years](https://github.com/rrthomas/mmv/)
+- [Examples that have different semantics in C and C++](https://docs.google.com/document/d/16B36r0HksR0LqQAGLA1syYCtZvYaVC0hEF2D00ZAd0o/mobilebasic)
 
-- [California Passes Regulation Banning "Dark Patterns" Under Landmark Privacy Law](https://gizmodo.com/california-passes-new-regulation-banning-dark-patterns-1846482961)
+- [Show HN: Sorted CSS Colors – Sort the named CSS colors in a nice way](https://enes.in/sorted-colors)
 
-- [Sd: My Script Directory](https://ianthehenry.com/posts/sd-my-script-directory/)
+- [We found and fixed a rare race condition in our session handling](https://github.blog/2021-03-18-how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/)
 
-- [Learning Without Burnout](https://junglecoder.com/blog/learning-without-burnout)
+- [What’s up with these new not-open source licenses?](https://github.blog/2021-03-18-whats-up-with-these-new-not-open-source-licenses/)
 
-- [C++ killed the get & set accessors](https://kirit.com/C%2B%2B%20killed%20the%20get%20%26%20set%20accessors)
+- [Outrun: Execute local command using processing power of another Linux machine](https://github.com/Overv/outrun#outrun)
 
-- [We Don’t Use Docker](https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html?m=1)
+- [Gallery of interactive fluid simulations. They are configured with plain text](https://github.com/cselab/aphros/wiki/Aphros-Explorer)
 
-- [Quantization for Neural Networks](https://leimao.github.io/article/Neural-Networks-Quantization/)
+- [ShellCheck: A static analysis tool for shell scripts](https://github.com/koalaman/shellcheck)
 
-- [The Dribbblisation of Design (2014)](https://medium.com/intercom-inside/the-dribbblisation-of-design-406422ccb026)
+- [JamRTC – WebRTC for Live Musicians](https://github.com/lminiero/jamrtc)
 
-- [A Programming Murder Mystery in Ruby](https://medium.com/sausheong/mystery-of-the-murdered-professor-d72ac102f7db)
+- [Vuiet, Music Player for Emacs](https://github.com/mihaiolteanu/vuiet/blob/master/README.md)
 
-- [Why are Climate models written in programming languages from 1950?](https://partee.io/2021/02/21/climate-model-response/)
+- [Fontemon - World's first video game in a font](https://github.com/mmulet/code-relay/blob/main/markdown/HowIDidIt.md)
 
-- [How C++ Resolves a Function Call](https://preshing.com/20210315/how-cpp-resolves-a-function-call/)
+- [6502 SpASM (6502 Spreadsheet Assembler and Linker)](https://github.com/tilleul/apple2/tree/master/tools/6502_assembler)
 
-- [User IDs probably shouldn't be passed around as ints (2018)](https://rachelbythebay.com/w/2018/04/27/uid/)
+- [A curated list of awesome, language-agnostic WebAssembly tools](https://github.com/vshymanskyy/awesome-wasm-tools)
 
-- [Array Databases: Concepts, Standards, Implementations [pdf]](https://rd-alliance.org/system/files/Array-Databases_final-report.pdf)
+- [I Want a New Duck (2020)](https://glyph.twistedmatrix.com/2020/07/new-duck.html)
 
-- [Rust's type system is Turing-complete (2017)](https://sdleffler.github.io/RustTypeSystemTuringComplete/)
+- [How to Design Programs (2014)](https://htdp.org/2018-01-06/Book/)
 
-- [Accents, Dialects, and Discrimination](https://thewalrus.ca/accents-dialects-and-discrimination/)
+- [Fancy defines](https://idiomdrottning.org/fancy-defines)
 
-- [Photino.NET is an Electron for .NET but smaller](https://twitter.com/sergey_tihon/status/1369391535905718274)
+- [When the use of JavaScript is justified](https://jlelse.blog/posts/use-js)
 
-- [How to Read ARM64 Assembly Language](https://wolchok.org/posts/how-to-read-arm64-assembly-language/)
+- [The biggest threat to Rust's sustainability](https://kerkour.com/blog/the-biggest-threat-to-rust-sustainability/)
 
-- [Learn How to Tie Knots](https://www.animatedknots.com)
+- [jut - render jupyter notebook in the terminal](https://kracekumar.com/post/jut/)
 
-- [Psychic Numbing and Genocide](https://www.apa.org/science/about/psa/2007/11/slovic)
+- [Designing a RISC-V CPU, Part 2: Successfully executing (some) instructions](https://mcla.ug/blog/risc-v-cpu-part-2.html)
 
-- [CSS property usage in the wild updated by Google every 24 hours](https://www.chromestatus.com/metrics/css/popularity)
+- [MOnSter 6502](https://monster6502.com/)
 
-- [Rails: How to Reduce Friction at the Authorization Layer](https://www.johnnunemaker.com/rails-authorization/)
+- [A Walking Tour of 1866 New York: In the footsteps of 150-year-old guides (2016)](https://ny.curbed.com/2016/7/27/12278588/new-york-city-historic-guidebooks-walking-tour)
 
-- [How Many Decimals of Pi Do We Really Need?](https://www.jpl.nasa.gov/edu/news/2016/3/16/how-many-decimals-of-pi-do-we-really-need/)
+- [OneSignal (Messaging and Push Notification APIs) is hiring a full-stack developer](https://onesignal.com/careers/cb3e1383-d52c-43e8-8e7b-b49cbadafc85)
 
-- [Learnimprov – Just the first improv game site](https://www.learnimprov.com/)
+- [JEP 402: Unify the Basic Primitives with Objects (Preview)](https://openjdk.java.net/jeps/402)
 
-- [Why we decided for and against Ubuntu Core](https://www.nitrokey.com/news/2021/nextbox-why-we-decided-and-against-ubuntu-core)
+- [Wayland in 2021](https://shibumi.dev/posts/wayland-in-2021/)
 
-- [The Nokia N900: the future that wasn’t](https://www.osnews.com/story/133160/the-nokia-n900-the-future-that-wasnt/)
+- [U.S. Government Finally Gets Serious About IoT Security](https://spectrum.ieee.org/telecom/wireless/the-us-government-finally-gets-serious-about-iot-security)
 
-- [Rockstar thanks GTA Online player who fixed load times, official update coming](https://www.pcgamer.com/rockstar-thanks-gta-online-player-who-fixed-poor-load-times-official-update-coming/)
+- [Writing Small CLI Programs in Common Lisp](https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/)
 
-- [Programming is Hard, Let's Go Scripting... (2007)](https://www.perl.com/pub/2007/12/06/soto-11.html/)
+- [“When the entire household goes to bed, I do curl development for 2 more hours.”](https://twitter.com/bagder/status/1372572657317711876)
 
-- [Pine 64: March Update](https://www.pine64.org/2021/03/15/march-update/)
+- [When In Doubt, Use It From Base (2008)](https://undeadly.org/cgi?action=article;sid=20080607131856)
 
-- [Brain’s ‘wiring insulation’ a major factors of age-related brain deterioration](https://www.port.ac.uk/news-events-and-blogs/news/brains-wiring-insulation-is-one-of-the-major-factors-of-age-related-brain-deterioration)
+- [America’s Covid Swab Supply Depends on Two Cousins Who Hate Each Other](https://www.bloomberg.com/news/features/2021-03-18/covid-test-swab-company-puritan-faces-family-feud)
 
-- [Why the new USPS mail trucks look so weird](https://www.thedrive.com/news/39427/heres-why-the-new-usps-mail-trucks-look-so-weird)
+- [Morning Brew went from college newsletter to $75M in 5 years](https://www.businessofbusiness.com/videos/austin-rief-how-morning-brew-went-from-college-newsletter-to-75-million/)
 
-- [A hacker got all my texts for $16](https://www.vice.com/en/article/y3g8wb/hacker-got-my-texts-16-dollars-sakari-netnumber)
+- [New Brunswick monitoring more than 40 cases of unknown neurological disease](https://www.cbc.ca/news/canada/new-brunswick/mad-cow-disease-public-health-1.5953478)
 
-- [Magic Mushrooms Are Decriminalized in DC as of Today](https://www.washingtonian.com/2021/03/15/magic-mushrooms-are-decriminalized-in-dc-as-of-today/)
+- [Build and run GTK 4 applications with Visual Studio](https://www.collabora.com/news-and-blog/blog/2021/03/18/build-and-run-gtk-4-applications-with-visual-studio/)
 
-- [Scrollycoding – A new way to write code walkthroughs [video]](https://www.youtube.com/watch?v=7O2b7vfk-mo)
+- [Going all-in with Ada a manifesto](https://www.reddit.com/r/ada/comments/7p12n3/going_allin_with_ada_a_manifesto/)
 
-- [X0.at: upload files from cURL](https://x0.at/)
+- [The reason the local mall is failing (2018)](https://www.strongtowns.org/journal/2018/4/23/bon-ton-gone)
 
-- [Add a Dark Theme to a Ruby on Rails App](https://yann-defretin.medium.com/add-a-dark-theme-to-a-ruby-on-rails-app-898562d2b6cc)
+- [YouTube can now warn creators about copyright issues before videos are posted](https://www.theverge.com/2021/3/17/22335728/youtube-checks-monetization-copyright-claim-dispute-tool)
 
-- [Immutable Linux desktop with OpenSUSE and Snaps](https://ypsidanger.com/23800/running-snaps-on-opensuse-microos-desktop)
+- [Tracing the Sprawling Roots of Flash Preservation](https://www.vice.com/en/article/wx8y5y/tracing-the-sprawling-roots-of-flash-preservation)
 
-- [Zoom Escaper: self-sabotage audio, making your presence unbearable to others](https://zoomescaper.com/)
+- [From Flatland to the Trillion dimensional space](https://www.youtube.com/watch?v=UG48U-jE8vk)
 
-- [When Should I Interrupt Someone?](https://zwischenzugs.com/2021/03/15/when-should-i-interrupt-someone/)
+- [17 (ever so slightly) weird facts about the most popular dictionary format](https://zverok.github.io/blog/2021-03-16-spellchecking-dictionaries.html)
