@@ -1,105 +1,109 @@
-- [A few notes on message passing](http://blog.erlang.org/message-passing/)
+- [Yahoo Pipes (2009)](http://blog.davemo.com/posts/2009-04-06-yahoo-pipes-at-vendasta.html)
 
-- [Richard Stallman is coming back to the board of the FSF](http://techrights.org/2021/03/21/richard-stallman-is-coming-back-to-the-board-of-the-free-software-foundation-founded-by-himself-35-years-ago/)
+- [RoadPony: Guaranteed income and crowd for bands. Guaranteed good times for fans](http://www.roadpony.com)
 
-- [The Magic Kernel](http://www.johncostella.com/magic/)
+- [I finally escaped Node (and you can too)](https://acco.io/i-escaped-node)
 
-- [Release of Oil 0.8.8](http://www.oilshell.org/blog/2021/03/release-0.8.8.html)
+- [GPT-3 tries pickup lines](https://aiweirdness.com/post/646367635078103040/gpt-3-tries-pickup-lines)
 
-- [‹Programming› 2021](https://2021.programming-conference.org/)
+- [Show HN: Arc, an open-source Databricks alternative](https://arc.tripl.ai/)
 
-- [Regexploit: DoS-Able Regular Expressions](https://blog.doyensec.com/2021/03/11/regexploit.html)
+- [Do you really want Linux phones](https://blog.brixit.nl/do-you-really-want-linux-phones/)
 
-- [Your SPA is not the Front-end](https://blog.snowfrog.dev/your-spa-is-not-the-front/)
+- [Speculating the entire x86-64 Instruction Set In Seconds with This One Weird Trick](https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/)
 
-- [Writing a Postgres SQL Pretty Printer in Rust: Part 1](https://blog.urth.org/2021/03/14/writing-a-postgres-sql-pretty-printer-in-rust-part-1/)
+- [Recovering a full PEM Private Key when half of it is redacted](https://blog.cryptohack.org/twitter-secrets)
 
-- [Running a Bakery on Emacs and PostgreSQL (2019)](https://bofh.org.uk/2019/02/25/baking-with-emacs/)
+- [Lessons from Fuzzing a Compiler for a Year](https://blog.trailofbits.com/2021/03/23/a-year-in-the-life-of-a-compiler-fuzzing-campaign/)
 
-- [A beginner’s guide to web accessibility](https://bootcamp.uxdesign.cc/beginners-guide-to-web-accessibility-514644750b0f)
+- [The solution of the Zodiac killer’s 340-character cipher](https://blog.wolfram.com/2021/03/24/the-solution-of-the-zodiac-killers-340-character-cipher/)
 
-- [Really leaving the Linux desktop behind](https://catfox.life/2021/03/21/really-leaving-the-linux-desktop-behind/)
+- [Mastering Real-Time Strategy Games with Deep RL: Mere Mortal Edition](https://clemenswinter.com/2021/03/24/mastering-real-time-strategy-games-with-deep-reinforcement-learning-mere-mortal-edition/)
 
-- [Making the Invisible Visible – Techniques for Recovering Deleted SQLite Data Records](https://conceptechint.net/index.php/CFATI/article/view/17/6)
+- [Outlines Of A Supercompiler In F#](https://danielbmarkham.com/outlines-of-a-supercompiler-in-f/)
 
-- [CutiePi – A Raspberry Pi 4 tablet](https://cutiepi.io/)
+- [The Decline and Fall of the Latin Neuter](https://dannybate.com/2021/03/15/the-decline-and-fall-of-the-latin-neuter/)
 
-- [CUPID – the back story](https://dannorth.net/2021/03/16/cupid-the-back-story/)
+- [D 2.096.0 Released and Other News](https://dlang.org/blog/2021/03/24/d-2-096-0-released-and-other-news/)
 
-- [Dataflowr – Deep Learning DIY](https://dataflowr.github.io/website/)
+- [Van Eck Phreaking](https://en.wikipedia.org/wiki/Van_Eck_phreaking)
 
-- [An Ode to Stable Interfaces: R and R Core Deserve So Much Praise](https://dirk.eddelbuettel.com/blog/2021/03/20#ode_to_r_stability)
+- [esoteric.codes](https://esoteric.codes/)
 
-- [Godot Engine Web Editor](https://editor.godotengine.org/releases/latest/)
+- [Dependency on mimemagic 0.3.x no longer valid](https://github.com/rails/rails/issues/41750)
 
-- [The Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view)
+- [Video RAM Transplant Doubles RTX3070 Memory to 16GB](https://hackaday.com/2021/03/20/video-ram-transplant-doubles-rtx-3070-memory-to-16-gb/)
 
-- [GPT Neo: open-source GPT model, with pretrained 1.3B & 2.7B weight models](https://github.com/EleutherAI/gpt-neo/)
+- [GeoGuessing with Deep Learning](https://healeycodes.com/geoguessing-with-deep-learning/)
 
-- [The Swift Array Design (2014)](https://github.com/apple/swift/blob/main/docs/Arrays.rst)
+- [GNOME 40 Release Notes](https://help.gnome.org/misc/release-notes/40.0/)
 
-- [Solitude: A Privacy Analysis Tool](https://github.com/nccgroup/solitude)
+- [How to build an OIDC provider using rodauth-oauth on Rails · HTTPX](https://honeyryderchuck.gitlab.io/httpx/2021/03/15/oidc-provider-on-rails-using-rodauth-oauth.html)
 
-- [Next Generation Shell 0.2.11 is out](https://github.com/ngs-lang/ngs/releases/tag/v0.2.11)
+- [Infinite grid with just one square](https://hugodaniel.com/posts/infinite-grid-with-just-one-square/)
 
-- [Getting Drunk with Datalog](https://ianthehenry.com/posts/getting-drunk-with-datalog/)
+- [Comparing H.265 (HEVC) and H265 video file size](https://janstechtalk.blogspot.com/2021/03/comparing-h265-hevc-and-h265-video-file.html)
 
-- [TCP/IP Fingerprinting for VPN and Proxy Detection](https://incolumitas.com/2021/03/13/tcp-ip-fingerprinting-for-vpn-and-proxy-detection/)
+- [Get better at programming by learning how things work](https://jvns.ca/blog/learn-how-things-work/)
 
-- [Backups and Replication](https://isotopp.github.io/2020/11/27/backups-and-replication.html)
+- [How to execute shellcodes from memory in Rust](https://kerkour.com/blog/rust-execute-from-memory/)
 
-- [Academic “Ghost-Writing”: The Cheating Scandal No One Will Discuss](https://logosnews.tech/-MJYdKMeuTakOZj7iq4d)
+- [Show HN: Ape Playground](https://kgabis.github.io/apeplay/)
 
-- [When you have too much memory for SheepShaver](https://oldvcr.blogspot.com/2021/03/when-you-have-too-much-memory-for.html)
+- [Understanding Dependency Injection](https://lazau.com/articles/understanding_dependency_injection.html)
 
-- [Branch Cuts for Complex Elementary Functions (or: Much Ado About Nothing's Sign Bit) (1986)](https://people.freebsd.org/~das/kahan86branch.pdf)
+- [Counting cycles and instructions on the Apple M1 processor](https://lemire.me/blog/2021/03/24/counting-cycles-and-instructions-on-the-apple-m1-processor/)
 
-- [NASA completes engine test firing of moon rocket on 2nd try](https://phys.org/news/2021-03-nasa-moon-rocket-2nd.html)
+- [Free Software: An idea whose time has passed?](https://medium.com/@r0ml/free-software-an-idea-whose-time-has-passed-6570c1d8218a)
 
-- [Loopy Pipe Network Converts back-and-forth flow into one-way flow](https://physics.aps.org/articles/v14/42)
+- [Fully-Featured FM Synthesizer in the Browser made with Rust, Web Audio, and SIMD WebAssembly](https://notes.ameo.design/fm.html)
 
-- [Three ways to print booleans as 'True' or 'False' in C++](https://raymii.org/s/articles/Print_booleans_as_True_or_False_in_C++.html)
+- [Fundamentals of Optimal Code Style](https://optimal-codestyle.github.io/)
 
-- [The Generic Dilemma (2009)](https://research.swtch.com/generic)
+- [Lawyers used sheepskin as anti-fraud device for hundreds of years](https://phys.org/news/2021-03-lawyers-sheepskin-anti-fraud-device-hundreds.html)
 
-- [Migrating from LastPass to pass](https://rhardih.io/2021/03/migrating-from-lastpass-to-pass/)
+- [The worst so-called “best practice” for Docker](https://pythonspeed.com/articles/security-updates-in-docker/)
 
-- [How safe is zig?](https://scattered-thoughts.net/writing/how-safe-is-zig/)
+- [Intel Unleashed, Gelsinger on Intel, IDM 2.0](https://stratechery.com/2021/intel-unleashed-gelsinger-on-intel-idm-2-0/)
 
-- [Richard Stallman announcing his return to the FSF's Board of Directors](https://streamable.com/nzthxn)
+- [Novell Meets Apple: How MacOS Nearly Went Intel in 1992](https://tedium.co/2021/03/24/novell-apple-macos-history/)
 
-- [A look back at asynchronous Rust](https://tomaka.medium.com/a-look-back-at-asynchronous-rust-d54d63934a1c)
+- [WebRTC 1.0 telephony app using “hifi” Opus codec with up to 500kbs bitrate](https://timur.mobi/talk/timur)
 
-- [Don't End the Week with Nothing (2014)](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing)
+- [Berkson's Paradox](https://twitter.com/page_eco/status/1373266475230789633)
 
-- [Backblaze submitting names and sizes of files in B2 buckets to Facebook](https://twitter.com/Benjojo12/status/1373707799054712836)
+- [Intel chief Pat Gelsinger: Too many chips made in Asia](https://www.bbc.com/news/technology-56512430)
 
-- [The Internet has been cut in Myanmar for the 36th consecutive night](https://twitter.com/netblocks/status/1373707854876663808)
+- [Plan 9 from Bell Labs in Cyberspace](https://www.bell-labs.com/institute/blog/plan-9-bell-labs-cyberspace/)
 
-- [Progressive Disclosure of Complexity and Typed FP Languages](https://v5.chriskrycho.com/journal/progressive-disclosure-of-complexity-and-typed-fp-languages/)
+- [The world is facing a coffee deficit](https://www.bloombergquint.com/business/coffee-trade-reeling-from-virus-faces-nightmare-freight-snags)
 
-- [A virtual NOG meeting for everything around networking and automation](https://virtualnog.net/)
+- [Reading Minds with Ultrasound: A Less-Invasive Technique to Decode the Brain](https://www.caltech.edu/about/news/reading-minds-with-ultrasound-a-less-invasive-technique-to-decode-the-brains-intentions)
 
-- [Multithreading for Game Engines](https://vkguide.dev/docs/extra-chapter/multithreading/)
+- [Fire Destroys 300mm Line of Renesas’ Naka Factory](https://www.eetasia.com/fire-destroys-300mm-line-of-renesas-naka-factory/)
 
-- [NYC Spent Half a Million Dollars per Inmate in 2020, Report Says](https://www.bloomberg.com/news/articles/2021-03-10/nyc-spent-half-a-million-dollars-per-inmate-in-2020-report-says)
+- [Fossil Chat](https://www.fossil-scm.org/home/doc/trunk/www/chat.md)
 
-- [Why numbering should start at zero (1982)](https://www.cs.utexas.edu/users/EWD/ewd08xx/EWD831.PDF)
+- [America’s bald eagle population continues to soar](https://www.fws.gov/birds/news/210324eagle-population.php)
 
-- [Generalized Dollar Cost Averaging](https://www.efavdb.com/generalized_dollar_cost_averaging)
+- [Where are all the containers? The global shortage explained](https://www.hillebrand.com/media/publication/where-are-all-the-containers-the-global-shortage-explained)
 
-- [Reverse-Engineering NES Tetris to Add Hard Drop](https://www.gridbugs.org/reverse-engineering-nes-tetris-to-add-hard-drop/)
+- [Pollution from fossil fuel combustion deadlier than previously thought](https://www.hsph.harvard.edu/news/hsph-in-the-news/pollution-from-fossil-fuel-combustion-deadlier-than-previously-thought/)
 
-- [As U.S. schools shuttered, student mental health cratered, survey finds](https://www.reuters.com/investigates/special-report/health-coronavirus-students/)
+- [Comparing Svelte and React](https://www.jackfranklin.co.uk/blog/comparing-svelte-and-react-javascript/)
 
-- [SF poop-testing startup, once compared to Theranos, charged in $60M fraud scheme](https://www.sfgate.com/crime/article/ubiome-richman-apte-sec-filing-charges-fraud-16042042.php)
+- [Men Becoming Wolves](https://www.laphamsquarterly.org/roundtable/men-becoming-wolves)
 
-- [Whales in 19th century shared information about ship attacks](https://www.theguardian.com/environment/2021/mar/17/sperm-whales-in-19th-century-shared-ship-attack-information)
+- [Gather (YC S19) Is Hiring to Build the Metaverse (Remote, in the Metaverse)](https://www.notion.so/Gather-Job-Board-f78baa3a0b544670a09d9291f24f6eec)
 
-- [AMD Expected to Become TSMC's Second Largest Customer](https://www.tomshardware.com/news/amd-tsmc-second-largest-customer)
+- [Show HN: I wrote a book about Go](https://www.practical-go-lessons.com/)
 
-- [Cancel We The Web? (2020)](https://www.wetheweb.org/post/cancel-we-the-web)
+- [Parkinson's gene may impair how new neurons are made throughout our lifetime](https://www.sheffield.ac.uk/neuroscience-institute/news/parkinsons-gene-may-impair-how-new-neurons-are-made-throughout-our-lifetime)
 
-- [‘Fierce Poise’ Review: A Splash of Helen Frankenthaler](https://www.wsj.com/articles/fierce-poise-review-a-splash-of-helen-frankenthaler-11616164764)
+- [Liberty’s Discontents: The contested history of freedom](https://www.thenation.com/article/society/annelien-de-dijn-freedom-history/)
 
-- [Work at YC and help YC startups hire great people](https://www.ycombinator.com/companies/64/jobs/fK75gxxbq-product-engineer-work-at-a-startup)
+- [What Philip Glass and J. S. Bach have in common (2018)](https://www.wfmt.com/2018/06/04/what-do-philip-glass-and-j-s-bach-have-in-common-more-than-you-might-think-according-to-pianist-simone-dinnerstein/)
+
+- [Basic Animation in J](https://www.youtube.com/watch?v=uL-70fMTVnw)
+
+- [A "Better C" Benchmark](https://zserge.com/posts/better-c-benchmark/)
