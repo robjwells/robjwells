@@ -1,109 +1,103 @@
-- [Yahoo Pipes (2009)](http://blog.davemo.com/posts/2009-04-06-yahoo-pipes-at-vendasta.html)
+- [How you can handle The Diamond with CMake](http://beza1e1.tuxen.de/cmake_diamond.html)
 
-- [RoadPony: Guaranteed income and crowd for bands. Guaranteed good times for fans](http://www.roadpony.com)
+- [Kludge kingdom](http://blog.cretaria.com/posts/kludge-kingdom.html)
 
-- [I finally escaped Node (and you can too)](https://acco.io/i-escaped-node)
+- [Using 8-inch diskette drives with a PC](http://boginjr.com/it/hw/8inch-drives/)
 
-- [GPT-3 tries pickup lines](https://aiweirdness.com/post/646367635078103040/gpt-3-tries-pickup-lines)
+- [NetBSD Bounties for xhci features scatter-gather, suspend/resume](http://mail-index.netbsd.org/tech-kern/2021/03/25/msg027170.html)
 
-- [Show HN: Arc, an open-source Databricks alternative](https://arc.tripl.ai/)
+- [Shared Libraries for C64 OS](http://www.c64os.com/post/sharedlibs)
 
-- [Do you really want Linux phones](https://blog.brixit.nl/do-you-really-want-linux-phones/)
+- [The Moral Valence of Technical Decisions](http://www.lord-enki.net/medium-backup/2021-02-24_The-Moral-Valence-of-Technical-Decisions-aadc1b307747.html)
 
-- [Speculating the entire x86-64 Instruction Set In Seconds with This One Weird Trick](https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/)
+- [One Commander – a new Windows 10 file browser](http://www.onecommander.com/)
 
-- [Recovering a full PEM Private Key when half of it is redacted](https://blog.cryptohack.org/twitter-secrets)
+- [It doesn't work](https://00f.net/2021/03/26/it-doesnt-work/)
 
-- [Lessons from Fuzzing a Compiler for a Year](https://blog.trailofbits.com/2021/03/23/a-year-in-the-life-of-a-compiler-fuzzing-campaign/)
+- [Open source is not a business model (2018)](https://anonymoushash.vmbrasseur.com/2018/08/24/open-source-is-not-a-business-model-and-your-business-will-fail-if-you-think-that-it-is/)
 
-- [The solution of the Zodiac killer’s 340-character cipher](https://blog.wolfram.com/2021/03/24/the-solution-of-the-zodiac-killers-340-character-cipher/)
+- [Buffer overruns, license violations, and bad code: FreeBSD 13’s close call](https://arstechnica.com/gadgets/2021/03/buffer-overruns-license-violations-and-bad-code-freebsd-13s-close-call/)
 
-- [Mastering Real-Time Strategy Games with Deep RL: Mere Mortal Edition](https://clemenswinter.com/2021/03/24/mastering-real-time-strategy-games-with-deep-reinforcement-learning-mere-mortal-edition/)
+- [BPF for storage: an exokernel-inspired approach [pdf]](https://arxiv.org/abs/2102.12922)
 
-- [Outlines Of A Supercompiler In F#](https://danielbmarkham.com/outlines-of-a-supercompiler-in-f/)
+- [Combinators: A Centennial View](https://arxiv.org/abs/2103.12811)
 
-- [The Decline and Fall of the Latin Neuter](https://dannybate.com/2021/03/15/the-decline-and-fall-of-the-latin-neuter/)
+- [BPF for storage: an exokernel-inspired approach](https://arxiv.org/pdf/2102.12922.pdf)
 
-- [D 2.096.0 Released and Other News](https://dlang.org/blog/2021/03/24/d-2-096-0-released-and-other-news/)
+- [How to implement a hash table (in C)](https://benhoyt.com/writings/hash-table-in-c/)
 
-- [Van Eck Phreaking](https://en.wikipedia.org/wiki/Van_Eck_phreaking)
+- [Setting up Cardano Relays using Kubernetes/microk8s](https://blog.dantup.com/2021/03/cardano-relays-using-kubernetes/)
 
-- [esoteric.codes](https://esoteric.codes/)
+- [Zink: Running OpenGL on top of Vulkan - Interview with Mike Blumenkrantz](https://boilingsteam.com/zink-running-opengl-on-top-of-vulkan-interview-with-mike-blumenkrantz/)
 
-- [Dependency on mimemagic 0.3.x no longer valid](https://github.com/rails/rails/issues/41750)
+- [Louvre makes its entire collection available online](https://collections.louvre.fr/en/)
 
-- [Video RAM Transplant Doubles RTX3070 Memory to 16GB](https://hackaday.com/2021/03/20/video-ram-transplant-doubles-rtx-3070-memory-to-16-gb/)
+- [socat](https://copyconstruct.medium.com/socat-29453e9fc8a6)
 
-- [GeoGuessing with Deep Learning](https://healeycodes.com/geoguessing-with-deep-learning/)
+- [Quick Tour - Elvish Shell](https://elv.sh/learn/tour.html)
 
-- [GNOME 40 Release Notes](https://help.gnome.org/misc/release-notes/40.0/)
+- [Factorio Is The Best Technical Interview We Have](https://erikmcclure.com/blog/factorio-is-best-interview-we-have/)
 
-- [How to build an OIDC provider using rodauth-oauth on Rails · HTTPX](https://honeyryderchuck.gitlab.io/httpx/2021/03/15/oidc-provider-on-rails-using-rodauth-oauth.html)
+- [Figma to React](https://figma-to-react.vercel.app/)
 
-- [Infinite grid with just one square](https://hugodaniel.com/posts/infinite-grid-with-just-one-square/)
+- [Go+: Go designed for data science](https://github.com/goplus/gop)
 
-- [Comparing H.265 (HEVC) and H265 video file size](https://janstechtalk.blogspot.com/2021/03/comparing-h265-hevc-and-h265-video-file.html)
+- [Ohm – A library and language for building parsers, interpreters, compilers, etc.](https://github.com/harc/ohm)
 
-- [Get better at programming by learning how things work](https://jvns.ca/blog/learn-how-things-work/)
+- [Go+: Go designed for data science](https://goplus.org/)
 
-- [How to execute shellcodes from memory in Rust](https://kerkour.com/blog/rust-execute-from-memory/)
+- [1982: The Hobbit](https://if50.substack.com/p/1982-the-hobbit)
 
-- [Show HN: Ape Playground](https://kgabis.github.io/apeplay/)
+- [Why should you learn SPARQL? Wikidata](https://longair.net/blog/2017/11/29/sparql-wikidata/)
 
-- [Understanding Dependency Injection](https://lazau.com/articles/understanding_dependency_injection.html)
+- [Extracting the abstract syntax tree from GCC (2015)](https://lwn.net/Articles/629259/)
 
-- [Counting cycles and instructions on the Apple M1 processor](https://lemire.me/blog/2021/03/24/counting-cycles-and-instructions-on-the-apple-m1-processor/)
+- [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
 
-- [Free Software: An idea whose time has passed?](https://medium.com/@r0ml/free-software-an-idea-whose-time-has-passed-6570c1d8218a)
+- [Open Source Security Foundation](https://openssf.org/)
 
-- [Fully-Featured FM Synthesizer in the Browser made with Rust, Web Audio, and SIMD WebAssembly](https://notes.ameo.design/fm.html)
+- [Perl and XML in 2021: A few lessons learned](https://phoenixtrap.com/2021/03/27/perl-and-xml-in-2021-a-few-lessons-learned/)
 
-- [Fundamentals of Optimal Code Style](https://optimal-codestyle.github.io/)
+- [OAuth 2.0 Authentication Vulnerabilities](https://portswigger.net/web-security/oauth)
 
-- [Lawyers used sheepskin as anti-fraud device for hundreds of years](https://phys.org/news/2021-03-lawyers-sheepskin-anti-fraud-device-hundreds.html)
+- [Better Architecture Diagrams for Agile Teams: actionable tips and lessons](https://sportebois.medium.com/better-architecture-diagrams-for-agile-teams-actionable-tips-and-lessons-e76627dc4315)
 
-- [The worst so-called “best practice” for Docker](https://pythonspeed.com/articles/security-updates-in-docker/)
+- [“This should never happen. If it does, call the developers.”](https://stackoverflow.blog/2021/03/18/creating-a-good-feedback-loop-between-ops-and-devs-using-documentation/)
 
-- [Intel Unleashed, Gelsinger on Intel, IDM 2.0](https://stratechery.com/2021/intel-unleashed-gelsinger-on-intel-idm-2-0/)
+- [Why don't companies pay 50x engineers 50x?](https://techthingsaround.wordpress.com/2020/08/20/why-arent-companies-paying-50x-engineers-50x-more/)
 
-- [Novell Meets Apple: How MacOS Nearly Went Intel in 1992](https://tedium.co/2021/03/24/novell-apple-macos-history/)
+- [Is Inheritance That Evil?](https://thevaluable.dev/guide-inheritance-oop/)
 
-- [WebRTC 1.0 telephony app using “hifi” Opus codec with up to 500kbs bitrate](https://timur.mobi/talk/timur)
+- [you're naming a file, but the name doesn't matter. what do you usually call it?](https://twitter.com/mangopdf/status/1375558319570448385)
 
-- [Berkson's Paradox](https://twitter.com/page_eco/status/1373266475230789633)
+- [„We were chased out of SF after trying to give free Internet to the poorest“](https://twitter.com/sacca/status/1375962440303661057)
 
-- [Intel chief Pat Gelsinger: Too many chips made in Asia](https://www.bbc.com/news/technology-56512430)
+- [Serving a single file over HTTP with Rust and Go](https://vadosware.io/post/serving-a-single-file-over-http-with-rust-and-go/)
 
-- [Plan 9 from Bell Labs in Cyberspace](https://www.bell-labs.com/institute/blog/plan-9-bell-labs-cyberspace/)
+- [400-year-old Greenland shark ‘longest-living vertebrate’ (2016)](https://www.bbc.com/news/science-environment-37047168)
 
-- [The world is facing a coffee deficit](https://www.bloombergquint.com/business/coffee-trade-reeling-from-virus-faces-nightmare-freight-snags)
+- [Does Amazon make more from ads than AWS?](https://www.ben-evans.com/benedictevans/2021/3/14/do-amazon-ads-bring-in-more-cash-than-aws)
 
-- [Reading Minds with Ultrasound: A Less-Invasive Technique to Decode the Brain](https://www.caltech.edu/about/news/reading-minds-with-ultrasound-a-less-invasive-technique-to-decode-the-brains-intentions)
+- [DPDK adopts the C11 memory model](https://www.dpdk.org/blog/2021/03/26/dpdk-adopts-the-c11-memory-model/)
 
-- [Fire Destroys 300mm Line of Renesas’ Naka Factory](https://www.eetasia.com/fire-destroys-300mm-line-of-renesas-naka-factory/)
+- [Galerkin Approximation](https://www.ethanepperly.com/index.php/2020/08/09/big-ideas-in-applied-math-galerkin-approximation/)
 
-- [Fossil Chat](https://www.fossil-scm.org/home/doc/trunk/www/chat.md)
+- [Sam Altman: AI will generate enough wealth to pay each adult $13.5K a year](https://www.msn.com/en-us/news/other/openais-sam-altman-artificial-intelligence-will-generate-enough-wealth-to-pay-each-adult-2413500-a-year/ar-BB1eGOoY)
 
-- [America’s bald eagle population continues to soar](https://www.fws.gov/birds/news/210324eagle-population.php)
+- [Crispr and the Splice to Survive](https://www.newyorker.com/magazine/2021/01/18/crispr-and-the-splice-to-survive)
 
-- [Where are all the containers? The global shortage explained](https://www.hillebrand.com/media/publication/where-are-all-the-containers-the-global-shortage-explained)
+- [The Pastry A.I. That Learned to Fight Cancer](https://www.newyorker.com/tech/annals-of-technology/the-pastry-ai-that-learned-to-fight-cancer)
 
-- [Pollution from fossil fuel combustion deadlier than previously thought](https://www.hsph.harvard.edu/news/hsph-in-the-news/pollution-from-fossil-fuel-combustion-deadlier-than-previously-thought/)
+- [EU experts to say nuclear power qualifies for green investment label: document](https://www.reuters.com/article/us-europe-regulations-finance/eu-experts-to-say-nuclear-power-qualifies-for-green-investment-label-document-idUSKBN2BJ0F0)
 
-- [Comparing Svelte and React](https://www.jackfranklin.co.uk/blog/comparing-svelte-and-react-javascript/)
+- [High Schooler Invented Color-Changing Sutures to Detect Infection](https://www.smithsonianmag.com/innovation/high-schooler-invented-color-changing-sutures-detect-infection-180977345/)
 
-- [Men Becoming Wolves](https://www.laphamsquarterly.org/roundtable/men-becoming-wolves)
+- [You’ve Been Lied to About Lying](https://www.theatlantic.com/science/archive/2021/03/how-to-spot-a-liar/618425/)
 
-- [Gather (YC S19) Is Hiring to Build the Metaverse (Remote, in the Metaverse)](https://www.notion.so/Gather-Job-Board-f78baa3a0b544670a09d9291f24f6eec)
+- [I tracked down my impostor](https://www.theguardian.com/lifeandstyle/2021/mar/26/experience-i-tracked-down-my-impostor)
 
-- [Show HN: I wrote a book about Go](https://www.practical-go-lessons.com/)
+- [‘Such a funny little thing’: ‘snail-man’ relic may depict ancient joke](https://www.theguardian.com/science/2021/mar/22/snail-man-relic-ancient-joke-british-museum)
 
-- [Parkinson's gene may impair how new neurons are made throughout our lifetime](https://www.sheffield.ac.uk/neuroscience-institute/news/parkinsons-gene-may-impair-how-new-neurons-are-made-throughout-our-lifetime)
+- [Intel's Ponte Vecchio Xe-HPC GPU Boasts 100B Transistors](https://www.tomshardware.com/news/intel-xe-hpc-ponte-vecchio-examined)
 
-- [Liberty’s Discontents: The contested history of freedom](https://www.thenation.com/article/society/annelien-de-dijn-freedom-history/)
-
-- [What Philip Glass and J. S. Bach have in common (2018)](https://www.wfmt.com/2018/06/04/what-do-philip-glass-and-j-s-bach-have-in-common-more-than-you-might-think-according-to-pianist-simone-dinnerstein/)
-
-- [Basic Animation in J](https://www.youtube.com/watch?v=uL-70fMTVnw)
-
-- [A "Better C" Benchmark](https://zserge.com/posts/better-c-benchmark/)
+- [Larry McMurtry, novelist who pierced myths of his native Texas, dies at 84](https://www.washingtonpost.com/local/obituaries/larry-mcmurtry-dead/2021/03/26/953c4660-ae09-11e7-a908-a3470754bbb9_story.html)
