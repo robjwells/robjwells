@@ -1,103 +1,103 @@
-- [How you can handle The Diamond with CMake](http://beza1e1.tuxen.de/cmake_diamond.html)
+- [Boeing 737-8 MAX reported a pitch trim issue or failure and returned origin](http://avherald.com/h?article=4e52a7cb&opt=0)
 
-- [Kludge kingdom](http://blog.cretaria.com/posts/kludge-kingdom.html)
+- [NetBSD GSoC Reports: Make system(3), popen(3) and popenve(3) use posix_spawn(3) internally](http://blog.netbsd.org/tnf/entry/gsoc_reports_make_system_31)
 
-- [Using 8-inch diskette drives with a PC](http://boginjr.com/it/hw/8inch-drives/)
+- [The sound of the dialup, pictured (2012)](http://www.windytan.com/2012/11/the-sound-of-dialup-pictured.html)
 
-- [NetBSD Bounties for xhci features scatter-gather, suspend/resume](http://mail-index.netbsd.org/tech-kern/2021/03/25/msg027170.html)
+- [Plasma generation by household microwave oven](https://aapt.scitation.org/doi/10.1119/10.0002706)
 
-- [Shared Libraries for C64 OS](http://www.c64os.com/post/sharedlibs)
+- [Teachable NLP - GPT-2 Training as a Service](https://ainize.ai/teachable-nlp)
 
-- [The Moral Valence of Technical Decisions](http://www.lord-enki.net/medium-backup/2021-02-24_The-Moral-Valence-of-Technical-Decisions-aadc1b307747.html)
+- [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/)
 
-- [One Commander – a new Windows 10 file browser](http://www.onecommander.com/)
+- [EC2 Serial Console](https://aws.amazon.com/blogs/aws/troubleshoot-boot-and-networking-issues-with-new-ec2-serial-console/)
 
-- [It doesn't work](https://00f.net/2021/03/26/it-doesnt-work/)
+- [How I Booked My Absolutely Cheapest One-Month Trip Ever](https://benbernardblog.com/how-i-booked-my-absolutely-cheapest-one-month-trip-ever/)
 
-- [Open source is not a business model (2018)](https://anonymoushash.vmbrasseur.com/2018/08/24/open-source-is-not-a-business-model-and-your-business-will-fail-if-you-think-that-it-is/)
+- [Stork: Fast web search for static sites](https://blog.fission.codes/stork-search-james-little/)
 
-- [Buffer overruns, license violations, and bad code: FreeBSD 13’s close call](https://arstechnica.com/gadgets/2021/03/buffer-overruns-license-violations-and-bad-code-freebsd-13s-close-call/)
+- [Some opinionated thoughts on SQL databases](https://blog.nelhage.com/post/some-opinionated-sql-takes/)
 
-- [BPF for storage: an exokernel-inspired approach [pdf]](https://arxiv.org/abs/2102.12922)
+- [Introducing 'innernet' (vpn like tailscale, open source, built on wireguard)](https://blog.tonari.no/introducing-innernet)
 
-- [Combinators: A Centennial View](https://arxiv.org/abs/2103.12811)
+- [Down the Golang nil Rabbit Hole](https://blog.urth.org/2021/03/27/down-the-golang-nil-rabbit-hole/)
 
-- [BPF for storage: an exokernel-inspired approach](https://arxiv.org/pdf/2102.12922.pdf)
+- [The byte order fallacy (2012)](https://commandcenter.blogspot.com/2012/04/byte-order-fallacy.html)
 
-- [How to implement a hash table (in C)](https://benhoyt.com/writings/hash-table-in-c/)
+- [The Mathematical Pranksters Behind Nicolas Bourbaki](https://daily.jstor.org/the-mathematical-pranksters-behind-nicolas-bourbaki/)
 
-- [Setting up Cardano Relays using Kubernetes/microk8s](https://blog.dantup.com/2021/03/cardano-relays-using-kubernetes/)
+- [HOWTO backdoor curl](https://daniel.haxx.se/blog/2021/03/30/howto-backdoor-curl/)
 
-- [Zink: Running OpenGL on top of Vulkan - Interview with Mike Blumenkrantz](https://boilingsteam.com/zink-running-opengl-on-top-of-vulkan-interview-with-mike-blumenkrantz/)
+- [C# 9 top-level programs and target-typed expressions](https://developers.redhat.com/blog/2021/03/30/c-9-top-level-programs-and-target-typed-expressions/)
 
-- [Louvre makes its entire collection available online](https://collections.louvre.fr/en/)
+- [Parser combinators in Rust](https://doma.dev/blog/parsing-stuff-in-rust/)
 
-- [socat](https://copyconstruct.medium.com/socat-29453e9fc8a6)
+- [GNU Autotools: A Tutorial [pdf]](https://elinux.org/images/4/43/Petazzoni.pdf)
 
-- [Quick Tour - Elvish Shell](https://elv.sh/learn/tour.html)
+- [Hershey Fonts: Not Chocolate, the Origin of Vector Lettering](https://hackaday.com/2021/03/30/hershey-fonts-not-chocolate-the-origin-of-vector-lettering/)
 
-- [Factorio Is The Best Technical Interview We Have](https://erikmcclure.com/blog/factorio-is-best-interview-we-have/)
+- [The Business of Scenery: Why America’s national parks need new management](https://harpers.org/archive/2021/04/the-business-of-scenery-why-national-parks-need-new-management/)
 
-- [Figma to React](https://figma-to-react.vercel.app/)
+- [See a Satellite Tonight](https://james.darpinian.com/satellites/)
 
-- [Go+: Go designed for data science](https://github.com/goplus/gop)
+- [Whistleblower: Ubiquiti Breach “Catastrophic”](https://krebsonsecurity.com/2021/03/whistleblower-ubiquiti-breach-catastrophic/)
 
-- [Ohm – A library and language for building parsers, interpreters, compilers, etc.](https://github.com/harc/ohm)
+- [The Uninvited Internet of Things](https://lwn.net/SubscriberLink/850218/9c0f0946579fe577/)
 
-- [Go+: Go designed for data science](https://goplus.org/)
+- [Gotchas in the Go Network Packages Defaults](https://martin.baillie.id/wrote/gotchas-in-the-go-network-packages-defaults/)
 
-- [1982: The Hobbit](https://if50.substack.com/p/1982-the-hobbit)
+- [Game theory in database design](https://minimalmodeling.substack.com/p/game-theory-in-database-design)
 
-- [Why should you learn SPARQL? Wikidata](https://longair.net/blog/2017/11/29/sparql-wikidata/)
+- [A man who tried to redeem the world with logic (2015)](https://nautil.us/issue/21/information/the-man-who-tried-to-redeem-the-world-with-logic)
 
-- [Extracting the abstract syntax tree from GCC (2015)](https://lwn.net/Articles/629259/)
+- [Social media addiction linked to cyberbullying](https://news.uga.edu/social-media-addiction-linked-to-cyberbullying/)
 
-- [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
+- [signed char lotte](https://nickdrozd.github.io/2021/03/30/signed-char-lotte.html)
 
-- [Open Source Security Foundation](https://openssf.org/)
+- [Avoiding instruction cache misses](https://paweldziepak.dev/2019/06/21/avoiding-icache-misses/)
 
-- [Perl and XML in 2021: A few lessons learned](https://phoenixtrap.com/2021/03/27/perl-and-xml-in-2021-a-few-lessons-learned/)
+- [What does a PGP signature on a Git commit prove?](https://people.kernel.org/monsieuricon/what-does-a-pgp-signature-on-a-git-commit-prove)
 
-- [OAuth 2.0 Authentication Vulnerabilities](https://portswigger.net/web-security/oauth)
+- [Why Write Rails View Tests](https://pragmaticpineapple.com/why-write-rails-view-tests/)
 
-- [Better Architecture Diagrams for Agile Teams: actionable tips and lessons](https://sportebois.medium.com/better-architecture-diagrams-for-agile-teams-actionable-tips-and-lessons-e76627dc4315)
+- [Improving shell workflows with fzf](https://seb.jambor.dev/posts/improving-shell-workflows-with-fzf/)
 
-- [“This should never happen. If it does, call the developers.”](https://stackoverflow.blog/2021/03/18/creating-a-good-feedback-loop-between-ops-and-devs-using-documentation/)
+- [How to Build a Web App with and Without Rails Libraries](https://shopify.engineering/building-web-app-ruby-rails)
 
-- [Why don't companies pay 50x engineers 50x?](https://techthingsaround.wordpress.com/2020/08/20/why-arent-companies-paying-50x-engineers-50x-more/)
+- [Storage is now available in Supabase (YC S20)](https://supabase.io/blog/2021/03/30/supabase-storage)
 
-- [Is Inheritance That Evil?](https://thevaluable.dev/guide-inheritance-oop/)
+- [Google collects 20 times more telemetry from Android devices than Apple from iOS](https://therecord.media/google-collects-20-times-more-telemetry-from-android-devices-than-apple-from-ios/)
 
-- [you're naming a file, but the name doesn't matter. what do you usually call it?](https://twitter.com/mangopdf/status/1375558319570448385)
+- [Let’s fix font size](https://tonsky.me/blog/font-size/)
 
-- [„We were chased out of SF after trying to give free Internet to the poorest“](https://twitter.com/sacca/status/1375962440303661057)
+- [Unsplash is being acquired by Getty Images](https://unsplash.com/blog/unsplash-getty/)
 
-- [Serving a single file over HTTP with Rust and Go](https://vadosware.io/post/serving-a-single-file-over-http-with-rust-and-go/)
+- [Why no Easter Eggs? (2005)](https://web.archive.org/web/20171123041231/https://blogs.msdn.microsoft.com/larryosterman/2005/10/21/why-no-easter-eggs/)
 
-- [400-year-old Greenland shark ‘longest-living vertebrate’ (2016)](https://www.bbc.com/news/science-environment-37047168)
+- [Dropping In on Gottfried Leibniz (2013)](https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/)
 
-- [Does Amazon make more from ads than AWS?](https://www.ben-evans.com/benedictevans/2021/3/14/do-amazon-ads-bring-in-more-cash-than-aws)
+- [Arm Announces Armv9 Architecture: SVE2, Security, and the Next Decade](https://www.anandtech.com/show/16584/arm-announces-armv9-architecture)
 
-- [DPDK adopts the C11 memory model](https://www.dpdk.org/blog/2021/03/26/dpdk-adopts-the-c11-memory-model/)
+- [Child tweets gibberish from US nuclear-agency account](https://www.bbc.com/news/technology-56578544)
 
-- [Galerkin Approximation](https://www.ethanepperly.com/index.php/2020/08/09/big-ideas-in-applied-math-galerkin-approximation/)
+- ['Fake' Amazon workers defend company on Twitter](https://www.bbc.com/news/technology-56581266)
 
-- [Sam Altman: AI will generate enough wealth to pay each adult $13.5K a year](https://www.msn.com/en-us/news/other/openais-sam-altman-artificial-intelligence-will-generate-enough-wealth-to-pay-each-adult-2413500-a-year/ar-BB1eGOoY)
+- [Kafka without ZooKeeper](https://www.confluent.io/blog/kafka-without-zookeeper-a-sneak-peek/)
 
-- [Crispr and the Splice to Survive](https://www.newyorker.com/magazine/2021/01/18/crispr-and-the-splice-to-survive)
+- [Why do Interviewers Ask Linked List Questions?](https://www.hillelwayne.com/post/linked-lists/)
 
-- [The Pastry A.I. That Learned to Fight Cancer](https://www.newyorker.com/tech/annals-of-technology/the-pastry-ai-that-learned-to-fight-cancer)
+- [Building a Magical 3D Button with Vanilla HTML/CSS](https://www.joshwcomeau.com/animation/3d-button/)
 
-- [EU experts to say nuclear power qualifies for green investment label: document](https://www.reuters.com/article/us-europe-regulations-finance/eu-experts-to-say-nuclear-power-qualifies-for-green-investment-label-document-idUSKBN2BJ0F0)
+- [Elizabeth Loftus Changed the Meaning of Memory](https://www.newyorker.com/magazine/2021/04/05/how-elizabeth-loftus-changed-the-meaning-of-memory)
 
-- [High Schooler Invented Color-Changing Sutures to Detect Infection](https://www.smithsonianmag.com/innovation/high-schooler-invented-color-changing-sutures-detect-infection-180977345/)
+- [Topfew and Amdahl](https://www.tbray.org/ongoing/When/202x/2021/03/27/Topfew-and-Amdahl)
 
-- [You’ve Been Lied to About Lying](https://www.theatlantic.com/science/archive/2021/03/how-to-spot-a-liar/618425/)
+- [Suppressing a gene by using its antibody can lead to tooth growth: animal study](https://www.u-fukui.ac.jp/en-news/67075/)
 
-- [I tracked down my impostor](https://www.theguardian.com/lifeandstyle/2021/mar/26/experience-i-tracked-down-my-impostor)
+- [Cyble (YC W21) Is Hiring](https://www.workatastartup.com/jobs/42988)
 
-- [‘Such a funny little thing’: ‘snail-man’ relic may depict ancient joke](https://www.theguardian.com/science/2021/mar/22/snail-man-relic-ancient-joke-british-museum)
+- [Functorio: having fun with functional programming](https://www.youtube.com/watch?v=A46KQtriYuM)
 
-- [Intel's Ponte Vecchio Xe-HPC GPU Boasts 100B Transistors](https://www.tomshardware.com/news/intel-xe-hpc-ponte-vecchio-examined)
+- [How much can a Clojure developer do alone?](https://yyhh.org/blog/2021/03/how-much-can-a-clojure-developer-do-alone)
 
-- [Larry McMurtry, novelist who pierced myths of his native Texas, dies at 84](https://www.washingtonpost.com/local/obituaries/larry-mcmurtry-dead/2021/03/26/953c4660-ae09-11e7-a908-a3470754bbb9_story.html)
+- [AABB from OBB with component-wise abs](https://zeux.io/2010/10/17/aabb-from-obb-with-component-wise-abs/)
