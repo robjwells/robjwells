@@ -1,103 +1,105 @@
-- [Boeing 737-8 MAX reported a pitch trim issue or failure and returned origin](http://avherald.com/h?article=4e52a7cb&opt=0)
+- [Using Arc to decode Venter's secret DNA watermark (2010)](http://www.righto.com/2010/06/using-arc-to-decode-venters-secret-dna.html)
 
-- [NetBSD GSoC Reports: Make system(3), popen(3) and popenve(3) use posix_spawn(3) internally](http://blog.netbsd.org/tnf/entry/gsoc_reports_make_system_31)
+- [Teardown of a logic chip from a vintage IBM ES/9000 mainframe](http://www.righto.com/2021/03/logic-chip-teardown-from-vintage-ibm.html)
 
-- [The sound of the dialup, pictured (2012)](http://www.windytan.com/2012/11/the-sound-of-dialup-pictured.html)
+- [Beach High School](http://www2.cruzio.com/~beachhi/graduation.html)
 
-- [Plasma generation by household microwave oven](https://aapt.scitation.org/doi/10.1119/10.0002706)
+- [Humans display a few consistent behavioral phenotypes in two player games (2016)](https://advances.sciencemag.org/content/2/8/e1600451)
 
-- [Teachable NLP - GPT-2 Training as a Service](https://ainize.ai/teachable-nlp)
+- [The deck we used to raise our seed funding](https://airbyte.io/articles/our-story/the-deck-we-used-to-raise-our-seed-with-accel-in-13-days/)
 
-- [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/)
+- [Android's new Bluetooth stack rewrite (Gabeldorsh) is written with Rust](https://android.googlesource.com/platform/system/bt/+/master/gd/rust/)
 
-- [EC2 Serial Console](https://aws.amazon.com/blogs/aws/troubleshoot-boot-and-networking-issues-with-new-ec2-serial-console/)
+- [Pika parsing: reformulating packrat parsing as a dynamic programming algorithm solves the left recursion and error recovery problems](https://arxiv.org/pdf/2005.06444.pdf)
 
-- [How I Booked My Absolutely Cheapest One-Month Trip Ever](https://benbernardblog.com/how-i-booked-my-absolutely-cheapest-one-month-trip-ever/)
+- [Troubleshoot Boot and Networking Issues with New EC2 Serial Console](https://aws.amazon.com/blogs/aws/troubleshoot-boot-and-networking-issues-with-new-ec2-serial-console/)
 
-- [Stork: Fast web search for static sites](https://blog.fission.codes/stork-search-james-little/)
+- [Redefining what a map can be with new information and AI](https://blog.google/products/maps/redefining-what-map-can-be-new-information-and-ai)
+
+- [Update on campaign targeting security researchers](https://blog.google/threat-analysis-group/update-campaign-targeting-security-researchers/)
 
 - [Some opinionated thoughts on SQL databases](https://blog.nelhage.com/post/some-opinionated-sql-takes/)
 
-- [Introducing 'innernet' (vpn like tailscale, open source, built on wireguard)](https://blog.tonari.no/introducing-innernet)
+- [Fixing the Oldest and Nastiest Bug in Commodore Basic](https://c65gs.blogspot.com/2021/03/guest-post-from-bitshifter-fixing.html)
 
-- [Down the Golang nil Rabbit Hole](https://blog.urth.org/2021/03/27/down-the-golang-nil-rabbit-hole/)
+- [Tools for Auditing CSS](https://css-tricks.com/tools-for-auditing-css/)
 
-- [The byte order fallacy (2012)](https://commandcenter.blogspot.com/2012/04/byte-order-fallacy.html)
+- [curl 7.76.0 adds rustls](https://daniel.haxx.se/blog/2021/03/31/curl-7-76-0-adds-rustls/)
 
-- [The Mathematical Pranksters Behind Nicolas Bourbaki](https://daily.jstor.org/the-mathematical-pranksters-behind-nicolas-bourbaki/)
+- [Static site generator powered by Shake, Lucid, and Hint](https://dev.to/kakkun61/static-site-generator-powered-by-shake-lucid-and-hint-d5b)
 
-- [HOWTO backdoor curl](https://daniel.haxx.se/blog/2021/03/30/howto-backdoor-curl/)
+- [Is the “cult” of Y Combinator good or bad for Africa’s startup ecosystem?](https://disrupt-africa.com/2021/03/30/is-the-cult-of-y-combinator-a-good-or-bad-thing-for-africas-startup-ecosystem/)
 
-- [C# 9 top-level programs and target-typed expressions](https://developers.redhat.com/blog/2021/03/30/c-9-top-level-programs-and-target-typed-expressions/)
+- [Retrospective: An Axiomatic Basis for Computer Programming](https://dl.acm.org/doi/pdf/10.1145/1562764.1562779)
 
 - [Parser combinators in Rust](https://doma.dev/blog/parsing-stuff-in-rust/)
 
-- [GNU Autotools: A Tutorial [pdf]](https://elinux.org/images/4/43/Petazzoni.pdf)
+- [Is a bit error rate close to 1 just as desirable as one that is close to 0?](https://electronics.stackexchange.com/questions/557043/is-a-bit-error-rate-close-to-1-just-as-desirable-as-one-that-is-close-to-0)
 
-- [Hershey Fonts: Not Chocolate, the Origin of Vector Lettering](https://hackaday.com/2021/03/30/hershey-fonts-not-chocolate-the-origin-of-vector-lettering/)
+- [An introduction to GCC and GCC’s plugins](https://gabrieleserra.ml/blog/2020-08-27-an-introduction-to-gcc-and-gccs-plugins.html)
 
-- [The Business of Scenery: Why America’s national parks need new management](https://harpers.org/archive/2021/04/the-business-of-scenery-why-national-parks-need-new-management/)
+- [How I Beat the Berlin Rental Market With a Python Script](https://giansegato.com/essays/how-i-beat-the-berlin-rental-market-with-a-python-script/)
 
-- [See a Satellite Tonight](https://james.darpinian.com/satellites/)
+- [Rustic, a chess engine written in Rust](https://github.com/mvanthoor/rustic)
 
-- [Whistleblower: Ubiquiti Breach “Catastrophic”](https://krebsonsecurity.com/2021/03/whistleblower-ubiquiti-breach-catastrophic/)
+- [Wezterm – A GPU-accelerated cross-platform terminal emulator and multiplexer](https://github.com/wez/wezterm)
 
-- [The Uninvited Internet of Things](https://lwn.net/SubscriberLink/850218/9c0f0946579fe577/)
+- [A tool to spy on your DNS queries: dnspeep](https://jvns.ca/blog/2021/03/31/dnspeep-tool/)
 
-- [Gotchas in the Go Network Packages Defaults](https://martin.baillie.id/wrote/gotchas-in-the-go-network-packages-defaults/)
+- [Whistleblower says Ubiquiti Breach “Catastrophic”](https://krebsonsecurity.com/2021/03/whistleblower-ubiquiti-breach-catastrophic/)
 
-- [Game theory in database design](https://minimalmodeling.substack.com/p/game-theory-in-database-design)
+- [Lisp-stat: An environment for Statistical Computing](https://lisp-stat.dev/)
 
-- [A man who tried to redeem the world with logic (2015)](https://nautil.us/issue/21/information/the-man-who-tried-to-redeem-the-world-with-logic)
-
-- [Social media addiction linked to cyberbullying](https://news.uga.edu/social-media-addiction-linked-to-cyberbullying/)
+- [Tracing Paper (2020)](https://logicmag.io/security/tracing-paper/)
 
 - [signed char lotte](https://nickdrozd.github.io/2021/03/30/signed-char-lotte.html)
 
-- [Avoiding instruction cache misses](https://paweldziepak.dev/2019/06/21/avoiding-icache-misses/)
+- [Inside a viral website](https://notfunatparties.substack.com/p/inside-a-viral-website)
 
-- [What does a PGP signature on a Git commit prove?](https://people.kernel.org/monsieuricon/what-does-a-pgp-signature-on-a-git-commit-prove)
+- [The Clubhouse clones are coming](https://philsiarri.medium.com/the-clubhouse-clones-are-coming-4b927ccdac4e)
 
-- [Why Write Rails View Tests](https://pragmaticpineapple.com/why-write-rails-view-tests/)
+- [Modern Code Review: A Case Study at Google (2018) [pdf]](https://sback.it/publications/icse2018seip.pdf)
 
-- [Improving shell workflows with fzf](https://seb.jambor.dev/posts/improving-shell-workflows-with-fzf/)
+- [NAWP Aint WordPress (minimal blogging engine in Chicken Scheme)](https://the-brannons.com/cgit/cgit.cgi/nawp/about/)
 
-- [How to Build a Web App with and Without Rails Libraries](https://shopify.engineering/building-web-app-ruby-rails)
+- [Font size is useless; let’s fix it](https://tonsky.me/blog/font-size/)
 
-- [Storage is now available in Supabase (YC S20)](https://supabase.io/blog/2021/03/30/supabase-storage)
+- [Testing a few new designs that don't show the public dislike count](https://twitter.com/YouTube/status/1376942486594150405)
 
-- [Google collects 20 times more telemetry from Android devices than Apple from iOS](https://therecord.media/google-collects-20-times-more-telemetry-from-android-devices-than-apple-from-ios/)
+- [Nil in Go is typed in theory and sort of untyped in practice](https://utcc.utoronto.ca/~cks/space/blog/programming/GoNilIsTypedSortOf)
 
-- [Let’s fix font size](https://tonsky.me/blog/font-size/)
+- [Keep It Local, or: (part of) what “reasoning about your code” really means](https://v5.chriskrycho.com/elsewhere/keep-it-local/)
 
-- [Unsplash is being acquired by Getty Images](https://unsplash.com/blog/unsplash-getty/)
+- [Writing Makefiles for Python Projects](https://venthur.de/2021-03-31-python-makefiles.html)
 
-- [Why no Easter Eggs? (2005)](https://web.archive.org/web/20171123041231/https://blogs.msdn.microsoft.com/larryosterman/2005/10/21/why-no-easter-eggs/)
+- [Sublime Text 4 Feature Demo](https://vimeo.com/529550701)
 
-- [Dropping In on Gottfried Leibniz (2013)](https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/)
+- [How to Color in a Coloring Book – Algorithm [pdf]](https://web.media.mit.edu/~lieber/Publications/Coloring-Book.pdf)
 
 - [Arm Announces Armv9 Architecture: SVE2, Security, and the Next Decade](https://www.anandtech.com/show/16584/arm-announces-armv9-architecture)
 
-- [Child tweets gibberish from US nuclear-agency account](https://www.bbc.com/news/technology-56578544)
+- [Baltimore plant ruins 15M Johnson and Johnson coronavirus vaccines](https://www.axios.com/emergent-biosolutions-johnson-and-johnson-vaccine-dfd781a8-d007-4354-910a-e30d5007839b.html)
 
-- ['Fake' Amazon workers defend company on Twitter](https://www.bbc.com/news/technology-56581266)
+- [Expanded Testing of Video Conferencing Bandwidth Usage over 50/5 Mbps Broadband](https://www.cablelabs.com/expanded-testing-of-video-conferencing-bandwidth-usage-over-50-5-mbps-broadband-service)
 
-- [Kafka without ZooKeeper](https://www.confluent.io/blog/kafka-without-zookeeper-a-sneak-peek/)
+- [Computers by the Decade](https://www.charlieharrington.com/computers-by-the-decade)
 
-- [Why do Interviewers Ask Linked List Questions?](https://www.hillelwayne.com/post/linked-lists/)
+- [Google is accelerating reopening of offices and putting limits on remote work](https://www.cnbc.com/2021/03/31/google-speeds-partial-office-reopening-and-puts-limits-on-remote-work.html)
 
-- [Building a Magical 3D Button with Vanilla HTML/CSS](https://www.joshwcomeau.com/animation/3d-button/)
+- [Latest EmDrive tests at Dresden University shows it does not develop any thrust](https://www.grenzwissenschaft-aktuell.de/latest-emdrive-tests-at-dresden-university-shows-impossible-engine-does-not-develop-any-thrust20210321/)
 
-- [Elizabeth Loftus Changed the Meaning of Memory](https://www.newyorker.com/magazine/2021/04/05/how-elizabeth-loftus-changed-the-meaning-of-memory)
+- [TLA+ Action Properties](https://www.hillelwayne.com/post/action-properties/)
 
-- [Topfew and Amdahl](https://www.tbray.org/ongoing/When/202x/2021/03/27/Topfew-and-Amdahl)
+- [The sixtyforgan: Commodore 64 equipped with a spring reverb](https://www.linusakesson.net/sixtyforgan/index.php)
 
-- [Suppressing a gene by using its antibody can lead to tooth growth: animal study](https://www.u-fukui.ac.jp/en-news/67075/)
+- [The Collapse of Puerto Rico’s Iconic Telescope](https://www.newyorker.com/magazine/2021/04/05/the-collapse-of-puerto-ricos-iconic-telescope)
 
-- [Cyble (YC W21) Is Hiring](https://www.workatastartup.com/jobs/42988)
+- [Scientists create simple synthetic cell](https://www.nist.gov/news-events/news/2021/03/scientists-create-simple-synthetic-cell-grows-and-divides-normally)
 
-- [Functorio: having fun with functional programming](https://www.youtube.com/watch?v=A46KQtriYuM)
+- [Hitachi to buy U.S. software developer GlobalLogic for $9.6B](https://www.reuters.com/article/us-hitachi-globallogic/hitachi-to-buy-u-s-software-developer-globallogic-for-9-6-billion-idUSKBN2BN0ED)
 
-- [How much can a Clojure developer do alone?](https://yyhh.org/blog/2021/03/how-much-can-a-clojure-developer-do-alone)
+- [India freezes ByteDance bank accounts](https://www.theweek.in/news/biz-tech/2021/03/30/india-blocks-bytedance-bank-accounts-over-alleged-tax-evasion-report.html)
 
-- [AABB from OBB with component-wise abs](https://zeux.io/2010/10/17/aabb-from-obb-with-component-wise-abs/)
+- [Fighting cryptojacking and doing good things with content security policies](https://www.troyhunt.com/i-now-own-the-coinhive-domain-heres-how-im-fighting-cryptojacking-and-doing-good-things-with-content-security-policies/)
+
+- [TrueVault (YC W14) is hiring an engineering lead for a new data privacy product](https://www.ycombinator.com/companies/628/jobs/oc7r6dIgO-engineering-lead)
