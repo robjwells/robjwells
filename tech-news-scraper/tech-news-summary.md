@@ -1,105 +1,105 @@
-- [Using Arc to decode Venter's secret DNA watermark (2010)](http://www.righto.com/2010/06/using-arc-to-decode-venters-secret-dna.html)
+- [Apollo Domain Architecture (1981)](http://bitsavers.org/pdf/apollo/Apollo_DOMAIN_Architecture_Feb81.pdf)
 
-- [Teardown of a logic chip from a vintage IBM ES/9000 mainframe](http://www.righto.com/2021/03/logic-chip-teardown-from-vintage-ibm.html)
+- [The Simtel CD Collection (1994-2001)](http://cd.textfiles.com/simtel/)
 
-- [Beach High School](http://www2.cruzio.com/~beachhi/graduation.html)
+- [Bertrand Russell Is the Pope](http://ceadserv1.nku.edu/longa//classes/mat385_resources/docs/russellpope.html)
 
-- [Humans display a few consistent behavioral phenotypes in two player games (2016)](https://advances.sciencemag.org/content/2/8/e1600451)
+- [Why Software Jewels Are Rare (1996) [pdf]](http://www.cse.msu.edu/~cse870/Input/SS2002/MiniProject/Sources/r2057.pdf)
 
-- [The deck we used to raise our seed funding](https://airbyte.io/articles/our-story/the-deck-we-used-to-raise-our-seed-with-accel-in-13-days/)
+- [Values and objects in programming languages : MacLennan, Bruce J](https://archive.org/details/valuesobjectsinp00macl)
 
-- [Android's new Bluetooth stack rewrite (Gabeldorsh) is written with Rust](https://android.googlesource.com/platform/system/bt/+/master/gd/rust/)
+- [Ergodicity, What's It Mean](https://avoidboringpeople.substack.com/p/ergodicity-whats-it-mean)
 
-- [Pika parsing: reformulating packrat parsing as a dynamic programming algorithm solves the left recursion and error recovery problems](https://arxiv.org/pdf/2005.06444.pdf)
+- [Show HN: Blogosphere – Discover independent technical blogs](https://bilbof.com/blogosphere)
 
-- [Troubleshoot Boot and Networking Issues with New EC2 Serial Console](https://aws.amazon.com/blogs/aws/troubleshoot-boot-and-networking-issues-with-new-ec2-serial-console/)
+- [I got the GNU Modula-2 compiler working on OpenBSD](https://briancallahan.net/blog/20210403.html)
 
-- [Redefining what a map can be with new information and AI](https://blog.google/products/maps/redefining-what-map-can-be-new-information-and-ai)
+- [Fed up with the Mac, I spent six months with a Linux laptop. The grass is not greener on the other side](https://cfenollosa.com/blog/fed-up-with-the-mac-i-spent-six-months-with-a-linux-laptop-the-grass-is-not-greener-on-the-other-side.html)
 
-- [Update on campaign targeting security researchers](https://blog.google/threat-analysis-group/update-campaign-targeting-security-researchers/)
+- [Working as a Developer at Apple in 2001](https://corecursive.com/063-apple-2001/)
 
-- [Some opinionated thoughts on SQL databases](https://blog.nelhage.com/post/some-opinionated-sql-takes/)
+- [How much Polish is there in Yiddish and how much Yiddish is there in Polish?](https://culture.pl/en/article/how-much-polish-is-there-in-yiddish-and-how-much-yiddish-is-there-in-polish)
 
-- [Fixing the Oldest and Nastiest Bug in Commodore Basic](https://c65gs.blogspot.com/2021/03/guest-post-from-bitshifter-fixing.html)
+- [Goblins: a transactional, distributed actor model environment](https://docs.racket-lang.org/goblins/)
 
-- [Tools for Auditing CSS](https://css-tricks.com/tools-for-auditing-css/)
+- [egg](https://egraphs-good.github.io/)
 
-- [curl 7.76.0 adds rustls](https://daniel.haxx.se/blog/2021/03/31/curl-7-76-0-adds-rustls/)
+- [GHC Maintainer Preview Proposal](https://github.com/Kleidukos/ghc-proposals/blob/patch-1/proposals/0000-ghc-maintainer-preview.md)
 
-- [Static site generator powered by Shake, Lucid, and Hint](https://dev.to/kakkun61/static-site-generator-powered-by-shake-lucid-and-hint-d5b)
+- [bash-completion for vim command](https://github.com/SuperSandro2000/vim-bash-completion)
 
-- [Is the “cult” of Y Combinator good or bad for Africa’s startup ecosystem?](https://disrupt-africa.com/2021/03/30/is-the-cult-of-y-combinator-a-good-or-bad-thing-for-africas-startup-ecosystem/)
+- [How to do things safely in Bash (2018)](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md)
 
-- [Retrospective: An Axiomatic Basis for Computer Programming](https://dl.acm.org/doi/pdf/10.1145/1562764.1562779)
+- [Beautiful website generator aimed at math-heavy sites](https://github.com/artagnon/clayoven)
 
-- [Parser combinators in Rust](https://doma.dev/blog/parsing-stuff-in-rust/)
+- [Lip Gloss - a CSS-like layout library for your Go terminal apps](https://github.com/charmbracelet/lipgloss/)
 
-- [Is a bit error rate close to 1 just as desirable as one that is close to 0?](https://electronics.stackexchange.com/questions/557043/is-a-bit-error-rate-close-to-1-just-as-desirable-as-one-that-is-close-to-0)
+- [grit: A multitree-based personal task manager](https://github.com/climech/grit#grit)
 
-- [An introduction to GCC and GCC’s plugins](https://gabrieleserra.ml/blog/2020-08-27-an-introduction-to-gcc-and-gccs-plugins.html)
+- [enkiTS: A C and C++ Task Scheduler for creating parallel programs](https://github.com/dougbinks/enkiTS)
 
-- [How I Beat the Berlin Rental Market With a Python Script](https://giansegato.com/essays/how-i-beat-the-berlin-rental-market-with-a-python-script/)
+- [On Git Commit Messages](https://github.com/michaeljones/on-commit-messages)
 
-- [Rustic, a chess engine written in Rust](https://github.com/mvanthoor/rustic)
+- [Run terminal commands on your machine/server using text messages](https://github.com/mtdevss/server-text)
 
-- [Wezterm – A GPU-accelerated cross-platform terminal emulator and multiplexer](https://github.com/wez/wezterm)
+- [Raspberry Pi Arch Linux ARM no-systemd](https://gitlab.com/hvdkamer/raspaans)
 
-- [A tool to spy on your DNS queries: dnspeep](https://jvns.ca/blog/2021/03/31/dnspeep-tool/)
+- [“Why We Sleep” Is Riddled with Scientific and Factual Errors](https://guzey.com/books/why-we-sleep/)
 
-- [Whistleblower says Ubiquiti Breach “Catastrophic”](https://krebsonsecurity.com/2021/03/whistleblower-ubiquiti-breach-catastrophic/)
+- [Zendar (YC S17) Is Hiring Senior Electrical Engineer](https://jobs.ashbyhq.com/zendar/e72f4909-557e-4402-abd5-e16791883040)
 
-- [Lisp-stat: An environment for Statistical Computing](https://lisp-stat.dev/)
+- [A Google Interview Question](https://jrms-random-blog.blogspot.com/2021/03/a-google-interview-question.html)
 
-- [Tracing Paper (2020)](https://logicmag.io/security/tracing-paper/)
+- [What problems do people solve with strace?](https://jvns.ca/blog/2021/04/03/what-problems-do-people-solve-with-strace/)
 
-- [signed char lotte](https://nickdrozd.github.io/2021/03/30/signed-char-lotte.html)
+- [Not Growing a Language](https://kevingal.com/blog/java-overloading.html)
 
-- [Inside a viral website](https://notfunatparties.substack.com/p/inside-a-viral-website)
+- [My NAS exposes itself over the internet without permission](https://kn100.me/terramaster-nas-exposing-itself-over-upnp/)
 
-- [The Clubhouse clones are coming](https://philsiarri.medium.com/the-clubhouse-clones-are-coming-4b927ccdac4e)
+- [Lunatic Python: Lua Inside Python, and Python Inside Lua](https://labix.org/lunatic-python)
 
-- [Modern Code Review: A Case Study at Google (2018) [pdf]](https://sback.it/publications/icse2018seip.pdf)
+- [Distributing unnotarized Mac apps in a text file](https://lapcatsoftware.com/articles/textedit-gatekeeper.html)
 
-- [NAWP Aint WordPress (minimal blogging engine in Chicken Scheme)](https://the-brannons.com/cgit/cgit.cgi/nawp/about/)
+- [Docker as an Integrated Development Environment](https://medium.com/@ls12styler/docker-as-an-integrated-development-environment-95bc9b01d2c1)
 
-- [Font size is useless; let’s fix it](https://tonsky.me/blog/font-size/)
+- [Tales from Prediction Markets](https://misinfounderload.substack.com/p/tales-from-prediction-markets)
 
-- [Testing a few new designs that don't show the public dislike count](https://twitter.com/YouTube/status/1376942486594150405)
+- [My experience releasing 3 failed SaaS products](https://mmartinfahy.medium.com/my-experience-releasing-3-failed-saas-products-44e61cbde424)
 
-- [Nil in Go is typed in theory and sort of untyped in practice](https://utcc.utoronto.ca/~cks/space/blog/programming/GoNilIsTypedSortOf)
+- [Staying awake to treat depression (2018)](https://mosaicscience.com/story/staying-awake-surprisingly-effective-way-treat-depression/)
 
-- [Keep It Local, or: (part of) what “reasoning about your code” really means](https://v5.chriskrycho.com/elsewhere/keep-it-local/)
+- [Deprecated Grandparents of America](https://newsletter.eternityhacks.com/issues/deprecated-grandparents-of-america-481456)
 
-- [Writing Makefiles for Python Projects](https://venthur.de/2021-03-31-python-makefiles.html)
+- [Don't use build tags for integration tests](https://peter.bourgon.org/blog/2021/04/02/dont-use-build-tags-for-integration-tests.html)
 
-- [Sublime Text 4 Feature Demo](https://vimeo.com/529550701)
+- [Get Started with Tmux](https://sunainapai.in/blog/get-started-with-tmux/)
 
-- [How to Color in a Coloring Book – Algorithm [pdf]](https://web.media.mit.edu/~lieber/Publications/Coloring-Book.pdf)
+- [Game Engine: How I Implemented Skeletal Animation](https://vladh.net/articles/game-engine-skeletal-animation.html)
 
-- [Arm Announces Armv9 Architecture: SVE2, Security, and the Next Decade](https://www.anandtech.com/show/16584/arm-announces-armv9-architecture)
+- [The Sad Truth About C++ Copy Elision](https://wolchok.org/posts/sad-truth-about-cxx-copy-elision/)
 
-- [Baltimore plant ruins 15M Johnson and Johnson coronavirus vaccines](https://www.axios.com/emergent-biosolutions-johnson-and-johnson-vaccine-dfd781a8-d007-4354-910a-e30d5007839b.html)
+- [USS Johnston: Sub dives to deepest-known shipwreck](https://www.bbc.co.uk/news/science-environment-56608713)
 
-- [Expanded Testing of Video Conferencing Bandwidth Usage over 50/5 Mbps Broadband](https://www.cablelabs.com/expanded-testing-of-video-conferencing-bandwidth-usage-over-50-5-mbps-broadband-service)
+- [533M Facebook users' phone numbers and personal data have been leaked online](https://www.businessinsider.com/stolen-data-of-533-million-facebook-users-leaked-online-2021-4)
 
-- [Computers by the Decade](https://www.charlieharrington.com/computers-by-the-decade)
+- [Game Pillars and Values](https://www.charliecleveland.com/game-pillars/)
 
-- [Google is accelerating reopening of offices and putting limits on remote work](https://www.cnbc.com/2021/03/31/google-speeds-partial-office-reopening-and-puts-limits-on-remote-work.html)
+- [Lithium battery costs have fallen by 98% in three decades](https://www.economist.com/graphic-detail/2021/03/31/lithium-battery-costs-have-fallen-by-98-in-three-decades)
 
-- [Latest EmDrive tests at Dresden University shows it does not develop any thrust](https://www.grenzwissenschaft-aktuell.de/latest-emdrive-tests-at-dresden-university-shows-impossible-engine-does-not-develop-any-thrust20210321/)
+- [SpatiaLite: A Spatial Extension to SQLite](https://www.gaia-gis.it/fossil/libspatialite/index)
 
-- [TLA+ Action Properties](https://www.hillelwayne.com/post/action-properties/)
+- [Life After Death in Ancient Egypt](https://www.historytoday.com/archive/history-matters/life-after-death-ancient-egypt)
 
-- [The sixtyforgan: Commodore 64 equipped with a spring reverb](https://www.linusakesson.net/sixtyforgan/index.php)
+- [The cesspool of the internet is to be found in a village in North Holland](https://www.nrc.nl/nieuws/2021/04/02/the-cesspool-of-the-internet-is-to-be-found-in-a-village-in-north-holland-a4038369)
 
-- [The Collapse of Puerto Rico’s Iconic Telescope](https://www.newyorker.com/magazine/2021/04/05/the-collapse-of-puerto-ricos-iconic-telescope)
+- [This man thought opening a TXT file is fine, he thought wrong. macOS CVE-2019-8761](https://www.paulosyibelo.com/2021/04/this-man-thought-opening-txt-file-is.html)
 
-- [Scientists create simple synthetic cell](https://www.nist.gov/news-events/news/2021/03/scientists-create-simple-synthetic-cell-grows-and-divides-normally)
+- [The ideology hiding in SimCity’s black box](https://www.polygon.com/videos/2021/4/1/22352583/simcity-hidden-politics-ideology-urban-dynamics)
 
-- [Hitachi to buy U.S. software developer GlobalLogic for $9.6B](https://www.reuters.com/article/us-hitachi-globallogic/hitachi-to-buy-u-s-software-developer-globallogic-for-9-6-billion-idUSKBN2BN0ED)
+- [How Doctors Die (2013)](https://www.saturdayeveningpost.com/2013/03/how-doctors-die/)
 
-- [India freezes ByteDance bank accounts](https://www.theweek.in/news/biz-tech/2021/03/30/india-blocks-bytedance-bank-accounts-over-alleged-tax-evasion-report.html)
+- [Barrier Reef doomed as up to 99% of coral at risk, report finds](https://www.smh.com.au/environment/climate-change/barrier-reef-doomed-as-up-to-99-percent-of-coral-at-risk-report-finds-20210331-p57fng.html)
 
-- [Fighting cryptojacking and doing good things with content security policies](https://www.troyhunt.com/i-now-own-the-coinhive-domain-heres-how-im-fighting-cryptojacking-and-doing-good-things-with-content-security-policies/)
+- [Are We Automating Racism?](https://www.youtube.com/watch?v=Ok5sKLXqynQ)
 
-- [TrueVault (YC W14) is hiring an engineering lead for a new data privacy product](https://www.ycombinator.com/companies/628/jobs/oc7r6dIgO-engineering-lead)
+- ["Systems that run forever self-heal and scale" by Joe Armstrong (2013)](https://www.youtube.com/watch?v=cNICGEwmXLU)
