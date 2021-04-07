@@ -1,105 +1,99 @@
-- [Apollo Domain Architecture (1981)](http://bitsavers.org/pdf/apollo/Apollo_DOMAIN_Architecture_Feb81.pdf)
+- [Show HN: DragonRuby Game Toolkit – Commercial 2D Game Engine](http://dragonruby.org/toolkit/game)
 
-- [The Simtel CD Collection (1994-2001)](http://cd.textfiles.com/simtel/)
+- [Animation of Electric Machines](http://people.ece.umn.edu/users/riaz/animations/listanimations.html)
 
-- [Bertrand Russell Is the Pope](http://ceadserv1.nku.edu/longa//classes/mat385_resources/docs/russellpope.html)
+- [How Going Back to Coding After 10 Years Almost Crushed Me](https://betterprogramming.pub/how-going-back-to-coding-after-10-years-almost-crushed-me-88c85ceb5376)
 
-- [Why Software Jewels Are Rare (1996) [pdf]](http://www.cse.msu.edu/~cse870/Input/SS2002/MiniProject/Sources/r2057.pdf)
+- [Bevy 0.5 Released](https://bevyengine.org/news/bevy-0-5/)
 
-- [Values and objects in programming languages : MacLennan, Bruce J](https://archive.org/details/valuesobjectsinp00macl)
+- [Rendering large 3D tilemaps with a single draw call at 3000 FPS](https://blog.paavo.me/gpu-tilemap-rendering/)
 
-- [Ergodicity, What's It Mean](https://avoidboringpeople.substack.com/p/ergodicity-whats-it-mean)
+- [Prometheus and Aegis](https://christine.website/blog/aegis-prometheus-2021-04-05)
 
-- [Show HN: Blogosphere – Discover independent technical blogs](https://bilbof.com/blogosphere)
+- [Datalisp whitepaper](https://cloudflare-ipfs.com/ipfs/Qmeg9cAPVC18bdGuQtGJKtP7VcRQErnCApbcbgn1FaSq9T/datalisp.pdf)
 
-- [I got the GNU Modula-2 compiler working on OpenBSD](https://briancallahan.net/blog/20210403.html)
+- [Programming is hard](https://dorinlazar.ro/2021-02-programming-is-hard/)
 
-- [Fed up with the Mac, I spent six months with a Linux laptop. The grass is not greener on the other side](https://cfenollosa.com/blog/fed-up-with-the-mac-i-spent-six-months-with-a-linux-laptop-the-grass-is-not-greener-on-the-other-side.html)
+- [Idempotence Now Prevents Pain Later](https://ericlathrop.com/2021/04/idempotence-now-prevents-pain-later/)
 
-- [Working as a Developer at Apple in 2001](https://corecursive.com/063-apple-2001/)
+- [Update on Git.php.net Incident](https://externals.io/message/113981)
 
-- [How much Polish is there in Yiddish and how much Yiddish is there in Polish?](https://culture.pl/en/article/how-much-polish-is-there-in-yiddish-and-how-much-yiddish-is-there-in-polish)
+- [Behind GitHub's new authentication token formats](https://github.blog/2021-04-05-behind-githubs-new-authentication-token-formats/)
 
-- [Goblins: a transactional, distributed actor model environment](https://docs.racket-lang.org/goblins/)
+- [Fselect: Find files with SQL-like queries](https://github.com/jhspetersson/fselect)
 
-- [egg](https://egraphs-good.github.io/)
+- [Playwright-test – cross-browser end-to-end test suite with Playwright](https://github.com/microsoft/playwright-test)
 
-- [GHC Maintainer Preview Proposal](https://github.com/Kleidukos/ghc-proposals/blob/patch-1/proposals/0000-ghc-maintainer-preview.md)
+- [Exodus: Easily migrate your JVM code from Maven to Bazel](https://github.com/wix/exodus)
 
-- [bash-completion for vim command](https://github.com/SuperSandro2000/vim-bash-completion)
+- [Surprisingly Slow](https://gregoryszorc.com/blog/2021/04/06/surprisingly-slow/)
 
-- [How to do things safely in Bash (2018)](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md)
+- [Adjustable, low-impact keeb is about as comfortable as it gets](https://hackaday.com/2021/04/02/adjustable-low-impact-keeb-is-about-as-comfortable-as-it-gets/)
 
-- [Beautiful website generator aimed at math-heavy sites](https://github.com/artagnon/clayoven)
+- [Eliminating Data Races in Firefox](https://hacks.mozilla.org/2021/04/eliminating-data-races-in-firefox-a-technical-report/)
 
-- [Lip Gloss - a CSS-like layout library for your Go terminal apps](https://github.com/charmbracelet/lipgloss/)
+- [FreeBSD's ports migration to git and its impact on HardenedBSD](https://hardenedbsd.org/article/shawn-webb/2021-04-06/freebsds-ports-migration-git-and-its-impact-hardenedbsd)
 
-- [grit: A multitree-based personal task manager](https://github.com/climech/grit#grit)
+- [ActivityPub, the secret weapon of the Fediverse](https://homehack.nl/activitypub-the-secret-weapon-of-the-fediverse/)
 
-- [enkiTS: A C and C++ Task Scheduler for creating parallel programs](https://github.com/dougbinks/enkiTS)
+- [How to Learn Nix, Part 12: The Nix expression language](https://ianthehenry.com/posts/how-to-learn-nix/nix-language/)
 
-- [On Git Commit Messages](https://github.com/michaeljones/on-commit-messages)
+- [Apache Mesos to be moved to Attic](https://lists.apache.org/thread.html/rab2a820507f7c846e54a847398ab20f47698ec5bce0c8e182bfe51ba%40%3Cdev.mesos.apache.org%3E)
 
-- [Run terminal commands on your machine/server using text messages](https://github.com/mtdevss/server-text)
+- [Why printk() is so complicated, and how to fix it (2019)](https://lwn.net/SubscriberLink/800946/a9ad9aba46f14e78/)
 
-- [Raspberry Pi Arch Linux ARM no-systemd](https://gitlab.com/hvdkamer/raspaans)
+- [Relighting and Color Grading with Machine Learning](https://martinanderson.substack.com/p/relighting-and-color-grading-with)
 
-- [“Why We Sleep” Is Riddled with Scientific and Factual Errors](https://guzey.com/books/why-we-sleep/)
+- [GopherJS 1.16 released](https://medium.com/gopherjs/gopherjs-1-16-released-73805c81674c)
 
-- [Zendar (YC S17) Is Hiring Senior Electrical Engineer](https://jobs.ashbyhq.com/zendar/e72f4909-557e-4402-abd5-e16791883040)
+- [Many faces of left join](https://minimalmodeling.substack.com/p/many-faces-of-left-join)
 
-- [A Google Interview Question](https://jrms-random-blog.blogspot.com/2021/03/a-google-interview-question.html)
+- [How we bootstrapped a $1M ARR email client](https://missiveapp.com/blog/how-we-built-1m-arr-email-client)
 
-- [What problems do people solve with strace?](https://jvns.ca/blog/2021/04/03/what-problems-do-people-solve-with-strace/)
+- [Soil bacteria could improve crop yields, via fungi](https://news.cornell.edu/stories/2021/04/soil-bacteria-could-improve-crop-yields-fungi)
 
-- [Not Growing a Language](https://kevingal.com/blog/java-overloading.html)
+- [Wuffs’ PNG image decoder](https://nigeltao.github.io/blog/2021/fastest-safest-png-decoder.html)
 
-- [My NAS exposes itself over the internet without permission](https://kn100.me/terramaster-nas-exposing-itself-over-upnp/)
+- [Lisp as an alternative to Java](https://norvig.com/java-lisp.html)
 
-- [Lunatic Python: Lua Inside Python, and Python Inside Lua](https://labix.org/lunatic-python)
+- [OneSignal (Messaging and Push Notification APIs) is hiring a full-stack engineer](https://onesignal.com/careers/cb3e1383-d52c-43e8-8e7b-b49cbadafc85)
 
-- [Distributing unnotarized Mac apps in a text file](https://lapcatsoftware.com/articles/textedit-gatekeeper.html)
+- [Google open-sources the Lyra audio codec](https://opensource.googleblog.com/2021/04/lyra-enabling-voice-calls-for-next-billion-users.html)
 
-- [Docker as an Integrated Development Environment](https://medium.com/@ls12styler/docker-as-an-integrated-development-environment-95bc9b01d2c1)
+- [Ordering Requests to Accelerate Disk I/O](https://pkolaczk.github.io/disk-access-ordering/)
 
-- [Tales from Prediction Markets](https://misinfounderload.substack.com/p/tales-from-prediction-markets)
+- [10 Things I Hate About PostgreSQL](https://rbranson.medium.com/10-things-i-hate-about-postgresql-20dbab8c2791)
 
-- [My experience releasing 3 failed SaaS products](https://mmartinfahy.medium.com/my-experience-releasing-3-failed-saas-products-44e61cbde424)
+- [Breaking GitHub Private Pages for $35k](https://robertchen.cc/blog/2021/04/03/github-pages-xss)
 
-- [Staying awake to treat depression (2018)](https://mosaicscience.com/story/staying-awake-surprisingly-effective-way-treat-depression/)
+- [The RustyHermit Unikernel](https://rust-osdev.com/showcase/rusty-hermit/)
 
-- [Deprecated Grandparents of America](https://newsletter.eternityhacks.com/issues/deprecated-grandparents-of-america-481456)
+- [Rust in the Android platform](https://security.googleblog.com/2021/04/rust-in-android-platform.html)
 
-- [Don't use build tags for integration tests](https://peter.bourgon.org/blog/2021/04/02/dont-use-build-tags-for-integration-tests.html)
+- [Parser Combinators in Elixir](https://serokell.io/blog/parser-combinators-in-elixir)
 
-- [Get Started with Tmux](https://sunainapai.in/blog/get-started-with-tmux/)
+- [Introducing Swift Collections](https://swift.org/blog/swift-collections/)
 
-- [Game Engine: How I Implemented Skeletal Animation](https://vladh.net/articles/game-engine-skeletal-animation.html)
+- [Writing a Gameboy Game in 2021: Part 1 -- Graphics](https://ty-porter.github.io/development/2021/04/04/writing-a-gameboy-game-in-2021-pt-1.html)
 
-- [The Sad Truth About C++ Copy Elision](https://wolchok.org/posts/sad-truth-about-cxx-copy-elision/)
+- [Legalizing Gay Marriage in Crusader Kings III with Ghidra](https://waffleironer.medium.com/legalizing-gay-marriage-in-crusader-kings-iii-with-ghidra-2602e6aa8689)
 
-- [USS Johnston: Sub dives to deepest-known shipwreck](https://www.bbc.co.uk/news/science-environment-56608713)
+- [Intel 3rd gen Xeon Scalable (Ice Lake): generationally big, competitively small](https://www.anandtech.com/show/16594/intel-3rd-gen-xeon-scalable-review)
 
-- [533M Facebook users' phone numbers and personal data have been leaked online](https://www.businessinsider.com/stolen-data-of-533-million-facebook-users-leaked-online-2021-4)
+- [Bronze Age slab found in France is oldest 3D map in Europe](https://www.bbc.com/news/world-europe-56648055)
 
-- [Game Pillars and Values](https://www.charliecleveland.com/game-pillars/)
+- [The Unparalleled Genius of John von Neumann](https://www.cantorsparadise.com/the-unparalleled-genius-of-john-von-neumann-791bb9f42a2d)
 
-- [Lithium battery costs have fallen by 98% in three decades](https://www.economist.com/graphic-detail/2021/03/31/lithium-battery-costs-have-fallen-by-98-in-three-decades)
+- [Jeff Bezos comes out in support of increased corporate taxes](https://www.cnn.com/2021/04/06/economy/amazon-jeff-bezos-corporate-tax-increase/index.html)
 
-- [SpatiaLite: A Spatial Extension to SQLite](https://www.gaia-gis.it/fossil/libspatialite/index)
+- [Bring Your Own Client](https://www.geoffreylitt.com/2021/03/05/bring-your-own-client.html)
 
-- [Life After Death in Ancient Egypt](https://www.historytoday.com/archive/history-matters/life-after-death-ancient-egypt)
+- [An Apology to COBOL: Maybe Old Technology Isn’t the Real Problem](https://www.govtech.com/opinion/An-Apology-to-COBOL-Maybe-Old-Technology-Isnt-the-Real-Problem.html)
 
-- [The cesspool of the internet is to be found in a village in North Holland](https://www.nrc.nl/nieuws/2021/04/02/the-cesspool-of-the-internet-is-to-be-found-in-a-village-in-north-holland-a4038369)
+- [7% of Americans don’t use the internet. Who are they?](https://www.pewresearch.org/fact-tank/2021/04/02/7-of-americans-dont-use-the-internet-who-are-they/)
 
-- [This man thought opening a TXT file is fine, he thought wrong. macOS CVE-2019-8761](https://www.paulosyibelo.com/2021/04/this-man-thought-opening-txt-file-is.html)
+- [Google’s copying of the Java SE API was fair use [pdf]](https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf)
 
-- [The ideology hiding in SimCity’s black box](https://www.polygon.com/videos/2021/4/1/22352583/simcity-hidden-politics-ideology-urban-dynamics)
+- [Signal adds a payments feature with a privacy-focused cryptocurrency](https://www.wired.com/story/signal-mobilecoin-payments-messaging-cryptocurrency/)
 
-- [How Doctors Die (2013)](https://www.saturdayeveningpost.com/2013/03/how-doctors-die/)
-
-- [Barrier Reef doomed as up to 99% of coral at risk, report finds](https://www.smh.com.au/environment/climate-change/barrier-reef-doomed-as-up-to-99-percent-of-coral-at-risk-report-finds-20210331-p57fng.html)
-
-- [Are We Automating Racism?](https://www.youtube.com/watch?v=Ok5sKLXqynQ)
-
-- ["Systems that run forever self-heal and scale" by Joe Armstrong (2013)](https://www.youtube.com/watch?v=cNICGEwmXLU)
+- [Jakub Konka hired full time by Zig Software Foundation](https://ziglang.org/news/jakub-konka-hired-full-time/)
