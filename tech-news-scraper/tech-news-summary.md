@@ -1,99 +1,99 @@
-- [Show HN: DragonRuby Game Toolkit – Commercial 2D Game Engine](http://dragonruby.org/toolkit/game)
+- [Was the NE2000 really that bad?](http://www.os2museum.com/wp/was-the-ne2000-really-that-bad/)
 
-- [Animation of Electric Machines](http://people.ece.umn.edu/users/riaz/animations/listanimations.html)
+- [Four Bytes of Power: exploiting CVE-2021-26708 in the Linux kernel](https://a13xp0p0v.github.io/2021/02/09/CVE-2021-26708.html)
 
-- [How Going Back to Coding After 10 Years Almost Crushed Me](https://betterprogramming.pub/how-going-back-to-coding-after-10-years-almost-crushed-me-88c85ceb5376)
+- [Dream – Tidy Web Framework for OCaml and ReasonML](https://aantron.github.io/dream/)
 
-- [Bevy 0.5 Released](https://bevyengine.org/news/bevy-0-5/)
+- [Monster Mash: A Sketch-Based Tool for Casual 3D Modeling and Animation](https://ai.googleblog.com/2021/04/monster-mash-sketch-based-tool-for.html)
 
-- [Rendering large 3D tilemaps with a single draw call at 3000 FPS](https://blog.paavo.me/gpu-tilemap-rendering/)
+- [AWS Lambda Edge changes duration billing granularity from 50ms down to 1ms](https://aws.amazon.com/about-aws/whats-new/2021/03/cloudfront-lambda-at-edge-billing-granularity/)
 
-- [Prometheus and Aegis](https://christine.website/blog/aegis-prometheus-2021-04-05)
+- [Zoom zero-day discovery](https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/04/zoom-zero-day-discovery-makes-calls-safer-hackers-200000-richer/)
 
-- [Datalisp whitepaper](https://cloudflare-ipfs.com/ipfs/Qmeg9cAPVC18bdGuQtGJKtP7VcRQErnCApbcbgn1FaSq9T/datalisp.pdf)
+- [Miso (YC S16) Is Hiring in Seoul, Korea](https://boards.greenhouse.io/miso)
 
-- [Programming is hard](https://dorinlazar.ro/2021-02-programming-is-hard/)
+- [Mojo - Platform-agnostic abstraction of common IPC, message IDL format, and codegen bindings library](https://chromium.googlesource.com/chromium/src/+/master/mojo/README.md)
 
-- [Idempotence Now Prevents Pain Later](https://ericlathrop.com/2021/04/idempotence-now-prevents-pain-later/)
+- [Hacking a $200 Under Desk Exercise Bike](https://codaris.github.io/UnderDeskBike/)
 
-- [Update on Git.php.net Incident](https://externals.io/message/113981)
+- [Introduction to Computational Thinking](https://computationalthinking.mit.edu/Spring21/)
 
-- [Behind GitHub's new authentication token formats](https://github.blog/2021-04-05-behind-githubs-new-authentication-token-formats/)
+- [Some Thoughts on Smart Canes](https://derekriemer.com/posts/2021/01/16/some-thoughts-on-smart-canes/)
 
-- [Fselect: Find files with SQL-like queries](https://github.com/jhspetersson/fselect)
+- [Understanding Atomics and Memory Ordering](https://dev.to/kprotty/understanding-atomics-and-memory-ordering-2mom)
 
-- [Playwright-test – cross-browser end-to-end test suite with Playwright](https://github.com/microsoft/playwright-test)
+- [Multicore OCaml: March 2021](https://discuss.ocaml.org/t/multicore-ocaml-march-2021/7639)
 
-- [Exodus: Easily migrate your JVM code from Maven to Bazel](https://github.com/wix/exodus)
+- [cursed_things](https://docs.google.com/forms/d/e/1FAIpQLSf5bWzS8MI1aUEtSp6h-GitucJh8ndOSYFKSLkeMxoy14pjoA/viewform?usp=sf_link)
 
-- [Surprisingly Slow](https://gregoryszorc.com/blog/2021/04/06/surprisingly-slow/)
+- [Silphium](https://en.wikipedia.org/wiki/Silphium)
 
-- [Adjustable, low-impact keeb is about as comfortable as it gets](https://hackaday.com/2021/04/02/adjustable-low-impact-keeb-is-about-as-comfortable-as-it-gets/)
+- [Docker without Docker](https://fly.io/blog/docker-without-docker/)
 
-- [Eliminating Data Races in Firefox](https://hacks.mozilla.org/2021/04/eliminating-data-races-in-firefox-a-technical-report/)
+- [Vgpu_unlock: Unlock vGPU functionality for consumer grade GPUs](https://github.com/DualCoder/vgpu_unlock)
 
-- [FreeBSD's ports migration to git and its impact on HardenedBSD](https://hardenedbsd.org/article/shawn-webb/2021-04-06/freebsds-ports-migration-git-and-its-impact-hardenedbsd)
+- [Jurigged – Hot code reloading for Python](https://github.com/breuleux/jurigged)
 
-- [ActivityPub, the secret weapon of the Fediverse](https://homehack.nl/activitypub-the-secret-weapon-of-the-fediverse/)
+- [dkogan/feedgnuplot](https://github.com/dkogan/feedgnuplot)
 
-- [How to Learn Nix, Part 12: The Nix expression language](https://ianthehenry.com/posts/how-to-learn-nix/nix-language/)
+- [uBlock Origin works best on Firefox](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox)
 
-- [Apache Mesos to be moved to Attic](https://lists.apache.org/thread.html/rab2a820507f7c846e54a847398ab20f47698ec5bce0c8e182bfe51ba%40%3Cdev.mesos.apache.org%3E)
+- [HW accelerated Xwayland rendering for Nvidia merged](https://gitlab.freedesktop.org/xorg/xserver/-/merge_requests/587)
 
-- [Why printk() is so complicated, and how to fix it (2019)](https://lwn.net/SubscriberLink/800946/a9ad9aba46f14e78/)
+- [Odds of Dying](https://injuryfacts.nsc.org/all-injuries/preventable-death-overview/odds-of-dying/)
 
-- [Relighting and Color Grading with Machine Learning](https://martinanderson.substack.com/p/relighting-and-color-grading-with)
+- [Embrace the Grind](https://jacobian.org/2021/apr/7/embrace-the-grind/)
 
-- [GopherJS 1.16 released](https://medium.com/gopherjs/gopherjs-1-16-released-73805c81674c)
+- [How I Do Generative Art: In Praise of Netpbm](https://journal.infinitenegativeutility.com/how-i-do-generative-art-in-praise-of-netpbm)
 
-- [Many faces of left join](https://minimalmodeling.substack.com/p/many-faces-of-left-join)
+- [Links are not buttons (2013)](https://karlgroves.com/2013/05/14/links-are-not-buttons-neither-are-divs-and-spans/)
 
-- [How we bootstrapped a $1M ARR email client](https://missiveapp.com/blog/how-we-built-1m-arr-email-client)
+- [Kreya: A gRPC GUI client](https://kreya.app)
 
-- [Soil bacteria could improve crop yields, via fungi](https://news.cornell.edu/stories/2021/04/soil-bacteria-could-improve-crop-yields-fungi)
+- [FreeBSD/arm64 becoming Tier 1 in FreeBSD 13](https://lists.freebsd.org/pipermail/freebsd-announce/2021-April/002030.html)
 
-- [Wuffs’ PNG image decoder](https://nigeltao.github.io/blog/2021/fastest-safest-png-decoder.html)
+- [FreeBSD/arm64 becoming Tier 1 in FreeBSD 13](https://lists.freebsd.org/pipermail/freebsd-arm/2021-April/023602.html)
 
-- [Lisp as an alternative to Java](https://norvig.com/java-lisp.html)
+- [Dissecting the UNIX v6 Allocator](https://ljrk.codeberg.page/unixv6-alloc.html)
 
-- [OneSignal (Messaging and Push Notification APIs) is hiring a full-stack engineer](https://onesignal.com/careers/cb3e1383-d52c-43e8-8e7b-b49cbadafc85)
+- [European Urbanism and High-Speed Rail](https://pedestrianobservations.com/2021/04/04/european-urbanism-and-high-speed-rail/)
 
-- [Google open-sources the Lyra audio codec](https://opensource.googleblog.com/2021/04/lyra-enabling-voice-calls-for-next-billion-users.html)
+- [SMS static site authoring with Twilio and Perl](https://phasedust.com/sms-static-site-authoring-with-twilio-and-perl.html)
 
-- [Ordering Requests to Accelerate Disk I/O](https://pkolaczk.github.io/disk-access-ordering/)
+- [Proctorio's facial recognition is racist](https://proctor.ninja/proctorios-facial-recognition-is-racist)
 
-- [10 Things I Hate About PostgreSQL](https://rbranson.medium.com/10-things-i-hate-about-postgresql-20dbab8c2791)
+- [Oliver Heaviside (1850-1925) – Physical Mathematician (1983)](https://sci-hub.se/10.1093/teamat/2.2.55)
 
-- [Breaking GitHub Private Pages for $35k](https://robertchen.cc/blog/2021/04/03/github-pages-xss)
+- [A look at LLVM: comparing clamp implementations](https://secret.club/2021/04/09/std-clamp.html)
 
-- [The RustyHermit Unikernel](https://rust-osdev.com/showcase/rusty-hermit/)
+- [What event sourcing is not about](https://stitcher.io/blog/what-event-sourcing-is-not-about)
 
-- [Rust in the Android platform](https://security.googleblog.com/2021/04/rust-in-android-platform.html)
+- [Nix is the ultimate DevOps toolkit](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html)
 
-- [Parser Combinators in Elixir](https://serokell.io/blog/parser-combinators-in-elixir)
+- [The Buddhist history of moveable type before Gutenberg (2016)](https://tricycle.org/magazine/buddhist-history-moveable-type/)
 
-- [Introducing Swift Collections](https://swift.org/blog/swift-collections/)
+- [Vector Games 32c3](https://trmm.net/Vector_games_32c3/)
 
-- [Writing a Gameboy Game in 2021: Part 1 -- Graphics](https://ty-porter.github.io/development/2021/04/04/writing-a-gameboy-game-in-2021-pt-1.html)
+- [In Thailand, traditional cannabis cuisine is back on the menu](https://www.atlasobscura.com/articles/cannabis-marijuana-in-thai-food)
 
-- [Legalizing Gay Marriage in Crusader Kings III with Ghidra](https://waffleironer.medium.com/legalizing-gay-marriage-in-crusader-kings-iii-with-ghidra-2602e6aa8689)
+- [Why 11 days disappeared in 1752](https://www.augustachronicle.com/lifestyle/20190316/your-story-why-did-11-days-disappear-in-1752)
 
-- [Intel 3rd gen Xeon Scalable (Ice Lake): generationally big, competitively small](https://www.anandtech.com/show/16594/intel-3rd-gen-xeon-scalable-review)
+- [The state of toolchains in NetBSD](https://www.cambus.net/the-state-of-toolchains-in-netbsd/)
 
-- [Bronze Age slab found in France is oldest 3D map in Europe](https://www.bbc.com/news/world-europe-56648055)
+- [Introducing Dawn (Part 1)](https://www.dawn-lang.org/posts/introducing-dawn-(part-1)/)
 
-- [The Unparalleled Genius of John von Neumann](https://www.cantorsparadise.com/the-unparalleled-genius-of-john-von-neumann-791bb9f42a2d)
+- [HAProxy Forwards Over 2 Million HTTP Requests per Second on a Single Arm-based AWS Graviton2 Instance](https://www.haproxy.com/blog/haproxy-forwards-over-2-million-http-requests-per-second-on-a-single-aws-arm-instance/)
 
-- [Jeff Bezos comes out in support of increased corporate taxes](https://www.cnn.com/2021/04/06/economy/amazon-jeff-bezos-corporate-tax-increase/index.html)
+- [A Soroban Beats an Electric Calculator (1946)](https://www.historyofinformation.com/detail.php?id=1361)
 
-- [Bring Your Own Client](https://www.geoffreylitt.com/2021/03/05/bring-your-own-client.html)
+- [The patent troll that won a $308M jury trial against Apple](https://www.letterspatent.org/p/meet-the-patent-troll-that-won-a)
 
-- [An Apology to COBOL: Maybe Old Technology Isn’t the Real Problem](https://www.govtech.com/opinion/An-Apology-to-COBOL-Maybe-Old-Technology-Isnt-the-Real-Problem.html)
+- [A Guide to Color from 1692](https://www.openculture.com/2021/04/a-900-page-pre-pantone-guide-to-color-from-1692-a-complete-high-resolution-digital-scan.html)
 
-- [7% of Americans don’t use the internet. Who are they?](https://www.pewresearch.org/fact-tank/2021/04/02/7-of-americans-dont-use-the-internet-who-are-they/)
+- [Linux kernel incorrect computation of branch displacements in BPF JIT compiler](https://www.openwall.com/lists/oss-security/2021/04/08/1)
 
-- [Google’s copying of the Java SE API was fair use [pdf]](https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf)
+- [Scientists who say the lab-leak hypothesis for SARS-CoV-2 shouldn't be ruled out](https://www.technologyreview.com/2021/03/18/1021030/coronavirus-leak-wuhan-lab-scientists-conspiracy/)
 
-- [Signal adds a payments feature with a privacy-focused cryptocurrency](https://www.wired.com/story/signal-mobilecoin-payments-messaging-cryptocurrency/)
+- [The rice of the sea: how a tiny grain could change the way humanity eats](https://www.theguardian.com/environment/2021/apr/09/sea-rice-eelgrass-marine-grain-chef-angel-leon-marsh-climate-crisis)
 
-- [Jakub Konka hired full time by Zig Software Foundation](https://ziglang.org/news/jakub-konka-hired-full-time/)
+- [Interactive financial modeling](https://www.youtube.com/watch?v=h1BGy6CV1co)
