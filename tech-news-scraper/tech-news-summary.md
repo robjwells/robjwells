@@ -1,101 +1,101 @@
-- [Gitlet.js – Git implemented in 1k lines of JavaScript](http://gitlet.maryrosecook.com/docs/gitlet.html)
+- [My Dog's Garage Runs OpenBSD](http://undeadly.org/cgi?action=article;sid=20210415055717)
 
-- [How People Get Rich Now](http://paulgraham.com/richnow.html)
+- [CONFLANG 2021](https://2021.splashcon.org/home/conflang-2021)
 
-- [guile's reader, in guile](http://wingolog.org/archives/2021/04/11/guiles-reader-in-guile)
+- [Mac Chimes of Death](https://512pixels.net/2021/04/mac-chimes-of-death/)
 
-- [“Ambiguous Objects” that change their appearances in a mirror (2018)](http://www.isc.meiji.ac.jp/~kokichis/ambiguousc/ambiguouscylindere.html)
+- [Raku multiple dispatch with the new MoarVM dispatcher](https://6guts.wordpress.com/2021/04/15/raku-multiple-dispatch-with-the-new-moarvm-dispatcher/)
 
-- [Introducing Pipeworld: Spreadsheet Dataflow Computing](https://arcan-fe.com/2021/04/12/introducing-pipeworld/)
+- [CodeCov Bash Uploader Security Update](https://about.codecov.io/security-update/)
 
-- [OpenSearch: AWS fork of Elasticsearch and Kibana](https://aws.amazon.com/blogs/opensource/introducing-opensearch/)
+- [The Washington state legislature has voted to end limits on municipal broadband](https://arstechnica.com/tech-policy/2021/04/victory-for-municipal-broadband-as-wash-state-lawmakers-end-restrictions/)
 
-- [Mugo, a toy compiler for a subset of Go that can compile itself](https://benhoyt.com/writings/mugo/)
+- [Underproduction: An Approach for Measuring Risk in Open Source Software](https://arxiv.org/abs/2103.00352)
 
-- [Building React and Vue Support for Tailwind UI](https://blog.tailwindcss.com/building-react-and-vue-support-for-tailwind-ui)
+- [Ruby on Rails Controller Patterns and Anti-patterns](https://blog.appsignal.com/2021/04/14/ruby-on-rails-controller-patterns-and-anti-patterns.html)
 
-- [Non-essential retail in nineteenth-century London](https://blogs.bl.uk/untoldlives/2021/04/non-essential-retail-in-nineteenth-century-london.html?_ga=2.208601554.1324316335.1618118861-1810079885.1612580217)
+- [Time flies in Google Earthâ€™s biggest update in years](https://blog.google/products/earth/timelapse-in-google-earth/)
 
-- [Gameslab DIY FPGA-based handheld console (2019)](https://craigjb.com/2019/11/26/gameslab-overview/)
+- [The Grand Unified Theory of Documentation](https://diataxis.fr/)
 
-- [Solving the Tower of Hanoi with recursive Svelte templates](https://geoffrich.net/posts/svelte-tower-of-hanoi/)
+- [Reverse-engineering tcpip.sys: mechanics of a packet of the death (CVE-2021-24086)](https://doar-e.github.io/blog/2021/04/15/reverse-engineering-tcpipsys-mechanics-of-a-packet-of-the-death-cve-2021-24086/#tldr)
 
-- [Encore: backend development simplified](https://github.com/encoredev/encore)
+- [Element Matrix Services Launches Bridging for Microsoft Teams](https://element.io/blog/ems-launches-bridging-for-microsoft-teams/)
 
-- [Chrome zero-day released on GitHub (fixed on V8 but still works on latest)](https://github.com/r4j0x00/exploits/commit/7ba55e5ab034d05877498e83f144e187d3ddb160)
+- [Running Dialyzer for Elixir Projects in GitHub Actions](https://gist.github.com/Stratus3D/90c6c42bfdb4d3d144e9beda33bce46e)
 
-- [Taskell: Command-line Kanban board / task manager](https://github.com/smallhadroncollider/taskell)
+- [Work with GitHub Actions in Your Terminal with GitHub CLI](https://github.blog/2021-04-15-work-with-github-actions-in-your-terminal-with-github-cli/)
 
-- [gitaligned: Find out where you fall on the OSS character alignment chart](https://github.com/soypat/gitaligned)
+- [A zero dependency Rust IRC bot customized with shell scripts](https://github.com/lf94/jyoti)
 
-- [libeatmydata - because fsync() should be a no-op](https://github.com/stewartsmith/libeatmydata)
+- [PEP 563, PEP 649 and the future of pydantic and FastAPI](https://github.com/samuelcolvin/pydantic/issues/2678)
 
-- [A collection of useful Snippets and Tips for GitHub Actions](https://github.com/yengoteam/awesome-gha-snippets)
+- [The GNU Assembly](https://gnu.tools/)
 
-- [zhuowei/nft_ptr](https://github.com/zhuowei/nft_ptr)
+- [Pure Rust Implementation of Apple Code Signing](https://gregoryszorc.com/blog/2021/04/14/pure-rust-implementation-of-apple-code-signing/)
 
-- [Crossbow v1.2.0 released](https://gitlab.com/dacav/crossbow/-/releases/v1.2.0)
+- [Morrowind rebooted the original Xbox](https://hackaday.com/2021/04/14/morrowind-rebooted-the-original-xbox-without-you-ever-noticing/)
 
-- [BuildZoom (YC W13) is hiring a growth associate](https://jobs.lever.co/buildzoom)
+- [My Ideal Service](https://kevincox.ca/2021/04/15/my-ideal-service/)
 
-- [The working programmer’s guide to setting up Haskell projects](https://jonascarpay.com/posts/2021-01-28-haskell-project-template.html)
+- [Book Review: Ravenna](https://newhumanist.org.uk/articles/5786/book-review-ravenna)
 
-- [Bitemporality: More Than a Design Pattern](https://juxt.pro/blog/bitemporality-more-than-a-design-pattern)
+- [Ethical anti-design, or designing products that people can't get addicted to](https://njms.ca/posts/ethical-anti-design.html)
 
-- [Just Be Rich](https://keenen.xyz/just-be-rich/)
+- [Opting Your Website Out of Google's FLoC Network](https://paramdeo.com/blog/opting-your-website-out-of-googles-floc-network)
 
-- [Playing the Open Source Game](https://kristoff.it/blog/the-open-source-game/)
+- [Allow arbitrary URLs, expect arbitrary code execution](https://positive.security/blog/url-open-rce)
 
-- [Emacs JIT ready to merge](https://lists.gnu.org/archive/html/emacs-devel/2021-04/msg00484.html)
+- [Raycast (YC W20) Is Hiring](https://raycast.com/jobs)
 
-- [Use console.log() like a pro (2020)](https://markodenic.com/use-console-log-like-a-pro/)
+- [Rust in the Linux kernel](https://security.googleblog.com/2021/04/rust-in-linux-kernel.html)
 
-- [Why does SSL client report google's certificate "self-signed"?](https://nanxiao.me/en/why-does-ssl-client-report-googles-certificate-self-signed/)
+- [Morpheus Turns a CPU Into a Rubik’s Cube to Defeat Hackers](https://spectrum.ieee.org/tech-talk/semiconductors/processors/morpheus-turns-a-cpu-into-a-rubiks-cube-to-defeat-hackers)
 
-- [Build a Raspberry Pi Linux System the Hard Way](https://rickcarlino.com/2021/01/23/build-a-raspbery-pi-linux-system-the-hard-way-html.html)
+- [Use DuckDuckGo Extension to Block FLoC, Google’s New Tracking Method in Chrome](https://spreadprivacy.com/block-floc-with-duckduckgo/)
 
-- [Non-Fungible Taylor Swift](https://stratechery.com/2021/non-fungible-taylor-swift/)
+- [Understanding quantum computing through drunken walks](https://stackoverflow.blog/2021/04/14/understanding-quantum-computing-through-drunken-walks/)
 
-- [Adobe charges subscription cancellation fee](https://twitter.com/MRDADDGUY/status/1381628427246039045)
+- [PHP in 2021](https://stitcher.io/blog/php-in-2021)
 
-- [A brief history of the numeric keypad (2018)](https://uxdesign.cc/a-brief-history-of-the-numeric-keypad-59112cbf4c49)
+- [The Sisyphean Task of DNS Client Config on Linux](https://tailscale.com/blog/sisyphean-dns-client-linux/)
 
-- [Show HN: Personal Data Management Dashboard](https://volmarg.github.io/)
+- [Open source, experimental, and tiny tools roundup](https://tinytools.directory/)
 
-- [Wing: blog engine in CHICKEN Scheme](https://wing.fancycade.xyz/wing-chicken-scheme-blog-engine.html)
+- [Higher quality audio makes people sound smarter](https://tips.ariyh.com/p/good-sound-quality-smarter)
 
-- [Skies went dark: Historians pinpoint the 'worst year' ever to be alive](https://www.accuweather.com/en/severe-weather/historians-pinpoint-the-very-worst-year-to-ever-be-alive/927803)
+- [SQLite the only database you will ever need in most cases](https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
 
-- [Nvidia Unveils Grace: A High-Performance Arm CPU for Use in Big AI Systems](https://www.anandtech.com/show/16610/nvidia-unveils-grace-a-highperformance-arm-server-cpu-for-use-in-ai-systems)
+- [Unusual Stock Trading by Whales in US Congress](https://unusualwhales.com/i_am_the_senate)
 
-- [The Masters pimento cheese sandwich scandal](https://www.atlasobscura.com/articles/masters-pimento-cheese-sandwich)
+- [Why Rust strings seem hard](https://www.brandons.me/blog/why-rust-strings-seem-hard)
 
-- [Microsoft buys Nuance for nearly $20B](https://www.axios.com/microsoft-readies-deal-frenzy-bbc807a2-fd5b-48a7-99d1-cf06d0a41547.html)
+- [CRTC allows small wireless carriers to use big networks](https://www.canada.ca/en/radio-television-telecommunications/news/2021/04/crtc-puts-measures-in-place-to-spur-more-mobile-wireless-competition-for-canadians.html)
 
-- [Python 3 Types in the Wild: A Tale of Two Type Systems](https://www.cs.rpi.edu/~milanova/docs/dls2020.pdf)
+- [Docker Desktop for Mac (Apple Silicon)](https://www.docker.com/blog/released-docker-desktop-for-mac-apple-silicon/)
 
-- [The war against money-laundering is being lost](https://www.economist.com/finance-and-economics/2021/04/12/the-war-against-money-laundering-is-being-lost)
+- [Banner Ads Considered Harmful](https://www.gwern.net/Ads)
 
-- [RMS addresses the free software community](https://www.fsf.org/news/rms-addresses-the-free-software-community)
+- [Floor, Ceiling, Bracket](https://www.johndcook.com/blog/2021/04/15/floor-ceiling-bracket/)
 
-- [The Decline of Heroku](https://www.infoworld.com/article/3614210/the-decline-of-heroku.html)
+- [Orbit Tessellation](https://www.kerbalspaceprogram.com/dev-diaries/6509/)
 
-- [Quantum computing’s reproducibility crisis: Majorana fermions](https://www.nature.com/articles/d41586-021-00954-8)
+- [Missing hiker found after man using computer at home pinpoints his location](https://www.nbclosangeles.com/news/california-news/missing-hiker-mt-waterman-photo-search/2572468/)
 
-- [Let Us Now Praise Tiny Ants](https://www.nytimes.com/2021/04/05/science/ants-wilson-photography-niga-rice.html)
+- [Bitcoin miners are buying power plants](https://www.nysfocus.com/2021/04/13/new-york-bitcoin-mining-threat/)
 
-- [HSBC bans customers from buying Bitcoin-backer MicroStrategy shares](https://www.reuters.com/article/us-hsbc-cryptocurrency/hsbc-bans-customers-from-buying-bitcoin-backer-microstrategy-shares-idUSKBN2BZ21W)
+- [Frank Jacobs, Mad Magazine writer, has died](https://www.nytimes.com/2021/04/14/arts/frank-jacobs-dead.html)
 
-- [CEO: Intel in talks to produce chips for automakers within six to nine months](https://www.reuters.com/article/us-usa-semiconductors-idUSKBN2BZ2C4)
+- [German constitutional court strikes down Berlin rent cap](https://www.politico.eu/article/court-strikes-down-berlin-rent-cap/)
 
-- [Human taste buds can tell the difference between normal and 'heavy' water](https://www.sciencealert.com/there-s-one-kind-of-water-that-doesn-t-taste-like-water-scientists-confirm)
+- [TSMC sees chip shortage lasting into 2022](https://www.reuters.com/article/us-tsmc-results-idUSKBN2C20IH)
 
-- [Student's physics homework picked up by Amazon quantum researchers](https://www.sydney.edu.au/news-opinion/news/2021/04/13/student-physics-homework-picked-up-by-amazon-web-services-quantum.html)
+- [Reuters website goes behind paywall in new strategy](https://www.reuters.com/business/reuters-website-goes-behind-paywall-new-strategy-2021-04-15/)
 
-- [Segcache: a memory-efficient and scalable in-memory key-value cache for small objects](https://www.usenix.org/conference/nsdi21/presentation/yang-juncheng)
+- [The U.S. corn belt has lost a third of its topsoil](https://www.smithsonianmag.com/science-nature/scientists-say-nations-corn-belt-has-lost-third-its-topsoil-180977485/)
 
-- [What was the point of [ “x$var” = “xval” ]?](https://www.vidarholen.net/contents/blog/?p=1035)
+- [I made a 5-key keyboard because I could](https://www.stavros.io/posts/keyyyyyyyys/)
 
-- [Did Morrowind on the Original XBOX really reboot itself to free memory?](https://www.youtube.com/watch?v=x0TKwPnHc-M)
+- [Explosions [in Doom]](https://www.youtube.com/watch?v=BVEIXrY9tZQ)
 
-- [Online text to diagram tools (2020)](https://xosh.org/text-to-diagram/)
+- [Learn Vim Progressively](https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
