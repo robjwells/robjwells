@@ -1,101 +1,101 @@
-- [My Dog's Garage Runs OpenBSD](http://undeadly.org/cgi?action=article;sid=20210415055717)
+- [A Maze Generator in Go in WebAssembly](http://frigidriver.com/mazes/)
 
-- [CONFLANG 2021](https://2021.splashcon.org/home/conflang-2021)
+- [Protel I](http://messagepassing.blogspot.com/2009/04/protel-i.html)
 
-- [Mac Chimes of Death](https://512pixels.net/2021/04/mac-chimes-of-death/)
+- [Reverse-engineering a vintage comparator chip](http://www.righto.com/2021/04/reverse-engineering-vintage-comparator.html)
 
-- [Raku multiple dispatch with the new MoarVM dispatcher](https://6guts.wordpress.com/2021/04/15/raku-multiple-dispatch-with-the-new-moarvm-dispatcher/)
+- [Smartphones can detect solar storms](https://academictimes.com/smartphones-can-detect-huge-solar-storms/)
 
-- [CodeCov Bash Uploader Security Update](https://about.codecov.io/security-update/)
+- [Writing a Technical Book](https://andregarzia.com/2021/04/writing-a-technical-book.html)
 
-- [The Washington state legislature has voted to end limits on municipal broadband](https://arstechnica.com/tech-policy/2021/04/victory-for-municipal-broadband-as-wash-state-lawmakers-end-restrictions/)
+- [Rediscovering hamming code](https://blog.digital-horror.com/rediscovering-hamming-code/)
 
-- [Underproduction: An Approach for Measuring Risk in Open Source Software](https://arxiv.org/abs/2103.00352)
+- [Turning an iPad Pro into a classic Macintosh](https://blog.gingerbeardman.com/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/)
 
-- [Ruby on Rails Controller Patterns and Anti-patterns](https://blog.appsignal.com/2021/04/14/ruby-on-rails-controller-patterns-and-anti-patterns.html)
+- [How I Implemented /dev/printerfact in Rust](https://christine.website/blog/dev-printerfact-2021-04-17)
 
-- [Time flies in Google Earthâ€™s biggest update in years](https://blog.google/products/earth/timelapse-in-google-earth/)
+- [A Universal I/O Abstraction for C++ (2020)](https://cor3ntin.github.io/posts/iouring/)
 
-- [The Grand Unified Theory of Documentation](https://diataxis.fr/)
+- [Livebook: A collaborative and interactive code notebook for Elixir](https://dashbit.co/blog/announcing-livebook?new=1)
 
-- [Reverse-engineering tcpip.sys: mechanics of a packet of the death (CVE-2021-24086)](https://doar-e.github.io/blog/2021/04/15/reverse-engineering-tcpipsys-mechanics-of-a-packet-of-the-death-cve-2021-24086/#tldr)
+- [Where to see the oldest living things on Earth (2019)](https://edition.cnn.com/travel/article/oldest-living-things/index.html)
 
-- [Element Matrix Services Launches Bridging for Microsoft Teams](https://element.io/blog/ems-launches-bridging-for-microsoft-teams/)
+- [NO! Programming as Other](https://einarwh.wordpress.com/2021/04/18/no-programming-as-other/)
 
-- [Running Dialyzer for Elixir Projects in GitHub Actions](https://gist.github.com/Stratus3D/90c6c42bfdb4d3d144e9beda33bce46e)
+- [B. Traven](https://en.wikipedia.org/wiki/B._Traven)
 
-- [Work with GitHub Actions in Your Terminal with GitHub CLI](https://github.blog/2021-04-15-work-with-github-actions-in-your-terminal-with-github-cli/)
+- [What's in the box?](https://fasterthanli.me/articles/whats-in-the-box)
 
-- [A zero dependency Rust IRC bot customized with shell scripts](https://github.com/lf94/jyoti)
+- [Everything Easy is Hard Again](https://frankchimero.com/blog/2018/everything-easy/)
 
-- [PEP 563, PEP 649 and the future of pydantic and FastAPI](https://github.com/samuelcolvin/pydantic/issues/2678)
+- [Why fnm was rewritten in Rust](https://gal.hagever.com/posts/why-fnm-was-rewritten-in-rust/)
 
-- [The GNU Assembly](https://gnu.tools/)
+- [Show HN: Farolero – Common Lisp style-conditions and restarts for Clojure](https://github.com/IGJoshua/farolero)
 
-- [Pure Rust Implementation of Apple Code Signing](https://gregoryszorc.com/blog/2021/04/14/pure-rust-implementation-of-apple-code-signing/)
+- [Open source “split-flap” mechanical display](https://github.com/scottbez1/splitflap)
 
-- [Morrowind rebooted the original Xbox](https://hackaday.com/2021/04/14/morrowind-rebooted-the-original-xbox-without-you-ever-noticing/)
+- [Show HN: hackernews.roundtable.audio turns HN posts into live audio discussions](https://hackernews.roundtable.audio/)
 
-- [My Ideal Service](https://kevincox.ca/2021/04/15/my-ideal-service/)
+- [Monster (fun fact about me is that when I was a kid id write capital E’s with..)](https://idlnmclean.tumblr.com/post/644363337362292736/fun-fact-about-me-is-that-when-i-was-a-kid-id)
 
-- [Book Review: Ravenna](https://newhumanist.org.uk/articles/5786/book-review-ravenna)
+- [Reducing Rust Incremental Compilation Times on macOS by 70%](https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-macos-by-70-percent/)
 
-- [Ethical anti-design, or designing products that people can't get addicted to](https://njms.ca/posts/ethical-anti-design.html)
+- [Car Hacking | 2010 Toyota Camry Won't Start](https://l-o-o-s-e-d.net/car-hacking)
 
-- [Opting Your Website Out of Google's FLoC Network](https://paramdeo.com/blog/opting-your-website-out-of-googles-floc-network)
+- [Pushing Python toward C speeds with SIMD](https://laurenar.net/posts/python-simd/)
 
-- [Allow arbitrary URLs, expect arbitrary code execution](https://positive.security/blog/url-open-rce)
+- [Linux Kernel: The multi-generational LRU](https://lwn.net/Articles/851184/)
 
-- [Raycast (YC W20) Is Hiring](https://raycast.com/jobs)
+- [Thanks for the Bonus, I Quit](https://madned.substack.com/p/thanks-for-the-bonus-i-quit)
 
-- [Rust in the Linux kernel](https://security.googleblog.com/2021/04/rust-in-linux-kernel.html)
+- [Proposal: Treat FLoC as a security concern](https://make.wordpress.org/core/2021/04/18/proposal-treat-floc-as-a-security-concern/)
 
-- [Morpheus Turns a CPU Into a Rubik’s Cube to Defeat Hackers](https://spectrum.ieee.org/tech-talk/semiconductors/processors/morpheus-turns-a-cpu-into-a-rubiks-cube-to-defeat-hackers)
+- [Using OpenGL instead of CUDA for machine learning](https://phisiart.github.io/418-proj/)
 
-- [Use DuckDuckGo Extension to Block FLoC, Google’s New Tracking Method in Chrome](https://spreadprivacy.com/block-floc-with-duckduckgo/)
+- [Optimizing string::append is harder than it looks](https://quuxplusone.github.io/blog/2021/04/17/pathological-string-appends/)
 
-- [Understanding quantum computing through drunken walks](https://stackoverflow.blog/2021/04/14/understanding-quantum-computing-through-drunken-walks/)
+- [Listing the contents of a remote ZIP archive, without downloading the entire file](https://rhardih.io/2021/04/listing-the-contents-of-a-remote-zip-archive-without-downloading-the-entire-file/)
 
-- [PHP in 2021](https://stitcher.io/blog/php-in-2021)
+- [Dissecting the Apple M1 GPU, Part III](https://rosenzweig.io/blog/asahi-gpu-part-3.html)
 
-- [The Sisyphean Task of DNS Client Config on Linux](https://tailscale.com/blog/sisyphean-dns-client-linux/)
+- [typeup - a markup language that gets out of your way](https://skuz.xyz/typeup/)
 
-- [Open source, experimental, and tiny tools roundup](https://tinytools.directory/)
+- [Robot-woven sneaker with 3D-printed soles](https://spectrum.ieee.org/tech-talk/robotics/industrial-robots/adidas-futurecraft-3d-printed-robot-woven-sneaker)
 
-- [Higher quality audio makes people sound smarter](https://tips.ariyh.com/p/good-sound-quality-smarter)
+- [Show HN: Starboard Observable – An open source ObservableHQ notebook editor](https://starboard.gg/gz/open-source-observablehq-nfwK2VA)
 
-- [SQLite the only database you will ever need in most cases](https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
+- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
 
-- [Unusual Stock Trading by Whales in US Congress](https://unusualwhales.com/i_am_the_senate)
+- [cursed_font: A 9x18 bitmapped font based on Chicago](https://tilde.team/~kiedtl/projects/cursed/)
 
-- [Why Rust strings seem hard](https://www.brandons.me/blog/why-rust-strings-seem-hard)
+- [HP/Agilent E3631A Rotary Knob Repair](https://tomverbeure.github.io/2021/04/15/Agilent-E3631A-Knob-Repair.html)
 
-- [CRTC allows small wireless carriers to use big networks](https://www.canada.ca/en/radio-television-telecommunications/news/2021/04/crtc-puts-measures-in-place-to-spur-more-mobile-wireless-competition-for-canadians.html)
+- [FreeBSD Desktop - Herbe Notifications](https://vermaden.wordpress.com/2021/04/18/freebsd-desktop-part-23-configuration-herbe-notifications/)
 
-- [Docker Desktop for Mac (Apple Silicon)](https://www.docker.com/blog/released-docker-desktop-for-mac-apple-silicon/)
+- [On the Epidemiology of Influenza (2008)](https://virologyj.biomedcentral.com/articles/10.1186/1743-422X-5-29)
 
-- [Banner Ads Considered Harmful](https://www.gwern.net/Ads)
+- [PostScript Language Reference (1999) [pdf]](https://www.adobe.com/content/dam/acom/en/devnet/actionscript/articles/PLRM.pdf)
 
-- [Floor, Ceiling, Bracket](https://www.johndcook.com/blog/2021/04/15/floor-ceiling-bracket/)
+- [Gnome 40 - The anti-desktop desktop](https://www.dedoimedo.com/computers/gnome-40.html)
 
-- [Orbit Tessellation](https://www.kerbalspaceprogram.com/dev-diaries/6509/)
+- [No More Nanometers – It’s Time for New Node Naming](https://www.eejournal.com/article/no-more-nanometers/)
 
-- [Missing hiker found after man using computer at home pinpoints his location](https://www.nbclosangeles.com/news/california-news/missing-hiker-mt-waterman-photo-search/2572468/)
+- [J1: a small Forth CPU Core for FPGAs](https://www.excamera.com/files/j1.pdf)
 
-- [Bitcoin miners are buying power plants](https://www.nysfocus.com/2021/04/13/new-york-bitcoin-mining-threat/)
+- [Internet Search Tips](https://www.gwern.net/Search)
 
-- [Frank Jacobs, Mad Magazine writer, has died](https://www.nytimes.com/2021/04/14/arts/frank-jacobs-dead.html)
+- [MirkoPC – a Raspberry Pi CM4-powered computer made in Poland](https://www.jeffgeerling.com/blog/2021/mirkopc-full-featured-raspberry-pi-desktop-computer)
 
-- [German constitutional court strikes down Berlin rent cap](https://www.politico.eu/article/court-strikes-down-berlin-rent-cap/)
+- [The Code of the Geeks v3.1 Generator (1995)](https://www.joereiss.net/geek/geek.html)
 
-- [TSMC sees chip shortage lasting into 2022](https://www.reuters.com/article/us-tsmc-results-idUSKBN2C20IH)
+- [Dürer shaped the modern world](https://www.newstatesman.com/Albrecht-durer-albert-whale-philip-hoare)
 
-- [Reuters website goes behind paywall in new strategy](https://www.reuters.com/business/reuters-website-goes-behind-paywall-new-strategy-2021-04-15/)
+- [Web Pages Must Live Forever (1998)](https://www.nngroup.com/articles/web-pages-must-live-forever/)
 
-- [The U.S. corn belt has lost a third of its topsoil](https://www.smithsonianmag.com/science-nature/scientists-say-nations-corn-belt-has-lost-third-its-topsoil-180977485/)
+- [India may build new coal plants due to low cost despite climate change](https://www.reuters.com/world/india/exclusive-india-may-build-new-coal-plants-due-low-cost-despite-climate-change-2021-04-18/)
 
-- [I made a 5-key keyboard because I could](https://www.stavros.io/posts/keyyyyyyyys/)
+- [AMD's EPYC Milan Breaks Cinebench Record, Here's a 10nm Ice Lake Xeon Comparison](https://www.tomshardware.com/news/amds-epyc-milan-breaks-cinebench-record-heres-a-10nm-ice-lake-xeon-comparison)
 
-- [Explosions [in Doom]](https://www.youtube.com/watch?v=BVEIXrY9tZQ)
+- [Loongson Technology Develops Its Own CPU Instruction Set Architecture](https://www.tomshardware.com/news/loongson-technology-develops-its-own-cpu-instruction-set-architecture)
 
-- [Learn Vim Progressively](https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
+- [Police in Minnesota round up journalists and take pictures of their faces](https://www.usatoday.com/story/news/nation/2021/04/17/brooklyn-center-protests-police-round-up-journalists/7268057002/)
