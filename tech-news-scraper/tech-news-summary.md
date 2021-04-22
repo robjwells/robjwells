@@ -1,101 +1,105 @@
-- [A Maze Generator in Go in WebAssembly](http://frigidriver.com/mazes/)
+- [BEAM VM Wisdoms](http://beam-wisdoms.clau.se/en/latest/)
 
-- [Protel I](http://messagepassing.blogspot.com/2009/04/protel-i.html)
+- [Why I distrust Google Cloud more than than AWS or Azure](http://www.iasylum.net/writings/2021-04-21-why-I-distrust-google-cloud-more-than-AWS-or-Azure.html)
 
-- [Reverse-engineering a vintage comparator chip](http://www.righto.com/2021/04/reverse-engineering-vintage-comparator.html)
+- [A Philosophy of Sound](https://aeon.co/essays/the-universal-forces-of-sound-and-rhythm-enhance-thought-and-feeling)
 
-- [Smartphones can detect solar storms](https://academictimes.com/smartphones-can-detect-huge-solar-storms/)
+- [Are we Yeet Yet?](https://areweyeetyet.rs/)
 
-- [Writing a Technical Book](https://andregarzia.com/2021/04/writing-a-technical-book.html)
+- [Organizing Programs Without Classes (1991) [pdf]](https://bibliography.selflanguage.org/_static/organizing-programs.pdf)
 
-- [Rediscovering hamming code](https://blog.digital-horror.com/rediscovering-hamming-code/)
+- [The Suspense is Killing Me: Part 1](https://blog.6nok.org/the-suspense-is-killing-me:-part-1/)
 
-- [Turning an iPad Pro into a classic Macintosh](https://blog.gingerbeardman.com/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/)
+- [Hunting down the stuck BGP routes](https://blog.benjojo.co.uk/post/bgp-stuck-routes-tcp-zero-window)
 
-- [How I Implemented /dev/printerfact in Rust](https://christine.website/blog/dev-printerfact-2021-04-17)
+- [On sameness in programming: A fundamental difference between FP and OOP](https://blog.klipse.tech/dop/2021/04/21/sameness-in-programming.html)
 
-- [A Universal I/O Abstraction for C++ (2020)](https://cor3ntin.github.io/posts/iouring/)
+- [Cellebrite Good Times, Come On: Reverse-Engineering Phone Forensics Tools (2020)](https://blog.korelogic.com/blog/2020/06/29/cellebrite_good_times_come_on)
 
-- [Livebook: A collaborative and interactive code notebook for Elixir](https://dashbit.co/blog/announcing-livebook?new=1)
+- [Tenet: A Trace Explorer for Reverse Engineers](https://blog.ret2.io/2021/04/20/tenet-trace-explorer/)
 
-- [Where to see the oldest living things on Earth (2019)](https://edition.cnn.com/travel/article/oldest-living-things/index.html)
+- [Announcing the Rule 30 Prizes (2019)](https://blog.wolfram.com/2019/10/01/announcing-the-rule-30-prizes/)
 
-- [NO! Programming as Other](https://einarwh.wordpress.com/2021/04/18/no-programming-as-other/)
+- [Show HN: Diffie-Hellman exchange for the layman](https://borisreitman.com/privacy.html)
 
-- [B. Traven](https://en.wikipedia.org/wiki/B._Traven)
+- [Decompiling FlatBuffers case study: Facebook's GraphQL schema (2020)](https://cajum.github.io/fbgraphql/)
 
-- [What's in the box?](https://fasterthanli.me/articles/whats-in-the-box)
+- [Compute Cuter](https://computecuter.com/)
 
-- [Everything Easy is Hard Again](https://frankchimero.com/blog/2018/everything-easy/)
+- [Cellular Automata (1983) [pdf]](https://content.wolfram.com/uploads/sites/34/2020/07/cellular-automata.pdf)
 
-- [Why fnm was rewritten in Rust](https://gal.hagever.com/posts/why-fnm-was-rewritten-in-rust/)
+- [Comparing the New Generation of Build Tools](https://css-tricks.com/comparing-the-new-generation-of-build-tools)
 
-- [Show HN: Farolero – Common Lisp style-conditions and restarts for Clojure](https://github.com/IGJoshua/farolero)
+- [Why I use GraphQL and avoid REST APIs](https://desiatov.com/why-graphql/)
 
-- [Open source “split-flap” mechanical display](https://github.com/scottbez1/splitflap)
+- [Initial preview of GUI app support for the Windows Subsystem for Linux](https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/)
 
-- [Show HN: hackernews.roundtable.audio turns HN posts into live audio discussions](https://hackernews.roundtable.audio/)
+- [Discussion on DRM and DMCA with Richard Stallman after GitHub re-enables public access to youtube-dl](https://en.wikinews.org/wiki/Wikinews_discusses_DRM_and_DMCA_with_Richard_Stallman_after_GitHub_re-enables_public_access_to_youtube-dl)
 
-- [Monster (fun fact about me is that when I was a kid id write capital E’s with..)](https://idlnmclean.tumblr.com/post/644363337362292736/fun-fact-about-me-is-that-when-i-was-a-kid-id)
+- [SolarBatteryBitcoin – Solar and Battery and Bitcoin Mining](https://github.com/ARKInvest/SolarBatteryBitcoin)
 
-- [Reducing Rust Incremental Compilation Times on macOS by 70%](https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-macos-by-70-percent/)
+- [Show HN: I made a tool to communicate data using the PC speaker](https://github.com/ggerganov/ggwave/tree/master/examples/r2t2)
 
-- [Car Hacking | 2010 Toyota Camry Won't Start](https://l-o-o-s-e-d.net/car-hacking)
+- [State of Valhalla: JVM Model](https://github.com/openjdk/valhalla-docs/blob/main/site/design-notes/state-of-valhalla/03-vm-model.md)
 
-- [Pushing Python toward C speeds with SIMD](https://laurenar.net/posts/python-simd/)
+- [Godot 3.3](https://godotengine.org/article/godot-3-3-has-arrived)
 
-- [Linux Kernel: The multi-generational LRU](https://lwn.net/Articles/851184/)
+- [Grafana, Loki, and Tempo will be relicensed to AGPLv3](https://grafana.com/blog/2021/04/20/grafana-loki-tempo-relicensing-to-agplv3/)
 
-- [Thanks for the Bonus, I Quit](https://madned.substack.com/p/thanks-for-the-bonus-i-quit)
+- [Man-Computer Symbiosis (1960)](https://groups.csail.mit.edu/medg/people/psz/Licklider.html)
 
-- [Proposal: Treat FLoC as a security concern](https://make.wordpress.org/core/2021/04/18/proposal-treat-floc-as-a-security-concern/)
+- [Analysis of Chromium issue 1196683, 1195777](https://iamelli0t.github.io/2021/04/20/Chromium-Issue-1196683-1195777.html)
 
-- [Using OpenGL instead of CUDA for machine learning](https://phisiart.github.io/418-proj/)
+- [Show HN: My cofounder and I created a social platform for investment ideas](https://info.utradea.com/feed)
 
-- [Optimizing string::append is harder than it looks](https://quuxplusone.github.io/blog/2021/04/17/pathological-string-appends/)
+- [Today, Jonathan Smith walks free after 21 years of wrongful imprisonment](https://innocenceproject.org/jonathan-smith-walks-free-after-21-years-of-wrongful-imprisonment-in-maryland/)
 
-- [Listing the contents of a remote ZIP archive, without downloading the entire file](https://rhardih.io/2021/04/listing-the-contents-of-a-remote-zip-archive-without-downloading-the-entire-file/)
+- [How Baseball Cards Explain What Bitcoin Is](https://jabberwocking.com/how-baseball-cards-explain-what-bitcoin-really-is/)
 
-- [Dissecting the Apple M1 GPU, Part III](https://rosenzweig.io/blog/asahi-gpu-part-3.html)
+- [Starting a new digital identity](https://k3tan.com/starting-a-new-digital-identity)
 
-- [typeup - a markup language that gets out of your way](https://skuz.xyz/typeup/)
+- [ParkMobile Breach Exposes License Plate Data, Mobile Numbers of 21M Users](https://krebsonsecurity.com/2021/04/parkmobile-breach-exposes-license-plate-data-mobile-numbers-of-21m-users/)
 
-- [Robot-woven sneaker with 3D-printed soles](https://spectrum.ieee.org/tech-talk/robotics/industrial-robots/adidas-futurecraft-3d-printed-robot-woven-sneaker)
+- [“They introduce kernel bugs on purpose”](https://lore.kernel.org/linux-nfs/YH+zwQgBBGUJdiVK@unreal/)
 
-- [Show HN: Starboard Observable – An open source ObservableHQ notebook editor](https://starboard.gg/gz/open-source-observablehq-nfwK2VA)
+- [Btrfs on Zoned Block Devices](https://lwn.net/SubscriberLink/853308/c386b5aab35db7b6/)
 
-- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+- [PEP 563 and Python 3.10](https://mail.python.org/archives/list/python-dev@python.org/thread/CLVXXPQ2T2LQ5MP2Y53VVQFCXYWQJHKZ/)
 
-- [cursed_font: A 9x18 bitmapped font based on Chicago](https://tilde.team/~kiedtl/projects/cursed/)
+- [240 tables and no documentation?](https://minimalmodeling.substack.com/p/240-tables-and-no-documentation)
 
-- [HP/Agilent E3631A Rotary Knob Repair](https://tomverbeure.github.io/2021/04/15/Agilent-E3631A-Knob-Repair.html)
+- [DreamWorld (YC W21) MMO raises all red flags](https://mmofallout.com/mmo-rant-dreamworld-raises-all-red-flags/)
 
-- [FreeBSD Desktop - Herbe Notifications](https://vermaden.wordpress.com/2021/04/18/freebsd-desktop-part-23-configuration-herbe-notifications/)
+- [OpenCV AI Competition 2021 Highlights and Team Profiles Part 1](https://opencv.org/opencv-ai-competition-2021-highlights-and-team-profiles-part-1/)
 
-- [On the Epidemiology of Influenza (2008)](https://virologyj.biomedcentral.com/articles/10.1186/1743-422X-5-29)
+- [Squeezebox Keyboard](https://peterlyons.com/problog/2021/04/squeezebox-keyboard/)
 
-- [PostScript Language Reference (1999) [pdf]](https://www.adobe.com/content/dam/acom/en/devnet/actionscript/articles/PLRM.pdf)
+- [Don’t leak your Docker image’s build secrets](https://pythonspeed.com/articles/docker-build-secrets/)
 
-- [Gnome 40 - The anti-desktop desktop](https://www.dedoimedo.com/computers/gnome-40.html)
+- [Why does trying to break into the NT 3.1 kernel reboot my 486DX4 machine?](https://retrocomputing.stackexchange.com/q/19655/7932)
 
-- [No More Nanometers – It’s Time for New Node Naming](https://www.eejournal.com/article/no-more-nanometers/)
+- [Root server operators' Statement on DNS Encryption](https://root-servers.org/media/news/Statement_on_DNS_Encryption.pdf)
 
-- [J1: a small Forth CPU Core for FPGAs](https://www.excamera.com/files/j1.pdf)
+- [Exploiting vulnerabilities in Cellebrite UFED and Physical Analyzer from an app's perspective](https://signal.org/blog/cellebrite-vulnerabilities)
 
-- [Internet Search Tips](https://www.gwern.net/Search)
+- [Exploiting vulnerabilities in Cellebrite UFED and Physical Analyzer](https://signal.org/blog/cellebrite-vulnerabilities/)
 
-- [MirkoPC – a Raspberry Pi CM4-powered computer made in Poland](https://www.jeffgeerling.com/blog/2021/mirkopc-full-featured-raspberry-pi-desktop-computer)
+- [Converting Markdown to ePub or Mobi Using Pandoc](https://themythicalengineer.com/converting-markdown-to-epub-mobi.html)
 
-- [The Code of the Geeks v3.1 Generator (1995)](https://www.joereiss.net/geek/geek.html)
+- [tmp.0ut zine](https://tmpout.sh/1/)
 
-- [Dürer shaped the modern world](https://www.newstatesman.com/Albrecht-durer-albert-whale-philip-hoare)
+- [The end of history for programming](https://www.haskellforall.com/2021/04/the-end-of-history-for-programming.html)
 
-- [Web Pages Must Live Forever (1998)](https://www.nngroup.com/articles/web-pages-must-live-forever/)
+- [Three Charged in Money Laundering Scheme Stealing $30MM from Safe Deposit Boxes](https://www.justice.gov/usao-edny/pr/three-brooklyn-residents-charged-money-laundering-scheme-stealing-over-30-million)
 
-- [India may build new coal plants due to low cost despite climate change](https://www.reuters.com/world/india/exclusive-india-may-build-new-coal-plants-due-low-cost-despite-climate-change-2021-04-18/)
+- [My collection of machine learning paper notes](https://www.notion.so/Paper-Notes-by-Vitaly-Kurin-97827e14e5cd4183815cfe3a5ecf2f4c)
 
-- [AMD's EPYC Milan Breaks Cinebench Record, Here's a 10nm Ice Lake Xeon Comparison](https://www.tomshardware.com/news/amds-epyc-milan-breaks-cinebench-record-heres-a-10nm-ice-lake-xeon-comparison)
+- [The Culture of Whales](https://www.npr.org/sections/pictureshow/2021/04/19/988028339/photos-the-culture-of-whales)
 
-- [Loongson Technology Develops Its Own CPU Instruction Set Architecture](https://www.tomshardware.com/news/loongson-technology-develops-its-own-cpu-instruction-set-architecture)
+- [DNA of giant ‘corpse flower’ parasite surprises biologists](https://www.quantamagazine.org/dna-of-giant-corpse-flower-parasite-surprises-biologists-20210421/)
 
-- [Police in Minnesota round up journalists and take pictures of their faces](https://www.usatoday.com/story/news/nation/2021/04/17/brooklyn-center-protests-police-round-up-journalists/7268057002/)
+- [Riya Collective (YC W20) Is Hiring](https://www.workatastartup.com/jobs/43518)
+
+- [The Discipline of DE (1978) [video]](https://www.youtube.com/watch?v=-pjQ0FNzkLQ)
+
+- [The Golden Age of Compiler Design in an Era of HW/SW Co-design by Dr. Chris Lattner](https://www.youtube.com/watch?v=4HgShra-KnY)
