@@ -1,103 +1,107 @@
-- [GitHub Actions workflow browser](http://qmacro.org/2021/04/24/github-actions-workflow-browser/)
+- [Beyond process supervisors](http://catern.com/supervisors.html)
 
-- [Please, Systematically Enforce Your Constraints](http://twitchard.github.io/posts/2021-04-24-behavior-constraining-features.html)
+- [Query Engines: Push vs. Pull](http://justinjaffray.com/query-engines-push-vs.-pull/)
 
-- [Reverse-engineering a vintage OR/NOR chip](http://www.righto.com/2021/04/reverse-engineering-vintage-ornor-chip.html)
+- [Strand Programming Language](http://www.call-with-current-continuation.org/strand/strand.html)
 
-- [Viewpoints Research Institute concluded its operations at the beginning of 2018](http://www.vpri.org/)
+- [YAML is more than JSON without brackets (part 1)](https://11sigma.com/blog/2021/04/26/yaml-is-more-than-json-without-brackets-part-1/)
 
-- [A Silly Anti-Disassembly Trick](https://alexomara.com/blog/a-silly-anti-disassembly-trick/)
+- [Let’s build a new service manager for Alpine](https://ariadne.space/2021/03/25/lets-build-a-new-service-manager-for-alpine/)
 
-- [Backdoored password manager stole data from as many as 29K enterprises](https://arstechnica.com/gadgets/2021/04/hackers-backdoor-corporate-password-manager-and-steal-customer-data/?comments=1)
+- [Why apk-tools is different than other package managers](https://ariadne.space/2021/04/25/why-apk-tools-is-different-than-other-package-managers/)
 
-- [The unreasonable effectiveness of print debugging](https://buttondown.email/geoffreylitt/archive/starting-this-newsletter-print-debugging-byoc/)
+- [Declarative Validation](https://blog.drewolson.org/declarative-validation)
 
-- [Resources for Amateur Compiler Writers](https://c9x.me/compile/bib/)
+- [Examining JavaScript Inter-Process Communication in Firefox](https://blog.mozilla.org/attack-and-defense/2021/04/27/examining-javascript-inter-process-communication-in-firefox/)
 
-- [You might as well timestamp it](https://changelog.com/posts/you-might-as-well-timestamp-it)
+- [Data Science with Nix: Parameter Sweeps](https://blog.nixbuild.net/posts/2021-04-26-data-science-with-nix-parameter-sweeps.html)
 
-- [Using <details> for menus and dialogs (2019)](https://css-tricks.com/using-details-for-menus-and-dialogs-is-an-interesting-idea/)
+- [Announcing Rustup 1.24.0](https://blog.rust-lang.org/2021/04/27/Rustup-1.24.0.html)
 
-- [Accidentally Quadratic with DataFrames in Julia](https://dm13450.github.io/2021/04/21/Accidentally-Quadratic.html)
+- [KeyDB CEO Interview: Getting into YC with a Fork of Redis](https://console.dev/qa/keydb-john-sully/)
 
-- [mGBA and Dolphin emulators connect to each other](https://dolphin-emu.org/blog/2021/04/24/mgba-and-dolphin-connectivity/)
+- [Never run Google ads if you have an Android app](https://danfabulich.medium.com/never-run-google-ads-if-you-have-an-android-app-897a20604450)
 
-- [Beyond the shouting match: what is a blockchain, really?](https://dustycloud.org/blog/what-is-a-blockchain-really/)
+- [Better air is the easiest way not to die](https://dynomight.net/air/)
 
-- [Green Vs. Brown Programming Languages](https://earthly.dev/blog/brown-green-language/)
+- [Mystery Pineapple in an Ancient Mosaic](https://eyesofrome.com/blog/eyes-on-storytelling/mystery-in-an-ancient-mosaic)
 
-- [Efabless: Open-Source MPW Shuttle Program](https://efabless.com/open_shuttle_program/2)
+- [Initial M1 platform support committed to the Linux kernel tree](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=0c855563182001c829065faa17f8e29e9ceffe13)
 
-- [Anatomy of a simple and popular packer](https://fumik0.com/2021/04/24/anatomy-of-a-simple-and-popular-packer/)
+- [secure.py - add security headers for Python web frameworks](https://github.com/TypeError/secure)
 
-- [FFmpeg Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730)
+- [Show HN: Ansiwave, an ANSI art and MIDI music mashup](https://github.com/oakes/ansiwave)
 
-- [Show HN: Verilog2factorio](https://github.com/Redcrafter/verilog2factorio/)
+- [Signal's Cellebrite Hack Is Already Causing Grief for the Law](https://gizmodo.com/signals-cellebrite-hack-is-already-causing-grief-for-th-1846773797)
 
-- [Show HN: hackernews_tui – A Terminal UI to browse Hacker News discussions](https://github.com/aome510/hackernews-TUI)
+- [Google have declared Droidscript is malware](https://groups.google.com/g/androidscript/c/Mbh5TZ6YYnA/m/GflwflqaDAAJ)
 
-- [Himalaya, the CLI email client: v0.2.7 released](https://github.com/soywod/himalaya/releases/tag/v0.2.7)
+- [How to Get Started with the IndieWeb](https://indiewebify.me/)
 
-- [I Leaked Credentials Onto A Public GitHub Repo](https://johnmathews.eu/i-leaked-credentials-onto-a-public-github-repo.html)
+- [AI-based writer identification for the unknown scribes of the Dead Sea Scrolls](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0249769)
 
-- [Open letter from researchers involved in the “hypocrite commit” debacle](https://lore.kernel.org/lkml/CAK8KejpUVLxmqp026JY7x5GzHU2YJLPU8SzTZUNXU2OXC70ZQQ@mail.gmail.com/T/#u)
+- [Firefox and Chromium](https://madaidans-insecurities.github.io/firefox-chromium.html)
 
-- [Revertion of all of the umn.edu commits](https://lwn.net/ml/linux-kernel/20210421130105.1226686-1-gregkh@linuxfoundation.org/)
+- [Debug Programs by Modifying Them](https://merveilles.town/@akkartik/106138280776488247)
 
-- [The cost of Java's EnumSet](https://nullprogram.com/blog/2021/04/23/)
+- [VERTICAL JOIN, pt. I](https://minimalmodeling.substack.com/p/vertical-join-pt-i)
 
-- [Common interface for Linux NIC statistics](https://people.kernel.org/kuba/common-interface-for-nic-statistics)
+- [Yayagram - physical Telegram messaging](https://mobile.twitter.com/mrcatacroquer/status/1386318806411325440)
 
-- [Between Go and Elixir](https://preslav.me/2021/04/23/between-golang-and-elixir/)
+- [Study shows class bias in hiring based on few seconds of speech](https://news.yale.edu/2019/10/21/yale-study-shows-class-bias-hiring-based-few-seconds-speech)
 
-- [Curated List of Lists](https://project-awesome.org/)
+- [All Your Macs Are Belong To Us](https://objective-see.com/blog/blog_0x64.html)
 
-- [William Blake’s The Gates of Paradise (1787-93)](https://publicdomainreview.org/collection/william-blakes-the-gates-of-paradise)
+- [OpenFlights – airport and airline data](https://openflights.org/data.html)
 
-- [Why does trying to break into the NT 3.1 kernel reboot my 486DX4 machine?](https://retrocomputing.stackexchange.com/questions/19655/why-does-trying-to-break-into-the-nt-3-1-kernel-reboot-my-486dx4-machine)
+- [Elixir GenServer Explained](https://papercups.io/blog/genserver)
 
-- [Web page that crashes the Chrome renderer](https://ronsor.github.io/byechrome.html?ok=bye)
+- [Print Debugging Should Go Away](https://robert.ocallahan.org/2021/04/print-debugging-should-go-away.html)
 
-- [Hack an Analog TV into a Geek TV](https://spectrum.ieee.org/consumer-electronics/audiovideo/hack-an-analog-tv-into-a-geek-tv)
+- [The thermocline of truth](https://robm.me.uk/2021/04/thermocline-of-truth/)
 
-- [Alien Artifacts on Earth and in Our Solar System Is Possible, NASA Reports](https://thedebrief.org/alien-artifacts-on-earth-and-in-our-solar-system-is-possible-nasa-reports/)
+- [Orbital Mechanics – How do rockets get to where they're headed?](https://steemit.com/steemstem/@alexdory/how-do-rockets-really-get-to-where-they-re-headed-orbital-mechanics)
 
-- [Dan Kaminsky has died](https://twitter.com/marcwrogers/status/1385961838735597572)
+- [C, printf, and pointers](https://subethasoftware.com/2021/04/27/c-printf-and-pointers/)
 
-- [Wasm3 compiles itself (using LLVM/Clang compiled to WASM)](https://twitter.com/wasm3_engine/status/1384288567627640839)
+- [Swift 5.4 Released](https://swift.org/blog/swift-5-4-released/)
 
-- [Wayland Explorer](https://wayland.app/protocols/)
+- [Swimlanes.io – generated editable sequence diagrams](https://swimlanes.io/)
 
-- [Intel Internet Party Line (1997)](https://web.archive.org/web/19970419202411/http://www1.intel.com/iaweb/ipl/index.htm)
+- [Amulet – a short poem with a lucky SHA-256 hash](https://text.bargains/amulet/)
 
-- [Can you tell an assembly language when you see one?](https://wordsandbuttons.online/can_you_tell_an_assembly_language_when_you_see_one.html)
+- [Wireless-to-Ethernet island for RPi cluster: IPv6, NDP proxy, mDNS reflector](https://vladimir.varank.in/notes/2021/04/wireless-to-ethernet-island-for-homelab-cluster-ipv6-ndp-proxy-and-mdns-reflector/)
 
-- [Nuclear fusion plan at former Aberthaw Power Station](https://www.bbc.co.uk/news/uk-wales-56872376)
+- [Dominance of Apple and Google’s app stores impacting competition and consumers](https://www.accc.gov.au/media-release/dominance-of-apple-and-google%E2%80%99s-app-stores-impacting-competition-and-consumers)
 
-- [Declarative Docker Container Service in NixOS](https://www.breakds.org/post/declarative-docker-in-nixos/)
+- [AMD Reports Q1 2021 Earnings](https://www.anandtech.com/show/16645/amd-reports-q1-2021-earnings-firing-on-all-cylinders)
 
-- [Mars has right ingredients for present-day microbial life: study](https://www.brown.edu/news/2021-04-22/subsurface)
+- [NANDcromancy: Live Swapping NAND Flash](https://www.atredis.com/blog/2021/4/23/live-nand-swap)
 
-- [Lmgrep: Lucene-based grep-like utility](https://www.jocas.lt/blog/post/intro-to-lucene-grep/)
+- [Bronze Disease](https://www.brown.edu/Departments/Joukowsky_Institute/courses/greekpast/4867.html)
 
-- [lmgrep Text Analysis](https://www.jocas.lt/blog/post/lucene-text-analysis/)
+- [Trans-Pacific deteriorating, brace for shipping ‘tsunami’](https://www.freightwaves.com/news/flexport-trans-pacific-deteriorating-brace-for-shipping-tsunami)
 
-- [Human life as technology from Greek mythology to Mary Shelley’s Frankenstein](https://www.laphamsquarterly.org/technology/prometheus-toolbox)
+- [Running Lisp in Production](https://www.grammarly.com/blog/engineering/running-lisp-in-production/)
 
-- [InfiniTime 1.0](https://www.pine64.org/2021/04/22/its-time-infinitime-1-0/)
+- [My Current HTML Boilerplate](https://www.matuzo.at/blog/html-boilerplate/)
 
-- [The Art of Mathematics in Chalk](https://www.scientificamerican.com/article/the-art-of-mathematics-in-chalk/)
+- [I forgot about print style sheets (2016)](https://www.matuzo.at/blog/i-totally-forgot-about-print-style-sheets/)
 
-- [Security Researcher Dan Kaminsky Passes Away](https://www.securityweek.com/security-researcher-dan-kaminsky-passes-away)
+- [Mighty Makes Google Chrome Faster](https://www.mightyapp.com/)
 
-- [Streak (YC S11) is hiring to build spreadsheets in email (remote)](https://www.streak.com/careers/product-engineer)
+- [Rare chunks of Earth's mantle found exposed in Maryland](https://www.nationalgeographic.com/science/article/rare-chunks-of-earths-mantle-found-exposed-in-maryland)
 
-- [‘Insanely cheap energy’: solar power continues to shock the world](https://www.theguardian.com/australia-news/2021/apr/25/insanely-cheap-energy-how-solar-power-continues-to-shock-the-world)
+- [If you could re-design Rust from scratch today, what would you change?](https://www.reddit.com/r/rust/comments/my3ipa/if_you_could_redesign_rust_from_scratch_today/)
 
-- [Scalability, but at What Cost [pdf]](https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-mcsherry.pdf)
+- [Neutron stars may be bigger than expected, measurement of lead nucleus suggests](https://www.sciencemag.org/news/2021/04/neutron-stars-may-be-bigger-expected-measurement-lead-nucleus-suggests)
 
-- [Millions of the Pentagon’s dormant IP addresses sprang to life on January 20](https://www.washingtonpost.com/technology/2021/04/24/pentagon-internet-address-mystery/)
+- [Introducing DRPC: Our Replacement for gRPC](https://www.storj.io/blog/introducing-drpc-our-replacement-for-grpc)
 
-- [ThinkPad X230 with E-INK Display at 30fps](https://www.youtube.com/watch?v=HuegrU_kIq8)
+- [Facebook advertisers target children interested in smoking, alcohol, weight loss](https://www.theguardian.com/technology/2021/apr/28/facebook-allows-advertisers-to-target-children-interested-in-smoking-alcohol-and-weight-loss)
 
-- [Individual element thinking vs grouped elements thinking](https://www.youtube.com/watch?v=f4ioc8-lDc0&t=4407s)
+- [Signadot (YC W20) Is Hiring Back End Founding Engineers](https://www.workatastartup.com/jobs/42298)
+
+- [Symbolics Lisp Machine demo (2013) [video]](https://www.youtube.com/watch?v=o4-YnLpLgtk)
+
+- [Show HN: Pomospendo – A Gamified Pomodoro Application](https://zaataylor.github.io/pomospendo/)
