@@ -1,107 +1,101 @@
-- [Beyond process supervisors](http://catern.com/supervisors.html)
+- [Inheritance was invented as a performance hack](http://catern.com/inheritance.html)
 
-- [Query Engines: Push vs. Pull](http://justinjaffray.com/query-engines-push-vs.-pull/)
+- [Constructor Theory](http://constructortheory.org/)
 
-- [Strand Programming Language](http://www.call-with-current-continuation.org/strand/strand.html)
+- [What Is Constructor Theory?](http://constructortheory.org/what-is-constructor-theory/)
 
-- [YAML is more than JSON without brackets (part 1)](https://11sigma.com/blog/2021/04/26/yaml-is-more-than-json-without-brackets-part-1/)
+- [Features of Common Lisp (2008)](http://random-state.net/features-of-common-lisp.html)
 
-- [Let’s build a new service manager for Alpine](https://ariadne.space/2021/03/25/lets-build-a-new-service-manager-for-alpine/)
+- [Redbean/0.4](http://redbean.justine.lol/)
 
-- [Why apk-tools is different than other package managers](https://ariadne.space/2021/04/25/why-apk-tools-is-different-than-other-package-managers/)
+- [Building games that can be understood at a glance](http://stfj.net/DesigningForSubwayLegibility/)
 
-- [Declarative Validation](https://blog.drewolson.org/declarative-validation)
+- [Cloning JavaScript objects with graph theory](https://andreasimonecosta.dev/posts/cloning-javascript-objects-with-graph-theory/)
 
-- [Examining JavaScript Inter-Process Communication in Firefox](https://blog.mozilla.org/attack-and-defense/2021/04/27/examining-javascript-inter-process-communication-in-firefox/)
+- [Labor shortage or terrible jobs?](https://annehelen.substack.com/p/the-capitalism-is-broken-economy)
 
-- [Data Science with Nix: Parameter Sweeps](https://blog.nixbuild.net/posts/2021-04-26-data-science-with-nix-parameter-sweeps.html)
+- [Turning an iPad Pro into the Ultimate Classic Macintosh](https://blog.gingerbeardman.com/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/)
 
-- [Announcing Rustup 1.24.0](https://blog.rust-lang.org/2021/04/27/Rustup-1.24.0.html)
+- [Lightning, Gods, and Mushrooms (2013)](https://blog.mycology.cornell.edu/2013/01/20/zap-lightning-gods-and-mushrooms/)
 
-- [KeyDB CEO Interview: Getting into YC with a Fork of Redis](https://console.dev/qa/keydb-john-sully/)
+- [Handling Time When Programming](https://blog.vnaik.com/posts/time.html)
 
-- [Never run Google ads if you have an Android app](https://danfabulich.medium.com/never-run-google-ads-if-you-have-an-android-app-897a20604450)
+- [Health of the KDE community](https://carlschwan.eu/2021/04/29/health-of-the-kde-community/)
 
-- [Better air is the easiest way not to die](https://dynomight.net/air/)
+- [My infrastructure as of 2020](https://chown.me/blog/infrastructure-2020)
 
-- [Mystery Pineapple in an Ancient Mosaic](https://eyesofrome.com/blog/eyes-on-storytelling/mystery-in-an-ancient-mosaic)
+- [Internal Combustion Engine](https://ciechanow.ski/internal-combustion-engine/)
 
-- [Initial M1 platform support committed to the Linux kernel tree](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=0c855563182001c829065faa17f8e29e9ceffe13)
+- [fixed vulnerabilities were once created](https://daniel.haxx.se/blog/2021/04/30/fixed-vulnerabilities-were-once-created/)
 
-- [secure.py - add security headers for Python web frameworks](https://github.com/TypeError/secure)
+- [Facebook Joins the Rust Foundation](https://developers.facebook.com/blog/post/2021/04/29/facebook-joins-rust-foundation/)
 
-- [Show HN: Ansiwave, an ANSI art and MIDI music mashup](https://github.com/oakes/ansiwave)
+- [CodeCov Breach Exposed Hashicorp's GPG Signing Key](https://discuss.hashicorp.com/t/hcsec-2021-12-codecov-security-event-and-hashicorp-gpg-key-exposure/23512)
 
-- [Signal's Cellebrite Hack Is Already Causing Grief for the Law](https://gizmodo.com/signals-cellebrite-hack-is-already-causing-grief-for-th-1846773797)
+- [The 'Great Wave' has mystified art lovers for generations (2019)](https://edition.cnn.com/style/article/hokusai-great-wave-ukiyo-e-woodblock/index.html)
 
-- [Google have declared Droidscript is malware](https://groups.google.com/g/androidscript/c/Mbh5TZ6YYnA/m/GflwflqaDAAJ)
+- [Go Modules Cheat Sheet](https://encore.dev/guide/go.mod)
 
-- [How to Get Started with the IndieWeb](https://indiewebify.me/)
+- [Chef and the Aesthetics of Multicoding](https://esoteric.codes/blog/chef-multicoding-esolang-aesthetics)
 
-- [AI-based writer identification for the unknown scribes of the Dead Sea Scrolls](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0249769)
+- [Scaling monorepo maintenance](https://github.blog/2021-04-29-scaling-monorepo-maintenance/)
 
-- [Firefox and Chromium](https://madaidans-insecurities.github.io/firefox-chromium.html)
+- [arss - an rss reader that doesn't try to do too much](https://github.com/1ntEgr8/arss)
 
-- [Debug Programs by Modifying Them](https://merveilles.town/@akkartik/106138280776488247)
+- [A List of Foundational Haskell Papers](https://github.com/cohomolo-gy/haskell-resources)
 
-- [VERTICAL JOIN, pt. I](https://minimalmodeling.substack.com/p/vertical-join-pt-i)
+- [Space Cloud: Open-Source Firebase and Heroku on Kubernetes](https://github.com/spaceuptech/space-cloud)
 
-- [Yayagram - physical Telegram messaging](https://mobile.twitter.com/mrcatacroquer/status/1386318806411325440)
+- [BuildZoom (better way to build custom homes) is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 
-- [Study shows class bias in hiring based on few seconds of speech](https://news.yale.edu/2019/10/21/yale-study-shows-class-bias-hiring-based-few-seconds-speech)
+- [“BadAlloc” – Memory allocation vulnerabilities could affect wide range of IoT devices](https://msrc-blog.microsoft.com/2021/04/29/badalloc-memory-allocation-vulnerabilities-could-affect-wide-range-of-iot-and-ot-devices-in-industrial-medical-and-enterprise-networks/)
 
-- [All Your Macs Are Belong To Us](https://objective-see.com/blog/blog_0x64.html)
+- [How Litestream Eliminated My Database Server for $0.03/month](https://mtlynch.io/litestream/)
 
-- [OpenFlights – airport and airline data](https://openflights.org/data.html)
+- [True, False, and Random (2015)](https://nautil.us/issue/30/identity/how-to-solve-the-hardest-logic-puzzle-ever)
 
-- [Elixir GenServer Explained](https://papercups.io/blog/genserver)
+- [Show HN: Second-Chance Pool](https://news.ycombinator.com/pool)
 
-- [Print Debugging Should Go Away](https://robert.ocallahan.org/2021/04/print-debugging-should-go-away.html)
+- [Exploiting Undocumented Hardware Blocks in the LPC55S69](https://oxide.computer/blog/lpc55/)
 
-- [The thermocline of truth](https://robm.me.uk/2021/04/thermocline-of-truth/)
+- [PalmOS on x86: API porting](https://pmig96.wordpress.com/2020/09/26/palmos-on-x86-api-porting/)
 
-- [Orbital Mechanics – How do rockets get to where they're headed?](https://steemit.com/steemstem/@alexdory/how-do-rockets-really-get-to-where-they-re-headed-orbital-mechanics)
+- [Legal documents from the Philippines government have been exposed online](https://restofworld.org/2021/philippines-data-exposure/)
 
-- [C, printf, and pointers](https://subethasoftware.com/2021/04/27/c-printf-and-pointers/)
+- ['Minting' electronic cash (1999)](https://spectrum.ieee.org/computing/software/minting-electronic-cash)
 
-- [Swift 5.4 Released](https://swift.org/blog/swift-5-4-released/)
+- [Why I Prefer Makefiles Over package.json Scripts for Node.js Projects](https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts/)
 
-- [Swimlanes.io – generated editable sequence diagrams](https://swimlanes.io/)
+- [Implicit In-order Forests: Zooming a billion trace events at 60fps](https://thume.ca/2021/03/14/iforests/)
 
-- [Amulet – a short poem with a lucky SHA-256 hash](https://text.bargains/amulet/)
+- [What Is Sleepminting And Will It Ruin NFT Provenance?](https://timdaub.github.io/2021/04/22/nft-sleepminting-beeple-provenance/)
 
-- [Wireless-to-Ethernet island for RPi cluster: IPv6, NDP proxy, mDNS reflector](https://vladimir.varank.in/notes/2021/04/wireless-to-ethernet-island-for-homelab-cluster-ipv6-ndp-proxy-and-mdns-reflector/)
+- [“About one-third of Basecamp employees accepted buyouts today”](https://twitter.com/CaseyNewton/status/1388212468510380034)
 
-- [Dominance of Apple and Google’s app stores impacting competition and consumers](https://www.accc.gov.au/media-release/dominance-of-apple-and-google%E2%80%99s-app-stores-impacting-competition-and-consumers)
+- [October CMS as you know it is dead](https://wintercms.com/blog/post/october-cms-you-know-it-dead)
 
-- [AMD Reports Q1 2021 Earnings](https://www.anandtech.com/show/16645/amd-reports-q1-2021-earnings-firing-on-all-cylinders)
+- [Build a giant live scrolling tickertape display](https://wp.josh.com/2021/04/21/build-a-live-scrolling-tickertape/)
 
-- [NANDcromancy: Live Swapping NAND Flash](https://www.atredis.com/blog/2021/4/23/live-nand-swap)
+- [Florida plans to fine social media for banning politicians](https://www.bbc.co.uk/news/technology-56952435)
 
-- [Bronze Disease](https://www.brown.edu/Departments/Joukowsky_Institute/courses/greekpast/4867.html)
+- [It's your device, you should be able to repair it](https://www.bbc.com/news/business-56799069)
 
-- [Trans-Pacific deteriorating, brace for shipping ‘tsunami’](https://www.freightwaves.com/news/flexport-trans-pacific-deteriorating-brace-for-shipping-tsunami)
+- [The ransomware surge](https://www.bbc.com/news/technology-56933733)
 
-- [Running Lisp in Production](https://www.grammarly.com/blog/engineering/running-lisp-in-production/)
+- [P&G Flocculant/Disinfectant Powder](https://www.cdc.gov/safewater/flocculant-filtration.html)
 
-- [My Current HTML Boilerplate](https://www.matuzo.at/blog/html-boilerplate/)
+- [The Gates to Hell: Apple’s Notarizing](https://www.cdfinder.de/guide/blog/apple_hell.html)
 
-- [I forgot about print style sheets (2016)](https://www.matuzo.at/blog/i-totally-forgot-about-print-style-sheets/)
+- [India’s second wave of covid-19 feels nothing like its first](https://www.economist.com/diary/2021/04/30/indias-second-wave-of-covid-19-feels-nothing-like-its-first)
 
-- [Mighty Makes Google Chrome Faster](https://www.mightyapp.com/)
+- [Apple reveals more about AirTag stalking protections](https://www.fastcompany.com/90630404/apple-airtags-could-enable-domestic-abuse-in-terrifying-ways)
 
-- [Rare chunks of Earth's mantle found exposed in Maryland](https://www.nationalgeographic.com/science/article/rare-chunks-of-earths-mantle-found-exposed-in-maryland)
+- [SSD Makers Start Warning That Mining Products Like Chia Coin Will Void Warranty](https://www.guru3d.com/news-story/ssd-makers-start-waring-that-mining-products-like-chia-coin-will-void-warranty.html)
 
-- [If you could re-design Rust from scratch today, what would you change?](https://www.reddit.com/r/rust/comments/my3ipa/if_you_could_redesign_rust_from_scratch_today/)
+- [Factories produced tired workers. A new frontier in fatigue studies followed](https://www.laphamsquarterly.org/roundtable/weary-work)
 
-- [Neutron stars may be bigger than expected, measurement of lead nucleus suggests](https://www.sciencemag.org/news/2021/04/neutron-stars-may-be-bigger-expected-measurement-lead-nucleus-suggests)
+- [Spacewar 1 and the Beginnings of Video Game Aesthetics](https://www.masswerk.at/nowgobang/2021/spacewar1)
 
-- [Introducing DRPC: Our Replacement for gRPC](https://www.storj.io/blog/introducing-drpc-our-replacement-for-grpc)
+- [OpenBSD Version 6.9](https://www.openbsd.org/69.html)
 
-- [Facebook advertisers target children interested in smoking, alcohol, weight loss](https://www.theguardian.com/technology/2021/apr/28/facebook-allows-advertisers-to-target-children-interested-in-smoking-alcohol-and-weight-loss)
-
-- [Signadot (YC W20) Is Hiring Back End Founding Engineers](https://www.workatastartup.com/jobs/42298)
-
-- [Symbolics Lisp Machine demo (2013) [video]](https://www.youtube.com/watch?v=o4-YnLpLgtk)
-
-- [Show HN: Pomospendo – A Gamified Pomodoro Application](https://zaataylor.github.io/pomospendo/)
+- [New x86 micro-op vulnerability breaks all known Spectre defenses](https://www.sciencedaily.com/releases/2021/04/210430165903.htm)
