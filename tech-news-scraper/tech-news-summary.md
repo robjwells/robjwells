@@ -1,101 +1,99 @@
-- [Inheritance was invented as a performance hack](http://catern.com/inheritance.html)
+- [Extending HTML As a Hypermedia](http://discourse.wicg.io/t/extending-html-as-a-hypermedia/5294)
 
-- [Constructor Theory](http://constructortheory.org/)
+- [.org doesn't mean credible](http://dotorgdoesntmeancredible.org/)
 
-- [What Is Constructor Theory?](http://constructortheory.org/what-is-constructor-theory/)
+- [Why yes I would love to inject viruses into my computer](http://len.falken.ink/misc/tool-sh.txt)
 
-- [Features of Common Lisp (2008)](http://random-state.net/features-of-common-lisp.html)
+- [Python and me, or when in Rome](http://rachelbythebay.com/w/2021/05/02/py/)
 
-- [Redbean/0.4](http://redbean.justine.lol/)
+- [Statically Recompiling NES Games into Native Executables with LLVM and Go (2013)](https://andrewkelley.me/post/jamulator.html)
 
-- [Building games that can be understood at a glance](http://stfj.net/DesigningForSubwayLegibility/)
+- [Programming in Z3 by learning to think like a compiler](https://bellmar.medium.com/programming-in-z3-by-learning-to-think-like-a-compiler-401fd46828d5)
 
-- [Cloning JavaScript objects with graph theory](https://andreasimonecosta.dev/posts/cloning-javascript-objects-with-graph-theory/)
+- [Is the era of reflection-heavy C# libraries at an end?](https://blog.marcgravell.com/2021/05/is-era-of-reflection-heavy-c-libraries.html)
 
-- [Labor shortage or terrible jobs?](https://annehelen.substack.com/p/the-capitalism-is-broken-economy)
+- [Rust's Most Unrecognized Contributor](https://brson.github.io/2021/05/02/rusts-most-unrecognized-contributor)
 
-- [Turning an iPad Pro into the Ultimate Classic Macintosh](https://blog.gingerbeardman.com/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/)
+- [Why What3Words is not suitable for safety critical applications](https://cybergibbons.com/security-2/why-what3words-is-not-suitable-for-safety-critical-applications/)
 
-- [Lightning, Gods, and Mushrooms (2013)](https://blog.mycology.cornell.edu/2013/01/20/zap-lightning-gods-and-mushrooms/)
+- [Evolution of Emacs Lisp](https://doi.org/10.1145/3386324)
 
-- [Handling Time When Programming](https://blog.vnaik.com/posts/time.html)
+- [Making the case for a homegrown Canadian semiconductor industry](https://financialpost.com/technology/fishing-for-chips-making-the-case-for-a-homegrown-canadian-semiconductor-industry)
 
-- [Health of the KDE community](https://carlschwan.eu/2021/04/29/health-of-the-kde-community/)
+- [The art of solving problems with Monte Carlo simulations](https://ggcarvalho.dev/posts/montecarlo/)
 
-- [My infrastructure as of 2020](https://chown.me/blog/infrastructure-2020)
+- [dekuNukem/bob_cassette_rewinder](https://github.com/dekuNukem/bob_cassette_rewinder)
 
-- [Internal Combustion Engine](https://ciechanow.ski/internal-combustion-engine/)
+- [Bootstrapping from Hex to Bison to GCC](https://github.com/fosslinux/live-bootstrap)
 
-- [fixed vulnerabilities were once created](https://daniel.haxx.se/blog/2021/04/30/fixed-vulnerabilities-were-once-created/)
+- [Sortable Collision-Free UUIDs](https://github.com/kpdemetriou/fuuid)
 
-- [Facebook Joins the Rust Foundation](https://developers.facebook.com/blog/post/2021/04/29/facebook-joins-rust-foundation/)
+- [Raspberry Pi Astronomy/Weather Clock](https://github.com/kshetline/aw-clock)
 
-- [CodeCov Breach Exposed Hashicorp's GPG Signing Key](https://discuss.hashicorp.com/t/hcsec-2021-12-codecov-security-event-and-hashicorp-gpg-key-exposure/23512)
+- [Practical SQL for Data Analysis](https://hakibenita.com/sql-for-data-analysis)
 
-- [The 'Great Wave' has mystified art lovers for generations (2019)](https://edition.cnn.com/style/article/hokusai-great-wave-ukiyo-e-woodblock/index.html)
+- [Show HN: IPster – Peer-to-peer simple job notifications](https://ipster.io/)
 
-- [Go Modules Cheat Sheet](https://encore.dev/guide/go.mod)
+- [Why a small handful of counties generates the bulk of US death sentences](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240401)
 
-- [Chef and the Aesthetics of Multicoding](https://esoteric.codes/blog/chef-multicoding-esolang-aesthetics)
+- [The Unix Magic Poster](https://jpmens.net/2021/04/09/the-unix-magic-poster/)
 
-- [Scaling monorepo maintenance](https://github.blog/2021-04-29-scaling-monorepo-maintenance/)
+- [Git Signature Operations via HashiCorp Vault](https://martin.baillie.id/wrote/git-signature-operations-via-hashicorp-vault/)
 
-- [arss - an rss reader that doesn't try to do too much](https://github.com/1ntEgr8/arss)
+- [Building video chat into my personal website using WebRTC, WebSockets, and Go](https://mattbutterfield.com/blog/2021-05-02-adding-video-chat)
 
-- [A List of Foundational Haskell Papers](https://github.com/cohomolo-gy/haskell-resources)
+- [Unlearning toxic behaviors in a code review culture (2018)](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
 
-- [Space Cloud: Open-Source Firebase and Heroku on Kubernetes](https://github.com/spaceuptech/space-cloud)
+- [My Favorite One Liners](https://muhammadraza.me/2021/Oneliners/)
 
-- [BuildZoom (better way to build custom homes) is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Mux (YC W16) is hiring full-stack developers to focus on Elixir and TS/React apps](https://mux.com/jobs?hnj=full-stack)
 
-- [“BadAlloc” – Memory allocation vulnerabilities could affect wide range of IoT devices](https://msrc-blog.microsoft.com/2021/04/29/badalloc-memory-allocation-vulnerabilities-could-affect-wide-range-of-iot-and-ot-devices-in-industrial-medical-and-enterprise-networks/)
+- [Hosting SQLite databases on Github Pages - (or any static file hoster)](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
 
-- [How Litestream Eliminated My Database Server for $0.03/month](https://mtlynch.io/litestream/)
+- [The Man of the Circular Ruins](https://planetofstorms.wordpress.com/2021/03/30/the-man-of-the-circular-ruins/)
 
-- [True, False, and Random (2015)](https://nautil.us/issue/30/identity/how-to-solve-the-hardest-logic-puzzle-ever)
+- [Sigil OS post-mortem report](https://portal.mozz.us/gemini/gemini.spam.works/~emery/devlog/sigil-report.gmi)
 
-- [Show HN: Second-Chance Pool](https://news.ycombinator.com/pool)
+- [Show HN: ReplPad – Javascript Repl/Scratchpad](https://replpad.com/)
 
-- [Exploiting Undocumented Hardware Blocks in the LPC55S69](https://oxide.computer/blog/lpc55/)
+- [Highres Spectrograms with the DFT Shift Theorem](https://soundshader.github.io/hss/gallery/index.html)
 
-- [PalmOS on x86: API porting](https://pmig96.wordpress.com/2020/09/26/palmos-on-x86-api-porting/)
+- [GCC Rust Monthly Report #5 April 2021](https://thephilbert.io/2021/05/03/gcc-rust-monthly-report-5-april-2021/)
 
-- [Legal documents from the Philippines government have been exposed online](https://restofworld.org/2021/philippines-data-exposure/)
+- [Show HN: I built Grafar, a visualization library](https://thoughtspile.github.io/grafar?new)
 
-- ['Minting' electronic cash (1999)](https://spectrum.ieee.org/computing/software/minting-electronic-cash)
+- [Kernel.org Transparency Log Monitor](https://tlog.linderud.dev/)
 
-- [Why I Prefer Makefiles Over package.json Scripts for Node.js Projects](https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts/)
+- [Teaching Bloom Filters new tricks](https://toao.com/blog/teaching-bloom-filters-new-tricks)
 
-- [Implicit In-order Forests: Zooming a billion trace events at 60fps](https://thume.ca/2021/03/14/iforests/)
+- [RFC 7493 - The I-JSON Message Format](https://tools.ietf.org/html//rfc7493)
 
-- [What Is Sleepminting And Will It Ruin NFT Provenance?](https://timdaub.github.io/2021/04/22/nft-sleepminting-beeple-provenance/)
+- [Back in 1993, I was taking a number theory class](https://twitter.com/EricLengyel/status/1389106103179378689)
 
-- [“About one-third of Basecamp employees accepted buyouts today”](https://twitter.com/CaseyNewton/status/1388212468510380034)
+- [Nintendo Switch is not USB-C compliant (2017)](https://web.archive.org/web/20180329073708/https://plus.google.com/102612254593917101378/posts/2CUPZ5yVTRT)
 
-- [October CMS as you know it is dead](https://wintercms.com/blog/post/october-cms-you-know-it-dead)
+- [Putting the fear of AirPlay into Yamaha YAS-207 soundbar](https://wejn.org/2021/04/multi-weekend-project-reversing-yamaha-yas-207-remote-control/)
 
-- [Build a giant live scrolling tickertape display](https://wp.josh.com/2021/04/21/build-a-live-scrolling-tickertape/)
+- [Specifying State Machines with Temporal Logic](https://wickstrom.tech/programming/2021/05/03/specifying-state-machines-with-temporal-logic.html)
 
-- [Florida plans to fine social media for banning politicians](https://www.bbc.co.uk/news/technology-56952435)
+- [Contrary to Previous Belief, Strike-Slip Faults Can Generate Large Tsunamis](https://www.caltech.edu/about/news/contrary-to-previous-belief-strike-slip-faults-can-generate-large-tsunamis)
 
-- [It's your device, you should be able to repair it](https://www.bbc.com/news/business-56799069)
+- [A blood test may help the diagnosis and treatment of depression](https://www.economist.com/science-and-technology/2021/05/03/a-blood-test-may-help-the-diagnosis-and-treatment-of-depression)
 
-- [The ransomware surge](https://www.bbc.com/news/technology-56933733)
+- [Full Wayland Setup on Arch Linux](https://www.fosskers.ca/en/blog/wayland)
 
-- [P&G Flocculant/Disinfectant Powder](https://www.cdc.gov/safewater/flocculant-filtration.html)
+- [Evolution of random number generators](https://www.johndcook.com/blog/2021/04/29/reinventing-rng/)
 
-- [The Gates to Hell: Apple’s Notarizing](https://www.cdfinder.de/guide/blog/apple_hell.html)
+- [Liberalizing Land Use Regulations: The Case of Houston (2020)](https://www.mercatus.org/publications/urban-economics/liberalizing-land-use-regulations-case-houston)
 
-- [India’s second wave of covid-19 feels nothing like its first](https://www.economist.com/diary/2021/04/30/indias-second-wave-of-covid-19-feels-nothing-like-its-first)
+- [First genetically modified mosquitoes released in the United States](https://www.nature.com/articles/d41586-021-01186-6)
 
-- [Apple reveals more about AirTag stalking protections](https://www.fastcompany.com/90630404/apple-airtags-could-enable-domestic-abuse-in-terrifying-ways)
+- [The Computers Are Getting Better at Writing](https://www.newyorker.com/culture/cultural-comment/the-computers-are-getting-better-at-writing)
 
-- [SSD Makers Start Warning That Mining Products Like Chia Coin Will Void Warranty](https://www.guru3d.com/news-story/ssd-makers-start-waring-that-mining-products-like-chia-coin-will-void-warranty.html)
+- [The Search for a Ranger Who Was Lost and Never Found](https://www.outsideonline.com/2421919/paul-fugate-park-ranger-search)
 
-- [Factories produced tired workers. A new frontier in fatigue studies followed](https://www.laphamsquarterly.org/roundtable/weary-work)
+- [Amazon knew seller data was used to boost company sales](https://www.politico.eu/article/amazon-seller-data-company-sales/)
 
-- [Spacewar 1 and the Beginnings of Video Game Aesthetics](https://www.masswerk.at/nowgobang/2021/spacewar1)
+- [ShellCheck: Finds bugs in your shell scripts](https://www.shellcheck.net/)
 
-- [OpenBSD Version 6.9](https://www.openbsd.org/69.html)
-
-- [New x86 micro-op vulnerability breaks all known Spectre defenses](https://www.sciencedaily.com/releases/2021/04/210430165903.htm)
+- [Seeing Like an SRE: Site Reliability Engineering as High Modernism](https://www.usenix.org/publications/loginonline/seeing-sre-site-reliability-engineering-high-modernism)
