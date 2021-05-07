@@ -1,99 +1,107 @@
-- [Extending HTML As a Hypermedia](http://discourse.wicg.io/t/extending-html-as-a-hypermedia/5294)
+- [Beyond Burger: 90% less greenhouse emissions, 99% less water, and 93% less land (2018)](http://css.umich.edu/publication/beyond-meats-beyond-burger-life-cycle-assessment-detailed-comparison-between-plant-based)
 
-- [.org doesn't mean credible](http://dotorgdoesntmeancredible.org/)
+- [Crazy New Ideas](http://paulgraham.com/newideas.html)
 
-- [Why yes I would love to inject viruses into my computer](http://len.falken.ink/misc/tool-sh.txt)
+- [Redit 2.0](http://www.kaiiv.de/redit/de/)
 
-- [Python and me, or when in Rome](http://rachelbythebay.com/w/2021/05/02/py/)
+- [Befunge-93 Interpreter in JavaScript](http://www.quirkster.com/iano/js/befunge.html)
 
-- [Statically Recompiling NES Games into Native Executables with LLVM and Go (2013)](https://andrewkelley.me/post/jamulator.html)
+- [The Once and Future Shell [PDF]](https://angelhof.github.io/files/papers/shell-2021-hotos.pdf)
 
-- [Programming in Z3 by learning to think like a compiler](https://bellmar.medium.com/programming-in-z3-by-learning-to-think-like-a-compiler-401fd46828d5)
+- [Catala: A Programming Language for the Law](https://arxiv.org/pdf/2103.03198.pdf)
 
-- [Is the era of reflection-heavy C# libraries at an end?](https://blog.marcgravell.com/2021/05/is-era-of-reflection-heavy-c-libraries.html)
+- [Shifting the impossible to the inevitable: A Private ARPA user manual](https://benjaminreinhardt.com/parpa)
 
-- [Rust's Most Unrecognized Contributor](https://brson.github.io/2021/05/02/rusts-most-unrecognized-contributor)
+- [Instruction level just-in-time programming](https://blog.asrpo.com/jit_programming)
 
-- [Why What3Words is not suitable for safety critical applications](https://cybergibbons.com/security-2/why-what3words-is-not-suitable-for-safety-critical-applications/)
+- [Branch predictor: How many "if"s are too many? Including x86 and M1 benchmarks](https://blog.cloudflare.com/branch-predictor/)
 
-- [Evolution of Emacs Lisp](https://doi.org/10.1145/3386324)
+- [A future without passwords](https://blog.google/technology/safety-security/a-simpler-and-safer-future-without-passwords/)
 
-- [Making the case for a homegrown Canadian semiconductor industry](https://financialpost.com/technology/fishing-for-chips-making-the-case-for-a-homegrown-canadian-semiconductor-industry)
+- [I Hacked Google App Engine: Anatomy of a Java Bytecode Exploit](https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html)
 
-- [The art of solving problems with Monte Carlo simulations](https://ggcarvalho.dev/posts/montecarlo/)
+- [Announcing Rust 1.52.0](https://blog.rust-lang.org/2021/05/06/Rust-1.52.0.html)
 
-- [dekuNukem/bob_cassette_rewinder](https://github.com/dekuNukem/bob_cassette_rewinder)
+- [Tip Jar](https://blog.twitter.com/en_us/topics/product/2021/introducing-tip-jar.html)
 
-- [Bootstrapping from Hex to Bison to GCC](https://github.com/fosslinux/live-bootstrap)
+- [Google Dataset Search](https://datasetsearch.research.google.com/)
 
-- [Sortable Collision-Free UUIDs](https://github.com/kpdemetriou/fuuid)
+- [The Great Rewriting In Rust](https://deprogrammaticaipsum.com/the-great-rewriting-in-rust/)
 
-- [Raspberry Pi Astronomy/Weather Clock](https://github.com/kshetline/aw-clock)
+- [The most underrated but useful Rust standard library type](https://dev.to/thepuzzlemaker/the-most-underrated-but-useful-rust-standard-library-type-59b1)
 
-- [Practical SQL for Data Analysis](https://hakibenita.com/sql-for-data-analysis)
+- [WSLg Architecture](https://devblogs.microsoft.com/commandline/wslg-architecture/)
 
-- [Show HN: IPster – Peer-to-peer simple job notifications](https://ipster.io/)
+- [Privacy Implications of Accelerometer Data [pdf]](https://dl.acm.org/doi/pdf/10.1145/3309074.3309076)
 
-- [Why a small handful of counties generates the bulk of US death sentences](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240401)
+- [ARM vs RISC-V Vector Extensions](https://erik-engheim.medium.com/arm-vs-risc-v-vector-extensions-992f201f402f)
 
-- [The Unix Magic Poster](https://jpmens.net/2021/04/09/the-unix-magic-poster/)
+- [Anime2Sketch: A sketch extractor for illustration, anime art, manga](https://github.com/Mukosame/Anime2Sketch)
 
-- [Git Signature Operations via HashiCorp Vault](https://martin.baillie.id/wrote/git-signature-operations-via-hashicorp-vault/)
+- [After discussion here, I created a lib for writing better scripts on nodejs](https://github.com/google/zx)
 
-- [Building video chat into my personal website using WebRTC, WebSockets, and Go](https://mattbutterfield.com/blog/2021-05-02-adding-video-chat)
+- [Show HN: WinBox – just like Windows, but for the web](https://github.com/nextapps-de/winbox)
 
-- [Unlearning toxic behaviors in a code review culture (2018)](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
+- [Rufus: The Reliable USB Formatting Utility](https://github.com/pbatard/rufus)
 
-- [My Favorite One Liners](https://muhammadraza.me/2021/Oneliners/)
+- [jq Internals](https://github.com/stedolan/jq/wiki/Internals:-introduction)
 
-- [Mux (YC W16) is hiring full-stack developers to focus on Elixir and TS/React apps](https://mux.com/jobs?hnj=full-stack)
+- [v0.15 of Gleam, a type safe language for the Erlang VM, has been released](https://gleam.run/news/gleam-v0.15-released/)
 
-- [Hosting SQLite databases on Github Pages - (or any static file hoster)](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
+- [1988: P.R.E.S.T.A.V.B.A.](https://if50.substack.com/p/1988-prestavba)
 
-- [The Man of the Circular Ruins](https://planetofstorms.wordpress.com/2021/03/30/the-man-of-the-circular-ruins/)
+- [Liquids and Useless Knowledge](https://johnhellion.substack.com/p/liquids-and-useless-knowledge)
 
-- [Sigil OS post-mortem report](https://portal.mozz.us/gemini/gemini.spam.works/~emery/devlog/sigil-report.gmi)
+- [Show HN: Serverless USGS historical topographic map tiles](https://kylebarron.dev/usgs-topo-mosaic)
 
-- [Show HN: ReplPad – Javascript Repl/Scratchpad](https://replpad.com/)
+- [More doorbell adventures](https://mjg59.dreamwidth.org/56917.html)
 
-- [Highres Spectrograms with the DFT Shift Theorem](https://soundshader.github.io/hss/gallery/index.html)
+- [The Case of the 50ms request](https://mysteries.wizardzines.com/50ms-request.html)
 
-- [GCC Rust Monthly Report #5 April 2021](https://thephilbert.io/2021/05/03/gcc-rust-monthly-report-5-april-2021/)
+- [Why People Feel Like Victims](https://nautil.us/issue/99/universality/why-people-feel-like-victims)
 
-- [Show HN: I built Grafar, a visualization library](https://thoughtspile.github.io/grafar?new)
+- [A centrifugal spin on a 500-year-old air compressor design](https://newatlas.com/good-thinking/carnot-centrifugal-air-compressor/)
 
-- [Kernel.org Transparency Log Monitor](https://tlog.linderud.dev/)
+- [How to survive a toxic workplace and how to avoid creating one](https://newsletter.timber.fm/p/how-to-survive-a-toxic-workplace)
 
-- [Teaching Bloom Filters new tricks](https://toao.com/blog/teaching-bloom-filters-new-tricks)
+- [Pencil Project – open-source GUI prototyping tool](https://pencil.evolus.vn/)
 
-- [RFC 7493 - The I-JSON Message Format](https://tools.ietf.org/html//rfc7493)
+- [Hatetris – Tetris which always gives you the worst piece](https://qntm.org/hatetris)
 
-- [Back in 1993, I was taking a number theory class](https://twitter.com/EricLengyel/status/1389106103179378689)
+- [Grafana for homelab monitoring—with mTLS](https://smallstep.com/blog/grafana-mtls-homelab-observability/)
 
-- [Nintendo Switch is not USB-C compliant (2017)](https://web.archive.org/web/20180329073708/https://plus.google.com/102612254593917101378/posts/2CUPZ5yVTRT)
+- [The origin of Covid: Did people or nature open Pandora’s box?](https://thebulletin.org/2021/05/the-origin-of-covid-did-people-or-nature-open-pandoras-box-at-wuhan/)
 
-- [Putting the fear of AirPlay into Yamaha YAS-207 soundbar](https://wejn.org/2021/04/multi-weekend-project-reversing-yamaha-yas-207-remote-control/)
+- [Movie Tycoon Sues YouTube over Piracy and Exposes Content-ID ‘Caveat’](https://torrentfreak.com/movie-tycoon-sues-youtube-over-piracy-and-exposes-content-id-caveat-210506/)
 
-- [Specifying State Machines with Temporal Logic](https://wickstrom.tech/programming/2021/05/03/specifying-state-machines-with-temporal-logic.html)
+- [The original “Hello World”: B. W. Kernighan's intro to B (1973)](https://web.archive.org/web/20060225195733/http://cm.bell-labs.com/cm/cs/who/dmr/btut.html)
 
-- [Contrary to Previous Belief, Strike-Slip Faults Can Generate Large Tsunamis](https://www.caltech.edu/about/news/contrary-to-previous-belief-strike-slip-faults-can-generate-large-tsunamis)
+- [Three interesting refrains of Coders at Work (2015)](https://www.benkuhn.net/caw/)
 
-- [A blood test may help the diagnosis and treatment of depression](https://www.economist.com/science-and-technology/2021/05/03/a-blood-test-may-help-the-diagnosis-and-treatment-of-depression)
+- [Cryptographic shuffle](https://www.brainonfire.net/blog/2021/05/06/cryptographic-shuffle/)
 
-- [Full Wayland Setup on Arch Linux](https://www.fosskers.ca/en/blog/wayland)
+- [FreeBSD 2021 Q1 Status Report](https://www.freebsd.org/status/report-2021-01-2021-03/)
 
-- [Evolution of random number generators](https://www.johndcook.com/blog/2021/04/29/reinventing-rng/)
+- [Nixing the Fix: An FTC Report to Congress on Repair Restrictions [pdf]](https://www.ftc.gov/system/files/documents/reports/nixing-fix-ftc-report-congress-repair-restrictions/nixing_the_fix_report_final_5521_630pm-508_002.pdf)
 
-- [Liberalizing Land Use Regulations: The Case of Houston (2020)](https://www.mercatus.org/publications/urban-economics/liberalizing-land-use-regulations-case-houston)
+- [Grain: WebAssembly-First Programming Language](https://www.infoq.com/news/2021/05/grain-web-assembly-first/)
 
-- [First genetically modified mosquitoes released in the United States](https://www.nature.com/articles/d41586-021-01186-6)
+- [Interactive IPA Chart](https://www.ipachart.com/)
 
-- [The Computers Are Getting Better at Writing](https://www.newyorker.com/culture/cultural-comment/the-computers-are-getting-better-at-writing)
+- [California is not in drought](https://www.latimes.com/opinion/story/2021-05-06/editorial-there-is-no-drought)
 
-- [The Search for a Ranger Who Was Lost and Never Found](https://www.outsideonline.com/2421919/paul-fugate-park-ranger-search)
+- [EverParse: Hardening critical attack surfaces with formally proven message parsers](https://www.microsoft.com/en-us/research/blog/everparse-hardening-critical-attack-surfaces-with-formally-proven-message-parsers/)
 
-- [Amazon knew seller data was used to boost company sales](https://www.politico.eu/article/amazon-seller-data-company-sales/)
+- [LLDB core dump support improvements](https://www.moritz.systems/blog/lldb-core-dump-support-improvements/)
 
-- [ShellCheck: Finds bugs in your shell scripts](https://www.shellcheck.net/)
+- [The Pastry A.I. That Learned to Fight Cancer](https://www.newyorker.com/tech/annals-of-technology/the-pastry-ai-that-learned-to-fight-cancer)
 
-- [Seeing Like an SRE: Site Reliability Engineering as High Modernism](https://www.usenix.org/publications/loginonline/seeing-sre-site-reliability-engineering-high-modernism)
+- [How college became a ruthless competition divorced from learning](https://www.theatlantic.com/ideas/archive/2021/05/marriage-college-status-meritocracy/618795/)
+
+- [Land with Erupting Volcanos Can Be Purchased for the Right Price](https://www.visir.is/g/20212106234d/jord-med-gjosandi-eldfjalli-faest-keypt-fyrir-rett-verd)
+
+- [Laylo (YC S20) Is Hiring](https://www.ycombinator.com/companies/laylo/jobs/ZVMFWsc-growth-marketing-lead)
+
+- [Modern C and What We Can Learn from It [video]](https://www.youtube.com/watch?v=QpAhX-gsHMs)
+
+- [I forgot how to spellcheck](https://zverok.github.io/blog/2021-05-06-how-to-spellcheck.html)
