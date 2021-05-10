@@ -1,107 +1,105 @@
-- [Beyond Burger: 90% less greenhouse emissions, 99% less water, and 93% less land (2018)](http://css.umich.edu/publication/beyond-meats-beyond-burger-life-cycle-assessment-detailed-comparison-between-plant-based)
+- [Objective-S: architecture-oriented language based on Smalltalk and Objective-C](http://objective.st/)
 
-- [Crazy New Ideas](http://paulgraham.com/newideas.html)
+- [Oil Language: Variable Declaration, Mutation, and Scope](http://www.oilshell.org/preview/doc/variables.html)
 
-- [Redit 2.0](http://www.kaiiv.de/redit/de/)
+- [The Animal Is Tired](http://www.robinhobb.com/blog/posts/38429)
 
-- [Befunge-93 Interpreter in JavaScript](http://www.quirkster.com/iano/js/befunge.html)
+- [Editorial: Creativity Lost (1978)](https://aapt.scitation.org/doi/10.1119/1.4755847)
 
-- [The Once and Future Shell [PDF]](https://angelhof.github.io/files/papers/shell-2021-hotos.pdf)
+- [Implementing Co, a Small Interpreted Language With Coroutines #1: TheParser](https://abhinavsarkar.net/posts/implementing-co-1/)
 
-- [Catala: A Programming Language for the Law](https://arxiv.org/pdf/2103.03198.pdf)
+- [Linux Air Combat (2019)](https://askmisterwizard.com/2019/LinuxAirCombat/IntroducingLinuxAirCombat.htm)
 
-- [Shifting the impossible to the inevitable: A Private ARPA user manual](https://benjaminreinhardt.com/parpa)
+- [Talking to pins](https://blog.metaobject.com/2021/05/talking-to-pins.html)
 
-- [Instruction level just-in-time programming](https://blog.asrpo.com/jit_programming)
+- [How JavaScript works: 3 types of polymorphism](https://blog.sessionstack.com/how-javascript-works-3-types-of-polymorphism-f10ff4992be1?source=collection_category---4------0-----------------------)
 
-- [Branch predictor: How many "if"s are too many? Including x86 and M1 benchmarks](https://blog.cloudflare.com/branch-predictor/)
+- [Dropping cache didn’t drop cache](https://blog.twitter.com/engineering/en_us/topics/open-source/2021/dropping-cache-didnt-drop-cache.html)
 
-- [A future without passwords](https://blog.google/technology/safety-security/a-simpler-and-safer-future-without-passwords/)
+- [Full Motion, Double High-Res Video Playback on the Apple IIe](https://bytecellar.com/2021/05/09/full-motion-double-high-res-video-playback-on-the-apple-iie/)
 
-- [I Hacked Google App Engine: Anatomy of a Java Bytecode Exploit](https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html)
+- [Introduction to Security Good Practices](https://dataswamp.org/~solene/2021-05-09-introduction-to-security.html)
 
-- [Announcing Rust 1.52.0](https://blog.rust-lang.org/2021/05/06/Rust-1.52.0.html)
+- [Why is it a bad idea to filter by zeroing out FFT bins? (2020)](https://dsp.stackexchange.com/questions/6220/why-is-it-a-bad-idea-to-filter-by-zeroing-out-fft-bins/)
 
-- [Tip Jar](https://blog.twitter.com/en_us/topics/product/2021/introducing-tip-jar.html)
+- [A review of correlations between big five personality types and life outcomes](https://dynomight.net/better-personalities/)
 
-- [Google Dataset Search](https://datasetsearch.research.google.com/)
+- [Eleven Ways of Smelling a Tree (2020)](https://emergencemagazine.org/essay/eleven-ways/)
 
-- [The Great Rewriting In Rust](https://deprogrammaticaipsum.com/the-great-rewriting-in-rust/)
+- [Learning how to think (2015)](https://fs.blog/2015/08/how-to-think/)
 
-- [The most underrated but useful Rust standard library type](https://dev.to/thepuzzlemaker/the-most-underrated-but-useful-rust-standard-library-type-59b1)
+- [PocketPCR](https://gaudi.ch/PocketPCR/)
 
-- [WSLg Architecture](https://devblogs.microsoft.com/commandline/wslg-architecture/)
+- [Conway's game of life in TypeScript, with optimizations from Graphics Programming Black Book](https://github.com/ahuth/conway4)
 
-- [Privacy Implications of Accelerometer Data [pdf]](https://dl.acm.org/doi/pdf/10.1145/3309074.3309076)
+- [qbist/aqo - Open source air quality display](https://github.com/qubist/aqo)
 
-- [ARM vs RISC-V Vector Extensions](https://erik-engheim.medium.com/arm-vs-risc-v-vector-extensions-992f201f402f)
+- [Shelljs – Portable Unix shell commands for Node.js](https://github.com/shelljs/shelljs)
 
-- [Anime2Sketch: A sketch extractor for illustration, anime art, manga](https://github.com/Mukosame/Anime2Sketch)
+- [microblog.pub:  A self-hosted, single-user, ActivityPub powered microblog](https://github.com/tsileo/microblog.pub)
 
-- [After discussion here, I created a lib for writing better scripts on nodejs](https://github.com/google/zx)
+- [NewsFlash: GTK RSS reader app written in Rust](https://gitlab.com/news-flash/news_flash_gtk)
 
-- [Show HN: WinBox – just like Windows, but for the web](https://github.com/nextapps-de/winbox)
+- [Astrobiologists have released the preliminary results of a SETI survey](https://gizmodo.com/60-million-stars-and-not-one-alien-detected-1846813945)
 
-- [Rufus: The Reliable USB Formatting Utility](https://github.com/pbatard/rufus)
+- [Flakes are such an obviously good thing: ...but the design and development process should be better](https://grahamc.com/blog/flakes-are-an-obviously-good-thing)
 
-- [jq Internals](https://github.com/stedolan/jq/wiki/Internals:-introduction)
+- [Announcing Hanami v2.0.0.alpha2](https://hanamirb.org/blog/2021/05/04/announcing-hanami-200alpha2/)
 
-- [v0.15 of Gleam, a type safe language for the Erlang VM, has been released](https://gleam.run/news/gleam-v0.15-released/)
+- [Why I Love Coding (2012)](https://henrikwarne.com/2012/06/02/why-i-love-coding/)
 
-- [1988: P.R.E.S.T.A.V.B.A.](https://if50.substack.com/p/1988-prestavba)
+- [AMD server CPUs capture highest market share gains from Intel in 15 years](https://hothardware.com/news/amd-epyc-server-cpu-gains-highest-share-intel-15-years)
 
-- [Liquids and Useless Knowledge](https://johnhellion.substack.com/p/liquids-and-useless-knowledge)
+- [BuildZoom (better way to build custom homes) is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 
-- [Show HN: Serverless USGS historical topographic map tiles](https://kylebarron.dev/usgs-topo-mosaic)
+- [Homoiconicity & Feature Flags](https://martinklepsch.org/posts/homoiconicity-and-feature-flags.html)
 
-- [More doorbell adventures](https://mjg59.dreamwidth.org/56917.html)
+- [-fno-semantic-interposition](https://maskray.me/blog/2021-05-09-fno-semantic-interposition)
 
-- [The Case of the 50ms request](https://mysteries.wizardzines.com/50ms-request.html)
+- [React Native for Windows + macOS](https://microsoft.github.io/react-native-windows/blog/2021/03/16/64updates)
 
-- [Why People Feel Like Victims](https://nautil.us/issue/99/universality/why-people-feel-like-victims)
+- [Tracking One Year of Malicious Tor Exit Relay Activities (Part II)](https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df)
 
-- [A centrifugal spin on a 500-year-old air compressor design](https://newatlas.com/good-thinking/carnot-centrifugal-air-compressor/)
+- [Adding zoom and pan effects to SVG](https://onestepcode.com/zoom-pan-effect-svg/)
 
-- [How to survive a toxic workplace and how to avoid creating one](https://newsletter.timber.fm/p/how-to-survive-a-toxic-workplace)
+- [Loose ideas for operating systems](https://sporks.space/2021/05/09/loose-ideas-for-operating-systems/)
 
-- [Pencil Project – open-source GUI prototyping tool](https://pencil.evolus.vn/)
+- [The Syslog Hell](https://techblog.bozho.net/the-syslog-hell/)
 
-- [Hatetris – Tetris which always gives you the worst piece](https://qntm.org/hatetris)
+- [Show HN: Run your ghost blog on Raspberry Pi for free](https://viggy28.dev/article/setting-up-ghost-in-raspberry-pi-for-free/)
 
-- [Grafana for homelab monitoring—with mTLS](https://smallstep.com/blog/grafana-mtls-homelab-observability/)
+- [US passes emergency waiver over fuel pipeline cyber-attack](https://www.bbc.com/news/business-57050690)
 
-- [The origin of Covid: Did people or nature open Pandora’s box?](https://thebulletin.org/2021/05/the-origin-of-covid-did-people-or-nature-open-pandoras-box-at-wuhan/)
+- [Why do we buy into the 'cult' of overwork?](https://www.bbc.com/worklife/article/20210507-why-we-glorify-the-cult-of-burnout-and-overwork)
 
-- [Movie Tycoon Sues YouTube over Piracy and Exposes Content-ID ‘Caveat’](https://torrentfreak.com/movie-tycoon-sues-youtube-over-piracy-and-exposes-content-id-caveat-210506/)
+- [The global chip shortage is starting to have consequences](https://www.cnbc.com/2021/05/07/chip-shortage-is-starting-to-have-major-real-world-consequences.html)
 
-- [The original “Hello World”: B. W. Kernighan's intro to B (1973)](https://web.archive.org/web/20060225195733/http://cm.bell-labs.com/cm/cs/who/dmr/btut.html)
+- [The Hypnotic World of Degenerate Spirals](https://www.dogatekin.com/blog/hypnotic-degenerate-spirals/)
 
-- [Three interesting refrains of Coders at Work (2015)](https://www.benkuhn.net/caw/)
+- [New technology has enabled cyber-crime on an industrial scale](https://www.economist.com/international/2021/05/06/new-technology-has-enabled-cyber-crime-on-an-industrial-scale)
 
-- [Cryptographic shuffle](https://www.brainonfire.net/blog/2021/05/06/cryptographic-shuffle/)
+- [The Lives of Napoleon](https://www.historytoday.com/archive/review/lives-napoleon)
 
-- [FreeBSD 2021 Q1 Status Report](https://www.freebsd.org/status/report-2021-01-2021-03/)
+- [A Comparison between Rust and Erlang (2018)](https://www.infoq.com/articles/rust-erlang-comparison/)
 
-- [Nixing the Fix: An FTC Report to Congress on Repair Restrictions [pdf]](https://www.ftc.gov/system/files/documents/reports/nixing-fix-ftc-report-congress-repair-restrictions/nixing_the_fix_report_final_5521_630pm-508_002.pdf)
+- [The Ultimate Guide to Inflation](https://www.lynalden.com/inflation/)
 
-- [Grain: WebAssembly-First Programming Language](https://www.infoq.com/news/2021/05/grain-web-assembly-first/)
+- [pfSense - WireGuard Returns as Experimental Package](https://www.netgate.com/blog/pfsense-wireguard-returns-as-an-experimental-package.html)
 
-- [Interactive IPA Chart](https://www.ipachart.com/)
+- [Online cheating charges upend Dartmouth Medical School](https://www.nytimes.com/2021/05/09/technology/dartmouth-geisel-medical-cheating.html)
 
-- [California is not in drought](https://www.latimes.com/opinion/story/2021-05-06/editorial-there-is-no-drought)
+- [Commodore’s Assemblers: Overview](https://www.pagetable.com/?p=1518)
 
-- [EverParse: Hardening critical attack surfaces with formally proven message parsers](https://www.microsoft.com/en-us/research/blog/everparse-hardening-critical-attack-surfaces-with-formally-proven-message-parsers/)
+- [Show HN: RonDB – fast key-value database in the cloud](https://www.rondb.com/)
 
-- [LLDB core dump support improvements](https://www.moritz.systems/blog/lldb-core-dump-support-improvements/)
+- [The Mortifying Ordeal of Pairing All Day](https://www.simplermachines.com/the-mortifying-ordeal-of-pairing-all-day/)
 
-- [The Pastry A.I. That Learned to Fight Cancer](https://www.newyorker.com/tech/annals-of-technology/the-pastry-ai-that-learned-to-fight-cancer)
+- [History of RSpec](https://www.stevenrbaker.com/tech/history-of-rspec.html)
 
-- [How college became a ruthless competition divorced from learning](https://www.theatlantic.com/ideas/archive/2021/05/marriage-college-status-meritocracy/618795/)
+- [Simple bank shutdown goes awry, leaving customers without account access](https://www.theverge.com/2021/5/9/22427811/simple-bbva-transition-errors-bank-shutdown)
 
-- [Land with Erupting Volcanos Can Be Purchased for the Right Price](https://www.visir.is/g/20212106234d/jord-med-gjosandi-eldfjalli-faest-keypt-fyrir-rett-verd)
+- [ST-NeRF: Compositing and Editing for Video Synthesis](https://www.unite.ai/st-nerf-compositing-and-editing-for-video-synthesis/)
 
-- [Laylo (YC S20) Is Hiring](https://www.ycombinator.com/companies/laylo/jobs/ZVMFWsc-growth-marketing-lead)
+- [VScape: Assessing and Escaping Virtual Call Protections](https://www.usenix.org/system/files/sec21fall-chen-kaixiang.pdf)
 
-- [Modern C and What We Can Learn from It [video]](https://www.youtube.com/watch?v=QpAhX-gsHMs)
-
-- [I forgot how to spellcheck](https://zverok.github.io/blog/2021-05-06-how-to-spellcheck.html)
+- [Linus Torvalds on Why Desktop Linux Sucks (2014)](https://www.youtube.com/watch?v=Pzl1B7nB9Kc)
