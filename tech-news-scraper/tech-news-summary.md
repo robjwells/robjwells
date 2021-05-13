@@ -1,105 +1,105 @@
-- [Objective-S: architecture-oriented language based on Smalltalk and Objective-C](http://objective.st/)
+- [Erlang/OTP 24 Highlights](http://blog.erlang.org/My-OTP-24-Highlights/)
 
-- [Oil Language: Variable Declaration, Mutation, and Scope](http://www.oilshell.org/preview/doc/variables.html)
+- [aiomixer, X/Open Curses and ncurses, and other news](http://blog.netbsd.org/tnf/entry/aiomixer_x_open_curses_and)
 
-- [The Animal Is Tired](http://www.robinhobb.com/blog/posts/38429)
+- [Network Realism: William Gibson and new forms of fiction (2010)](http://booktwo.org/notebook/network-realism/)
 
-- [Editorial: Creativity Lost (1978)](https://aapt.scitation.org/doi/10.1119/1.4755847)
+- [The Importance of Humility in Software Development](http://humbletoolsmith.com/2020/08/10/the-importance-of-humility-in-software-development/)
 
-- [Implementing Co, a Small Interpreted Language With Coroutines #1: TheParser](https://abhinavsarkar.net/posts/implementing-co-1/)
+- [Random Walks (2009)](http://pi.math.cornell.edu/~mec/Winter2009/Thompson/randomwalks.html)
 
-- [Linux Air Combat (2019)](https://askmisterwizard.com/2019/LinuxAirCombat/IntroducingLinuxAirCombat.htm)
+- [Google Docs will now use canvas based rendering](http://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html)
 
-- [Talking to pins](https://blog.metaobject.com/2021/05/talking-to-pins.html)
+- [comp.sys.m68k Frequently Asked Questions (FAQ)](http://www.faqs.org/faqs/motorola/68k-chips-faq/)
 
-- [How JavaScript works: 3 types of polymorphism](https://blog.sessionstack.com/how-javascript-works-3-types-of-polymorphism-f10ff4992be1?source=collection_category---4------0-----------------------)
+- [One person's war on junk mail (1996)](http://www.langston.com/Fun_People/1996/1996AEK.html)
 
-- [Dropping cache didn’t drop cache](https://blog.twitter.com/engineering/en_us/topics/open-source/2021/dropping-cache-didnt-drop-cache.html)
+- [Managing Dotfiles with GNU Stow](https://alexpearce.me/2016/02/managing-dotfiles-with-stow/)
 
-- [Full Motion, Double High-Res Video Playback on the Apple IIe](https://bytecellar.com/2021/05/09/full-motion-double-high-res-video-playback-on-the-apple-iie/)
+- [Neural implant lets paralyzed person type by imagining writing](https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/)
 
-- [Introduction to Security Good Practices](https://dataswamp.org/~solene/2021-05-09-introduction-to-security.html)
+- [CSS Houdini](https://developer.mozilla.org/en-US/docs/Web/Houdini)
 
-- [Why is it a bad idea to filter by zeroing out FFT bins? (2020)](https://dsp.stackexchange.com/questions/6220/why-is-it-a-bad-idea-to-filter-by-zeroing-out-fft-bins/)
+- [Haiku RISC-V port progress](https://discuss.haiku-os.org/t/my-haiku-risc-v-port-progress/10663/86)
 
-- [A review of correlations between big five personality types and life outcomes](https://dynomight.net/better-personalities/)
+- [Reverse Engineering an Unknown Microcontroller](https://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller)
 
-- [Eleven Ways of Smelling a Tree (2020)](https://emergencemagazine.org/essay/eleven-ways/)
+- [JWT should not be your default for sessions](https://evertpot.com/jwt-is-a-bad-default/)
 
-- [Learning how to think (2015)](https://fs.blog/2015/08/how-to-think/)
+- [CP/M for OS X](https://github.com/TomHarte/CP-M-for-OS-X)
 
-- [PocketPCR](https://gaudi.ch/PocketPCR/)
+- [Show HN: I wrote my own RTS game engine in C](https://github.com/eduard-permyakov/permafrost-engine)
 
-- [Conway's game of life in TypeScript, with optimizations from Graphics Programming Black Book](https://github.com/ahuth/conway4)
+- [An analysis of Bitcoin's throughput bottlenecks](https://github.com/fresheneesz/bitcoinThroughputAnalysis)
 
-- [qbist/aqo - Open source air quality display](https://github.com/qubist/aqo)
+- [Magit for VS Code](https://github.com/kahole/edamagit)
 
-- [Shelljs – Portable Unix shell commands for Node.js](https://github.com/shelljs/shelljs)
+- [Qdrant: a vector similarity search engine](https://github.com/qdrant/qdrant)
 
-- [microblog.pub:  A self-hosted, single-user, ActivityPub powered microblog](https://github.com/tsileo/microblog.pub)
+- [GNU Guix 1.3.0 released](https://guix.gnu.org/blog/2021/gnu-guix-1.3.0-released/)
 
-- [NewsFlash: GTK RSS reader app written in Rust](https://gitlab.com/news-flash/news_flash_gtk)
+- [Practical Design Patterns: Opaque Pointers and Objects in C](https://interrupt.memfault.com/blog/opaque-pointers)
 
-- [Astrobiologists have released the preliminary results of a SETI survey](https://gizmodo.com/60-million-stars-and-not-one-alien-detected-1846813945)
+- [Kobra – visual programming language for machine learning](https://kobra.dev/)
 
-- [Flakes are such an obviously good thing: ...but the design and development process should be better](https://grahamc.com/blog/flakes-are-an-obviously-good-thing)
+- [WHO List of Essential Medicines](https://list.essentialmeds.org/)
 
-- [Announcing Hanami v2.0.0.alpha2](https://hanamirb.org/blog/2021/05/04/announcing-hanami-200alpha2/)
+- [A pair of memory-allocation improvements in Linux 5.13](https://lwn.net/SubscriberLink/855226/72737207b5650d33/)
 
-- [Why I Love Coding (2012)](https://henrikwarne.com/2012/06/02/why-i-love-coding/)
+- [Pyodide: Python for the Browser](https://lwn.net/SubscriberLink/855875/25b1611bb7e4c9a4/)
 
-- [AMD server CPUs capture highest market share gains from Intel in 15 years](https://hothardware.com/news/amd-epyc-server-cpu-gains-highest-share-intel-15-years)
+- [Air Pollution Linked to Increased Mental Health Outpatient Visits](https://medicine.yale.edu/news-article/air-pollution-linked-to-increased-mental-health-outpatient-visits/)
 
-- [BuildZoom (better way to build custom homes) is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [OrGY: My Personal Technology Stack](https://ols.wtf/2021/05/10/orgy-personal-tech-stack.html)
 
-- [Homoiconicity & Feature Flags](https://martinklepsch.org/posts/homoiconicity-and-feature-flags.html)
+- [Open source mechanical Swiss watch movement](https://openmovement.org/)
 
-- [-fno-semantic-interposition](https://maskray.me/blog/2021-05-09-fno-semantic-interposition)
+- [New Major Versions Released! Flask 2.0, Werkzeug 2.0, Jinja 3.0, Click 8.0, ItsDangerous 2.0, and MarkupSafe 2.0](https://palletsprojects.com/blog/flask-2-0-released/)
 
-- [React Native for Windows + macOS](https://microsoft.github.io/react-native-windows/blog/2021/03/16/64updates)
+- [Send My: Arbitrary data transmission via Apple's Find My network](https://positive.security/blog/send-my)
 
-- [Tracking One Year of Malicious Tor Exit Relay Activities (Part II)](https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df)
+- [Ada in 2021 Overview](https://pyjarrett.github.io/programming-with-ada/000-overview.html)
 
-- [Adding zoom and pan effects to SVG](https://onestepcode.com/zoom-pan-effect-svg/)
+- [Docker can slow down your code and distort your benchmarks](https://pythonspeed.com/articles/docker-performance-overhead/)
 
-- [Loose ideas for operating systems](https://sporks.space/2021/05/09/loose-ideas-for-operating-systems/)
+- [It compiles does not always mean that it works](https://raymii.org/s/articles/It_compiles_does_not_always_means_that_it_works.html)
 
-- [The Syslog Hell](https://techblog.bozho.net/the-syslog-hell/)
+- [Relationship Hero is hiring coaches – Full Time Remote](https://relationshiphero.com/careers?role=coach)
 
-- [Show HN: Run your ghost blog on Raspberry Pi for free](https://viggy28.dev/article/setting-up-ghost-in-raspberry-pi-for-free/)
+- [Benchmarking division and libdivide on Apple M1 and Intel AVX512](https://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html)
 
-- [US passes emergency waiver over fuel pipeline cyber-attack](https://www.bbc.com/news/business-57050690)
+- [The room where it happens: How Rails gets made](https://schneems.com/2021/05/12/the-room-where-it-happens-how-rails-gets-made/)
 
-- [Why do we buy into the 'cult' of overwork?](https://www.bbc.com/worklife/article/20210507-why-we-glorify-the-cult-of-burnout-and-overwork)
+- [Hello, OpenPGP CA](https://sequoia-pgp.org/blog/2021/05/12/202105-hello-openpgp-ca/)
 
-- [The global chip shortage is starting to have consequences](https://www.cnbc.com/2021/05/07/chip-shortage-is-starting-to-have-major-real-world-consequences.html)
+- [Soapbox BE: a new Pleroma fork](https://soapbox.pub/blog/announcing-soapbox-be-v1.0/)
 
-- [The Hypnotic World of Degenerate Spirals](https://www.dogatekin.com/blog/hypnotic-degenerate-spirals/)
+- [Building a Space-Based ISP](https://stackoverflow.blog/2021/05/11/building-a-space-based-isp/)
 
-- [New technology has enabled cyber-crime on an industrial scale](https://www.economist.com/international/2021/05/06/new-technology-has-enabled-cyber-crime-on-an-industrial-scale)
+- [Google Docs will now use canvas based rendering](https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html)
 
-- [The Lives of Napoleon](https://www.historytoday.com/archive/review/lives-napoleon)
+- [Uber used 50 Dutch shell companies to dodge taxes on $6B in revenue](https://www.businessinsider.com.au/uber-tax-avoidance-50-dutch-shell-companies-5-billion-revenue-2021-5)
 
-- [A Comparison between Rust and Erlang (2018)](https://www.infoq.com/articles/rust-erlang-comparison/)
+- [Speedbuilding LLVM/Clang in 2 minutes on ARM](https://www.cambus.net/speedbuilding-llvm-clang-in-2-minutes-on-arm/)
 
-- [The Ultimate Guide to Inflation](https://www.lynalden.com/inflation/)
+- [Speedbuilding LLVM/Clang in 5 minutes](https://www.cambus.net/speedbuilding-llvm-clang-in-5-minutes/)
 
-- [pfSense - WireGuard Returns as Experimental Package](https://www.netgate.com/blog/pfsense-wireguard-returns-as-an-experimental-package.html)
+- [Reverse-Engineering a CRC Algorithm (2010)](https://www.cosc.canterbury.ac.nz/greg.ewing/essays/CRC-Reverse-Engineering.html)
 
-- [Online cheating charges upend Dartmouth Medical School](https://www.nytimes.com/2021/05/09/technology/dartmouth-geisel-medical-cheating.html)
+- [A Brief History of People Losing Their Minds in Antarctica](https://www.gq.com/story/insane-in-antarctica-excerpt)
 
-- [Commodore’s Assemblers: Overview](https://www.pagetable.com/?p=1518)
+- [How to design a sailing ship for the 21st century?](https://www.lowtechmagazine.com/2021/05/how-to-design-a-sailing-ship-for-the-21st-century.html)
 
-- [Show HN: RonDB – fast key-value database in the cloud](https://www.rondb.com/)
+- [The disappearance of a Soviet skiing party in 1959](https://www.newyorker.com/magazine/2021/05/17/has-an-old-soviet-mystery-at-last-been-solved)
 
-- [The Mortifying Ordeal of Pairing All Day](https://www.simplermachines.com/the-mortifying-ordeal-of-pairing-all-day/)
+- [NumWorks – An open source Graphing Calculator](https://www.numworks.com/)
 
-- [History of RSpec](https://www.stevenrbaker.com/tech/history-of-rspec.html)
+- [FLOSS and linguistic diversity](https://www.paulox.net/2021/05/12/floss-and-linguistic-diversity/)
 
-- [Simple bank shutdown goes awry, leaving customers without account access](https://www.theverge.com/2021/5/9/22427811/simple-bbva-transition-errors-bank-shutdown)
+- [PEP 659 -- Specializing Adaptive Interpreter](https://www.python.org/dev/peps/pep-0659/)
 
-- [ST-NeRF: Compositing and Editing for Video Synthesis](https://www.unite.ai/st-nerf-compositing-and-editing-for-video-synthesis/)
+- [Instagram, Twitter blame glitches for deleting Palestinian posts](https://www.reuters.com/article/israel-palestinians-socialmedia-idUSL8N2MU624)
 
-- [VScape: Assessing and Escaping Virtual Call Protections](https://www.usenix.org/system/files/sec21fall-chen-kaixiang.pdf)
+- [Fuck the Bread. The Bread Is Over](https://www.theparisreview.org/blog/2020/05/07/fuck-the-bread-the-bread-is-over/)
 
-- [Linus Torvalds on Why Desktop Linux Sucks (2014)](https://www.youtube.com/watch?v=Pzl1B7nB9Kc)
+- [Covid-19 Was 'A Preventable Disaster,' WHO-Ordered Report Says](https://www.wbur.org/npr/996284927/covid-19-was-a-preventable-disaster-who-ordered-report-states)
