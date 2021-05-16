@@ -1,105 +1,105 @@
-- [Erlang/OTP 24 Highlights](http://blog.erlang.org/My-OTP-24-Highlights/)
+- [Shirts of Peter Norvig](http://charlesbroskoski.com/_/view.php?id=shirts-of-peter-norvig)
 
-- [aiomixer, X/Open Curses and ncurses, and other news](http://blog.netbsd.org/tnf/entry/aiomixer_x_open_curses_and)
+- [Why Heideggerian AI Failed and how Fixing it would Require making it more Heideggerian](http://files.meetup.com/119715/WhyHeideggerianAIFailed.pdf)
 
-- [Network Realism: William Gibson and new forms of fiction (2010)](http://booktwo.org/notebook/network-realism/)
+- [The True Size of Africa (2015)](http://kai.sub.blue/en/africa.html)
 
-- [The Importance of Humility in Software Development](http://humbletoolsmith.com/2020/08/10/the-importance-of-humility-in-software-development/)
+- [Show HN: ThingsTwin – 3D House Plan Based UI for Smart Home](http://thingstwin.com/)
 
-- [Random Walks (2009)](http://pi.math.cornell.edu/~mec/Winter2009/Thompson/randomwalks.html)
+- [All About Cockatoos (2002)](http://www.mytoos.com/main.shtml)
 
-- [Google Docs will now use canvas based rendering](http://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html)
+- [5 things I learned while developing a billing system](https://arnon.dk/5-things-i-learned-developing-billing-system/)
 
-- [comp.sys.m68k Frequently Asked Questions (FAQ)](http://www.faqs.org/faqs/motorola/68k-chips-faq/)
+- [Bibliogram – Open-source front-end for Instagram](https://bibliogram.art)
 
-- [One person's war on junk mail (1996)](http://www.langston.com/Fun_People/1996/1996AEK.html)
+- [Things you can’t do in Rust (and what to do instead)](https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/)
 
-- [Managing Dotfiles with GNU Stow](https://alexpearce.me/2016/02/managing-dotfiles-with-stow/)
+- [Six Years of Rust](https://blog.rust-lang.org/2021/05/15/six-years-of-rust.html)
 
-- [Neural implant lets paralyzed person type by imagining writing](https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/)
+- [A love letter to s7 Scheme (2016)](https://carloscarrasco.com/love-letter-to-s7-scheme/)
 
-- [CSS Houdini](https://developer.mozilla.org/en-US/docs/Web/Houdini)
+- [I have a lot to say about Signal’s Cellebrite hack](https://cyberlaw.stanford.edu/blog/2021/05/i-have-lot-say-about-signal%E2%80%99s-cellebrite-hack)
 
-- [Haiku RISC-V port progress](https://discuss.haiku-os.org/t/my-haiku-risc-v-port-progress/10663/86)
+- [Caproni Ca.60](https://en.wikipedia.org/wiki/Caproni_Ca.60)
 
-- [Reverse Engineering an Unknown Microcontroller](https://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller)
+- [PipeWire: the new audio and video daemon in Fedora Linux 34](https://fedoramagazine.org/pipewire-the-new-audio-and-video-daemon-in-fedora-linux-34/)
 
-- [JWT should not be your default for sessions](https://evertpot.com/jwt-is-a-bad-default/)
+- [Peak non-creepy dating pool](https://flowingdata.com/projects/2018/dating-pool/)
 
-- [CP/M for OS X](https://github.com/TomHarte/CP-M-for-OS-X)
+- [Nim 2.0 -- thoughts](https://forum.nim-lang.org/t/7983)
 
-- [Show HN: I wrote my own RTS game engine in C](https://github.com/eduard-permyakov/permafrost-engine)
+- [Making Your Own Tools](https://futureofcoding.org/episodes/044)
 
-- [An analysis of Bitcoin's throughput bottlenecks](https://github.com/fresheneesz/bitcoinThroughputAnalysis)
+- [Offline-First PWA for Plotly Visualization of CSV via SQLite](https://github.com/lana-k/sqliteviz)
 
-- [Magit for VS Code](https://github.com/kahole/edamagit)
+- [Parsix: Parse Don't Validate](https://github.com/parsix/parsix)
 
-- [Qdrant: a vector similarity search engine](https://github.com/qdrant/qdrant)
+- [The Graphics Gremlin: a Retro ISA Video Card](https://github.com/schlae/graphics-gremlin)
 
-- [GNU Guix 1.3.0 released](https://guix.gnu.org/blog/2021/gnu-guix-1.3.0-released/)
+- [Design structured diagrams, built to increase your team's trust in your docs](https://icepanel.io/)
 
-- [Practical Design Patterns: Opaque Pointers and Objects in C](https://interrupt.memfault.com/blog/opaque-pointers)
+- [Waymo AV Freaked Out by Traffic Cones, Blocks Traffic, Evades Support Vehicles](https://jalopnik.com/watch-a-waymo-av-get-freaked-out-by-traffic-cones-bloc-1846897182)
 
-- [Kobra – visual programming language for machine learning](https://kobra.dev/)
+- [Extracting Data from Tracking Devices](https://jeffhuang.com/extracting_data_from_tracking_devices/)
 
-- [WHO List of Essential Medicines](https://list.essentialmeds.org/)
+- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 
-- [A pair of memory-allocation improvements in Linux 5.13](https://lwn.net/SubscriberLink/855226/72737207b5650d33/)
+- [Paper notes (2019)](https://macwright.com/2019/01/02/paper-notes.html)
 
-- [Pyodide: Python for the Browser](https://lwn.net/SubscriberLink/855875/25b1611bb7e4c9a4/)
+- [Unix Philosophy with an Example](https://massimo-nazaria.github.io/blog/2019/03/02/unix-philosophy-with-an-example.html)
 
-- [Air Pollution Linked to Increased Mental Health Outpatient Visits](https://medicine.yale.edu/news-article/air-pollution-linked-to-increased-mental-health-outpatient-visits/)
+- [Learn ORCΛ](https://metasyn.github.io/learn-orca/)
 
-- [OrGY: My Personal Technology Stack](https://ols.wtf/2021/05/10/orgy-personal-tech-stack.html)
+- [The Midnight Pub](https://midnight.pub/)
 
-- [Open source mechanical Swiss watch movement](https://openmovement.org/)
+- [The stack monoid revisited](https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html)
 
-- [New Major Versions Released! Flask 2.0, Werkzeug 2.0, Jinja 3.0, Click 8.0, ItsDangerous 2.0, and MarkupSafe 2.0](https://palletsprojects.com/blog/flask-2-0-released/)
+- [ML model can classify sex from retinal photograph, clinicians can't](https://rdcu.be/ckFPK)
 
-- [Send My: Arbitrary data transmission via Apple's Find My network](https://positive.security/blog/send-my)
+- [Inside the Hidden World of Legacy IT Systems](https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems)
 
-- [Ada in 2021 Overview](https://pyjarrett.github.io/programming-with-ada/000-overview.html)
+- [The chip shortage could lead to an era of hardware innovation](https://staceyoniot.com/the-chip-shortage-could-lead-to-an-era-of-hardware-innovation/)
 
-- [Docker can slow down your code and distort your benchmarks](https://pythonspeed.com/articles/docker-performance-overhead/)
+- [Absolute wealth, relative wealth, taxes, and staying rich](https://summation.net/2021/05/07/absolute-wealth-relative-wealth-taxes-and-staying-rich/)
 
-- [It compiles does not always mean that it works](https://raymii.org/s/articles/It_compiles_does_not_always_means_that_it_works.html)
+- [Simple things are complicated: making a show password option](https://technology.blog.gov.uk/2021/04/19/simple-things-are-complicated-making-a-show-password-option)
 
-- [Relationship Hero is hiring coaches – Full Time Remote](https://relationshiphero.com/careers?role=coach)
+- [Developing MLB’s Automated Ball/Strike System](https://technology.mlblogs.com/developing-mlbs-automated-ball-strike-system-abs-d4f499deff31)
 
-- [Benchmarking division and libdivide on Apple M1 and Intel AVX512](https://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html)
+- [TIL: Tcl-inspired command language on top of D](https://til-lang.github.io/til/)
 
-- [The room where it happens: How Rails gets made](https://schneems.com/2021/05/12/the-room-where-it-happens-how-rails-gets-made/)
+- [Modern Javascript: Everything you missed over the last 10 years (2020)](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
 
-- [Hello, OpenPGP CA](https://sequoia-pgp.org/blog/2021/05/12/202105-hello-openpgp-ca/)
+- [The Bourne shell and Bash aren't the right languages for larger programs](https://utcc.utoronto.ca/~cks/space/blog/programming/BourneBadForLargeScripts)
 
-- [Soapbox BE: a new Pleroma fork](https://soapbox.pub/blog/announcing-soapbox-be-v1.0/)
+- [Emacs is Superman](https://wiki.c2.com/?EmacsIsSuperman)
 
-- [Building a Space-Based ISP](https://stackoverflow.blog/2021/05/11/building-a-space-based-isp/)
+- [The Open-Source Software bubble that is and the blogging bubble that was](https://www.baldurbjarnason.com/2021/the-oss-bubble-and-the-blogging-bubble/)
 
-- [Google Docs will now use canvas based rendering](https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html)
+- [Drain brain: The secret life of a gutter enthusiast](https://www.bbc.com/news/uk-england-london-56281464)
 
-- [Uber used 50 Dutch shell companies to dodge taxes on $6B in revenue](https://www.businessinsider.com.au/uber-tax-avoidance-50-dutch-shell-companies-5-billion-revenue-2021-5)
+- [in search of a dynamic medium](https://www.dgsiegel.net/articles/in-search-of-a-dynamic-medium)
 
-- [Speedbuilding LLVM/Clang in 2 minutes on ARM](https://www.cambus.net/speedbuilding-llvm-clang-in-2-minutes-on-arm/)
+- [Knitting a Road with Stones and String](https://www.economist.com/science-and-technology/2021/05/08/knitting-a-road-with-stones-and-string)
 
-- [Speedbuilding LLVM/Clang in 5 minutes](https://www.cambus.net/speedbuilding-llvm-clang-in-5-minutes/)
+- [The Neural Net Tank Urban Legend](https://www.gwern.net/Tanks)
 
-- [Reverse-Engineering a CRC Algorithm (2010)](https://www.cosc.canterbury.ac.nz/greg.ewing/essays/CRC-Reverse-Engineering.html)
+- [AmigaOS 3.2 for all Classic Amigas released and available](https://www.hyperion-entertainment.com/index.php/news/1-latest-news/290-amigaos-42-for-all-classic-amigas-released-and-available)
 
-- [A Brief History of People Losing Their Minds in Antarctica](https://www.gq.com/story/insane-in-antarctica-excerpt)
+- [Lessons learned creating a real-time multiplayer Tic-Tac-Toe game with Nun DB](https://www.linkedin.com/pulse/lessons-learned-creating-real-time-multiplayer-game-nun-k%25C3%25B6hler/)
 
-- [How to design a sailing ship for the 21st century?](https://www.lowtechmagazine.com/2021/05/how-to-design-a-sailing-ship-for-the-21st-century.html)
+- [Was cancer less likely in a pre-industrial world?](https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world)
 
-- [The disappearance of a Soviet skiing party in 1959](https://www.newyorker.com/magazine/2021/05/17/has-an-old-soviet-mystery-at-last-been-solved)
+- [The Strangeness of Our Animal Bonds](https://www.newyorker.com/science/elements/the-strangeness-of-our-animal-bonds)
 
-- [NumWorks – An open source Graphing Calculator](https://www.numworks.com/)
+- [Commodore’s Assemblers: Part 1: MOS Cross-Assembler](https://www.pagetable.com/?p=1520)
 
-- [FLOSS and linguistic diversity](https://www.paulox.net/2021/05/12/floss-and-linguistic-diversity/)
+- [Watches from the Soviet Union](https://www.rbth.com/longreads/soviet-watches/)
 
-- [PEP 659 -- Specializing Adaptive Interpreter](https://www.python.org/dev/peps/pep-0659/)
+- [Scala 3 is here](https://www.scala-lang.org/blog/2021/05/14/scala3-is-here.html)
 
-- [Instagram, Twitter blame glitches for deleting Palestinian posts](https://www.reuters.com/article/israel-palestinians-socialmedia-idUSL8N2MU624)
+- [What the Media Gets Wrong About Israel](https://www.theatlantic.com/international/archive/2014/11/how-the-media-makes-the-israel-story/383262/)
 
-- [Fuck the Bread. The Bread Is Over](https://www.theparisreview.org/blog/2020/05/07/fuck-the-bread-the-bread-is-over/)
+- [Creating an AppleScript Droplet](https://www.youtube.com/watch?v=4wYO2ubaTrU)
 
-- [Covid-19 Was 'A Preventable Disaster,' WHO-Ordered Report Says](https://www.wbur.org/npr/996284927/covid-19-was-a-preventable-disaster-who-ordered-report-states)
+- [MicroFPGA – A coming revolution in small electronics (2019) [video]](https://www.youtube.com/watch?v=ME_e06ApxJA)
