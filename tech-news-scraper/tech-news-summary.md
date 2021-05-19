@@ -1,105 +1,99 @@
-- [Shirts of Peter Norvig](http://charlesbroskoski.com/_/view.php?id=shirts-of-peter-norvig)
+- [Multiplayer Doom on Cloudflare Workers](https://blog.cloudflare.com/doom-multiplayer-workers/)
 
-- [Why Heideggerian AI Failed and how Fixing it would Require making it more Heideggerian](http://files.meetup.com/119715/WhyHeideggerianAIFailed.pdf)
+- [Ethereum will use around 99.95% less energy post merge](https://blog.ethereum.org/2021/05/18/country-power-no-more/)
 
-- [The True Size of Africa (2015)](http://kai.sub.blue/en/africa.html)
+- [LaMDA: Google's New Conversation Technology](https://blog.google/technology/ai/lamda/)
 
-- [Show HN: ThingsTwin – 3D House Plan Based UI for Smart Home](http://thingstwin.com/)
+- [Unveiling our new Quantum AI campus](https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/)
 
-- [All About Cockatoos (2002)](http://www.mytoos.com/main.shtml)
+- [Project Starline: Feel like you're there, together](https://blog.google/technology/research/project-starline/)
 
-- [5 things I learned while developing a billing system](https://arnon.dk/5-things-i-learned-developing-billing-system/)
+- [Khan Academy's migration from Python 2 to Go](https://blog.khanacademy.org/half-a-million-lines-of-go/)
 
-- [Bibliogram – Open-source front-end for Instagram](https://bibliogram.art)
+- [Site Isolation in Firefox](https://blog.mozilla.org/security/2021/05/18/introducing-site-isolation-in-firefox/)
 
-- [Things you can’t do in Rust (and what to do instead)](https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/)
+- [The tools and tech I use to run a one-woman hardware company](https://blog.thea.codes/winterblooms-tech-stack/)
 
-- [Six Years of Rust](https://blog.rust-lang.org/2021/05/15/six-years-of-rust.html)
+- [I am sick and tired of hearing tech companies complain about developer shortages](https://blog.usejournal.com/i-am-sick-and-tired-of-hearing-tech-companies-complain-about-a-developer-shortage-fd1f5aa536cc)
 
-- [A love letter to s7 Scheme (2016)](https://carloscarrasco.com/love-letter-to-s7-scheme/)
+- [Strong ARMing with MacOS: Adventures in Cross-Platform Emulation](https://blogs.blackberry.com/en/2021/05/strong-arming-with-macos-adventures-in-cross-platform-emulation)
 
-- [I have a lot to say about Signal’s Cellebrite hack](https://cyberlaw.stanford.edu/blog/2021/05/i-have-lot-say-about-signal%E2%80%99s-cellebrite-hack)
+- [The Textbook That Unleashed Ramanujan's Genius](https://books.google.com/books/download/A_Synopsis_of_Elementary_Results_in_Pure.pdf?id=JLmCAAAAIAAJ&output=pdf)
 
-- [Caproni Ca.60](https://en.wikipedia.org/wiki/Caproni_Ca.60)
+- [Can't Unsee](https://cantunsee.space)
 
-- [PipeWire: the new audio and video daemon in Fedora Linux 34](https://fedoramagazine.org/pipewire-the-new-audio-and-video-daemon-in-fedora-linux-34/)
+- [Atomics in AArch64](https://cpufun.substack.com/p/atomics-in-aarch64)
 
-- [Peak non-creepy dating pool](https://flowingdata.com/projects/2018/dating-pool/)
+- [The blessing of the leading zero](https://devblogs.microsoft.com/oldnewthing/20210518-00/?p=105225)
 
-- [Nim 2.0 -- thoughts](https://forum.nim-lang.org/t/7983)
+- [YouTube Experiencing Issues](https://downdetector.com/status/youtube?1)
 
-- [Making Your Own Tools](https://futureofcoding.org/episodes/044)
+- [Boosting upload speed and improving Windows' TCP stack](https://dropbox.tech/infrastructure/boosting-dropbox-upload-speed)
 
-- [Offline-First PWA for Plotly Visualization of CSV via SQLite](https://github.com/lana-k/sqliteviz)
+- [Behind the scenes of 1Password for Linux](https://dteare.medium.com/behind-the-scenes-of-1password-for-linux-d59b19143a23)
 
-- [Parsix: Parse Don't Validate](https://github.com/parsix/parsix)
+- [Movfuscator: Compile C into only mov instructions](https://github.com/Battelle/movfuscator)
 
-- [The Graphics Gremlin: a Retro ISA Video Card](https://github.com/schlae/graphics-gremlin)
+- [A retro game engine for Python](https://github.com/kitao/pyxel)
 
-- [Design structured diagrams, built to increase your team's trust in your docs](https://icepanel.io/)
+- [Chad Strings – The Chad way to handle strings in C](https://github.com/skullchap/chadstr)
 
-- [Waymo AV Freaked Out by Traffic Cones, Blocks Traffic, Evades Support Vehicles](https://jalopnik.com/watch-a-waymo-av-get-freaked-out-by-traffic-cones-bloc-1846897182)
+- [Introducing Firefox’ new Site Isolation Security Architecture](https://hacks.mozilla.org/2021/05/introducing-firefox-new-site-isolation-security-architecture/)
 
-- [Extracting Data from Tracking Devices](https://jeffhuang.com/extracting_data_from_tracking_devices/)
+- [Direct I/O writes: the best way to improve your credit score](https://itnext.io/direct-i-o-writes-the-best-way-to-improve-your-credit-score-bd6c19cdfe46)
 
-- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Prefer the MIT License](https://juxt.pro/blog/prefer-mit)
 
-- [Paper notes (2019)](https://macwright.com/2019/01/02/paper-notes.html)
+- [Unveiling Material You â€“ Google's new design language](https://material.io/blog/announcing-material-you)
 
-- [Unix Philosophy with an Example](https://massimo-nazaria.github.io/blog/2019/03/02/unix-philosophy-with-an-example.html)
+- [The Matrix Space Beta](https://matrix.org/blog/2021/05/17/the-matrix-space-beta)
 
-- [Learn ORCΛ](https://metasyn.github.io/learn-orca/)
+- [Propagation delay](https://minimalmodeling.substack.com/p/propagation-delay)
 
-- [The Midnight Pub](https://midnight.pub/)
+- [Flat Data](https://octo.github.com/projects/flat-data)
 
-- [The stack monoid revisited](https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html)
+- [AMP pages no longer get preferential treatment in Google search](https://plausible.io/blog/google-amp)
 
-- [ML model can classify sex from retinal photograph, clinicians can't](https://rdcu.be/ckFPK)
+- [Reshaping JSON with jq](https://programminghistorian.org/en/lessons/json-and-jq)
 
-- [Inside the Hidden World of Legacy IT Systems](https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems)
+- [All packages that were present in Ubuntu 18.04 but absent in Ubuntu 20.04](https://raymii.org/s/articles/All_packages_that_were_present_in_Ubuntu_18.04_but_removed_in_20.04.html)
 
-- [The chip shortage could lead to an era of hardware innovation](https://staceyoniot.com/the-chip-shortage-could-lead-to-an-era-of-hardware-innovation/)
+- [Definitive Guide to Ruby's C API](https://silverhammermba.github.io/emberb/c/)
 
-- [Absolute wealth, relative wealth, taxes, and staying rich](https://summation.net/2021/05/07/absolute-wealth-relative-wealth-taxes-and-staying-rich/)
+- [Reliance Jio Impersonation Issue](https://susam.in/blog/reliance-jio-impersonation-issue/)
 
-- [Simple things are complicated: making a show password option](https://technology.blog.gov.uk/2021/04/19/simple-things-are-complicated-making-a-show-password-option)
+- [Discovering and exploiting McAfee COM-objects (CVE-2021-23874)](https://the-deniss.github.io/posts/2021/05/17/discovering-and-exploiting-mcafee-com-objects.html)
 
-- [Developing MLB’s Automated Ball/Strike System](https://technology.mlblogs.com/developing-mlbs-automated-ball-strike-system-abs-d4f499deff31)
+- [Clarity is an underrated skill](https://tomgamon.com/posts/clarity/)
 
-- [TIL: Tcl-inspired command language on top of D](https://til-lang.github.io/til/)
+- [GADTs for Dummies](https://wiki.haskell.org/GADTs_for_dummies)
 
-- [Modern Javascript: Everything you missed over the last 10 years (2020)](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
+- [Nvidia cripples cryptocurrency mining on RTX 3080 and 3070 cards](https://www.bleepingcomputer.com/news/cryptocurrency/nvidia-cripples-cryptocurrency-mining-on-rtx-3080-and-3070-cards/)
 
-- [The Bourne shell and Bash aren't the right languages for larger programs](https://utcc.utoronto.ca/~cks/space/blog/programming/BourneBadForLargeScripts)
+- [The overfitted brain: Dreams evolved to assist generalization](https://www.cell.com/patterns/fulltext/S2666-3899(21)00064-7)
 
-- [Emacs is Superman](https://wiki.c2.com/?EmacsIsSuperman)
+- [Commander X16](https://www.commanderx16.com/forum/index.php?/home/)
 
-- [The Open-Source Software bubble that is and the blogging bubble that was](https://www.baldurbjarnason.com/2021/the-oss-bubble-and-the-blogging-bubble/)
+- [Communicating sequential processes (1978)](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf)
 
-- [Drain brain: The secret life of a gutter enthusiast](https://www.bbc.com/news/uk-england-london-56281464)
+- [Ghost Killer](https://www.fenarinarsa.com/?p=1698)
 
-- [in search of a dynamic medium](https://www.dgsiegel.net/articles/in-search-of-a-dynamic-medium)
+- [Map of the Internet](https://www.halcyonmaps.com/map-of-the-internet-2021/)
 
-- [Knitting a Road with Stones and String](https://www.economist.com/science-and-technology/2021/05/08/knitting-a-road-with-stones-and-string)
+- [A Brief Introduction to Esoteric Languages](https://www.hillelwayne.com/talks/esolangs/)
 
-- [The Neural Net Tank Urban Legend](https://www.gwern.net/Tanks)
+- [Bit banger](https://www.linusakesson.net/scene/bitbanger/index.php)
 
-- [AmigaOS 3.2 for all Classic Amigas released and available](https://www.hyperion-entertainment.com/index.php/news/1-latest-news/290-amigaos-42-for-all-classic-amigas-released-and-available)
+- [Fiscal-Driven Inflation](https://www.lynalden.com/may-2021-newsletter/)
 
-- [Lessons learned creating a real-time multiplayer Tic-Tac-Toe game with Nun DB](https://www.linkedin.com/pulse/lessons-learned-creating-real-time-multiplayer-game-nun-k%25C3%25B6hler/)
+- [Adobe is dropping PostScript Type 1 font support](https://www.macworld.com/article/344971/adobe-drops-postscript-type1.html)
 
-- [Was cancer less likely in a pre-industrial world?](https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world)
+- [The data model behind Notion's flexibility](https://www.notion.so/blog/data-model-behind-notion)
 
-- [The Strangeness of Our Animal Bonds](https://www.newyorker.com/science/elements/the-strangeness-of-our-animal-bonds)
+- [Researchers, lawmakers want Facebook's mental health research](https://www.npr.org/2021/05/18/990234501/facebook-calls-links-to-depression-inconclusive-these-researchers-disagree)
 
-- [Commodore’s Assemblers: Part 1: MOS Cross-Assembler](https://www.pagetable.com/?p=1520)
+- [The Mental Benefits of Being Terrible at Something](https://www.outsideonline.com/2423015/80-20-rule-beginner-mastery-benefits)
 
-- [Watches from the Soviet Union](https://www.rbth.com/longreads/soviet-watches/)
+- [Hydras suggest that sleep evolved before brains](https://www.quantamagazine.org/sleep-evolved-before-brains-hydras-are-living-proof-20210518/)
 
-- [Scala 3 is here](https://www.scala-lang.org/blog/2021/05/14/scala3-is-here.html)
-
-- [What the Media Gets Wrong About Israel](https://www.theatlantic.com/international/archive/2014/11/how-the-media-makes-the-israel-story/383262/)
-
-- [Creating an AppleScript Droplet](https://www.youtube.com/watch?v=4wYO2ubaTrU)
-
-- [MicroFPGA – A coming revolution in small electronics (2019) [video]](https://www.youtube.com/watch?v=ME_e06ApxJA)
+- [Two Different Views of What Decoupled Code Means](https://www.worldofbs.com/decoupled-software/)
