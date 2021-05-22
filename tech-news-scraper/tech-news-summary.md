@@ -1,99 +1,103 @@
-- [Multiplayer Doom on Cloudflare Workers](https://blog.cloudflare.com/doom-multiplayer-workers/)
+- [The Algorithmic Beauty of Plants (1990) [pdf]](http://algorithmicbotany.org/papers/abop/abop.pdf)
 
-- [Ethereum will use around 99.95% less energy post merge](https://blog.ethereum.org/2021/05/18/country-power-no-more/)
+- [Counterexamples in Type Systems](http://counterexamples.org/)
 
-- [LaMDA: Google's New Conversation Technology](https://blog.google/technology/ai/lamda/)
+- [PHP 3.0 Final is out (1998)](http://web.archive.org/web/19980701120538/http://www.php.net/)
 
-- [Unveiling our new Quantum AI campus](https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/)
+- [My 6-node 1U Raspberry Pi rack mount Cluster](http://www.jeffgeerling.com/blog/2021/my-6-node-1u-raspberry-pi-rack-mount-cluster)
 
-- [Project Starline: Feel like you're there, together](https://blog.google/technology/research/project-starline/)
+- [High-performance speech recognition with no supervision at all](https://ai.facebook.com/blog/wav2vec-unsupervised-speech-recognition-without-supervision/)
 
-- [Khan Academy's migration from Python 2 to Go](https://blog.khanacademy.org/half-a-million-lines-of-go/)
+- [Solved by 1440p HiDPI: MacBook Pro 16“ is HOT and NOISY with an external monitor](https://axu2.medium.com/solved-by-1440p-hidpi-macbook-pro-16-is-hot-noisy-with-an-external-monitor-f8af19c30f81)
 
-- [Site Isolation in Firefox](https://blog.mozilla.org/security/2021/05/18/introducing-site-isolation-in-firefox/)
+- [Rust on the Frontend and Backend](https://blog.abor.dev/p/moonzoon)
 
-- [The tools and tech I use to run a one-woman hardware company](https://blog.thea.codes/winterblooms-tech-stack/)
+- [Building LLVM in 90 seconds using Amazon Lambda](https://blog.nelhage.com/post/building-llvm-in-90s/)
 
-- [I am sick and tired of hearing tech companies complain about developer shortages](https://blog.usejournal.com/i-am-sick-and-tired-of-hearing-tech-companies-complain-about-a-developer-shortage-fd1f5aa536cc)
+- [Stop building websites for iPhones](https://blog.rentpathcode.com/analyzing-performance-e7aed196df64)
 
-- [Strong ARMing with MacOS: Adventures in Cross-Platform Emulation](https://blogs.blackberry.com/en/2021/05/strong-arming-with-macos-adventures-in-cross-platform-emulation)
+- [Constant-Time Big Numbers: An Introduction](https://cronokirby.com/posts/2021/04/constant-time-big-numbers-introduction/)
 
-- [The Textbook That Unleashed Ramanujan's Genius](https://books.google.com/books/download/A_Synopsis_of_Elementary_Results_in_Pure.pdf?id=JLmCAAAAIAAJ&output=pdf)
+- [PlanetScale CLI Basics](https://dev.to/nickelkr/planetscale-cli-basics-21d8)
 
-- [Can't Unsee](https://cantunsee.space)
+- [A VR Frame’s Life](https://developer.oculus.com/blog/a-vr-frames-life/)
 
-- [Atomics in AArch64](https://cpufun.substack.com/p/atomics-in-aarch64)
+- [Fuzzing the Linux kernel](https://docs.google.com/presentation/d/19JaXHFMT-R2le6x-vPKw5D1Cxlw2aLtxHEIDwWBNXCQ/edit#slide=id.gda44520c30_7_54)
 
-- [The blessing of the leading zero](https://devblogs.microsoft.com/oldnewthing/20210518-00/?p=105225)
+- [FlutterFlow: Low-code Flutter apps](https://flutterflow.io/launch)
 
-- [YouTube Experiencing Issues](https://downdetector.com/status/youtube?1)
+- [Remote CPU Server On 9front](https://g-w1.github.io/blog/plan9/2021/05/19/cpuserv.html)
 
-- [Boosting upload speed and improving Windows' TCP stack](https://dropbox.tech/infrastructure/boosting-dropbox-upload-speed)
+- [Show HN: I wrote a free Mac app to OCR any text on screen](https://github.com/schappim/macOCR)
 
-- [Behind the scenes of 1Password for Linux](https://dteare.medium.com/behind-the-scenes-of-1password-for-linux-d59b19143a23)
+- [Video Games Inspire Great UX (2019)](https://jenson.org/games/)
 
-- [Movfuscator: Compile C into only mov instructions](https://github.com/Battelle/movfuscator)
+- [Substack (YC W18) is hiring technical recruiters to build the future of writing](https://jobs.lever.co/substackinc/c98439dd-6560-4b58-b827-42eb92c61dbd)
 
-- [A retro game engine for Python](https://github.com/kitao/pyxel)
+- [Counting the number of matching characters in two ASCII strings](https://lemire.me/blog/2021/05/21/counting-the-number-of-matching-characters-in-two-ascii-strings/)
 
-- [Chad Strings – The Chad way to handle strings in C](https://github.com/skullchap/chadstr)
+- [Text editing hates you too (2019)](https://lord.io/text-editing-hates-you-too/)
 
-- [Introducing Firefox’ new Site Isolation Security Architecture](https://hacks.mozilla.org/2021/05/introducing-firefox-new-site-isolation-security-architecture/)
+- [Rust heads into the kernel?](https://lwn.net/Articles/853423/)
 
-- [Direct I/O writes: the best way to improve your credit score](https://itnext.io/direct-i-o-writes-the-best-way-to-improve-your-credit-score-bd6c19cdfe46)
+- [The curious case of the disappearing Polish S (2015)](https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df)
 
-- [Prefer the MIT License](https://juxt.pro/blog/prefer-mit)
+- [Mega65 – Open 8-Bit Computer](https://mega65.org/)
 
-- [Unveiling Material You â€“ Google's new design language](https://material.io/blog/announcing-material-you)
+- [Nyxt browser 2.0.0](https://nyxt.atlas.engineer/article/release-2.0.0.org)
 
-- [The Matrix Space Beta](https://matrix.org/blog/2021/05/17/the-matrix-space-beta)
+- [4 essential characteristics of successful APIs](https://opensource.com/article/21/5/successful-apis)
 
-- [Propagation delay](https://minimalmodeling.substack.com/p/propagation-delay)
+- [The intestinal microbiome of latrine sediments from two medieval cities (2020)](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0576)
 
-- [Flat Data](https://octo.github.com/projects/flat-data)
+- [Sick of cookie banners and popups? They’re all changing, again (2019)](https://silktide.com/blog/sick-of-cookie-banners-and-popups-theyre-all-changing-again/)
 
-- [AMP pages no longer get preferential treatment in Google search](https://plausible.io/blog/google-amp)
+- [Extreme HTTP Performance Tuning: 1.2M API req/s on a 4 vCPU EC2 Instance](https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/)
 
-- [Reshaping JSON with jq](https://programminghistorian.org/en/lessons/json-and-jq)
+- [A long rant about Ruby, its value, its innovations, and its (sad) fate](https://threadreaderapp.com/thread/1365014133180141578.html)
 
-- [All packages that were present in Ubuntu 18.04 but absent in Ubuntu 20.04](https://raymii.org/s/articles/All_packages_that_were_present_in_Ubuntu_18.04_but_removed_in_20.04.html)
+- [Past and Future Turtles: The Evolution of the Logo Programming Language (Part 1)](https://turtlespaces.org/2021/05/21/past-and-future-turtles-the-evolution-of-the-logo-programming-language-part-1/)
 
-- [Definitive Guide to Ruby's C API](https://silverhammermba.github.io/emberb/c/)
+- [Some thoughts on APLs (real or imagined) beauty, and the value of very concise languages](https://twitter.com/zverok/status/1395444520116969476)
 
-- [Reliance Jio Impersonation Issue](https://susam.in/blog/reliance-jio-impersonation-issue/)
+- [A new replication crisis: Research that is less likely to be true is cited more](https://ucsdnews.ucsd.edu/pressrelease/a-new-replication-crisis-research-that-is-less-likely-be-true-is-cited-more)
 
-- [Discovering and exploiting McAfee COM-objects (CVE-2021-23874)](https://the-deniss.github.io/posts/2021/05/17/discovering-and-exploiting-mcafee-com-objects.html)
+- [Voice2json: Offline speech and intent recognition on Linux](https://voice2json.org/)
 
-- [Clarity is an underrated skill](https://tomgamon.com/posts/clarity/)
+- [Language Compilation Speed](https://wiki.alopex.li/LanguageCompilationSpeed)
 
-- [GADTs for Dummies](https://wiki.haskell.org/GADTs_for_dummies)
+- [“Put that in your pipe and smoke it”](https://wordhistories.net/2020/01/06/put-pipe-and-smoke/)
 
-- [Nvidia cripples cryptocurrency mining on RTX 3080 and 3070 cards](https://www.bleepingcomputer.com/news/cryptocurrency/nvidia-cripples-cryptocurrency-mining-on-rtx-3080-and-3070-cards/)
+- [Microsoft and Apple wage war on gadget right-to-repair laws](https://www.bloomberg.com/news/articles/2021-05-20/microsoft-and-apple-wage-war-on-gadget-right-to-repair-laws)
 
-- [The overfitted brain: Dreams evolved to assist generalization](https://www.cell.com/patterns/fulltext/S2666-3899(21)00064-7)
+- [Scientists rediscover lost coffee species suited to a warmer climate](https://www.cbc.ca/news/science/coffee-stenophylla-1.5995940)
 
-- [Commander X16](https://www.commanderx16.com/forum/index.php?/home/)
+- [How to port your OS to EC2](https://www.daemonology.net/blog/2018-07-14-port-OS-to-EC2.html)
 
-- [Communicating sequential processes (1978)](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf)
+- [The Third Thumb Project](https://www.daniclodedesign.com/thethirdthumb)
 
-- [Ghost Killer](https://www.fenarinarsa.com/?p=1698)
+- [A century ago Ludwig Wittgenstein changed philosophy for ever](https://www.economist.com/books-and-arts/2021/05/22/a-century-ago-ludwig-wittgenstein-changed-philosophy-for-ever)
 
-- [Map of the Internet](https://www.halcyonmaps.com/map-of-the-internet-2021/)
+- [Woke at Work: Why tech firms are trying to run away from politics and failing](https://www.economist.com/united-states/2021/05/22/why-tech-firms-are-trying-to-run-away-from-politics-and-failing)
 
-- [A Brief Introduction to Esoteric Languages](https://www.hillelwayne.com/talks/esolangs/)
+- [Defense in depth: stopping a Wasm compiler bug before it became a problem](https://www.fastly.com/blog/defense-in-depth-stopping-a-wasm-compiler-bug-before-it-became-a-problem)
 
-- [Bit banger](https://www.linusakesson.net/scene/bitbanger/index.php)
+- [2022 Ford F-150 Lightning](https://www.ford.com/trucks/f150/f150-lightning/2022/)
 
-- [Fiscal-Driven Inflation](https://www.lynalden.com/may-2021-newsletter/)
+- [Data61 drops world-class seL4 security team](https://www.innovationaus.com/data61-dumps-world-class-sel4-security-team/)
 
-- [Adobe is dropping PostScript Type 1 font support](https://www.macworld.com/article/344971/adobe-drops-postscript-type1.html)
+- [The Cicada's Love Affair with Prime Numbers (2013)](https://www.newyorker.com/tech/annals-of-technology/the-cicadas-love-affair-with-prime-numbers)
 
-- [The data model behind Notion's flexibility](https://www.notion.so/blog/data-model-behind-notion)
+- [San Francisco’s Shoplifting Surge](https://www.nytimes.com/2021/05/21/us/san-francisco-shoplifting-epidemic.html)
 
-- [Researchers, lawmakers want Facebook's mental health research](https://www.npr.org/2021/05/18/990234501/facebook-calls-links-to-depression-inconclusive-these-researchers-disagree)
+- [Portable Python 3.9.5 for Windows (USB key, ext. drive) for schools/companies](https://www.portabledevapps.net/)
 
-- [The Mental Benefits of Being Terrible at Something](https://www.outsideonline.com/2423015/80-20-rule-beginner-mastery-benefits)
+- [Naming Your Lifetimes](https://www.possiblerust.com/pattern/naming-your-lifetimes)
 
-- [Hydras suggest that sleep evolved before brains](https://www.quantamagazine.org/sleep-evolved-before-brains-hydras-are-living-proof-20210518/)
+- [Sublime Text 4](https://www.sublimetext.com/blog/articles/sublime-text-4)
 
-- [Two Different Views of What Decoupled Code Means](https://www.worldofbs.com/decoupled-software/)
+- [UltraEdit Text Editor](https://www.ultraedit.com/)
+
+- [The Full Story of the Stunning RSA Hack Can Finally Be Told](https://www.wired.com/story/the-full-story-of-the-stunning-rsa-hack-can-finally-be-told)
+
+- [Android 12 will finally let alternative app stores update apps on their own](https://www.xda-developers.com/android-12-alternative-app-stores-update-apps-background/)
