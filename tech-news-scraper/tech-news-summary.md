@@ -1,103 +1,97 @@
-- [The Algorithmic Beauty of Plants (1990) [pdf]](http://algorithmicbotany.org/papers/abop/abop.pdf)
+- [The World of Edward Said](http://bostonreview.net/philosophy-religion/esmat-elhalaby-world-edward-said)
 
-- [Counterexamples in Type Systems](http://counterexamples.org/)
+- [The Qlobe](http://mamememo.blogspot.com/2010/09/qlobe.html)
 
-- [PHP 3.0 Final is out (1998)](http://web.archive.org/web/19980701120538/http://www.php.net/)
+- [In the Deep Sea, Animals Abound](http://oceans.nautil.us/feature/695/in-the-deep-sea-incredible-animals-abound)
 
-- [My 6-node 1U Raspberry Pi rack mount Cluster](http://www.jeffgeerling.com/blog/2021/my-6-node-1u-raspberry-pi-rack-mount-cluster)
+- [Combo organ: Top octave emulation](http://sandsoftwaresound.net/combo-organ-top-octave-emulation/)
 
-- [High-performance speech recognition with no supervision at all](https://ai.facebook.com/blog/wav2vec-unsupervised-speech-recognition-without-supervision/)
+- [Writing Pythonic Rust](http://www.cmyr.net/blog/rust-python-learnings.html)
 
-- [Solved by 1440p HiDPI: MacBook Pro 16“ is HOT and NOISY with an external monitor](https://axu2.medium.com/solved-by-1440p-hidpi-macbook-pro-16-is-hot-noisy-with-an-external-monitor-f8af19c30f81)
+- [Evidence-based Software Engineering: based on the publicly available data](http://www.knosof.co.uk/ESEUR/)
 
-- [Rust on the Frontend and Backend](https://blog.abor.dev/p/moonzoon)
+- [Jerry, Inc. (YC S17) Is Hiring Senior Software Engineers](https://apply.workable.com/jerry/j/07E1D2B302/)
 
-- [Building LLVM in 90 seconds using Amazon Lambda](https://blog.nelhage.com/post/building-llvm-in-90s/)
+- [Actively exploited macOS 0day let hackers take screenshots of infected Macs](https://arstechnica.com/gadgets/2021/05/hackers-exploit-a-macos-0day-that-allows-them-to-screenshot-infected-macs/)
 
-- [Stop building websites for iPhones](https://blog.rentpathcode.com/analyzing-performance-e7aed196df64)
+- [How Blockchains Work](https://asthasr.github.io/posts/how-blockchains-work/)
 
-- [Constant-Time Big Numbers: An Introduction](https://cronokirby.com/posts/2021/04/constant-time-big-numbers-introduction/)
+- [Behind the design of the fresh new Firefox coming June 1](https://blog.mozilla.org/firefox/new-firefox-coming-june-1/)
 
-- [PlanetScale CLI Basics](https://dev.to/nickelkr/planetscale-cli-basics-21d8)
+- [Replit now supports every programming language in Nix](https://blog.replit.com/nix)
 
-- [A VR Frame’s Life](https://developer.oculus.com/blog/a-vr-frames-life/)
+- [Why did bar ends go away from mountain bikes?](https://brainybiker.com/why-did-bar-ends-go-away-from-mountain-bikes-the-nostalgia-is-real/)
 
-- [Fuzzing the Linux kernel](https://docs.google.com/presentation/d/19JaXHFMT-R2le6x-vPKw5D1Cxlw2aLtxHEIDwWBNXCQ/edit#slide=id.gda44520c30_7_54)
+- [The Robustness Principle Reconsidered (2011)](https://cacm.acm.org/magazines/2011/8/114933-the-robustness-principle-reconsidered/fulltext)
 
-- [FlutterFlow: Low-code Flutter apps](https://flutterflow.io/launch)
+- [A journey to io_uring, AIO and modern storage devices](https://clickhouse.tech/blog/en/2021/reading-from-external-memory/)
 
-- [Remote CPU Server On 9front](https://g-w1.github.io/blog/plan9/2021/05/19/cpuserv.html)
+- [Show HN: Flashcards to learn AWS skills](https://cloudbite.attejuvonen.fi/)
 
-- [Show HN: I wrote a free Mac app to OCR any text on screen](https://github.com/schappim/macOCR)
+- [Temptation of the Apple: Dolphin on macOS M1](https://dolphin-emu.org/blog/2021/05/24/temptation-of-the-apple-dolphin-on-macos-m1/)
 
-- [Video Games Inspire Great UX (2019)](https://jenson.org/games/)
+- [Elk OS – Audio Operating System](https://elk.audio/audio-os/)
 
-- [Substack (YC W18) is hiring technical recruiters to build the future of writing](https://jobs.lever.co/substackinc/c98439dd-6560-4b58-b827-42eb92c61dbd)
+- [You've got to upgrade Rebar3](https://ferd.ca/you-ve-got-to-upgrade-rebar3.html)
 
-- [Counting the number of matching characters in two ASCII strings](https://lemire.me/blog/2021/05/21/counting-the-number-of-matching-characters-in-two-ascii-strings/)
+- [Magic Wormhole: Get things from one computer to another, safely](https://github.com/magic-wormhole/magic-wormhole)
 
-- [Text editing hates you too (2019)](https://lord.io/text-editing-hates-you-too/)
+- [Inkscape 1.1](https://inkscape.org/news/2021/05/24/welcome-inkscape-11/)
 
-- [Rust heads into the kernel?](https://lwn.net/Articles/853423/)
+- [Let’s Build a Regex Engine](https://kean.blog/post/lets-build-regex)
 
-- [The curious case of the disappearing Polish S (2015)](https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df)
+- [Need Something Sorted? Sleep on It](https://kevlinhenney.medium.com/need-something-sorted-sleep-on-it-11fdf8453914)
 
-- [Mega65 – Open 8-Bit Computer](https://mega65.org/)
+- [Should we rebrand REST?](https://kieranpotts.com/rebranding-rest/)
 
-- [Nyxt browser 2.0.0](https://nyxt.atlas.engineer/article/release-2.0.0.org)
+- [Try This One Weird Trick Russian Hackers Hate](https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/)
 
-- [4 essential characteristics of successful APIs](https://opensource.com/article/21/5/successful-apis)
+- [Why the sad face?](https://lukasz.langa.pl/1d1a43c4-9c8a-4c5f-a366-7f22ce6a49fc/)
 
-- [The intestinal microbiome of latrine sediments from two medieval cities (2020)](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0576)
+- [Ephemeral GitHub Tokens via HashiCorp Vault](https://martin.baillie.id/wrote/ephemeral-github-tokens-via-hashicorp-vault/)
 
-- [Sick of cookie banners and popups? They’re all changing, again (2019)](https://silktide.com/blog/sick-of-cookie-banners-and-popups-theyre-all-changing-again/)
+- [I Was Robbed in San Francisco While the Cameras Rolled](https://petapixel.com/2021/05/24/i-was-robbed-in-san-francisco-while-the-cameras-rolled/)
 
-- [Extreme HTTP Performance Tuning: 1.2M API req/s on a 4 vCPU EC2 Instance](https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/)
+- [Spot instances for personal servers](https://pitr.ca/2021-05-23-personal-spot)
 
-- [A long rant about Ruby, its value, its innovations, and its (sad) fate](https://threadreaderapp.com/thread/1365014133180141578.html)
+- [Rf: an experimental refactoring tool for Go](https://pkg.go.dev/rsc.io/rf)
 
-- [Past and Future Turtles: The Evolution of the Logo Programming Language (Part 1)](https://turtlespaces.org/2021/05/21/past-and-future-turtles-the-evolution-of-the-logo-programming-language-part-1/)
+- [HIV mRNA Vaccines-Progress and Future Paths](https://pubmed.ncbi.nlm.nih.gov/33562203/)
 
-- [Some thoughts on APLs (real or imagined) beauty, and the value of very concise languages](https://twitter.com/zverok/status/1395444520116969476)
+- [Vim Modes Transition Diagram](https://rawgit.com/darcyparker/1886716/raw/eab57dfe784f016085251771d65a75a471ca22d4/vimModeStateDiagram.svg)
 
-- [A new replication crisis: Research that is less likely to be true is cited more](https://ucsdnews.ucsd.edu/pressrelease/a-new-replication-crisis-research-that-is-less-likely-be-true-is-cited-more)
+- [Exclude lines in less (or journalctl)](https://raymii.org/s/snippets/Exclude_lines_in_less_or_journalctl.html)
 
-- [Voice2json: Offline speech and intent recognition on Linux](https://voice2json.org/)
+- [Court Orders WhatsApp to Suspend Users Sharing Pirated Movie](https://torrentfreak.com/court-orders-whatsapp-to-suspend-users-sharing-pirated-movie-210524/)
 
-- [Language Compilation Speed](https://wiki.alopex.li/LanguageCompilationSpeed)
+- [Do countries get the list of every passenger that's transiting their airspace?](https://travel.stackexchange.com/q/163892/101)
 
-- [“Put that in your pipe and smoke it”](https://wordhistories.net/2020/01/06/put-pipe-and-smoke/)
+- [What’s new in security for Ubuntu 21.04?](https://ubuntu.com/blog/whats-new-in-security-for-ubuntu-21-04)
 
-- [Microsoft and Apple wage war on gadget right-to-repair laws](https://www.bloomberg.com/news/articles/2021-05-20/microsoft-and-apple-wage-war-on-gadget-right-to-repair-laws)
+- [libx11 API Protocol Command Injection](https://unparalleled.eu/publications/2021/advisory-unpar-2021-1.txt)
 
-- [Scientists rediscover lost coffee species suited to a warmer climate](https://www.cbc.ca/news/science/coffee-stenophylla-1.5995940)
+- [Rust is a wave of the future](https://utcc.utoronto.ca/~cks/space/blog/programming/RustInOurFuture)
 
-- [How to port your OS to EC2](https://www.daemonology.net/blog/2018-07-14-port-OS-to-EC2.html)
+- [DOOM Captcha](https://vivirenremoto.github.io/doomcaptcha/)
 
-- [The Third Thumb Project](https://www.daniclodedesign.com/thethirdthumb)
+- [NetBSD/macppc on a PowerPC G4 Mac Mini](https://washbear.neocities.org/netbsd-macppc-install.html)
 
-- [A century ago Ludwig Wittgenstein changed philosophy for ever](https://www.economist.com/books-and-arts/2021/05/22/a-century-ago-ludwig-wittgenstein-changed-philosophy-for-ever)
+- [Why I prefer making useless stuff](https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html)
 
-- [Woke at Work: Why tech firms are trying to run away from politics and failing](https://www.economist.com/united-states/2021/05/22/why-tech-firms-are-trying-to-run-away-from-politics-and-failing)
+- [Urbit :: the good, the bad, and the insane](https://wejn.org/2021/02/urbit-good-bad-insane/)
 
-- [Defense in depth: stopping a Wasm compiler bug before it became a problem](https://www.fastly.com/blog/defense-in-depth-stopping-a-wasm-compiler-bug-before-it-became-a-problem)
+- [The Great Hanoi Rat Massacre of 1902 Did Not Go as Planned](https://www.atlasobscura.com/articles/hanoi-rat-massacre-1902.html)
 
-- [2022 Ford F-150 Lightning](https://www.ford.com/trucks/f150/f150-lightning/2022/)
+- [Activists Mobilize to Fight Censorship and Save Open Science](https://www.eff.org/deeplinks/2021/05/activists-mobilize-fight-censorship-and-save-open-science)
 
-- [Data61 drops world-class seL4 security team](https://www.innovationaus.com/data61-dumps-world-class-sel4-security-team/)
+- [In praise of --dry-run](https://www.gresearch.co.uk/article/in-praise-of-dry-run/)
 
-- [The Cicada's Love Affair with Prime Numbers (2013)](https://www.newyorker.com/tech/annals-of-technology/the-cicadas-love-affair-with-prime-numbers)
+- [The Essence of Mathematics Through Elementary Problems](https://www.openbookpublishers.com/product/979)
 
-- [San Francisco’s Shoplifting Surge](https://www.nytimes.com/2021/05/21/us/san-francisco-shoplifting-epidemic.html)
+- [Radioactivity may fuel life deep underground and inside other worlds](https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/)
 
-- [Portable Python 3.9.5 for Windows (USB key, ext. drive) for schools/companies](https://www.portabledevapps.net/)
+- [Complexity is a source of income in open source ecosystems (2019)](https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/)
 
-- [Naming Your Lifetimes](https://www.possiblerust.com/pattern/naming-your-lifetimes)
+- [Researchhub: GitHub for Science](https://www.researchhub.com/about)
 
-- [Sublime Text 4](https://www.sublimetext.com/blog/articles/sublime-text-4)
-
-- [UltraEdit Text Editor](https://www.ultraedit.com/)
-
-- [The Full Story of the Stunning RSA Hack Can Finally Be Told](https://www.wired.com/story/the-full-story-of-the-stunning-rsa-hack-can-finally-be-told)
-
-- [Android 12 will finally let alternative app stores update apps on their own](https://www.xda-developers.com/android-12-alternative-app-stores-update-apps-background/)
+- [Scientists use optogenetics to help a blind patient see again](https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/)
