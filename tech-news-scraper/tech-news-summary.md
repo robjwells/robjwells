@@ -1,97 +1,97 @@
-- [The World of Edward Said](http://bostonreview.net/philosophy-religion/esmat-elhalaby-world-edward-said)
+- [How To Ensure That Your Program Does Not Run Under Windows 95](http://ptgmedia.pearsoncmg.com/images/9780321440303/samplechapter/Chen_bonus_ch02.pdf)
 
-- [The Qlobe](http://mamememo.blogspot.com/2010/09/qlobe.html)
+- [Opening a Garage Door Using OpenBSD on a Raspberry Pi](http://undeadly.org/cgi?action=article;sid=20210527120047)
 
-- [In the Deep Sea, Animals Abound](http://oceans.nautil.us/feature/695/in-the-deep-sea-incredible-animals-abound)
+- [Oldest recovered TV images (2013)](http://www.tvdawn.com/earliest-tv/phonovision-experiments-1927-28/the-recovered-images/)
 
-- [Combo organ: Top octave emulation](http://sandsoftwaresound.net/combo-organ-top-octave-emulation/)
+- [Here's an easier way to try Fuchsia OS on your computer](https://9to5google.com/2021/05/26/fuchsia-os-emulator-dahliaos-fimage)
 
-- [Writing Pythonic Rust](http://www.cmyr.net/blog/rust-python-learnings.html)
+- [Phil's Old Radios](https://antiqueradio.org/welcome.htm)
 
-- [Evidence-based Software Engineering: based on the publicly available data](http://www.knosof.co.uk/ESEUR/)
+- [Structural typing in Rust](https://beachape.com/blog/2021/05/25/structural-typing-in-rust)
 
-- [Jerry, Inc. (YC S17) Is Hiring Senior Software Engineers](https://apply.workable.com/jerry/j/07E1D2B302/)
+- [An Introduction to Jorvik, the New Tasking Profile in Ada 2022](https://blog.adacore.com/introduction-to-jorvik)
 
-- [Actively exploited macOS 0day let hackers take screenshots of infected Macs](https://arstechnica.com/gadgets/2021/05/hackers-exploit-a-macos-0day-that-allows-them-to-screenshot-infected-macs/)
+- [File Permissions: the painful side of Docker](https://blog.gougousis.net/file-permissions-the-painful-side-of-docker/)
 
-- [How Blockchains Work](https://asthasr.github.io/posts/how-blockchains-work/)
+- [Manifest v3 Update](https://blog.mozilla.org/addons/2021/05/27/manifest-v3-update/)
 
-- [Behind the design of the fresh new Firefox coming June 1](https://blog.mozilla.org/firefox/new-firefox-coming-june-1/)
+- [Have you ever hurt yourself from your own code?](https://blog.nikitas.link/have-you-ever-hurt-yourself-from-your-own-code)
 
-- [Replit now supports every programming language in Nix](https://blog.replit.com/nix)
+- [Why I still like C and strongly dislike C++](https://codecs.multimedia.cx/2021/05/why-i-still-like-c-and-strongly-dislike-cpp/)
 
-- [Why did bar ends go away from mountain bikes?](https://brainybiker.com/why-did-bar-ends-go-away-from-mountain-bikes-the-nostalgia-is-real/)
+- [Show HN: Convect – Instant Serverless Deployment of ML Models](https://convect.ml)
 
-- [The Robustness Principle Reconsidered (2011)](https://cacm.acm.org/magazines/2011/8/114933-the-robustness-principle-reconsidered/fulltext)
+- [Neovim (0.5) Is Overpowering](https://crispgm.com/page/neovim-is-overpowering.html)
 
-- [A journey to io_uring, AIO and modern storage devices](https://clickhouse.tech/blog/en/2021/reading-from-external-memory/)
+- [Why is JRuby Slow?](https://earthly.dev/blog/jruby/)
 
-- [Show HN: Flashcards to learn AWS skills](https://cloudbite.attejuvonen.fi/)
+- [Small things that make APIs a litte bit better for its users](https://edmz.org/personal/2021/05/27/small_things_that_make_apis_a_little_bit_better.html)
 
-- [Temptation of the Apple: Dolphin on macOS M1](https://dolphin-emu.org/blog/2021/05/24/temptation-of-the-apple-dolphin-on-macos-m1/)
+- [ClickHouse: An open-source column-oriented database management system](https://github.com/ClickHouse/ClickHouse)
 
-- [Elk OS – Audio Operating System](https://elk.audio/audio-os/)
+- [HIBP open-sourced on GitHub](https://github.com/HaveIBeenPwned/PwnedPasswordsAzureFunction)
 
-- [You've got to upgrade Rebar3](https://ferd.ca/you-ve-got-to-upgrade-rebar3.html)
+- [A project to port LLVM to the MOS 6502](https://github.com/llvm-mos/llvm-mos)
 
-- [Magic Wormhole: Get things from one computer to another, safely](https://github.com/magic-wormhole/magic-wormhole)
+- [Show HN: NocoDB – The Open Source Airtable Alternative](https://github.com/nocodb/nocodb)
 
-- [Inkscape 1.1](https://inkscape.org/news/2021/05/24/welcome-inkscape-11/)
+- [Idiosyncrasies of the HTML Parser](https://htmlparser.info/)
 
-- [Let’s Build a Regex Engine](https://kean.blog/post/lets-build-regex)
+- [The Last Days of Tokyo’s Nakagin Capsule Tower](https://japan-forward.com/goodbye-to-the-future-the-last-days-of-tokyos-nakagin-capsule-tower/)
 
-- [Need Something Sorted? Sleep on It](https://kevlinhenney.medium.com/need-something-sorted-sleep-on-it-11fdf8453914)
+- [JsonLogic](https://jsonlogic.com/)
 
-- [Should we rebrand REST?](https://kieranpotts.com/rebranding-rest/)
+- [Traffic Engineering with Portals](https://justinpombrio.net/2021/05/15/traffic-engineering-with-portals.html)
 
-- [Try This One Weird Trick Russian Hackers Hate](https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/)
+- [Blog about what you've struggled with](https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/)
 
-- [Why the sad face?](https://lukasz.langa.pl/1d1a43c4-9c8a-4c5f-a366-7f22ce6a49fc/)
+- [WordPress 18](https://ma.tt/2021/05/wordpress-18/)
 
-- [Ephemeral GitHub Tokens via HashiCorp Vault](https://martin.baillie.id/wrote/ephemeral-github-tokens-via-hashicorp-vault/)
+- [Second-guessing the modern web (2020)](https://macwright.com/2020/05/10/spa-fatigue.html)
 
-- [I Was Robbed in San Francisco While the Cameras Rolled](https://petapixel.com/2021/05/24/i-was-robbed-in-san-francisco-while-the-cameras-rolled/)
+- [Freaking blockchains: How do they work?](https://norswap.com/blockchain-how/)
 
-- [Spot instances for personal servers](https://pitr.ca/2021-05-23-personal-spot)
+- [Linux Internals: How /proc/self/mem writes to unwritable memory](https://offlinemark.com/2021/05/12/an-obscure-quirk-of-proc/)
 
-- [Rf: an experimental refactoring tool for Go](https://pkg.go.dev/rsc.io/rf)
+- [Oxide Computer hardware photos and specs now available](https://oxide.computer)
 
-- [HIV mRNA Vaccines-Progress and Future Paths](https://pubmed.ncbi.nlm.nih.gov/33562203/)
+- [Experiments validate the possibility of helium rain inside Jupiter and Saturn](https://phys.org/news/2021-05-validate-possibility-helium-jupiter-saturn.html)
 
-- [Vim Modes Transition Diagram](https://rawgit.com/darcyparker/1886716/raw/eab57dfe784f016085251771d65a75a471ca22d4/vimModeStateDiagram.svg)
+- [80M I/O Per Second with a Standard 2U System](https://spdk.io/news/2021/05/06/nvme-80m-iops/)
 
-- [Exclude lines in less (or journalctl)](https://raymii.org/s/snippets/Exclude_lines_in_less_or_journalctl.html)
+- [Stacked Git – manage commits as a stack of patches](https://stacked-git.github.io/)
 
-- [Court Orders WhatsApp to Suspend Users Sharing Pirated Movie](https://torrentfreak.com/court-orders-whatsapp-to-suspend-users-sharing-pirated-movie-210524/)
+- [An Intuition for Lisp Syntax](https://stopa.io/post/265?repost=true)
 
-- [Do countries get the list of every passenger that's transiting their airspace?](https://travel.stackexchange.com/q/163892/101)
+- [How I, as someone who is visually impaired, use my iPhone (2020)](https://twitter.com/Kristy_Viers/status/1287189581926981634)
 
-- [What’s new in security for Ubuntu 21.04?](https://ubuntu.com/blog/whats-new-in-security-for-ubuntu-21-04)
+- [V8 Sparkplug – A non-optimizing JavaScript compiler](https://v8.dev/blog/sparkplug)
 
-- [libx11 API Protocol Command Injection](https://unparalleled.eu/publications/2021/advisory-unpar-2021-1.txt)
+- [Marvell Announces First PCIe 5.0 NVMe SSD Controllers: Up to 14 GB/S](https://www.anandtech.com/show/16703/marvell-announces-first-pcie-50-nvme-ssd-controllers)
 
-- [Rust is a wave of the future](https://utcc.utoronto.ca/~cks/space/blog/programming/RustInOurFuture)
+- [How I raised a $5.1M seed as a first-time, female, solo founder for a biotech co](https://www.celinehh.com/seed-raise-how-to)
 
-- [DOOM Captcha](https://vivirenremoto.github.io/doomcaptcha/)
+- [QUIC is now RFC 9000](https://www.fastly.com/blog/quic-is-now-rfc-9000)
 
-- [NetBSD/macppc on a PowerPC G4 Mac Mini](https://washbear.neocities.org/netbsd-macppc-install.html)
+- [Updating GCC GNAT (Ada) in pkgsrc/NetBSD](https://www.irvise.xyz/Projects%20&%20Engineering/updating-gcc-ada-pkgsrc.html)
 
-- [Why I prefer making useless stuff](https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html)
+- [Egyptian Circumnavigation of Africa ~600 BC](https://www.livius.org/sources/content/herodotus/herodotus-on-the-first-circumnavigation-of-africa/)
 
-- [Urbit :: the good, the bad, and the insane](https://wejn.org/2021/02/urbit-good-bad-insane/)
+- [Stuffed Dormouse and Fish Gut Sauce: The Flavors of Pompeii (2019)](https://www.nytimes.com/2019/08/07/arts/design/rome-food-last-supper-in-pompeii.html)
 
-- [The Great Hanoi Rat Massacre of 1902 Did Not Go as Planned](https://www.atlasobscura.com/articles/hanoi-rat-massacre-1902.html)
+- [Mathematicians Find Long-Sought Building Blocks for Special Polynomials](https://www.quantamagazine.org/mathematicians-find-polynomial-building-blocks-hilbert-sought-20210525)
 
-- [Activists Mobilize to Fight Censorship and Save Open Science](https://www.eff.org/deeplinks/2021/05/activists-mobilize-fight-censorship-and-save-open-science)
+- [First Tasmanian Devils born in the wild of Australia mainland in 3k years](https://www.reuters.com/world/asia-pacific/first-tasmanian-devils-born-wild-australia-mainland-3000-years-2021-05-26/)
 
-- [In praise of --dry-run](https://www.gresearch.co.uk/article/in-praise-of-dry-run/)
+- [The media's lab leak fiasco](https://www.slowboring.com/p/the-medias-lab-leak-fiasco)
 
-- [The Essence of Mathematics Through Elementary Problems](https://www.openbookpublishers.com/product/979)
+- [AI has cracked a key mathematical puzzle for understanding our world](https://www.technologyreview.com/2020/10/30/1011435/ai-fourier-neural-network-cracks-navier-stokes-and-partial-differential-equations/)
 
-- [Radioactivity may fuel life deep underground and inside other worlds](https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/)
+- [Virtuozzo’s Mature Linux Distribution VzLinux Now Available to Public](https://www.virtuozzo.com/connect/details/blog/view/virtuozzos-mature-linux-distribution-vzlinux-now-available-to-public.html)
 
-- [Complexity is a source of income in open source ecosystems (2019)](https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/)
+- [Eric Carle has died](https://www.washingtonpost.com/local/obituaries/eric-carle-dead/2021/05/26/cbb39414-2234-11e4-8593-da634b334390_story.html)
 
-- [Researchhub: GitHub for Science](https://www.researchhub.com/about)
+- [Americans are on the move, but their stuff doesn’t always follow](https://www.wsj.com/articles/americans-are-on-the-move-their-stuff-doesnt-always-follow-11622050745)
 
-- [Scientists use optogenetics to help a blind patient see again](https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/)
+- [The Gleam Programming Language and its Creator Louis Pilfold](https://www.youtube.com/watch?v=az_GarVoXEE)
