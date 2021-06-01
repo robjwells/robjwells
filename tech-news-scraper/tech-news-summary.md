@@ -1,103 +1,97 @@
+- [PostGIS at 20, the Beginning](http://blog.cleverelephant.ca/2021/05/postgis-20-years.html)
+
+- [Functional and linear-updating interfaces](http://blog.practical-scheme.net/gauche/20210531-functional-and-linear-update)
+
+- [The Use of Likely Invariants as Feedback for Fuzzers](http://s3.eurecom.fr/docs/usenixsec21_fioraldi.pdf)
+
 - [Phacility, maintainer of Phabricator, is Winding Down Operations](https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/)
 
-- [In Mexico, cartels are hunting down police at their homes](https://apnews.com/article/caribbean-mexico-police-f6ea7798ca3cc171ac13b3a5a6a6c266)
+- [The faulty digital clock problem](https://andersource.dev/2021/04/29/faulty_digital_clock.html)
 
-- [I quit my job to focus on SerenityOS full time](https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/)
+- [On Smoking](https://annagat.substack.com/p/on-smoking)
 
-- [Building a Raft](https://benjamincongdon.me/blog/2021/05/16/Building-a-Raft/)
+- [Bringing Vulkan Raytracing to older AMD hardware (Vega and below)](https://blog.froggi.es/bringing-vulkan-raytracing-to-older-amd-hardware/)
 
-- [My first cup of Rust](https://blog.frankel.ch/start-rust/1/)
+- [Donating my time to grow a VC-funded company: why I quit mentoring at Plato](https://blog.pragmaticengineer.com/quit-mentoring-at-plato/)
 
-- [How to Set Up WeeChat on NixOS](https://christine.website/blog/irc-stuff-nixos-2021-05-29)
+- [NVMe over Fabrics (NVMe-oF) Explained](https://blog.westerndigital.com/nvme-of-explained/)
 
-- [Trials begin on lozenge that rebuilds tooth enamel](https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/)
+- [curl localhost as a local host](https://daniel.haxx.se/blog/2021/05/31/curl-localhost-as-a-local-host/)
 
 - [Windows Package Manager 1.0](https://devblogs.microsoft.com/commandline/?p=6715)
 
-- [Returns to Scale in Broken Windows](https://fantasticanachronism.com/2021/05/25/returns-to-scale-in-broken-windows/)
+- [Caught in the Study Web](https://every.to/cybernaut/caught-in-the-study-web)
 
-- [TermPair: Terminal sharing with AES-GCM 128 bit end-to-end encryption](https://github.com/cs01/termpair)
+- [PuzzleScript: Open Source HTML5 Puzzle Game Engine](https://github.com/increpare/PuzzleScript)
 
-- [GitUI v0.16 supports merging](https://github.com/extrawurst/gitui/releases/tag/v0.16.0)
+- [Infix Notation for Lisp](https://github.com/naver/lispe/wiki/6.13-Infix-Notation)
 
-- [HardenedBSD May 2021 Status Report](https://hardenedbsd.org/article/shawn-webb/2021-05-29/hardenedbsd-may-2021-status-report)
+- [Oceanbase, yet another open source HTAP database](https://github.com/oceanbase/oceanbase)
 
-- [Scamp – a homebrew 16-bit CPU](https://incoherency.co.uk/blog/stories/scamp-lives.html)
+- [Pynguin – Allow developers to generate Python unit tests automatically](https://github.com/se2p/pynguin)
 
-- [Const Correctness](https://isocpp.org/wiki/faq/const-correctness)
+- [Listening to Satellites with my Raspberry Pi](https://healeycodes.com/listening-to-satellites-with-my-raspberry-pi/)
 
-- [Who is that Neural Network? (2017)](https://jgeekstudies.org/2017/03/12/who-is-that-neural-network/)
+- [Inkscape 1.1 released](https://inkscape.org/release/inkscape-1.1/)
 
-- [Building 64-bit Systems for Raspberry Pi 4 with Yocto](https://jumpnowtek.com/rpi/Raspberry-Pi-4-64bit-Systems-with-Yocto.html)
+- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 
-- [Show HN: Kalk, A calculator with math syntax, complex numbers](https://kalk.strct.net)
+- [Complexity Estimator](https://josephmate.github.io/PowersOf2/)
 
-- [Somewhere Under My Left Ribs: A Nurse’s Story (2018)](https://longreads.com/2018/05/31/somewhere-under-my-left-ribs-a-nurses-story/)
+- [How to Test](https://matklad.github.io//2021/05/31/how-to-test.html)
 
-- [Amazon Prime inflates prices, using the false promise of ‘free shipping’](https://mattstoller.substack.com/p/amazon-primes-free-shipping-promise)
+- [Chinese ‘Artificial Sun’ experimental fusion reactor sets world record](https://nation.com.pk/29-May-2021/chinese-artificial-sun-experimental-fusion-reactor-sets-world-record-for-superheated-plasma-time)
 
-- [After years of conflict and instability, Iraq is opening up to tourism](https://monocle.com/magazine/issues/144/open-invitation/)
+- [Rethinking the computer ‘desktop’ as a concept](https://onezero.medium.com/the-document-metaphor-desktop-gui-doesnt-work-anymore-d276271bfa40)
 
-- [Overkill objects for everyday life](https://neil.computer/notes/overkill-objects-for-everyday-life/)
+- [The Heathkit Legacy (2013)](https://people.ohio.edu/postr/bapix/HLegacy.htm)
 
-- [Debugging Interesting Bugs at PostHog](https://neilkakkar.com/debugging-open-source.html)
+- [Sodium rutin extends lifespan and health span in mice by 10%](https://pubmed.ncbi.nlm.nih.gov/33555034/)
 
-- [Drones may have attacked humans fully autonomously for the first time](https://nypost.com/2021/05/29/killer-drone-hunted-down-a-human-target-without-being-told-to/)
+- [Abbrase: password generation using abbreviated phrases](https://rmmh.github.io/abbrase/)
 
-- [Contributing to Gemini ecosystem](https://pitr.ca/2021-05-29-gemini-ecosystem)
-
-- [ReadMe (YC W15) Is Hiring a Head of Product Management with API Experience](https://readme.com/careers#head-of-product-management)
-
-- [RFC.fyi: Browse RFCs by keywords, id or collection](https://rfc.fyi/)
-
-- [Japanese bookstore simulator translated into English after 24 years](https://rhizome.org/editorial/2021/may/18/true-fans-translate-fansubbing-bookstory/)
-
-- [How counting neutrons explains nuclear waste](https://rootsofprogress.org/nuclear-physics)
-
-- [Exhaust EL1 memory from the app sandbox](https://saaramar.github.io/iOS_memory_exhaustion_writeup/)
-
-- [The Shortest Possible Game of Monopoly (2010)](https://scatter.wordpress.com/2010/05/30/the-shortest-possible-game-of-monopoly-21-seconds/)
-
-- [Offload Mental Simulation](https://shalabh.com/programmable-systems/offload-mental-simulation.html)
-
-- [ELIZAGEN: The Original ELIZA source code found](https://sites.google.com/view/elizagen-org/the-original-eliza)
+- [Making Wi-Fi serial console adapters with old portable routers](https://sagacioussuricata.com/posts/openwrt-serial-bridge/)
 
 - [Thoughts on "convergence" in platforms](https://sporks.space/2021/05/31/thoughts-on-convergence-in-platforms/)
 
-- [Cornell and NTT’s Physical Neural Nets Enable Arbitrary Physical System Training](https://syncedreview.com/2021/05/27/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-28/)
+- [Chip-8 in Common Lisp: The CPU (2016)](https://stevelosh.com/blog/2016/12/chip8-cpu/)
 
-- [Terra: Low-level system programming language meta-programmed from Lua](https://terralang.org/)
+- [Sevenhugs exits the universal remote business](https://support.sevenhugs.com/t/35hfcvg)
 
-- [If you frame it like that (2020)](https://theamericanscholar.org/if-you-frame-it-like-that/)
+- [The most expensive number in engineering](https://surjan.substack.com/p/the-most-expensive-number-in-engineering)
+
+- [Google’s new popup will further weaken Facebook’s advertisement business](https://thebigtech.substack.com/p/googles-new-popup-will-further-weaken)
 
 - [A slightly different way to generate strong, memorable passwords](https://throughascreendarkly.com/2021/05/31/a-slightly-different-way-to-generate-strong-memorable-passwords/)
 
-- [Web Dev History](https://webdevelopmenthistory.com/index/)
+- [Small B Blogging (2018)](https://tomcritchlow.com/2018/02/23/small-b-blogging/)
 
-- [NSA spying row: Denmark helped US gather data on European officials, says report](https://www.bbc.com/news/world-europe-57302806)
+- [AMD Demonstrates Stacked 3D V-Cache Technology: 192 MB at 2 TB/SEC](https://www.anandtech.com/show/16725/amd-demonstrates-stacked-vcache-technology-2-tbsec-for-15-gaming)
 
-- [Naomi Osaka faces default from Grand Slam for refusing to speak to media](https://www.bbc.com/sport/tennis/57301475)
+- [We only ever talk about the third attack on Pearl Harbor](https://www.butwhatfor.com/admiral-yarnell-and-an-attack-on-pearl-harbor/)
 
-- [James Bond Unmasked (1968)](https://www.commentarymagazine.com/articles/mordecai-richler/james-bond-unmasked/)
+- [UUID, serial or identity columns for PostgreSQL auto-generated primary keys?](https://www.cybertec-postgresql.com/en/uuid-serial-or-identity-columns-for-postgresql-auto-generated-primary-keys/)
 
-- [Wikipedia is swimming in money–why is it begging people to donate?](https://www.dailydot.com/debug/wikipedia-endownemnt-fundraising/)
+- [The May 18 Gwangju Uprising](https://www.datasecretslox.com/index.php/topic,3506.0.html?PHPSESSID=d15c31b38395146f6e114073ff5a02d1)
 
-- [Danish whistleblower details NSA collaboration, cable and data center spying](https://www.datacenterdynamics.com/en/news/danish-whistleblower-details-nsa-collaboration-submarine-cable-spying-surveillance-data-center/)
+- [Dragon Go Server](https://www.dragongoserver.net/)
 
-- [Improving ventilation will help curb SARS-CoV-2](https://www.economist.com/science-and-technology/2021/05/26/improving-ventilation-will-help-curb-sars-cov-2)
+- [A Macro View of Nanite](https://www.elopezr.com/a-macro-view-of-nanite/)
 
-- [Quantization and Deployment of Deep Neural Networks on Microcontrollers](https://www.mdpi.com/1424-8220/21/9/2984/htm)
+- [How to Speak Cicada](https://www.insidescience.org/news/how-speak-cicada)
 
-- [The Myth of the Olympics (2004)](https://www.nybooks.com/articles/2004/10/21/the-myth-of-the-olympics/)
+- [High-Resolution Photorealistic Image Translation in Real-Time](https://www.louisbouchard.ai/4k-image-translation-in-real-time/)
 
-- [I Was Paralyzed by Severe Depression. Then Came Ketamine](https://www.nytimes.com/2021/05/30/opinion/ketamine-treatment-depression.html)
-
-- [Commodore’s Assemblers: Part 3: BSO CY6502](https://www.pagetable.com/?p=1538)
+- [Send in the bugs, the Michelangelos need cleaning](https://www.nytimes.com/2021/05/30/arts/bacteria-cleaning-michelangelo-medici-restoration.html)
 
 - [Drunk Post: Things I've learned as a Sr Engineer](https://www.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/)
 
+- [Testing in the Twenties](https://www.tbray.org/ongoing/When/202x/2021/05/15/Testing-in-2021)
+
+- [New report details Beijing’s foreign influence operations in Canada](https://www.theglobeandmail.com/politics/article-new-report-details-beijings-foreign-influence-operations-in-canada/)
+
 - [A Dive into Ray Tracing Performance on the Apple M1](https://www.willusher.io/graphics/2020/12/20/rt-dive-m1)
 
-- [Windows 10 nagging users with Bing advertisements (push alerts)](https://www.windowslatest.com/2021/05/31/windows-10-is-now-nagging-users-with-microsoft-bing-alerts/)
+- [FreeBSD 13.0 – Virtualization – Part 2 – bhyve – AMD Ryzen 3950X – RTX 2060](https://www.youtube.com/watch?v=Y1FuxpahDrM)
 
-- [Emacs link scraping (2021 edition)](https://xenodium.com/emacs-link-scraping-2021-edition/)
+- [Using Wikipedia as an Impromptu RottenTomatoes API](https://zverok.github.io/blog/2021-05-31-rottentomatoes_wikipedia.html)
