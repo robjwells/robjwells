@@ -1,103 +1,103 @@
-- [JavaScript and the next decade of data programming](http://benschmidt.org/post/2020-01-15/2020-01-15-webgpu/)
+- [The Dafny Power User](http://leino.science/dafny-power-user/)
 
-- [Telnet Mapscii.me](http://mapscii.me)
+- [Keep Your Identity Small (2009)](http://www.paulgraham.com/identity.html)
 
-- [The Problem with CPUs and Kubernetes](https://andydote.co.uk/2021/06/02/os-cpus-and-kubernetes/)
+- [actually, BSD kqueue is a mountain of technical debt](https://ariadne.space/2021/06/06/actually-bsd-kqueue-is-a-mountain-of-technical-debt/)
 
-- [Physicists unlock multispectral secrets of earliest color photographs](https://arstechnica.com/science/2021/06/physicists-unlock-multispectral-secrets-of-earliest-color-photographs/)
+- [My second cup of Rust](https://blog.frankel.ch/start-rust/2/)
 
-- [Predictive Coding Can Do Exact Backpropagation on Any Neural Network](https://arxiv.org/abs/2103.04689)
+- [Capsule Challenges Vacuum Tube (1948)](https://books.google.com/books?id=YCcDAAAAMBAJ&pg=PA117)
 
-- [Yann LeCun Deep Learning Course 2021](https://atcold.github.io/NYU-DLSP21/)
+- [Introducing 8088ify: The CP/M to MS-DOS assembly translator](https://briancallahan.net/blog/20210606.html)
 
-- [Going beyond Ada 2022](https://blog.adacore.com/going-beyond-ada-2022)
+- [OSS Clojure-Datalog Databases](https://clojurelog.github.io/)
 
-- [string vs. String is not a style debate](https://blog.paranoidcoding.com/2019/04/08/string-vs-String-is-not-about-style.html)
+- [Making better decisions with the Brier score](https://datarecipes.io/posts/brier_score/)
 
-- [An Unbelievable Demo](https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html)
+- [Dolphin MEGA Progress Report: April and May 2021](https://dolphin-emu.org/blog/2021/06/06/dolphin-progress-report-april-and-may-2021/)
 
-- [HTML and CSS techniques to reduce your JavaScript](https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/)
+- [ST3000DM001](https://en.wikipedia.org/wiki/ST3000DM001)
 
-- [A Post-Mortem in 5 Acts, of How Microsoft Privatized Open Source, killing JavaScript in the Process](https://clarity.kleydints.com/a-post-mortem-in-5-acts-of-how-microsoft-privatized-open-source-killing-javascript-in-the-process-62ee5fc77d9e)
+- [Show HN: Embedded Ring Buffer C++98](https://github.com/Bambofy/EmbeddedRingBuffer)
 
-- [From Competitive Programming to APL](https://corecursive.com/065-competitive-coding-with-conor-hoekstra/)
+- [Show HN: Mlatu, a Concatenative Programming Language](https://github.com/brightly-salty/mlatu)
 
-- [Stanford CS Curriculum 2021](https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview)
+- [Tails, A Fast C++ Forth Core](https://github.com/snej/tails)
 
-- [Facebook deals with PCIe faults to keep our data centers running reliably](https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/)
+- [Stateright: A model checker for implementing distributed systems](https://github.com/stateright/stateright)
 
-- [Elixir at Ramp](https://engineering.ramp.com/elixir-at-ramp/)
+- [HN “Why Not Simply”](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=%22why%20not%20simply%22&sort=byPopularity&type=comment)
 
-- [Non-technical security best-practices for open source projects](https://git.sr.ht/~gregkh/presentation-non-tech-security)
+- [If someone’s having to read your docs, it’s not “simple”](https://justsimply.dev)
 
-- [A humble bunch of handy scripts](https://gitlab.com/dacav/wtf)
+- [The right tag for the job: why you should use semantic HTML](https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-use-semantic-html/)
 
-- [Open Source Casebook](https://google.github.io/opencasebook/)
+- [Password Managers](https://lock.cmpxchg8b.com/passmgrs.html)
 
-- [Patents in Open Source: the important parts of real cases](https://google.github.io/opencasebook/patents/)
+- [The repeated deaths of OOP](https://loup-vaillant.fr/articles/deaths-of-oop)
 
-- [1990: LambdaMOO](https://if50.substack.com/p/1990-lambdamoo)
+- [A New Future for Icanhazip](https://major.io/2021/06/06/a-new-future-for-icanhazip/)
 
-- [Silverwolf, 50 years of text games](https://if50.substack.com/p/1992-silverwolf)
+- [Mastershot – Web based video editor](https://mastershot.app)
 
-- [Compound (YC S19) is hiring to build financial products for startup employees](https://jobs.lever.co/compound)
+- [Introducing NativeShell for Flutter (Simple Rust FFI & platform native UI)](https://matejknopp.com/post/introducing-nativeshell/)
 
-- [History of ZFS and how OpenZFS was born](https://klarasystems.com/articles/history-of-zfs-part-2-exploding-in-popularity/)
+- [Docker is a compiler](https://matt-rickard.com/docker-is-a-compiler/)
 
-- [GF likes texts. I'm not a good texter. "App for that?" Nope. My first app story](https://medium.com/@mtc.dev/my-first-android-app-story-331c98270ec4?source=friends_link)
+- [Laptop review: ThinkPad X1 Extreme (Gen 2)](https://michael.stapelberg.ch/posts/2021-06-05-laptop-review-lenovo-thinkpad-x1-extreme-gen2/)
 
-- [More macOS Installer Flaws](https://medium.com/tenable-techblog/more-macos-installer-flaws-c868d9067eb3)
+- [Science Is Shaped by Wikipedia: Evidence from a Randomized Control Trial](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3039505)
 
-- [TinyPilot: Month 11](https://mtlynch.io/retrospectives/2021/06/)
+- [The Dangers of Low Head Dams (2019)](https://practical.engineering/blog/2019/3/16/drowning-machine-the-dangers-of-low-head-dams)
 
-- [The Endless Work of Trying to Win Yourself a New Life](https://newrepublic.com/article/162328/endless-work-trying-win-new-life)
+- [How we achieved write speeds of 1.4M rows per second](https://questdb.io/blog/2021/05/10/questdb-release-6-0-tsbs-benchmark)
 
-- [NitrOS-9, Unix-like operating system for the 6809](https://nitros9.sourceforge.io/wiki/index.php/Main_Page)
+- [The pedantic checklist for changing your data model in a web application](https://rtpg.co/2021/06/07/changes-checklist.html)
 
-- [Swift needs a better language reference](https://oleb.net/2021/swift-language-reference/)
+- [An animated & interactive guide to building Tetris in ClojureScript](https://shaunlebron.github.io/t3tr0s-slides/#0)
 
-- [Command Palette Interfaces](https://philipcdavis.com/writing/command-palette-interfaces)
+- [An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
 
-- [People Don't Write Programs](https://pron.github.io/posts/people-dont-write-programs)
+- [Potemkin villages and the autocracy of design](https://sporks.space/2021/06/07/potemkin-villages-and-the-autocracy-of-design/)
 
-- [TIL How RetroForth Implements Deferred Behavior](https://rickcarlino.com/2021/06/01/til-how-retroforth-implements-deferred-behavior-html.html)
+- [Hundreds of fishing vessels vanishing along Argentina’s waters](https://usa.oceana.org/publications/reports/oceana-finds-hundreds-vessels-vanishing-along-argentinas-waters#)
 
-- [PM and EM Rules of Engagement](https://segment.com/blog/product-manager-engineering-manager-rules-of-engagement/)
+- [The Levenshtein distance in production (2020)](https://vishnubharathi.codes/blog/levenshtein-distance/index.html)
 
-- [How malloc broke Serenity's JPGLoader, or: how to win the lottery](https://sin-ack.github.io/posts/jpg-loader-bork/)
+- [FreeBSD from a NetBSD developer’s perspective](https://washbear.neocities.org/freebsd-netbsd-user.html)
 
-- [How a Jenkins Job Broke our Jenkins UI](https://slack.engineering/how-a-jenkins-job-broke-our-jenkins-ui/)
+- [Daniel Ellsberg: The 90-year-old whistleblower tempting prosecution](https://www.bbc.co.uk/news/world-us-canada-57341592)
 
-- [Robot Sticks to Ceilings by Vibrating a Flexible Disc](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/robot-sticks-to-ceilings)
+- [Photographer captures 'odd but exciting' crow behaviour known as anting](https://www.cbc.ca/news/canada/british-columbia/curious-crow-behavior-known-as-anting-looks-like-violent-dirt-bath-1.6053823)
 
-- [Why we need multi-line short closures in PHP](https://stitcher.io/blog/why-we-need-multi-line-short-closures-in-php)
+- [Why are American workers becoming harder to find?](https://www.economist.com/finance-and-economics/2021/04/29/why-are-american-workers-becoming-harder-to-find)
 
-- [Tour of our 250k line Clojure codebase](https://tech.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/)
+- [A growing number of governments hope to clone DARPA](https://www.economist.com/science-and-technology/2021/06/03/a-growing-number-of-governments-hope-to-clone-americas-darpa)
 
-- [The Legends of Runeterra CI/CD Pipeline](https://technology.riotgames.com/news/legends-runeterra-cicd-pipeline)
+- [If Not Overturned, a Bad Copyright Decision Will Lead Many Americans to Lose Internet Access](https://www.eff.org/deeplinks/2021/06/if-not-overturned-bad-copyright-decision-will-lead-many-americans-lose-internet)
 
-- [Cocoa Touch apps (2007)](https://twitter.com/techemails/status/1400270458608664577)
+- [RISC vs. CISC Is the Wrong Lens for Comparing Modern x86, ARM CPUs](https://www.extremetech.com/computing/323245-risc-vs-cisc-why-its-the-wrong-lens-to-compare-modern-x86-arm-cpus)
 
-- [A new ProtoBuf generator for Go](https://vitess.io/blog/2021-06-03-a-new-protobuf-generator-for-go/)
+- [The SaaS CTO Security Checklist Redux](https://www.goldfiglabs.com/guide/saas-cto-security-checklist/)
 
-- [NetBSD on the Vortex86DX CPU](https://www.cambus.net/netbsd-on-the-vortex86dx-cpu/)
+- [Clever vs. Insightful Code](https://www.hillelwayne.com/post/cleverness/)
 
-- [United Airlines will buy 15 planes from Boom Supersonic](https://www.cnbc.com/2021/06/03/united-will-buy-15-ultrafast-airplanes-from-start-up-boom-supersonic.html)
+- [On 'Biweekly' and 'Bimonthly'](https://www.merriam-webster.com/words-at-play/on-biweekly-and-bimonthly)
 
-- [We Interrupt This Program…](https://www.eejournal.com/article/we-interrupt-this-program/)
+- [Commodore’s Assemblers: HCD65](https://www.pagetable.com/?p=1540)
 
-- [2021 - The Year Windows Became a First Class Python Development Environment](https://www.feoh.org/2021-the-year-windows-became-a-first-class-python-development-environment.html)
+- [Interview with Emma Tang: ex Data Infrastructure Lead, Stripe](https://www.softwareatscale.dev/p/software-at-scale-13-emma-tang-ex)
 
-- [Design issues in LLVM IR](https://www.npopov.com/2021/06/02/Design-issues-in-LLVM-IR.html)
+- [MAZE: Towards Automated Heap Feng Shui](https://www.usenix.org/system/files/sec21fall-wang-yan.pdf)
 
-- [U.S. to give ransomware hacks similar priority as terrorism, official says](https://www.reuters.com/article/cyber-usa-ransomware-idUSL2N2NC1SD)
+- [It’s time to ditch Chrome](https://www.wired.co.uk/article/google-chrome-browser-data)
 
-- [US Supreme Court Restricts Scope of Computer Fraud and Abuse Act [pdf]](https://www.supremecourt.gov/opinions/20pdf/19-783_k53l.pdf)
+- [Gene sequencer malware injection via encoded DNA (2017)](https://www.wired.com/story/malware-dna-hack/)
 
-- [Camera Calibration from Scratch Using Rust](https://www.tangramvision.com/blog/calibration-from-scratch-using-rust-part-1-of-3)
+- [Cicero used humor to charm audiences–and humiliate opponents](https://www.wsj.com/articles/how-to-tell-a-joke-review-a-funny-thing-happened-on-the-way-to-the-forum-11622821485)
 
-- [The lab-leak theory: inside the fight to uncover Covid-19â€™s origins](https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins)
+- [PocketSuite Is hiring Lead Engineers, Product Designers to enrich small business](https://www.ycombinator.com/companies/pocketsuite)
 
-- [The long, strange life of the naked mole rat](https://www.wired.com/story/long-strange-life-worlds-oldest-naked-mole-rat/)
+- [How does a USB keyboard work?](https://www.youtube.com/watch?v=wdgULBpRoXk)
 
-- [Emacs DWIM: do what *I* mean](https://xenodium.com/emacs-dwim-do-what-i-mean)
+- [Half a year of the Liquid Tensor Experiment: Amazing developments](https://xenaproject.wordpress.com/2021/06/05/half-a-year-of-the-liquid-tensor-experiment-amazing-developments/)
