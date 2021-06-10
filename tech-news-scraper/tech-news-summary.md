@@ -1,103 +1,103 @@
-- [The Dafny Power User](http://leino.science/dafny-power-user/)
+- [The memory models that underlie programming languages (2016)](http://canonical.org/~kragen/memory-models/)
 
-- [Keep Your Identity Small (2009)](http://www.paulgraham.com/identity.html)
+- [Mypy 0.900 Released](http://mypy-lang.blogspot.com/2021/06/mypy-0900-released.html)
 
-- [actually, BSD kqueue is a mountain of technical debt](https://ariadne.space/2021/06/06/actually-bsd-kqueue-is-a-mountain-of-technical-debt/)
+- [JEP draft: Universal Generics (Preview)](http://openjdk.java.net/jeps/8261529)
 
-- [My second cup of Rust](https://blog.frankel.ch/start-rust/2/)
+- [Angband 4.2.2: A free, single-player roguelike dungeon exploration game](http://rephial.org/)
 
-- [Capsule Challenges Vacuum Tube (1948)](https://books.google.com/books?id=YCcDAAAAMBAJ&pg=PA117)
+- [The All-American Bank Heist (2010)](http://www.davidkushner.com/article/the-all-american-bank-heist/)
 
-- [Introducing 8088ify: The CP/M to MS-DOS assembly translator](https://briancallahan.net/blog/20210606.html)
+- [Notes on the HotOS Unix Shell Panel](http://www.oilshell.org/blog/2021/06/hotos-shell-panel.html)
 
-- [OSS Clojure-Datalog Databases](https://clojurelog.github.io/)
+- [ALPACA Attack](https://alpaca-attack.com)
 
-- [Making better decisions with the Brier score](https://datarecipes.io/posts/brier_score/)
+- [What would you pay for autonomous driving? Volkswagen hopes $8.50 per hour](https://arstechnica.com/cars/2021/06/volkswagen-plans-to-offer-subscriptions-for-autonomous-driving-extra-ev-range/)
 
-- [Dolphin MEGA Progress Report: April and May 2021](https://dolphin-emu.org/blog/2021/06/06/dolphin-progress-report-april-and-may-2021/)
+- [Obfuscating "Hello world!"](https://benkurtovic.com/2014/06/01/obfuscating-hello-world.html)
 
-- [ST3000DM001](https://en.wikipedia.org/wiki/ST3000DM001)
+- [Hacking Unity Games with Malicious GameObjects](https://blog.includesecurity.com/2021/06/hacking-unity-games-malicious-unity-game-objects/)
 
-- [Show HN: Embedded Ring Buffer C++98](https://github.com/Bambofy/EmbeddedRingBuffer)
+- [Glue: the Dark Matter of Software](https://blog.metaobject.com/2021/06/glue-dark-matter-of-software.html)
 
-- [Show HN: Mlatu, a Concatenative Programming Language](https://github.com/brightly-salty/mlatu)
+- [I wrote a linker everyone can understand](https://briancallahan.net/blog/20210609.html)
 
-- [Tails, A Fast C++ Forth Core](https://github.com/snej/tails)
+- [My Homelab Build](https://christine.website/blog/my-homelab-2021-06-08)
 
-- [Stateright: A model checker for implementing distributed systems](https://github.com/stateright/stateright)
+- [2021.06.08 Certificate Lifetime Incident](https://community.letsencrypt.org/t/2021-06-08-certificate-lifetime-incident/153426)
 
-- [HN “Why Not Simply”](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=%22why%20not%20simply%22&sort=byPopularity&type=comment)
+- [Introducing chrome.scripting](https://developer.chrome.com/blog/crx-scripting-api/)
 
-- [If someone’s having to read your docs, it’s not “simple”](https://justsimply.dev)
+- [Deep JavaScript](https://exploringjs.com/deep-js/toc.html)
 
-- [The right tag for the job: why you should use semantic HTML](https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-use-semantic-html/)
+- [Kelly Criterion – how to calculate optimal bet sizes](https://fhur.github.io/notes/articles/the-kelly-criterion/index.html)
 
-- [Password Managers](https://lock.cmpxchg8b.com/passmgrs.html)
+- [How to circumvent Sci-Hub ISP block](https://fragile-credences.github.io/scihub-proxy/)
 
-- [The repeated deaths of OOP](https://loup-vaillant.fr/articles/deaths-of-oop)
+- [Python Random Graph Generator](https://github.com/sepandhaghighi/pyrgg)
 
-- [A New Future for Icanhazip](https://major.io/2021/06/06/a-new-future-for-icanhazip/)
+- [iOS4 Built in SwiftUI](https://github.com/zzanehip/The-OldOS-Project)
 
-- [Mastershot – Web based video editor](https://mastershot.app)
+- [Tail-call optimization in Elm](https://jfmengels.net/tail-call-optimization/)
 
-- [Introducing NativeShell for Flutter (Simple Rust FFI & platform native UI)](https://matejknopp.com/post/introducing-nativeshell/)
+- [Always Be Quitting](https://jmmv.dev/2021/04/always-be-quitting.html)
 
-- [Docker is a compiler](https://matt-rickard.com/docker-is-a-compiler/)
+- [Recommendations for the probity of computer evidence](https://journals.sas.ac.uk/deeslr/article/view/5240/5083)
 
-- [Laptop review: ThinkPad X1 Extreme (Gen 2)](https://michael.stapelberg.ch/posts/2021-06-05-laptop-review-lenovo-thinkpad-x1-extreme-gen2/)
+- [Need Something Sorted? Sleep on It! [sleep sort]](https://kevlinhenney.medium.com/need-something-sorted-sleep-on-it-11fdf8453914)
 
-- [Science Is Shaped by Wikipedia: Evidence from a Randomized Control Trial](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3039505)
+- [Don’t stall your burnout recovery](https://leaddev.com/self-care-burnout/dont-stall-your-burnout-recovery)
 
-- [The Dangers of Low Head Dams (2019)](https://practical.engineering/blog/2019/3/16/drowning-machine-the-dangers-of-low-head-dams)
+- [Graphs](https://lonami.dev/blog/graphs/)
 
-- [How we achieved write speeds of 1.4M rows per second](https://questdb.io/blog/2021/05/10/questdb-release-6-0-tsbs-benchmark)
+- [iOS 15 Humane](https://potential.app/ios-15-humane)
 
-- [The pedantic checklist for changing your data model in a web application](https://rtpg.co/2021/06/07/changes-checklist.html)
+- [The Plan for React 18](https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html)
 
-- [An animated & interactive guide to building Tetris in ClojureScript](https://shaunlebron.github.io/t3tr0s-slides/#0)
+- [Rocket Web Framework v0.5 Release Candidate](https://rocket.rs/v0.5-rc/news/2021-06-09-version-0.5-rc.1/)
 
-- [An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
+- [Don't create for an imaginary group of people](https://sarvasvkulpati.com/blog/the-faceless-other)
 
-- [Potemkin villages and the autocracy of design](https://sporks.space/2021/06/07/potemkin-villages-and-the-autocracy-of-design/)
+- [Althttpd: The Althttpd Webserver](https://sqlite.org/althttpd/doc/trunk/althttpd.md)
 
-- [Hundreds of fishing vessels vanishing along Argentina’s waters](https://usa.oceana.org/publications/reports/oceana-finds-hundreds-vessels-vanishing-along-argentinas-waters#)
+- [DeepMind says reinforcement learning is ‘enough’ to reach general AI](https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/)
 
-- [The Levenshtein distance in production (2020)](https://vishnubharathi.codes/blog/levenshtein-distance/index.html)
+- [Your `~/.bashrc` doesn't have to be a mess](https://write.as/bpsylevc6lliaspe)
 
-- [FreeBSD from a NetBSD developer’s perspective](https://washbear.neocities.org/freebsd-netbsd-user.html)
+- ['Miraculous' mosquito hack cuts dengue by 77%](https://www.bbc.co.uk/news/health-57417219)
 
-- [Daniel Ellsberg: The 90-year-old whistleblower tempting prosecution](https://www.bbc.co.uk/news/world-us-canada-57341592)
+- ['Miraculous' mosquito hack cuts dengue by 77%](https://www.bbc.com/news/health-57417219)
 
-- [Photographer captures 'odd but exciting' crow behaviour known as anting](https://www.cbc.ca/news/canada/british-columbia/curious-crow-behavior-known-as-anting-looks-like-violent-dirt-bath-1.6053823)
+- [Facebook extends its work-at-home policy to most employees](https://www.cnbc.com/2021/06/09/facebook-will-let-all-employees-who-can-work-remotely-to-request-full-time-remote-work.html)
 
-- [Why are American workers becoming harder to find?](https://www.economist.com/finance-and-economics/2021/04/29/why-are-american-workers-becoming-harder-to-find)
+- [A Flying Demo of ACL2 (2000)](https://www.cs.utexas.edu/users/moore/publications/flying-demo/script.html)
 
-- [A growing number of governments hope to clone DARPA](https://www.economist.com/science-and-technology/2021/06/03/a-growing-number-of-governments-hope-to-clone-americas-darpa)
+- [Launch HN: Explo (YC W20) – Customer-facing dashboards and reports](https://www.explo.co/)
 
-- [If Not Overturned, a Bad Copyright Decision Will Lead Many Americans to Lose Internet Access](https://www.eff.org/deeplinks/2021/06/if-not-overturned-bad-copyright-decision-will-lead-many-americans-lose-internet)
+- [The Risk of Cargo Liquefaction](https://www.maritime-executive.com/editorials/the-risk-of-cargo-liquefaction)
 
-- [RISC vs. CISC Is the Wrong Lens for Comparing Modern x86, ARM CPUs](https://www.extremetech.com/computing/323245-risc-vs-cisc-why-its-the-wrong-lens-to-compare-modern-x86-arm-cpus)
+- [Some funny engineering/programmer jokes](https://www.powerstream.com/powerhumor.htm)
 
-- [The SaaS CTO Security Checklist Redux](https://www.goldfiglabs.com/guide/saas-cto-security-checklist/)
+- [What makes quantum computing so hard to explain?](https://www.quantamagazine.org/why-is-quantum-computing-so-hard-to-explain-20210608/)
 
-- [Clever vs. Insightful Code](https://www.hillelwayne.com/post/cleverness/)
+- [Sweden’s Northvolt raises $2.8B to supercharge EV battery output](https://www.reuters.com/business/energy/battery-maker-northvolt-raises-275-bln-expand-factory-2021-06-09/)
 
-- [On 'Biweekly' and 'Bimonthly'](https://www.merriam-webster.com/words-at-play/on-biweekly-and-bimonthly)
+- [TC Energy scraps Keystone XL pipeline project after Biden revokes key permit](https://www.reuters.com/business/energy/tc-energy-terminates-keystone-xl-pipeline-project-2021-06-09/)
 
-- [Commodore’s Assemblers: HCD65](https://www.pagetable.com/?p=1540)
+- [Neuroscientists Have Discovered a Phenomenon That They Can’t Explain](https://www.theatlantic.com/science/archive/2021/06/the-brain-isnt-supposed-to-change-this-much/619145/)
 
-- [Interview with Emma Tang: ex Data Infrastructure Lead, Stripe](https://www.softwareatscale.dev/p/software-at-scale-13-emma-tang-ex)
+- [Goa’s last typewriter repair shop defied the digital age](https://www.theguardian.com/global-development/2021/jun/08/revert-to-type-how-goas-last-typewriter-repair-shop-defied-the-digital-age)
 
-- [MAZE: Towards Automated Heap Feng Shui](https://www.usenix.org/system/files/sec21fall-wang-yan.pdf)
+- [24,000-year-old organisms found frozen in Siberia can still reproduce – Zoology](https://www.theguardian.com/science/2021/jun/07/24000-year-old-organisms-found-frozen-in-siberia-can-still-reproduce)
 
-- [It’s time to ditch Chrome](https://www.wired.co.uk/article/google-chrome-browser-data)
+- [How Universal Control on macOS Monterey Works](https://www.theverge.com/2021/6/8/22523613/macos-monterey-wwdc-apple-ipad)
 
-- [Gene sequencer malware injection via encoded DNA (2017)](https://www.wired.com/story/malware-dna-hack/)
+- [M2 release of Unison - FP language with content-addressable code](https://www.unisonweb.org/2021/06/03/m2-release/)
 
-- [Cicero used humor to charm audiences–and humiliate opponents](https://www.wsj.com/articles/how-to-tell-a-joke-review-a-funny-thing-happened-on-the-way-to-the-forum-11622821485)
+- [A mystery cube, a secret identity, and a puzzle solved after 15 years](https://www.wired.co.uk/article/perplex-city-satoshi)
 
-- [PocketSuite Is hiring Lead Engineers, Product Designers to enrich small business](https://www.ycombinator.com/companies/pocketsuite)
+- [Hackers Stole $650k and Got Away, Showing Limits to Law Enforcement’s Reach](https://www.wsj.com/articles/hackers-stole-650-000-from-nonprofit-and-got-away-showing-limits-to-law-enforcements-reach-11623058201)
 
-- [How does a USB keyboard work?](https://www.youtube.com/watch?v=wdgULBpRoXk)
+- [Heavier Passengers on Planes Mean New Safety Limits for Airlines](https://www.wsj.com/articles/heavier-passengers-on-planes-mean-new-safety-limits-for-airlines-11623243606)
 
-- [Half a year of the Liquid Tensor Experiment: Amazing developments](https://xenaproject.wordpress.com/2021/06/05/half-a-year-of-the-liquid-tensor-experiment-amazing-developments/)
+- [LayerCI (YC S20) Is hiring interns to build devtools for webapps in Canada](https://www.ycombinator.com/companies/layerci/jobs/wyUcmvS-software-developer-intern-sep-dec-2021)
