@@ -1,105 +1,101 @@
-- [Show HN: Influence, a Go-inspired 1-minute board game](http://cintrest.com/influence/)
+- [Sudoku as a SAT Problem (2006)](http://anytime.cs.umass.edu/aimath06/proceedings/P34.pdf)
 
-- [The 88x31 GIF Collection](http://cyber.dabamos.de/88x31/)
+- [Vespucci – OpenStreetMap Editor for Android](http://vespucci.io/)
 
-- [Main is usually a function. So then when is it not?](http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html)
+- [Kazakhstan’s forest is the birthplace of modern apples](http://www.bbc.com/travel/story/20181120-the-birthplace-of-the-modern-apple)
 
-- [Don't just shorten your URL, make it suspicious and frightening (2010)](http://shadyurl.com/create.php)
+- [Video: Creating a macOS Droplet with AppleScript](https://andregarzia.com/2021/05/video-creating-a-macos-droplet-with-applescript.html)
 
-- [Finish Your Stuff (2015)](https://250bpm.com/blog:50/)
+- [Jerry (YC S17) Is Hiring Remote Senior Software Engineer](https://apply.workable.com/jerry/j/07E1D2B302/)
 
-- [Bear plus snowflake equals polar bear](https://andysalerno.com/posts/weird-emojis/)
+- [GSH: an Ada POSIX Shell to Speed Up GNU Builds on Windows (2019)](https://archive.fosdem.org/2019/schedule/event/ada_shell/)
 
-- [Critical entities targeted in suspected Chinese cyber spying](https://apnews.com/article/government-and-politics-hacking-technology-business-7350235e07d46ba5afc1238b553ea4b9)
+- [ZFS fans, rejoice – RAIDz expansion will be a thing soon](https://arstechnica.com/gadgets/2021/06/raidz-expansion-code-lands-in-openzfs-master/)
 
-- [Building a WebAuthn Click Farm](https://betterappsec.com/building-a-webauthn-click-farm-are-captchas-obsolete-bfab07bb798c)
+- [Starlink dishes go into “thermal shutdown” once they hit 122° Fahrenheit](https://arstechnica.com/information-technology/2021/06/starlink-dish-overheats-in-arizona-sun-knocking-user-offline-for-7-hours/)
 
-- [Modulinos In Bash](https://blog.dnmfarrell.com/post/modulinos-in-bash/)
+- [ARTSEY - One-Handed Keyboard](https://artsey.io/)
 
-- [Unreliability at Scale](https://blog.dshr.org/2021/06/unreliability-at-scale.html?m=1)
+- [Estimating the Prevalence of Surveillance Cameras with Street View Data](https://arxiv.org/abs/2105.01764)
 
-- [Writing fast async HTTP requests in Python](https://blog.jonlu.ca/posts/async-python-http)
+- [Adafruit interviews Siemens re SupplyFrame, the future of Hackaday, Tindie](https://blog.adafruit.com/2021/06/18/adafruit-interviews-siemens-supplyframe-the-future-of-hackaday-tindie-and-more/)
 
-- [Introducing cap-std, a capability-based version of the Rust standard library](https://blog.sunfishcode.online/introducing-cap-std/)
+- [Unreliability At Scale](https://blog.dshr.org/2021/06/unreliability-at-scale.html)
 
-- [Comment the Why *and* the What](https://buttondown.email/hillelwayne/archive/comment-the-why-and-the-what/)
+- [A Guide to Undefined Behavior in C and C++](https://blog.regehr.org/archives/213)
 
-- [How You Fail To Implement Skinning](https://dickyjim.wordpress.com/2016/09/19/how-you-fail-to-implement-skinning/)
+- [Branch magazine - Issue 2](https://branch.climateaction.tech/issues/issue-2/)
 
-- [Amazon is blocking Google’s FLoC](https://digiday.com/media/amazon-is-blocking-googles-floc-and-that-could-seriously-weaken-the-fledgling-tracking-system/)
+- [Mars helicopter employs advanced control techniques to survive in-flight anomaly](https://control.com/news/mars-helicopter-employs-advanced-control-techniques-to-survive-an-in-flight-anomaly/)
 
-- [Baby's first Rust with extra steps (XPC, launchd, and FFI)! - dstancu@web](https://dstancu.net/macos/rust/ffi/xpc/ncurses/2021/06/15/rust-xpc-ffi.html)
+- [io_uring is not an event system](https://despairlabs.com/posts/2021-06-16-io-uring-is-not-an-event-system/)
 
-- [Emacs Love Tale by sdp](https://emacs.love/tales/emacs-love-tale-by-sdp.html)
+- [Learning to Love a Rigid and Inflexible Language](https://devblog.blackberry.com/en/2021/05/learning-to-love-a-rigid-and-inflexible-language)
 
-- [Fsspec: Filesystem Interfaces for Python](https://filesystem-spec.readthedocs.io/en/latest/index.html)
+- [Design for Safari 15](https://developer.apple.com/videos/play/wwdc2021/10029/?t=66)
 
-- [EFF Browser Tracker Simulator](https://firstpartysimulator.org/)
+- [Can programming be liberated from the von Neumann style? (1978)](https://dl.acm.org/doi/10.1145/359576.359579)
 
-- [Well-behaved bubbles often make history](https://future.a16z.com/well-behaved-bubbles-history-innovation/)
+- [The only way to go fast, is to go well](https://factorio.com/blog/post/fff-366)
 
-- [What we learned doing Fast Grants](https://future.com/what-we-learned-doing-fast-grants/)
+- [The Wrong Way to Switch Operating Systems on Your Server](https://figbert.com/posts/wrong-way-to-switch-server-os/)
 
-- [Ripgrep 13.0.0 released](https://github.com/BurntSushi/ripgrep/releases/tag/13.0.0)
+- [Data-Oriented Design (Or Why You Might Be Shooting Yourself in The Foot With OOP)](https://gamesfromwithin.com/data-oriented-design)
 
-- [Amazon S3 quietly deprecates BitTorrent support](https://github.com/awsdocs/amazon-s3-userguide/commit/0d1759880ccb1818ab0f14129ba1321c519d2ac1)
+- [BBC Programme Index: 9M listings and 221k playable programmes](https://genome.ch.bbc.co.uk/)
 
-- [Gooey: turn (almost) any Python Console Program into a GUI application with one line](https://github.com/chriskiehl/Gooey)
+- [SNES – Super Mario World Widescreen](https://github.com/VitorVilela7/wide-snes)
 
-- [Fully Homomorphic Encryption](https://github.com/google/fully-homomorphic-encryption)
+- [tomnomnom/gron - Make JSON greppable](https://github.com/tomnomnom/gron)
 
-- [dida - differential dataflow for mere mortals](https://github.com/jamii/dida)
+- [v0.16 - Gleam compiles to JavaScript](https://gleam.run/news/v0.16-gleam-compiles-to-javascript/)
 
-- [On Comments in Code](https://henrikwarne.com/2021/06/15/on-comments-in-code/)
+- [A Tired Raccoon’s Containerization Manifesto: Just Do the Containering](https://glyph.twistedmatrix.com/2021/06/trash-panda-devops.html)
 
-- [Reverie Labs (YC W18) Is Hiring an ML Lead in Cambridge, MA](https://jobs.lever.co/reverielabs/d4599250-a05d-4d31-9810-12330b3c73e5)
+- [Minimum Viable Self](https://kneelingbus.substack.com/p/162-minimum-viable-self)
 
-- [Sick of the stupid jokes? Write your own arbitrary-precision JavaScript math library](https://jrsinclair.com/articles/2020/sick-of-the-jokes-write-your-own-arbitrary-precision-javascript-math-library/)
+- [Fedora contemplates the driverless printing future](https://lwn.net/Articles/857502/)
 
-- [Why bugs might feel “impossible”](https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/)
+- [Maddy: Composable all-in-one mail server](https://maddy.email)
 
-- [How Does One Get Hired by a Top Cybercrime Gang?](https://krebsonsecurity.com/2021/06/how-does-one-get-hired-by-a-top-cybercrime-gang/)
+- [Maddy: Composable all-in-one mail server](https://maddy.email/)
 
-- [How Indian Zoroastrians helped shape modern Iran](https://lareviewofbooks.org/article/how-an-indian-religious-minority-shaped-modern-iran/)
+- [Three ways to bulk rename files](https://mikkel.ca/blog/three-ways-to-bulk-rename/)
 
-- [Did you know that you can 100% legally get & run WordPerfect for free?](https://liam-on-linux.livejournal.com/80768.html)
+- [State of the Windows: How many layers of UI inconsistencies are in Windows 10?](https://ntdotdev.wordpress.com/2021/02/06/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-10/)
 
-- [Linux with "memory folios": a 7% performance boost when compiling the kernel](https://lore.kernel.org/lkml/20210614201435.1379188-1-willy@infradead.org/)
+- [Where Are Pixels? – A Deep Learning Perspective](https://ppwwyyxx.com/blog/2021/Where-are-Pixels/)
 
-- [Loops in Lisp Part 4: Series (2016)](https://malisper.me/loops-in-lisp-part-4-series/)
+- [Saying Goodbye to Android 2.3 Gingerbread](https://shatteredpixel.com/blog/saying-goodbye-to-android-2.3-gingerbread.html)
 
-- [Advanced console.log Tips and Tricks (2020)](https://medium.com/nmc-techblog/advanced-console-log-tips-tricks-fa3762930bca)
+- [The Inventor of the Black Box (Flight Data Recorder) Was Told to Drop the Idea](https://spectrum.ieee.org/tech-history/space-age/the-inventor-of-the-black-box-was-told-to-drop-the-idea-and-get-on-with-blowing-up-fuel-tanks)
 
-- [The Lost Prince of Yacht Rock](https://narratively.com/the-lost-prince-of-yacht-rock/)
+- [The Global Chessboard](https://unchartedterritories.tomaspueyo.com/p/world-chessboard)
 
-- [Southwest Airlines grounds its entire fleet amid giant computer outage](https://nypost.com/2021/06/15/southwest-airlines-grounds-all-flights-amid-computer-outage/)
+- [80% of orgs that paid the ransom were hit again](https://venturebeat.com/2021/06/16/cybereason-80-of-orgs-that-paid-the-ransom-were-hit-again/)
 
-- [Reverse Engineering Supermicro IPMI (2018)](https://peterkleissner.com/2018/05/27/reverse-engineering-supermicro-ipmi/ )
+- [Verkle Trees](https://vitalik.ca/general/2021/06/18/verkle.html)
 
-- [Pacific islanders likely found Antarctica first: study](https://phys.org/news/2021-06-pacific-islanders-antarctica.html)
+- [How to end up with 500,000 commits in your log](https://www.arp242.net/500k-commits.html)
 
-- [A New Era for Mechanical CAD](https://queue.acm.org/detail.cfm?id=3469844)
+- [Troubled US teens left traumatised by tough love camps](https://www.bbc.com/news/world-us-canada-57442175)
 
-- [Do You Really Need Redis? How to Get Away with Just PostgreSQL](https://spin.atomicobject.com/2021/02/04/redis-postgresql/)
+- [What does First Normal Form actually mean?](https://www.cargocultcode.com/what-does-first-normal-form-mean/)
 
-- [Utopia, a visual design tool for React, with code as the source of truth](https://utopia.app/)
+- [Shocked to find smart thermostats raised remotely by “Smart Savers Texas” progrm](https://www.ksdk.com/article/news/remote-thermostat-adjustment-texas-energy-shortage/285-5acf2bc5-54b7-4160-bffe-1f9a5ef4362a)
 
-- [Big Time Public License 1.0.0](https://writing.kemitchell.com/2021/06/15/Big-Time-1.0.0.html)
+- [Chasing After Wind: Reframing the Book of Ecclesiastes](https://www.laphamsquarterly.org/roundtable/chasing-after-wind)
 
-- [SANY adopts TwinCAT/BSD for the automation of wind turbines](https://www.beckhoff.com/en-en/company/news/news-detail_306353.html)
+- [Human Rapamycin Longevity Clinical Trials Begin](https://www.lifespan.io/news/pearl-is-funded-rapamycin-longevity-clinical-trials-begin/)
 
-- [Testing cameras with lc-compliance on KernelCI](https://www.collabora.com/news-and-blog/blog/2021/06/15/testing-cameras-with-lc-compliance-on-kernelci/)
+- [Prossimo - Memory safety project](https://www.memorysafety.org/)
 
-- [Johnny Knoxville’s Last Rodeo](https://www.gq.com/story/johnny-knoxvilles-last-rodeo/)
+- [When Graphs Are a Matter of Life and Death](https://www.newyorker.com/magazine/2021/06/21/when-graphs-are-a-matter-of-life-and-death)
 
-- [Untapped potential in Rust’s type system](https://www.jakobmeier.ch/blogging/Untapped-Rust.html)
+- [America’s weirdest guidebooks were funded by the government](https://www.nytimes.com/2021/06/15/books/review/republic-of-detours-scott-borchert.html)
 
-- [How to Be a Stoic](https://www.newyorker.com/magazine/2016/12/19/how-to-be-a-stoic)
+- [In 1850, Ignaz Semmelweis saved lives with three words: wash your hands (2015)](https://www.pbs.org/newshour/health/ignaz-semmelweis-doctor-prescribed-hand-washing)
 
-- [The Triumph of Mutabilitie](https://www.nybooks.com/articles/2021/07/01/spenser-faerie-queen-triumph-mutabilitie)
+- [Why our “wandering brains” are wired to love art and nature](https://www.salon.com/2021/06/15/why-our-wandering-brains-are-wired-to-love-art-and-nature/)
 
-- [Operation Midnight Climax: How the CIA Dosed S.F. Citizens with LSD (2012)](https://www.sfweekly.com/news/operation-midnight-climax-how-the-cia-dosed-s-f-citizens-with-lsd/)
-
-- [A pencil sharpener that creates a never-ending pencil (2015)](https://www.spoon-tamago.com/2015/04/01/tsunago-sharpener-never-ending-pencil/)
-
-- [A boy, his brain, and a decades-long medical controversy](https://www.wired.com/story/a-boy-his-brain-and-a-decades-long-medical-controversy/)
+- [CatMeows: A Publicly-Available Dataset of Cat Vocalizations](https://zenodo.org/record/4008297)
