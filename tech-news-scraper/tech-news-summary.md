@@ -1,101 +1,101 @@
-- [Sudoku as a SAT Problem (2006)](http://anytime.cs.umass.edu/aimath06/proceedings/P34.pdf)
+- [Path tracing Quake in Blender](http://matthewearl.github.io/2021/06/20/quake-blender/)
 
-- [Vespucci – OpenStreetMap Editor for Android](http://vespucci.io/)
+- [A History of The Rochester, NY Camera and Lens Companies (1974)](http://www.nwmangum.com/Kodak/Rochester.html)
 
-- [Kazakhstan’s forest is the birthplace of modern apples](http://www.bbc.com/travel/story/20181120-the-birthplace-of-the-modern-apple)
+- [“%p%s%s%s%s%n” breaks Wi-Fi on iPhones](https://9to5mac.com/2021/06/19/a-specific-network-name-can-completely-disable-wi-fi-on-your-iphone/)
 
-- [Video: Creating a macOS Droplet with AppleScript](https://andregarzia.com/2021/05/video-creating-a-macos-droplet-with-applescript.html)
+- [A Public Registry for AWS CloudFormation](https://aws.amazon.com/blogs/aws/introducing-a-public-registry-for-aws-cloudformation/)
 
-- [Jerry (YC S17) Is Hiring Remote Senior Software Engineer](https://apply.workable.com/jerry/j/07E1D2B302/)
+- [Explicit, Automatic, Magical, and Manual](https://blahg.josefsipek.net/?p=600)
 
-- [GSH: an Ada POSIX Shell to Speed Up GNU Builds on Windows (2019)](https://archive.fosdem.org/2019/schedule/event/ada_shell/)
+- [Raytracing on the Hack computer (feat. Rust)](https://blog.alexqua.ch/posts/from-nand-to-raytracer/)
 
-- [ZFS fans, rejoice – RAIDz expansion will be a thing soon](https://arstechnica.com/gadgets/2021/06/raidz-expansion-code-lands-in-openzfs-master/)
+- [Quick Analysis for the SSID Format String Bug](https://blog.chichou.me/2021/06/20/quick-analysis-wifid/)
 
-- [Starlink dishes go into “thermal shutdown” once they hit 122° Fahrenheit](https://arstechnica.com/information-technology/2021/06/starlink-dish-overheats-in-arizona-sun-knocking-user-offline-for-7-hours/)
+- [Finding the Bottom Turtle](https://blog.dave.tf/post/finding-bottom-turtle/)
 
-- [ARTSEY - One-Handed Keyboard](https://artsey.io/)
+- [Migrating away from apt-key](https://blog.jak-linux.org/2021/06/20/migrating-away-apt-key/)
 
-- [Estimating the Prevalence of Surveillance Cameras with Street View Data](https://arxiv.org/abs/2105.01764)
+- [Writing a Linux Debugger](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
 
-- [Adafruit interviews Siemens re SupplyFrame, the future of Hackaday, Tindie](https://blog.adafruit.com/2021/06/18/adafruit-interviews-siemens-supplyframe-the-future-of-hackaday-tindie-and-more/)
+- [Git undo: We can do better](https://blog.waleedkhan.name/git-undo/)
 
-- [Unreliability At Scale](https://blog.dshr.org/2021/06/unreliability-at-scale.html)
+- [Fluid Paint](https://david.li/paint/)
 
-- [A Guide to Undefined Behavior in C and C++](https://blog.regehr.org/archives/213)
+- [JPEG XL would be Turing-complete](https://dbohdan.com/wiki/jpeg-xl?)
 
-- [Branch magazine - Issue 2](https://branch.climateaction.tech/issues/issue-2/)
+- [Nixos-unstable’s iso_minimal.x86_64-linux is 100% reproducible](https://discourse.nixos.org/t/nixos-unstable-s-iso-minimal-x86-64-linux-is-100-reproducible/13723)
 
-- [Mars helicopter employs advanced control techniques to survive in-flight anomaly](https://control.com/news/mars-helicopter-employs-advanced-control-techniques-to-survive-an-in-flight-anomaly/)
+- [Sending audio to LKV373 HDMI extenders](https://eta.st/2021/06/20/showtime.html)
 
-- [io_uring is not an event system](https://despairlabs.com/posts/2021-06-16-io-uring-is-not-an-event-system/)
+- [Kats: One stop shop for time series analysis in Python](https://facebookresearch.github.io/Kats/)
 
-- [Learning to Love a Rigid and Inflexible Language](https://devblog.blackberry.com/en/2021/05/learning-to-love-a-rigid-and-inflexible-language)
+- [A reference counting bug which leads to local privilege escalation in io_uring](https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-leads-to-local-privilege-escalation-in-io-uring-e946bd69177a)
 
-- [Design for Safari 15](https://developer.apple.com/videos/play/wwdc2021/10029/?t=66)
+- [SproutLife – Evolving version of Conway’s Game of Life](https://github.com/ShprAlex/SproutLife)
 
-- [Can programming be liberated from the von Neumann style? (1978)](https://dl.acm.org/doi/10.1145/359576.359579)
+- [Rhizome – A pedagogical example of a JIT for Ruby, implemented in Ruby](https://github.com/chrisseaton/rhizome)
 
-- [The only way to go fast, is to go well](https://factorio.com/blog/post/fff-366)
+- [Tellme – text-to-speech command execution notifier](https://github.com/whot/tellme)
 
-- [The Wrong Way to Switch Operating Systems on Your Server](https://figbert.com/posts/wrong-way-to-switch-server-os/)
+- [Accidentally exponential behavior in Spark](https://heap.io/blog/accidentally-exponential-behavior-in-spark)
 
-- [Data-Oriented Design (Or Why You Might Be Shooting Yourself in The Foot With OOP)](https://gamesfromwithin.com/data-oriented-design)
+- [Towing a Tesla at 70 MPH replenishes battery at fast charger rates](https://insideevs.com/news/514727/tesla-towing-70mph-fast-charging/)
 
-- [BBC Programme Index: 9M listings and 221k playable programmes](https://genome.ch.bbc.co.uk/)
+- [JuliaCon 2021](https://juliacon.org/2021/)
 
-- [SNES – Super Mario World Widescreen](https://github.com/VitorVilela7/wide-snes)
+- [Rewriting the GNU Coreutils in Rust](https://lwn.net/Articles/857599/)
 
-- [tomnomnom/gron - Make JSON greppable](https://github.com/tomnomnom/gron)
+- [No branches? No problem — a Forth assembler](https://niedzejkob.p4.team/bootstrap/branches/)
 
-- [v0.16 - Gleam compiles to JavaScript](https://gleam.run/news/v0.16-gleam-compiles-to-javascript/)
+- [Did Windows 10 slow down with each feature update?](https://ntdotdev.wordpress.com/2021/02/21/state-of-the-windows-part-2-did-windows-10-slow-down-with-each-feature-update/)
 
-- [A Tired Raccoon’s Containerization Manifesto: Just Do the Containering](https://glyph.twistedmatrix.com/2021/06/trash-panda-devops.html)
+- [Once Dataset: One Million Scenes for Autonomous Driving](https://once-for-auto-driving.github.io/index.html)
 
-- [Minimum Viable Self](https://kneelingbus.substack.com/p/162-minimum-viable-self)
+- [JEP 411: Deprecate the Security Manager for Removal](https://openjdk.java.net/jeps/411)
 
-- [Fedora contemplates the driverless printing future](https://lwn.net/Articles/857502/)
+- [Rocky Linux 8.4 GA](https://rockylinux.org/news/rocky-linux-8-4-ga-release/)
 
-- [Maddy: Composable all-in-one mail server](https://maddy.email)
+- [The Subtle Effect of Hidden Dependencies on the User Experience of Version Control](https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/42942.pdf)
 
-- [Maddy: Composable all-in-one mail server](https://maddy.email/)
+- [Rhode island makes financial literacy classes required for high school students](https://themorningnews.com/news/2021/06/17/this-public-high-school-is-brainwashing-its-students-to-set-a-monthly-budget/)
 
-- [Three ways to bulk rename files](https://mikkel.ca/blog/three-ways-to-bulk-rename/)
+- [What it felt like to be awake during invasive brain surgery](https://tmrwedition.com/2021/06/13/the-agony-and-the-ecstacy-of-deep-brain-stimulation-surgery/)
 
-- [State of the Windows: How many layers of UI inconsistencies are in Windows 10?](https://ntdotdev.wordpress.com/2021/02/06/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-10/)
+- [Progress in support for the riscv64 platform](https://undeadly.org/cgi?action=article;sid=20210619161607)
 
-- [Where Are Pixels? – A Deep Learning Perspective](https://ppwwyyxx.com/blog/2021/Where-are-Pixels/)
+- [Ditching OpenPGP, a new approach to signing APT repositories](https://wiki.debian.org/Teams/Apt/Spec/AptSign)
 
-- [Saying Goodbye to Android 2.3 Gingerbread](https://shatteredpixel.com/blog/saying-goodbye-to-android-2.3-gingerbread.html)
+- [Political trolling twice as popular as positivity, study suggests](https://www.bbc.com/news/technology-57558028)
 
-- [The Inventor of the Black Box (Flight Data Recorder) Was Told to Drop the Idea](https://spectrum.ieee.org/tech-history/space-age/the-inventor-of-the-black-box-was-told-to-drop-the-idea-and-get-on-with-blowing-up-fuel-tanks)
+- [US Navy set off a 40k-pound explosive to test its new supercarrier](https://www.businessinsider.com/navy-detonated-40000-pound-explosive-to-test-new-supercarrier-2021-6)
 
-- [The Global Chessboard](https://unchartedterritories.tomaspueyo.com/p/world-chessboard)
+- [Level of Detail (LOD): Quick Tutorial](https://www.gamasutra.com/blogs/RubenTorresBonet/20210618/383762/Level_of_Detail_LOD_Quick_Tutorial.php)
 
-- [80% of orgs that paid the ransom were hit again](https://venturebeat.com/2021/06/16/cybereason-80-of-orgs-that-paid-the-ransom-were-hit-again/)
+- [Introducing the Viewpoint Linux Distribution](https://www.geeklan.co.uk/?p=2774)
 
-- [Verkle Trees](https://vitalik.ca/general/2021/06/18/verkle.html)
+- [What’s new in SwiftUI for iOS 15](https://www.hackingwithswift.com/articles/235/whats-new-in-swiftui-for-ios-15)
 
-- [How to end up with 500,000 commits in your log](https://www.arp242.net/500k-commits.html)
+- [Are We Really Engineers?](https://www.hillelwayne.com/post/crossover-project/are-we-really-engineers/)
 
-- [Troubled US teens left traumatised by tough love camps](https://www.bbc.com/news/world-us-canada-57442175)
+- [Alpha-Gal Syndrome](https://www.mayoclinic.org/diseases-conditions/alpha-gal-syndrome/symptoms-causes/syc-20428608)
 
-- [What does First Normal Form actually mean?](https://www.cargocultcode.com/what-does-first-normal-form-mean/)
+- [Low-carbohydrate diets and all-cause and cause-specific mortality](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989112/)
 
-- [Shocked to find smart thermostats raised remotely by “Smart Savers Texas” progrm](https://www.ksdk.com/article/news/remote-thermostat-adjustment-texas-energy-shortage/285-5acf2bc5-54b7-4160-bffe-1f9a5ef4362a)
+- [Dostoevsky and His Demons](https://www.nybooks.com/articles/2021/07/01/dostoevsky-and-his-demons/)
 
-- [Chasing After Wind: Reframing the Book of Ecclesiastes](https://www.laphamsquarterly.org/roundtable/chasing-after-wind)
+- [Over 200 Patent Judges Were Improperly Appointed, Supreme Court Says](https://www.nytimes.com/2021/06/21/us/politics/supreme-court-patent-judges.html)
 
-- [Human Rapamycin Longevity Clinical Trials Begin](https://www.lifespan.io/news/pearl-is-funded-rapamycin-longevity-clinical-trials-begin/)
+- [Internal Amazon documents shed light on how company pressures out office workers](https://www.seattletimes.com/business/amazon/internal-amazon-documents-shed-light-on-how-company-pressures-out-6-of-office-workers/)
 
-- [Prossimo - Memory safety project](https://www.memorysafety.org/)
+- [A popular algorithm to predict sepsis misses most cases and sends false alarms](https://www.statnews.com/2021/06/21/epic-sepsis-prediction-tool/)
 
-- [When Graphs Are a Matter of Life and Death](https://www.newyorker.com/magazine/2021/06/21/when-graphs-are-a-matter-of-life-and-death)
+- [Google’s Messaging Mess: A Timeline](https://www.theverge.com/2021/6/21/22538240/google-chat-allo-hangouts-talk-messaging-mess-timeline)
 
-- [America’s weirdest guidebooks were funded by the government](https://www.nytimes.com/2021/06/15/books/review/republic-of-detours-scott-borchert.html)
+- [My experiments with sprouting legumes](https://www.upgrademyfood.com/sprouting-legumes/)
 
-- [In 1850, Ignaz Semmelweis saved lives with three words: wash your hands (2015)](https://www.pbs.org/newshour/health/ignaz-semmelweis-doctor-prescribed-hand-washing)
+- [Commissary Club (Formerly 70M Jobs) (YC S17) Is Hiring](https://www.ycombinator.com/companies/commissary-club/jobs/XVwtSri-senior-mobile-app-developer-react-native-ios-android)
 
-- [Why our “wandering brains” are wired to love art and nature](https://www.salon.com/2021/06/15/why-our-wandering-brains-are-wired-to-love-art-and-nature/)
+- [GAN Theft Auto](https://www.youtube.com/watch?v=udPY5rQVoW0)
 
-- [CatMeows: A Publicly-Available Dataset of Cat Vocalizations](https://zenodo.org/record/4008297)
+- [Previewing SwiftUI layouts in Emacs (revisited)](https://xenodium.com/previewing-swiftui-layouts-in-emacs-revisited)
