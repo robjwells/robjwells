@@ -1,103 +1,99 @@
-- [We Don't Know, But Let's Try It](http://bostonreview.net/class-inequality-politics-philosophy-religion/simon-torracinta-we-dont-know-lets-try-it)
+- [On Types](http://blog.cleancoder.com/uncle-bob/2021/06/25/OnTypes.html)
 
-- [ZeRØ: Zero-Overhead Resilient Operation Under Pointer Integrity Attacks](http://www.cs.columbia.edu/~simha/preprint_isca20_zero.pdf)
+- [Technology: Invasion of the Data Snatchers (1988)](http://content.time.com/time/magazine/article/0,9171,968508,00.html)
 
-- [Constructing the Sierpinski triangle](http://www.oftenpaper.net/sierpinski.htm)
+- [The parallel universe of FireWire hubs](http://oldvcr.blogspot.com/2021/06/the-parallel-universe-of-firewire-hubs.html)
 
-- [Show HN: 3dasd – open-source DIY room-scale 3D scanner](https://3dasd.com/)
+- [Nice nginx features for operators](https://alex.dzyoba.com/blog/nginx-features-for-operators/)
 
-- [Password with Argon2 Algorithm, the Winner of the Password Hashing Competition](https://argon2.online/)
+- [Reflections on software performance](https://blog.nelhage.com/post/reflections-on-performance/)
 
-- [Cryptocurrency Miners are Typosquatting in PyPI to Distrubute Malware](https://arstechnica.com/gadgets/2021/06/counterfeit-pypi-packages-with-5000-downloads-installed-cryptominers/)
+- [Community Power Part 3: Just Do It](https://blogs.gnome.org/tbernard/2021/06/23/community-power-3/)
 
-- [WD My Book users wake up to find their data deleted](https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/)
+- [Caller and Callee Saved Registers](https://danielmangum.com/posts/risc-v-bytes-caller-callee-registers/)
 
-- [Vaccination Paywalls](https://bert.org/2021/06/23/vaccination-paywalls/)
+- [Problems with math rendering on the web (2020)](https://danilafe.com/blog/math_rendering_is_wrong/)
 
-- [Micro APIs for Everyday Use](https://blog.m3o.com/2021/06/24/micro-apis-for-everyday-use.html)
+- [Crackonosh: A New Malware Distributed in Cracked Software](https://decoded.avast.io/danielbenes/crackonosh-a-new-malware-distributed-in-cracked-software/)
 
-- [Developing Games on Linux: An Interview with Little Red Dog Games](https://blog.system76.com/post/654884924769370112/developing-games-on-linux-an-interview-with)
+- [Unicode sorting is hard and why browsers added special emoji matching to regexp](https://devlog.hexops.com/2021/unicode-sorting-why-browsers-added-special-emoji-matching)
 
-- [Cl-bodge: a cross-platform Common Lisp game and application framework](https://borodust.org/projects/cl-bodge/)
+- [Typed Programs Don't Leak Data](https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html)
 
-- [Useful bootstrap checklist for Go Projects](https://boyter.org/posts/useful-bootstrap-for-go-projects/)
+- [I made Ben Eater's 8-bit breadboard computer Emulator in C++](https://github.com/0xhh/TinyE8)
 
-- [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
+- [Garage Door Monitor](https://github.com/casspop/ohd)
 
-- [Show HN: DNS-powered website with no back end](https://companydirectory.uk/barclays.co.uk/contact-information)
+- [x86 Bare Metal Examples: Minimal operating systems, learn x86 system programming](https://github.com/cirosantilli/x86-bare-metal-examples)
 
-- [The Banning of Joyce's Ulysses](https://crimereads.com/banned-books-ulysses-joyce-morris-ernst/)
+- [El Carro: Run Oracle Databases on Kubernetes](https://github.com/googlecloudplatform/elcarro-oracle-operator)
 
-- ["Weak declaration"](https://css-tricks.com/weak-declaration/)
+- [Play online chess with real chess board](https://github.com/karayaman/Play-online-chess-with-real-chess-board)
 
-- [Improving Linux Packaging: rinstall](https://danyspin97.org/blog/improving-linux-packaging-rinstall/)
+- [Reverse-engineering the Final Fantasy: Theatrhythm track format](https://gitlab.com/mpiroot/rideau/-/blob/master/re/re.md)
 
-- [Annotating Apple’s New Anti-Sideloading White Paper](https://daringfireball.net/2021/06/annotating_apples_new_anti-sideloading_white_paper)
+- [Canada to make online hate speech a crime punishable by fine](https://gizmodo.com/canada-to-make-online-hate-speech-a-crime-punishable-by-1847163213)
 
-- [How the new rendering engine on Chrome works](https://developer.chrome.com/blog/renderingng/)
+- [Surreal numbers (2014)](https://ianopolous.peergos.me/maths/surreal)
 
-- [QUIC at Snapchat](https://eng.snap.com/quic-at-snap)
+- [Substack (YC W18) is hiring engineers to build the future of writing](https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81)
 
-- [EvalAI: An Open-Source Alternative to Kaggle](https://eval.ai/)
+- [Avoiding complexity with systemd](https://mgdm.net/weblog/systemd/)
 
-- [Book summary: A Philosophy of Software Design](https://freshman.tech/philosophy-of-software-design-summary/)
+- [Why mimicking a device is becoming almost impossible](https://multilogin.com/why-mimicking-a-device-is-almost-impossible/)
 
-- [Syncretism, an option search engine in Clojure](https://github.com/Tyruiop/syncretism)
+- [The parallel universe of FireWire hubs](https://oldvcr.blogspot.com/2021/06/the-parallel-universe-of-firewire-hubs.html)
 
-- [GPBoost: Combining Tree-Boosting with Gaussian Process and Mixed Effects Models](https://github.com/fabsig/GPBoost)
+- [/dev/greet: Invading Kernel Space](https://ols.wtf/2021/05/28/dev-greet-invading-kernel-space.html)
 
-- [Cupcake - A Rust library for lattice-based additive homomorphic encryption](https://github.com/facebookresearch/Cupcake)
+- [Microsoft Build 2021: My Tiny Little Summary](https://patrickwu.space/2021/06/03/build-2021/)
 
-- [OpenTrees: A data visualisation of publicly maintained trees around the world](https://github.com/stevage/opentrees)
+- [Firefox 89 Proton UI Tab Styling](https://raymii.org/s/blog/Firefox-89-proton-ui-tab-styling.html)
 
-- [Google turned me into a serial killer](https://hristo-georgiev.com/google-turned-me-into-a-serial-killer)
+- [10 years Sabotage Linux - The history of the first musl-based distro](https://sabotage-linux.neocities.org/blog/11/)
 
-- [Smoothstep Integral](https://iquilezles.org/www/articles/smoothstepintegral/smoothstepintegral.htm)
+- [DMGPlus](https://spritesmods.com/?art=dmgplus)
 
-- [Ok, Ok, I'm Turning uPnP off](https://kn100.me/turning-upnp-off/)
+- [Privacy for Students: Surveillance Self-Defense](https://ssd.eff.org/en/module/privacy-students)
 
-- [Pulling GitHub into the kernel process](https://lwn.net/SubscriberLink/860607/6ee772207c6ce7c3/)
+- [A Vim Guide For Veteran Users](https://thevaluable.dev/vim-veteran/)
 
-- [Lamport Clock](https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html)
+- [Life in the Stacks: A Love Letter to Browsing](https://thewalrus.ca/life-in-the-stacks-a-love-letter-to-browsing/)
 
-- [Fun and dystopia with AI-based code generation using GPT-J-6B](https://minimaxir.com/2021/06/gpt-j-6b/)
+- [C to Wasm for Lazy People](https://v.trp.gr/posts/c-to-wasm-for-lazy-people/)
 
-- [Neotron - The Embedded Rust Home Computer Platform](https://neotron-compute.github.io/Neotron-Book/index.html)
+- [Onivim 2 is a retro-futuristic modal editor](https://v2.onivim.io)
 
-- [4 Useful fzf Tricks for Your Terminal](https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal/)
+- [Intro to Debugging in Go on VSCode](https://viggy28.github.io/til/2021-06-27T20-52-11-go-debugging-vscode.html)
 
-- [Tiny Acquisitions](https://tinyacquisitions.com)
+- [When To Rewrite](https://www.anthropicstudios.com/2021/06/25/when-to-rewrite/)
 
-- [PipeWire Under The Hood](https://venam.nixers.net/blog/unix/2021/06/23/pipewire-under-the-hood.html)
+- [Classified Ministry of Defence documents found at bus stop](https://www.bbc.com/news/uk-57624942)
 
-- [The Next Backblaze Storage Pod](https://www.backblaze.com/blog/next-backblaze-storage-pod/)
+- [Binance banned from doing business in UK](https://www.bloomberg.com/news/articles/2021-06-27/u-k-financial-regulator-bars-crypto-exchange-binance)
 
-- [Canada: Hundreds of unmarked graves found at residential school](https://www.bbc.com/news/world-us-canada-57592243)
+- [Thousands without power during record-breaking heat](https://www.koin.com/news/thousands-without-power-during-record-breaking-heat/)
 
-- [Building a Face Recognition App with Blazor](https://www.codeproject.com/Articles/5305710/Building-a-Face-Recognition-App-with-Blazor)
+- [Earth is trapping twice as much heat as it did in 2005](https://www.livescience.com/earth-trapping-more-heat-energy-imbalance-doubled.html)
 
-- [Reticle: A Virtual Machine for Programming Modern FPGAs](https://www.cs.cornell.edu/~asampson/media/papers/reticle-pldi2021.pdf)
+- [Challenges in the diagnosis of magnesium status](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163803/)
 
-- [The tale of keepAlive#](https://www.haskell.org/ghc/blog/20210607-the-keepAlive-story.html)
+- [OpenStack: Networking in too much detail](https://www.rdoproject.org/networking/networking-in-too-much-detail/)
 
-- [Idris 2 version 0.4.0 released](https://www.idris-lang.org/idris-2-version-040-released.html)
+- [Let's code a TCP/IP stack (2016)](https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
 
-- [Four Stories from the Russian Arctic](https://www.newyorker.com/culture/photo-booth/four-stories-from-the-russian-arctic)
+- [The Evolution of the Unix System Architecture](https://www.spinellis.gr/blog/20210618/index.html)
 
-- [Nvidia Canvas](https://www.nvidia.com/en-gb/studio/canvas/)
+- [Van Gogh Sketches Discovered](https://www.theartnewspaper.com/blog/van-gogh-found-tucked-into-a-novel)
 
-- [For literary novelists the past is pressing](https://www.nytimes.com/2021/06/13/books/review/historical-fiction-jonathan-lee.html)
+- [A rediscovered lost memoir about John Locke](https://www.theguardian.com/books/2021/jun/24/lost-memoir-paints-revered-philosopher-john-locke-as-vain-lazy-and-pompous)
 
-- [Building a POE enabled lighting fixture](https://www.scorpia.co.uk/2021/05/23/building-a-poe-enabled-lighting-fixture/)
+- [Unison Programming Language](https://www.unisonweb.org/)
 
-- [The Houseboat Wars of Richardson Bay](https://www.sfweekly.com/news/pirates-bay-richardson-sausalito/)
+- [AT&T's '60s Modem That Won't Die](https://www.youtube.com/watch?v=OmBLsKV7Sx0)
 
-- [The rich, weird, and frustrating world of Depression-era travel guides](https://www.theatlantic.com/culture/archive/2021/06/new-deal-american-guides-federal-writers-project/619255/)
+- [Show HN: A machine that detects when you text and drive then shocks you [video]](https://www.youtube.com/watch?v=sU9WBr3ckrU)
 
-- [Microsoft is bringing Android apps to Windows 11](https://www.theverge.com/2021/6/24/22548428/microsoft-windows-11-android-apps-support-amazon-store)
+- [Emacs: smarter search and replace](https://xenodium.com/emacs-smarter-search-and-replace)
 
-- [Crazy Clock](https://www.tindie.com/products/nsayer/crazy-clock/)
-
-- [Twilio, Asana to List on Long Term Stock Exchange](https://www.wsj.com/articles/twilio-asana-to-list-on-long-term-stock-exchange-as-esg-push-continues-11624565701)
-
-- [Stop using your work laptop or phone for personal stuff, because I know you are](https://www.zdnet.com/article/stop-using-your-work-laptop-or-phone-for-personal-stuff-because-i-know-you-are/)
+- [BLisp: A Statically Typed Lisp Like Language](https://ytakano.github.io/blisp/)
