@@ -1,99 +1,105 @@
-- [On Types](http://blog.cleancoder.com/uncle-bob/2021/06/25/OnTypes.html)
+- [1970s mainframe RPGs we can no longer play](http://crpgaddict.blogspot.com/2021/06/brief-everything-we-know-about-1970s.html)
 
-- [Technology: Invasion of the Data Snatchers (1988)](http://content.time.com/time/magazine/article/0,9171,968508,00.html)
+- [Web 1.1: Building The New Old Web](http://frogfind.com/read.php?a=https%3A%2F%2Fforums.macrumors.com%2Fthreads%2Fweb%2D1%2D1%2Dbuilding%2Dthe%2Dnew%2Dold%2Dweb.2290616%2F)
 
-- [The parallel universe of FireWire hubs](http://oldvcr.blogspot.com/2021/06/the-parallel-universe-of-firewire-hubs.html)
+- [Are beliefs like clothes? (2015)](http://mason.gmu.edu/~rhanson/belieflikeclothes.html)
 
-- [Nice nginx features for operators](https://alex.dzyoba.com/blog/nginx-features-for-operators/)
+- [The Logical Basis of Evaluation Order and Pattern-Matching (2009)](http://noamz.org/thesis.pdf)
 
-- [Reflections on software performance](https://blog.nelhage.com/post/reflections-on-performance/)
+- [For the Love of Troff (2020) [pdf]](http://www.schemamania.org/troff/for-the-love-of-troff.pdf)
 
-- [Community Power Part 3: Just Do It](https://blogs.gnome.org/tbernard/2021/06/23/community-power-3/)
+- [Tracking-free audience statistics](https://berthub.eu/articles/posts/tracking-free-audience-statistics/)
 
-- [Caller and Callee Saved Registers](https://danielmangum.com/posts/risc-v-bytes-caller-callee-registers/)
+- [DevOps; a decade of confusion and frustration](https://blog.dijit.sh/devops-confusion-and-frustration)
 
-- [Problems with math rendering on the web (2020)](https://danilafe.com/blog/math_rendering_is_wrong/)
+- [Why build Sasquach lang](https://blog.pentlander.com/why-build-sasquach-lang/)
 
-- [Crackonosh: A New Malware Distributed in Cracked Software](https://decoded.avast.io/danielbenes/crackonosh-a-new-malware-distributed-in-cracked-software/)
+- [once upon a time  (there were programmers) (2016)](https://blog.randomstring.org/2016/04/11/once-upon-a-time/)
 
-- [Unicode sorting is hard and why browsers added special emoji matching to regexp](https://devlog.hexops.com/2021/unicode-sorting-why-browsers-added-special-emoji-matching)
+- [Adding XCOFF Support to Ghidra with Kaitai Struct](https://blog.silentsignal.eu/2021/04/06/adding-xcoff-support-to-ghidra-with-kaitai-struct/)
 
-- [Typed Programs Don't Leak Data](https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html)
+- [Program Verification: Vision and Reality](https://cacm.acm.org/magazines/2021/7/253448-program-verification/fulltext)
 
-- [I made Ben Eater's 8-bit breadboard computer Emulator in C++](https://github.com/0xhh/TinyE8)
+- [Handling errors with grace (and sometimes without it)](https://chelseatroy.com/2021/05/03/how-can-i-handle-errors-gracefully/)
 
-- [Garage Door Monitor](https://github.com/casspop/ohd)
+- [The Siren Song of the ‘User’ Model](https://chelseatroy.com/2021/06/28/the-siren-song-of-the-user-model/)
 
-- [x86 Bare Metal Examples: Minimal operating systems, learn x86 system programming](https://github.com/cirosantilli/x86-bare-metal-examples)
+- [GitHub Copilot · Your AI pair programmer](https://copilot.github.com/)
 
-- [El Carro: Run Oracle Databases on Kubernetes](https://github.com/googlecloudplatform/elcarro-oracle-operator)
+- [Using sqlite3 as a notekeeping document graph with automatic reference indexing](https://epilys.github.io/bibliothecula/notekeeping.html)
 
-- [Play online chess with real chess board](https://github.com/karayaman/Play-online-chess-with-real-chess-board)
+- [Globally Distributed Postgres](https://fly.io/blog/globally-distributed-postgres/)
 
-- [Reverse-engineering the Final Fantasy: Theatrhythm track format](https://gitlab.com/mpiroot/rideau/-/blob/master/re/re.md)
+- [Show HN: An interactive visual history of Git development](https://git-history.jpalmer.dev/)
 
-- [Canada to make online hate speech a crime punishable by fine](https://gizmodo.com/canada-to-make-online-hate-speech-a-crime-punishable-by-1847163213)
+- [OPEM - Open Source PEM Fuel Cell Simulation Tool](https://github.com/ECSIM/opem)
 
-- [Surreal numbers (2014)](https://ianopolous.peergos.me/maths/surreal)
+- [A QBE Generator for the Antimony Programming Language](https://github.com/antimony-lang/antimony/pull/42)
 
-- [Substack (YC W18) is hiring engineers to build the future of writing](https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81)
+- [Wingman for Haskell: Focus on the important stuff; delegate the rest](https://haskellwingman.dev/)
 
-- [Avoiding complexity with systemd](https://mgdm.net/weblog/systemd/)
+- [A study of musical scales (2017)](https://ianring.com/musictheory/scales/)
 
-- [Why mimicking a device is becoming almost impossible](https://multilogin.com/why-mimicking-a-device-is-almost-impossible/)
+- [Move fast, but understand the problem first](https://jacobobryant.com/blog/understand/)
 
-- [The parallel universe of FireWire hubs](https://oldvcr.blogspot.com/2021/06/the-parallel-universe-of-firewire-hubs.html)
+- [Building my own web analytics tool](https://johnmathews.eu/building-my-own-site-analytics.html)
 
-- [/dev/greet: Invading Kernel Space](https://ols.wtf/2021/05/28/dev-greet-invading-kernel-space.html)
+- [A foreign seller has hijacked my Amazon Klein bottle listing](https://kleinbottle.com/#AMAZON%20BRAND%20HIJACKING)
 
-- [Microsoft Build 2021: My Tiny Little Summary](https://patrickwu.space/2021/06/03/build-2021/)
+- [Bugs Faster than the Speed of Thought](https://mempko.wordpress.com/2021/06/30/bugs-faster-than-the-speed-of-thought/)
 
-- [Firefox 89 Proton UI Tab Styling](https://raymii.org/s/blog/Firefox-89-proton-ui-tab-styling.html)
+- [Hacking a PC sound card to read temperature and liquid level sensors](https://nagimov.me/post/measure-with-music-how-to-read-analog-sensors-using-a-pc-sound-card/)
 
-- [10 years Sabotage Linux - The history of the first musl-based distro](https://sabotage-linux.neocities.org/blog/11/)
+- [Lessons From Building a Static Site Generator](https://nicholasreese.com/lessons-from-building-a-static-site-generator/)
 
-- [DMGPlus](https://spritesmods.com/?art=dmgplus)
+- [Branches: No assembly required](https://niedzejkob.p4.team/bootstrap/asmless/)
 
-- [Privacy for Students: Surveillance Self-Defense](https://ssd.eff.org/en/module/privacy-students)
+- [Otter Browser](https://otter-browser.org)
 
-- [A Vim Guide For Veteran Users](https://thevaluable.dev/vim-veteran/)
+- [Intuit sabotages the Child Tax Credit](https://pluralistic.net/2021/06/29/three-times-is-enemy-action/#ctc)
 
-- [Life in the Stacks: A Love Letter to Browsing](https://thewalrus.ca/life-in-the-stacks-a-love-letter-to-browsing/)
+- [Software Engineering principles to make teams better](https://principles.dev/)
 
-- [C to Wasm for Lazy People](https://v.trp.gr/posts/c-to-wasm-for-lazy-people/)
+- [Flowers of Fire: Illustrations from Japanese Fireworks Catalogues (ca. 1880s)](https://publicdomainreview.org/collection/japanese-fireworks-catalogues)
 
-- [Onivim 2 is a retro-futuristic modal editor](https://v2.onivim.io)
+- [Monochromatic Portraits with GLSL](https://rosenzweig.io/blog/monotone-portraits-with-glsl.html)
 
-- [Intro to Debugging in Go on VSCode](https://viggy28.github.io/til/2021-06-27T20-52-11-go-debugging-vscode.html)
+- [Yes, We Want Cryptographic Protection for Email](https://sequoia-pgp.org/blog/2021/06/29/202106-yes-we-want-cryptographic-protection-for-email/ )
 
-- [When To Rewrite](https://www.anthropicstudios.com/2021/06/25/when-to-rewrite/)
+- [The most precious resource is agency](https://simonsarris.substack.com/p/the-most-precious-resource-is-agency)
 
-- [Classified Ministry of Defence documents found at bus stop](https://www.bbc.com/news/uk-57624942)
+- [Typeclasses in Python](https://sobolevn.me/2021/06/typeclasses-in-python)
 
-- [Binance banned from doing business in UK](https://www.bloomberg.com/news/articles/2021-06-27/u-k-financial-regulator-bars-crypto-exchange-binance)
+- [Any Encoding, Ever](https://thephd.dev/any-encoding-ever-ztd-text-unicode-cpp)
 
-- [Thousands without power during record-breaking heat](https://www.koin.com/news/thousands-without-power-during-record-breaking-heat/)
+- [OpenVMS 9.1 x86 field test starts](https://vmssoftware.com/about/openvmsv9-1/)
 
-- [Earth is trapping twice as much heat as it did in 2005](https://www.livescience.com/earth-trapping-more-heat-energy-imbalance-doubled.html)
+- [Funazushi: The fermented predecessor of modern sushi](https://www.bbc.com/travel/article/20210616-funazushi-the-fermented-predecessor-of-modern-sushi?utm_source=bengtan&utm_medium=email)
 
-- [Challenges in the diagnosis of magnesium status](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163803/)
+- [How Merriam-Webster’s Dictionary defined American cultural beliefs](https://www.bookforum.com/culture/how-merriam-webster-s-dictionary-defined-american-cultural-beliefs-24536)
 
-- [OpenStack: Networking in too much detail](https://www.rdoproject.org/networking/networking-in-too-much-detail/)
+- [Village of Lytton, B.C., evacuated as mayor says 'the whole town is on fire'](https://www.cbc.ca/news/canada/british-columbia/bc-wildfires-june-30-2021-1.6085919)
 
-- [Let's code a TCP/IP stack (2016)](https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
+- [The City, the Sparrow, and the Tempestuous Sea](https://www.hakaimagazine.com/features/the-city-the-sparrow-and-the-tempestuous-sea/)
 
-- [The Evolution of the Unix System Architecture](https://www.spinellis.gr/blog/20210618/index.html)
+- [Fusion and Magic](https://www.laphamsquarterly.org/technology/fusion-magic)
 
-- [Van Gogh Sketches Discovered](https://www.theartnewspaper.com/blog/van-gogh-found-tucked-into-a-novel)
+- [Dangers Posed by Evidentiary Software—and What to Do About It](https://www.lawfareblog.com/dangers-posed-evidentiary-softwareand-what-do-about-it)
 
-- [A rediscovered lost memoir about John Locke](https://www.theguardian.com/books/2021/jun/24/lost-memoir-paints-revered-philosopher-john-locke-as-vain-lazy-and-pompous)
+- [Is Facebook's “Prophet” the time-series Messiah or just a naughty boy?](https://www.microprediction.com/blog/prophet)
 
-- [Unison Programming Language](https://www.unisonweb.org/)
+- [PostgreSQL's missing DateDiff function](https://www.narrator.ai/blog/postgres-missing-datediff-function/)
 
-- [AT&T's '60s Modem That Won't Die](https://www.youtube.com/watch?v=OmBLsKV7Sx0)
+- [Asking developers to do QA is broken – why anyone should own QA](https://www.rainforestqa.com/blog/accessible-quality)
 
-- [Show HN: A machine that detects when you text and drive then shocks you [video]](https://www.youtube.com/watch?v=sU9WBr3ckrU)
+- [Ancient weights helped create Europe’s first market more than 3k years ago](https://www.sciencemag.org/news/2021/06/these-ancient-weights-helped-create-europe-s-first-free-market-more-3000-years-ago)
 
-- [Emacs: smarter search and replace](https://xenodium.com/emacs-smarter-search-and-replace)
+- [Microsoft exec: Targeting of Americans’ records ‘routine’](https://www.seattletimes.com/business/federal-targeting-of-americans-records-is-routine-microsoft-exec-testifies/)
 
-- [BLisp: A Statically Typed Lisp Like Language](https://ytakano.github.io/blisp/)
+- [SparkFun Hooks a Patent Troll](https://www.sparkfun.com/news/3917)
+
+- [PowerPC and the Western Digital My Book Live debacle](https://www.talospace.com/2021/06/powerpc-and-western-digital-my-book.html)
+
+- [Tesorio (YC S15) is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
+
+- [A 1982 chess computer plays itself by mechanically moving the pieces [video]](https://www.youtube.com/watch?v=UxLd_wiGMA4)
