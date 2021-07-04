@@ -1,105 +1,101 @@
-- [1970s mainframe RPGs we can no longer play](http://crpgaddict.blogspot.com/2021/06/brief-everything-we-know-about-1970s.html)
+- [Things I wish Git had: Commit groups](http://blog.danieljanus.pl/2021/07/01/commit-groups/)
 
-- [Web 1.1: Building The New Old Web](http://frogfind.com/read.php?a=https%3A%2F%2Fforums.macrumors.com%2Fthreads%2Fweb%2D1%2D1%2Dbuilding%2Dthe%2Dnew%2Dold%2Dweb.2290616%2F)
+- [The Dawn of Formalized Mathematics](http://math.andrej.com/2021/06/24/the-dawn-of-formalized-mathematics/)
 
-- [Are beliefs like clothes? (2015)](http://mason.gmu.edu/~rhanson/belieflikeclothes.html)
+- [Architecture of LISP Machines](http://www.cs.utah.edu/~mflatt/past-courses/cs6510/public_html/lispm.pdf)
 
-- [The Logical Basis of Evaluation Order and Pattern-Matching (2009)](http://noamz.org/thesis.pdf)
+- ["Space age electronics": Inside a GE thin-film paperweight from the 1960s](http://www.righto.com/2021/07/space-age-electronics-inside-ge-thin.html)
 
-- [For the Love of Troff (2020) [pdf]](http://www.schemamania.org/troff/for-the-love-of-troff.pdf)
+- [PowerTOP – diagnose issues with power consumption and power management on Linux](https://01.org/powertop/)
 
-- [Tracking-free audience statistics](https://berthub.eu/articles/posts/tracking-free-audience-statistics/)
+- [British right to repair law comes into force today, but excludes smartphones and computers](https://9to5mac.com/2021/07/01/british-right-to-repair-law/)
 
-- [DevOps; a decade of confusion and frustration](https://blog.dijit.sh/devops-confusion-and-frustration)
+- [Decoding radio pH capsules with rtl_433](https://analogist.net/post/decoding-radio-ph-capsules-with-rtl_433/)
 
-- [Why build Sasquach lang](https://blog.pentlander.com/why-build-sasquach-lang/)
+- [What did ancient languages sound like?](https://antigonejournal.com/2021/07/what-did-ancient-languages-sound-like/)
 
-- [once upon a time  (there were programmers) (2016)](https://blog.randomstring.org/2016/04/11/once-upon-a-time/)
+- [Jerry (YC S17) is hiring a remote senior software engineer](https://apply.workable.com/jerry/j/07E1D2B302/)
 
-- [Adding XCOFF Support to Ghidra with Kaitai Struct](https://blog.silentsignal.eu/2021/04/06/adding-xcoff-support-to-ghidra-with-kaitai-struct/)
+- [Bash function names can be almost anything](https://blog.dnmfarrell.com/post/bash-function-names-can-be-almost-anything/)
 
-- [Program Verification: Vision and Reality](https://cacm.acm.org/magazines/2021/7/253448-program-verification/fulltext)
+- [How to add eBPF observability to your product](https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html)
 
-- [Handling errors with grace (and sometimes without it)](https://chelseatroy.com/2021/05/03/how-can-i-handle-errors-gracefully/)
+- [Getting To Know Logical Clocks By Implementing Them](https://brunocalza.me/getting-to-know-logical-clocks-by-implementing-them/)
 
-- [The Siren Song of the ‘User’ Model](https://chelseatroy.com/2021/06/28/the-siren-song-of-the-user-model/)
+- [Chimera Linux: a Linux distribution based on FreeBSD userland and LLVM](https://chimera-linux.org/)
 
-- [GitHub Copilot · Your AI pair programmer](https://copilot.github.com/)
+- [Thoughts About Using Android Again as an iPhone User](https://christine.website/blog/android-thoughts-2021-07-03)
 
-- [Using sqlite3 as a notekeeping document graph with automatic reference indexing](https://epilys.github.io/bibliothecula/notekeeping.html)
+- [The Untold Story of SQLite](https://corecursive.com/066-sqlite-with-richard-hipp/)
 
-- [Globally Distributed Postgres](https://fly.io/blog/globally-distributed-postgres/)
+- [What should the CPU usage be of a fully-loaded CPU that has been throttled?](https://devblogs.microsoft.com/oldnewthing/20210629-00/?p=105378)
 
-- [Show HN: An interactive visual history of Git development](https://git-history.jpalmer.dev/)
+- [Announcing TypeScript 4.4 Beta](https://devblogs.microsoft.com/typescript/?p=2999)
 
-- [OPEM - Open Source PEM Fuel Cell Simulation Tool](https://github.com/ECSIM/opem)
+- [Research recitation: A first look at rote learning in GitHub Copilot suggestions](https://docs.github.com/en/github/copilot/research-recitation)
 
-- [A QBE Generator for the Antimony Programming Language](https://github.com/antimony-lang/antimony/pull/42)
+- [A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged](https://github.com/automerge/automerge)
 
-- [Wingman for Haskell: Focus on the important stuff; delegate the rest](https://haskellwingman.dev/)
+- [GPT-J “the open source cousin of GPT-3 everyone can use”](https://github.com/kingoflolz/mesh-transformer-jax)
 
-- [A study of musical scales (2017)](https://ianring.com/musictheory/scales/)
+- [Koka: A Functional Language with Effects](https://github.com/koka-lang/koka)
 
-- [Move fast, but understand the problem first](https://jacobobryant.com/blog/understand/)
+- [Neovim v0.5](https://github.com/neovim/neovim/releases/tag/v0.5.0)
 
-- [Building my own web analytics tool](https://johnmathews.eu/building-my-own-site-analytics.html)
+- [WASM to PS Compiler](https://github.com/no-defun-allowed/wasm2ps)
 
-- [A foreign seller has hijacked my Amazon Klein bottle listing](https://kleinbottle.com/#AMAZON%20BRAND%20HIJACKING)
+- [Show HN: Atto – BASIC computer that runs in the browser](https://jamesl.me/atto/)
 
-- [Bugs Faster than the Speed of Thought](https://mempko.wordpress.com/2021/06/30/bugs-faster-than-the-speed-of-thought/)
+- [Taking my data back from Eufy](https://kn100.me/taking-back-data-from-eufy/)
 
-- [Hacking a PC sound card to read temperature and liquid level sensors](https://nagimov.me/post/measure-with-music-how-to-read-analog-sensors-using-a-pc-sound-card/)
+- [Alien Dreams: An Emerging Art Scene](https://ml.berkeley.edu/blog/posts/clip-art/)
 
-- [Lessons From Building a Static Site Generator](https://nicholasreese.com/lessons-from-building-a-static-site-generator/)
+- [Where are we going from here? Software engineering needs formal methods](https://ntietz.com/tech-blog/future-of-software-engineering-is-formal-methods/)
 
-- [Branches: No assembly required](https://niedzejkob.p4.team/bootstrap/asmless/)
+- [Audacity may collect “Data necessary for law enforcement, litigation” and more](https://old.reddit.com/r/linux/comments/od3h8b/audacity_may_collect_data_necessary_for_law/)
 
-- [Otter Browser](https://otter-browser.org)
+- [How Databases handle 10M devices in high-cardinality benchmarks](https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/)
 
-- [Intuit sabotages the Child Tax Credit](https://pluralistic.net/2021/06/29/three-times-is-enemy-action/#ctc)
+- [Simply integrating Svelte into Rails](https://retro.cloud/simply-integrating-svelte-in-rails/)
 
-- [Software Engineering principles to make teams better](https://principles.dev/)
+- [Reverse engineering the Motorola Sensorhub: Part 1](https://ristovski.github.io/posts/moto-sensorhub/)
 
-- [Flowers of Fire: Illustrations from Japanese Fireworks Catalogues (ca. 1880s)](https://publicdomainreview.org/collection/japanese-fireworks-catalogues)
+- [Scripps O2 Global Oxygen Measurements](https://scrippso2.ucsd.edu/index.html)
 
-- [Monochromatic Portraits with GLSL](https://rosenzweig.io/blog/monotone-portraits-with-glsl.html)
+- [Past and Present of Haskell: Interview with Simon Peyton Jones](https://serokell.io/blog/past-and-present-of-haskell)
 
-- [Yes, We Want Cryptographic Protection for Email](https://sequoia-pgp.org/blog/2021/06/29/202106-yes-we-want-cryptographic-protection-for-email/ )
+- [Botnets, or This is Why We Cannot Have Nice Things](https://sheep.horse/2021/6/botnets%2C_or_this_is_why_we_cannot_have_nice_things.html)
 
-- [The most precious resource is agency](https://simonsarris.substack.com/p/the-most-precious-resource-is-agency)
+- [PAGNIs: Probably Are Gonna Need Its](https://simonwillison.net/2021/Jul/1/pagnis/)
 
-- [Typeclasses in Python](https://sobolevn.me/2021/06/typeclasses-in-python)
+- [There is no 64-bit type in C89](https://sporks.space/2021/07/02/there-is-no-64-bit-type-in-c89/)
 
-- [Any Encoding, Ever](https://thephd.dev/any-encoding-ever-ztd-text-unicode-cpp)
+- [Erlang Records vs. Elixir Structs](https://stratus3d.com/blog/2021/06/28/erlang-records-vs-elixir-structs)
 
-- [OpenVMS 9.1 x86 field test starts](https://vmssoftware.com/about/openvmsv9-1/)
+- [Swift on Server](https://swift.org/server/)
 
-- [Funazushi: The fermented predecessor of modern sushi](https://www.bbc.com/travel/article/20210616-funazushi-the-fermented-predecessor-of-modern-sushi?utm_source=bengtan&utm_medium=email)
+- [I do not agree with Github's use of copyrighted code as training for Copilot](https://thelig.ht/abandoning-github/)
 
-- [How Merriam-Webster’s Dictionary defined American cultural beliefs](https://www.bookforum.com/culture/how-merriam-webster-s-dictionary-defined-american-cultural-beliefs-24536)
+- [The Haskell Phrasebook (2019)](https://typeclasses.com/phrasebook)
 
-- [Village of Lytton, B.C., evacuated as mayor says 'the whole town is on fire'](https://www.cbc.ca/news/canada/british-columbia/bc-wildfires-june-30-2021-1.6085919)
+- [Wav2vec Overview: Semi and Unsupervised Speech Recognition](https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition)
 
-- [The City, the Sparrow, and the Tempestuous Sea](https://www.hakaimagazine.com/features/the-city-the-sparrow-and-the-tempestuous-sea/)
+- [Microbes in cow stomachs can break down plastic](https://www.frontiersin.org/articles/10.3389/fbioe.2021.684459/full)
 
-- [Fusion and Magic](https://www.laphamsquarterly.org/technology/fusion-magic)
+- [Full OpenBSD Startup described on slide 48](https://www.openbsdjumpstart.org)
 
-- [Dangers Posed by Evidentiary Software—and What to Do About It](https://www.lawfareblog.com/dangers-posed-evidentiary-softwareand-what-do-about-it)
+- [Oilsands among the most carbon intensive crudes in North America (2017)](https://www.pembina.org/blog/real-ghg-trend-oilsands)
 
-- [Is Facebook's “Prophet” the time-series Messiah or just a naughty boy?](https://www.microprediction.com/blog/prophet)
+- [CDNs and Centrality](https://www.potaroo.net/ispcol/2021-07/cdn.html)
 
-- [PostgreSQL's missing DateDiff function](https://www.narrator.ai/blog/postgres-missing-datediff-function/)
+- [The Growth Ponzi Scheme](https://www.strongtowns.org/the-growth-ponzi-scheme)
 
-- [Asking developers to do QA is broken – why anyone should own QA](https://www.rainforestqa.com/blog/accessible-quality)
+- [Tiny FORTH from scratch in 1 week (bootloader-based Arduino UNO, 2K of RAM)](https://www.thanassis.space/miniforth.html)
 
-- [Ancient weights helped create Europe’s first market more than 3k years ago](https://www.sciencemag.org/news/2021/06/these-ancient-weights-helped-create-europe-s-first-free-market-more-3000-years-ago)
+- [A woman's battle to prove she isn't dead](https://www.theguardian.com/lifeandstyle/2021/jul/03/they-said-i-dont-exist-but-i-am-here-one-womans-battle-to-prove-she-isnt-dead)
 
-- [Microsoft exec: Targeting of Americans’ records ‘routine’](https://www.seattletimes.com/business/federal-targeting-of-americans-records-is-routine-microsoft-exec-testifies/)
+- [One man’s plan to resurrect the animal species we can’t save](https://www.wired.co.uk/article/natures-safe)
 
-- [SparkFun Hooks a Patent Troll](https://www.sparkfun.com/news/3917)
+- [Technology Traps (1978) [video]](https://www.youtube.com/watch?v=MPcZ_5uCldg)
 
-- [PowerPC and the Western Digital My Book Live debacle](https://www.talospace.com/2021/06/powerpc-and-western-digital-my-book.html)
-
-- [Tesorio (YC S15) is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
-
-- [A 1982 chess computer plays itself by mechanically moving the pieces [video]](https://www.youtube.com/watch?v=UxLd_wiGMA4)
+- [Steve Jobs in Kyoto](https://www3.nhk.or.jp/nhkworld/en/news/backstories/1622/)
