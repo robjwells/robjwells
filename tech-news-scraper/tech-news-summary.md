@@ -1,101 +1,101 @@
-- [Things I wish Git had: Commit groups](http://blog.danieljanus.pl/2021/07/01/commit-groups/)
+- [Grafica Obscura – Collected Computer Graphics Hacks (1977-1996-Ish)](http://graficaobscura.com/)
 
-- [The Dawn of Formalized Mathematics](http://math.andrej.com/2021/06/24/the-dawn-of-formalized-mathematics/)
+- [Headless React](https://acko.net/blog/live-headless-react/)
 
-- [Architecture of LISP Machines](http://www.cs.utah.edu/~mflatt/past-courses/cs6510/public_html/lispm.pdf)
+- [Vim is actually worth it](https://alexfertel.hashnode.dev/vim-is-actually-worth-it)
 
-- ["Space age electronics": Inside a GE thin-film paperweight from the 1960s](http://www.righto.com/2021/07/space-age-electronics-inside-ge-thin.html)
+- [Old school: I work in DOS for an entire day](https://arstechnica.com/information-technology/2021/07/dos-boot-ars-spends-a-day-working-in-freedos/)
 
-- [PowerTOP – diagnose issues with power consumption and power management on Linux](https://01.org/powertop/)
+- [TCP Fast Open? Not so fast](https://blog.apnic.net/2021/07/05/tcp-fast-open-not-so-fast/)
 
-- [British right to repair law comes into force today, but excludes smartphones and computers](https://9to5mac.com/2021/07/01/british-right-to-repair-law/)
+- [Debugging in Clojure](https://blog.davemartin.me/posts/debugging-in-clojure/)
 
-- [Decoding radio pH capsules with rtl_433](https://analogist.net/post/decoding-radio-ph-capsules-with-rtl_433/)
+- [Programming Languages + Human-Computer Interaction: SPLASH 2020](https://blog.sigplan.org/2021/07/06/programming-languages-human-computer-interaction-continuing-the-story-at-splash-2020/)
 
-- [What did ancient languages sound like?](https://antigonejournal.com/2021/07/what-did-ancient-languages-sound-like/)
+- [Graphical Techniques in a Spreadsheet for Specifying User Interfaces (1991)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.18.3001&rep=rep1&type=pdf)
 
-- [Jerry (YC S17) is hiring a remote senior software engineer](https://apply.workable.com/jerry/j/07E1D2B302/)
+- [Console Do Not Track](https://consoledonottrack.com/)
 
-- [Bash function names can be almost anything](https://blog.dnmfarrell.com/post/bash-function-names-can-be-almost-anything/)
+- [Password generator in Kaspersky Password Manager uses biased non-cryptographic PRNG](https://donjon.ledger.com/kaspersky-password-manager/)
 
-- [How to add eBPF observability to your product](https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html)
+- [Hacker News folk wisdom on visual programming](https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming/)
 
-- [Getting To Know Logical Clocks By Implementing Them](https://brunocalza.me/getting-to-know-logical-clocks-by-implementing-them/)
+- [Towards a more Elvish vision for Technology](https://essays.georgestrakhov.com/elvish/)
 
-- [Chimera Linux: a Linux distribution based on FreeBSD userland and LLVM](https://chimera-linux.org/)
+- [git update: the odyssey for a sensible git pull](https://felipec.wordpress.com/2021/07/05/git-update/)
 
-- [Thoughts About Using Android Again as an iPhone User](https://christine.website/blog/android-thoughts-2021-07-03)
+- [The Rituals of Iterations and Tests](https://georgefairbanks.com/ieee-software-v37-n6-nov-2020-the-rituals-of-iterations-and-tests)
 
-- [The Untold Story of SQLite](https://corecursive.com/066-sqlite-with-richard-hipp/)
+- [RustViz: Generates Visualizations of Rust Lifetime and Borrowing Mechanism](https://github.com/rustviz/rustviz)
 
-- [What should the CPU usage be of a fully-loaded CPU that has been throttled?](https://devblogs.microsoft.com/oldnewthing/20210629-00/?p=105378)
+- [Audacity-fork without telemetry/CLA is gaining traction](https://github.com/temporary-audacity/audacity)
 
-- [Announcing TypeScript 4.4 Beta](https://devblogs.microsoft.com/typescript/?p=2999)
+- [Kaseya Hack: Incident Overview and Technical Details](https://helpdesk.kaseya.com/hc/en-gb/articles/4403584098961)
 
-- [Research recitation: A first look at rote learning in GitHub Copilot suggestions](https://docs.github.com/en/github/copilot/research-recitation)
+- [Extend Your Language, Don’t Alter It](https://hirrolot.github.io/posts/extend-your-language-dont-alter-it.html)
 
-- [A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged](https://github.com/automerge/automerge)
+- [Improving I/O efficiency and resilience](https://lists.dragonflybsd.org/pipermail/users/2021-June/404763.html)
 
-- [GPT-J “the open source cousin of GPT-3 everyone can use”](https://github.com/kingoflolz/mesh-transformer-jax)
+- [Rust support for Linux kernel](https://lore.kernel.org/lkml/20210704202756.29107-1-ojeda@kernel.org/)
 
-- [Koka: A Functional Language with Effects](https://github.com/koka-lang/koka)
+- [Poisson's Equation](https://mattferraro.dev/posts/poissons-equation)
 
-- [Neovim v0.5](https://github.com/neovim/neovim/releases/tag/v0.5.0)
+- [America’s Obsession with Self-Help](https://newrepublic.com/article/162882/americas-obsession-self-help-americanon-review)
 
-- [WASM to PS Compiler](https://github.com/no-defun-allowed/wasm2ps)
+- [NO_COLOR: disabling ANSI color output in various Unix commands](https://no-color.org/)
 
-- [Show HN: Atto – BASIC computer that runs in the browser](https://jamesl.me/atto/)
+- [Open 3D Engine](https://o3de.org/)
 
-- [Taking my data back from Eufy](https://kn100.me/taking-back-data-from-eufy/)
+- [Kepler telescope glimpses population of free-floating planets](https://phys.org/news/2021-07-kepler-telescope-glimpses-population-free-floating.html)
 
-- [Alien Dreams: An Emerging Art Scene](https://ml.berkeley.edu/blog/posts/clip-art/)
+- [Write code that is easy to delete, not easy to extend. (2016)](https://programmingisterrible.com/post/139222674273/how-to-write-disposable-code-in-large-systems)
 
-- [Where are we going from here? Software engineering needs formal methods](https://ntietz.com/tech-blog/future-of-software-engineering-is-formal-methods/)
+- [Reading Like a Roman](https://publicdomainreview.org/essay/reading-like-a-roman)
 
-- [Audacity may collect “Data necessary for law enforcement, litigation” and more](https://old.reddit.com/r/linux/comments/od3h8b/audacity_may_collect_data_necessary_for_law/)
+- [Reverse Engineering the M6 Smart Fitness Bracelet](https://rbaron.net/blog/2021/07/06/Reverse-engineering-the-M6-smart-fitness-band.html)
 
-- [How Databases handle 10M devices in high-cardinality benchmarks](https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/)
+- [Programming Language Memory Models](https://research.swtch.com/plmm)
 
-- [Simply integrating Svelte into Rails](https://retro.cloud/simply-integrating-svelte-in-rails/)
+- [Show HN: Side Quest – An aggregator for not full-time tech jobs](https://sidequestjobs.com/)
 
-- [Reverse engineering the Motorola Sensorhub: Part 1](https://ristovski.github.io/posts/moto-sensorhub/)
+- [China's Zuchongzhi Quantum Computer is the most powerful in the world](https://stealthoptional.com/news/chinas-zuchongzhi-quantum-computer-is-the-most-powerful-in-the-world/)
 
-- [Scripps O2 Global Oxygen Measurements](https://scrippso2.ucsd.edu/index.html)
+- [Substack (YC W18) is hiring engineers to build the future of writing](https://substack.com/jobs?utm_source=hn&utm_content=eng)
 
-- [Past and Present of Haskell: Interview with Simon Peyton Jones](https://serokell.io/blog/past-and-present-of-haskell)
+- [Protecting reserved roles with PostgreSQL Hooks](https://supabase.io/blog/2021/07/01/roles-postgres-hooks)
 
-- [Botnets, or This is Why We Cannot Have Nice Things](https://sheep.horse/2021/6/botnets%2C_or_this_is_why_we_cannot_have_nice_things.html)
+- [Visual Elixir Reference](https://superruzafa.github.io/visual-elixir-reference//)
 
-- [PAGNIs: Probably Are Gonna Need Its](https://simonwillison.net/2021/Jul/1/pagnis/)
+- [Paris Sportif: The Contagious Attraction of Parkour](https://thereader.mitpress.mit.edu/paris-sportif-the-contagious-attraction-of-parkour/)
 
-- [There is no 64-bit type in C89](https://sporks.space/2021/07/02/there-is-no-64-bit-type-in-c89/)
+- [Defeating Cookie Banners](https://transcend.io/blog/defeating-cookie-banners)
 
-- [Erlang Records vs. Elixir Structs](https://stratus3d.com/blog/2021/06/28/erlang-records-vs-elixir-structs)
+- [I left my tech job to build a meditation app](https://troyshu.com/2021/07/06/why-i-left-my-tech-job-to-build-a-meditation-app-while-traveling-the-world/)
 
-- [Swift on Server](https://swift.org/server/)
+- [How to build a small town in Texas](https://wrathofgnon.substack.com/p/how-to-build-a-small-town-in-texas)
 
-- [I do not agree with Github's use of copyrighted code as training for Copilot](https://thelig.ht/abandoning-github/)
+- [Fake Tesla, Apple stocks have started trading on blockchains](https://www.bloomberg.com/news/articles/2021-07-06/fake-tesla-apple-stocks-have-started-trading-on-blockchains)
 
-- [The Haskell Phrasebook (2019)](https://typeclasses.com/phrasebook)
+- [Instant water cleaning method ‘millions of times’ better: study](https://www.cardiff.ac.uk/news/view/2530949-instant-water-cleaning-method-millions-of-times-better-than-commercial-approach)
 
-- [Wav2vec Overview: Semi and Unsupervised Speech Recognition](https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition)
+- [Dumping and extracting the SpaceX Starlink user terminal firmware](https://www.esat.kuleuven.be/cosic/blog/dumping-and-extracting-the-spacex-starlink-user-terminal-firmware/)
 
-- [Microbes in cow stomachs can break down plastic](https://www.frontiersin.org/articles/10.3389/fbioe.2021.684459/full)
+- [Psilocybin repairs 'brains cells damaged by depression' Yale study shows](https://www.leafie.co.uk/news/psilocybin-repairs-brains-cells-depression-yale-study-shows/)
 
-- [Full OpenBSD Startup described on slide 48](https://www.openbsdjumpstart.org)
+- [Stolen Picasso and Mondrian paintings found stashed in a ravine in Greece](https://www.nytimes.com/2021/07/01/world/europe/greece-picasso-mondrian-stolen-art.html)
 
-- [Oilsands among the most carbon intensive crudes in North America (2017)](https://www.pembina.org/blog/real-ghg-trend-oilsands)
+- [European Parliament approves mass surveillance of private communication](https://www.patrick-breyer.de/en/chatcontrol-european-parliament-approves-mass-surveillance-of-private-communications/)
 
-- [CDNs and Centrality](https://www.potaroo.net/ispcol/2021-07/cdn.html)
+- [What Can Coerce, and Where, in Rust](https://www.possiblerust.com/guide/what-can-coerce-and-where-in-rust)
 
-- [The Growth Ponzi Scheme](https://www.strongtowns.org/the-growth-ponzi-scheme)
+- [How useful was the Netflix Prize challenge for Netflix?](https://www.quora.com/How-useful-was-the-Netflix-Prize-challenge-for-Netflix/answer/Xavier-Amatriain?share=1)
 
-- [Tiny FORTH from scratch in 1 week (bootloader-based Arduino UNO, 2K of RAM)](https://www.thanassis.space/miniforth.html)
+- [The humble water heater could be the savior of our energy infrastructure woes](https://www.salon.com/2021/07/04/the-humble-water-heater-could-be-the-savior-of-our-energy-infrastructure-woes/)
 
-- [A woman's battle to prove she isn't dead](https://www.theguardian.com/lifeandstyle/2021/jul/03/they-said-i-dont-exist-but-i-am-here-one-womans-battle-to-prove-she-isnt-dead)
+- [Tencent deploys facial recognition to detect minors gaming at night](https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-)
 
-- [One man’s plan to resurrect the animal species we can’t save](https://www.wired.co.uk/article/natures-safe)
+- [Hospitals Often Charge Uninsured People the Highest Prices, New Data Show](https://www.wsj.com/articles/hospitals-often-charge-uninsured-people-the-highest-prices-new-data-show-11625584448)
 
-- [Technology Traps (1978) [video]](https://www.youtube.com/watch?v=MPcZ_5uCldg)
+- [Clojure meets Minecraft (Witchcraft/Glowstone)](https://www.youtube.com/watch?v=qgQwhc_DDSY)
 
-- [Steve Jobs in Kyoto](https://www3.nhk.or.jp/nhkworld/en/news/backstories/1622/)
+- [Cross License Collaboratives](https://xlcollaborative.com/)
