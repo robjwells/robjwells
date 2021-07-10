@@ -1,101 +1,95 @@
-- [Grafica Obscura – Collected Computer Graphics Hacks (1977-1996-Ish)](http://graficaobscura.com/)
+- [No more DSLs: Implement and deploy a distributed system with a single program](http://catern.com/caternetes.html)
 
-- [Headless React](https://acko.net/blog/live-headless-react/)
+- [Free Software's Relevance in 2021](http://jackkelly.name/blog/archives/2021/07/09/free_softwares_relevance_in_2021/index.html)
 
-- [Vim is actually worth it](https://alexfertel.hashnode.dev/vim-is-actually-worth-it)
+- [Reconcile All The Things](https://acko.net/blog/reconcile-all-the-things/)
 
-- [Old school: I work in DOS for an entire day](https://arstechnica.com/information-technology/2021/07/dos-boot-ars-spends-a-day-working-in-freedos/)
+- [Cheating in FPS by using a second computer to move mouse](https://arstechnica.com/?p=1779166)
 
-- [TCP Fast Open? Not so fast](https://blog.apnic.net/2021/07/05/tcp-fast-open-not-so-fast/)
+- [Reconstructing Roman Industrial Engineering](https://arstechnica.com/science/2021/07/reconstructing-roman-industrial-engineering/)
 
-- [Debugging in Clojure](https://blog.davemartin.me/posts/debugging-in-clojure/)
+- [CMake Part 1 – The Dark Arts](https://blog.feabhas.com/2021/07/cmake-part-1-the-dark-arts/)
 
-- [Programming Languages + Human-Computer Interaction: SPLASH 2020](https://blog.sigplan.org/2021/07/06/programming-languages-human-computer-interaction-continuing-the-story-at-splash-2020/)
+- [A simple dice-throwing game that seems hard to play](https://blog.plover.com/2021/07/08/#dice-game)
 
-- [Graphical Techniques in a Spreadsheet for Specifying User Interfaces (1991)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.18.3001&rep=rep1&type=pdf)
+- [How JavaScript Works: deep dive into call, apply, and bind](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-call-apply-and-bind-415f6729c902)
 
-- [Console Do Not Track](https://consoledonottrack.com/)
+- [How I accidentally took down GitHub Actions (2019)](https://blog.teddykatz.com/2019/11/12/github-actions-dos.html)
 
-- [Password generator in Kaspersky Password Manager uses biased non-cryptographic PRNG](https://donjon.ledger.com/kaspersky-password-manager/)
+- [Concuerror - stateless model checking tool for Erlang programs](https://concuerror.com/)
 
-- [Hacker News folk wisdom on visual programming](https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming/)
+- [Programmers, teach non-geeks the true cost of interruptions (2014)](https://daedtech.com/programmers-teach-non-geeks-the-true-cost-of-interruptions/)
 
-- [Towards a more Elvish vision for Technology](https://essays.georgestrakhov.com/elvish/)
+- [F# Is The Best Programming Language Today](https://danielbmarkham.com/fsharp-is-the-best-programming-language-today/)
 
-- [git update: the odyssey for a sensible git pull](https://felipec.wordpress.com/2021/07/05/git-update/)
+- [React without webpack: fast path to a working app from scratch](https://datastation.multiprocess.io/blog/2021-07-08-react-without-webpack.html)
 
-- [The Rituals of Iterations and Tests](https://georgefairbanks.com/ieee-software-v37-n6-nov-2020-the-rituals-of-iterations-and-tests)
+- [Deno Deploy Beta 1](https://deno.com/blog/deploy-beta1)
 
-- [RustViz: Generates Visualizations of Rust Lifetime and Borrowing Mechanism](https://github.com/rustviz/rustviz)
+- [Show HN: Earthly – Better Builds](https://earthly.dev/)
 
-- [Audacity-fork without telemetry/CLA is gaining traction](https://github.com/temporary-audacity/audacity)
+- [Kmart In-Store Music Tapes [audio]](https://forkeepspodcast.com/71-kmart-in-store-music-tapes-saved-by-mark-davis)
 
-- [Kaseya Hack: Incident Overview and Technical Details](https://helpdesk.kaseya.com/hc/en-gb/articles/4403584098961)
+- [Why F# is the best enterprise language](https://fsharpforfunandprofit.com/posts/fsharp-is-the-best-enterprise-language/)
 
-- [Extend Your Language, Don’t Alter It](https://hirrolot.github.io/posts/extend-your-language-dont-alter-it.html)
+- [Generate a Git repository with 2^28 commits—one for every 7-character shorthash](https://github.com/not-an-aardvark/every-git-commit-shorthash)
 
-- [Improving I/O efficiency and resilience](https://lists.dragonflybsd.org/pipermail/users/2021-June/404763.html)
+- [Creep – a pretty sweet 4px wide pixel font](https://github.com/romeovs/creep)
 
-- [Rust support for Linux kernel](https://lore.kernel.org/lkml/20210704202756.29107-1-ojeda@kernel.org/)
+- [Mongoose: A small toy OS with no memory protection](https://hg.sr.ht/~icefox/mongoose/)
 
-- [Poisson's Equation](https://mattferraro.dev/posts/poissons-equation)
+- [ICFP Programming Contest 2021 is running this weekend](https://icfpcontest2021.github.io/)
 
-- [America’s Obsession with Self-Help](https://newrepublic.com/article/162882/americas-obsession-self-help-americanon-review)
+- [It's Official. We Can Now Harvest Usable Lithium from Seawater](https://interestingengineering.com/lithium-from-seawater)
 
-- [NO_COLOR: disabling ANSI color output in various Unix commands](https://no-color.org/)
+- [Measuring cognitive complexity with elm-review](https://jfmengels.net/cognitive-complexity/)
 
-- [Open 3D Engine](https://o3de.org/)
+- [The historical significance of DEC and the PDP-7, -8, -11 & VAX](https://liam-on-linux.livejournal.com/81341.html)
 
-- [Kepler telescope glimpses population of free-floating planets](https://phys.org/news/2021-07-kepler-telescope-glimpses-population-free-floating.html)
+- [Adaptation and Re-adaptation: The story of Pitfall II](https://nicole.express/2021/fallin-in-a-pitfall.html)
 
-- [Write code that is easy to delete, not easy to extend. (2016)](https://programmingisterrible.com/post/139222674273/how-to-write-disposable-code-in-large-systems)
+- [Compiling Rust is NP-hard](https://niedzejkob.p4.team/rust-np/)
 
-- [Reading Like a Roman](https://publicdomainreview.org/essay/reading-like-a-roman)
+- [“Cat Person” and Me](https://slate.com/human-interest/2021/07/cat-person-kristen-roupenian-viral-story-about-me.html)
 
-- [Reverse Engineering the M6 Smart Fitness Bracelet](https://rbaron.net/blog/2021/07/06/Reverse-engineering-the-M6-smart-fitness-band.html)
+- [Controlling Marantz amplifier using Arduino via “Remote” socket](https://smallhacks.wordpress.com/2021/07/07/controlling-marantz-amplifier-using-arduino-via-remote-socket/)
 
-- [Programming Language Memory Models](https://research.swtch.com/plmm)
+- [Impact of undefined behavior on performance](https://softwarebits.substack.com/p/impact-of-undefined-behavior-on-performance)
 
-- [Show HN: Side Quest – An aggregator for not full-time tech jobs](https://sidequestjobs.com/)
+- [SpriteStack Voxel Editor](https://spritestack.io/)
 
-- [China's Zuchongzhi Quantum Computer is the most powerful in the world](https://stealthoptional.com/news/chinas-zuchongzhi-quantum-computer-is-the-most-powerful-in-the-world/)
+- [Trust in Software, an All Time Low](https://underjord.io/trust-in-software-an-all-time-low.html)
 
-- [Substack (YC W18) is hiring engineers to build the future of writing](https://substack.com/jobs?utm_source=hn&utm_content=eng)
+- [Show HN: Homer – A tool to build interactive textbooks](https://usehomer.app)
 
-- [Protecting reserved roles with PostgreSQL Hooks](https://supabase.io/blog/2021/07/01/roles-postgres-hooks)
+- [A simple mistake that stuffed up world temperature records for 90 years](https://www.abc.net.au/news/2021-07-09/global-temperature-record-mistake/100244736)
 
-- [Visual Elixir Reference](https://superruzafa.github.io/visual-elixir-reference//)
+- [How Certificate Transparency Logs Fail and Why It's OK](https://www.agwa.name/blog/post/how_ct_logs_fail)
 
-- [Paris Sportif: The Contagious Attraction of Parkour](https://thereader.mitpress.mit.edu/paris-sportif-the-contagious-attraction-of-parkour/)
+- [Automating programming: AI is transforming the coding of computer programs](https://www.economist.com/science-and-technology/2021/07/07/ai-is-transforming-the-coding-of-computer-programs)
 
-- [Defeating Cookie Banners](https://transcend.io/blog/defeating-cookie-banners)
+- [The Gull Next Door](https://www.hakaimagazine.com/features/the-gull-next-door/)
 
-- [I left my tech job to build a meditation app](https://troyshu.com/2021/07/06/why-i-left-my-tech-job-to-build-a-meditation-app-while-traveling-the-world/)
+- [A Well-Woven Tale: The fabric of the modern world](https://www.historytoday.com/archive/review/well-woven-tale)
 
-- [How to build a small town in Texas](https://wrathofgnon.substack.com/p/how-to-build-a-small-town-in-texas)
+- [HTTrack Website Copier – Free Software Offline Browser (GNU GPL)](https://www.httrack.com/)
 
-- [Fake Tesla, Apple stocks have started trading on blockchains](https://www.bloomberg.com/news/articles/2021-07-06/fake-tesla-apple-stocks-have-started-trading-on-blockchains)
+- [A New Planet in the System](https://www.laphamsquarterly.org/roundtable/new-planet-system)
 
-- [Instant water cleaning method ‘millions of times’ better: study](https://www.cardiff.ac.uk/news/view/2530949-instant-water-cleaning-method-millions-of-times-better-than-commercial-approach)
+- [How to achieve sustainable remote work](https://www.newyorker.com/culture/cultural-comment/how-to-achieve-sustainable-remote-work)
 
-- [Dumping and extracting the SpaceX Starlink user terminal firmware](https://www.esat.kuleuven.be/cosic/blog/dumping-and-extracting-the-spacex-starlink-user-terminal-firmware/)
+- [Cauliflower and Chaos, Fractals in Every Floret](https://www.nytimes.com/2021/07/08/science/cauliflower-fractals.html)
 
-- [Psilocybin repairs 'brains cells damaged by depression' Yale study shows](https://www.leafie.co.uk/news/psilocybin-repairs-brains-cells-depression-yale-study-shows/)
+- [Oil Summer Blog Backlog: Understanding and Using Shell](https://www.oilshell.org/blog/2021/07/blog-backlog-1.html)
 
-- [Stolen Picasso and Mondrian paintings found stashed in a ravine in Greece](https://www.nytimes.com/2021/07/01/world/europe/greece-picasso-mondrian-stolen-art.html)
+- [Help me to improve OpenBSD Jumpstart](https://www.openbsdjumpstart.org/feedback)
 
-- [European Parliament approves mass surveillance of private communication](https://www.patrick-breyer.de/en/chatcontrol-european-parliament-approves-mass-surveillance-of-private-communications/)
+- [A small town in Sweden fights to preserve Elfdalian, a dying forest language](https://www.pri.org/stories/2021-05-06/small-town-sweden-fights-preserve-elfdalian-dying-forest-language)
 
-- [What Can Coerce, and Where, in Rust](https://www.possiblerust.com/guide/what-can-coerce-and-where-in-rust)
+- [SafeButler (YC S17) is hiring a remote digital marketing associate](https://www.safebutler.com/careers)
 
-- [How useful was the Netflix Prize challenge for Netflix?](https://www.quora.com/How-useful-was-the-Netflix-Prize-challenge-for-Netflix/answer/Xavier-Amatriain?share=1)
+- [Uber and Lyft surge pricing drives SF customers back to taxis](https://www.sfexaminer.com/news/rideshare-surge-pricing-drives-angry-sf-customers-back-to-taxis/)
 
-- [The humble water heater could be the savior of our energy infrastructure woes](https://www.salon.com/2021/07/04/the-humble-water-heater-could-be-the-savior-of-our-energy-infrastructure-woes/)
+- [Unlimited, free intraday stock data API](https://www.styvio.com/home)
 
-- [Tencent deploys facial recognition to detect minors gaming at night](https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-)
-
-- [Hospitals Often Charge Uninsured People the Highest Prices, New Data Show](https://www.wsj.com/articles/hospitals-often-charge-uninsured-people-the-highest-prices-new-data-show-11625584448)
-
-- [Clojure meets Minecraft (Witchcraft/Glowstone)](https://www.youtube.com/watch?v=qgQwhc_DDSY)
-
-- [Cross License Collaboratives](https://xlcollaborative.com/)
+- [A TCP Proxy in 30 lines of Rust](https://zmedley.com/tcp-proxy.html)
