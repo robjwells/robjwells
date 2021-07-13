@@ -1,95 +1,105 @@
-- [No more DSLs: Implement and deploy a distributed system with a single program](http://catern.com/caternetes.html)
+- [This Website is hosted on an Casio fx-9750GII Calculator](http://fxip.as203478.net/)
 
-- [Free Software's Relevance in 2021](http://jackkelly.name/blog/archives/2021/07/09/free_softwares_relevance_in_2021/index.html)
+- [Solving the Makefile Problem](http://hintjens.com/blog:79)
 
-- [Reconcile All The Things](https://acko.net/blog/reconcile-all-the-things/)
+- [An Introduction to Medieval Geomancy (1999)](http://www.princeton.edu/~ezb/geomancy/geohome.html)
 
-- [Cheating in FPS by using a second computer to move mouse](https://arstechnica.com/?p=1779166)
+- [Down to the silicon: how the Z80's registers are implemented](http://www.righto.com/2014/10/how-z80s-registers-are-implemented-down.html)
 
-- [Reconstructing Roman Industrial Engineering](https://arstechnica.com/science/2021/07/reconstructing-roman-industrial-engineering/)
+- [Neovim — init.lua](https://alpha2phi.medium.com/neovim-init-lua-e80f4f136030)
 
-- [CMake Part 1 – The Dark Arts](https://blog.feabhas.com/2021/07/cmake-part-1-the-dark-arts/)
+- [Ribbon filter: practically smaller than Bloom and Xor](https://arxiv.org/abs/2103.02515)
 
-- [A simple dice-throwing game that seems hard to play](https://blog.plover.com/2021/07/08/#dice-game)
+- [Positive Energy Warp Drive from Hidden Geometric Structures](https://arxiv.org/abs/2104.06488)
 
-- [How JavaScript Works: deep dive into call, apply, and bind](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-call-apply-and-bind-415f6729c902)
+- [RMA: Rapid Motor Adaptation for Legged Robots](https://ashish-kmr.github.io/rma-legged-robots/)
 
-- [How I accidentally took down GitHub Actions (2019)](https://blog.teddykatz.com/2019/11/12/github-actions-dos.html)
+- [Why Build Toys](https://blog.aaronkharris.com/why-build-toys)
 
-- [Concuerror - stateless model checking tool for Erlang programs](https://concuerror.com/)
+- [A look into CBL-Mariner, Microsoft’s internal Linux distribution](https://blog.jreypo.io/2021/07/09/a-look-into-cbl-mariner-microsoft-internal-linux-distribution/)
 
-- [Programmers, teach non-geeks the true cost of interruptions (2014)](https://daedtech.com/programmers-teach-non-geeks-the-true-cost-of-interruptions/)
+- [Systems Observability](https://blog.last9.io/need-for-systems-observability/)
 
-- [F# Is The Best Programming Language Today](https://danielbmarkham.com/fsharp-is-the-best-programming-language-today/)
+- [Firefox 90 supports Fetch Metadata Request Headers](https://blog.mozilla.org/security/2021/07/12/firefox-90-supports-fetch-metadata-request-headers/)
 
-- [React without webpack: fast path to a working app from scratch](https://datastation.multiprocess.io/blog/2021-07-08-react-without-webpack.html)
+- [Use the 'tail' command to monitor everything](https://blog.robertelder.org/intro-to-tail-command/)
 
-- [Deno Deploy Beta 1](https://deno.com/blog/deploy-beta1)
+- [Temozolomide Is Explosive](https://blogs.sciencemag.org/pipeline/archives/2021/07/12/temozolimide-is-explosive)
 
-- [Show HN: Earthly – Better Builds](https://earthly.dev/)
+- [Classes vs. Prototypes: Some Philosophical and Historical Observations](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.56.4713&rep=rep1&type=pdf)
 
-- [Kmart In-Store Music Tapes [audio]](https://forkeepspodcast.com/71-kmart-in-store-music-tapes-saved-by-mark-davis)
+- [Sharing our engineering career framework with the world](https://dropbox.tech/infrastructure/sharing-our-engineering-career-framework-with-the-world)
 
-- [Why F# is the best enterprise language](https://fsharpforfunandprofit.com/posts/fsharp-is-the-best-enterprise-language/)
+- [Intel ME: Myths and reality (2017)](https://events.ccc.de/congress/2017/Fahrplan/system/event_attachments/attachments/000/003/391/original/Intel_ME_myths_and_reality.pdf)
 
-- [Generate a Git repository with 2^28 commits—one for every 7-character shorthash](https://github.com/not-an-aardvark/every-git-commit-shorthash)
+- [How to calculate the alignment between BERT and spaCy tokens](https://gist.github.com/tamuhey/af6cbb44a703423556c32798e1e1b704)
 
-- [Creep – a pretty sweet 4px wide pixel font](https://github.com/romeovs/creep)
+- [Defender (1981) by Eugene Jarvis and Sam Dicker](https://github.com/mwenge/defender)
 
-- [Mongoose: A small toy OS with no memory protection](https://hg.sr.ht/~icefox/mongoose/)
+- [Learn Assembly by Writing Entirely Too Many Brainfuck Compilers](https://github.com/pretzelhammer/rust-blog/blob/master/posts/too-many-brainfuck-compilers.md)
 
-- [ICFP Programming Contest 2021 is running this weekend](https://icfpcontest2021.github.io/)
+- [Neorg](https://github.com/vhyrro/neorg)
 
-- [It's Official. We Can Now Harvest Usable Lithium from Seawater](https://interestingengineering.com/lithium-from-seawater)
+- [Show HN: GPU-Accelerated Inference Hosting](https://inferrd.com/?gpu)
 
-- [Measuring cognitive complexity with elm-review](https://jfmengels.net/cognitive-complexity/)
+- [Definitions and initializations in C++](https://jmmv.dev/2021/07/cpp-definition-initialization.html)
 
-- [The historical significance of DEC and the PDP-7, -8, -11 & VAX](https://liam-on-linux.livejournal.com/81341.html)
+- [Qventus (YC W15) is hiring a senior data scientist to help solve healthcare](https://jobs.lever.co/qventus/2f0ee88c-89aa-4374-b724-87bffd5a2086)
 
-- [Adaptation and Re-adaptation: The story of Pitfall II](https://nicole.express/2021/fallin-in-a-pitfall.html)
+- [The Art of Nomography](https://kartsci.org/kocomu/computer-history/the-art-of-nomography/)
 
-- [Compiling Rust is NP-hard](https://niedzejkob.p4.team/rust-np/)
+- [Contrastive Representation Learning](https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html)
 
-- [“Cat Person” and Me](https://slate.com/human-interest/2021/07/cat-person-kristen-roupenian-viral-story-about-me.html)
+- [Emacs TRAMP over AWS SSM APIs](https://martin.baillie.id/wrote/emacs-tramp-over-aws-ssm-apis/)
 
-- [Controlling Marantz amplifier using Arduino via “Remote” socket](https://smallhacks.wordpress.com/2021/07/07/controlling-marantz-amplifier-using-arduino-via-remote-socket/)
+- [Writing a Bash Builtin in C to Parse INI Configs](https://mbuki-mvuki.org/posts/2021-07-12-writing-a-bash-builtin-in-c-to-parse-ini-configs/)
 
-- [Impact of undefined behavior on performance](https://softwarebits.substack.com/p/impact-of-undefined-behavior-on-performance)
+- [Organic and regenerative agriculture are revitalizing rural Montana economies](https://montanafreepress.org/2021/07/06/regenerative-agriculture-evitalizing-rural-montana-economies/)
 
-- [SpriteStack Voxel Editor](https://spritestack.io/)
+- [Neovim News #11 - The Christmas Issue](https://neovim.io/news/2021/07)
 
-- [Trust in Software, an All Time Low](https://underjord.io/trust-in-software-an-all-time-low.html)
+- [Lee Ross and the “Fundamental Attribution Error”](https://nonzero.substack.com/p/ode-to-a-world-saving-idea-f4b)
 
-- [Show HN: Homer – A tool to build interactive textbooks](https://usehomer.app)
+- [Schrödinger's Code](https://queue.acm.org/detail.cfm?id=3468263)
 
-- [A simple mistake that stuffed up world temperature records for 90 years](https://www.abc.net.au/news/2021-07-09/global-temperature-record-mistake/100244736)
+- [Updating the Go Memory Model](https://research.swtch.com/gomm)
 
-- [How Certificate Transparency Logs Fail and Why It's OK](https://www.agwa.name/blog/post/how_ct_logs_fail)
+- [The B-52’s’ “Rock Lobster” brought John Lennon back to music (2020)](https://ultimateclassicrock.com/john-lennon-rock-lobster-b-52s/)
 
-- [Automating programming: AI is transforming the coding of computer programs](https://www.economist.com/science-and-technology/2021/07/07/ai-is-transforming-the-coding-of-computer-programs)
+- [Borgs are giant extrachromosomal elements](https://www.biorxiv.org/content/10.1101/2021.07.10.451761v1?rss=1)
 
-- [The Gull Next Door](https://www.hakaimagazine.com/features/the-gull-next-door/)
+- [An Alfvenic reconnecting plasmoid thruster](https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/an-alfvenic-reconnecting-plasmoid-thruster/F296E45CC504E8FF2586EA79117E2514)
 
-- [A Well-Woven Tale: The fabric of the modern world](https://www.historytoday.com/archive/review/well-woven-tale)
+- [The next 700 programming languages (1966)](https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf)
 
-- [HTTrack Website Copier – Free Software Offline Browser (GNU GPL)](https://www.httrack.com/)
+- [-2000 Lines Of Code](https://www.folklore.org/StoryView.py?story=Negative_2000_Lines_Of_Code.txt)
 
-- [A New Planet in the System](https://www.laphamsquarterly.org/roundtable/new-planet-system)
+- [How Hot Does it Get Inside a Car During a Heat Wave?](https://www.jeremymorgan.com/tutorials/go/how-to-iot-data-go-sqlite/)
 
-- [How to achieve sustainable remote work](https://www.newyorker.com/culture/cultural-comment/how-to-achieve-sustainable-remote-work)
+- [A piece of symbolic artwork created by Neanderthals: study](https://www.livescience.com/neanderthal-symbolic-carving-germany.html)
 
-- [Cauliflower and Chaos, Fractals in Every Floret](https://www.nytimes.com/2021/07/08/science/cauliflower-fractals.html)
+- [Spotting a cherry-picked paper](https://www.notion.so/Spotting-a-cherry-picked-paper-19a91d062ef8481b964895a7a43c8429)
 
-- [Oil Summer Blog Backlog: Understanding and Using Shell](https://www.oilshell.org/blog/2021/07/blog-backlog-1.html)
+- [Approved fracking compounds can form PFAS a.k.a. “forever chemicals”](https://www.nytimes.com/2021/07/12/climate/epa-pfas-fracking-forever-chemicals.html)
 
-- [Help me to improve OpenBSD Jumpstart](https://www.openbsdjumpstart.org/feedback)
+- [Alan Turing in America](https://www.privatdozent.co/p/alan-turing-in-america-221)
 
-- [A small town in Sweden fights to preserve Elfdalian, a dying forest language](https://www.pri.org/stories/2021-05-06/small-town-sweden-fights-preserve-elfdalian-dying-forest-language)
+- [Handwriting is better than typing when learning a new language, study finds](https://www.sciencealert.com/handwriting-is-better-than-typing-when-learning-to-read-study-finds)
 
-- [SafeButler (YC S17) is hiring a remote digital marketing associate](https://www.safebutler.com/careers)
+- [Wielding lamps and torches shed new light on Stone Age cave art](https://www.sciencenews.org/article/stone-age-cave-art-lighting-torch-lamp)
 
-- [Uber and Lyft surge pricing drives SF customers back to taxis](https://www.sfexaminer.com/news/rideshare-surge-pricing-drives-angry-sf-customers-back-to-taxis/)
+- [Scylla's Approach to Improve Performance for CPU-bound workloads (2017)](https://www.scylladb.com/2017/07/06/scyllas-approach-improve-performance-cpu-bound-workloads/)
 
-- [Unlimited, free intraday stock data API](https://www.styvio.com/home)
+- [The History of Karate](https://www.smithsonianmag.com/arts-culture/centuries-old-sport-karate-history-olympics-180977941/)
 
-- [A TCP Proxy in 30 lines of Rust](https://zmedley.com/tcp-proxy.html)
+- [Cognitive Complexity](https://www.sonarsource.com/docs/CognitiveComplexity.pdf)
+
+- [Tesla’s $16k Quote for a $700 Fix Is Why Right to Repair Matters](https://www.thedrive.com/news/41493/teslas-16000-quote-for-a-700-fix-is-why-right-to-repair-matters)
+
+- [TinyPICO – tiny fully-featured ESP32 board](https://www.tinypico.com/)
+
+- [Relations as First-Class Citizen - A Paradigm Shift for Software/Database Interoperability (2013)](https://www.try-alf.org/blog/2013-10-21-relations-as-first-class-citizen)
+
+- [Refterm v2 - Resource usage, binary splat, glyph sizing, and more](https://www.youtube.com/watch?v=99dKzubvpKE)
+
+- [AutoML for Time Series Processing](https://www.youtube.com/watch?v=Ct2Lg0lOLoE)
