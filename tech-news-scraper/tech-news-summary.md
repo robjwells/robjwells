@@ -1,105 +1,93 @@
-- [This Website is hosted on an Casio fx-9750GII Calculator](http://fxip.as203478.net/)
+- [Three Months in Monte Carlo](http://bit-player.org/2021/three-months-in-monte-carlo)
 
-- [Solving the Makefile Problem](http://hintjens.com/blog:79)
+- [The Database Ruins All Good Ideas](http://squarism.com/2021/07/08/databases-ruin-all-good-ideas/)
 
-- [An Introduction to Medieval Geomancy (1999)](http://www.princeton.edu/~ezb/geomancy/geohome.html)
+- [Thoughts on Racket & Chez Scheme](https://beautifulracket.com/appendix/racket-and-chez-scheme.html)
 
-- [Down to the silicon: how the Z80's registers are implemented](http://www.righto.com/2014/10/how-z80s-registers-are-implemented-down.html)
+- [Generating JSON Directly from Postgres](https://blog.crunchydata.com/blog/generating-json-directly-from-postgres)
 
-- [Neovim — init.lua](https://alpha2phi.medium.com/neovim-init-lua-e80f4f136030)
+- [Demystify video codecs by writing one in ~100 lines of Rust](https://blog.tempus-ex.com/hello-video-codec/)
 
-- [Ribbon filter: practically smaller than Bloom and Xor](https://arxiv.org/abs/2103.02515)
+- [The universal VM we call browser](https://cerebralab.com/The_universal_VM_we_call_browser)
 
-- [Positive Energy Warp Drive from Hidden Geometric Structures](https://arxiv.org/abs/2104.06488)
+- [New Generation Artificial Heart Implanted in Patient at Duke – First in U.S.](https://corporate.dukehealth.org/news/new-generation-artificial-heart-implanted-patient-duke-first-us)
 
-- [RMA: Rapid Motor Adaptation for Legged Robots](https://ashish-kmr.github.io/rma-legged-robots/)
+- [My take on the study from MIT that predicts “societal collapse”](https://dana11235.medium.com/my-take-on-the-study-from-mit-that-predicts-societal-collapse-b351d8fbd4c2)
 
-- [Why Build Toys](https://blog.aaronkharris.com/why-build-toys)
+- [K: War on Raze](https://gist.github.com/chrispsn/af6844b80687462814fc39d4b97399a6)
 
-- [A look into CBL-Mariner, Microsoft’s internal Linux distribution](https://blog.jreypo.io/2021/07/09/a-look-into-cbl-mariner-microsoft-internal-linux-distribution/)
+- [Paradox Game Converters Collected on GitHub](https://github.com/ParadoxGameConverters)
 
-- [Systems Observability](https://blog.last9.io/need-for-systems-observability/)
+- [Alphafold](https://github.com/deepmind/alphafold)
 
-- [Firefox 90 supports Fetch Metadata Request Headers](https://blog.mozilla.org/security/2021/07/12/firefox-90-supports-fetch-metadata-request-headers/)
+- [IHP v0.12.0 has been released](https://github.com/digitallyinduced/ihp/releases)
 
-- [Use the 'tail' command to monitor everything](https://blog.robertelder.org/intro-to-tail-command/)
+- [CVE-2021-22555: Turning \x00\x00 into 10000$](https://google.github.io/security-research/pocs/linux/cve-2021-22555/writeup.html)
 
-- [Temozolomide Is Explosive](https://blogs.sciencemag.org/pipeline/archives/2021/07/12/temozolimide-is-explosive)
+- [The GQL Manifesto](https://gql.today/)
 
-- [Classes vs. Prototypes: Some Philosophical and Historical Observations](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.56.4713&rep=rep1&type=pdf)
+- [A Tutorial on Verifying LinkedList Using KeY](https://ir.cwi.nl/pub/29986/29986.pdf)
 
-- [Sharing our engineering career framework with the world](https://dropbox.tech/infrastructure/sharing-our-engineering-career-framework-with-the-world)
+- [Is This Prime?](https://isthisprime.com/game/)
 
-- [Intel ME: Myths and reality (2017)](https://events.ccc.de/congress/2017/Fahrplan/system/event_attachments/attachments/000/003/391/original/Intel_ME_myths_and_reality.pdf)
+- [The Elements of Product Design](https://jamiemill.com/blog/elements-of-product-design/)
 
-- [How to calculate the alignment between BERT and spaCy tokens](https://gist.github.com/tamuhey/af6cbb44a703423556c32798e1e1b704)
+- [Wanna see a whiter white?](https://kidi.ng/wanna-see-a-whiter-white/)
 
-- [Defender (1981) by Eugene Jarvis and Sam Dicker](https://github.com/mwenge/defender)
+- [Faster sorted array unions by reducing branches](https://lemire.me/blog/2021/07/14/faster-sorted-array-unions-by-reducing-branches/)
 
-- [Learn Assembly by Writing Entirely Too Many Brainfuck Compilers](https://github.com/pretzelhammer/rust-blog/blob/master/posts/too-many-brainfuck-compilers.md)
+- [Soldiers speak out about being blocked from repairing equipment by contractors](https://mattstoller.substack.com/p/a-real-s-show-soldiers-angrily-speak)
 
-- [Neorg](https://github.com/vhyrro/neorg)
+- [A Deep Dive into Airbnb’s Server-Driven UI System](https://medium.com/airbnb-engineering/a-deep-dive-into-airbnbs-server-driven-ui-system-842244c5f5)
 
-- [Show HN: GPU-Accelerated Inference Hosting](https://inferrd.com/?gpu)
+- [How to unlearn a disease](https://nautil.us/issue/103/healthy-communication/how-to-unlearn-a-disease-rp)
 
-- [Definitions and initializations in C++](https://jmmv.dev/2021/07/cpp-definition-initialization.html)
+- [Pharo 9 Released](https://pharo.org/news/pharo9-released.html)
 
-- [Qventus (YC W15) is hiring a senior data scientist to help solve healthcare](https://jobs.lever.co/qventus/2f0ee88c-89aa-4374-b724-87bffd5a2086)
+- [Public Suffix List](https://publicsuffix.org/)
 
-- [The Art of Nomography](https://kartsci.org/kocomu/computer-history/the-art-of-nomography/)
+- [The Future of Computers: The Neighborhood and the Nursing Home](https://puri.sm/posts/the-future-of-computers-the-neighborhood-and-the-nursing-home/)
 
-- [Contrastive Representation Learning](https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html)
+- [CVE-2021-31956 Exploiting the Windows Kernel (NTFS with WNF) – Part 1](https://research.nccgroup.com/2021/07/15/cve-2021-31956-exploiting-the-windows-kernel-ntfs-with-wnf-part-1/)
 
-- [Emacs TRAMP over AWS SSM APIs](https://martin.baillie.id/wrote/emacs-tramp-over-aws-ssm-apis/)
+- [Prison Memoirs of a Japanese Woman (1926)](https://theanarchistlibrary.org/library/kaneko-fumiko-the-prison-memoirs-of-a-japanese-woman)
 
-- [Writing a Bash Builtin in C to Parse INI Configs](https://mbuki-mvuki.org/posts/2021-07-12-writing-a-bash-builtin-in-c-to-parse-ini-configs/)
+- [On the Evilness of Feature Branching: A Tale of Two Teams](https://thinkinglabs.io/articles/2021/07/14/on-the-evilness-of-feature-branching-a-tale-of-two-teams.html)
 
-- [Organic and regenerative agriculture are revitalizing rural Montana economies](https://montanafreepress.org/2021/07/06/regenerative-agriculture-evitalizing-rural-montana-economies/)
+- [Zig, Skia, Clojure, Geometry and the Japanese TV Show: ICFP Contest 2021](https://tonsky.me/blog/icfpc-2021/)
 
-- [Neovim News #11 - The Christmas Issue](https://neovim.io/news/2021/07)
+- [The Alexander: Why did you build such a long piano?](https://www.alexanderpiano.nz/page/the-alexander-piano)
 
-- [Lee Ross and the “Fundamental Attribution Error”](https://nonzero.substack.com/p/ode-to-a-world-saving-idea-f4b)
+- [Building a Curve25519 Hardware Accelerator](https://www.bunniestudios.com/blog/?p=6140)
 
-- [Schrödinger's Code](https://queue.acm.org/detail.cfm?id=3468263)
+- [Minimum wage workers can't afford rent anywhere in America](https://www.cnn.com/2021/07/15/homes/rent-affordability-minimum-wage/)
 
-- [Updating the Go Memory Model](https://research.swtch.com/gomm)
+- [Too Smart](https://www.collaborativefund.com/blog/too-smart/)
 
-- [The B-52’s’ “Rock Lobster” brought John Lennon back to music (2020)](https://ultimateclassicrock.com/john-lennon-rock-lobster-b-52s/)
+- [Everyone knows grep is faster in the C locale](https://www.kurokatta.org/grumble/2019/03/grep-c-locale-speed)
 
-- [Borgs are giant extrachromosomal elements](https://www.biorxiv.org/content/10.1101/2021.07.10.451761v1?rss=1)
+- [(All) DNS Resource Records](https://www.netmeister.org/blog/dns-rrs.html)
 
-- [An Alfvenic reconnecting plasmoid thruster](https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/an-alfvenic-reconnecting-plasmoid-thruster/F296E45CC504E8FF2586EA79117E2514)
+- [A Haunting New Documentary About Anthony Bourdain](https://www.newyorker.com/culture/annals-of-gastronomy/the-haunting-afterlife-of-anthony-bourdain)
 
-- [The next 700 programming languages (1966)](https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf)
+- [BEAM all the things! ClojErl, an implementation of Clojure on the Erlang Virtual Machine](https://www.notamonadtutorial.com/clojerl-an-implementation-of-the-clojure-language-that-runs-on-the-beam/)
 
-- [-2000 Lines Of Code](https://www.folklore.org/StoryView.py?story=Negative_2000_Lines_Of_Code.txt)
+- [Learn Something Old Every Day](https://www.os2museum.com/wp/learn-something-old-every-day/)
 
-- [How Hot Does it Get Inside a Car During a Heat Wave?](https://www.jeremymorgan.com/tutorials/go/how-to-iot-data-go-sqlite/)
+- [How many real numbers exist? New proof moves closer to an answer](https://www.quantamagazine.org/how-many-numbers-exist-infinity-proof-moves-math-closer-to-an-answer-20210715/)
 
-- [A piece of symbolic artwork created by Neanderthals: study](https://www.livescience.com/neanderthal-symbolic-carving-germany.html)
+- [Intel in talks to buy GlobalFoundries for about $30B](https://www.reuters.com/business/intel-talks-buy-globalfoundries-about-30-billion-wsj-2021-07-15/)
 
-- [Spotting a cherry-picked paper](https://www.notion.so/Spotting-a-cherry-picked-paper-19a91d062ef8481b964895a7a43c8429)
+- [Valve Steam Deck](https://www.steamdeck.com/en/)
 
-- [Approved fracking compounds can form PFAS a.k.a. “forever chemicals”](https://www.nytimes.com/2021/07/12/climate/epa-pfas-fracking-forever-chemicals.html)
+- [Thriving in a Crowded and Changing World: C++ 2006–2020 [pdf]](https://www.stroustrup.com/hopl20main-p5-p-bfc9cd4--final.pdf)
 
-- [Alan Turing in America](https://www.privatdozent.co/p/alan-turing-in-america-221)
+- [Facebook drops funding for interface that reads the brain](https://www.technologyreview.com/2021/07/14/1028447/facebook-brain-reading-interface-stops-funding/)
 
-- [Handwriting is better than typing when learning a new language, study finds](https://www.sciencealert.com/handwriting-is-better-than-typing-when-learning-to-read-study-finds)
+- [Restoring your privacy costs money, which makes it a marker of class](https://www.theregister.com/2021/07/15/privacy_costs_money/)
 
-- [Wielding lamps and torches shed new light on Stone Age cave art](https://www.sciencenews.org/article/stone-age-cave-art-lighting-torch-lamp)
+- [Algorithms for Cartographic Visualization (2012) [pdf]](https://www.win.tue.nl/~kverbeek/PhDThesis.pdf)
 
-- [Scylla's Approach to Improve Performance for CPU-bound workloads (2017)](https://www.scylladb.com/2017/07/06/scyllas-approach-improve-performance-cpu-bound-workloads/)
+- [Motion (YC W20) is hiring a lead fullstack engineer to change how we manage time](https://www.workatastartup.com/jobs/45050)
 
-- [The History of Karate](https://www.smithsonianmag.com/arts-culture/centuries-old-sport-karate-history-olympics-180977941/)
-
-- [Cognitive Complexity](https://www.sonarsource.com/docs/CognitiveComplexity.pdf)
-
-- [Tesla’s $16k Quote for a $700 Fix Is Why Right to Repair Matters](https://www.thedrive.com/news/41493/teslas-16000-quote-for-a-700-fix-is-why-right-to-repair-matters)
-
-- [TinyPICO – tiny fully-featured ESP32 board](https://www.tinypico.com/)
-
-- [Relations as First-Class Citizen - A Paradigm Shift for Software/Database Interoperability (2013)](https://www.try-alf.org/blog/2013-10-21-relations-as-first-class-citizen)
-
-- [Refterm v2 - Resource usage, binary splat, glyph sizing, and more](https://www.youtube.com/watch?v=99dKzubvpKE)
-
-- [AutoML for Time Series Processing](https://www.youtube.com/watch?v=Ct2Lg0lOLoE)
+- [Coinless, Capless, & Cannonless Challenges](https://www.youtube.com/watch?v=b32kbK8Yfwo)
