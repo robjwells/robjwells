@@ -1,93 +1,105 @@
-- [Three Months in Monte Carlo](http://bit-player.org/2021/three-months-in-monte-carlo)
+- [9FRONT "COMMUNITY VS INFRASTRUCTURE" RELEASED](http://9front.org/releases/2021/07/18/0/)
 
-- [The Database Ruins All Good Ideas](http://squarism.com/2021/07/08/databases-ruin-all-good-ideas/)
+- [NIL](http://www.lispworks.com/documentation/lw50/CLHS/Body/01_dadd.htm)
 
-- [Thoughts on Racket & Chez Scheme](https://beautifulracket.com/appendix/racket-and-chez-scheme.html)
+- [A Tour of the Oil Language](http://www.oilshell.org/release/latest/doc/oil-language-tour.html)
 
-- [Generating JSON Directly from Postgres](https://blog.crunchydata.com/blog/generating-json-directly-from-postgres)
+- [BlockQuicksort: How Branch Mispredictions don't affect Quicksort (2016)](https://arxiv.org/abs/1604.06697)
 
-- [Demystify video codecs by writing one in ~100 lines of Rust](https://blog.tempus-ex.com/hello-video-codec/)
+- [Inserting One Billion Rows in SQLite Under A Minute](https://avi.im/blag/2021/fast-sqlite-inserts/)
 
-- [The universal VM we call browser](https://cerebralab.com/The_universal_VM_we_call_browser)
+- [“We're Shutting Down Our 3G Network”](https://benergize.com/2021/07/16/were-shutting-down-our-3g-network/)
 
-- [New Generation Artificial Heart Implanted in Patient at Duke – First in U.S.](https://corporate.dukehealth.org/news/new-generation-artificial-heart-implanted-patient-duke-first-us)
+- [The patience diff algorithm – The If Works](https://blog.jcoglan.com/2017/09/19/the-patience-diff-algorithm/)
 
-- [My take on the study from MIT that predicts “societal collapse”](https://dana11235.medium.com/my-take-on-the-study-from-mit-that-predicts-societal-collapse-b351d8fbd4c2)
+- [Releasing Org-roam v2](https://blog.jethro.dev/posts/org_roam_v2/)
 
-- [K: War on Raze](https://gist.github.com/chrispsn/af6844b80687462814fc39d4b97399a6)
+- [Racket v8.2](https://blog.racket-lang.org/2021/07/racket-v8-2.html)
 
-- [Paradox Game Converters Collected on GitHub](https://github.com/ParadoxGameConverters)
+- [Meet WiFiDemon: iOS WiFi RCE 0-Day Vulnerability & a 'Zero-Click' Vulnerability That was Silently Patched](https://blog.zecops.com/research/meet-wifidemon-ios-wifi-rce-0-day-vulnerability-and-a-zero-click-vulnerability-that-was-silently-patched/)
 
-- [Alphafold](https://github.com/deepmind/alphafold)
+- [The Thermocline of Truth (2008)](https://brucefwebster.com/2008/04/15/the-wetware-crisis-the-themocline-of-truth/)
 
-- [IHP v0.12.0 has been released](https://github.com/digitallyinduced/ihp/releases)
+- [Sometimes It’s Not Always DNS](https://build.thebeat.co/sometimes-its-not-always-dns-3c0b6f68f49f)
 
-- [CVE-2021-22555: Turning \x00\x00 into 10000$](https://google.github.io/security-research/pocs/linux/cve-2021-22555/writeup.html)
+- [Paranoid NixOS Setup](https://christine.website/blog/paranoid-nixos-2021-07-18)
 
-- [The GQL Manifesto](https://gql.today/)
+- [Getting z/OS  installed on my Ubuntu laptop](https://colinpaice.blog/2020/06/29/getting-z-os-installed-on-my-ubuntu-laptop/)
 
-- [A Tutorial on Verifying LinkedList Using KeY](https://ir.cwi.nl/pub/29986/29986.pdf)
+- [The Perils of M1 Ownership](https://eclecticlight.co/2021/07/18/last-week-on-my-mac-the-perils-of-m1-ownership/)
 
-- [Is This Prime?](https://isthisprime.com/game/)
+- [Accessing PostgreSQL databases in Go](https://eli.thegreenplace.net/2021/accessing-postgresql-databases-in-go/)
 
-- [The Elements of Product Design](https://jamiemill.com/blog/elements-of-product-design/)
+- [An app for M1 Macs that plays the sound of a fan as CPU usage goes up](https://fanfan.rambo.codes/)
 
-- [Wanna see a whiter white?](https://kidi.ng/wanna-see-a-whiter-white/)
+- [Introducing liblattutil](https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/personal/2021-07-17-liblattutil/article.md)
 
-- [Faster sorted array unions by reducing branches](https://lemire.me/blog/2021/07/14/faster-sorted-array-unions-by-reducing-branches/)
+- [A barebones link-tree clone](https://github.com/1ntEgr8/yolo-tree)
 
-- [Soldiers speak out about being blocked from repairing equipment by contractors](https://mattstoller.substack.com/p/a-real-s-show-soldiers-angrily-speak)
+- [Diffsitter: A tree-sitter based AST difftool to get meaningful semantic diffs](https://github.com/afnanenayet/diffsitter)
 
-- [A Deep Dive into Airbnb’s Server-Driven UI System](https://medium.com/airbnb-engineering/a-deep-dive-into-airbnbs-server-driven-ui-system-842244c5f5)
+- [ToyDB: Distributed SQL Database in Rust](https://github.com/erikgrinaker/toydb)
 
-- [How to unlearn a disease](https://nautil.us/issue/103/healthy-communication/how-to-unlearn-a-disease-rp)
+- [Libwsm: Wayland Security Module library for Wayland compositors](https://github.com/mupuf/libwsm)
 
-- [Pharo 9 Released](https://pharo.org/news/pharo9-released.html)
+- [MVT – forensic tool to look for infections on smartphones](https://github.com/mvt-project/mvt)
 
-- [Public Suffix List](https://publicsuffix.org/)
+- [Show HN: Angle Grinder – A terminal app to slice, dice, and aggregate your logs](https://github.com/rcoh/angle-grinder)
 
-- [The Future of Computers: The Neighborhood and the Nursing Home](https://puri.sm/posts/the-future-of-computers-the-neighborhood-and-the-nursing-home/)
+- [Edgedressing](https://github.com/stryngs/edgedressing)
 
-- [CVE-2021-31956 Exploiting the Windows Kernel (NTFS with WNF) – Part 1](https://research.nccgroup.com/2021/07/15/cve-2021-31956-exploiting-the-windows-kernel-ntfs-with-wnf-part-1/)
+- [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 
-- [Prison Memoirs of a Japanese Woman (1926)](https://theanarchistlibrary.org/library/kaneko-fumiko-the-prison-memoirs-of-a-japanese-woman)
+- [Debian bullseye fully frozen](https://lists.debian.org/debian-devel-announce/2021/07/msg00002.html)
 
-- [On the Evilness of Feature Branching: A Tale of Two Teams](https://thinkinglabs.io/articles/2021/07/14/on-the-evilness-of-feature-branching-a-tale-of-two-teams.html)
+- [Word gap: When money’s tight, parents talk less to kids](https://news.berkeley.edu/2021/07/16/word-gap-when-moneys-tight-parents-talk-less-to-kids/)
 
-- [Zig, Skia, Clojure, Geometry and the Japanese TV Show: ICFP Contest 2021](https://tonsky.me/blog/icfpc-2021/)
+- [Monitor your home's temperature and humidity with Raspberry Pis and Prometheus](https://opensource.com/article/21/7/home-temperature-raspberry-pi-prometheus)
 
-- [The Alexander: Why did you build such a long piano?](https://www.alexanderpiano.nz/page/the-alexander-piano)
+- [Vim: you don't need NERDtree or (maybe) netrw (2019)](https://shapeshed.com/vim-netrw/)
 
-- [Building a Curve25519 Hardware Accelerator](https://www.bunniestudios.com/blog/?p=6140)
+- [Preventing cycles in parent-child relationship graph in sqlite3](https://sic.nessuent.xyz/s/18/detecting-cycles-in-tag-parent-child-relationship-in-sqlite3/)
 
-- [Minimum wage workers can't afford rent anywhere in America](https://www.cnn.com/2021/07/15/homes/rent-affordability-minimum-wage/)
+- [the forth memory model](https://side-effects.neocities.org/technology/memory-model.html)
 
-- [Too Smart](https://www.collaborativefund.com/blog/too-smart/)
+- [Visualizing all the vacant office space in San Francisco](https://socketsite.com/archives/2021/07/visualizing-all-the-vacant-office-space-in-san-francisco-2.html)
 
-- [Everyone knows grep is faster in the C locale](https://www.kurokatta.org/grumble/2019/03/grep-c-locale-speed)
+- [Old pattern powering modern tech](https://softwarebits.substack.com/p/old-pattern-powering-modern-tech)
 
-- [(All) DNS Resource Records](https://www.netmeister.org/blog/dns-rrs.html)
+- [A plan to rescue the Web from the Internet (2017)](https://staltz.com/a-plan-to-rescue-the-web-from-the-internet.html)
 
-- [A Haunting New Documentary About Anthony Bourdain](https://www.newyorker.com/culture/annals-of-gastronomy/the-haunting-afterlife-of-anthony-bourdain)
+- [What I learned from Software Engineering at Google](https://swizec.com/blog/what-i-learned-from-software-engineering-at-google/)
 
-- [BEAM all the things! ClojErl, an implementation of Clojure on the Erlang Virtual Machine](https://www.notamonadtutorial.com/clojerl-an-implementation-of-the-clojure-language-that-runs-on-the-beam/)
+- [iOS 14.6 device hacked with a zero-click iMessage exploit to install Pegasus](https://twitter.com/billmarczak/status/1416801514685796352)
 
-- [Learn Something Old Every Day](https://www.os2museum.com/wp/learn-something-old-every-day/)
+- [A Journey to understand LLVM-IR](https://un-devs.github.io/low-level-exploration/journey-to-understanding-llvm-ir/#)
 
-- [How many real numbers exist? New proof moves closer to an answer](https://www.quantamagazine.org/how-many-numbers-exist-infinity-proof-moves-math-closer-to-an-answer-20210715/)
+- [Frugal computing: On the need for low-carbon and sustainable computing and the path towards](https://wimvanderbauwhede.github.io/articles/frugal-computing/)
 
-- [Intel in talks to buy GlobalFoundries for about $30B](https://www.reuters.com/business/intel-talks-buy-globalfoundries-about-30-billion-wsj-2021-07-15/)
+- [Forensic Methodology Report: How to catch NSO Group’s Pegasus](https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/)
 
-- [Valve Steam Deck](https://www.steamdeck.com/en/)
+- [The online data that's being deleted](https://www.bbc.com/future/article/20210715-the-online-data-thats-being-deleted)
 
-- [Thriving in a Crowded and Changing World: C++ 2006–2020 [pdf]](https://www.stroustrup.com/hopl20main-p5-p-bfc9cd4--final.pdf)
+- [Chernobyl's 'stalker' subculture](https://www.calvertjournal.com/features/show/10946/into-the-zone-4-days-inside-chernobyls-secretive-stalker-subculture)
 
-- [Facebook drops funding for interface that reads the brain](https://www.technologyreview.com/2021/07/14/1028447/facebook-brain-reading-interface-stops-funding/)
+- [Let's talk about Wayland](https://www.dedoimedo.com/computers/wayland-2021.html)
 
-- [Restoring your privacy costs money, which makes it a marker of class](https://www.theregister.com/2021/07/15/privacy_costs_money/)
+- [Right or left, you should be worried about big tech censorship](https://www.eff.org/deeplinks/2021/07/right-or-left-you-should-be-worried-about-big-tech-censorship)
 
-- [Algorithms for Cartographic Visualization (2012) [pdf]](https://www.win.tue.nl/~kverbeek/PhDThesis.pdf)
+- [Zoom to Acquire Five9](https://www.globenewswire.com/news-release/2021/07/19/2264531/0/en/Zoom-to-Acquire-Five9.html)
 
-- [Motion (YC W20) is hiring a lead fullstack engineer to change how we manage time](https://www.workatastartup.com/jobs/45050)
+- [Study: Global plant growth surging alongside carbon dioxide (2017)](https://www.noaa.gov/news/study-global-plant-growth-surging-alongside-carbon-dioxide)
 
-- [Coinless, Capless, & Cannonless Challenges](https://www.youtube.com/watch?v=b32kbK8Yfwo)
+- [FireCracker internals: a deep dive inside the technology powering AWS Lambda](https://www.talhoffman.com/2021/07/18/firecracker-internals/)
+
+- [Data leak shatters the lie that the innocent need not fear surveillance](https://www.theguardian.com/news/2021/jul/18/huge-data-leak-shatters-lie-innocent-need-not-fear-surveillance)
+
+- [Apple sued by teen wrongly accused of shoplifting by unreliable facial-rec tech](https://www.theregister.com/2021/05/29/apple_sis_lawsuit/)
+
+- [“Neuroprosthesis” restores words to man with paralysis](https://www.ucsf.edu/news/2021/07/420946/neuroprosthesis-restores-words-man-paralysis)
+
+- [Police destroy Bitcoin miners with steamroller in Malaysia](https://www.vice.com/en/article/7kv739/police-destroy-1069-bitcoin-miners-with-big-ass-steamroller-in-malaysia)
+
+- [Cortex (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/29595)
+
+- [Cities try to phase out gas stoves but cooks are pushing back](https://www.wsj.com/articles/cities-try-to-phase-out-gas-stovesbut-cooks-are-pushing-back-11626514200)
