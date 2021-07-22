@@ -1,105 +1,105 @@
-- [9FRONT "COMMUNITY VS INFRASTRUCTURE" RELEASED](http://9front.org/releases/2021/07/18/0/)
+- [Fuzzing Modern UDP Game Protocols with Snapshot-Based Fuzzers](http://blog.ret2.io/2021/07/21/wtf-snapshot-fuzzing/)
 
-- [NIL](http://www.lispworks.com/documentation/lw50/CLHS/Body/01_dadd.htm)
+- [TSO and IBM System/370](http://pveentjer.blogspot.com/2021/07/ibm-370.html)
 
-- [A Tour of the Oil Language](http://www.oilshell.org/release/latest/doc/oil-language-tour.html)
+- [Kubernetes is our generation's Multics](http://www.oilshell.org/blog/2021/07/blog-backlog-2.html)
 
-- [BlockQuicksort: How Branch Mispredictions don't affect Quicksort (2016)](https://arxiv.org/abs/1604.06697)
+- [Reversing for dummies - x86 assembly and C code](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html)
 
-- [Inserting One Billion Rows in SQLite Under A Minute](https://avi.im/blag/2021/fast-sqlite-inserts/)
+- [New Aspects Related to Plant Processing Revealed at Çatalhöyük](https://archaeologynewsnetwork.blogspot.com/2021/07/new-aspects-related-to-plant-processing.html)
 
-- [“We're Shutting Down Our 3G Network”](https://benergize.com/2021/07/16/were-shutting-down-our-3g-network/)
+- [Reflections as the Internet Archive turns 25](https://blog.archive.org/2021/07/21/reflections-as-the-internet-archive-turns-25/)
 
-- [The patience diff algorithm – The If Works](https://blog.jcoglan.com/2017/09/19/the-patience-diff-algorithm/)
+- [A case against security nihilism](https://blog.cryptographyengineering.com/2021/07/20/a-case-against-security-nihilism/)
 
-- [Releasing Org-roam v2](https://blog.jethro.dev/posts/org_roam_v2/)
+- [Rendering 1M+ Particles](https://blog.farazshaikh.com/stories/rendering-1-m-particles/)
 
-- [Racket v8.2](https://blog.racket-lang.org/2021/07/racket-v8-2.html)
+- [Diving into Dependabot along with a bug in npm](https://blog.tyage.net/posts/2021-06-27-dependabot-rce/)
 
-- [Meet WiFiDemon: iOS WiFi RCE 0-Day Vulnerability & a 'Zero-Click' Vulnerability That was Silently Patched](https://blog.zecops.com/research/meet-wifidemon-ios-wifi-rce-0-day-vulnerability-and-a-zero-click-vulnerability-that-was-silently-patched/)
+- [Facebook took our election ad money then bulk-deleted our pages](https://bozhobg.medium.com/facebook-took-our-election-ad-money-then-bulk-deleted-our-pages-bbdf7bea948)
 
-- [The Thermocline of Truth (2008)](https://brucefwebster.com/2008/04/15/the-wetware-crisis-the-themocline-of-truth/)
+- [I ****ing hate Science](https://buttondown.email/hillelwayne/archive/i-ing-hate-science/)
 
-- [Sometimes It’s Not Always DNS](https://build.thebeat.co/sometimes-its-not-always-dns-3c0b6f68f49f)
+- [namedtuple in a post-dataclasses world](https://death.andgravity.com/namedtuples)
 
-- [Paranoid NixOS Setup](https://christine.website/blog/paranoid-nixos-2021-07-18)
+- [Open Sourcing Direct3D 9 on 12 and the Release of the DXBC Signer NuGet Package](https://devblogs.microsoft.com/directx/open-sourcing-direct3d-9-on-12-and-the-release-of-the-dxbc-signer-nuget-package/)
 
-- [Getting z/OS  installed on my Ubuntu laptop](https://colinpaice.blog/2020/06/29/getting-z-os-installed-on-my-ubuntu-laptop/)
+- [Why does the New menu even exist for creating new empty files?](https://devblogs.microsoft.com/oldnewthing/20210720-41/?p=105457)
 
-- [The Perils of M1 Ownership](https://eclecticlight.co/2021/07/18/last-week-on-my-mac-the-perils-of-m1-ownership/)
+- [Show HN: Web-based visualization for robotics and autonomous vehicles](https://foxglove.dev/)
 
-- [Accessing PostgreSQL databases in Go](https://eli.thegreenplace.net/2021/accessing-postgresql-databases-in-go/)
+- [Programmatic Video Editing with Python](https://github.com/Zulko/moviepy)
 
-- [An app for M1 Macs that plays the sound of a fan as CPU usage goes up](https://fanfan.rambo.codes/)
+- [Game of Life running in a GraalVM-compiled binary within the Small Clojure Interpreter on an iPhone](https://github.com/phronmophobic/mobiletest)
 
-- [Introducing liblattutil](https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/personal/2021-07-17-liblattutil/article.md)
+- [The undiscovered country: Can suicide be predicted?](https://harpers.org/archive/2021/08/the-undiscovered-country-death-by-suicide-prediction-suicidology/)
 
-- [A barebones link-tree clone](https://github.com/1ntEgr8/yolo-tree)
+- [Binary Trees are optimal except when they’re not](https://hbfs.wordpress.com/2021/07/20/binary-trees-are-optimal-except-when-theyre-not/)
 
-- [Diffsitter: A tree-sitter based AST difftool to get meaningful semantic diffs](https://github.com/afnanenayet/diffsitter)
+- [My Fanless OpenBSD Desktop](https://jcs.org/2021/07/19/desktop)
 
-- [ToyDB: Distributed SQL Database in Rust](https://github.com/erikgrinaker/toydb)
+- [No Cost Data Scraping With GitHub Actions And Neo4j Aura](https://lyonwj.com/blog/no-cost-data-scraping-github-actions-neo4j-aura)
 
-- [Libwsm: Wayland Security Module library for Wayland compositors](https://github.com/mupuf/libwsm)
+- [Modeling mutual friendship](https://minimalmodeling.substack.com/p/modeling-mutual-friendship)
 
-- [MVT – forensic tool to look for infections on smartphones](https://github.com/mvt-project/mvt)
+- [Tour of the Sacred Library — Walk with me through latent space](https://moultano.wordpress.com/2021/07/20/tour-of-the-sacred-library/)
 
-- [Show HN: Angle Grinder – A terminal app to slice, dice, and aggregate your logs](https://github.com/rcoh/angle-grinder)
+- [A digital museum of video game levels](https://noclip.website)
 
-- [Edgedressing](https://github.com/stryngs/edgedressing)
+- [Can a package manager solve the AGPL "remote network interaction" problem?](https://opensource.stackexchange.com/q/11840/18097)
 
-- [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
+- [Our Machinery Design Principles](https://ourmachinery.com/files/guidebook.md.html#omg-design:designprinciples)
 
-- [Debian bullseye fully frozen](https://lists.debian.org/debian-devel-announce/2021/07/msg00002.html)
+- [Everything you need to know about Covid-19 vaccines](https://pharmaceutical-journal.com/article/feature/everything-you-need-to-know-about-covid-19-vaccines)
 
-- [Word gap: When money’s tight, parents talk less to kids](https://news.berkeley.edu/2021/07/16/word-gap-when-moneys-tight-parents-talk-less-to-kids/)
+- [A story about an Apple and two fetches](https://pwning.systems/posts/apple-kernel-vulnerability/)
 
-- [Monitor your home's temperature and humidity with Raspberry Pis and Prometheus](https://opensource.com/article/21/7/home-temperature-raspberry-pi-prometheus)
+- [Intel Distribution for Python](https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/distribution-for-python.html)
 
-- [Vim: you don't need NERDtree or (maybe) netrw (2019)](https://shapeshed.com/vim-netrw/)
+- [DuckDuckGo email protection](https://spreadprivacy.com/introducing-email-protection-beta/)
 
-- [Preventing cycles in parent-child relationship graph in sqlite3](https://sic.nessuent.xyz/s/18/detecting-cycles-in-tag-parent-child-relationship-in-sqlite3/)
+- [Teaching Tech Together](https://teachtogether.tech/en/index.html)
 
-- [the forth memory model](https://side-effects.neocities.org/technology/memory-model.html)
+- [Planning and estimating large-scale software projects](https://tomrussell.co.uk/writing/2021/07/19/estimating-large-scale-software-projects.html)
 
-- [Visualizing all the vacant office space in San Francisco](https://socketsite.com/archives/2021/07/visualizing-all-the-vacant-office-space-in-san-francisco-2.html)
+- [I built my first serverless robot and won $1000](https://towardsdev.com/how-i-built-my-first-serverless-robot-and-won-200-87127a0b108c)
 
-- [Old pattern powering modern tech](https://softwarebits.substack.com/p/old-pattern-powering-modern-tech)
+- [Windows Defender July Update – Deletes file from famous copyright case (DeCSS)](https://www.arch13.com/ms-windows-defender-decss/)
 
-- [A plan to rescue the Web from the Internet (2017)](https://staltz.com/a-plan-to-rescue-the-web-from-the-internet.html)
+- [Bezos donates $100M each to CNN contributor Van Jones and chef Jose Andres](https://www.cnn.com/2021/07/20/media/van-jones-bezos-100-million/index.html)
 
-- [What I learned from Software Engineering at Google](https://swizec.com/blog/what-i-learned-from-software-engineering-at-google/)
+- [Dover (YC S19) just raised $20M and is hiring our first engineering manager](https://www.dover.com/open-roles/engineering-manager)
 
-- [iOS 14.6 device hacked with a zero-click iMessage exploit to install Pegasus](https://twitter.com/billmarczak/status/1416801514685796352)
+- [NVMM lands in DragonFlyBSD](https://www.dragonflydigest.com/2021/07/21/26006.html)
 
-- [A Journey to understand LLVM-IR](https://un-devs.github.io/low-level-exploration/journey-to-understanding-llvm-ir/#)
+- [Airbnb raises violent crime rates in cities as residents are pushed out](https://www.euronews.com/next/2021/07/15/airbnb-raises-violent-crime-rates-in-cities-as-long-term-residents-are-pushed-out-says-us-)
 
-- [Frugal computing: On the need for low-carbon and sustainable computing and the path towards](https://wimvanderbauwhede.github.io/articles/frugal-computing/)
+- [Floydhub Is Shutting Down](https://www.floydhub.com/shutdown)
 
-- [Forensic Methodology Report: How to catch NSO Group’s Pegasus](https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/)
+- [Man Arrested in Connection with Alleged Role in Twitter Hack](https://www.justice.gov/opa/pr/man-arrested-connection-alleged-role-twitter-hack)
 
-- [The online data that's being deleted](https://www.bbc.com/future/article/20210715-the-online-data-thats-being-deleted)
+- [Information Sovereignty](https://www.lrb.co.uk/blog/2021/july/information-sovereignty)
 
-- [Chernobyl's 'stalker' subculture](https://www.calvertjournal.com/features/show/10946/into-the-zone-4-days-inside-chernobyls-secretive-stalker-subculture)
+- [Getting 'Steinached' was all the rage in Roaring ’20s (2017)](https://www.mcgill.ca/oss/article/health-history-science-science-everywhere/getting-steinached-was-all-rage-roaring-20s)
 
-- [Let's talk about Wayland](https://www.dedoimedo.com/computers/wayland-2021.html)
+- [Julia used Multiple Dispatch! It's Super Effective](https://www.moll.dev/projects/effective-multi-dispatch/)
 
-- [Right or left, you should be worried about big tech censorship](https://www.eff.org/deeplinks/2021/07/right-or-left-you-should-be-worried-about-big-tech-censorship)
+- [First lethal attacks by chimpanzees on gorillas observed](https://www.mpg.de/17223684/0719-evan-lethal-attacks-by-chimpanzees-on-gorillas-observed-150495-x)
 
-- [Zoom to Acquire Five9](https://www.globenewswire.com/news-release/2021/07/19/2264531/0/en/Zoom-to-Acquire-Five9.html)
+- [Vulnerability in Linux's filesystem layer that grants local root access](https://www.openwall.com/lists/oss-security/2021/07/20/1)
 
-- [Study: Global plant growth surging alongside carbon dioxide (2017)](https://www.noaa.gov/news/study-global-plant-growth-surging-alongside-carbon-dioxide)
+- [Lost world revealed by human, Neanderthal relics washed up on North Sea beaches](https://www.sciencemag.org/news/2020/01/relics-washed-beaches-reveal-lost-world-beneath-north-sea)
 
-- [FireCracker internals: a deep dive inside the technology powering AWS Lambda](https://www.talhoffman.com/2021/07/18/firecracker-internals/)
+- [A monorepo misconception - atomic cross-project commits](https://www.snellman.net/blog/archive/2021-07-21-monorepo-atomic/)
 
-- [Data leak shatters the lie that the innocent need not fear surveillance](https://www.theguardian.com/news/2021/jul/18/huge-data-leak-shatters-lie-innocent-need-not-fear-surveillance)
+- [SQLite is 35% Faster Than The Filesystem](https://www.sqlite.org/fasterthanfs.html)
 
-- [Apple sued by teen wrongly accused of shoplifting by unreliable facial-rec tech](https://www.theregister.com/2021/05/29/apple_sis_lawsuit/)
+- [James Mickens: This World of Ours [pdf]](https://www.usenix.org/system/files/1401_08-12_mickens.pdf)
 
-- [“Neuroprosthesis” restores words to man with paralysis](https://www.ucsf.edu/news/2021/07/420946/neuroprosthesis-restores-words-man-paralysis)
+- [The FTC Votes Unanimously to Enforce Right to Repair](https://www.wired.com/story/ftc-votes-to-enforce-right-to-repair/)
 
-- [Police destroy Bitcoin miners with steamroller in Malaysia](https://www.vice.com/en/article/7kv739/police-destroy-1069-bitcoin-miners-with-big-ass-steamroller-in-malaysia)
+- [A YouTube Chat About Chess Got Flagged for Hate Speech](https://www.wired.com/story/why-youtube-chat-chess-flagged-hate-speech/)
 
-- [Cortex (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/29595)
+- [Elixir: Practical Concurrency Cookbook](https://www.works-hub.com/learn/elixir-practical-concurrency-3794f)
 
-- [Cities try to phase out gas stoves but cooks are pushing back](https://www.wsj.com/articles/cities-try-to-phase-out-gas-stovesbut-cooks-are-pushing-back-11626514200)
+- [The FPGA Designer Who Didn't Get the Job](https://zipcpu.com/blog/2021/01/29/hiring.html)
