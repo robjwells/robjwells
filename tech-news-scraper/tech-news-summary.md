@@ -1,105 +1,103 @@
-- [Fuzzing Modern UDP Game Protocols with Snapshot-Based Fuzzers](http://blog.ret2.io/2021/07/21/wtf-snapshot-fuzzing/)
+- [Write signatures, not schemas](http://catern.com/schemas.html)
 
-- [TSO and IBM System/370](http://pveentjer.blogspot.com/2021/07/ibm-370.html)
+- [LeVar Burton: 'Jeopardy ' host gig began 'scary,' ended fun](https://abcnews.go.com/Entertainment/wireStory/levar-burton-jeopardy-host-gig-began-scary-ended-79018577)
 
-- [Kubernetes is our generation's Multics](http://www.oilshell.org/blog/2021/07/blog-backlog-2.html)
+- [Jerry (YC S17) Is Hiring Remote Senior Software Engineer](https://apply.workable.com/jerry/j/07E1D2B302/)
 
-- [Reversing for dummies - x86 assembly and C code](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html)
+- [What’s the matter with airports? (2011)](https://askthepilot.com/essaysandstories/whats-the-matter-with-airports/)
 
-- [New Aspects Related to Plant Processing Revealed at Çatalhöyük](https://archaeologynewsnetwork.blogspot.com/2021/07/new-aspects-related-to-plant-processing.html)
+- [Cloudflare's Handling of an RCE Vulnerability in cdnjs](https://blog.cloudflare.com/cloudflares-handling-of-an-rce-vulnerability-in-cdnjs/)
 
-- [Reflections as the Internet Archive turns 25](https://blog.archive.org/2021/07/21/reflections-as-the-internet-archive-turns-25/)
+- [Inserting 130M SQLite rows per minute from a scripting language](https://blog.metaobject.com/2021/07/inserting-130m-sqlite-rows-per.html)
 
-- [A case against security nihilism](https://blog.cryptographyengineering.com/2021/07/20/a-case-against-security-nihilism/)
+- [Types versus sets in math and programming languages](https://byorgey.wordpress.com/2021/06/24/types-versus-sets-in-math-and-programming-languages/)
 
-- [Rendering 1M+ Particles](https://blog.farazshaikh.com/stories/rendering-1-m-particles/)
+- [Use computers to store data](https://computer.rip/2021-04-03-use-computers-to-store-data.html)
 
-- [Diving into Dependabot along with a bug in npm](https://blog.tyage.net/posts/2021-06-27-dependabot-rce/)
+- [CudaText: Cross-platform code editor](https://cudatext.github.io/)
 
-- [Facebook took our election ad money then bulk-deleted our pages](https://bozhobg.medium.com/facebook-took-our-election-ad-money-then-bulk-deleted-our-pages-bbdf7bea948)
+- [Self hosting is important](https://dataswamp.org/~solene/2021-07-23-why-selfhosting-is-important.html)
 
-- [I ****ing hate Science](https://buttondown.email/hillelwayne/archive/i-ing-hate-science/)
+- [The Framework Laptop is now shipping](https://frame.work/blog/the-framework-laptop-is-now-shipping-and-press-reviews)
 
-- [namedtuple in a post-dataclasses world](https://death.andgravity.com/namedtuples)
+- [Neofetch: Command-line system information tool written in bash](https://github.com/dylanaraps/neofetch)
 
-- [Open Sourcing Direct3D 9 on 12 and the Release of the DXBC Signer NuGet Package](https://devblogs.microsoft.com/directx/open-sourcing-direct3d-9-on-12-and-the-release-of-the-dxbc-signer-nuget-package/)
+- [Gitea Grant application for the implementation of federation](https://github.com/go-gitea/gitea/issues/16518)
 
-- [Why does the New menu even exist for creating new empty files?](https://devblogs.microsoft.com/oldnewthing/20210720-41/?p=105457)
+- [patu is a ClojureScript game library built on Kaboom.js](https://github.com/learnuidev/patu)
 
-- [Show HN: Web-based visualization for robotics and autonomous vehicles](https://foxglove.dev/)
+- [Registry Explorer: Replacement for the Windows Built-In Regedit.exe Tool](https://github.com/zodiacon/RegExp)
 
-- [Programmatic Video Editing with Python](https://github.com/Zulko/moviepy)
+- [Untangle your code with MORE than service objects! Meet Dry::Monads](https://hanamimastery.com/episodes/7-untangle-your-app-with-dry-monads)
 
-- [Game of Life running in a GraalVM-compiled binary within the Small Clojure Interpreter on an iPhone](https://github.com/phronmophobic/mobiletest)
+- [Hobson's Browser: How Apple, Facebook and Google broke the mobile browser market](https://infrequently.org/2021/07/hobsons-browser/)
 
-- [The undiscovered country: Can suicide be predicted?](https://harpers.org/archive/2021/08/the-undiscovered-country-death-by-suicide-prediction-suicidology/)
+- [Schools opened, suicide attempts in girls skyrocketed](https://insidemedicine.bulletin.com/2977384169199489/)
 
-- [Binary Trees are optimal except when they’re not](https://hbfs.wordpress.com/2021/07/20/binary-trees-are-optimal-except-when-theyre-not/)
+- [K-9 Mail is back](https://k9mail.app/2021/07/24/K-9-Mail-is-back)
 
-- [My Fanless OpenBSD Desktop](https://jcs.org/2021/07/19/desktop)
+- [K-9 Mail is back](https://k9mail.app/2021/07/24/K-9-Mail-is-back.html)
 
-- [No Cost Data Scraping With GitHub Actions And Neo4j Aura](https://lyonwj.com/blog/no-cost-data-scraping-github-actions-neo4j-aura)
+- [A Linux distro with a focus on simplicity and the concept of less is more](https://kisslinux.org/)
 
-- [Modeling mutual friendship](https://minimalmodeling.substack.com/p/modeling-mutual-friendship)
+- [Debian bullseye release planned on 2021-08-14](https://lists.debian.org/debian-devel-announce/2021/07/msg00003.html)
 
-- [Tour of the Sacred Library — Walk with me through latent space](https://moultano.wordpress.com/2021/07/20/tour-of-the-sacred-library/)
+- [Beating the L1 cache with value speculation](https://mazzo.li/posts/value-speculation.html)
 
-- [A digital museum of video game levels](https://noclip.website)
+- [usb-c cable colour codes](https://sa.lj.am/usbccccc/)
 
-- [Can a package manager solve the AGPL "remote network interaction" problem?](https://opensource.stackexchange.com/q/11840/18097)
+- [Electromagnetism is a property of spacetime itself, study finds](https://sciencex.com/news/2021-07-electromagnetism-property-spacetime.html)
 
-- [Our Machinery Design Principles](https://ourmachinery.com/files/guidebook.md.html#omg-design:designprinciples)
+- [OpenSSH ssh-agent Shielded Private Key Extraction (x86_64 Linux)](https://security.humanativaspa.it/openssh-ssh-agent-shielded-private-key-extraction-x86_64-linux/)
 
-- [Everything you need to know about Covid-19 vaccines](https://pharmaceutical-journal.com/article/feature/everything-you-need-to-know-about-covid-19-vaccines)
+- [Fun with Unix domain sockets](https://simonwillison.net/2021/Jul/13/unix-domain-sockets/)
 
-- [A story about an Apple and two fetches](https://pwning.systems/posts/apple-kernel-vulnerability/)
+- [How the Python import system works](https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/)
 
-- [Intel Distribution for Python](https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/distribution-for-python.html)
+- [Empty storefronts are killing neighbourhoods](https://thewalrus.ca/how-empty-storefronts-are-killing-our-neighbourhoods/)
 
-- [DuckDuckGo email protection](https://spreadprivacy.com/introducing-email-protection-beta/)
+- [tylr](https://tylr.fun/)
 
-- [Teaching Tech Together](https://teachtogether.tech/en/index.html)
+- [Why Elite Romans Decorated Their Floors with Garbage](https://www.atlasobscura.com/articles/what-is-in-profane-museum-vatican)
 
-- [Planning and estimating large-scale software projects](https://tomrussell.co.uk/writing/2021/07/19/estimating-large-scale-software-projects.html)
+- [China bans for-profit school tutoring in sweeping overhaul](https://www.bloombergquint.com/markets/china-bans-school-curriculum-tutoring-firms-from-going-public)
 
-- [I built my first serverless robot and won $1000](https://towardsdev.com/how-i-built-my-first-serverless-robot-and-won-200-87127a0b108c)
+- [Half of US states now using facial recognition to vet unemployment claims](https://www.cnn.com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html)
 
-- [Windows Defender July Update – Deletes file from famous copyright case (DeCSS)](https://www.arch13.com/ms-windows-defender-decss/)
+- [The Highest Forms of Wealth](https://www.collaborativefund.com/blog/the-highest-forms-of-wealth/)
 
-- [Bezos donates $100M each to CNN contributor Van Jones and chef Jose Andres](https://www.cnn.com/2021/07/20/media/van-jones-bezos-100-million/index.html)
+- [Amazon Echo Dot does not wipe personal content after factory reset](https://www.cpomagazine.com/data-privacy/is-it-possible-to-make-iot-devices-private-amazon-echo-dot-does-not-wipe-personal-content-after-factory-reset/)
 
-- [Dover (YC S19) just raised $20M and is hiring our first engineering manager](https://www.dover.com/open-roles/engineering-manager)
+- [To H-E-Double-Hockey-Sticks with Facebook](https://www.damninteresting.com/to-h-e-double-hockey-sticks-with-facebook/)
 
-- [NVMM lands in DragonFlyBSD](https://www.dragonflydigest.com/2021/07/21/26006.html)
+- [Polaroids from the set of Hackers](https://www.dazeddigital.com/fashion/gallery/29260/13/bts-polaroids-from-the-set-of-hackers)
 
-- [Airbnb raises violent crime rates in cities as residents are pushed out](https://www.euronews.com/next/2021/07/15/airbnb-raises-violent-crime-rates-in-cities-as-long-term-residents-are-pushed-out-says-us-)
+- [Are locally produced solar modules the future?](https://www.dw.com/en/high-tech-photovoltaics-solar-panels-produced-at-home/a-58239791)
 
-- [Floydhub Is Shutting Down](https://www.floydhub.com/shutdown)
+- [Tweezers of sound can pick objects up without physical contact](https://www.eurekalert.org/pub_releases/2021-07/tmu-o072121.php)
 
-- [Man Arrested in Connection with Alleged Role in Twitter Hack](https://www.justice.gov/opa/pr/man-arrested-connection-alleged-role-twitter-hack)
+- [Is GitHub Copilot a blessing, or a curse?](https://www.fast.ai/2021/07/19/copilot/)
 
-- [Information Sovereignty](https://www.lrb.co.uk/blog/2021/july/information-sovereignty)
+- [FreeBSD Quarterly Status Report 2021 Q2](https://www.freebsd.org/status/report-2021-04-2021-06/)
 
-- [Getting 'Steinached' was all the rage in Roaring ’20s (2017)](https://www.mcgill.ca/oss/article/health-history-science-science-everywhere/getting-steinached-was-all-rage-roaring-20s)
+- [Steven Weinberg has died](https://www.math.columbia.edu/~woit/wordpress/?p=12413)
 
-- [Julia used Multiple Dispatch! It's Super Effective](https://www.moll.dev/projects/effective-multi-dispatch/)
+- [New algorithm flies drones faster than human racing pilots](https://www.media.uzh.ch/en/Press-Releases/2021/Drone-Race.html)
 
-- [First lethal attacks by chimpanzees on gorillas observed](https://www.mpg.de/17223684/0719-evan-lethal-attacks-by-chimpanzees-on-gorillas-observed-150495-x)
+- [Form Energy reveals the chemistry of its long-duration battery](https://www.rechargenews.com/energy-transition/worlds-cheapest-energy-storage-will-be-an-iron-air-battery-says-jeff-bezos-backed-start-up/2-1-1044174)
 
-- [Vulnerability in Linux's filesystem layer that grants local root access](https://www.openwall.com/lists/oss-security/2021/07/20/1)
+- [Agile at 20: The Failed Rebellion](https://www.simplethread.com/agile-at-20-the-failed-rebellion/)
 
-- [Lost world revealed by human, Neanderthal relics washed up on North Sea beaches](https://www.sciencemag.org/news/2020/01/relics-washed-beaches-reveal-lost-world-beneath-north-sea)
+- [Use Your SNES as a MIDI Synthesizer](https://www.supermidipak.com)
 
-- [A monorepo misconception - atomic cross-project commits](https://www.snellman.net/blog/archive/2021-07-21-monorepo-atomic/)
+- [Super MIDI Pak – Use Your SNES as a MIDI Synthesizer](https://www.supermidipak.com/)
 
-- [SQLite is 35% Faster Than The Filesystem](https://www.sqlite.org/fasterthanfs.html)
+- [Microsoft Quietly Released Its Own Linux Distro](https://www.tomshardware.com/news/microsoft-released-cbl-mariner-linux-distro)
 
-- [James Mickens: This World of Ours [pdf]](https://www.usenix.org/system/files/1401_08-12_mickens.pdf)
+- [Set up FTP server on NetBSD using ftpd](https://www.unitedbsd.com/d/551-set-up-a-ftp-server-on-netbsd-using-ftpd8)
 
 - [The FTC Votes Unanimously to Enforce Right to Repair](https://www.wired.com/story/ftc-votes-to-enforce-right-to-repair/)
 
-- [A YouTube Chat About Chess Got Flagged for Hate Speech](https://www.wired.com/story/why-youtube-chat-chess-flagged-hate-speech/)
+- [Gas Engines, and the People Behind Them, Are Cast Aside for Electric Vehicles](https://www.wsj.com/articles/gas-engines-cast-aside-electric-vehicles-job-losses-detroit-11627046285)
 
-- [Elixir: Practical Concurrency Cookbook](https://www.works-hub.com/learn/elixir-practical-concurrency-3794f)
-
-- [The FPGA Designer Who Didn't Get the Job](https://zipcpu.com/blog/2021/01/29/hiring.html)
+- [Software Engineering's Greatest Hits](https://www.youtube.com/watch?v=HrVtA-ue-x0)
