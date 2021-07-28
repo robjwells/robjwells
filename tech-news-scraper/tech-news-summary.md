@@ -1,103 +1,97 @@
-- [Write signatures, not schemas](http://catern.com/schemas.html)
+- [You can't tell people anything (2004)](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
 
-- [LeVar Burton: 'Jeopardy ' host gig began 'scary,' ended fun](https://abcnews.go.com/Entertainment/wireStory/levar-burton-jeopardy-host-gig-began-scary-ended-79018577)
+- [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/pdfbook.htm)
 
-- [Jerry (YC S17) Is Hiring Remote Senior Software Engineer](https://apply.workable.com/jerry/j/07E1D2B302/)
+- [The Fall of the SKI Civilization](https://bartoszmilewski.com/2020/09/06/the-fall-of-the-ski-civilization/)
 
-- [What’s the matter with airports? (2011)](https://askthepilot.com/essaysandstories/whats-the-matter-with-airports/)
+- [Postgres Full-Text Search: A search engine in a database](https://blog.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database)
 
-- [Cloudflare's Handling of an RCE Vulnerability in cdnjs](https://blog.cloudflare.com/cloudflares-handling-of-an-rce-vulnerability-in-cdnjs/)
+- [Discord Launches Threads](https://blog.discord.com/connect-the-conversation-with-threads-on-discord-3f5fa8b0f6b)
 
-- [Inserting 130M SQLite rows per minute from a scripting language](https://blog.metaobject.com/2021/07/inserting-130m-sqlite-rows-per.html)
+- [Reconsidering the way I explain programming (2020)](https://blog.frantic.im/all/explain-programming/)
 
-- [Types versus sets in math and programming languages](https://byorgey.wordpress.com/2021/06/24/types-versus-sets-in-math-and-programming-languages/)
+- [Netcat – All you need to know](https://blog.ikuamike.io/posts/2021/netcat/)
 
-- [Use computers to store data](https://computer.rip/2021-04-03-use-computers-to-store-data.html)
+- [Lessons learned from 15 years of SumatraPDF, an open source Windows app](https://blog.kowalczyk.info/article/2f72237a4230410a888acbfce3dc0864/lessons-learned-from-15-years-of-sumatrapdf-an-open-source-windows-app.html)
 
-- [CudaText: Cross-platform code editor](https://cudatext.github.io/)
+- [Bridging a typed and an untyped world](https://blog.noredink.com/post/657844755189972992/bridging-a-typed-and-an-untyped-world)
 
-- [Self hosting is important](https://dataswamp.org/~solene/2021-07-23-why-selfhosting-is-important.html)
+- [Cleaning Up Git History](https://blog.sulami.xyz/posts/cleaning-up-git-history/)
 
-- [The Framework Laptop is now shipping](https://frame.work/blog/the-framework-laptop-is-now-shipping-and-press-reviews)
+- [A/B testing and the historic lift paradox](https://bytepawn.com/ab-testing-and-the-historic-lift-paradox.html)
 
-- [Neofetch: Command-line system information tool written in bash](https://github.com/dylanaraps/neofetch)
+- [The Dogged Pursuit of Bug-Free C Programs: The Frama-C Software Analysis Platform](https://cacm.acm.org/magazines/2021/8/254311-the-dogged-pursuit-of-bug-free-c-programs/fulltext)
 
-- [Gitea Grant application for the implementation of federation](https://github.com/go-gitea/gitea/issues/16518)
+- [Naval Architecture](https://ciechanow.ski/naval-architecture/)
 
-- [patu is a ClojureScript game library built on Kaboom.js](https://github.com/learnuidev/patu)
+- [Columbo: an origin story (2018)](https://columbophile.com/2018/02/17/columbo-an-origin-story/)
 
-- [Registry Explorer: Replacement for the Windows Built-In Regedit.exe Tool](https://github.com/zodiacon/RegExp)
+- [How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust](https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/)
 
-- [Untangle your code with MORE than service objects! Meet Dry::Monads](https://hanamimastery.com/episodes/7-untangle-your-app-with-dry-monads)
+- [Peter the Great’s Beard Tax](https://daily.jstor.org/peter-the-greats-beard-tax/)
 
-- [Hobson's Browser: How Apple, Facebook and Google broke the mobile browser market](https://infrequently.org/2021/07/hobsons-browser/)
+- [We need to talk about testing](https://dannorth.net/2021/07/26/we-need-to-talk-about-testing/)
 
-- [Schools opened, suicide attempts in girls skyrocketed](https://insidemedicine.bulletin.com/2977384169199489/)
+- [Generally capable agents emerge from open-ended play](https://deepmind.com/blog/article/generally-capable-agents-emerge-from-open-ended-play)
 
-- [K-9 Mail is back](https://k9mail.app/2021/07/24/K-9-Mail-is-back)
+- [How many x86 instructions are there? (2016)](https://fgiesen.wordpress.com/2016/08/25/how-many-x86-instructions-are-there/)
 
-- [K-9 Mail is back](https://k9mail.app/2021/07/24/K-9-Mail-is-back.html)
+- [FastAI.jl: FastAI for Julia](https://forums.fast.ai/t/ann-announcing-fastai-jl-fastai-for-julia/90228)
 
-- [A Linux distro with a focus on simplicity and the concept of less is more](https://kisslinux.org/)
+- [How Tracing Uncovers Half-Truths in Slack’s CI Infrastructure](https://frankc.net/tracing-in-ci)
 
-- [Debian bullseye release planned on 2021-08-14](https://lists.debian.org/debian-devel-announce/2021/07/msg00003.html)
+- [iglunix: Linux (and other kernels) distro with no GNU components](https://github.com/iglunix/iglunix)
 
-- [Beating the L1 cache with value speculation](https://mazzo.li/posts/value-speculation.html)
+- [Co-working with friends over video in virtual gather.town office](https://guzey.com/co-working/)
 
-- [usb-c cable colour codes](https://sa.lj.am/usbccccc/)
+- [Modern Treasury (YC S18) is hiring our first analytics engineer](https://jobs.ashbyhq.com/moderntreasury/640c2aca-5a23-4762-b022-27039bd049cf)
 
-- [Electromagnetism is a property of spacetime itself, study finds](https://sciencex.com/news/2021-07-electromagnetism-property-spacetime.html)
+- [OtterCast is an open-source audio streaming device running Linux](https://kitspace.org/boards/github.com/ottercast/ottercastaudiov2/)
 
-- [OpenSSH ssh-agent Shielded Private Key Extraction (x86_64 Linux)](https://security.humanativaspa.it/openssh-ssh-agent-shielded-private-key-extraction-x86_64-linux/)
+- [Analysis of large binaries and games in Ghidra-SRE](https://kiwidog.me/2021/07/analysis-of-large-binaries-and-games-in-ghidra-sre/)
 
-- [Fun with Unix domain sockets](https://simonwillison.net/2021/Jul/13/unix-domain-sockets/)
+- [Building A GraphQL Server With Next.js API Routes](https://lyonwj.com/blog/graphql-server-next-js-neo4j-aura-vercel)
 
-- [How the Python import system works](https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/)
+- [Collision Detection is Hard: The Story of Alf](https://nicole.express/2021/remember-alf.html)
 
-- [Empty storefronts are killing neighbourhoods](https://thewalrus.ca/how-empty-storefronts-are-killing-our-neighbourhoods/)
+- [The Funhouse Mirror of Perl Criticism](https://phoenixtrap.com/2021/07/27/the-funhouse-mirror-of-perl-criticism/)
 
-- [tylr](https://tylr.fun/)
+- [Coding with Character – Monospaced fonts can be playful and fun](https://realdougwilson.com/writing/coding-with-character)
 
-- [Why Elite Romans Decorated Their Floors with Garbage](https://www.atlasobscura.com/articles/what-is-in-profane-museum-vatican)
+- [Google launches new vulnerability reward platform](https://security.googleblog.com/2021/07/a-new-chapter-for-googles-vulnerability.html)
 
-- [China bans for-profit school tutoring in sweeping overhaul](https://www.bloombergquint.com/markets/china-bans-school-curriculum-tutoring-firms-from-going-public)
+- [Memory profiling on windows for C++](https://thatonegamedev.com/cpp/memory-profiling-on-windows-for-c/)
 
-- [Half of US states now using facial recognition to vet unemployment claims](https://www.cnn.com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html)
+- [Reconstructed path of Ingenuity flight 9 via photogrammetry](https://twitter.com/stim3on/status/1419414622973616129)
 
-- [The Highest Forms of Wealth](https://www.collaborativefund.com/blog/the-highest-forms-of-wealth/)
+- [What's bad about Julia?](https://viralinstruction.com/posts/badjulia/)
 
-- [Amazon Echo Dot does not wipe personal content after factory reset](https://www.cpomagazine.com/data-privacy/is-it-possible-to-make-iot-devices-private-amazon-echo-dot-does-not-wipe-personal-content-after-factory-reset/)
+- [In defense of hard counters in real time strategy games](https://waywardstrategy.com/2021/07/27/hard-counters/)
 
-- [To H-E-Double-Hockey-Sticks with Facebook](https://www.damninteresting.com/to-h-e-double-hockey-sticks-with-facebook/)
+- [Windows 96](https://windows96.net)
 
-- [Polaroids from the set of Hackers](https://www.dazeddigital.com/fashion/gallery/29260/13/bts-polaroids-from-the-set-of-hackers)
+- [Wildfires in Canada are creating their own weather systems, experts say](https://www.cbc.ca/news/canada/british-columbia/western-canada-wildfires-creating-own-weather-experts-firestorm-1.6118889)
 
-- [Are locally produced solar modules the future?](https://www.dw.com/en/high-tech-photovoltaics-solar-panels-produced-at-home/a-58239791)
+- [Smart Phone, Dumb Terminal](https://www.charlieharrington.com/smart-phone-dumb-terminal)
 
-- [Tweezers of sound can pick objects up without physical contact](https://www.eurekalert.org/pub_releases/2021-07/tmu-o072121.php)
+- [Functional Programming in OCaml](https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/intro/intro.html)
 
-- [Is GitHub Copilot a blessing, or a curse?](https://www.fast.ai/2021/07/19/copilot/)
+- [Ask a Bartender a Question](https://www.datasecretslox.com/index.php/topic,4086.msg135692.html)
 
-- [FreeBSD Quarterly Status Report 2021 Q2](https://www.freebsd.org/status/report-2021-04-2021-06/)
+- [Writing extensible Elixir with Behaviours](https://www.djm.org.uk/posts/writing-extensible-elixir-with-behaviours-adapters-pluggable-backends/)
 
-- [Steven Weinberg has died](https://www.math.columbia.edu/~woit/wordpress/?p=12413)
+- [Composable Data Validation with Haskell](https://www.foxhound.systems/blog/composable-data-validation/)
 
-- [New algorithm flies drones faster than human racing pilots](https://www.media.uzh.ch/en/Press-Releases/2021/Drone-Race.html)
+- [Microsoft Silently Dropping Emails – A Sad but True Story](https://www.nerd-quickies.net/2020/10/20/microsoft-silently-dropping-emails-a-sad-but-true-story/)
 
-- [Form Energy reveals the chemistry of its long-duration battery](https://www.rechargenews.com/energy-transition/worlds-cheapest-energy-storage-will-be-an-iron-air-battery-says-jeff-bezos-backed-start-up/2-1-1044174)
+- [A soil-science revolution upends plans to fight climate change](https://www.quantamagazine.org/a-soil-science-revolution-upends-plans-to-fight-climate-change-20210727/)
 
-- [Agile at 20: The Failed Rebellion](https://www.simplethread.com/agile-at-20-the-failed-rebellion/)
+- [Fractons, the ‘weirdest’ matter, could yield quantum clues](https://www.quantamagazine.org/fractons-the-weirdest-matter-could-yield-quantum-clues-20210726/)
 
-- [Use Your SNES as a MIDI Synthesizer](https://www.supermidipak.com)
+- [Father builds exoskeleton to help wheelchair-bound son walk](https://www.reuters.com/lifestyle/father-builds-exoskeleton-help-wheelchair-bound-son-walk-2021-07-26/)
 
-- [Super MIDI Pak – Use Your SNES as a MIDI Synthesizer](https://www.supermidipak.com/)
+- [Striking new Beeping Busy Beaver champion](https://www.scottaaronson.com/blog/?p=5661)
 
-- [Microsoft Quietly Released Its Own Linux Distro](https://www.tomshardware.com/news/microsoft-released-cbl-mariner-linux-distro)
+- [Is ModSecurity's SecRules Turing Complete?](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/is-modsecuritys-secrules-turing-complete/)
 
-- [Set up FTP server on NetBSD using ftpd](https://www.unitedbsd.com/d/551-set-up-a-ftp-server-on-netbsd-using-ftpd8)
-
-- [The FTC Votes Unanimously to Enforce Right to Repair](https://www.wired.com/story/ftc-votes-to-enforce-right-to-repair/)
-
-- [Gas Engines, and the People Behind Them, Are Cast Aside for Electric Vehicles](https://www.wsj.com/articles/gas-engines-cast-aside-electric-vehicles-job-losses-detroit-11627046285)
-
-- [Software Engineering's Greatest Hits](https://www.youtube.com/watch?v=HrVtA-ue-x0)
+- [Installing A Home Network](https://www.youtube.com/watch?v=zC_naXcfTIE)
