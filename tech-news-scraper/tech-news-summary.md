@@ -1,97 +1,93 @@
-- [You can't tell people anything (2004)](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
+- [Running My Own Email Server](http://code.jeremyevans.net/2021-07-29-running-my-own-email-server.html)
 
-- [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/pdfbook.htm)
+- [Static.wiki – read-only Wikipedia using a 43GB SQLite file](http://static.wiki/)
 
-- [The Fall of the SKI Civilization](https://bartoszmilewski.com/2020/09/06/the-fall-of-the-ski-civilization/)
+- [The journey to controlling external monitors on M1 Macs](https://alinpanaitiu.com/blog/journey-to-ddc-on-m1-macs/)
 
-- [Postgres Full-Text Search: A search engine in a database](https://blog.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database)
+- [The Workgirl Keyboard Layout](https://artemis.sh/2021/07/30/the-workgirl-keyboard-layout.html)
 
-- [Discord Launches Threads](https://blog.discord.com/connect-the-conversation-with-threads-on-discord-3f5fa8b0f6b)
+- [Performance vs Programming Effort between Rust and C on Multicore Architectures](https://arxiv.org/abs/2107.11912)
 
-- [Reconsidering the way I explain programming (2020)](https://blog.frantic.im/all/explain-programming/)
+- [Algorithmic bias bounty challenge](https://blog.twitter.com/engineering/en_us/topics/insights/2021/algorithmic-bias-bounty-challenge.html)
 
-- [Netcat – All you need to know](https://blog.ikuamike.io/posts/2021/netcat/)
+- [Thai PM Orders Internet Block for Anyone Spreading Info That May Frighten People](https://chiangmaione.com/featured/pm-orders-internet-blocked-for-anyone-spreading-info-that-might-frighten-people)
 
-- [Lessons learned from 15 years of SumatraPDF, an open source Windows app](https://blog.kowalczyk.info/article/2f72237a4230410a888acbfce3dc0864/lessons-learned-from-15-years-of-sumatrapdf-an-open-source-windows-app.html)
+- [Ian Hickson proposes a new vector format](https://docs.google.com/document/d/1YWffrlc6ZqRwfIiR1qwp1AOkS9JyA_lEURI8p5PsZlg)
 
-- [Bridging a typed and an untyped world](https://blog.noredink.com/post/657844755189972992/bridging-a-typed-and-an-untyped-world)
+- [From Stolen Laptop to Inside the Company Network](https://dolosgroup.io/blog/2021/7/9/from-stolen-laptop-to-inside-the-company-network)
 
-- [Cleaning Up Git History](https://blog.sulami.xyz/posts/cleaning-up-git-history/)
+- [Please send me examples of good OOP code](https://dpc.pw/please-send-me-examples-of-good-oop-code)
 
-- [A/B testing and the historic lift paradox](https://bytepawn.com/ab-testing-and-the-historic-lift-paradox.html)
+- [Zip - How not to design a file format](https://games.greggman.com/game/zip-rant/)
 
-- [The Dogged Pursuit of Bug-Free C Programs: The Frama-C Software Analysis Platform](https://cacm.acm.org/magazines/2021/8/254311-the-dogged-pursuit-of-bug-free-c-programs/fulltext)
+- [Source for the Multics operating system](https://github.com/dancrossnyc/multics)
 
-- [Naval Architecture](https://ciechanow.ski/naval-architecture/)
+- [B-tree Path Hints](https://github.com/tidwall/btree/blob/master/PATH_HINT.md)
 
-- [Columbo: an origin story (2018)](https://columbophile.com/2018/02/17/columbo-an-origin-story/)
+- [Yi – The Haskell-Scriptable Editor](https://github.com/yi-editor/yi)
 
-- [How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust](https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/)
+- [NixOS on the Framework](https://grahamc.com/blog/nixos-on-framework)
 
-- [Peter the Great’s Beard Tax](https://daily.jstor.org/peter-the-greats-beard-tax/)
+- [The Itanic Has Sunk](https://honeypot.net/post/the-itanic-has-sunk/)
 
-- [We need to talk about testing](https://dannorth.net/2021/07/26/we-need-to-talk-about-testing/)
+- [The Dark and Destructive Downsides of Entrepreneurship](https://journals.aom.org/doi/full/10.5465/amd.2018.0194.summary)
 
-- [Generally capable agents emerge from open-ended play](https://deepmind.com/blog/article/generally-capable-agents-emerge-from-open-ended-play)
+- [Awesome Unstable Rust Features](https://lazy.codes/posts/awesome-unstable-rust-features/)
 
-- [How many x86 instructions are there? (2016)](https://fgiesen.wordpress.com/2016/08/25/how-many-x86-instructions-are-there/)
+- [Lunatic is an Erlang-inspired runtime for WebAssembly](https://lunatic.solutions/)
 
-- [FastAI.jl: FastAI for Julia](https://forums.fast.ai/t/ann-announcing-fastai-jl-fastai-for-julia/90228)
+- [Rust for Linux redux](https://lwn.net/Articles/862018/)
 
-- [How Tracing Uncovers Half-Truths in Slack’s CI Infrastructure](https://frankc.net/tracing-in-ci)
+- [Descriptorless files for io_uring](https://lwn.net/Articles/863071/)
 
-- [iglunix: Linux (and other kernels) distro with no GNU components](https://github.com/iglunix/iglunix)
+- [; echo "Shell Injection"](https://matklad.github.io//2021/07/30/shell-injection.html)
 
-- [Co-working with friends over video in virtual gather.town office](https://guzey.com/co-working/)
+- [Safari Extension Rejected Because Developer Not “Reputable”](https://mjtsai.com/blog/2021/07/30/safari-extension-rejected-because-developer-not-reputable/#comment-3497166)
 
-- [Modern Treasury (YC S18) is hiring our first analytics engineer](https://jobs.ashbyhq.com/moderntreasury/640c2aca-5a23-4762-b022-27039bd049cf)
+- [Cloudflare's inaccessible browser contradicts the company's mission](https://mwcampbell.github.io/cloudflare-browser-isolation-letter/)
 
-- [OtterCast is an open-source audio streaming device running Linux](https://kitspace.org/boards/github.com/ottercast/ottercastaudiov2/)
+- [Platform teaches nonexperts to use machine learning](https://news.cornell.edu/stories/2021/07/platform-teaches-nonexperts-use-machine-learning)
 
-- [Analysis of large binaries and games in Ghidra-SRE](https://kiwidog.me/2021/07/analysis-of-large-binaries-and-games-in-ghidra-sre/)
+- [strcpy: A niche function you don't need](https://nullprogram.com/blog/2021/07/30/)
 
-- [Building A GraphQL Server With Next.js API Routes](https://lyonwj.com/blog/graphql-server-next-js-neo4j-aura-vercel)
+- [New exotic matter particle, a tetraquark, discovered at CERN](https://phys.org/news/2021-07-exotic-particle-tetraquark.html)
 
-- [Collision Detection is Hard: The Story of Alf](https://nicole.express/2021/remember-alf.html)
+- [Canonicalization Attacks Against MACs and Signatures](https://soatok.blog/2021/07/30/canonicalization-attacks-against-macs-and-signatures/)
 
-- [The Funhouse Mirror of Perl Criticism](https://phoenixtrap.com/2021/07/27/the-funhouse-mirror-of-perl-criticism/)
+- [Sorbet Compiler: An experimental, ahead-of-time compiler for Ruby](https://sorbet.org/blog/2021/07/30/open-sourcing-sorbet-compiler)
 
-- [Coding with Character – Monospaced fonts can be playful and fun](https://realdougwilson.com/writing/coding-with-character)
+- [700,000 lines of code, 20 years, and one developer: How Dwarf Fortress is built](https://stackoverflow.blog/2021/07/28/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/)
 
-- [Google launches new vulnerability reward platform](https://security.googleblog.com/2021/07/a-new-chapter-for-googles-vulnerability.html)
+- [Do Developers Read Compiler Error Messages? [pdf]](https://static.barik.net/barik/publications/icse2017/PID4655707.pdf)
 
-- [Memory profiling on windows for C++](https://thatonegamedev.com/cpp/memory-profiling-on-windows-for-c/)
+- [Warrior Eros](https://theamericanscholar.org/warrior-eros/)
 
-- [Reconstructed path of Ingenuity flight 9 via photogrammetry](https://twitter.com/stim3on/status/1419414622973616129)
+- [Daniel Hale Receives 45-Month Sentence for Releasing Drone Documents](https://thedissenter.org/daniel-hale-receives-harshest-sentence-ever-for-a-leak/)
 
-- [What's bad about Julia?](https://viralinstruction.com/posts/badjulia/)
+- [Facial expression software confirms bronze medalists happier than silver](https://twin-cities.umn.edu/news-events/facial-expression-software-knows-which-olympic-medal-makes-you-happier-and-why)
 
-- [In defense of hard counters in real time strategy games](https://waywardstrategy.com/2021/07/27/hard-counters/)
+- [Commodore 64 "Mod of the Year" (2015)](https://www.breadbox64.com/blog/mod-of-the-year-2015/)
 
-- [Windows 96](https://windows96.net)
+- [1 out of every 153 American workers is an Amazon employee](https://www.businessinsider.com/amazon-employees-number-1-of-153-us-workers-head-count-2021-7)
 
-- [Wildfires in Canada are creating their own weather systems, experts say](https://www.cbc.ca/news/canada/british-columbia/western-canada-wildfires-creating-own-weather-experts-firestorm-1.6118889)
+- [300 Megawatt Tesla battery catches fire](https://www.drive.com.au/news/geelongs-300-megawatt-tesla-battery-catches-fire-authorities-working-to-contain-blaze/)
 
-- [Smart Phone, Dumb Terminal](https://www.charlieharrington.com/smart-phone-dumb-terminal)
+- [Kernel Pwning with eBPF: a Love Story](https://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-story)
 
-- [Functional Programming in OCaml](https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/intro/intro.html)
+- [Single-celled organism has evolved a natural mechanical computer](https://www.newscientist.com/article/2285141-single-celled-organism-has-evolved-a-natural-mechanical-computer/)
 
-- [Ask a Bartender a Question](https://www.datasecretslox.com/index.php/topic,4086.msg135692.html)
+- [How Beavis, Butt-Head and Daria disrupted cable](https://www.npr.org/2021/07/30/1022642071/mtv-beavis-butthead-daria-aeon-flux-liquid-television)
 
-- [Writing extensible Elixir with Behaviours](https://www.djm.org.uk/posts/writing-extensible-elixir-with-behaviours-adapters-pluggable-backends/)
+- [Fire use: The first signal of widespread cultural diffusion in human evolution](https://www.pnas.org/content/118/31/e2101108118)
 
-- [Composable Data Validation with Haskell](https://www.foxhound.systems/blog/composable-data-validation/)
+- [I Am Parting with My Crypto Library](https://www.schneier.com/blog/archives/2021/07/i-am-parting-with-my-crypto-library.html)
 
-- [Microsoft Silently Dropping Emails – A Sad but True Story](https://www.nerd-quickies.net/2020/10/20/microsoft-silently-dropping-emails-a-sad-but-true-story/)
+- [SoloSuit (YC W21) is hiring a remote senior engineer](https://www.solosuit.com/careers#se)
 
-- [A soil-science revolution upends plans to fight climate change](https://www.quantamagazine.org/a-soil-science-revolution-upends-plans-to-fight-climate-change-20210727/)
+- [Hundreds of AI tools have been built to catch Covid. None of them helped](https://www.technologyreview.com/2021/07/30/1030329/machine-learning-ai-failed-covid-hospital-diagnosis-pandemic/)
 
-- [Fractons, the ‘weirdest’ matter, could yield quantum clues](https://www.quantamagazine.org/fractons-the-weirdest-matter-could-yield-quantum-clues-20210726/)
+- [How I store my files and why you should not rely on fancy tools for backup](https://www.unixsheikh.com/articles/how-i-store-my-files-and-why-you-should-not-rely-on-fancy-tools-for-backup.html)
 
-- [Father builds exoskeleton to help wheelchair-bound son walk](https://www.reuters.com/lifestyle/father-builds-exoskeleton-help-wheelchair-bound-son-walk-2021-07-26/)
+- [Fencers Refused to Fight. Then Came the Rule That Changed the Sport](https://www.wsj.com/articles/fencers-refused-to-fight-rule-change-epee-11627457900)
 
-- [Striking new Beeping Busy Beaver champion](https://www.scottaaronson.com/blog/?p=5661)
-
-- [Is ModSecurity's SecRules Turing Complete?](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/is-modsecuritys-secrules-turing-complete/)
-
-- [Installing A Home Network](https://www.youtube.com/watch?v=zC_naXcfTIE)
+- [The Hardest Problem in Type Theory [Uniqueness of Identity Proofs]](https://www.youtube.com/watch?v=m_PecfbEWik)
