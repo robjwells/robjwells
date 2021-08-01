@@ -1,56 +1,80 @@
+- [Why Programmer-Specified Aliasing Is a Bad Idea (2004) [pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.94.140&rep=rep1&type=pdf)
+
 - [Running My Own Email Server](http://code.jeremyevans.net/2021-07-29-running-my-own-email-server.html)
 
-- [Static.wiki – read-only Wikipedia using a 43GB SQLite file](http://static.wiki/)
+- [Hasta la Vista Gmail](http://metaredux.com/posts/2021/07/31/hasta-la-vista-gmail.html)
+
+- [An Elastic Model of the Holding Power of Rock Climbing Anchors](http://web.mit.edu/custer/www/rocking/cams/cams.body.html)
+
+- [The Retrocomputing Archive](http://www.retroarchive.org/)
+
+- [Algorithmic Complexity of Left-Pad (2016)](https://accidentallyquadratic.tumblr.com/post/142387131042/nodejs-left-pad)
+
+- [Typos, tricks and misprints](https://aeon.co/essays/why-is-the-english-spelling-system-so-weird-and-inconsistent)
 
 - [The journey to controlling external monitors on M1 Macs](https://alinpanaitiu.com/blog/journey-to-ddc-on-m1-macs/)
 
-- [The Workgirl Keyboard Layout](https://artemis.sh/2021/07/30/the-workgirl-keyboard-layout.html)
+- [Jerry (YC S17) Is Hiring](https://apply.workable.com/jerry/j/07E1D2B302/)
 
-- [Performance vs Programming Effort between Rust and C on Multicore Architectures](https://arxiv.org/abs/2107.11912)
+- [Chronofold: a data structure for versioned text](https://arxiv.org/abs/2002.09511)
 
-- [Algorithmic bias bounty challenge](https://blog.twitter.com/engineering/en_us/topics/insights/2021/algorithmic-bias-bounty-challenge.html)
+- [You Really Shouldn't Roll Your Own Crypto: Empirical Study of Vulnerabilities in Cryptographic Libs](https://arxiv.org/pdf/2107.04940.pdf)
 
-- [Thai PM Orders Internet Block for Anyone Spreading Info That May Frighten People](https://chiangmaione.com/featured/pm-orders-internet-blocked-for-anyone-spreading-info-that-might-frighten-people)
+- [Making Client Certificates Available By Default in Firefox 90](https://blog.mozilla.org/security/2021/07/28/making-client-certificates-available-by-default-in-firefox-90/)
+
+- [How we found that the Linux nios2 memset() implementation had a bug! (2016)](https://bootlin.com/blog/how-we-found-that-the-linux-nios2-memset-implementation-had-a-bug/)
+
+- [I, Token: The untold story of the hole in Bitcoin's heart](https://brettscott.substack.com/p/the-hole-in-bitcoins-heart)
+
+- [Convergence of Infinite Products](https://cornellmath.wordpress.com/2008/01/26/convergence-of-infinite-products/)
+
+- [How hard is it to get counting right?](https://desystemize.substack.com/p/desystemize-1)
 
 - [Ian Hickson proposes a new vector format](https://docs.google.com/document/d/1YWffrlc6ZqRwfIiR1qwp1AOkS9JyA_lEURI8p5PsZlg)
 
-- [From Stolen Laptop to Inside the Company Network](https://dolosgroup.io/blog/2021/7/9/from-stolen-laptop-to-inside-the-company-network)
-
 - [Please send me examples of good OOP code](https://dpc.pw/please-send-me-examples-of-good-oop-code)
 
-- [Zip - How not to design a file format](https://games.greggman.com/game/zip-rant/)
+- [Ian Manuel, survivor of excessive child punishment, tells his story](https://eji.org/news/ian-manuel-survivor-of-excessive-child-punishment-tells-his-story/)
 
-- [Source for the Multics operating system](https://github.com/dancrossnyc/multics)
+- [6 Years of Professional Clojure](https://engineering.nanit.com/6-years-of-professional-clojure-2b61cb6c1983)
 
-- [B-tree Path Hints](https://github.com/tidwall/btree/blob/master/PATH_HINT.md)
+- [Nodashka is a babashka-like tool for Node.js](https://github.com/borkdude/nodashka)
 
-- [Yi – The Haskell-Scriptable Editor](https://github.com/yi-editor/yi)
+- [Air – Live reload when developing with Go](https://github.com/cosmtrek/air)
 
-- [NixOS on the Framework](https://grahamc.com/blog/nixos-on-framework)
+- [Ssheven: A modern SSH client for Mac OS 7-9](https://github.com/cy384/ssheven)
 
-- [The Itanic Has Sunk](https://honeypot.net/post/the-itanic-has-sunk/)
+- [Lang Jam: create a programming language in a weekend](https://github.com/langjam/langjam)
 
-- [The Dark and Destructive Downsides of Entrepreneurship](https://journals.aom.org/doi/full/10.5465/amd.2018.0194.summary)
+- [Txiki.js: Tiny JavaScript runtime built with QuickJS and libuv](https://github.com/saghul/txiki.js)
 
-- [Awesome Unstable Rust Features](https://lazy.codes/posts/awesome-unstable-rust-features/)
+- [Path hints for B-trees can bring a performance increase of 150% - 300%](https://github.com/tidwall/btree/blob/master/PATH_HINT.md)
 
-- [Lunatic is an Erlang-inspired runtime for WebAssembly](https://lunatic.solutions/)
+- [vrmiguel/bustd: a really lightweight process killer daemon for out-of-memory scenarios on Linux](https://github.com/vrmiguel/bustd)
 
-- [Rust for Linux redux](https://lwn.net/Articles/862018/)
+- [What if JavaScript had a synchronous async flavor?](https://guido.io/posts/nasync-javascript/)
 
-- [Descriptorless files for io_uring](https://lwn.net/Articles/863071/)
+- [Faster CRDTs: An Adventure in Optimization](https://josephg.com/blog/crdts-go-brrr/)
+
+- [The Pleasures of Tsundoku: How I learned to stop worrying and love book piles](https://lithub.com/the-pleasures-of-tsundoku-or-how-i-learned-to-stop-worrying-and-love-book-piles/)
+
+- [Past Performance is Not Indicative of Future Results (2020)](https://locusmag.com/2020/11/cory-doctorow-past-performance-is-not-indicative-of-future-results/)
+
+- [Strict memcpy() bounds checking for the kernel](https://lwn.net/SubscriberLink/864521/d704bdcced0c5c60/)
 
 - [; echo "Shell Injection"](https://matklad.github.io//2021/07/30/shell-injection.html)
 
-- [Safari Extension Rejected Because Developer Not “Reputable”](https://mjtsai.com/blog/2021/07/30/safari-extension-rejected-because-developer-not-reputable/#comment-3497166)
-
 - [Cloudflare's inaccessible browser contradicts the company's mission](https://mwcampbell.github.io/cloudflare-browser-isolation-letter/)
 
-- [Platform teaches nonexperts to use machine learning](https://news.cornell.edu/stories/2021/07/platform-teaches-nonexperts-use-machine-learning)
+- [strcpy: a niche function you don't need](https://nullprogram.com/blog/2021/07/30/)
 
-- [strcpy: A niche function you don't need](https://nullprogram.com/blog/2021/07/30/)
+- [Creating a DOOM-inspired aesthetic with PlayCanvas](https://omarshehata.me/html/playcanvas-horror-aesthetic/)
 
-- [New exotic matter particle, a tetraquark, discovered at CERN](https://phys.org/news/2021-07-exotic-particle-tetraquark.html)
+- [Hosting SQLite Databases on GitHub Pages](https://phiresky.netlify.app/blog/2021/hosting-sqlite-databases-on-github-pages/)
+
+- [ASCII Play](https://play.ertdfgcvb.xyz/)
+
+- [Restaurant prices in the 19th and 20th centuries (2009)](https://restaurant-ingthroughhistory.com/restaurant-prices/)
 
 - [Canonicalization Attacks Against MACs and Signatures](https://soatok.blog/2021/07/30/canonicalization-attacks-against-macs-and-signatures/)
 
@@ -58,36 +82,22 @@
 
 - [700,000 lines of code, 20 years, and one developer: How Dwarf Fortress is built](https://stackoverflow.blog/2021/07/28/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/)
 
-- [Do Developers Read Compiler Error Messages? [pdf]](https://static.barik.net/barik/publications/icse2017/PID4655707.pdf)
+- [Learning that you can use unions in C for grouping things into namespaces](https://utcc.utoronto.ca/~cks/space/blog/programming/CUnionsForNamespaces)
 
-- [Warrior Eros](https://theamericanscholar.org/warrior-eros/)
+- [Download a CSV of your Amazon purchases](https://www.amazon.com/gp/b2b/reports)
 
-- [Daniel Hale Receives 45-Month Sentence for Releasing Drone Documents](https://thedissenter.org/daniel-hale-receives-harshest-sentence-ever-for-a-leak/)
+- [Why printers add secret tracking dots (2020)](https://www.bbc.com/future/article/20170607-why-printers-add-secret-tracking-dots)
 
-- [Facial expression software confirms bronze medalists happier than silver](https://twin-cities.umn.edu/news-events/facial-expression-software-knows-which-olympic-medal-makes-you-happier-and-why)
+- [As lockdowns lift, media firms brace for an “attention recession”](https://www.economist.com/international/2021/07/01/as-lockdowns-lift-media-firms-brace-for-an-attention-recession)
 
-- [Commodore 64 "Mod of the Year" (2015)](https://www.breadbox64.com/blog/mod-of-the-year-2015/)
+- [Vaporwave was created then destroyed by the internet (2016)](https://www.esquire.com/entertainment/music/a47793/what-happened-to-vaporwave/)
 
-- [1 out of every 153 American workers is an Amazon employee](https://www.businessinsider.com/amazon-employees-number-1-of-153-us-workers-head-count-2021-7)
+- [Where has all the productivity gone?](https://www.johndcook.com/blog/2021/07/31/where-has-productivity-gone/)
 
-- [300 Megawatt Tesla battery catches fire](https://www.drive.com.au/news/geelongs-300-megawatt-tesla-battery-catches-fire-authorities-working-to-contain-blaze/)
+- [One-Thousand Year-Old Plants](https://www.nytimes.com/2021/07/31/science/plant-leaves-welwitschia.html)
 
-- [Kernel Pwning with eBPF: a Love Story](https://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-story)
+- [Blizzard's reputation collapsed in just three years](https://www.pcgamer.com/how-blizzards-reputation-collapsed-in-just-3-years/)
 
-- [Single-celled organism has evolved a natural mechanical computer](https://www.newscientist.com/article/2285141-single-celled-organism-has-evolved-a-natural-mechanical-computer/)
+- [The recycling myth: A plastic waste solution littered with failure](https://www.reuters.com/investigates/special-report/environment-plastic-oil-recycling/)
 
-- [How Beavis, Butt-Head and Daria disrupted cable](https://www.npr.org/2021/07/30/1022642071/mtv-beavis-butthead-daria-aeon-flux-liquid-television)
-
-- [Fire use: The first signal of widespread cultural diffusion in human evolution](https://www.pnas.org/content/118/31/e2101108118)
-
-- [I Am Parting with My Crypto Library](https://www.schneier.com/blog/archives/2021/07/i-am-parting-with-my-crypto-library.html)
-
-- [SoloSuit (YC W21) is hiring a remote senior engineer](https://www.solosuit.com/careers#se)
-
-- [Hundreds of AI tools have been built to catch Covid. None of them helped](https://www.technologyreview.com/2021/07/30/1030329/machine-learning-ai-failed-covid-hospital-diagnosis-pandemic/)
-
-- [How I store my files and why you should not rely on fancy tools for backup](https://www.unixsheikh.com/articles/how-i-store-my-files-and-why-you-should-not-rely-on-fancy-tools-for-backup.html)
-
-- [Fencers Refused to Fight. Then Came the Rule That Changed the Sport](https://www.wsj.com/articles/fencers-refused-to-fight-rule-change-epee-11627457900)
-
-- [The Hardest Problem in Type Theory [Uniqueness of Identity Proofs]](https://www.youtube.com/watch?v=m_PecfbEWik)
+- [We Still Don’t Get Things Done](https://www.wired.com/story/to-do-apps-failed-productivity-tools/)
