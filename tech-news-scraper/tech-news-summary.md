@@ -1,103 +1,103 @@
-- [Why Programmer-Specified Aliasing Is a Bad Idea (2004) [pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.94.140&rep=rep1&type=pdf)
+- [Exit and voice in open source software](http://catern.com/exitvoice.html)
 
-- [Running My Own Email Server](http://code.jeremyevans.net/2021-07-29-running-my-own-email-server.html)
+- [Almost-Billionaires](http://lackingambition.com/?p=1464)
 
-- [Hasta la Vista Gmail](http://metaredux.com/posts/2021/07/31/hasta-la-vista-gmail.html)
+- [Cracking into the Sun Ray General Dynamics-Tadpole M1400](http://oldvcr.blogspot.com/2021/08/cracking-into-sun-ray-general-dynamics.html)
 
-- [An Elastic Model of the Holding Power of Rock Climbing Anchors](http://web.mit.edu/custer/www/rocking/cams/cams.body.html)
+- [Apple iPhone charger teardown: quality in a tiny expensive package (2012)](http://www.righto.com/2012/05/apple-iphone-charger-teardown-quality.html)
 
-- [The Retrocomputing Archive](http://www.retroarchive.org/)
+- [SuperTokens (YC S20) Is hiring a senior Java developer](https://angel.co/l/2vDCh2)
 
-- [Algorithmic Complexity of Left-Pad (2016)](https://accidentallyquadratic.tumblr.com/post/142387131042/nodejs-left-pad)
+- [Where Do Models Go Wrong? Parameter-Space Saliency Maps for Explainability](https://arxiv.org/abs/2108.01335)
 
-- [Typos, tricks and misprints](https://aeon.co/essays/why-is-the-english-spelling-system-so-weird-and-inconsistent)
+- [A Functional Programming Language with Versions](https://arxiv.org/pdf/2107.07301.pdf)
 
-- [The journey to controlling external monitors on M1 Macs](https://alinpanaitiu.com/blog/journey-to-ddc-on-m1-macs/)
+- [A riddle wrapped in a curve (2015)](https://blog.cryptographyengineering.com/2015/10/22/a-riddle-wrapped-in-curve/)
 
-- [Jerry (YC S17) Is Hiring](https://apply.workable.com/jerry/j/07E1D2B302/)
+- [Unix and Microservice Platforms](https://blog.deref.io/unix-and-microservice-platforms/)
 
-- [Chronofold: a data structure for versioned text](https://arxiv.org/abs/2002.09511)
+- [Haskell for the Elm Enthusiast](https://blog.noredink.com/post/658510851000713216/haskell-for-the-elm-enthusiast)
 
-- [You Really Shouldn't Roll Your Own Crypto: Empirical Study of Vulnerabilities in Cryptographic Libs](https://arxiv.org/pdf/2107.04940.pdf)
+- [The push for GATs stabilization](https://blog.rust-lang.org/2021/08/03/GATs-stabilization-push.html)
 
-- [Making Client Certificates Available By Default in Firefox 90](https://blog.mozilla.org/security/2021/07/28/making-client-certificates-available-by-default-in-firefox-90/)
+- [Ray Ozzie's latest venture is a cheap IoT board with flat rate connectivity](https://blues.io/)
 
-- [How we found that the Linux nios2 memset() implementation had a bug! (2016)](https://bootlin.com/blog/how-we-found-that-the-linux-nios2-memset-implementation-had-a-bug/)
+- [A Soviet Prisoner's View on What's Important](https://butwhatfor.substack.com/p/speech-at-the-stadium)
 
-- [I, Token: The untold story of the hole in Bitcoin's heart](https://brettscott.substack.com/p/the-hole-in-bitcoins-heart)
+- [AI Art Machine: put in text, get art](https://colab.research.google.com/drive/1n_xrgKDlGQcCF6O-eL3NOd_x4NSqAUjK)
 
-- [Convergence of Infinite Products](https://cornellmath.wordpress.com/2008/01/26/convergence-of-infinite-products/)
+- [Where are the robotic bricklayers?](https://constructionphysics.substack.com/p/where-are-the-robotic-bricklayers)
 
-- [How hard is it to get counting right?](https://desystemize.substack.com/p/desystemize-1)
+- [Full-Time Open Source](https://corecursive.com/067-zig-with-andrew-kelley/)
 
-- [Ian Hickson proposes a new vector format](https://docs.google.com/document/d/1YWffrlc6ZqRwfIiR1qwp1AOkS9JyA_lEURI8p5PsZlg)
+- [Introducing elm-pages 2.0](https://elm-pages.com/blog/introducing-v2)
 
-- [Please send me examples of good OOP code](https://dpc.pw/please-send-me-examples-of-good-oop-code)
+- [$28.50 Beer at LaGuardia Sparks Audit of New York Airport Concession Prices](https://eyeoftheflyer.com/2021/08/03/tweet-of-28-50-beer-at-la-guardia-sparks-audit-of-new-york-airport-concession-prices/)
 
-- [Ian Manuel, survivor of excessive child punishment, tells his story](https://eji.org/news/ian-manuel-survivor-of-excessive-child-punishment-tells-his-story/)
+- [The 5-Hour CDN](https://fly.io/blog/the-5-hour-content-delivery-network/)
 
-- [6 Years of Professional Clojure](https://engineering.nanit.com/6-years-of-professional-clojure-2b61cb6c1983)
+- [Choosing properties for property-based testing](https://fsharpforfunandprofit.com/posts/property-based-testing-2/)
 
-- [Nodashka is a babashka-like tool for Node.js](https://github.com/borkdude/nodashka)
+- [Show HN: OnionShare with Just Tor and Redbean](https://github.com/ndren/redbean-onionshare)
 
-- [Air – Live reload when developing with Go](https://github.com/cosmtrek/air)
+- [Show HN: A work-in-progress C compiler from scratch](https://github.com/riicchhaarrd/ocean)
 
-- [Ssheven: A modern SSH client for Mac OS 7-9](https://github.com/cy384/ssheven)
+- [A Safari extension to redirect sites to privacy friendly alternatives](https://github.com/smmr-software/privacy-redirect-safari)
 
-- [Lang Jam: create a programming language in a weekend](https://github.com/langjam/langjam)
+- [vvaltchev/tilck: A Tiny Linux-Compatible Kernel](https://github.com/vvaltchev/tilck)
 
-- [Txiki.js: Tiny JavaScript runtime built with QuickJS and libuv](https://github.com/saghul/txiki.js)
+- [GPSD time will jump back 1024 weeks at after week=2180 (23-October-2021)](https://gitlab.com/gpsd/gpsd/-/issues/144)
 
-- [Path hints for B-trees can bring a performance increase of 150% - 300%](https://github.com/tidwall/btree/blob/master/PATH_HINT.md)
+- [How MDN's Autocomplete Search Works](https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/)
 
-- [vrmiguel/bustd: a really lightweight process killer daemon for out-of-memory scenarios on Linux](https://github.com/vrmiguel/bustd)
+- [InitWare (a systemd fork) runs on OpenBSD for the first time](https://imgur.com/a/nqg9Go9)
 
-- [What if JavaScript had a synchronous async flavor?](https://guido.io/posts/nasync-javascript/)
+- [Malicious PyPI packages stealing credit cards and injecting code](https://jfrog.com/blog/malicious-pypi-packages-stealing-credit-cards-injecting-code/)
 
-- [Faster CRDTs: An Adventure in Optimization](https://josephg.com/blog/crdts-go-brrr/)
+- [WireGuardNT, a high-performance WireGuard implementation for the Windows kernel](https://lists.zx2c4.com/pipermail/wireguard/2021-August/006887.html)
 
-- [The Pleasures of Tsundoku: How I learned to stop worrying and love book piles](https://lithub.com/the-pleasures-of-tsundoku-or-how-i-learned-to-stop-worrying-and-love-book-piles/)
+- [Why don't tech companies pay their engineers to stay?](https://marker.medium.com/why-dont-tech-companies-pay-their-engineers-to-stay-b9c7e4b751e9)
 
-- [Past Performance is Not Indicative of Future Results (2020)](https://locusmag.com/2020/11/cory-doctorow-past-performance-is-not-indicative-of-future-results/)
+- [Heptagon of Configuration (Software Engineering)](https://matt-rickard.com/heptagon-of-configuration/)
 
-- [Strict memcpy() bounds checking for the kernel](https://lwn.net/SubscriberLink/864521/d704bdcced0c5c60/)
+- [NSA Kubernetes Hardening Guidance [pdf]](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF)
 
-- [; echo "Shell Injection"](https://matklad.github.io//2021/07/30/shell-injection.html)
+- [PASETO is an Even More Secure Alternative to the JOSE Standards](https://paragonie.com/blog/2021/08/paseto-is-even-more-secure-alternative-jose-standards-jwt-etc)
 
-- [Cloudflare's inaccessible browser contradicts the company's mission](https://mwcampbell.github.io/cloudflare-browser-isolation-letter/)
+- [What's Next for Object-Oriented Perl?](https://phoenixtrap.com/2021/08/03/whats-next-oo-perl/)
 
-- [strcpy: a niche function you don't need](https://nullprogram.com/blog/2021/07/30/)
+- [Variant analysis of the 'Sequoia' bug](https://pwning.systems/posts/sequoia-variant-analysis/)
 
-- [Creating a DOOM-inspired aesthetic with PlayCanvas](https://omarshehata.me/html/playcanvas-horror-aesthetic/)
+- [Bye CUPS: Printing with Netcat](https://retrohacker.substack.com/p/bye-cups-printing-with-netcat)
 
-- [Hosting SQLite Databases on GitHub Pages](https://phiresky.netlify.app/blog/2021/hosting-sqlite-databases-on-github-pages/)
+- [Paving the Way to Small-Sized Room-Temperature Quantum Computers](https://rnd.iitb.ac.in/research-glimpse/graphene-valleytronics-paving-way-small-sized-room-temperature-quantum-computers)
 
-- [ASCII Play](https://play.ertdfgcvb.xyz/)
+- [Linux Kernel Security Done Right](https://security.googleblog.com/2021/08/linux-kernel-security-done-right.html)
 
-- [Restaurant prices in the 19th and 20th centuries (2009)](https://restaurant-ingthroughhistory.com/restaurant-prices/)
+- [Exploring the SameSite cookie attribute for preventing CSRF](https://simonwillison.net/2021/Aug/3/samesite/)
 
-- [Canonicalization Attacks Against MACs and Signatures](https://soatok.blog/2021/07/30/canonicalization-attacks-against-macs-and-signatures/)
+- [Fast, Efficient Neural Networks Copy Dragonfly Brains](https://spectrum.ieee.org/fast-efficient-neural-networks-copy-dragonfly-brains)
 
-- [Sorbet Compiler: An experimental, ahead-of-time compiler for Ruby](https://sorbet.org/blog/2021/07/30/open-sourcing-sorbet-compiler)
+- [Making Reasonable Use of Computer Resources](https://vfoley.xyz/reasonable-use/)
 
-- [700,000 lines of code, 20 years, and one developer: How Dwarf Fortress is built](https://stackoverflow.blog/2021/07/28/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/)
+- [Archive.org: a sewing page that never closed its font size HTML tags](https://web.archive.org/web/20140310190221/http://www.sewingandembroiderywarehouse.com/embtrb.htm)
 
-- [Learning that you can use unions in C for grouping things into namespaces](https://utcc.utoronto.ca/~cks/space/blog/programming/CUnionsForNamespaces)
+- [Goose flying upside down is simply showing off, say experts](https://wgme.com/news/offbeat/goose-flying-upside-down-is-simply-showing-off-say-experts)
 
-- [Download a CSV of your Amazon purchases](https://www.amazon.com/gp/b2b/reports)
+- [Archegos was too busy for margin calls](https://www.bloomberg.com/opinion/articles/2021-07-29/archegos-was-too-busy-for-margin-calls)
 
-- [Why printers add secret tracking dots (2020)](https://www.bbc.com/future/article/20170607-why-printers-add-secret-tracking-dots)
+- [This Can’t Go On](https://www.cold-takes.com/this-cant-go-on/)
 
-- [As lockdowns lift, media firms brace for an “attention recession”](https://www.economist.com/international/2021/07/01/as-lockdowns-lift-media-firms-brace-for-an-attention-recession)
+- [Satan should chair your meetings – a literature lover’s guide to office politics](https://www.economist.com/1843/2021/08/03/why-satan-should-chair-your-meetings)
 
-- [Vaporwave was created then destroyed by the internet (2016)](https://www.esquire.com/entertainment/music/a47793/what-happened-to-vaporwave/)
+- [Testing quantum mechanics in space](https://www.nature.com/articles/d41586-021-02091-8)
 
-- [Where has all the productivity gone?](https://www.johndcook.com/blog/2021/07/31/where-has-productivity-gone/)
+- [The Education of Melvyn Bragg](https://www.newyorker.com/culture/the-new-yorker-interview/the-education-of-melvyn-bragg)
 
-- [One-Thousand Year-Old Plants](https://www.nytimes.com/2021/07/31/science/plant-leaves-welwitschia.html)
+- [Law school applicants surge 13%, biggest increase since dot-com bubble](https://www.reuters.com/legal/legalindustry/law-school-applicants-surge-13-biggest-increase-since-dot-com-bubble-2021-08-03/)
 
-- [Blizzard's reputation collapsed in just three years](https://www.pcgamer.com/how-blizzards-reputation-collapsed-in-just-3-years/)
+- [Sparse Array Beamforming with a Phase Coherent 21-Channel RTL-SDR Array](https://www.rtl-sdr.com/sparse-array-beamforming-with-a-phase-coherent-21-channel-rtl-sdr-array/)
 
-- [The recycling myth: A plastic waste solution littered with failure](https://www.reuters.com/investigates/special-report/environment-plastic-oil-recycling/)
+- [Amazon Unlawfully Confiscated Union Literature, NLRB Finds](https://www.vice.com/en/article/bvz3kv/amazon-unlawfully-confiscated-union-literature-nlrb-finds)
 
-- [We Still Don’t Get Things Done](https://www.wired.com/story/to-do-apps-failed-productivity-tools/)
+- [Internet Explorer for UNIX](https://www.youtube.com/watch?v=_AoyQeUzbEU)
