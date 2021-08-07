@@ -1,103 +1,101 @@
-- [Exit and voice in open source software](http://catern.com/exitvoice.html)
+- [A Practical Theory of Programming](http://www.cs.toronto.edu/~hehner/aPToP/)
 
-- [Almost-Billionaires](http://lackingambition.com/?p=1464)
+- [In internal memo, Apple addresses concerns around new Photo scanning features](https://9to5mac.com/2021/08/06/apple-internal-memo-icloud-photo-scanning-concerns/)
 
-- [Cracking into the Sun Ray General Dynamics-Tadpole M1400](http://oldvcr.blogspot.com/2021/08/cracking-into-sun-ray-general-dynamics.html)
+- [Apple to scan U.S. iPhones for images of child sexual abuse](https://apnews.com/article/technology-business-child-abuse-apple-inc-7fe2a09427d663cda8addfeeffc40196)
 
-- [Apple iPhone charger teardown: quality in a tiny expensive package (2012)](http://www.righto.com/2012/05/apple-iphone-charger-teardown-quality.html)
+- [The Design of the NetBSD I/O Subsystems (2002)](https://arxiv.org/ftp/arxiv/papers/1605/1605.05810.pdf)
 
-- [SuperTokens (YC S20) Is hiring a senior Java developer](https://angel.co/l/2vDCh2)
+- [Looking into Zig](https://ayende.com/blog/194404-A/looking-into-zig)
 
-- [Where Do Models Go Wrong? Parameter-Space Saliency Maps for Explainability](https://arxiv.org/abs/2108.01335)
+- [A Brief Intro To Monad Transformers](https://blog.cofree.coffee/2021-08-05-a-brief-intro-to-monad-transformers/)
 
-- [A Functional Programming Language with Versions](https://arxiv.org/pdf/2107.07301.pdf)
+- [The Tao of Unicode Sparklines](https://blog.jonudell.net/2021/08/05/the-tao-of-unicode-sparklines/)
 
-- [A riddle wrapped in a curve (2015)](https://blog.cryptographyengineering.com/2015/10/22/a-riddle-wrapped-in-curve/)
+- [Firefox: Performance in progress](https://blog.mozilla.org/performance/2021/08/05/performance-in-progress/)
 
-- [Unix and Microservice Platforms](https://blog.deref.io/unix-and-microservice-platforms/)
+- [Apple’s new abuse prevention system: an antritust/competition point of view](https://blog.quintarelli.it/2021/08/apples-child-new-abuse-prevention-system-an-antritustcompetition-point-of-view.html)
 
-- [Haskell for the Elm Enthusiast](https://blog.noredink.com/post/658510851000713216/haskell-for-the-elm-enthusiast)
+- [CalyxOS – De-Googled Android Alternative](https://calyxos.org/)
 
-- [The push for GATs stabilization](https://blog.rust-lang.org/2021/08/03/GATs-stabilization-push.html)
+- [Apple’s New ‘Child Safety’ Initiatives, and the Slippery Slope](https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope)
 
-- [Ray Ozzie's latest venture is a cheap IoT board with flat rate connectivity](https://blues.io/)
+- [New UUID Formats – IETF Draft](https://datatracker.ietf.org/doc/html/draft-peabody-dispatch-new-uuid-format)
 
-- [A Soviet Prisoner's View on What's Important](https://butwhatfor.substack.com/p/speech-at-the-stadium)
+- [Rust: First Thoughts](https://dev.to/mapoulos/rust-first-thoughts-7l0)
 
-- [AI Art Machine: put in text, get art](https://colab.research.google.com/drive/1n_xrgKDlGQcCF6O-eL3NOd_x4NSqAUjK)
+- [Ulam Spiral](https://en.wikipedia.org/wiki/Ulam_spiral)
 
-- [Where are the robotic bricklayers?](https://constructionphysics.substack.com/p/where-are-the-robotic-bricklayers)
+- [Show HN: Open-source A/B testing framework](https://github.com/growthbook/growthbook)
 
-- [Full-Time Open Source](https://corecursive.com/067-zig-with-andrew-kelley/)
+- [Mathematics Chalkboard with MathJax-LaTeX and Markdown Support](https://github.com/susam/muboard)
 
-- [Introducing elm-pages 2.0](https://elm-pages.com/blog/introducing-v2)
+- [NOAA Smoke Forecast Model Visualization](https://hwp-viz.gsd.esrl.noaa.gov/smoke/index.html)
 
-- [$28.50 Beer at LaGuardia Sparks Audit of New York Airport Concession Prices](https://eyeoftheflyer.com/2021/08/03/tweet-of-28-50-beer-at-la-guardia-sparks-audit-of-new-york-airport-concession-prices/)
+- [The value destroying effect of arbitrary date pressure on code](https://iism.org/article/the-value-destroying-effect-of-arbitrary-date-pressure-on-code-52)
 
-- [The 5-Hour CDN](https://fly.io/blog/the-5-hour-content-delivery-network/)
+- [Stack Overflow Developer Survey 2021](https://insights.stackoverflow.com/survey/2021)
 
-- [Choosing properties for property-based testing](https://fsharpforfunandprofit.com/posts/property-based-testing-2/)
+- [A USB adapter for a classic Depraz mouse](https://jfloren.net/b/2021/8/6/1)
 
-- [Show HN: OnionShare with Just Tor and Redbean](https://github.com/ndren/redbean-onionshare)
+- [SAML is insecure by design](https://joonas.fi/2021/08/saml-is-insecure-by-design/)
 
-- [Show HN: A work-in-progress C compiler from scratch](https://github.com/riicchhaarrd/ocean)
+- [The Emacs Lock-In Effect or the Emacs Sunk Cost Fallacy](https://karl-voit.at/2021/07/23/emacs-lock-in/)
 
-- [A Safari extension to redirect sites to privacy friendly alternatives](https://github.com/smmr-software/privacy-redirect-safari)
+- [Who Is Your Audience?](https://leejo.github.io/2021/08/01/who-is-your-audience/)
 
-- [vvaltchev/tilck: A Tiny Linux-Compatible Kernel](https://github.com/vvaltchev/tilck)
+- [The Rust standard library on Espressif chips](https://mabez.dev/blog/posts/esp-rust-espressif/)
 
-- [GPSD time will jump back 1024 weeks at after week=2180 (23-October-2021)](https://gitlab.com/gpsd/gpsd/-/issues/144)
+- [How does FaceTime Work?](https://matduggan.com/how-does-facetime-work/)
 
-- [How MDN's Autocomplete Search Works](https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/)
+- [Another Nix Success Story](https://maxdeviant.com/shards/2021/another-nix-success-story/)
 
-- [InitWare (a systemd fork) runs on OpenBSD for the first time](https://imgur.com/a/nqg9Go9)
+- [My debloating experience with Poco F3](https://mete.dev/2021/08/07/my-debloating-experience-with-poco-f3/)
 
-- [Malicious PyPI packages stealing credit cards and injecting code](https://jfrog.com/blog/malicious-pypi-packages-stealing-credit-cards-injecting-code/)
+- [Practical? Common Lisp on the JVM: A quick intro to ABCL for modern web apps](https://notes.eatonphil.com/practical-common-lisp-on-the-jvm.html)
 
-- [WireGuardNT, a high-performance WireGuard implementation for the Windows kernel](https://lists.zx2c4.com/pipermail/wireguard/2021-August/006887.html)
+- [Visualizing a Codebase](https://octo.github.com/projects/repo-visualization)
 
-- [Why don't tech companies pay their engineers to stay?](https://marker.medium.com/why-dont-tech-companies-pay-their-engineers-to-stay-b9c7e4b751e9)
+- [On Unix composability](https://p.janouch.name/text/on-unix-composability.html)
 
-- [Heptagon of Configuration (Software Engineering)](https://matt-rickard.com/heptagon-of-configuration/)
+- [Show HN: Paper Time – Listen to abstracts of CS papers, like a custom podcast](https://papertime.app)
 
-- [NSA Kubernetes Hardening Guidance [pdf]](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF)
+- [HTTP/2: The Sequel is Always Worse](https://portswigger.net/research/http2)
 
-- [PASETO is an Even More Secure Alternative to the JOSE Standards](https://paragonie.com/blog/2021/08/paseto-is-even-more-secure-alternative-jose-standards-jwt-etc)
+- [The Problem with Perceptual Hashes](https://rentafounder.com/the-problem-with-perceptual-hashes/)
 
-- [What's Next for Object-Oriented Perl?](https://phoenixtrap.com/2021/08/03/whats-next-oo-perl/)
+- [Apply conversion functions to data in SQLite columns with the SQLite-utils tool](https://simonwillison.net/2021/Aug/6/sqlite-utils-convert/)
 
-- [Variant analysis of the 'Sequoia' bug](https://pwning.systems/posts/sequoia-variant-analysis/)
+- [Increased error rates for DynamoDB in the US-EAST-1 Region](https://status.aws.amazon.com/?test=1)
 
-- [Bye CUPS: Printing with Netcat](https://retrohacker.substack.com/p/bye-cups-printing-with-netcat)
+- [Whistleblowers expose corruption in EPA Chemical Safety Office](https://theintercept.com/2021/07/02/epa-chemical-safety-corruption-whistleblowers/)
 
-- [Paving the Way to Small-Sized Room-Temperature Quantum Computers](https://rnd.iitb.ac.in/research-glimpse/graphene-valleytronics-paving-way-small-sized-room-temperature-quantum-computers)
+- [How to build better command line apps and tools using Swift?](https://theswiftdev.com/how-to-build-better-command-line-apps-and-tools-using-swift/)
 
-- [Linux Kernel Security Done Right](https://security.googleblog.com/2021/08/linux-kernel-security-done-right.html)
+- [Black-Box Attacks on Perceptual Image Hashes with GANs (2018)](https://towardsdatascience.com/black-box-attacks-on-perceptual-image-hashes-with-gans-cc1be11f277)
 
-- [Exploring the SameSite cookie attribute for preventing CSRF](https://simonwillison.net/2021/Aug/3/samesite/)
+- [Single-sequence protein structure prediction using language models](https://www.biorxiv.org/content/10.1101/2021.08.02.454840v1)
 
-- [Fast, Efficient Neural Networks Copy Dragonfly Brains](https://spectrum.ieee.org/fast-efficient-neural-networks-copy-dragonfly-brains)
+- [Richard Stallman and the History of Free Software and Open Source (2016)](https://www.cmpod.net/all-transcripts/history-open-source-free-software-text/)
 
-- [Making Reasonable Use of Computer Resources](https://vfoley.xyz/reasonable-use/)
+- [Surveys show Americans want more walkable cities](https://www.governing.com/community/vehicles-still-firmly-in-control-of-city-streets)
 
-- [Archive.org: a sewing page that never closed its font size HTML tags](https://web.archive.org/web/20140310190221/http://www.sewingandembroiderywarehouse.com/embtrb.htm)
+- [Why Disney World doesn't have mosquitoes](https://www.greenmatters.com/p/why-no-mosquitoes-disney-world)
 
-- [Goose flying upside down is simply showing off, say experts](https://wgme.com/news/offbeat/goose-flying-upside-down-is-simply-showing-off-say-experts)
+- [The Drunken Bishop Algorithm](https://www.jfurness.uk/the-drunken-bishop-algorithm/)
 
-- [Archegos was too busy for margin calls](https://www.bloomberg.com/opinion/articles/2021-07-29/archegos-was-too-busy-for-margin-calls)
+- [A tweet cost his doctorate: Extent of China’s influence on Swiss universities](https://www.nzz.ch/english/swiss-phd-students-dismissal-spotlights-chinas-influence-ld.1638771?mktcid=smsh&mktcval=Twitter)
 
-- [This Can’t Go On](https://www.cold-takes.com/this-cant-go-on/)
+- [Unix Shell: History and Trivia](https://www.oilshell.org/blog/2021/08/history-trivia.html)
 
-- [Satan should chair your meetings – a literature lover’s guide to office politics](https://www.economist.com/1843/2021/08/03/why-satan-should-chair-your-meetings)
+- [Dating in Delhi when you're poor](https://www.reuters.com/article/delhi-dating-idUSKBN1DU0NE)
 
-- [Testing quantum mechanics in space](https://www.nature.com/articles/d41586-021-02091-8)
+- [Atlantic Ocean currents weaken, signalling big weather changes: study](https://www.reuters.com/business/environment/atlantic-ocean-currents-weaken-signalling-big-weather-changes-study-2021-08-05/)
 
-- [The Education of Melvyn Bragg](https://www.newyorker.com/culture/the-new-yorker-interview/the-education-of-melvyn-bragg)
+- [Bones hoarded by hyenas over thousands of years](https://www.smithsonianmag.com/smart-news/archaeologists-uncover-extensive-pile-animal-and-human-bones-saudi-arabia-cave-180978375/)
 
-- [Law school applicants surge 13%, biggest increase since dot-com bubble](https://www.reuters.com/legal/legalindustry/law-school-applicants-surge-13-biggest-increase-since-dot-com-bubble-2021-08-03/)
+- [Driving 1725km in an electric car in 2 days](https://www.tbray.org/ongoing/When/202x/2021/08/05/Western-Electric)
 
-- [Sparse Array Beamforming with a Phase Coherent 21-Channel RTL-SDR Array](https://www.rtl-sdr.com/sparse-array-beamforming-with-a-phase-coherent-21-channel-rtl-sdr-array/)
+- [Bonsai (YC W16) is hiring a head of growth marketing (remote)](https://www.ycombinator.com/companies/bonsai/jobs/HY1P6AN-head-of-growth-marketing)
 
-- [Amazon Unlawfully Confiscated Union Literature, NLRB Finds](https://www.vice.com/en/article/bvz3kv/amazon-unlawfully-confiscated-union-literature-nlrb-finds)
-
-- [Internet Explorer for UNIX](https://www.youtube.com/watch?v=_AoyQeUzbEU)
+- [Learning APL](https://xpqz.github.io/learnapl/intro.html)
