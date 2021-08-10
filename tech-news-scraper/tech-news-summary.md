@@ -1,101 +1,105 @@
-- [A Practical Theory of Programming](http://www.cs.toronto.edu/~hehner/aPToP/)
+- [EFLFE: Elixir Flavoured Lisp Flavoured Erlang](http://marianoguerra.org/posts/eflfe-elixir-flavoured-lisp-flavoured-erlang/)
 
-- [In internal memo, Apple addresses concerns around new Photo scanning features](https://9to5mac.com/2021/08/06/apple-internal-memo-icloud-photo-scanning-concerns/)
+- [Zig pathtracer](http://msinilo.pl/blog2/post/zig-pathtracer/)
 
-- [Apple to scan U.S. iPhones for images of child sexual abuse](https://apnews.com/article/technology-business-child-abuse-apple-inc-7fe2a09427d663cda8addfeeffc40196)
+- [Incentives in Computer Science](http://www.cs.columbia.edu/~tr/s20/s20.html)
 
-- [The Design of the NetBSD I/O Subsystems (2002)](https://arxiv.org/ftp/arxiv/papers/1605/1605.05810.pdf)
+- [Dial-a-SID](http://www.linusakesson.net/hardware/dial-a-sid/index.php)
 
-- [Looking into Zig](https://ayende.com/blog/194404-A/looking-into-zig)
+- [ModelingToolkit, Modelica, and Modia: The Composable Modeling Future in Julia](http://www.stochasticlifestyle.com/modelingtoolkit-modelica-and-modia-the-composable-modeling-future-in-julia/)
 
-- [A Brief Intro To Monad Transformers](https://blog.cofree.coffee/2021-08-05-a-brief-intro-to-monad-transformers/)
+- [JavaScript needs more helper functions for iteration (map, filter, etc.) – where should we put them?](https://2ality.com/2021/08/iteration-helpers.html)
 
-- [The Tao of Unicode Sparklines](https://blog.jonudell.net/2021/08/05/the-tao-of-unicode-sparklines/)
+- [What happens if you stick your head in a particle accelerator? (2017)](https://aeon.co/ideas/why-we-can-stop-worrying-and-love-the-particle-accelerator)
 
-- [Firefox: Performance in progress](https://blog.mozilla.org/performance/2021/08/05/performance-in-progress/)
+- [DIY Air Quality Sensor](https://benjamincongdon.me/blog/2021/08/08/DIY-Air-Quality-Sensor/)
 
-- [Apple’s new abuse prevention system: an antritust/competition point of view](https://blog.quintarelli.it/2021/08/apples-child-new-abuse-prevention-system-an-antritustcompetition-point-of-view.html)
+- [Stages of Denial](https://beyondloom.com/blog/denial.html)
 
-- [CalyxOS – De-Googled Android Alternative](https://calyxos.org/)
+- [Fundamentals of Incident Management](https://bitfieldconsulting.com/blog/got-game-secrets-of-great-incident-management)
 
-- [Apple’s New ‘Child Safety’ Initiatives, and the Slippery Slope](https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope)
+- [When zero cost abstractions aren't zero cost](https://blog.polybdenum.com/2021/08/09/when-zero-cost-abstractions-aren-t-zero-cost.html)
 
-- [New UUID Formats – IETF Draft](https://datatracker.ietf.org/doc/html/draft-peabody-dispatch-new-uuid-format)
+- [Vue 3.2 Released](https://blog.vuejs.org/posts/vue-3.2.html)
 
-- [Rust: First Thoughts](https://dev.to/mapoulos/rust-first-thoughts-7l0)
+- [Show HN: Free, Accessible AI Art Generator](https://colab.research.google.com/drive/1n_xrgKDlGQcCF6O-eL3NOd_x4NSqAUjK)
 
-- [Ulam Spiral](https://en.wikipedia.org/wiki/Ulam_spiral)
+- [History of Hacking the Nintendo 3DS [pdf]](https://courses.csail.mit.edu/6.857/2019/project/20-Chau-Ko-Tang.pdf)
 
-- [Show HN: Open-source A/B testing framework](https://github.com/growthbook/growthbook)
+- [Zig wrinkles](https://dev.to/stein/zig-dangers-confusions-and-annoyances-280h)
 
-- [Mathematics Chalkboard with MathJax-LaTeX and Markdown Support](https://github.com/susam/muboard)
+- [An overview of Ink programming language](https://dotink.co/docs/overview/)
 
-- [NOAA Smoke Forecast Model Visualization](https://hwp-viz.gsd.esrl.noaa.gov/smoke/index.html)
+- [Growing Object-Oriented Software vs what I would do](https://dpc.pw/growing-object-oriented-software-vs-what-i-would-do)
 
-- [The value destroying effect of arbitrary date pressure on code](https://iism.org/article/the-value-destroying-effect-of-arbitrary-date-pressure-on-code-52)
+- [Throwing 99 bottles (of OOP) in the trash](https://dpc.pw/throwing-99-bottles-of-oop-in-the-trash)
 
-- [Stack Overflow Developer Survey 2021](https://insights.stackoverflow.com/survey/2021)
+- [Anti-Lukashenka hackers seize senior Belarusian officials' personal data](https://en.currenttime.tv/a/seeking-change-anti-lukashenka-hackers-seize-senior-belarusian-officials-personal-data-/31392092.html)
 
-- [A USB adapter for a classic Depraz mouse](https://jfloren.net/b/2021/8/6/1)
+- [Open sourcing Winterfell: A STARK prover and verifier](https://engineering.fb.com/2021/08/04/open-source/winterfell/)
 
-- [SAML is insecure by design](https://joonas.fi/2021/08/saml-is-insecure-by-design/)
+- [Falsehoods Programmers Believe About Phone Numbers](https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md)
 
-- [The Emacs Lock-In Effect or the Emacs Sunk Cost Fallacy](https://karl-voit.at/2021/07/23/emacs-lock-in/)
+- [Elle: A transactional consistency checker for black-box databases](https://github.com/jepsen-io/elle)
 
-- [Who Is Your Audience?](https://leejo.github.io/2021/08/01/who-is-your-audience/)
+- [Show HN: Torrentinim – low memory-footprint, API-only torrent search engine](https://github.com/sergiotapia/torrentinim)
 
-- [The Rust standard library on Espressif chips](https://mabez.dev/blog/posts/esp-rust-espressif/)
+- [Beyond Coupling and Cohesion: Strategies For Un-F*cking Yourself](https://jesseduffield.com/Beyond-Coupling-And-Cohesion/)
 
-- [How does FaceTime Work?](https://matduggan.com/how-does-facetime-work/)
+- [Anti-pattern of the Day: Type Keys](https://jesseduffield.com/Type-Keys/)
 
-- [Another Nix Success Story](https://maxdeviant.com/shards/2021/another-nix-success-story/)
+- [What if ESLint's configuration worked like elm-review?](https://jfmengels.net/configuring-eslint/)
 
-- [My debloating experience with Poco F3](https://mete.dev/2021/08/07/my-debloating-experience-with-poco-f3/)
+- [Prefer Declarative State Updaters](https://kyleshevlin.com/prefer-declarative-state-updaters)
 
-- [Practical? Common Lisp on the JVM: A quick intro to ABCL for modern web apps](https://notes.eatonphil.com/practical-common-lisp-on-the-jvm.html)
+- [Build your own NeXT with a virtual machine](https://learn.adafruit.com/build-your-own-next-with-a-virtual-machine?view=all)
 
-- [Visualizing a Codebase](https://octo.github.com/projects/repo-visualization)
+- [NVMM hypervisor landed in DragonFly](https://lists.dragonflybsd.org/pipermail/kernel/2021-August/304105.html)
 
-- [On Unix composability](https://p.janouch.name/text/on-unix-composability.html)
+- [Service Reliability Math](https://matt-rickard.com/service-reliability-math-that-every-engineer-should-know/)
 
-- [Show HN: Paper Time – Listen to abstracts of CS papers, like a custom podcast](https://papertime.app)
+- [Wildfire restored a Yosemite watershed](https://news.berkeley.edu/2021/08/09/how-wildfire-restored-a-yosemite-watershed/)
 
-- [HTTP/2: The Sequel is Always Worse](https://portswigger.net/research/http2)
+- [Why most programming language performance comparisons are most likely wrong](https://nibblestew.blogspot.com/2021/02/why-most-programming-language.html?m=1)
 
-- [The Problem with Perceptual Hashes](https://rentafounder.com/the-problem-with-perceptual-hashes/)
+- [No STARTTLS](https://nostarttls.secvuln.info/)
 
-- [Apply conversion functions to data in SQLite columns with the SQLite-utils tool](https://simonwillison.net/2021/Aug/6/sqlite-utils-convert/)
+- [Top 5% Polluting Power Plants Account for 73% of Global Emissions](https://oilprice.com/Latest-Energy-News/World-News/Top-5-Polluting-Power-Plants-Account-For-73-Of-Global-Emissions.html)
 
-- [Increased error rates for DynamoDB in the US-EAST-1 Region](https://status.aws.amazon.com/?test=1)
+- [Relationship Hero (YC S17) Is Hiring Sales Associates – Full Time Remote](https://relationshiphero.com/careers?role=salesAssociate)
 
-- [Whistleblowers expose corruption in EPA Chemical Safety Office](https://theintercept.com/2021/07/02/epa-chemical-safety-corruption-whistleblowers/)
+- [Sketching - A Language for Creative Coding](https://soegaard.github.io/sketching/)
 
-- [How to build better command line apps and tools using Swift?](https://theswiftdev.com/how-to-build-better-command-line-apps-and-tools-using-swift/)
+- [Apple’s Mistake](https://stratechery.com/2021/apples-mistake/)
 
-- [Black-Box Attacks on Perceptual Image Hashes with GANs (2018)](https://towardsdatascience.com/black-box-attacks-on-perceptual-image-hashes-with-gans-cc1be11f277)
+- [PostgREST version 8.0](https://supabase.io/blog/2021/07/26/supabase-community-day#postgrest-version-80)
 
-- [Single-sequence protein structure prediction using language models](https://www.biorxiv.org/content/10.1101/2021.08.02.454840v1)
+- [Mexico is phasing out imports of glyphosate and GMO corn](https://thecounter.org/mexico-phaseout-glyphosate-genetically-engineered-corn-united-states/)
 
-- [Richard Stallman and the History of Free Software and Open Source (2016)](https://www.cmpod.net/all-transcripts/history-open-source-free-software-text/)
+- [Drug-resistant bacteria found in the guts of lemurs who live around humans](https://today.duke.edu/2021/08/drug-resistant-bacteria-found-guts-lemurs-who-live-around-humans)
 
-- [Surveys show Americans want more walkable cities](https://www.governing.com/community/vehicles-still-firmly-in-control-of-city-streets)
+- [“My scooter was stolen. Unknown to the thief, I hid two AirTags inside it.”](https://twitter.com/dguido/status/1424921645483966466)
 
-- [Why Disney World doesn't have mosquitoes](https://www.greenmatters.com/p/why-no-mosquitoes-disney-world)
+- [Three fundamental flaws of SIMD](https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/)
 
-- [The Drunken Bishop Algorithm](https://www.jfurness.uk/the-drunken-bishop-algorithm/)
+- [So you want to write a GUI framework](https://www.cmyr.net/blog/gui-framework-ingredients.html)
 
-- [A tweet cost his doctorate: Extent of China’s influence on Swiss universities](https://www.nzz.ch/english/swiss-phd-students-dismissal-spotlights-chinas-influence-ld.1638771?mktcid=smsh&mktcval=Twitter)
+- [Sea-thru: a physics-based color reconstruction algorithm for underwater images](https://www.deryaakkaynak.com/sea-thru)
 
-- [Unix Shell: History and Trivia](https://www.oilshell.org/blog/2021/08/history-trivia.html)
+- [The Future Is a Landscape](https://www.ecosophia.net/the-future-is-a-landscape/)
 
-- [Dating in Delhi when you're poor](https://www.reuters.com/article/delhi-dating-idUSKBN1DU0NE)
+- [Why does it take so long to get to Mercury?](https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Why_does_it_take_so_long_to_get_to_Mercury)
 
-- [Atlantic Ocean currents weaken, signalling big weather changes: study](https://www.reuters.com/business/environment/atlantic-ocean-currents-weaken-signalling-big-weather-changes-study-2021-08-05/)
+- [The World of CSS Transforms](https://www.joshwcomeau.com/css/transforms/)
 
-- [Bones hoarded by hyenas over thousands of years](https://www.smithsonianmag.com/smart-news/archaeologists-uncover-extensive-pile-animal-and-human-bones-saudi-arabia-cave-180978375/)
+- [Posh: A Data-Aware Shell](https://www.micahlerner.com/2021/08/07/posh-a-data-aware-shell.html)
 
-- [Driving 1725km in an electric car in 2 days](https://www.tbray.org/ongoing/When/202x/2021/08/05/Western-Electric)
+- [The Rocks and Minerals of Minecraft](https://www.mindat.org/a/minecraft)
 
-- [Bonsai (YC W16) is hiring a head of growth marketing (remote)](https://www.ycombinator.com/companies/bonsai/jobs/HY1P6AN-head-of-growth-marketing)
+- [New carnivorous plant discovered in Pacific Northwest](https://www.npr.org/2021/08/09/1026091196/this-sweet-white-flower-is-actually-a-sneaky-carnivore-scientists-discovered)
 
-- [Learning APL](https://xpqz.github.io/learnapl/intro.html)
+- [New York Public Library’s Picture Collection Will Be Archived](https://www.nytimes.com/2021/08/03/arts/design/new-york-public-library-picture-collection.html)
+
+- [Apple dropped plan for encrypting backups after FBI complained (2020)](https://www.reuters.com/article/us-apple-fbi-icloud-exclusive-idUSKBN1ZK1CT)
+
+- [Bring back hydrogen lifting gas](https://www.thecgo.org/news/bring-back-hydrogen-lifting-gas/)
