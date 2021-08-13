@@ -1,105 +1,95 @@
-- [EFLFE: Elixir Flavoured Lisp Flavoured Erlang](http://marianoguerra.org/posts/eflfe-elixir-flavoured-lisp-flavoured-erlang/)
+- [C3 programming language](http://www.c3-lang.org/)
 
-- [Zig pathtracer](http://msinilo.pl/blog2/post/zig-pathtracer/)
+- [Rust GUI Infrastructure](http://www.cmyr.net/blog/rust-gui-infra.html)
 
-- [Incentives in Computer Science](http://www.cs.columbia.edu/~tr/s20/s20.html)
+- [Efficient Stream Compaction on Wide SIMD Many-Core Architectures (2009)](http://www.cse.chalmers.se/%7Euffe/streamcompaction.pdf)
 
-- [Dial-a-SID](http://www.linusakesson.net/hardware/dial-a-sid/index.php)
+- [Facebook may be forced to sell Giphy one year after buying it](https://arstechnica.com/tech-policy/2021/08/facebook-may-be-forced-to-sell-giphy-one-year-after-buying-it/)
 
-- [ModelingToolkit, Modelica, and Modia: The Composable Modeling Future in Julia](http://www.stochasticlifestyle.com/modelingtoolkit-modelica-and-modia-the-composable-modeling-future-in-julia/)
+- [Actually secure boot on Fedora](https://blog.nil.im/?7a)
 
-- [JavaScript needs more helper functions for iteration (map, filter, etc.) – where should we put them?](https://2ality.com/2021/08/iteration-helpers.html)
+- [User Methods](https://breckyunits.com/user-methods.html)
 
-- [What happens if you stick your head in a particle accelerator? (2017)](https://aeon.co/ideas/why-we-can-stop-worrying-and-love-the-particle-accelerator)
+- [Paranoid NixOS on AWS](https://christine.website/blog/paranoid-nixos-aws-2021-08-11)
 
-- [DIY Air Quality Sensor](https://benjamincongdon.me/blog/2021/08/08/DIY-Air-Quality-Sensor/)
+- [What Is Value?](https://dwyer.co.za/what-is-value.html)
 
-- [Stages of Denial](https://beyondloom.com/blog/denial.html)
+- [Essence](https://essence.handmade.network/)
 
-- [Fundamentals of Incident Management](https://bitfieldconsulting.com/blog/got-game-secrets-of-great-incident-management)
+- [The git staging area, the term literally everyone agrees with](https://felipec.wordpress.com/2021/08/10/git-staging-area-rename/)
 
-- [When zero cost abstractions aren't zero cost](https://blog.polybdenum.com/2021/08/09/when-zero-cost-abstractions-aren-t-zero-cost.html)
+- [Fishdraw: Procedurally Generated Fish Drawings](https://fishdraw.glitch.me/)
 
-- [Vue 3.2 Released](https://blog.vuejs.org/posts/vue-3.2.html)
+- [GitHub’s Engineering Team has moved to Codespaces](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/)
 
-- [Show HN: Free, Accessible AI Art Generator](https://colab.research.google.com/drive/1n_xrgKDlGQcCF6O-eL3NOd_x4NSqAUjK)
+- [Git password authentication is shutting down](https://github.blog/changelog/2021-08-12-git-password-authentication-is-shutting-down/)
 
-- [History of Hacking the Nintendo 3DS [pdf]](https://courses.csail.mit.edu/6.857/2019/project/20-Chau-Ko-Tang.pdf)
+- [PlayCover: Run iOS apps and games on the M1 Mac](https://github.com/Letscoder/PlayCover)
 
-- [Zig wrinkles](https://dev.to/stein/zig-dangers-confusions-and-annoyances-280h)
+- [Show HN: Lisp implementation in modern Java, Go, C#, TypeScript, Python](https://github.com/eatonphil/lisp-rosetta-stone)
 
-- [An overview of Ink programming language](https://dotink.co/docs/overview/)
+- [Commodore 64 BASIC and KERNAL on Atari 8-bit hardware](https://github.com/unbibium/atari64)
 
-- [Growing Object-Oriented Software vs what I would do](https://dpc.pw/growing-object-oriented-software-vs-what-i-would-do)
+- [Kind: A modern proof language](https://github.com/uwu-tech/Kind)
 
-- [Throwing 99 bottles (of OOP) in the trash](https://dpc.pw/throwing-99-bottles-of-oop-in-the-trash)
+- [FreeBSD Experiment Rethinks The OS Install](https://hackaday.com/2021/08/10/freebsd-experiment-rethinks-the-os-install/)
 
-- [Anti-Lukashenka hackers seize senior Belarusian officials' personal data](https://en.currenttime.tv/a/seeking-change-anti-lukashenka-hackers-seize-senior-belarusian-officials-personal-data-/31392092.html)
+- [Writing Great Alt Text: Emotion Matters](https://jakearchibald.com/2021/great-alt-text/)
 
-- [Open sourcing Winterfell: A STARK prover and verifier](https://engineering.fb.com/2021/08/04/open-source/winterfell/)
+- [A future for SQL on the web](https://jlongster.com/future-sql-web)
 
-- [Falsehoods Programmers Believe About Phone Numbers](https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md)
+- [Should the browser use all available memory?](https://jmmv.dev/2021/08/using-all-memory-as-a-cache.html)
 
-- [Elle: A transactional consistency checker for black-box databases](https://github.com/jepsen-io/elle)
+- [Overthinking](https://kerkour.com/blog/overthinking/)
 
-- [Show HN: Torrentinim – low memory-footprint, API-only torrent search engine](https://github.com/sergiotapia/torrentinim)
+- [New features in Neovim 0.5](https://lwn.net/Articles/864712/)
 
-- [Beyond Coupling and Cohesion: Strategies For Un-F*cking Yourself](https://jesseduffield.com/Beyond-Coupling-And-Cohesion/)
+- [Scanning “private” content](https://lwn.net/SubscriberLink/865756/a7f67aaa8ea52862/)
 
-- [Anti-pattern of the Day: Type Keys](https://jesseduffield.com/Type-Keys/)
+- [C++ Exceptions: Under the Hood](https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html)
 
-- [What if ESLint's configuration worked like elm-review?](https://jfmengels.net/configuring-eslint/)
+- [PonderNet: Annotated PyTorch Implementation](https://nn.labml.ai/adaptive_computation/ponder_net/index.html)
 
-- [Prefer Declarative State Updaters](https://kyleshevlin.com/prefer-declarative-state-updaters)
+- [Low Bandwidth Images](https://opguides.info/posts/lowbandwidthimages/)
 
-- [Build your own NeXT with a virtual machine](https://learn.adafruit.com/build-your-own-next-with-a-virtual-machine?view=all)
+- [Packaging Con 2021: a conference for package management devs and communities](https://packaging-con.org/)
 
-- [NVMM hypervisor landed in DragonFly](https://lists.dragonflybsd.org/pipermail/kernel/2021-August/304105.html)
+- [The deceptive PR behind Apple’s “expanded protections for children”](https://piotr.is/2021/08/12/apple-csam/)
 
-- [Service Reliability Math](https://matt-rickard.com/service-reliability-math-that-every-engineer-should-know/)
+- [Internet of Snitches](https://puri.sm/posts/internet-of-snitches/)
 
-- [Wildfire restored a Yosemite watershed](https://news.berkeley.edu/2021/08/09/how-wildfire-restored-a-yosemite-watershed/)
+- [Session switching with the tmux menu](https://qmacro.org/autodidactics/2021/08/12/session-switching-with-the-tmux-menu/)
 
-- [Why most programming language performance comparisons are most likely wrong](https://nibblestew.blogspot.com/2021/02/why-most-programming-language.html?m=1)
+- [C programming language extension: Cedro pre-processor](https://sentido-labs.com/en/library/cedro/202106171400/)
 
-- [No STARTTLS](https://nostarttls.secvuln.info/)
+- [Intel C/C++ compilers complete adoption of LLVM](https://software.intel.com/content/www/us/en/develop/blogs/adoption-of-llvm-complete-icx.html)
 
-- [Top 5% Polluting Power Plants Account for 73% of Global Emissions](https://oilprice.com/Latest-Energy-News/World-News/Top-5-Polluting-Power-Plants-Account-For-73-Of-Global-Emissions.html)
+- [EC2 boot time benchmarking](https://www.daemonology.net/blog/2021-08-12-EC2-boot-time-benchmarking.html)
 
-- [Relationship Hero (YC S17) Is Hiring Sales Associates – Full Time Remote](https://relationshiphero.com/careers?role=salesAssociate)
+- [The Myths of the Digital Native (2015)](https://www.geeklawblog.com/2015/10/the-myths-of-digital-native-part-1.html)
 
-- [Sketching - A Language for Creative Coding](https://soegaard.github.io/sketching/)
+- [The Strong Law of Small Numbers (1988) [pdf]](https://www.maa.org/sites/default/files/pdf/upload_library/22/Ford/Guy697-712.pdf)
 
-- [Apple’s Mistake](https://stratechery.com/2021/apples-mistake/)
+- [Delta variant viral load similar in vaccinated and unvaccinated](https://www.nature.com/articles/d41586-021-02187-1)
 
-- [PostgREST version 8.0](https://supabase.io/blog/2021/07/26/supabase-community-day#postgrest-version-80)
+- [Suburban Dwelling: John Cheever was the bard of the backyard](https://www.neh.gov/article/suburban-dwelling)
 
-- [Mexico is phasing out imports of glyphosate and GMO corn](https://thecounter.org/mexico-phaseout-glyphosate-genetically-engineered-corn-united-states/)
+- [TLDs -- Putting the 'Fun' in the top of the DNS](https://www.netmeister.org/blog/tlds.html)
 
-- [Drug-resistant bacteria found in the guts of lemurs who live around humans](https://today.duke.edu/2021/08/drug-resistant-bacteria-found-guts-lemurs-who-live-around-humans)
+- [Reddit raises $410M in new funding](https://www.nytimes.com/2021/08/12/technology/reddit-new-funding.html)
 
-- [“My scooter was stolen. Unknown to the thief, I hid two AirTags inside it.”](https://twitter.com/dguido/status/1424921645483966466)
+- [Physicists Create a Bizarre ‘Wigner Crystal’ Made Purely of Electrons](https://www.quantamagazine.org/physicists-create-a-bizarre-wigner-crystal-made-purely-of-electrons-20210812/)
 
-- [Three fundamental flaws of SIMD](https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/)
+- [Breaking the web forward](https://www.quirksmode.org/blog/archives/2021/08/breaking_the_we.html)
 
-- [So you want to write a GUI framework](https://www.cmyr.net/blog/gui-framework-ingredients.html)
+- [Apple's child protection features spark concern within its own ranks: sources](https://www.reuters.com/technology/exclusive-apples-child-protection-features-spark-concern-within-its-own-ranks-2021-08-12/)
 
-- [Sea-thru: a physics-based color reconstruction algorithm for underwater images](https://www.deryaakkaynak.com/sea-thru)
+- [Why SteamOS Switched from Debian to Arch Linux](https://www.rockpapershotgun.com/heres-why-steamos-switched-from-debian-to-arch-linux)
 
-- [The Future Is a Landscape](https://www.ecosophia.net/the-future-is-a-landscape/)
+- [Little kids burn so much energy, they’re like a different species, study finds](https://www.sciencemag.org/news/2021/08/little-kids-burn-so-much-energy-they-re-different-species-study-finds)
 
-- [Why does it take so long to get to Mercury?](https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Why_does_it_take_so_long_to_get_to_Mercury)
+- [Scientists urged Wisconsin to limit its wolf kill. It didn’t go well](https://www.sciencemag.org/news/2021/08/scientists-urged-wisconsin-limit-its-wolf-kill-it-didn-t-go-well)
 
-- [The World of CSS Transforms](https://www.joshwcomeau.com/css/transforms/)
+- [Huawei stole our tech and created a 'backdoor' to spy on Pakistan, claims IT biz](https://www.theregister.com/2021/08/13/huawei_accused_of_trade_secret/)
 
-- [Posh: A Data-Aware Shell](https://www.micahlerner.com/2021/08/07/posh-a-data-aware-shell.html)
-
-- [The Rocks and Minerals of Minecraft](https://www.mindat.org/a/minecraft)
-
-- [New carnivorous plant discovered in Pacific Northwest](https://www.npr.org/2021/08/09/1026091196/this-sweet-white-flower-is-actually-a-sneaky-carnivore-scientists-discovered)
-
-- [New York Public Library’s Picture Collection Will Be Archived](https://www.nytimes.com/2021/08/03/arts/design/new-york-public-library-picture-collection.html)
-
-- [Apple dropped plan for encrypting backups after FBI complained (2020)](https://www.reuters.com/article/us-apple-fbi-icloud-exclusive-idUSKBN1ZK1CT)
-
-- [Bring back hydrogen lifting gas](https://www.thecgo.org/news/bring-back-hydrogen-lifting-gas/)
+- [Creating a Space Game with OpenAI Codex](https://www.youtube.com/watch?v=Zm9B-DvwOgw)
