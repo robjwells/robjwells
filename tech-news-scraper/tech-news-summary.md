@@ -1,95 +1,105 @@
-- [C3 programming language](http://www.c3-lang.org/)
+- [A Deep Dive into Nanite Virtualized Geometry](http://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021_final.pdf)
 
-- [Rust GUI Infrastructure](http://www.cmyr.net/blog/rust-gui-infra.html)
+- [SoundStream: An End-to-End Neural Audio Codec](http://ai.googleblog.com/2021/08/soundstream-end-to-end-neural-audio.html)
 
-- [Efficient Stream Compaction on Wide SIMD Many-Core Architectures (2009)](http://www.cse.chalmers.se/%7Euffe/streamcompaction.pdf)
+- [You can list a directory containing 8M files, but not with ls](http://be-n.com/spw/you-can-list-a-million-files-in-a-directory-but-not-with-ls.html)
 
-- [Facebook may be forced to sell Giphy one year after buying it](https://arstechnica.com/tech-policy/2021/08/facebook-may-be-forced-to-sell-giphy-one-year-after-buying-it/)
+- [Tapedeck.org](http://tapedeck.org/)
 
-- [Actually secure boot on Fedora](https://blog.nil.im/?7a)
+- [Progress Report: August 2021 - Asahi Linux](https://asahilinux.org/2021/08/progress-report-august-2021/)
 
-- [User Methods](https://breckyunits.com/user-methods.html)
+- [Reining in the thundering herd: Getting to 80% CPU utilization with Django](https://blog.clubhouse.com/reining-in-the-thundering-herd-with-django-and-gunicorn/)
 
-- [Paranoid NixOS on AWS](https://christine.website/blog/paranoid-nixos-aws-2021-08-11)
+- [Thunderbird 91 Available Now](https://blog.thunderbird.net/2021/08/thunderbird-91-available-now/)
 
-- [What Is Value?](https://dwyer.co.za/what-is-value.html)
+- [Let's write a compiler, part 1: Introduction, selecting a language, and doing some planning](https://briancallahan.net/blog/20210814.html)
 
-- [Essence](https://essence.handmade.network/)
+- [Show HN: Burst – start a cloud server, run your code, turn it off](https://burstable.ai)
 
-- [The git staging area, the term literally everyone agrees with](https://felipec.wordpress.com/2021/08/10/git-staging-area-rename/)
+- [Why is learning functional programming so damned hard? (2019)](https://cscalfani.medium.com/why-is-learning-functional-programming-so-damned-hard-bfd00202a7d1)
 
-- [Fishdraw: Procedurally Generated Fish Drawings](https://fishdraw.glitch.me/)
+- [Classical Data Structures That Can Outperform Learned Indexes](https://dawn.cs.stanford.edu//2018/01/11/index-baselines/)
 
-- [GitHub’s Engineering Team has moved to Codespaces](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/)
+- [Blackjack - Probabilities, Strategy, Card Counting - Calculation and Simulation](https://easylang.online/apps/tut_blackj.html)
 
-- [Git password authentication is shutting down](https://github.blog/changelog/2021-08-12-git-password-authentication-is-shutting-down/)
+- [Carolyn Shoemaker has died](https://en.wikipedia.org/wiki/Carolyn_S._Shoemaker)
 
-- [PlayCover: Run iOS apps and games on the M1 Mac](https://github.com/Letscoder/PlayCover)
+- [The best books on assassinations](https://fivebooks.com/best-books/assassination-michael-burleigh/)
 
-- [Show HN: Lisp implementation in modern Java, Go, C#, TypeScript, Python](https://github.com/eatonphil/lisp-rosetta-stone)
+- [Scalene: a high-performance, high-precision CPU, GPU, and memory profiler](https://github.com/plasma-umass/scalene)
 
-- [Commodore 64 BASIC and KERNAL on Atari 8-bit hardware](https://github.com/unbibium/atari64)
+- [React Renderer for Three.js](https://github.com/pmndrs/react-three-fiber)
 
-- [Kind: A modern proof language](https://github.com/uwu-tech/Kind)
+- [atari64: Commodore 64 OS running on Atari 8-bit hardware](https://github.com/unbibium/atari64)
 
-- [FreeBSD Experiment Rethinks The OS Install](https://hackaday.com/2021/08/10/freebsd-experiment-rethinks-the-os-install/)
+- [The Duke Mansion Mystery](https://heatinghelp.com/dead-men-tales/the-duke-mansion-mystery/)
 
-- [Writing Great Alt Text: Emotion Matters](https://jakearchibald.com/2021/great-alt-text/)
+- [Loom: Project Loom Early-Access Builds](https://jdk.java.net/loom/)
 
-- [A future for SQL on the web](https://jlongster.com/future-sql-web)
+- [Debian 11 "bullseye" released](https://lists.debian.org/debian-announce/2021/msg00004.html)
 
-- [Should the browser use all available memory?](https://jmmv.dev/2021/08/using-all-memory-as-a-cache.html)
+- [DevOps Engineer Crash Course - Section 1](https://matduggan.com/devops-engineer-crash-course/)
 
-- [Overthinking](https://kerkour.com/blog/overthinking/)
+- [Does shadow DOM improve style performance?](https://nolanlawson.com/2021/08/15/does-shadow-dom-improve-style-performance/)
 
-- [New features in Neovim 0.5](https://lwn.net/Articles/864712/)
+- [Programming Idioms](https://programming-idioms.org/)
 
-- [Scanning “private” content](https://lwn.net/SubscriberLink/865756/a7f67aaa8ea52862/)
+- [Programming Idioms](https://programming-idioms.org/about#about-block-all-idioms)
 
-- [C++ Exceptions: Under the Hood](https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html)
+- [How to write fast Rust code](https://renato.athaydes.com/posts/how-to-write-fast-rust-code.html)
 
-- [PonderNet: Annotated PyTorch Implementation](https://nn.labml.ai/adaptive_computation/ponder_net/index.html)
+- [Why query planning for streaming systems is hard](https://scattered-thoughts.net/writing/why-query-planning-for-streaming-systems-is-hard)
 
-- [Low Bandwidth Images](https://opguides.info/posts/lowbandwidthimages/)
+- [What can be learned from studying long gone development practices?](https://shape-of-code.coding-guidelines.com/2021/08/01/what-can-be-learned-from-studying-long-gone-development-practices/)
 
-- [Packaging Con 2021: a conference for package management devs and communities](https://packaging-con.org/)
+- [How to prevent email spoofing, using an unholy combination of silly standards](https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc)
 
-- [The deceptive PR behind Apple’s “expanded protections for children”](https://piotr.is/2021/08/12/apple-csam/)
+- [SRE Case Study: Mysterious Traffic Imbalance](https://tech.ebayinc.com/engineering/sre-case-study-mysterious-traffic-imbalance/)
 
-- [Internet of Snitches](https://puri.sm/posts/internet-of-snitches/)
+- [MeiliSearch: A Minimalist Full-Text Search Engine](https://tech.marksblogg.com/meilisearch-full-text-search.html)
 
-- [Session switching with the tmux menu](https://qmacro.org/autodidactics/2021/08/12/session-switching-with-the-tmux-menu/)
+- [Debian 11 is being released](https://twitter.com/debian/status/1426446755109900293)
 
-- [C programming language extension: Cedro pre-processor](https://sentido-labs.com/en/library/cedro/202106171400/)
+- [The Bullshit](https://walterkirn.substack.com/p/the-bullshit)
 
-- [Intel C/C++ compilers complete adoption of LLVM](https://software.intel.com/content/www/us/en/develop/blogs/adoption-of-llvm-complete-icx.html)
+- [Email Authenticity 101: DKIM, Dmarc, and SPF](https://www.alexblackie.com/articles/email-authenticity-dkim-spf-dmarc/)
 
-- [EC2 boot time benchmarking](https://www.daemonology.net/blog/2021-08-12-EC2-boot-time-benchmarking.html)
+- [A Deep Dive into Kubernetes External Traffic Policies](https://www.asykim.com/blog/deep-dive-into-kubernetes-external-traffic-policies)
 
-- [The Myths of the Digital Native (2015)](https://www.geeklawblog.com/2015/10/the-myths-of-digital-native-part-1.html)
+- [Sri Lankan teenager builds solar-powered tuk-tuk from scraps [video]](https://www.bbc.co.uk/news/av/world-asia-58192468)
 
-- [The Strong Law of Small Numbers (1988) [pdf]](https://www.maa.org/sites/default/files/pdf/upload_library/22/Ford/Guy697-712.pdf)
+- [What domain name to use for your home network](https://www.ctrl.blog/entry/homenet-domain-name.html)
 
-- [Delta variant viral load similar in vaccinated and unvaccinated](https://www.nature.com/articles/d41586-021-02187-1)
+- [“San Jose Fire had an impossibly complex incident scene..” (2019)](https://www.facebook.com/groups/firebuffing/posts/715890382181744/)
 
-- [Suburban Dwelling: John Cheever was the bard of the backyard](https://www.neh.gov/article/suburban-dwelling)
+- [Rebase Considered Harmful](https://www.fossil-scm.org/home/doc/trunk/www/rebaseharm.md)
 
-- [TLDs -- Putting the 'Fun' in the top of the DNS](https://www.netmeister.org/blog/tlds.html)
+- [Namespaced De Bruijn indices](https://www.haskellforall.com/2021/08/namespaced-de-bruijn-indices.html)
 
-- [Reddit raises $410M in new funding](https://www.nytimes.com/2021/08/12/technology/reddit-new-funding.html)
+- [Thoughts On Lisp And Racket (2019)](https://www.macadie.net/2019/08/11/thoughts-on-lisp-and-racket/)
 
-- [Physicists Create a Bizarre ‘Wigner Crystal’ Made Purely of Electrons](https://www.quantamagazine.org/physicists-create-a-bizarre-wigner-crystal-made-purely-of-electrons-20210812/)
+- [Fernando Pessoa: Office Worker, Occultist, Galaxy of Writers](https://www.nytimes.com/2021/07/13/books/review/fernando-pessoa-biography-richard-zenith.html)
 
-- [Breaking the web forward](https://www.quirksmode.org/blog/archives/2021/08/breaking_the_we.html)
+- [Paperspace (YC W15) is hiring developers to build the future of MLOps](https://www.paperspace.com/careers)
 
-- [Apple's child protection features spark concern within its own ranks: sources](https://www.reuters.com/technology/exclusive-apples-child-protection-features-spark-concern-within-its-own-ranks-2021-08-12/)
+- [Introducing the PineNote](https://www.pine64.org/2021/08/15/introducing-the-pinenote/)
 
-- [Why SteamOS Switched from Debian to Arch Linux](https://www.rockpapershotgun.com/heres-why-steamos-switched-from-debian-to-arch-linux)
+- [T-Mobile investigating claims of 100M customer data breach](https://www.reuters.com/article/t-mobile-us-data/update-1-t-mobile-investigating-claims-of-customer-data-breach-idUSL1N2PM0K7)
 
-- [Little kids burn so much energy, they’re like a different species, study finds](https://www.sciencemag.org/news/2021/08/little-kids-burn-so-much-energy-they-re-different-species-study-finds)
+- [Veterans push for medical marijuana in conservative South](https://www.stripes.com/veterans/2021-08-15/veterans-push-medical-marijuana-us-south-2563514.html)
 
-- [Scientists urged Wisconsin to limit its wolf kill. It didn’t go well](https://www.sciencemag.org/news/2021/08/scientists-urged-wisconsin-limit-its-wolf-kill-it-didn-t-go-well)
+- [Sea snakes are washing up on New Zealand’s shores](https://www.theguardian.com/world/2021/aug/14/case-of-the-mystery-sea-snakes-why-are-reptiles-washing-up-on-new-zealands-shores)
 
-- [Huawei stole our tech and created a 'backdoor' to spy on Pakistan, claims IT biz](https://www.theregister.com/2021/08/13/huawei_accused_of_trade_secret/)
+- [Indian inventor dies in homemade helicopter accident](https://www.thenationalnews.com/world/asia/2021/08/12/indian-inventor-dies-in-homemade-helicopter-accident/)
 
-- [Creating a Space Game with OpenAI Codex](https://www.youtube.com/watch?v=Zm9B-DvwOgw)
+- [The Rooms Where It Happened](https://www.wilsonquarterly.com/quarterly/conflict-resolution/the-rooms-where-it-happened/)
+
+- [Carvana’s success rides on used-car loans](https://www.wsj.com/articles/carvanas-success-rides-on-used-car-loans-11629019801)
+
+- [OpenAI's Codex sure knows a lot about HN](https://www.youtube.com/watch?v=aneK0TUUAfA)
+
+- [How to avoid being hit by a laser in a room of mirrors [video]](https://www.youtube.com/watch?v=kDZzyi-EaLQ)
+
+- [Quick Intro to gdb](https://www.youtube.com/watch?v=xQ0ONbt-qPs)
+
+- [History of the evolution of the x86 platform, from the IBM PC to the modern era](https://zirblazer.github.io/htmlfiles/pc_evolution.html?ver=123)
