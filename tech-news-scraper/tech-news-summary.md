@@ -1,105 +1,101 @@
-- [A Deep Dive into Nanite Virtualized Geometry](http://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021_final.pdf)
+- [VisiCalc: Information from Its Creators, Dan Bricklin and Bob Frankston](http://danbricklin.com/visicalc.htm)
 
-- [SoundStream: An End-to-End Neural Audio Codec](http://ai.googleblog.com/2021/08/soundstream-end-to-end-neural-audio.html)
+- [Reverse-engineering a vintage power supply chip from die photos](http://www.righto.com/2021/08/reverse-engineering-vintage-power.html)
 
-- [You can list a directory containing 8M files, but not with ls](http://be-n.com/spw/you-can-list-a-million-files-in-a-directory-but-not-with-ls.html)
+- [A few simple tricks to tune your github actions runtime](https://abbbi.github.io/actions/)
 
-- [Tapedeck.org](http://tapedeck.org/)
+- [A Dyson sphere around a black hole](https://academic.oup.com/mnras/article-abstract/506/2/1723/6312510)
 
-- [Progress Report: August 2021 - Asahi Linux](https://asahilinux.org/2021/08/progress-report-august-2021/)
+- [Xerox Alto Emulator](https://archives.loomcom.com/contraltojs/)
 
-- [Reining in the thundering herd: Getting to 80% CPU utilization with Django](https://blog.clubhouse.com/reining-in-the-thundering-herd-with-django-and-gunicorn/)
+- [Not-a-Linux distro review: SerenityOS is a Unix-y love letter to the ’90s](https://arstechnica.com/gadgets/2021/08/not-a-linux-distro-review-serenityos-is-a-unix-y-love-letter-to-the-90s/)
 
-- [Thunderbird 91 Available Now](https://blog.thunderbird.net/2021/08/thunderbird-91-available-now/)
+- [B-Trees: More Than I Thought I'd Want to Know](https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/)
 
-- [Let's write a compiler, part 1: Introduction, selecting a language, and doing some planning](https://briancallahan.net/blog/20210814.html)
+- [Understanding Foreign Data Wrappers in Postgres and Postgres_fdw](https://blog.crunchydata.com/blog/understanding-postgres_fdw)
 
-- [Show HN: Burst – start a cloud server, run your code, turn it off](https://burstable.ai)
+- [C++20 Modules with GCC11](https://blog.feabhas.com/2021/08/c20-modules-with-gcc11/)
 
-- [Why is learning functional programming so damned hard? (2019)](https://cscalfani.medium.com/why-is-learning-functional-programming-so-damned-hard-bfd00202a7d1)
+- [Programming Language Fragility](https://cancel.fm/blog/2019-11/language-fragility/)
 
-- [Classical Data Structures That Can Outperform Learned Indexes](https://dawn.cs.stanford.edu//2018/01/11/index-baselines/)
+- [Review: Why FP Matters (Hughes)](https://cuddly-octo-palm-tree.com/posts/2021-03-07-review-whyfp/)
 
-- [Blackjack - Probabilities, Strategy, Card Counting - Calculation and Simulation](https://easylang.online/apps/tut_blackj.html)
+- [Elm at Rakuten](https://engineering.rakuten.today/post/elm-at-rakuten/)
 
-- [Carolyn Shoemaker has died](https://en.wikipedia.org/wiki/Carolyn_S._Shoemaker)
+- [Facebooks 'Widely Viewed Content' report is strange](https://ethanzuckerman.com/2021/08/18/i-read-facebooks-widely-viewed-content-report-its-really-strange/)
 
-- [The best books on assassinations](https://fivebooks.com/best-books/assassination-michael-burleigh/)
+- [Canada calls screen scraping ‘unsecure,’ sets Open Banking target for 2023](https://finledger.com/2021/08/09/canada-sets-open-banking-target-for-2023/)
 
-- [Scalene: a high-performance, high-precision CPU, GPU, and memory profiler](https://github.com/plasma-umass/scalene)
+- [Wgpu-0.10 released: WebGPU implementation now in pure Rust](https://gfx-rs.github.io/2021/08/18/release-0.10.html)
 
-- [React Renderer for Three.js](https://github.com/pmndrs/react-three-fiber)
+- [Hash collision in Apple NeuralHash model](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX/issues/1)
 
-- [atari64: Commodore 64 OS running on Atari 8-bit hardware](https://github.com/unbibium/atari64)
+- [Texas Hold'em Poker game in Clojure](https://github.com/DogLooksGood/holdem?)
 
-- [The Duke Mansion Mystery](https://heatinghelp.com/dead-men-tales/the-duke-mansion-mystery/)
+- [z3 made unreasonably easy](https://github.com/RocketRace/easy_z3)
 
-- [Loom: Project Loom Early-Access Builds](https://jdk.java.net/loom/)
+- [Show HN: Neural-hash-collider – make your own NeuralHash collisions](https://github.com/anishathalye/neural-hash-collider)
 
-- [Debian 11 "bullseye" released](https://lists.debian.org/debian-announce/2021/msg00004.html)
+- [Psst: Fast Spotify client with native GUI, without Electron, built in Rust](https://github.com/jpochyla/psst)
 
-- [DevOps Engineer Crash Course - Section 1](https://matduggan.com/devops-engineer-crash-course/)
+- [Show HN: I built an AI art installation at home generating new pieces on the fly](https://github.com/maxvfischer/DIY-ai-art)
 
-- [Does shadow DOM improve style performance?](https://nolanlawson.com/2021/08/15/does-shadow-dom-improve-style-performance/)
+- [coq_nvim: Fast nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization](https://github.com/ms-jpq/coq_nvim)
 
-- [Programming Idioms](https://programming-idioms.org/)
+- [JSON for Modern C++ version 3.10.0](https://github.com/nlohmann/json/releases/tag/v3.10.0)
 
-- [Programming Idioms](https://programming-idioms.org/about#about-block-all-idioms)
+- [GoKart: A static analysis tool for securing Go code](https://github.com/praetorian-inc/gokart)
 
-- [How to write fast Rust code](https://renato.athaydes.com/posts/how-to-write-fast-rust-code.html)
+- [Using a laser to blast away a Bayer filter array from a CCD](https://hackaday.com/2021/08/09/using-a-laser-to-blast-away-a-bayer-array/)
 
-- [Why query planning for streaming systems is hard](https://scattered-thoughts.net/writing/why-query-planning-for-streaming-systems-is-hard)
+- [Quick and dirty backpropagation in Haskell](https://mazzo.li/posts/haskell-backprop-short.html)
 
-- [What can be learned from studying long gone development practices?](https://shape-of-code.coding-guidelines.com/2021/08/01/what-can-be-learned-from-studying-long-gone-development-practices/)
+- [Designing Virtual Worlds [2003]](https://mud.co.uk/richard/DesigningVirtualWorlds.pdf)
 
-- [How to prevent email spoofing, using an unholy combination of silly standards](https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc)
+- [Richard Bartle releases his classic “Designing Virtual Worlds” book for free](https://nwn.blogs.com/nwn/2021/08/richard-bartle-designing-virtual-worlds-free-book.html)
 
-- [SRE Case Study: Mysterious Traffic Imbalance](https://tech.ebayinc.com/engineering/sre-case-study-mysterious-traffic-imbalance/)
+- [Show HN: Pop.com – pair programming with low-latency, Screenhero-style sharing](https://pop.com/home)
 
-- [MeiliSearch: A Minimalist Full-Text Search Engine](https://tech.marksblogg.com/meilisearch-full-text-search.html)
+- [Asking nicely for root command execution (and getting it)](https://rachelbythebay.com/w/2021/08/17/pop/)
 
-- [Debian 11 is being released](https://twitter.com/debian/status/1426446755109900293)
+- [Install NetBSD 9.2 on a DEC Alpha CPU in QEMU with X11](https://raymii.org/s/articles/NetBSD_on_QEMU_Alpha.html)
 
-- [The Bullshit](https://walterkirn.substack.com/p/the-bullshit)
+- [The IBM 1401 datacenter simulator - experience 1960's mainframe programming](https://rolffson.de/)
 
-- [Email Authenticity 101: DKIM, Dmarc, and SPF](https://www.alexblackie.com/articles/email-authenticity-dkim-spf-dmarc/)
+- [Data Lineage at Slack](https://slack.engineering/data-lineage-at-slack/)
 
-- [A Deep Dive into Kubernetes External Traffic Policies](https://www.asykim.com/blog/deep-dive-into-kubernetes-external-traffic-policies)
+- [It never had to be like this: the git "index"](https://sporks.space/2021/08/18/it-never-had-to-be-like-this-the-git-index/)
 
-- [Sri Lankan teenager builds solar-powered tuk-tuk from scraps [video]](https://www.bbc.co.uk/news/av/world-asia-58192468)
+- [Firefox 91 - Revert to old tab style](https://superuser.com/a/1669549/9067)
 
-- [What domain name to use for your home network](https://www.ctrl.blog/entry/homenet-domain-name.html)
+- [Why wild foxes led you to treasure in Skyrim](https://twitter.com/joelburgess/status/1428008043556622336)
 
-- [“San Jose Fire had an impossibly complex incident scene..” (2019)](https://www.facebook.com/groups/firebuffing/posts/715890382181744/)
+- [On Parsers](https://wiki.alopex.li/OnParsers)
 
-- [Rebase Considered Harmful](https://www.fossil-scm.org/home/doc/trunk/www/rebaseharm.md)
+- [Unlocking the Secrets of ‘Invisible’ Animals](https://www.atlasobscura.com/articles/invisible-animals)
 
-- [Namespaced De Bruijn indices](https://www.haskellforall.com/2021/08/namespaced-de-bruijn-indices.html)
+- [Awingu: Citrix, but Simpler and Cheaper](https://www.awingu.com/migrate-to-awingu/)
 
-- [Thoughts On Lisp And Racket (2019)](https://www.macadie.net/2019/08/11/thoughts-on-lisp-and-racket/)
+- [The Big Sleep: The most baffling film ever made?](https://www.bbc.com/culture/article/20210812-the-big-sleep-the-most-baffling-film-ever-made)
 
-- [Fernando Pessoa: Office Worker, Occultist, Galaxy of Writers](https://www.nytimes.com/2021/07/13/books/review/fernando-pessoa-biography-richard-zenith.html)
+- [It's Time to Retire the CSV](https://www.bitsondisk.com/writing/2021/retire-the-csv/)
 
-- [Paperspace (YC W15) is hiring developers to build the future of MLOps](https://www.paperspace.com/careers)
+- [Terrorist watchlist exposed via misconfigured Elasticsearch cluster](https://www.bleepingcomputer.com/news/security/secret-terrorist-watchlist-with-2-million-records-exposed-online/)
 
-- [Introducing the PineNote](https://www.pine64.org/2021/08/15/introducing-the-pinenote/)
+- [Finley (YC W21) is hiring fintech experts to transform debt capital management](https://www.finleycms.com/careers/)
 
-- [T-Mobile investigating claims of 100M customer data breach](https://www.reuters.com/article/t-mobile-us-data/update-1-t-mobile-investigating-claims-of-customer-data-breach-idUSL1N2PM0K7)
+- [NetBSD Explained: The Unix System That Can Run on Anything](https://www.makeuseof.com/what-is-netbsd/)
 
-- [Veterans push for medical marijuana in conservative South](https://www.stripes.com/veterans/2021-08-15/veterans-push-medical-marijuana-us-south-2563514.html)
+- [Policy groups ask Apple to drop plans to inspect messages, scan for abuse images](https://www.reuters.com/article/uk-apple-privacy/exclusive-policy-groups-ask-apple-to-drop-plans-to-inspect-imessages-scan-for-abuse-images-idUSKBN2FK09P)
 
-- [Sea snakes are washing up on New Zealand’s shores](https://www.theguardian.com/world/2021/aug/14/case-of-the-mystery-sea-snakes-why-are-reptiles-washing-up-on-new-zealands-shores)
+- [Reverse-engineering a vintage power supply chip from die photos](https://www.righto.com/2021/08/reverse-engineering-vintage-power.html)
 
-- [Indian inventor dies in homemade helicopter accident](https://www.thenationalnews.com/world/asia/2021/08/12/indian-inventor-dies-in-homemade-helicopter-accident/)
+- [SEC charges Netflix insider trading ring](https://www.sec.gov/news/press-release/2021-158)
 
-- [The Rooms Where It Happened](https://www.wilsonquarterly.com/quarterly/conflict-resolution/the-rooms-where-it-happened/)
+- [Apple defends anti-child abuse imagery tech after claims of ‘hash collisions’](https://www.vice.com/en/article/wx5yzq/apple-defends-its-anti-child-abuse-imagery-tech-after-claims-of-hash-collisions)
 
-- [Carvana’s success rides on used-car loans](https://www.wsj.com/articles/carvanas-success-rides-on-used-car-loans-11629019801)
+- [Virtualization for the Masses: Exposing KVM on Android](https://www.youtube.com/watch?v=edqJSzsDRxk)
 
-- [OpenAI's Codex sure knows a lot about HN](https://www.youtube.com/watch?v=aneK0TUUAfA)
+- [Go Workspaces Proposal Demo](https://www.youtube.com/watch?v=wQglU5aB5NQ)
 
-- [How to avoid being hit by a laser in a room of mirrors [video]](https://www.youtube.com/watch?v=kDZzyi-EaLQ)
-
-- [Quick Intro to gdb](https://www.youtube.com/watch?v=xQ0ONbt-qPs)
-
-- [History of the evolution of the x86 platform, from the IBM PC to the modern era](https://zirblazer.github.io/htmlfiles/pc_evolution.html?ver=123)
+- [Org habits on iOS? Check! Tasks, you're next](https://xenodium.com/org-habits-on-ios-check-tasks-youre-next/)
