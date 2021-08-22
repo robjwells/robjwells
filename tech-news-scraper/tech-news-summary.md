@@ -1,101 +1,101 @@
-- [VisiCalc: Information from Its Creators, Dan Bricklin and Bob Frankston](http://danbricklin.com/visicalc.htm)
+- [Lisp-1 vs Lisp-2](http://ergoemacs.org/emacs/lisp1_vs_lisp2.html)
 
-- [Reverse-engineering a vintage power supply chip from die photos](http://www.righto.com/2021/08/reverse-engineering-vintage-power.html)
+- [Pyret Programming Language](http://pyret.org/index.html)
 
-- [A few simple tricks to tune your github actions runtime](https://abbbi.github.io/actions/)
+- [Don’t starve, Diablo – Parallax 7 (2016)](http://simonschreibt.de/gat/dont-starve-diablo-parallax-7/)
 
-- [A Dyson sphere around a black hole](https://academic.oup.com/mnras/article-abstract/506/2/1723/6312510)
+- [The /bin/true Command and Copyright (2009)](http://trillian.mit.edu/~jc/humor/ATT_Copyright_true.html)
 
-- [Xerox Alto Emulator](https://archives.loomcom.com/contraltojs/)
+- [Perhaps WSL2 Should be a Wake-up Call](https://64k.space/perhaps-wsl2-should-be-a-wake-up-call.html)
 
-- [Not-a-Linux distro review: SerenityOS is a Unix-y love letter to the ’90s](https://arstechnica.com/gadgets/2021/08/not-a-linux-distro-review-serenityos-is-a-unix-y-love-letter-to-the-90s/)
+- [Benefits of not using an IDE](https://alexander-hansen.dev/blog/benefits-of-not-using-an-ide)
 
-- [B-Trees: More Than I Thought I'd Want to Know](https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/)
+- [VoidLinux in FreeBSD Jail; with init](https://antranigv.am/weblog_en/posts/2021-08-21-00-37/)
 
-- [Understanding Foreign Data Wrappers in Postgres and Postgres_fdw](https://blog.crunchydata.com/blog/understanding-postgres_fdw)
+- [Expert help needed to decode rare piece of space history: Lunokhod data tapes](https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece.html)
 
-- [C++20 Modules with GCC11](https://blog.feabhas.com/2021/08/c20-modules-with-gcc11/)
+- [Life before Unicode [in Russia]](https://baturin.org/blog/life-before-unicode/)
 
-- [Programming Language Fragility](https://cancel.fm/blog/2019-11/language-fragility/)
+- [Auto-correct Git commands](https://bhupesh.gitbook.io/notes/git/autocorrect-git-commands)
 
-- [Review: Why FP Matters (Hughes)](https://cuddly-octo-palm-tree.com/posts/2021-03-07-review-whyfp/)
+- [macOS 11's hidden security improvements](https://blog.malwarebytes.com/mac/2021/08/macos-11s-hidden-security-improvements/)
 
-- [Elm at Rakuten](https://engineering.rakuten.today/post/elm-at-rakuten/)
+- [How database indexing actually works internally?](https://blog.pankajtanwar.in/how-database-indexing-actually-works-internally)
 
-- [Facebooks 'Widely Viewed Content' report is strange](https://ethanzuckerman.com/2021/08/18/i-read-facebooks-widely-viewed-content-report-its-really-strange/)
+- [GitHub Issues-only project management](https://blog.placemark.io/2021/07/19/issues-only-management.html)
 
-- [Canada calls screen scraping ‘unsecure,’ sets Open Banking target for 2023](https://finledger.com/2021/08/09/canada-sets-open-banking-target-for-2023/)
+- [How Unicode helps to ruin your software](https://blog.typeable.io/posts/2021-08-17-unicode.html)
 
-- [Wgpu-0.10 released: WebGPU implementation now in pure Rust](https://gfx-rs.github.io/2021/08/18/release-0.10.html)
+- [Why do the children pretend play? [pdf]](https://ctheory.sitehost.iu.edu/img/Lillard,%20Why%20Do%20the%20Children%20(Pretend)%20Play.pdf)
 
-- [Hash collision in Apple NeuralHash model](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX/issues/1)
+- [We don't 'do' learning. It does us](https://danielbmarkham.com/we-dont-do-learning-we-direct-it/)
 
-- [Texas Hold'em Poker game in Clojure](https://github.com/DogLooksGood/holdem?)
+- [A Data-Centric Introduction to Computing](https://dcic-world.org/2021-08-21/part_intro.html#%28part._.Overview%29)
 
-- [z3 made unreasonably easy](https://github.com/RocketRace/easy_z3)
+- [Working in One Bit](https://dukope.itch.io/mars-after-midnight/devlog/285964/working-in-one-bit)
 
-- [Show HN: Neural-hash-collider – make your own NeuralHash collisions](https://github.com/anishathalye/neural-hash-collider)
+- [Airliner Number 4](https://en.wikipedia.org/wiki/Airliner_Number_4)
 
-- [Psst: Fast Spotify client with native GUI, without Electron, built in Rust](https://github.com/jpochyla/psst)
+- [DNA→RNA: What Do Students Think the Arrow Means? (2014)](https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC4041510&blobtype=pdf)
 
-- [Show HN: I built an AI art installation at home generating new pieces on the fly](https://github.com/maxvfischer/DIY-ai-art)
+- [How to Remember What You Read](https://fs.blog/2021/08/remember-books/)
 
-- [coq_nvim: Fast nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization](https://github.com/ms-jpq/coq_nvim)
+- [Let's Encrypt ACME DNS alias mode](https://github.com/acmesh-official/acme.sh/wiki/DNS-alias-mode)
 
-- [JSON for Modern C++ version 3.10.0](https://github.com/nlohmann/json/releases/tag/v3.10.0)
+- [IceFireDB: Distributed disk storage database based on Raft and Redis protocol](https://github.com/gitsrc/IceFireDB)
 
-- [GoKart: A static analysis tool for securing Go code](https://github.com/praetorian-inc/gokart)
+- [mojozork: Online, multiplayer Zork](https://github.com/icculus/mojozork)
 
-- [Using a laser to blast away a Bayer filter array from a CCD](https://hackaday.com/2021/08/09/using-a-laser-to-blast-away-a-bayer-array/)
+- [Generics enabled by default in Go tip](https://go-review.googlesource.com/c/go/+/343732/)
 
-- [Quick and dirty backpropagation in Haskell](https://mazzo.li/posts/haskell-backprop-short.html)
+- [Understanding Network Access in Windows AppContainers](https://googleprojectzero.blogspot.com/2021/08/understanding-network-access-windows-app.html)
 
-- [Designing Virtual Worlds [2003]](https://mud.co.uk/richard/DesigningVirtualWorlds.pdf)
+- [Adventures using and repairing an X131e laptop from 2011](https://halestrom.net/darksleep/blog/047_x131e_repair/)
 
-- [Richard Bartle releases his classic “Designing Virtual Worlds” book for free](https://nwn.blogs.com/nwn/2021/08/richard-bartle-designing-virtual-worlds-free-book.html)
+- [Schema on write is better to live by](https://hrishioa.github.io/schema-on-write-is-better-to-live-by/)
 
-- [Show HN: Pop.com – pair programming with low-latency, Screenhero-style sharing](https://pop.com/home)
+- [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
 
-- [Asking nicely for root command execution (and getting it)](https://rachelbythebay.com/w/2021/08/17/pop/)
+- [Why Peer Recognition Works Better Than Bonuses](https://lancengym.medium.com/why-peer-recognition-works-better-than-bonuses-731e63b652e0)
 
-- [Install NetBSD 9.2 on a DEC Alpha CPU in QEMU with X11](https://raymii.org/s/articles/NetBSD_on_QEMU_Alpha.html)
+- [The big-load anti-pattern](https://lemire.me/blog/2021/08/21/the-big-load-anti-pattern/)
 
-- [The IBM 1401 datacenter simulator - experience 1960's mainframe programming](https://rolffson.de/)
+- [Using Tree Structures with Pagination to build Folder Navigation](https://medium.com/frame-io-engineering/hierarchy-and-pagination-traversing-the-folder-tree-1ba641ec2ce7)
 
-- [Data Lineage at Slack](https://slack.engineering/data-lineage-at-slack/)
+- [Parser generators vs. handwritten parsers: surveying major languages in 2021](https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html)
 
-- [It never had to be like this: the git "index"](https://sporks.space/2021/08/18/it-never-had-to-be-like-this-the-git-index/)
+- [Data Wrangler](https://observablehq.com/@observablehq/data-wrangler)
 
-- [Firefox 91 - Revert to old tab style](https://superuser.com/a/1669549/9067)
+- [The story of ispc: origins (part 1)](https://pharr.org/matt/blog/2018/04/18/ispc-origins)
 
-- [Why wild foxes led you to treasure in Skyrim](https://twitter.com/joelburgess/status/1428008043556622336)
+- [Remote desktop on NetBSD with Xnest (no VNC)](https://raymii.org/s/articles/Remote_desktop_on_NetBSD_with_Xnest_no_VNC.html)
 
-- [On Parsers](https://wiki.alopex.li/OnParsers)
+- [Hypothetical Timing Attack on MariaDB Through Lobste.rs Password Reset](https://soatok.blog/2021/08/20/lobste-rs-password-reset-vulnerability/)
 
-- [Unlocking the Secrets of ‘Invisible’ Animals](https://www.atlasobscura.com/articles/invisible-animals)
+- [An Introduction to AI Story Generation](https://thegradient.pub/an-introduction-to-ai-story-generation/)
 
-- [Awingu: Citrix, but Simpler and Cheaper](https://www.awingu.com/migrate-to-awingu/)
+- [The Shadowy Business of International Education](https://thewalrus.ca/the-shadowy-business-of-international-education/)
 
-- [The Big Sleep: The most baffling film ever made?](https://www.bbc.com/culture/article/20210812-the-big-sleep-the-most-baffling-film-ever-made)
+- [Tikz.net – Graphics with TikZ in LaTeX](https://tikz.net/)
 
-- [It's Time to Retire the CSV](https://www.bitsondisk.com/writing/2021/retire-the-csv/)
+- [Long-haul symptoms affect majority of Covid-19 patients, UA study finds](https://tucson.com/news/local/subscriber/long-haul-symptoms-affect-majority-of-covid-19-patients-ua-study-finds/article_a6ae8c24-f9fe-11eb-b677-fb1f1eb2abfc.html)
 
-- [Terrorist watchlist exposed via misconfigured Elasticsearch cluster](https://www.bleepingcomputer.com/news/security/secret-terrorist-watchlist-with-2-million-records-exposed-online/)
+- [Modern web apps without JavaScript bundling or transpiling](https://world.hey.com/dhh/modern-web-apps-without-javascript-bundling-or-transpiling-a20f2755)
 
-- [Finley (YC W21) is hiring fintech experts to transform debt capital management](https://www.finleycms.com/careers/)
+- [How the world’s smelliest fruit could power your phone](https://www.bbc.com/future/article/20200724-the-battery-made-from-diamonds-that-could-last-1000-years)
 
-- [NetBSD Explained: The Unix System That Can Run on Anything](https://www.makeuseof.com/what-is-netbsd/)
+- [Intel Brings Chiplets to Data Center CPUs](https://www.eetimes.com/intel-brings-chiplets-to-data-center-cpus/#)
 
-- [Policy groups ask Apple to drop plans to inspect messages, scan for abuse images](https://www.reuters.com/article/uk-apple-privacy/exclusive-policy-groups-ask-apple-to-drop-plans-to-inspect-imessages-scan-for-abuse-images-idUSKBN2FK09P)
+- [An Opinionated Guide to Xargs](https://www.oilshell.org/blog/2021/08/xargs.html)
 
-- [Reverse-engineering a vintage power supply chip from die photos](https://www.righto.com/2021/08/reverse-engineering-vintage-power.html)
+- [Nightmare DX (Developer Experience): Shopify](https://www.silvestar.codes/articles/nightmare-dx-shopify/)
 
-- [SEC charges Netflix insider trading ring](https://www.sec.gov/news/press-release/2021-158)
+- [Strict Tables – Column type constraints in SQLite - Draft](https://www.sqlite.org/draft/stricttables.html)
 
-- [Apple defends anti-child abuse imagery tech after claims of ‘hash collisions’](https://www.vice.com/en/article/wx5yzq/apple-defends-its-anti-child-abuse-imagery-tech-after-claims-of-hash-collisions)
+- [Police helicopter's 100mph chase with 'super sophisticated' drone near Tucson](https://www.thedrive.com/the-war-zone/42021/radio-transmissions-from-police-helicopters-chase-of-bizarre-craft-over-tucson-add-to-mystery)
 
-- [Virtualization for the Masses: Exposing KVM on Android](https://www.youtube.com/watch?v=edqJSzsDRxk)
+- [Beware state surveillance of your lives – governments can change for the worse](https://www.theguardian.com/commentisfree/2021/aug/21/beware-state-surveillance-of-your-lives-governments-can-change-afghanistan)
 
-- [Go Workspaces Proposal Demo](https://www.youtube.com/watch?v=wQglU5aB5NQ)
+- [Google’s ‘Project Hug’ paid out huge sums to keep game devs in the Play Store](https://www.theverge.com/2021/8/19/22632818/google-project-hug-game-developers-play-store-millions-epic-lawsuit-complaint)
 
-- [Org habits on iOS? Check! Tasks, you're next](https://xenodium.com/org-habits-on-ios-check-tasks-youre-next/)
+- [The Beauty of Bézier Curves](https://www.youtube.com/watch?v=aVwxzDHniEw)
