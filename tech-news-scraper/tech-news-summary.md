@@ -1,101 +1,95 @@
-- [Lisp-1 vs Lisp-2](http://ergoemacs.org/emacs/lisp1_vs_lisp2.html)
+- [Soviet Moon Images](http://mentallandscape.com/C_CatalogMoon.htm)
 
-- [Pyret Programming Language](http://pyret.org/index.html)
+- [Angband in WASM](http://ridiculousfish.com/blog/posts/shelob-angband-in-wasm.html)
 
-- [Don’t starve, Diablo – Parallax 7 (2016)](http://simonschreibt.de/gat/dont-starve-diablo-parallax-7/)
+- [DOS haven : modern DOS games, new games for DOS](http://www.doshaven.eu/)
 
-- [The /bin/true Command and Copyright (2009)](http://trillian.mit.edu/~jc/humor/ATT_Copyright_true.html)
+- [Jeff Varasano's NY Pizza Recipe (2008)](http://www.varasanos.com/pizzarecipe.htm)
 
-- [Perhaps WSL2 Should be a Wake-up Call](https://64k.space/perhaps-wsl2-should-be-a-wake-up-call.html)
+- [Daily Rust: Iterators](https://adventures.michaelfbryan.com/posts/daily/iterators/)
 
-- [Benefits of not using an IDE](https://alexander-hansen.dev/blog/benefits-of-not-using-an-ide)
+- [Using Emacs in an IDE world](https://andrewjudson.com/emacs/2021/08/23/emacs.html)
 
-- [VoidLinux in FreeBSD Jail; with init](https://antranigv.am/weblog_en/posts/2021-08-21-00-37/)
+- [InitWare (a systemd fork) has been ported to MacOS](https://anetbsduser.wordpress.com/2021/08/24/initware-comes-to-macos/)
 
-- [Expert help needed to decode rare piece of space history: Lunokhod data tapes](https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece.html)
+- [An epic treatise on scheduling, bug tracking, and triage (2017)](https://apenwarr.ca/log/20171213)
 
-- [Life before Unicode [in Russia]](https://baturin.org/blog/life-before-unicode/)
+- [The Principles Underlying Radio Communication](https://archive.org/details/principlesunderl00unitrich)
 
-- [Auto-correct Git commands](https://bhupesh.gitbook.io/notes/git/autocorrect-git-commands)
+- [How Discord Stores Billions of Messages (2017)](https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7)
 
-- [macOS 11's hidden security improvements](https://blog.malwarebytes.com/mac/2021/08/macos-11s-hidden-security-improvements/)
+- [The Search for a Free/Open Source Mobile Operating System](https://blog.emacsen.net/blog/2021/08/23/floss-mobile-os-aug-2021/)
 
-- [How database indexing actually works internally?](https://blog.pankajtanwar.in/how-database-indexing-actually-works-internally)
+- [A Brief Introduction to termios (2009)](https://blog.nelhage.com/2009/12/a-brief-introduction-to-termios/)
 
-- [GitHub Issues-only project management](https://blog.placemark.io/2021/07/19/issues-only-management.html)
+- [Welcoming our first riders in San Francisco](https://blog.waymo.com/2021/08/welcoming-our-first-riders-in-san.html)
 
-- [How Unicode helps to ruin your software](https://blog.typeable.io/posts/2021-08-17-unicode.html)
+- [Efficient Tree-Traversals: Reconciling Parallelism and Dense Data Representations](https://dl.acm.org/doi/pdf/10.1145/3473596)
 
-- [Why do the children pretend play? [pdf]](https://ctheory.sitehost.iu.edu/img/Lillard,%20Why%20Do%20the%20Children%20(Pretend)%20Play.pdf)
+- [An Introduction to JQ](https://earthly.dev/blog/jq-select/)
 
-- [We don't 'do' learning. It does us](https://danielbmarkham.com/we-dont-do-learning-we-direct-it/)
+- [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/)
 
-- [A Data-Centric Introduction to Computing](https://dcic-world.org/2021-08-21/part_intro.html#%28part._.Overview%29)
+- [Sputnik V: fraudulent clinical trial data](https://forbetterscience.com/2021/08/24/sputnik-v-fraudulent-халтура/)
 
-- [Working in One Bit](https://dukope.itch.io/mars-after-midnight/devlog/285964/working-in-one-bit)
+- [The most underused browser feature](https://frankgroeneveld.nl/2021/08/24/most-underused-browser-feature/)
 
-- [Airliner Number 4](https://en.wikipedia.org/wiki/Airliner_Number_4)
+- [Ement.el: A Matrix client for Emacs](https://github.com/alphapapa/ement.el)
 
-- [DNA→RNA: What Do Students Think the Arrow Means? (2014)](https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC4041510&blobtype=pdf)
+- [SQLModel – SQL Databases in FastAPI](https://github.com/tiangolo/sqlmodel)
 
-- [How to Remember What You Read](https://fs.blog/2021/08/remember-books/)
+- [Nitter: Alternative Twitter Front-End](https://github.com/zedeus/nitter)
 
-- [Let's Encrypt ACME DNS alias mode](https://github.com/acmesh-official/acme.sh/wiki/DNS-alias-mode)
+- [Typed DSL in Go (or sum types and GADTs in Go)](https://groups.google.com/g/golang-nuts/c/81MlWAgkXd8/m/b0JC2l70BwAJ)
 
-- [IceFireDB: Distributed disk storage database based on Raft and Redis protocol](https://github.com/gitsrc/IceFireDB)
+- [Home Lab Hardware Guide](https://haydenjames.io/home-lab-beginners)
 
-- [mojozork: Online, multiplayer Zork](https://github.com/icculus/mojozork)
+- [Volley (YC W18) is hiring 12 roles in SF – “Netflix of Voice”](https://jobs.lever.co/volleythat)
 
-- [Generics enabled by default in Go tip](https://go-review.googlesource.com/c/go/+/343732/)
+- [My Journey With SerenityOS, So Far](https://linus.dev/posts/my-journey-with-serenityos/)
 
-- [Understanding Network Access in Windows AppContainers](https://googleprojectzero.blogspot.com/2021/08/understanding-network-access-windows-app.html)
+- [Hiding Images in Plain Sight: The Physics Of Magic Windows](https://mattferraro.dev/posts/caustics-engineering)
 
-- [Adventures using and repairing an X131e laptop from 2011](https://halestrom.net/darksleep/blog/047_x131e_repair/)
+- [Nelua Programming Language](https://nelua.io/)
 
-- [Schema on write is better to live by](https://hrishioa.github.io/schema-on-write-is-better-to-live-by/)
+- [Samsung remotely disables TVs looted from South African warehouse](https://news.samsung.com/za/samsung-supports-retailers-affected-by-looting-with-innovative-television-block-function)
 
-- [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
+- [Hacking a Polish TTS to (mostly) speak Esperanto](https://parol.martinrue.com)
 
-- [Why Peer Recognition Works Better Than Bonuses](https://lancengym.medium.com/why-peer-recognition-works-better-than-bonuses-731e63b652e0)
+- [I turned on CSP and all I got was this crappy lawsuit](https://scotthelme.co.uk/i-turned-on-csp-and-all-i-got-was-this-crappy-lawsuit/)
 
-- [The big-load anti-pattern](https://lemire.me/blog/2021/08/21/the-big-load-anti-pattern/)
+- [Programmers Don’t Understand Hash Functions](https://soatok.blog/2021/08/24/programmers-dont-understand-hash-functions/)
 
-- [Using Tree Structures with Pagination to build Folder Navigation](https://medium.com/frame-io-engineering/hierarchy-and-pagination-traversing-the-folder-tree-1ba641ec2ce7)
+- [Track changes in Excel, Word, PowerPoint, PDFs, Images & Videos with Git](https://tech.marksblogg.com/git-track-changes-in-media-office-documents.html)
 
-- [Parser generators vs. handwritten parsers: surveying major languages in 2021](https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html)
+- [Apple's bizarre crackdown on multicast](https://thomask.sdf.org/blog/2021/08/24/apples-bizarre-crackdown-on-multicast.html)
 
-- [Data Wrangler](https://observablehq.com/@observablehq/data-wrangler)
+- [Intel’s Thread Director: Assisting the OS to make task placement decisions](https://www.anandtech.com/show/16881/a-deep-dive-into-intels-alder-lake-microarchitectures/2)
 
-- [The story of ispc: origins (part 1)](https://pharr.org/matt/blog/2018/04/18/ispc-origins)
+- [Two perspectives on a designer who Steve Jobs could not hire](https://www.arun.is/blog/richard-sapper/)
 
-- [Remote desktop on NetBSD with Xnest (no VNC)](https://raymii.org/s/articles/Remote_desktop_on_NetBSD_with_Xnest_no_VNC.html)
+- [Airbnb offers free accommodation for 20k Afghan refugees](https://www.bbc.com/news/business-58315378)
 
-- [Hypothetical Timing Attack on MariaDB Through Lobste.rs Password Reset](https://soatok.blog/2021/08/20/lobste-rs-password-reset-vulnerability/)
+- [Razer bug lets you become a Windows 10 admin by plugging in a mouse](https://www.bleepingcomputer.com/news/security/razer-bug-lets-you-become-a-windows-10-admin-by-plugging-in-a-mouse/)
 
-- [An Introduction to AI Story Generation](https://thegradient.pub/an-introduction-to-ai-story-generation/)
+- [Why WebKit supports AVIF but Safari does not](https://www.coywolf.news/webmaster/why-webkit-supports-avif-but-safari-does-not/)
 
-- [The Shadowy Business of International Education](https://thewalrus.ca/the-shadowy-business-of-international-education/)
+- [Old iPhones become faster if you change the region to France](https://www.gizchina.com/2021/08/23/old-iphones-become-faster-if-you-change-the-region-to-france/)
 
-- [Tikz.net – Graphics with TikZ in LaTeX](https://tikz.net/)
+- [Locality Sensitive Hashing (LSH): Practical and Illustrated Guide](https://www.pinecone.io/learn/locality-sensitive-hashing/)
 
-- [Long-haul symptoms affect majority of Covid-19 patients, UA study finds](https://tucson.com/news/local/subscriber/long-haul-symptoms-affect-majority-of-covid-19-patients-ua-study-finds/article_a6ae8c24-f9fe-11eb-b677-fb1f1eb2abfc.html)
+- [QEMU Version 6.1.0 Released](https://www.qemu.org/2021/08/24/qemu-6-1-0/)
 
-- [Modern web apps without JavaScript bundling or transpiling](https://world.hey.com/dhh/modern-web-apps-without-javascript-bundling-or-transpiling-a20f2755)
+- [Mental phenomena don’t map into the brain as expected](https://www.quantamagazine.org/mental-phenomena-dont-map-into-the-brain-as-expected-20210824/)
 
-- [How the world’s smelliest fruit could power your phone](https://www.bbc.com/future/article/20200724-the-battery-made-from-diamonds-that-could-last-1000-years)
+- [Twitter starts to require login to view tweets](https://www.reddit.com/r/DataHoarder/comments/pa6dra/twitter_starts_to_require_login_to_view_tweets/)
 
-- [Intel Brings Chiplets to Data Center CPUs](https://www.eetimes.com/intel-brings-chiplets-to-data-center-cpus/#)
+- [SQL vs. NoSQL Is the Wrong Distinction](https://www.softwareatscale.dev/p/sql-vs-nosql-is-the-wrong-distinction)
 
-- [An Opinionated Guide to Xargs](https://www.oilshell.org/blog/2021/08/xargs.html)
+- [How the Index Card Catalogued the World (2017)](https://www.theatlantic.com/technology/archive/2017/12/how-the-index-card-catalogued-the-world/547271/)
 
-- [Nightmare DX (Developer Experience): Shopify](https://www.silvestar.codes/articles/nightmare-dx-shopify/)
+- [Why it's not possible to synchronize turn signals (but also absolutely is)](https://www.youtube.com/watch?v=2z5A-COlDPk)
 
-- [Strict Tables – Column type constraints in SQLite - Draft](https://www.sqlite.org/draft/stricttables.html)
+- [Noam Chomsky – Startup Culture](https://www.youtube.com/watch?v=6jhwA1vLEpU)
 
-- [Police helicopter's 100mph chase with 'super sophisticated' drone near Tucson](https://www.thedrive.com/the-war-zone/42021/radio-transmissions-from-police-helicopters-chase-of-bizarre-craft-over-tucson-add-to-mystery)
-
-- [Beware state surveillance of your lives – governments can change for the worse](https://www.theguardian.com/commentisfree/2021/aug/21/beware-state-surveillance-of-your-lives-governments-can-change-afghanistan)
-
-- [Google’s ‘Project Hug’ paid out huge sums to keep game devs in the Play Store](https://www.theverge.com/2021/8/19/22632818/google-project-hug-game-developers-play-store-millions-epic-lawsuit-complaint)
-
-- [The Beauty of Bézier Curves](https://www.youtube.com/watch?v=aVwxzDHniEw)
+- [Googlespeak – How Google limits thought about antitrust](https://zyppy.com/googlespeak/)
