@@ -1,95 +1,97 @@
-- [Soviet Moon Images](http://mentallandscape.com/C_CatalogMoon.htm)
+- [Technical explanation of the Québec vaccination passport](http://len.falken.ink/misc/smart-health-card.txt)
 
-- [Angband in WASM](http://ridiculousfish.com/blog/posts/shelob-angband-in-wasm.html)
+- [there is no such thing as a “glibc based alpine image”](https://ariadne.space/2021/08/26/there-is-no-such-thing-as-a-glibc-based-alpine-image/)
 
-- [DOS haven : modern DOS games, new games for DOS](http://www.doshaven.eu/)
+- [Pin, Unpin, and why Rust needs them](https://blog.cloudflare.com/pin-and-unpin-in-rust/)
 
-- [Jeff Varasano's NY Pizza Recipe (2008)](http://www.varasanos.com/pizzarecipe.htm)
+- [Why are hyperlinks blue?](https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/)
 
-- [Daily Rust: Iterators](https://adventures.michaelfbryan.com/posts/daily/iterators/)
+- [NetBSD wifi project status update](https://blog.netbsd.org/tnf/entry/wifi_project_status_update)
 
-- [Using Emacs in an IDE world](https://andrewjudson.com/emacs/2021/08/23/emacs.html)
+- [Linux in a Pixel Shader - A RISC-V Emulator for VRChat](https://blog.pimaker.at/texts/rvc1/)
 
-- [InitWare (a systemd fork) has been ported to MacOS](https://anetbsduser.wordpress.com/2021/08/24/initware-comes-to-macos/)
+- [Zero Shot Object Tracking](https://blog.roboflow.com/zero-shot-object-tracking/)
 
-- [An epic treatise on scheduling, bug tracking, and triage (2017)](https://apenwarr.ca/log/20171213)
+- [Recent and not so recent changes in OpenBSD](https://bsdly.blogspot.com/2021/08/recent-and-not-so-recent-changes-in.html)
 
-- [The Principles Underlying Radio Communication](https://archive.org/details/principlesunderl00unitrich)
+- [A Kubernetes engineer's guide to mTLS](https://buoyant.io/mtls-guide/)
 
-- [How Discord Stores Billions of Messages (2017)](https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7)
+- [Chicago Sues Grubhub and DoorDash for Allegedly Scamming Basically Everyone](https://chicago.eater.com/2021/8/27/22644787/chicago-grubhub-doordash-lawsuit-third-party-delivery)
 
-- [The Search for a Free/Open Source Mobile Operating System](https://blog.emacsen.net/blog/2021/08/23/floss-mobile-os-aug-2021/)
+- [Some Reasons to Measure](https://danluu.com/why-benchmark/)
 
-- [A Brief Introduction to termios (2009)](https://blog.nelhage.com/2009/12/a-brief-introduction-to-termios/)
+- [Fastest table sort in the West – Redesigning DuckDB's sort](https://duckdb.org/2021/08/27/external-sorting.html)
 
-- [Welcoming our first riders in San Francisco](https://blog.waymo.com/2021/08/welcoming-our-first-riders-in-san.html)
+- [FreeBSD Journal - July/August 2021 - Desktop/Wireless](https://freebsdfoundation.org/past-issues/desktop-wireless/)
 
-- [Efficient Tree-Traversals: Reconciling Parallelism and Dense Data Representations](https://dl.acm.org/doi/pdf/10.1145/3473596)
+- [jsc: My New Best Friend • furbo.org](https://furbo.org/2021/08/25/jsc-my-new-best-friend/)
 
-- [An Introduction to JQ](https://earthly.dev/blog/jq-select/)
+- [The Future of discord.py](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1)
 
-- [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/)
+- [prettymaps: A small set of Python functions to draw pretty maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps)
 
-- [Sputnik V: fraudulent clinical trial data](https://forbetterscience.com/2021/08/24/sputnik-v-fraudulent-халтура/)
+- [Nimforum: Lightweight alternative to Discourse written in Nim](https://github.com/nim-lang/nimforum)
 
-- [The most underused browser feature](https://frankgroeneveld.nl/2021/08/24/most-underused-browser-feature/)
+- [The Hidden Skill and Art of Naming Things](https://gos.si/blog/the-hidden-skill-and-art-of-naming-things/)
 
-- [Ement.el: A Matrix client for Emacs](https://github.com/alphapapa/ement.el)
+- [Show HN: I made a meme creator that makes around $4k a month](https://metameme.app/)
 
-- [SQLModel – SQL Databases in FastAPI](https://github.com/tiangolo/sqlmodel)
+- [The Electromagnetic Force of Fridge Magnets](https://nautil.us/issue/104/harmony/the-electromagnetic-force-of-fridge-magnets)
 
-- [Nitter: Alternative Twitter Front-End](https://github.com/zedeus/nitter)
+- [I hacked an office telephone to play DOOM](https://neilbostian.github.io/#/doomphone)
 
-- [Typed DSL in Go (or sum types and GADTs in Go)](https://groups.google.com/g/golang-nuts/c/81MlWAgkXd8/m/b0JC2l70BwAJ)
+- [Agile Workplace](https://newleftreview.org/sidecar/posts/agile-workplace)
 
-- [Home Lab Hardware Guide](https://haydenjames.io/home-lab-beginners)
+- [Writing a simple JSON library from scratch: a tour through modern C++](https://notes.eatonphil.com/writing-a-simple-json-library-in-modern-cpp.html)
 
-- [Volley (YC W18) is hiring 12 roles in SF – “Netflix of Voice”](https://jobs.lever.co/volleythat)
+- [Mental health impacts of a Big Tech job](https://oilyraincloud.com/2021/08/16/mental-health-impacts-of-a-big-tech-job/)
 
-- [My Journey With SerenityOS, So Far](https://linus.dev/posts/my-journey-with-serenityos/)
+- [Overuse of the word “the” in “Macbeth”](https://onezero.medium.com/how-data-science-pinpointed-the-creepiest-word-in-macbeth-3150995d3808)
 
-- [Hiding Images in Plain Sight: The Physics Of Magic Windows](https://mattferraro.dev/posts/caustics-engineering)
+- [How does Google Authenticator work?](https://prezu.ca/post/2021-07-30-totp-1/)
 
-- [Nelua Programming Language](https://nelua.io/)
+- [Turning satellite imagery into wall art](https://ramblemaps.com/turning-satellite-imagery-into-wall-art)
 
-- [Samsung remotely disables TVs looted from South African warehouse](https://news.samsung.com/za/samsung-supports-retailers-affected-by-looting-with-innovative-television-block-function)
+- [Install NetBSD 9.2 on a DEC Alpha CPU with AXPBox](https://raymii.org/s/articles/NetBSD_Alpha_AXPbox.html)
 
-- [Hacking a Polish TTS to (mostly) speak Esperanto](https://parol.martinrue.com)
+- [An error message if you put more than 2^24 items in a JS Map object](https://searchvoidstar.tumblr.com/post/659634228574715904/an-amazing-error-message-if-you-put-more-than-2-24)
 
-- [I turned on CSP and all I got was this crappy lawsuit](https://scotthelme.co.uk/i-turned-on-csp-and-all-i-got-was-this-crappy-lawsuit/)
+- [The 74,000 numbers of Barclays Bank](https://shkspr.mobi/blog/2021/05/the-74000-numbers-of-barclays-bank/)
 
-- [Programmers Don’t Understand Hash Functions](https://soatok.blog/2021/08/24/programmers-dont-understand-hash-functions/)
+- [I believe California is the dumping ground for America's homeless problem](https://streetlifesolutions.blogspot.com/2021/08/i-believe-california-is-dumping-ground.html)
 
-- [Track changes in Excel, Word, PowerPoint, PDFs, Images & Videos with Git](https://tech.marksblogg.com/git-track-changes-in-media-office-documents.html)
+- [IPv4 vs. IPv6 FAQ](https://tailscale.com/kb/1134/ipv6-faq/)
 
-- [Apple's bizarre crackdown on multicast](https://thomask.sdf.org/blog/2021/08/24/apples-bizarre-crackdown-on-multicast.html)
+- [Buoyant wants to solve middle-mile delivery with cargo airships](https://techcrunch.com/2021/08/27/yc-grad-buoyant-wants-to-solve-middle-mile-delivery-with-cargo-airships/)
 
-- [Intel’s Thread Director: Assisting the OS to make task placement decisions](https://www.anandtech.com/show/16881/a-deep-dive-into-intels-alder-lake-microarchitectures/2)
+- [A Vim Guide For Experts](https://thevaluable.dev/vim-expert/)
 
-- [Two perspectives on a designer who Steve Jobs could not hire](https://www.arun.is/blog/richard-sapper/)
+- [The Problem of Effects (2020)](https://without.boats/blog/the-problem-of-effects/)
 
-- [Airbnb offers free accommodation for 20k Afghan refugees](https://www.bbc.com/news/business-58315378)
+- [UK loses 83% of department stores since BHS collapsed](https://www.bbc.com/news/business-58331168)
 
-- [Razer bug lets you become a Windows 10 admin by plugging in a mouse](https://www.bleepingcomputer.com/news/security/razer-bug-lets-you-become-a-windows-10-admin-by-plugging-in-a-mouse/)
+- [Woman ordered to pay $30K for defamation by BC Supreme Court for online review](https://www.cbc.ca/news/canada/british-columbia/woman-ordered-to-pay-30k-in-damages-for-negative-breast-implant-review-1.6156240)
 
-- [Why WebKit supports AVIF but Safari does not](https://www.coywolf.news/webmaster/why-webkit-supports-avif-but-safari-does-not/)
+- [Hashing Techniques: A Survey and Taxonomy (2017)](https://www.cse.fau.edu/~xqzhu/papers/ACS.Chi.2017.Hashing.pdf)
 
-- [Old iPhones become faster if you change the region to France](https://www.gizchina.com/2021/08/23/old-iphones-become-faster-if-you-change-the-region-to-france/)
+- [Why San Francisco’s city government is so dysfunctional](https://www.economist.com/united-states/2021/08/28/why-san-franciscos-city-government-is-so-dysfunctional)
 
-- [Locality Sensitive Hashing (LSH): Practical and Illustrated Guide](https://www.pinecone.io/learn/locality-sensitive-hashing/)
+- [The Dresden Job](https://www.gq.com/story/the-dresden-job)
 
-- [QEMU Version 6.1.0 Released](https://www.qemu.org/2021/08/24/qemu-6-1-0/)
+- [Perceptual hash algorithms](https://www.hackerfactor.com/blog/?/archives/432-Looks-Like-It.html)
 
-- [Mental phenomena don’t map into the brain as expected](https://www.quantamagazine.org/mental-phenomena-dont-map-into-the-brain-as-expected-20210824/)
+- [Karl Menger's Vienna Colloquium (1927-38)](https://www.hetwebsite.net/het/schools/vienna.htm)
 
-- [Twitter starts to require login to view tweets](https://www.reddit.com/r/DataHoarder/comments/pa6dra/twitter_starts_to_require_login_to_view_tweets/)
+- [Human Dx is hiring part-time community/growth team members](https://www.humandx.org/team?gh_jid=4859261002)
 
-- [SQL vs. NoSQL Is the Wrong Distinction](https://www.softwareatscale.dev/p/sql-vs-nosql-is-the-wrong-distinction)
+- [App store payments will have increased competition](https://www.kalzumeus.com/2021/08/27/app-store-payment-competition/)
 
-- [How the Index Card Catalogued the World (2017)](https://www.theatlantic.com/technology/archive/2017/12/how-the-index-card-catalogued-the-world/547271/)
+- [When correlation is better than causation](https://www.narrator.ai/blog/when-correlation-is-better-than-causation/)
 
-- [Why it's not possible to synchronize turn signals (but also absolutely is)](https://www.youtube.com/watch?v=2z5A-COlDPk)
+- [The Evolution of Smalltalk from Smalltalk-72 to Squeak [video]](https://www.pldi21.org/prerecorded_hopl.17.html)
 
-- [Noam Chomsky – Startup Culture](https://www.youtube.com/watch?v=6jhwA1vLEpU)
+- [Brussels battles old prejudices as it frees unloved river from its vault](https://www.theguardian.com/world/2021/aug/27/brussels-battles-old-prejudices-as-it-frees-unloved-river-senne-from-its-vault)
 
-- [Googlespeak – How Google limits thought about antitrust](https://zyppy.com/googlespeak/)
+- [Utilizing msg_msg Objects for Arbitrary Read and Arbitrary Write in the Linux Kernel](https://www.willsroot.io/2021/08/corctf-2021-fire-of-salvation-writeup.html)
+
+- [ICFP 2021 - OCaml Workshop Live Stream](https://www.youtube.com/watch?v=SJXaY3nlMss)
