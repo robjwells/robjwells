@@ -1,97 +1,103 @@
-- [Technical explanation of the Québec vaccination passport](http://len.falken.ink/misc/smart-health-card.txt)
+- [Fibonacci Sphere](http://extremelearning.com.au/how-to-evenly-distribute-points-on-a-sphere-more-effectively-than-the-canonical-fibonacci-lattice/)
 
-- [there is no such thing as a “glibc based alpine image”](https://ariadne.space/2021/08/26/there-is-no-such-thing-as-a-glibc-based-alpine-image/)
+- [Navajo Water Project](http://uswateralliance.org/organization/navajo-water-project)
 
-- [Pin, Unpin, and why Rust needs them](https://blog.cloudflare.com/pin-and-unpin-in-rust/)
+- [Implementing a class with void*](http://web.eecs.utk.edu/~jplank/plank/classes/cs140/Notes/Running_Times/voidstar.html)
 
-- [Why are hyperlinks blue?](https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/)
+- [FCC Temporary Waiver Permits Higher Symbol Rate Data for Hurricane Ida Traffic](http://www.arrl.org/news/view/fcc-grants-temporary-waiver-to-permit-higher-symbol-rate-data-transmissions-for-hurricane-ida-traffi)
 
-- [NetBSD wifi project status update](https://blog.netbsd.org/tnf/entry/wifi_project_status_update)
+- [Hexagonal architecture in Rust #1](https://alexis-lozano.com/hexagonal-architecture-in-rust-1/)
 
-- [Linux in a Pixel Shader - A RISC-V Emulator for VRChat](https://blog.pimaker.at/texts/rvc1/)
+- [Transient Execution of Non-Canonical Accesses](https://arxiv.org/ftp/arxiv/papers/2108/2108.10771.pdf)
 
-- [Zero Shot Object Tracking](https://blog.roboflow.com/zero-shot-object-tracking/)
+- [An Analysis of Feed URLs](https://blog.jim-nielsen.com/2021/feed-urls/)
 
-- [Recent and not so recent changes in OpenBSD](https://bsdly.blogspot.com/2021/08/recent-and-not-so-recent-changes-in.html)
+- [Async Overloading](https://blog.yoshuawuyts.com/async-overloading/)
 
-- [A Kubernetes engineer's guide to mTLS](https://buoyant.io/mtls-guide/)
+- [SnapEDA (YC S15) is hiring devs to improve electronic component sourcing](https://careers.snapeda.com/)
 
-- [Chicago Sues Grubhub and DoorDash for Allegedly Scamming Basically Everyone](https://chicago.eater.com/2021/8/27/22644787/chicago-grubhub-doordash-lawsuit-third-party-delivery)
+- [The quick and simple editor for cron schedule expressions](https://crontab.guru/)
 
-- [Some Reasons to Measure](https://danluu.com/why-benchmark/)
+- [Data-first API design](https://cuddly-octo-palm-tree.com/posts/2021-08-29-data-api/)
 
-- [Fastest table sort in the West – Redesigning DuckDB's sort](https://duckdb.org/2021/08/27/external-sorting.html)
+- [Empty Epsilon: a fully open-source spaceship bridge simulator game](https://daid.github.io/EmptyEpsilon/)
 
-- [FreeBSD Journal - July/August 2021 - Desktop/Wireless](https://freebsdfoundation.org/past-issues/desktop-wireless/)
+- [Remind – a sophisticated calendar and alarm program](https://dianne.skoll.ca/projects/remind/)
 
-- [jsc: My New Best Friend • furbo.org](https://furbo.org/2021/08/25/jsc-my-new-best-friend/)
+- [Dotplan Online: A modern, decentralized re-imagining of the Unix plan file](https://dotplan.online)
 
-- [The Future of discord.py](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1)
+- [Installation of M-13 (“Katyusha”)](https://en.missilery.info/missile/bm13)
 
-- [prettymaps: A small set of Python functions to draw pretty maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps)
+- [Monkey: the satirical Go package used unwittingly by Arduino and SalesForce](https://esoteric.codes/blog/bouk-monkey-satirical-code-used-by-people-who-dont-get-the-joke)
 
-- [Nimforum: Lightweight alternative to Discourse written in Nim](https://github.com/nim-lang/nimforum)
+- [Skybison, Instagram's experimental performance oriented greenfield implementation of Python](https://github.com/facebookexperimental/skybison)
 
-- [The Hidden Skill and Art of Naming Things](https://gos.si/blog/the-hidden-skill-and-art-of-naming-things/)
+- [Show HN: Blur Webcam Background on Linux](https://github.com/jashandeep-sohi/webcam-filters)
 
-- [Show HN: I made a meme creator that makes around $4k a month](https://metameme.app/)
+- [Go Find Duplicates: A fast and simple tool to find duplicate files](https://github.com/m-manu/go-find-duplicates)
 
-- [The Electromagnetic Force of Fridge Magnets](https://nautil.us/issue/104/harmony/the-electromagnetic-force-of-fridge-magnets)
+- [htsget-rs: Bioinformatic file formats accessible to the web](https://github.com/umccr/htsget-rs)
 
-- [I hacked an office telephone to play DOOM](https://neilbostian.github.io/#/doomphone)
+- [Generic engine to evaluate logical circuits on homomorphic encryption](https://github.com/virtualsecureplatform/Iyokan)
 
-- [Agile Workplace](https://newleftreview.org/sidecar/posts/agile-workplace)
+- [zkat/miette: Fancy upgrade to std: :Error](https://github.com/zkat/miette)
 
-- [Writing a simple JSON library from scratch: a tour through modern C++](https://notes.eatonphil.com/writing-a-simple-json-library-in-modern-cpp.html)
+- [You Could Have Invented De Bruijn Indices](https://golem.ph.utexas.edu/category/2021/08/you_could_have_invented_de_bru.html)
 
-- [Mental health impacts of a Big Tech job](https://oilyraincloud.com/2021/08/16/mental-health-impacts-of-a-big-tech-job/)
+- [Freeing Your Goats](https://hyperthings.garden/posts/2021-08-30/freeing-your-goats.html)
 
-- [Overuse of the word “the” in “Macbeth”](https://onezero.medium.com/how-data-science-pinpointed-the-creepiest-word-in-macbeth-3150995d3808)
+- [STOP WAITING FOR GODOT](https://itch.io/jam/stop-waiting-for-godot)
 
-- [How does Google Authenticator work?](https://prezu.ca/post/2021-07-30-totp-1/)
+- [DevOps Crash Course - Section 2: Servers](https://matduggan.com/devops-crash-course-section-2/)
 
-- [Turning satellite imagery into wall art](https://ramblemaps.com/turning-satellite-imagery-into-wall-art)
+- [Ex-Caldera dev describes lost “WinBolt” Win9x-capable version of DR-DOS (2007)](https://msfn.org/board/topic/109018-windows-98-in-dr-dos/?tab=comments#comment-721209)
 
-- [Install NetBSD 9.2 on a DEC Alpha CPU with AXPBox](https://raymii.org/s/articles/NetBSD_Alpha_AXPbox.html)
+- [In 2009, Two Nuclear Submarines Collided Under the Sea (2016)](https://nationalinterest.org/blog/the-buzz/2009-two-nuclear-submarines-collided-under-the-sea-they-were-18690)
 
-- [An error message if you put more than 2^24 items in a JS Map object](https://searchvoidstar.tumblr.com/post/659634228574715904/an-amazing-error-message-if-you-put-more-than-2-24)
+- [Go is pass-by-value — but it might not always feel like it](https://neilalexander.dev/2021/08/29/go-pass-by-value.html)
 
-- [The 74,000 numbers of Barclays Bank](https://shkspr.mobi/blog/2021/05/the-74000-numbers-of-barclays-bank/)
+- [Using SIMD acceleration in rust to create the world’s fastest tac](https://neosmart.net/blog/2021/using-simd-acceleration-in-rust-to-create-the-worlds-fastest-tac/)
 
-- [I believe California is the dumping ground for America's homeless problem](https://streetlifesolutions.blogspot.com/2021/08/i-believe-california-is-dumping-ground.html)
+- [Software Development Waste](https://neverworkintheory.org/2021/08/29/software-development-waste.html)
 
-- [IPv4 vs. IPv6 FAQ](https://tailscale.com/kb/1134/ipv6-faq/)
+- [Optional Value Handling in Nim](https://peterme.net/optional-value-handling-in-nim.html)
 
-- [Buoyant wants to solve middle-mile delivery with cargo airships](https://techcrunch.com/2021/08/27/yc-grad-buoyant-wants-to-solve-middle-mile-delivery-with-cargo-airships/)
+- [How you play Spades is how you play life](https://pudding.cool/2021/08/spades)
 
-- [A Vim Guide For Experts](https://thevaluable.dev/vim-expert/)
+- [The best Docker base image for your Python application](https://pythonspeed.com/articles/base-image-python-docker-images/)
 
-- [The Problem of Effects (2020)](https://without.boats/blog/the-problem-of-effects/)
+- [I’m not sure that UNIX won](https://rubenerd.com/im-not-sure-that-unix-won/)
 
-- [UK loses 83% of department stores since BHS collapsed](https://www.bbc.com/news/business-58331168)
+- [What Is the Most Free TLD?](https://slc.is/#The%20Best%20TLD%20is%20Not%20.com)
 
-- [Woman ordered to pay $30K for defamation by BC Supreme Court for online review](https://www.cbc.ca/news/canada/british-columbia/woman-ordered-to-pay-30k-in-damages-for-negative-breast-implant-review-1.6156240)
+- [The open calendar, task and note space is a mess](https://stevenvanbael.com/open-calendar-task-space-is-a-mess)
 
-- [Hashing Techniques: A Survey and Taxonomy (2017)](https://www.cse.fau.edu/~xqzhu/papers/ACS.Chi.2017.Hashing.pdf)
+- [Moving to modern Neovim](https://toroid.org/modern-neovim)
 
-- [Why San Francisco’s city government is so dysfunctional](https://www.economist.com/united-states/2021/08/28/why-san-franciscos-city-government-is-so-dysfunctional)
+- [How a nosy bureaucrat accidentally created the first social networking and blogging service (2017)](https://web.stanford.edu/~learnest/sail/finger.html)
 
-- [The Dresden Job](https://www.gq.com/story/the-dresden-job)
+- [Apple acquires classical music streaming service Primephonic](https://www.apple.com/newsroom/2021/08/apple-acquires-classical-music-streaming-service-primephonic/)
 
-- [Perceptual hash algorithms](https://www.hackerfactor.com/blog/?/archives/432-Looks-Like-It.html)
+- [Photography technology has influenced what people consider a good picture](https://www.collectorsweekly.com/articles/bad-photography-and-good-pictures/)
 
-- [Karl Menger's Vienna Colloquium (1927-38)](https://www.hetwebsite.net/het/schools/vienna.htm)
+- [More wind energy was installed in 2020 than any other energy source](https://www.energy.gov/eere/wind/articles/land-based-wind-market-report-2021-edition-released)
 
-- [Human Dx is hiring part-time community/growth team members](https://www.humandx.org/team?gh_jid=4859261002)
+- [Why Lying About Storage Products Is Bad: An IBM DeskStar Story](https://www.extremetech.com/computing/326292-why-lying-about-storage-products-is-bad-an-ibm-deskstar-story)
 
-- [App store payments will have increased competition](https://www.kalzumeus.com/2021/08/27/app-store-payment-competition/)
+- [White House Launches US Digital Corps](https://www.fedscoop.com/white-house-launches-us-digital-corps/)
 
-- [When correlation is better than causation](https://www.narrator.ai/blog/when-correlation-is-better-than-causation/)
+- [Playdate Pulp: Zero to video game in 60 Seconds](https://www.gamedeveloper.com/console/playdate-pulp-zero-to-video-game-in-60-seconds)
 
-- [The Evolution of Smalltalk from Smalltalk-72 to Squeak [video]](https://www.pldi21.org/prerecorded_hopl.17.html)
+- [Don’t Let Architecture Astronauts Scare You (2001)](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/)
 
-- [Brussels battles old prejudices as it frees unloved river from its vault](https://www.theguardian.com/world/2021/aug/27/brussels-battles-old-prejudices-as-it-frees-unloved-river-senne-from-its-vault)
+- [Forest Service officials close all California national forests](https://www.latimes.com/california/story/2021-08-30/officials-to-close-all-california-national-forests-a)
 
-- [Utilizing msg_msg Objects for Arbitrary Read and Arbitrary Write in the Linux Kernel](https://www.willsroot.io/2021/08/corctf-2021-fire-of-salvation-writeup.html)
+- [Phoenix 1.6.0-rc.0 Released](https://www.phoenixframework.org/blog/phoenix-1.6-released)
 
-- [ICFP 2021 - OCaml Workshop Live Stream](https://www.youtube.com/watch?v=SJXaY3nlMss)
+- [China has forbidden under-18s from playing games for more than three hours/week](https://www.reuters.com/world/china/china-rolls-out-new-rules-minors-online-gaming-xinhua-2021-08-30/)
+
+- [Firefox Containers for Increased Privacy](https://www.thechiefmeat.com/guides/containers.html)
+
+- [Three Clocks are Better than One](https://www.tigerbeetle.com/post/three-clocks-are-better-than-one)
+
+- [The complicated reality of doing what you love](https://www.vox.com/the-highlight/22620178/hobby-job-leisure-labor)
