@@ -1,103 +1,107 @@
-- [Vintage Computer Festival Midwest 16](http://vcfmw.org/)
+- [uBlock Origin review](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/)
 
-- [Apollo 68080 – Motorola 680x0 High Performance Processor in FPGA](http://www.apollo-core.com/features.html)
+- [The Persistent Gravity of Cross Platform](https://allenpike.com/2021/gravity-of-cross-platform-apps)
 
-- [Learn Datalog Today](http://www.learndatalogtoday.org/)
+- [Yet another reason to not use printf (or write C code in general)](https://belaycpp.com/2021/08/31/yet-another-reason-to-not-use-printf-or-write-c-code-in-general/)
 
-- [Multiplying Matrices Without Multiplying](https://arxiv.org/abs/2106.10860)
+- [EasyOS version 2.9 released](https://bkhome.org/news/202109/easyos-version-29-released.html)
 
-- [MIP* = RE](https://arxiv.org/pdf/2001.04383.pdf)
+- [How to ensure a cron job runs exclusively](https://blog.majid.info/lock/)
 
-- [You want enabling CSS selectors, not disabling ones](https://css-tricks.com/you-want-enabling-css-selectors-not-disabling-ones/)
+- [On having the right theorem](https://blog.plover.com/2021/09/01/#dilworth)
 
-- [Anonymous benchmark markets (2014)](https://danluu.com/anon-benchmark/)
+- [Dynamic visualization of your WiFi signal](https://blog.ui.com/2021/08/19/wifiman-introduces-enhanced-signal-tracking-features/)
 
-- [NixOS on underpowered devices](https://eno.space/blog/2021/08/nixos-on-underpowered-devices)
+- [Tmpfs inode corruption: introducing inode64](https://chrisdown.name/2021/07/02/tmpfs-inode-corruption-introducing-inode64.html)
 
-- [Monkey: the satirical Go package used unwittingly by Arduino and SalesForce](https://esoteric.codes/blog/bouk-monkey-satirical-code-used-by-people-who-dont-get-the-joke)
+- [The benefit of a dependency is inversely proportional to the amount of effort spent on a project](https://eli.thegreenplace.net/2017/benefits-of-dependencies-in-software-projects-as-a-function-of-effort/)
 
-- [Skybison, Instagram's experimental performance oriented greenfield implementation of Python](https://github.com/facebookexperimental/skybison)
+- [Faust: Functional programming language for sound synthesis and audio processing](https://faust.grame.fr/)
 
-- [kbjunky/Chordie: A chording keyboard you shouldn't be scared of](https://github.com/kbjunky/Chordie)
+- [A repository of gate-level simulators and tools for the original Game Boy](https://github.com/aappleby/MetroBoy)
 
-- [Show HN: Compile for Arm at native speeds in an emulated system](https://github.com/valkmit/aws-graviton2-on-intel)
+- [SQLite-TUI: A TUI for viewing SQLite databases, written in Go](https://github.com/mathaou/sqlite-tui)
 
-- [Unproblematize](https://glyph.twistedmatrix.com/2021/08/unproblematize.html)
+- [NoProto: Flexible, Fast and Compact Serialization with RPC](https://github.com/only-cliches/NoProto)
 
-- [Criss CP/M Provides Modern Hardware for a Classic OS](https://hackaday.com/2021/08/30/criss-cp-m-provides-modern-hardware-for-a-classic-os/)
+- [Wheel Reinvention Jam](https://handmade.network/jam)
 
-- [Why We Don't Do Daily Stand-Ups at Supercede](https://jezenthomas.com/why-we-dont-do-daily-stand-ups-at-supercede/)
+- [From RpcView to PetitPotam](https://itm4n.github.io/from-rpcview-to-petitpotam/)
 
-- [BuildZoom (remote project management for construction) is hiring](https://jobs.lever.co/buildzoom)
+- [Using the Platform](https://javascript.plainenglish.io/using-the-platform-instead-of-frameworks-33b4607fc3cc)
 
-- [OpenBSD 6.9 Router Benchmarks](https://kernelpanic.life/hardware/openbsd-router-benchmarks.html)
+- [The little film SLR released a decade too early](https://kosmofoto.com/2021/02/the-little-film-camera-too-ahead-of-its-time/)
 
-- [Rolling your own minimal embedded Linux for the Raspberry Pi](https://kevinboone.me/pi_minimal.html)
+- [Pirating GPL Software](https://krisives.github.io/posts/pirating-gpl-software/)
 
-- [Some thoughts about raising the profile of Lisp](https://liam-on-linux.livejournal.com/81798.html)
+- [Google Chrome to remove detailed cookie and site data controls](https://lapcatsoftware.com/articles/chrome-cookie.html)
 
-- [Scales of cities, scales of software](https://linus.coffee/note/software-cities/)
+- [Migrating from Docker to Podman](https://marcusnoble.co.uk/2021-09-01-migrating-from-docker-to-podman)
 
-- [How does Apple Private Relay Work?](https://matduggan.com/how-does-apple-private-relay-work/)
+- [Operations is not Developer IT](https://matduggan.com/operations-is-not-developer-it/)
 
-- [Pen Plotter Art and Algorithms, Part 1 (2017)](https://mattdesl.svbtle.com/pen-plotter-1)
+- [MIT Mathlets](https://mathlets.org/mathlets/)
 
-- [The art of not taking things personally](https://medium.dave-bailey.com/the-art-of-not-taking-things-personally-b7a8395ce172)
+- [Neurocracy](https://neurocracy.site/)
 
-- [Wild claims about K performance](https://mlochbaum.github.io/BQN/implementation/kclaims.html)
+- [9.6 Million Links in Source Code Comments: Purpose, Evolution, and Decay](https://neverworkintheory.org/2021/08/23/links-in-source-code-comments.html)
 
-- [Using SIMD acceleration in rust to create the world’s fastest tac](https://neosmart.net/blog/2021/using-simd-acceleration-in-rust-to-create-the-worlds-fastest-tac/)
+- [Rejected internal job applicants are twice as likely to quit](https://news.cornell.edu/stories/2021/08/rejected-internal-applicants-twice-likely-quit)
 
-- [Perfect pitch study: Why can’t we identify music notes as well as colors?](https://news.uchicago.edu/story/why-cant-we-identify-music-notes-well-colors-perfect-pitch-study-offers-clues)
+- [Stanford researchers develop an engineered 'mini' CRISPR genome editing system](https://news.stanford.edu/2021/09/03/researchers-develop-hypercompact-crispr/)
 
-- [Catabase: a database of categories](https://nforum.ncatlab.org/discussion/13419/catabase-a-database-of-categories/)
+- [Migrating to Next.js from vanilla React.js](https://nextjs.org/docs/migrating/from-create-react-app)
 
-- [Why Electron apps are fine](https://nielsleenheer.com/articles/2021/why-electron-apps-are-fine/)
+- [Software Piracy and IP Management: Strategic Responses to Imitation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3912074)
 
-- [Google's New AI Photo Upscaling Tech Is Jaw-Dropping](https://petapixel.com/2021/08/30/googles-new-ai-photo-upscaling-tech-is-jaw-dropping/)
+- [AWS ReadOnlyAccess: Not Even Once](https://posts.specterops.io/aws-readonlyaccess-not-even-once-ffbceb9fc908)
 
-- [Taming the Moose: Method modifiers instead of overrides in object-​oriented Perl](https://phoenixtrap.com/2021/08/31/taming-the-moose-method-modifiers-instead-of-overrides-in-object-oriented-perl/)
+- [The fungal mind: on the evidence for mushroom intelligence](https://psyche.co/ideas/the-fungal-mind-on-the-evidence-for-mushroom-intelligence)
 
-- [PostgreSQL Subtransactions Considered Harmful](https://postgres.ai/blog/20210831-postgresql-subtransactions-considered-harmful)
+- [Exploring fff part 1 - main](https://qmacro.org/autodidactics/2021/09/03/exploring-fff-part-1-main/)
 
-- [The best Docker base image for your Python application](https://pythonspeed.com/articles/base-image-python-docker-images/)
+- [Rubber Duck Debugging](https://rubberduckdebugging.com/)
 
-- [A guide to fun mathematics YouTube channels](https://samenright.com/2021/08/31/a-laymans-guide-to-recreational-mathematics-videos/)
+- [Vacation isn’t the answer to employee burnout](https://technical.ly/2021/08/30/vacation-employee-burnout/)
 
-- [Show HN: I made an app to draw stickers for iMessage, Discord, and Slack](https://stickerdoodle.app)
+- [MIT CSAIL network design principles](https://tig.csail.mit.edu/network-wireless/wireless-design/)
 
-- [System76 Pangolin Linux-first laptop with AMD internals now in stock](https://system76.com/laptops/pangolin)
+- [Large Unix programs were historically not all that portable between Unixes](https://utcc.utoronto.ca/~cks/space/blog/unix/ProgramsVsPortability)
 
-- [French Appeal Court affirms decision that copyright claims on GPL are invalid; must be enforced via contractual dispute](https://thehftguy.com/2021/08/30/french-appeal-court-affirms-decision-that-copyright-claims-on-gpl-are-invalid-must-be-enforced-via-contractual-dispute/)
+- [Saving Costs Asking for Forgiveness in Python](https://walid.dev/blog/saving-costs-asking-for-forgiveness-in-python/)
 
-- [Adapting the OCaml Ecosystem for Multicore OCaml](https://watch.ocaml.org/videos/watch/playlist/7a4ad26a-b8c5-4588-bf2a-4b981fed87f2?playlistPosition=2)
+- [Did IBM Just Preview the Future of Caches?](https://www.anandtech.com/show/16924/did-ibm-just-preview-the-future-of-caches)
 
-- [The ABS programing language](https://www.abs-lang.org/)
+- [Bungie C++ Guidelines & Razors](https://www.bungie.net/en/News/Article/50666)
 
-- [A remote island's battle against seabird-killing ants (2015)](https://www.audubon.org/magazine/july-august-2015/one-remote-islands-battle-against-acid)
+- [Hardest amorphous material can scratch even diamond](https://www.chemistryworld.com/news/hardest-amorphous-material-can-scratch-even-diamond/4014257.article)
 
-- [Learning Highly Recursive Input Grammars](https://www.carolemieux.com/arvada_ase21.pdf)
+- [The Descent to C (2013)](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/)
 
-- [Brooks, Wirth and Go](https://www.fredrikholmqvist.com/posts/brooks-wirth-go/)
+- [NEC’s Forgotten FPUs](https://www.cpushack.com/2021/09/01/necs-forgotten-fpus/)
 
-- [Why Erlang?](https://www.fredrikholmqvist.com/posts/why-erlang/)
+- [A nasty bit of undefined timezone behavior in Golang](https://www.dolthub.com/blog/2021-09-03-golang-time-bugs/)
 
-- [Tor is a great sysadmin tool (2020)](https://www.jamieweb.net/blog/tor-is-a-great-sysadmin-tool/)
+- [Delays Aren't Good Enough–Apple Must Abandon Its Surveillance Plans](https://www.eff.org/deeplinks/2021/09/delays-arent-good-enough-apple-must-abandon-its-surveillance-plans)
 
-- [An Interactive Guide to Keyframe Animations](https://www.joshwcomeau.com/animation/keyframe-animations/)
+- [Amazon’s answer to delivery driver shortage: Pot smokers](https://www.latimes.com/business/technology/story/2021-09-01/amazons-answer-to-delivery-driver-shortage-recruit-pot-smokers)
 
-- [Journal of Controversial Ideas](https://www.journalofcontroversialideas.org/)
+- [Apple Delays Rollout of Child Safety Features](https://www.macrumors.com/2021/09/03/apple-delaying-rollout-of-child-safety-features/)
 
-- [William Faulkner's Nobel Prize in Literature Acceptance Speech (1949)](https://www.nobelprize.org/prizes/literature/1949/faulkner/speech/)
+- [Forgetting My First Language](https://www.newyorker.com/culture/personal-history/forgetting-my-first-language)
 
-- [Roman priest’s exceptionally well-preserved remains found in Pompeii](https://www.smithsonianmag.com/smart-news/archaeologists-uncover-most-well-preserved-human-remains-pompeii-date-180978455/)
+- [PC-86-DOS | OS/2 Museum](https://www.os2museum.com/wp/pc-86-dos/)
 
-- [Docker Desktop no longer free for large companies](https://www.theregister.com/2021/08/31/docker_desktop_no_longer_free/)
+- [Prevent duplicate cron job running](https://www.pankajtanwar.in/blog/prevent-duplicate-cron-job-running)
 
-- [Apple and Google must allow other in-app payment systems, Korean law declares](https://www.theverge.com/2021/8/31/22643800/apple-google-south-korea-app-store-payment-legislation-passes)
+- [The New Thermodynamic Understanding of Clocks](https://www.quantamagazine.org/the-new-science-of-clocks-prompts-questions-about-the-nature-of-time-20210831/)
 
-- [It's Time for Operating Systems to Rediscover Hardware](https://www.usenix.org/conference/osdi21/presentation/fri-keynote)
+- [How to build silos and decrease collaboration (on purpose)](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/)
 
-- [Automatic Extraction of Secrets from the Transistor Jungle Using Laser-Assisted [pdf]](https://www.usenix.org/system/files/sec21-krachenfels.pdf)
+- [Shlinkedin – Satirical Social Network](https://www.shlinkedin.com/)
 
-- [CSS Nesting Module (First Public Working Draft)](https://www.w3.org/blog/news/archives/9236)
+- [Tesorio (YC S15) is hiring – join our fully distributed fintech team](https://www.tesorio.com/careers#job-openings)
+
+- [Retailers are spending millions to combat organized theft from stores](https://www.wsj.com/articles/cvs-home-depot-theft-organized-crime-11630505851)
+
+- [The NoSQL store everyone ignored](https://www.youtube.com/watch?v=4g4zp-XrZ2s)
