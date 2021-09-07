@@ -1,107 +1,97 @@
-- [uBlock Origin review](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/)
+- [Saving a restic backup the hard way](http://blog.pkh.me/p/30-saving-a-restic-backup-the-hard-way.html)
 
-- [The Persistent Gravity of Cross Platform](https://allenpike.com/2021/gravity-of-cross-platform-apps)
+- [Who is Monica Main, and where is ex-NYT bestselling author Judith McNaught?](https://accrispin.blogspot.com/2021/09/very-weird-solicitation-alert-monica.html)
 
-- [Yet another reason to not use printf (or write C code in general)](https://belaycpp.com/2021/08/31/yet-another-reason-to-not-use-printf-or-write-c-code-in-general/)
+- [Looking into Odin and Zig](https://ayende.com/blog/194466-A/looking-into-odin-and-zig-my-notes)
 
-- [EasyOS version 2.9 released](https://bkhome.org/news/202109/easyos-version-29-released.html)
+- [Managed high-performance runners for Github Action](https://buildjet.com/for-github-actions)
 
-- [How to ensure a cron job runs exclusively](https://blog.majid.info/lock/)
+- [Notes on some PostgreSQL implementation details](https://buttondown.email/nelhage/archive/notes-on-some-postgresql-implementation-details/)
 
-- [On having the right theorem](https://blog.plover.com/2021/09/01/#dilworth)
+- [What Serverless Computing Is and Should Become: The Next Phase of Cloud Computing](https://cacm.acm.org/magazines/2021/5/252179-what-serverless-computing-is-and-should-become/fulltext)
 
-- [Dynamic visualization of your WiFi signal](https://blog.ui.com/2021/08/19/wifiman-introduces-enhanced-signal-tracking-features/)
+- [The operating system: should there be one?](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.715.9197&rep=rep1&type=pdf)
 
-- [Tmpfs inode corruption: introducing inode64](https://chrisdown.name/2021/07/02/tmpfs-inode-corruption-introducing-inode64.html)
+- [The Secret Life of Cows (2018)](https://deterministic.space/secret-life-of-cows.html)
 
-- [The benefit of a dependency is inversely proportional to the amount of effort spent on a project](https://eli.thegreenplace.net/2017/benefits-of-dependencies-in-software-projects-as-a-function-of-effort/)
+- [Unicode data file compression: achieving 40–70% reduction over gzip alone](https://devlog.hexops.com/2021/unicode-data-file-compression)
 
-- [Faust: Functional programming language for sound synthesis and audio processing](https://faust.grame.fr/)
+- [Silence Is a Commons (1983)](https://dlc.dlib.indiana.edu/dlc/bitstream/handle/10535/5962/Silence%252520is%252520a%252520Commons.html?sequence=1&isAllowed=y)
 
-- [A repository of gate-level simulators and tools for the original Game Boy](https://github.com/aappleby/MetroBoy)
+- [Show HN: Age 1.0 – Simple, modern and secure file encryption](https://github.com/FiloSottile/age/releases/tag/v1.0.0)
 
-- [SQLite-TUI: A TUI for viewing SQLite databases, written in Go](https://github.com/mathaou/sqlite-tui)
+- [Rumble, an open source, offline, censorship resistant microblog (2017)](https://github.com/Marlinski/Rumble)
 
-- [NoProto: Flexible, Fast and Compact Serialization with RPC](https://github.com/only-cliches/NoProto)
+- [SystemE – A lightweight systemd replacement written in Emacs Lisp](https://github.com/a-schaefers/systemE)
 
-- [Wheel Reinvention Jam](https://handmade.network/jam)
+- [Notcurses 2.4](https://github.com/dankamongmen/notcurses/releases/tag/v2.4.0)
 
-- [From RpcView to PetitPotam](https://itm4n.github.io/from-rpcview-to-petitpotam/)
+- [Clojure Zippers](https://grishaev.me/en/clojure-zippers/)
 
-- [Using the Platform](https://javascript.plainenglish.io/using-the-platform-instead-of-frameworks-33b4607fc3cc)
+- [Jeff Bezos and the New Pharoahs](https://joebot.substack.com/p/jeff-bezos-and-the-new-pharoahs)
 
-- [The little film SLR released a decade too early](https://kosmofoto.com/2021/02/the-little-film-camera-too-ahead-of-its-time/)
+- [Libwebsockets a powerful and lightweight pure C library](https://libwebsockets.org/)
 
-- [Pirating GPL Software](https://krisives.github.io/posts/pirating-gpl-software/)
+- [Commodore 64 Ads from the 1980s](https://lunduke.substack.com/p/commodore-64-ads-from-the-1980s-still)
 
-- [Google Chrome to remove detailed cookie and site data controls](https://lapcatsoftware.com/articles/chrome-cookie.html)
+- [Serving 2000 requests/s on a ~US$1500/month budget](https://mangadex.dev/mangadex-v5-infrastructure-overview/)
 
-- [Migrating from Docker to Podman](https://marcusnoble.co.uk/2021-09-01-migrating-from-docker-to-podman)
+- [Fast Rust Builds](https://matklad.github.io//2021/09/04/fast-rust-builds.html)
 
-- [Operations is not Developer IT](https://matduggan.com/operations-is-not-developer-it/)
+- [Micro-GPS: High-Precision Localization Using Ground Texture (2018)](https://microgps.cs.princeton.edu/)
 
-- [MIT Mathlets](https://mathlets.org/mathlets/)
+- [Minus](https://minus.social/)
 
-- [Neurocracy](https://neurocracy.site/)
+- [Nabokov in Time (1966)](https://newrepublic.com/article/61210/nabokov-time)
 
-- [9.6 Million Links in Source Code Comments: Purpose, Evolution, and Decay](https://neverworkintheory.org/2021/08/23/links-in-source-code-comments.html)
+- [Relegendable keycaps for your macropad, the best thing ever for my productivity](https://raymii.org/s/blog/Relegendable_keycaps_for_your_macropad.html)
 
-- [Rejected internal job applicants are twice as likely to quit](https://news.cornell.edu/stories/2021/08/rejected-internal-applicants-twice-likely-quit)
+- [Revolt: Open-source alternative to Discord](https://revolt.chat/)
 
-- [Stanford researchers develop an engineered 'mini' CRISPR genome editing system](https://news.stanford.edu/2021/09/03/researchers-develop-hypercompact-crispr/)
+- [A live repl for imp](https://scattered-thoughts.net/writing/imp-live-repl/)
 
-- [Migrating to Next.js from vanilla React.js](https://nextjs.org/docs/migrating/from-create-react-app)
+- [Greedy AI agents learn to cooperate](https://spectrum.ieee.org/reinforcement-learning)
 
-- [Software Piracy and IP Management: Strategic Responses to Imitation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3912074)
+- [Meet the College Student Who Makes His Own Chips](https://thenewstack.io/meet-the-college-student-who-makes-his-own-chips/)
 
-- [AWS ReadOnlyAccess: Not Even Once](https://posts.specterops.io/aws-readonlyaccess-not-even-once-ffbceb9fc908)
+- [Progress on C23](https://thephd.dev/c-the-improvements-june-september-virtual-c-meeting)
 
-- [The fungal mind: on the evidence for mushroom intelligence](https://psyche.co/ideas/the-fungal-mind-on-the-evidence-for-mushroom-intelligence)
+- [traceroute(8) gets speed boost](https://undeadly.org/cgi?action=article;sid=20210903094704)
 
-- [Exploring fff part 1 - main](https://qmacro.org/autodidactics/2021/09/03/exploring-fff-part-1-main/)
+- [Netflix, Signal, and Telegram on FreeBSD](https://vermaden.wordpress.com/2021/09/06/freebsd-desktop-part-27-configuration-netflix-signal-telegram/)
 
-- [Rubber Duck Debugging](https://rubberduckdebugging.com/)
+- [Switching to the i3 window manager](https://vincent.bernat.ch/en/blog/2021-i3-window-manager)
 
-- [Vacation isn’t the answer to employee burnout](https://technical.ly/2021/08/30/vacation-employee-burnout/)
+- [DHCP Games with Smart Router Devices](https://www.anvilsecure.com/blog/dhcp-games-with-smart-router-devices.html)
 
-- [MIT CSAIL network design principles](https://tig.csail.mit.edu/network-wireless/wireless-design/)
+- [The Single-Page-App Morality Play](https://www.baldurbjarnason.com/2021/single-page-app-morality-play/)
 
-- [Large Unix programs were historically not all that portable between Unixes](https://utcc.utoronto.ca/~cks/space/blog/unix/ProgramsVsPortability)
+- [TikTok overtakes YouTube for average watch time in US and UK](https://www.bbc.co.uk/news/technology-58464745)
 
-- [Saving Costs Asking for Forgiveness in Python](https://walid.dev/blog/saving-costs-asking-for-forgiveness-in-python/)
+- [A $10k poker win changed how I think](https://www.bbc.com/future/article/20210517-how-a-10k-poker-win-changed-how-i-think)
 
-- [Did IBM Just Preview the Future of Caches?](https://www.anandtech.com/show/16924/did-ibm-just-preview-the-future-of-caches)
+- [ZFS Is Mysteriously Eating My CPU](https://www.brendangregg.com/blog/2021-09-06/zfs-is-mysteriously-eating-my-cpu.html)
 
-- [Bungie C++ Guidelines & Razors](https://www.bungie.net/en/News/Article/50666)
+- [Manuscript fragments of the famous Merlin legend among the oldest of their kind](https://www.bristol.ac.uk/news/2021/september/bristol-merlin-update.html)
 
-- [Hardest amorphous material can scratch even diamond](https://www.chemistryworld.com/news/hardest-amorphous-material-can-scratch-even-diamond/4014257.article)
+- [Plans for a new city in the American desert](https://www.cnn.com/style/article/telosa-marc-lore-blake-ingels-new-city/index.html)
 
-- [The Descent to C (2013)](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/)
+- [Intel’s Turnaround and the Future of Chipmaking](https://www.economist.com/business/intels-turnaround-and-the-future-of-chipmaking/21804288)
 
-- [NEC’s Forgotten FPUs](https://www.cpushack.com/2021/09/01/necs-forgotten-fpus/)
+- [Linux implementation of Homa, a protocol to replace TCP for low-latency RPC](https://www.micahlerner.com/2021/08/29/a-linux-kernel-implementation-of-the-homa-transport-protocol.html)
 
-- [A nasty bit of undefined timezone behavior in Golang](https://www.dolthub.com/blog/2021-09-03-golang-time-bugs/)
+- [Missing businesswoman urges ex-husband not to publish book critical of China](https://www.npr.org/2021/09/06/1034556269/red-roulette-reveals-the-inside-of-chinas-wealth-making-machine)
 
-- [Delays Aren't Good Enough–Apple Must Abandon Its Surveillance Plans](https://www.eff.org/deeplinks/2021/09/delays-arent-good-enough-apple-must-abandon-its-surveillance-plans)
+- [Plans are useless, but planning is indispensable (2005)](https://www.pmi.org/learning/library/planning-process-indispensable-software-projects-7487)
 
-- [Amazon’s answer to delivery driver shortage: Pot smokers](https://www.latimes.com/business/technology/story/2021-09-01/amazons-answer-to-delivery-driver-shortage-recruit-pot-smokers)
+- [The Unraveling of the Real 3D Mandelbulb (2009)](https://www.skytopia.com/project/fractal/mandelbulb.html)
 
-- [Apple Delays Rollout of Child Safety Features](https://www.macrumors.com/2021/09/03/apple-delaying-rollout-of-child-safety-features/)
+- [Apple iMessage Zero-Click Hacks](https://www.wired.com/story/apple-imessage-zero-click-hacks/)
 
-- [Forgetting My First Language](https://www.newyorker.com/culture/personal-history/forgetting-my-first-language)
+- [Why video game doors are so hard to get right [video]](https://www.youtube.com/watch?v=AYEWsLdLmcc)
 
-- [PC-86-DOS | OS/2 Museum](https://www.os2museum.com/wp/pc-86-dos/)
+- [The State of GHC](https://www.youtube.com/watch?v=OZgoid0pex8&list=PLyrlk8Xaylp6_QTmXGuRe3lShaRGaMtgc&index=9&t=80s)
 
-- [Prevent duplicate cron job running](https://www.pankajtanwar.in/blog/prevent-duplicate-cron-job-running)
+- [US Cybercom says mass exploitation of Atlassian Confluence vulnerability ongoing](https://www.zdnet.com/article/us-cybercom-says-mass-exploitation-of-atlassian-confluence-vulnerability-ongoing-and-expected-to-accelerate/)
 
-- [The New Thermodynamic Understanding of Clocks](https://www.quantamagazine.org/the-new-science-of-clocks-prompts-questions-about-the-nature-of-time-20210831/)
-
-- [How to build silos and decrease collaboration (on purpose)](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/)
-
-- [Shlinkedin – Satirical Social Network](https://www.shlinkedin.com/)
-
-- [Tesorio (YC S15) is hiring – join our fully distributed fintech team](https://www.tesorio.com/careers#job-openings)
-
-- [Retailers are spending millions to combat organized theft from stores](https://www.wsj.com/articles/cvs-home-depot-theft-organized-crime-11630505851)
-
-- [The NoSQL store everyone ignored](https://www.youtube.com/watch?v=4g4zp-XrZ2s)
+- [XIP: Packed Integer Format for VMs / IRs](https://xtclang.blogspot.com/2021/08/its-little-things.html)
