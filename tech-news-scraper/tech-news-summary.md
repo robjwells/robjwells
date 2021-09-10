@@ -1,97 +1,101 @@
-- [Saving a restic backup the hard way](http://blog.pkh.me/p/30-saving-a-restic-backup-the-hard-way.html)
+- [The rise of community-owned monopolies](http://blog.khinsen.net/posts/2020/02/26/the-rise-of-community-owned-monopolies/)
 
-- [Who is Monica Main, and where is ex-NYT bestselling author Judith McNaught?](https://accrispin.blogspot.com/2021/09/very-weird-solicitation-alert-monica.html)
+- [Debug symbols for binaries with Nix](http://rski.github.io/2021/09/05/nix-debugging.html)
 
-- [Looking into Odin and Zig](https://ayende.com/blog/194466-A/looking-into-odin-and-zig-my-notes)
+- [“Pest” vs. 0xFE](http://www.loper-os.org/?p=3926)
 
-- [Managed high-performance runners for Github Action](https://buildjet.com/for-github-actions)
+- [introducing witchery: tools for building distroless images with alpine](https://ariadne.space/2021/09/09/introducing-witchery-tools-for-building-distroless-images-with-alpine/)
 
-- [Notes on some PostgreSQL implementation details](https://buttondown.email/nelhage/archive/notes-on-some-postgresql-implementation-details/)
+- [2021 Ig Nobels](https://arstechnica.com/science/2021/09/feline-acoustics-the-smell-of-fear-and-more-receive-2021-ig-nobel-prizes/)
 
-- [What Serverless Computing Is and Should Become: The Next Phase of Cloud Computing](https://cacm.acm.org/magazines/2021/5/252179-what-serverless-computing-is-and-should-become/fulltext)
+- [Native Rust support on Cloudflare Workers](https://blog.cloudflare.com/workers-rust-sdk/)
 
-- [The operating system: should there be one?](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.715.9197&rep=rep1&type=pdf)
+- [Shipping Clubhouse on Android in 10 Weeks](https://blog.clubhouse.com/shipping-clubhouse-on-android-in-10-weeks/)
 
-- [The Secret Life of Cows (2018)](https://deterministic.space/secret-life-of-cows.html)
+- [Announcing Rust 1.55.0](https://blog.rust-lang.org/2021/09/09/Rust-1.55.0.html)
 
-- [Unicode data file compression: achieving 40–70% reduction over gzip alone](https://devlog.hexops.com/2021/unicode-data-file-compression)
+- [How JavaScript works: class static blocks and 6 proposed semantics](https://blog.sessionstack.com/how-javascript-works-class-static-blocks-6-proposed-semantics-3487d3821b45)
 
-- [Silence Is a Commons (1983)](https://dlc.dlib.indiana.edu/dlc/bitstream/handle/10535/5962/Silence%252520is%252520a%252520Commons.html?sequence=1&isAllowed=y)
+- [How We Went All In on sqlc/pgx for Postgres + Go](https://brandur.org/sqlc)
 
-- [Show HN: Age 1.0 – Simple, modern and secure file encryption](https://github.com/FiloSottile/age/releases/tag/v1.0.0)
+- [Tailscale at DeepSource](https://deepsource.io/blog/tailscale-at-deepsource/)
 
-- [Rumble, an open source, offline, censorship resistant microblog (2017)](https://github.com/Marlinski/Rumble)
+- [Safer Usage Of C++](https://docs.google.com/document/d/e/2PACX-1vRZr-HJcYmf2Y76DhewaiJOhRNpjGHCxliAQTBhFxzv1QTae9o8mhBmDl32CRIuaWZLt5kVeH9e9jXv/pub)
 
-- [SystemE – A lightweight systemd replacement written in Emacs Lisp](https://github.com/a-schaefers/systemE)
+- [60x speed-up of Linux “perf”](https://eighty-twenty.org/2021/09/09/perf-addr2line-speed-improvement)
 
-- [Notcurses 2.4](https://github.com/dankamongmen/notcurses/releases/tag/v2.4.0)
+- [Protein and Transpacific Power](https://fortisanalysis.substack.com/p/protein-and-transpacific-power)
 
-- [Clojure Zippers](https://grishaev.me/en/clojure-zippers/)
+- [Proof-of-work based captcha which is lightweight, self-hosted and GPLv3 licensed](https://git.sequentialread.com/forest/pow-captcha)
 
-- [Jeff Bezos and the New Pharoahs](https://joebot.substack.com/p/jeff-bezos-and-the-new-pharoahs)
+- [Commandeer - remap command to escape when pressed alone](https://git.sr.ht/~habibalamin/Commandeer)
 
-- [Libwebsockets a powerful and lightweight pure C library](https://libwebsockets.org/)
+- [An analysis on developer-security researcher interactions in the vulnerability disclosure process](https://github.blog/2021-09-09-analysis-developer-security-researcher-interactions-vulnerability-disclosure/)
 
-- [Commodore 64 Ads from the 1980s](https://lunduke.substack.com/p/commodore-64-ads-from-the-1980s-still)
+- [FSharp Designer on downsides of Type Level Programming](https://github.com/fsharp/fslang-suggestions/issues/243#issuecomment-916079347)
 
-- [Serving 2000 requests/s on a ~US$1500/month budget](https://mangadex.dev/mangadex-v5-infrastructure-overview/)
+- [Raspberry Pi Atomic Nixie Clock](https://github.com/will127534/RaspberryPiAtomicNixieClock/wiki)
 
-- [Fast Rust Builds](https://matklad.github.io//2021/09/04/fast-rust-builds.html)
+- [Jay Leiderman has died](https://gizmodo.com/hacker-lawyer-jay-leiderman-is-dead-at-50-1847646284)
 
-- [Micro-GPS: High-Precision Localization Using Ground Texture (2018)](https://microgps.cs.princeton.edu/)
+- [PaddleOCR: Lightweight, 80 Langauge OCR](https://huggingface.co/spaces/akhaliq/PaddleOCR)
 
-- [Minus](https://minus.social/)
+- [Understanding ZFS Channel Programs](https://klarasystems.com/articles/understanding-zfs-channel-programs/)
 
-- [Nabokov in Time (1966)](https://newrepublic.com/article/61210/nabokov-time)
+- [Maintain it With Zig](https://kristoff.it/blog/maintain-it-with-zig/)
 
-- [Relegendable keycaps for your macropad, the best thing ever for my productivity](https://raymii.org/s/blog/Relegendable_keycaps_for_your_macropad.html)
+- [Proofs and Refutations (1963)](https://math.berkeley.edu/%7Ekpmann/Lakatos.pdf)
 
-- [Revolt: Open-source alternative to Discord](https://revolt.chat/)
+- [Arris Cable Modem Teardown](https://medium.com/tenable-techblog/arris-cable-modem-teardown-5e294b7007eb)
 
-- [A live repl for imp](https://scattered-thoughts.net/writing/imp-live-repl/)
+- [Those Who Witnessed Castle Bravo Looked into Armageddon](https://medium.com/war-is-boring/those-who-witnessed-castle-bravo-looked-into-armageddon-fa7610578413)
 
-- [Greedy AI agents learn to cooperate](https://spectrum.ieee.org/reinforcement-learning)
+- [OWASP Top 10:2021 (DRAFT FOR PEER REVIEW)](https://owasp.org/Top10/)
 
-- [Meet the College Student Who Makes His Own Chips](https://thenewstack.io/meet-the-college-student-who-makes-his-own-chips/)
+- [Sayings of Spartan women](https://penelope.uchicago.edu/Thayer/e/roman/texts/plutarch/moralia/sayings_of_spartan_women*.html)
 
-- [Progress on C23](https://thephd.dev/c-the-improvements-june-september-virtual-c-meeting)
+- [HAProxy vulnerability enables HTTP request smuggling attacks](https://portswigger.net/daily-swig/haproxy-vulnerability-enables-http-request-smuggling-attacks)
 
-- [traceroute(8) gets speed boost](https://undeadly.org/cgi?action=article;sid=20210903094704)
+- [Clearing up Myths about Ada](https://pyjarrett.github.io/programming-with-ada/clearing-the-air.html)
 
-- [Netflix, Signal, and Telegram on FreeBSD](https://vermaden.wordpress.com/2021/09/06/freebsd-desktop-part-27-configuration-netflix-signal-telegram/)
+- [An Introduction to Type Level Programming in Haskell](https://rebeccaskinner.net/posts/2021-08-25-introduction-to-type-level-programming.html)
 
-- [Switching to the i3 window manager](https://vincent.bernat.ch/en/blog/2021-i3-window-manager)
+- [Datasette Desktop—a macOS desktop application for Datasette](https://simonwillison.net/2021/Sep/8/datasette-desktop/)
 
-- [DHCP Games with Smart Router Devices](https://www.anvilsecure.com/blog/dhcp-games-with-smart-router-devices.html)
+- [Thoughts on Clojure UI framework](https://tonsky.me/blog/clojure-ui/)
 
-- [The Single-Page-App Morality Play](https://www.baldurbjarnason.com/2021/single-page-app-morality-play/)
+- [The Tarrant Tabor (2006)](https://uh.edu/admin/engines/epi2099.htm)
 
-- [TikTok overtakes YouTube for average watch time in US and UK](https://www.bbc.co.uk/news/technology-58464745)
+- [Too much free time may be almost as bad as too little](https://www.apa.org/news/press/releases/2021/09/too-much-free-time)
 
-- [A $10k poker win changed how I think](https://www.bbc.com/future/article/20210517-how-a-10k-poker-win-changed-how-i-think)
+- [Hong Kong: Police Raid Tiananmen Square Museum](https://www.bbc.co.uk/news/world-asia-china-58506598)
 
-- [ZFS Is Mysteriously Eating My CPU](https://www.brendangregg.com/blog/2021-09-06/zfs-is-mysteriously-eating-my-cpu.html)
+- [Squats can boost brain activity [video]](https://www.bbc.com/reel/video/p09v8wyh/how-squats-can-boost-your-brain)
 
-- [Manuscript fragments of the famous Merlin legend among the oldest of their kind](https://www.bristol.ac.uk/news/2021/september/bristol-merlin-update.html)
+- [A Man Who Swam the Seine](https://www.gq.com/story/arthur-germain-swimming-the-seine)
 
-- [Plans for a new city in the American desert](https://www.cnn.com/style/article/telosa-marc-lore-blake-ingels-new-city/index.html)
+- [Stop just using “Frontend” or “Backend” to describe the Engineering you like](https://www.michellelim.org/writing/stop-using-frontend-backend/)
 
-- [Intel’s Turnaround and the Future of Chipmaking](https://www.economist.com/business/intels-turnaround-and-the-future-of-chipmaking/21804288)
+- [Why Don’t the French Celebrate Lafayette?](https://www.newyorker.com/magazine/2021/08/23/why-dont-the-french-celebrate-lafayette)
 
-- [Linux implementation of Homa, a protocol to replace TCP for low-latency RPC](https://www.micahlerner.com/2021/08/29/a-linux-kernel-implementation-of-the-homa-transport-protocol.html)
+- [NIST research reveals new details about a possible fifth force of nature](https://www.nist.gov/news-events/news/2021/09/groundbreaking-technique-yields-important-new-details-silicon-subatomic)
 
-- [Missing businesswoman urges ex-husband not to publish book critical of China](https://www.npr.org/2021/09/06/1034556269/red-roulette-reveals-the-inside-of-chinas-wealth-making-machine)
+- [Artificial Cells That Mimic Living Cells’ Ability to Capture, Process and Expel](https://www.nyu.edu/about/news-publications/news/2021/september/artificial-cells.html)
 
-- [Plans are useless, but planning is indispensable (2005)](https://www.pmi.org/learning/library/planning-process-indispensable-software-projects-7487)
+- [When lightning strikes: managing impacts on wind turbines](https://www.power-technology.com/features/when-lightning-strikes-managing-impacts-on-wind-turbines/)
 
-- [The Unraveling of the Real 3D Mandelbulb (2009)](https://www.skytopia.com/project/fractal/mandelbulb.html)
+- [New math book rescues landmark topology proof](https://www.quantamagazine.org/new-math-book-rescues-landmark-topology-proof-20210909/)
 
-- [Apple iMessage Zero-Click Hacks](https://www.wired.com/story/apple-imessage-zero-click-hacks/)
+- [Paid influencers must label some posts as ads, German court rules](https://www.reuters.com/technology/paid-influencers-must-label-posts-ads-german-court-rules-2021-09-09/)
 
-- [Why video game doors are so hard to get right [video]](https://www.youtube.com/watch?v=AYEWsLdLmcc)
+- [How to find and insert Unicode symbols in HTML](https://www.silvestar.codes/articles/how-to-find-and-insert-unicode-symbols-in-html/)
 
-- [The State of GHC](https://www.youtube.com/watch?v=OZgoid0pex8&list=PLyrlk8Xaylp6_QTmXGuRe3lShaRGaMtgc&index=9&t=80s)
+- [Spook.js: Attacking Google Chrome's Strict Site Isolation](https://www.spookjs.com/)
 
-- [US Cybercom says mass exploitation of Atlassian Confluence vulnerability ongoing](https://www.zdnet.com/article/us-cybercom-says-mass-exploitation-of-atlassian-confluence-vulnerability-ongoing-and-expected-to-accelerate/)
+- [Jerry Maguire Mission Statement (2016)](https://www.theuncool.com/2016/04/25/jerry-maguire-mission-statement/)
 
-- [XIP: Packed Integer Format for VMs / IRs](https://xtclang.blogspot.com/2021/08/its-little-things.html)
+- [Apple fires senior engineering program manager Ashley for leaking information](https://www.theverge.com/2021/9/9/22666049/apple-fires-senior-engineering-program-manager-ashley-gjovik-for-allegedly-leaking-information)
+
+- [TrueVault (YC W14) Is Hiring a VP of Eng to Help SMBs with Data Privacy Laws](https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-vp-engineering)
+
+- [SPI: The serial peripheral interface](https://www.youtube.com/watch?v=MCi7dCBhVpQ)
