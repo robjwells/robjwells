@@ -1,101 +1,103 @@
-- [The rise of community-owned monopolies](http://blog.khinsen.net/posts/2020/02/26/the-rise-of-community-owned-monopolies/)
+- [Beam/Erlang/Elixir Concept Explanations](http://beam-wisdoms.clau.se/en/latest/index.html)
 
-- [Debug symbols for binaries with Nix](http://rski.github.io/2021/09/05/nix-debugging.html)
+- [Comp.lang.c Frequently Asked Questions](http://c-faq.com/)
 
-- [“Pest” vs. 0xFE](http://www.loper-os.org/?p=3926)
+- [CloudI FAQ](http://cloudi.org/faq.html)
 
-- [introducing witchery: tools for building distroless images with alpine](https://ariadne.space/2021/09/09/introducing-witchery-tools-for-building-distroless-images-with-alpine/)
+- [In Search of David Long’s 751-point “Adventure”](http://club.cc.cmu.edu/~ajo/in-search-of-LONG0751/readme.html)
 
-- [2021 Ig Nobels](https://arstechnica.com/science/2021/09/feline-acoustics-the-smell-of-fear-and-more-receive-2021-ig-nobel-prizes/)
+- [Up and Down the Ladder of Abstraction (2011)](http://worrydream.com/LadderOfAbstraction/)
 
-- [Native Rust support on Cloudflare Workers](https://blog.cloudflare.com/workers-rust-sdk/)
+- [Dispatch Techniques](http://www.cs.toronto.edu/~matz/dissertation/matzDissertation-latex2html/node6.html)
 
-- [Shipping Clubhouse on Android in 10 Weeks](https://blog.clubhouse.com/shipping-clubhouse-on-android-in-10-weeks/)
+- [Blaze: High Performance Vector/Matrix Arithmetic Library For C++](https://bitbucket.org/blaze-lib/blaze/src/master/)
 
-- [Announcing Rust 1.55.0](https://blog.rust-lang.org/2021/09/09/Rust-1.55.0.html)
+- [Snapshotting memory to scrape encrypted network requests](https://blog.jonlu.ca/posts/heap-snapshot-scraping?ref=ls)
 
-- [How JavaScript works: class static blocks and 6 proposed semantics](https://blog.sessionstack.com/how-javascript-works-class-static-blocks-6-proposed-semantics-3487d3821b45)
+- [Cleaning up header bars in GNOME 41](https://blogs.gnome.org/alexm/2021/09/10/cleaning-up-header-bars/)
 
-- [How We Went All In on sqlc/pgx for Postgres + Go](https://brandur.org/sqlc)
+- [Adam Smith didn't accept inequality as a necessity for a rich economy (2014)](https://blogs.lse.ac.uk/politicsandpolicy/adam-smith-and-inequality/)
 
-- [Tailscale at DeepSource](https://deepsource.io/blog/tailscale-at-deepsource/)
+- [I got the J language working on OpenBSD](https://briancallahan.net/blog/20210911.html)
 
-- [Safer Usage Of C++](https://docs.google.com/document/d/e/2PACX-1vRZr-HJcYmf2Y76DhewaiJOhRNpjGHCxliAQTBhFxzv1QTae9o8mhBmDl32CRIuaWZLt5kVeH9e9jXv/pub)
+- [JSON Vulnerability in Haskell's Aeson library](https://cs-syd.eu/posts/2021-09-11-json-vulnerability?source=twitter)
 
-- [60x speed-up of Linux “perf”](https://eighty-twenty.org/2021/09/09/perf-addr2line-speed-improvement)
+- [Mind Your Language: On Novices’ Interactions with Error Messages (2011)](https://cs.brown.edu/~sk/Publications/Papers/Published/mfk-mind-lang-novice-inter-error-msg/paper.pdf)
 
-- [Protein and Transpacific Power](https://fortisanalysis.substack.com/p/protein-and-transpacific-power)
+- [Epiousios](https://en.wikipedia.org/wiki/Epiousios)
 
-- [Proof-of-work based captcha which is lightweight, self-hosted and GPLv3 licensed](https://git.sequentialread.com/forest/pow-captcha)
+- [Pinky and the Brain](https://fantheories.fandom.com/wiki/Pinky_and_the_Brain)
 
-- [Commandeer - remap command to escape when pressed alone](https://git.sr.ht/~habibalamin/Commandeer)
+- [Reverse-Engineering Apple Dictionary (2020)](https://fmentzer.github.io/posts/2020/dictionary/)
 
-- [An analysis on developer-security researcher interactions in the vulnerability disclosure process](https://github.blog/2021-09-09-analysis-developer-security-researcher-interactions-vulnerability-disclosure/)
+- [AMule 2.3.3](https://github.com/amule-project/amule/releases/tag/2.3.3)
 
-- [FSharp Designer on downsides of Type Level Programming](https://github.com/fsharp/fslang-suggestions/issues/243#issuecomment-916079347)
+- [Games by Example](https://github.com/asweigart/gamesbyexample)
 
-- [Raspberry Pi Atomic Nixie Clock](https://github.com/will127534/RaspberryPiAtomicNixieClock/wiki)
+- [A $20,000 consensus challenge based on TigerBeetle's Viewstamped Replication protocol implementation](https://github.com/coilhq/viewstamped-replication-made-famous)
 
-- [Jay Leiderman has died](https://gizmodo.com/hacker-lawyer-jay-leiderman-is-dead-at-50-1847646284)
+- [GlueSQL: SQL Database Engine as a Library](https://github.com/gluesql/gluesql)
 
-- [PaddleOCR: Lightweight, 80 Langauge OCR](https://huggingface.co/spaces/akhaliq/PaddleOCR)
+- [Go doc comment revisions: headings, lists, and links · Discussion #48305 · golang/go](https://github.com/golang/go/discussions/48305)
 
-- [Understanding ZFS Channel Programs](https://klarasystems.com/articles/understanding-zfs-channel-programs/)
+- [Transmission torrent client ported to C++](https://github.com/transmission/transmission/pull/1787)
 
-- [Maintain it With Zig](https://kristoff.it/blog/maintain-it-with-zig/)
+- [Genny – Generate Nim library bindings for many languages](https://github.com/treeform/genny)
 
-- [Proofs and Refutations (1963)](https://math.berkeley.edu/%7Ekpmann/Lakatos.pdf)
+- [Pixie – A full-featured 2D graphics library for Nim](https://github.com/treeform/pixie)
 
-- [Arris Cable Modem Teardown](https://medium.com/tenable-techblog/arris-cable-modem-teardown-5e294b7007eb)
+- [Why can’t I go faster than the speed of light?](https://gravityandlevity.wordpress.com/2009/04/08/why-cant-i-go-faster-than-the-speed-of-light-hints-from-electrodynamics/)
 
-- [Those Who Witnessed Castle Bravo Looked into Armageddon](https://medium.com/war-is-boring/those-who-witnessed-castle-bravo-looked-into-armageddon-fa7610578413)
+- [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
 
-- [OWASP Top 10:2021 (DRAFT FOR PEER REVIEW)](https://owasp.org/Top10/)
+- [Jupyter Book](https://jupyterbook.org/intro.html)
 
-- [Sayings of Spartan women](https://penelope.uchicago.edu/Thayer/e/roman/texts/plutarch/moralia/sayings_of_spartan_women*.html)
+- [Eleven proofs of the Gaussian integral [pdf]](https://kconrad.math.uconn.edu/blurbs/analysis/gaussianintegral.pdf)
 
-- [HAProxy vulnerability enables HTTP request smuggling attacks](https://portswigger.net/daily-swig/haproxy-vulnerability-enables-http-request-smuggling-attacks)
+- [Laion-400M: open-source dataset of 400M image-text pairs](https://laion.ai/laion-400-open-dataset/)
 
-- [Clearing up Myths about Ada](https://pyjarrett.github.io/programming-with-ada/clearing-the-air.html)
+- [Drugs mimicking effects of cigarette smoke reduce Covid's ability to enter cells](https://medicalxpress.com/news/2021-09-drugs-mimic-effects-cigarette-sars-cov-.html)
 
-- [An Introduction to Type Level Programming in Haskell](https://rebeccaskinner.net/posts/2021-08-25-introduction-to-type-level-programming.html)
+- [Writing a Doom-style shader for Unity (2017)](https://medium.com/@jmickle_/writing-a-doom-style-shader-for-unity-63fa13678634)
 
-- [Datasette Desktop—a macOS desktop application for Datasette](https://simonwillison.net/2021/Sep/8/datasette-desktop/)
+- [How to write about web performance](https://nolanlawson.com/2021/09/12/how-to-write-about-web-performance/)
 
-- [Thoughts on Clojure UI framework](https://tonsky.me/blog/clojure-ui/)
+- [PipeWire: A server for Linux audio and video streams](https://pipewire.org/)
 
-- [The Tarrant Tabor (2006)](https://uh.edu/admin/engines/epi2099.htm)
+- [Emulating AMD Approximate Arithmetic Instructions On Intel](https://robert.ocallahan.org/2021/09/emulating-amd-rsqrtss-etc-on-intel.html)
 
-- [Too much free time may be almost as bad as too little](https://www.apa.org/news/press/releases/2021/09/too-much-free-time)
+- [Ray casting in 2D game engines](https://sszczep.github.io/ray-casting-in-2d-game-engines/)
 
-- [Hong Kong: Police Raid Tiananmen Square Museum](https://www.bbc.co.uk/news/world-asia-china-58506598)
+- [Developer's Porn Stash Gets Banned from Steam](https://steamcommunity.com/groups/Sentinels_of_the_Store/announcements/detail/2990942216950569314)
 
-- [Squats can boost brain activity [video]](https://www.bbc.com/reel/video/p09v8wyh/how-squats-can-boost-your-brain)
+- [Has AI found a new foundation?](https://thegradient.pub/has-ai-found-a-new-foundation/)
 
-- [A Man Who Swam the Seine](https://www.gq.com/story/arthur-germain-swimming-the-seine)
+- [Ghost in the Shell - Learn Shell Scripting](https://vermaden.wordpress.com/2021/09/13/ghost-in-the-shell-part-6-learn-shell-scripting/)
 
-- [Stop just using “Frontend” or “Backend” to describe the Engineering you like](https://www.michellelim.org/writing/stop-using-frontend-backend/)
+- [Re-visiting Gopher on A/UX](https://virtuallyfun.com/wordpress/2021/09/13/re-visiting-gopher-on-a-ux/)
 
-- [Why Don’t the French Celebrate Lafayette?](https://www.newyorker.com/magazine/2021/08/23/why-dont-the-french-celebrate-lafayette)
+- [The Sumerian Game: The most important video game you’ve never heard of](https://www.acriticalhit.com/sumerian-game-most-important-video-game-youve-never-heard/)
 
-- [NIST research reveals new details about a possible fifth force of nature](https://www.nist.gov/news-events/news/2021/09/groundbreaking-technique-yields-important-new-details-silicon-subatomic)
+- [A Conversation with Guido van Rossum (2003)](https://www.artima.com/intv/guido.html)
 
-- [Artificial Cells That Mimic Living Cells’ Ability to Capture, Process and Expel](https://www.nyu.edu/about/news-publications/news/2021/september/artificial-cells.html)
+- [The Buffett Indicator](https://www.currentmarketvaluation.com/models/buffett-indicator.php)
 
-- [When lightning strikes: managing impacts on wind turbines](https://www.power-technology.com/features/when-lightning-strikes-managing-impacts-on-wind-turbines/)
+- [HashiCorp Terraform and Community Contributions](https://www.hashicorp.com/blog/terraform-community-contributions)
 
-- [New math book rescues landmark topology proof](https://www.quantamagazine.org/new-math-book-rescues-landmark-topology-proof-20210909/)
+- [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/)
 
-- [Paid influencers must label some posts as ads, German court rules](https://www.reuters.com/technology/paid-influencers-must-label-posts-ads-german-court-rules-2021-09-09/)
+- [The ‘Plagiarism Hunter’ Terrorizing the German-Speaking World](https://www.nytimes.com/2021/09/10/world/europe/plagiarism-baerbock-austria-germany.html)
 
-- [How to find and insert Unicode symbols in HTML](https://www.silvestar.codes/articles/how-to-find-and-insert-unicode-symbols-in-html/)
+- [Leaded Gas Was a Known Poison the Day It Was Invented (2016)](https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/)
 
-- [Spook.js: Attacking Google Chrome's Strict Site Isolation](https://www.spookjs.com/)
+- [Man wins $65K after being fired for refusing to be fingerprinted](https://www.startribune.com/mound-man-wins-65k-after-being-fired-for-refusing-to-be-fingerprinted-due-to-christian-faith/600095353/)
 
-- [Jerry Maguire Mission Statement (2016)](https://www.theuncool.com/2016/04/25/jerry-maguire-mission-statement/)
+- [The Road to Self-Reproducing Machines](https://www.wsj.com/articles/the-road-to-self-reproducing-machines-11630605493)
 
-- [Apple fires senior engineering program manager Ashley for leaking information](https://www.theverge.com/2021/9/9/22666049/apple-fires-senior-engineering-program-manager-ashley-gjovik-for-allegedly-leaking-information)
+- [Q500, The Weirdest Optical Mouse](https://www.youtube.com/watch?v=Cd6lxwjX2Bk)
 
-- [TrueVault (YC W14) Is Hiring a VP of Eng to Help SMBs with Data Privacy Laws](https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-vp-engineering)
+- [Designing a Fast, Efficient, Cache-friendly Hash Table, Step by Step (2017)](https://www.youtube.com/watch?v=ncHmEUmJZf4)
 
-- [SPI: The serial peripheral interface](https://www.youtube.com/watch?v=MCi7dCBhVpQ)
+- [Usenet Archives Collected by Norman Yarvin (2005-2011)](https://yarchive.net/)
+
+- [Resource efficient Thread Pools with Zig](https://zig.news/kprotty/resource-efficient-thread-pools-with-zig-3291)
