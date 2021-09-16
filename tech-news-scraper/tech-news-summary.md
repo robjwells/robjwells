@@ -1,103 +1,107 @@
-- [Beam/Erlang/Elixir Concept Explanations](http://beam-wisdoms.clau.se/en/latest/index.html)
+- [Managarm at the End of 2019](http://managarm.org/2019/12/24/end-of-year.html)
 
-- [Comp.lang.c Frequently Asked Questions](http://c-faq.com/)
+- [Donate to the Internet Archive](https://archive.org/donate)
 
-- [CloudI FAQ](http://cloudi.org/faq.html)
+- [Backpage founders get mistrial because US overplayed child sex trafficking claim](https://arstechnica.com/tech-policy/2021/09/backpage-founders-get-mistrial-because-us-overplayed-child-sex-trafficking-claims/)
 
-- [In Search of David Long’s 751-point “Adventure”](http://club.cc.cmu.edu/~ajo/in-search-of-LONG0751/readme.html)
+- [Useful Spy Books](https://berthub.eu/articles/posts/useful-spy-books/)
 
-- [Up and Down the Ladder of Abstraction (2011)](http://worrydream.com/LadderOfAbstraction/)
+- [A History of Library Hand](https://bookriot.com/library-hand/)
 
-- [Dispatch Techniques](http://www.cs.toronto.edu/~matz/dissertation/matzDissertation-latex2html/node6.html)
+- [DeepSource (YC W20) Is Looking for a Talent Acquisition Lead (Bangalore)](https://careers.deepsource.io/o/lead-talent-acquisition)
 
-- [Blaze: High Performance Vector/Matrix Arithmetic Library For C++](https://bitbucket.org/blaze-lib/blaze/src/master/)
+- [Every engineer should do a stint in consulting](https://cloudirregular.substack.com/p/every-engineer-should-do-a-stint)
 
-- [Snapshotting memory to scrape encrypted network requests](https://blog.jonlu.ca/posts/heap-snapshot-scraping?ref=ls)
+- [Why not Signal?](https://dessalines.github.io/essays/why_not_signal.html)
 
-- [Cleaning up header bars in GNOME 41](https://blogs.gnome.org/alexm/2021/09/10/cleaning-up-header-bars/)
+- [Weaponizing Middleboxes for TCP Reflected Amplification](https://geneva.cs.umd.edu/posts/usenix21-weaponizing-censors/)
 
-- [Adam Smith didn't accept inequality as a necessity for a rich economy (2014)](https://blogs.lse.ac.uk/politicsandpolicy/adam-smith-and-inequality/)
+- [Exactly once delivery from Kafka to Delta Lake with Rust](https://github.com/delta-io/kafka-delta-ingest)
 
-- [I got the J language working on OpenBSD](https://briancallahan.net/blog/20210911.html)
+- [Golang: How to Update APIs for Generics](https://github.com/golang/go/discussions/48287)
 
-- [JSON Vulnerability in Haskell's Aeson library](https://cs-syd.eu/posts/2021-09-11-json-vulnerability?source=twitter)
+- [Fast Time Machine-like backups for logical volumes](https://github.com/tasket/wyng-backup)
 
-- [Mind Your Language: On Novices’ Interactions with Error Messages (2011)](https://cs.brown.edu/~sk/Publications/Papers/Published/mfk-mind-lang-novice-inter-error-msg/paper.pdf)
+- [tdunning/t-digest: A new data structure for accurate on-line accumulation of rank-based statistics such as quantiles and trimmed means](https://github.com/tdunning/t-digest)
 
-- [Epiousios](https://en.wikipedia.org/wiki/Epiousios)
+- [Lawmakers Ask Zuck to Drop 'Instagram for Kids' Since App Made Kids Suicidal](https://gizmodo.com/lawmakers-ask-zuckerberg-to-drop-instagram-for-kids-aft-1847683217)
 
-- [Pinky and the Brain](https://fantheories.fandom.com/wiki/Pinky_and_the_Brain)
+- [Automatic cipher suite ordering in crypto/tls](https://go.dev/blog/tls-cipher-suites)
 
-- [Reverse-Engineering Apple Dictionary (2020)](https://fmentzer.github.io/posts/2020/dictionary/)
+- [Google Pixel 3 (XL) bricking out of nothing](https://issuetracker.google.com/issues/192008282)
 
-- [AMule 2.3.3](https://github.com/amule-project/amule/releases/tag/2.3.3)
+- [Go'ing Insane Part One: Endless Error Handling](https://jesseduffield.com/Gos-Shortcomings-1/)
 
-- [Games by Example](https://github.com/asweigart/gamesbyexample)
+- [The WOPRS Organization Model](https://jpreston.xyz/woprs-organization-model.html)
 
-- [A $20,000 consensus challenge based on TigerBeetle's Viewstamped Replication protocol implementation](https://github.com/coilhq/viewstamped-replication-made-famous)
+- [LambdaChip - functional programming on embedded system](https://lambdachip.com/index/)
 
-- [GlueSQL: SQL Database Engine as a Library](https://github.com/gluesql/gluesql)
+- [Java 17 / JDK 17: General Availability](https://mail.openjdk.java.net/pipermail/jdk-dev/2021-September/006037.html)
 
-- [Go doc comment revisions: headings, lists, and links · Discussion #48305 · golang/go](https://github.com/golang/go/discussions/48305)
+- [Python in 2021: The Good, The Bad, and the Ugly](https://new.pythonforengineers.com/blog/python-in-2021-the-good-the-bad-and-the-ugly/)
 
-- [Transmission torrent client ported to C++](https://github.com/transmission/transmission/pull/1787)
+- [The Sega Master System: Third Mark's the Charm](https://nicole.express/2021/i-am-the-mark-iii.html)
 
-- [Genny – Generate Nim library bindings for many languages](https://github.com/treeform/genny)
+- [OpenBSD's pledge and unveil from Python](https://nullprogram.com/blog/2021/09/15/)
 
-- [Pixie – A full-featured 2D graphics library for Nim](https://github.com/treeform/pixie)
+- [Turing Oversold](https://people.idsia.ch//~juergen/turing-oversold.html)
 
-- [Why can’t I go faster than the speed of light?](https://gravityandlevity.wordpress.com/2009/04/08/why-cant-i-go-faster-than-the-speed-of-light-hints-from-electrodynamics/)
+- [A good old-​fashioned Perl log analyzer](https://phoenixtrap.com/2021/09/14/a-good-old-fashioned-perl-log-analyzer/)
 
-- [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
+- [Adopting the OpenAPI schema to generate Plaid’s SDKs](https://plaid.com/blog/adopting-the-openapi-schema-to-generate-plaids-sdks/)
 
-- [Jupyter Book](https://jupyterbook.org/intro.html)
+- [Bit manipulations using BMI2 (2012)](https://randombit.net/bitbashing/posts/haswell_bit_permutations.html)
 
-- [Eleven proofs of the Gaussian integral [pdf]](https://kconrad.math.uconn.edu/blurbs/analysis/gaussianintegral.pdf)
+- [Labor of Division: Narrowing Division Insight and Benchmarks](https://ridiculousfish.com/blog/posts/labor-of-division-episode-vi.html)
 
-- [Laion-400M: open-source dataset of 400M image-text pairs](https://laion.ai/laion-400-open-dataset/)
+- [/dev.space: A digital hackerspace](https://slashdev.space)
 
-- [Drugs mimicking effects of cigarette smoke reduce Covid's ability to enter cells](https://medicalxpress.com/news/2021-09-drugs-mimic-effects-cigarette-sars-cov-.html)
+- [advanced shell packaging: resholve YADM's nixpkg](https://t-ravis.com/post/nix/advanced_shell_packaging_resholve_yadm/)
 
-- [Writing a Doom-style shader for Unity (2017)](https://medium.com/@jmickle_/writing-a-doom-style-shader-for-unity-63fa13678634)
+- [Losing Covid-19 antibody immunity after six months after Pfizer vaccine](https://thedaily.case.edu/new-study-nursing-home-residents-health-care-workers-lose-more-than-80-of-their-covid-19-immunity-six-months-after-pfizer-vaccine/)
 
-- [How to write about web performance](https://nolanlawson.com/2021/09/12/how-to-write-about-web-performance/)
+- [Drum Juggling](https://thekidshouldseethis.com/post/drum-juggling-with-kateryna-nikiforova)
 
-- [PipeWire: A server for Linux audio and video streams](https://pipewire.org/)
+- [There are (at least) two types of package managers](https://utcc.utoronto.ca/~cks/space/blog/tech/PackageManagersTwoTypes)
 
-- [Emulating AMD Approximate Arithmetic Instructions On Intel](https://robert.ocallahan.org/2021/09/emulating-amd-rsqrtss-etc-on-intel.html)
+- [Python Anti-Pattern](https://valinsky.me/articles/python-anti-pattern/)
 
-- [Ray casting in 2D game engines](https://sszczep.github.io/ray-casting-in-2d-game-engines/)
+- [Apple Event for September 14th, 2021](https://www.apple.com/apple-events/)
 
-- [Developer's Porn Stash Gets Banned from Steam](https://steamcommunity.com/groups/Sentinels_of_the_Store/announcements/detail/2990942216950569314)
+- [Facebook under fire over secret teen research](https://www.bbc.co.uk/news/technology-58570353)
 
-- [Has AI found a new foundation?](https://thegradient.pub/has-ai-found-a-new-foundation/)
+- [Lumber crash leads to 'blowout' sales as prices crater](https://www.cbc.ca/news/business/lumber-prices-1.6177016)
 
-- [Ghost in the Shell - Learn Shell Scripting](https://vermaden.wordpress.com/2021/09/13/ghost-in-the-shell-part-6-learn-shell-scripting/)
+- [Is America Inc getting less dynamic, less global and more monopolistic?](https://www.economist.com/business/is-america-inc-getting-less-dynamic-less-global-and-more-monopolistic/21804757)
 
-- [Re-visiting Gopher on A/UX](https://virtuallyfun.com/wordpress/2021/09/13/re-visiting-gopher-on-a-ux/)
+- [Home Assistant – open-source home automation](https://www.home-assistant.io/)
 
-- [The Sumerian Game: The most important video game you’ve never heard of](https://www.acriticalhit.com/sumerian-game-most-important-video-game-youve-never-heard/)
+- [Where is the scrutiny over FDA’s role in the overdose epidemic?](https://www.inquirer.com/opinion/commentary/opioids-accountability-fda-janet-woodcock-20210914.html)
 
-- [A Conversation with Guido van Rossum (2003)](https://www.artima.com/intv/guido.html)
+- [Designing Beautiful Shadows in CSS](https://www.joshwcomeau.com/css/designing-shadows/)
 
-- [The Buffett Indicator](https://www.currentmarketvaluation.com/models/buffett-indicator.php)
+- [Three ex-US intelligence officers admit hacking for UAE](https://www.justice.gov/opa/pr/three-former-us-intelligence-community-and-military-personnel-agree-pay-more-168-million)
 
-- [HashiCorp Terraform and Community Contributions](https://www.hashicorp.com/blog/terraform-community-contributions)
+- [Nikon's 2021 Photomicrography Competition Winners](https://www.nikonsmallworld.com/galleries/2021-photomicrography-competition)
 
-- [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/)
+- [Why satellites are manufactured in clean rooms](https://www.ohb.de/en/magazine/sparkling-clean)
 
-- [The ‘Plagiarism Hunter’ Terrorizing the German-Speaking World](https://www.nytimes.com/2021/09/10/world/europe/plagiarism-baerbock-austria-germany.html)
+- [A Tour of the Oil Language](https://www.oilshell.org/release/latest/doc/oil-language-tour.html)
 
-- [Leaded Gas Was a Known Poison the Day It Was Invented (2016)](https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/)
+- [The first webcam was invented to keep an eye on a coffee pot](https://www.openculture.com/2021/09/the-very-first-webcam-was-invented-to-keep-an-eye-on-a-coffee-pot-at-cambridge-university.html)
 
-- [Man wins $65K after being fired for refusing to be fingerprinted](https://www.startribune.com/mound-man-wins-65k-after-being-fired-for-refusing-to-be-fingerprinted-due-to-christian-faith/600095353/)
+- [How much faster is Java 17?](https://www.optaplanner.org/blog/2021/09/15/HowMuchFasterIsJava17.html)
 
-- [The Road to Self-Reproducing Machines](https://www.wsj.com/articles/the-road-to-self-reproducing-machines-11630605493)
+- [Why Authorization Is Hard](https://www.osohq.com/post/why-authorization-is-hard)
 
-- [Q500, The Weirdest Optical Mouse](https://www.youtube.com/watch?v=Cd6lxwjX2Bk)
+- [Introduction to the QML CMake API](https://www.qt.io/blog/introduction-to-the-qml-cmake-api)
 
-- [Designing a Fast, Efficient, Cache-friendly Hash Table, Step by Step (2017)](https://www.youtube.com/watch?v=ncHmEUmJZf4)
+- [Show HN: Time travel debugger for web development](https://www.replay.io/)
 
-- [Usenet Archives Collected by Norman Yarvin (2005-2011)](https://yarchive.net/)
+- [Sheriff's Office Told Officer to Play Copyrighted Music to Shut Down Recordings](https://www.techdirt.com/articles/20210911/21360647545/officer-claims-sheriffs-office-told-him-to-play-copyrighted-music-to-shut-down-citizens-recordings.shtml)
 
-- [Resource efficient Thread Pools with Zig](https://zig.news/kprotty/resource-efficient-thread-pools-with-zig-3291)
+- [“Secret” Agent Exposes Azure Customers To Unauthorized Code Execution](https://www.wiz.io/blog/secret-agent-exposes-azure-customers-to-unauthorized-code-execution)
+
+- [rqlite: The Distributed Database Built on Raft and SQLite (Philip O'Toole)](https://www.youtube.com/watch?v=JLlIAWjvHxM)
+
+- [Live: SpaceX to launch four civilians to orbit in mission known as Inspiration4](https://www.youtube.com/watch?v=bZVgBAurxsI)
