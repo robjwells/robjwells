@@ -1,107 +1,101 @@
-- [Managarm at the End of 2019](http://managarm.org/2019/12/24/end-of-year.html)
+- [A collection of modern games for the TI-99/4A](http://tigameshelf.net/asm.htm)
 
-- [Donate to the Internet Archive](https://archive.org/donate)
+- [Visual Git Cheat Sheet](http://www.ndpsoftware.com/git-cheatsheet.html#loc=workspace;)
 
-- [Backpage founders get mistrial because US overplayed child sex trafficking claim](https://arstechnica.com/tech-policy/2021/09/backpage-founders-get-mistrial-because-us-overplayed-child-sex-trafficking-claims/)
+- [Calculator Forensics](http://www.rskey.org/~mwsebastian/miscprj/forensics.htm)
 
-- [Useful Spy Books](https://berthub.eu/articles/posts/useful-spy-books/)
+- [Akku.scm - Scheme package manager](https://akkuscm.org/)
 
-- [A History of Library Hand](https://bookriot.com/library-hand/)
+- [My pain building a WYSIWYG editor with contenteditable](https://answerly.io/blog/my-pain-developing-a-wysiwyg-editor-with-contenteditable/)
 
-- [DeepSource (YC W20) Is Looking for a Talent Acquisition Lead (Bangalore)](https://careers.deepsource.io/o/lead-talent-acquisition)
+- [Let’s talk about founder compensation](https://auren.substack.com/p/lets-talk-about-founder-compensation)
 
-- [Every engineer should do a stint in consulting](https://cloudirregular.substack.com/p/every-engineer-should-do-a-stint)
+- [Fixing Time.deltaTime in Unity 2020.2 for smoother gameplay: What did it take?](https://blog.unity.com/technology/fixing-time-deltatime-in-unity-2020-2-for-smoother-gameplay-what-did-it-take)
 
-- [Why not Signal?](https://dessalines.github.io/essays/why_not_signal.html)
+- [Consolidation of the VPN industry spells trouble for the consumer](https://blog.windscribe.com/consolidation-of-the-vpn-industry-spells-trouble-for-the-consumer-57e638634cf0)
 
-- [Weaponizing Middleboxes for TCP Reflected Amplification](https://geneva.cs.umd.edu/posts/usenix21-weaponizing-censors/)
+- [Cinepaint: The long forgotten GIMP fork that once powered the cinema industry](https://cinepaint.bigasterisk.com/TheHistoryOfCinePaint/)
 
-- [Exactly once delivery from Kafka to Delta Lake with Rust](https://github.com/delta-io/kafka-delta-ingest)
+- [Setting Up Yocto Projects with kas](https://embeddeduse.com/2021/09/18/setting-up-yocto-projects-with-kas/)
 
-- [Golang: How to Update APIs for Generics](https://github.com/golang/go/discussions/48287)
+- [Technologicat/pyan: Static call graph generator. The official Python 3 version](https://github.com/Technologicat/pyan)
 
-- [Fast Time Machine-like backups for logical volumes](https://github.com/tasket/wyng-backup)
+- [Raspberry Pi config for all things Internet](https://github.com/geerlingguy/internet-pi)
 
-- [tdunning/t-digest: A new data structure for accurate on-line accumulation of rank-based statistics such as quantiles and trimmed means](https://github.com/tdunning/t-digest)
+- [DOS Subsystem for Linux](https://github.com/haileys/doslinux)
 
-- [Lawmakers Ask Zuck to Drop 'Instagram for Kids' Since App Made Kids Suicidal](https://gizmodo.com/lawmakers-ask-zuckerberg-to-drop-instagram-for-kids-aft-1847683217)
+- [Bestline: Light self-contained readline alternative](https://github.com/jart/bestline)
 
-- [Automatic cipher suite ordering in crypto/tls](https://go.dev/blog/tls-cipher-suites)
+- [Sysz – An fzf terminal UI for systemctl](https://github.com/joehillen/sysz)
 
-- [Google Pixel 3 (XL) bricking out of nothing](https://issuetracker.google.com/issues/192008282)
+- [chkservice: ncurses-based TUI for systemd](https://github.com/linuxenko/chkservice)
 
-- [Go'ing Insane Part One: Endless Error Handling](https://jesseduffield.com/Gos-Shortcomings-1/)
+- [AirGuard: Protect yourself from being tracked by AirTags and Find My accessories](https://github.com/seemoo-lab/AirGuard)
 
-- [The WOPRS Organization Model](https://jpreston.xyz/woprs-organization-model.html)
+- [You may not need Moment.js](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
 
-- [LambdaChip - functional programming on embedded system](https://lambdachip.com/index/)
+- [Belgian ISP under 250 Gbps DDoS for days on end](https://issues.edpnet.be/)
 
-- [Java 17 / JDK 17: General Availability](https://mail.openjdk.java.net/pipermail/jdk-dev/2021-September/006037.html)
+- [How We Made Playable Quotes for the Game Boy](https://joel.franusic.com/playable_quotes_for_game_boy)
 
-- [Python in 2021: The Good, The Bad, and the Ugly](https://new.pythonforengineers.com/blog/python-in-2021-the-good-the-bad-and-the-ugly/)
+- [Ditch your version manager](https://juliu.is/ditch-your-version-manager/)
 
-- [The Sega Master System: Third Mark's the Charm](https://nicole.express/2021/i-am-the-mark-iii.html)
+- [KySync: A complete, modern C++ rewrite of Zsync with 3x-10x+ performance boost](https://kyall.notion.site/KySync-v1-0-29eaad446308449a8c9a2373850eed62)
 
-- [OpenBSD's pledge and unveil from Python](https://nullprogram.com/blog/2021/09/15/)
+- [All About B Trees and Databases](https://medium.com/@amitdavidson234/all-about-b-trees-and-databases-8c0697856189)
 
-- [Turing Oversold](https://people.idsia.ch//~juergen/turing-oversold.html)
+- [A Short History of Objective-C (2017)](https://medium.com/chmcore/a-short-history-of-objective-c-aff9d2bde8dd)
 
-- [A good old-​fashioned Perl log analyzer](https://phoenixtrap.com/2021/09/14/a-good-old-fashioned-perl-log-analyzer/)
+- [Reality Check for Cloudflare Wasm Workers and Rust](https://nickb.dev/blog/reality-check-for-cloudflare-wasm-workers-and-rust)
 
-- [Adopting the OpenAPI schema to generate Plaid’s SDKs](https://plaid.com/blog/adopting-the-openapi-schema-to-generate-plaids-sdks/)
+- [Our Next Trip to Integer Partitions](https://offbeat.cc/blog/our-trip-to-integer-partitions.html)
 
-- [Bit manipulations using BMI2 (2012)](https://randombit.net/bitbashing/posts/haswell_bit_permutations.html)
+- [Write in JavaScript, Render in Flutter](https://openkraken.com/en-US)
 
-- [Labor of Division: Narrowing Division Insight and Benchmarks](https://ridiculousfish.com/blog/posts/labor-of-division-episode-vi.html)
+- [TruthfulQA: Measuring How Models Mimic Human Falsehoods](https://owainevans.github.io/pdfs/truthfulQA_lin_evans.pdf)
 
-- [/dev.space: A digital hackerspace](https://slashdev.space)
+- [The DragonFlyBSD Operating System](https://people.freebsd.org/~hsu/publications/dragonflybsd.asiabsdcon04.pdf)
 
-- [advanced shell packaging: resholve YADM's nixpkg](https://t-ravis.com/post/nix/advanced_shell_packaging_resholve_yadm/)
+- [Using Podman with BuildKit, the better Docker image builder](https://pythonspeed.com/articles/podman-buildkit/)
 
-- [Losing Covid-19 antibody immunity after six months after Pfizer vaccine](https://thedaily.case.edu/new-study-nursing-home-residents-health-care-workers-lose-more-than-80-of-their-covid-19-immunity-six-months-after-pfizer-vaccine/)
+- [The pitfalls of using SSH-agent, or how to use an agent safely](https://rabexc.org/posts/pitfalls-of-ssh-agents)
 
-- [Drum Juggling](https://thekidshouldseethis.com/post/drum-juggling-with-kateryna-nikiforova)
+- [A search engine that favors text-heavy sites and punishes modern web design](https://search.marginalia.nu/)
 
-- [There are (at least) two types of package managers](https://utcc.utoronto.ca/~cks/space/blog/tech/PackageManagersTwoTypes)
+- [Q&A with the co-creator of the 6502](https://spectrum.ieee.org/q-a-with-co-creator-of-the-6502-processor)
 
-- [Python Anti-Pattern](https://valinsky.me/articles/python-anti-pattern/)
+- [Why We Migrated from Kubernetes to Nomad](https://thenewstack.io/conductor-why-we-migrated-from-kubernetes-to-nomad/)
 
-- [Apple Event for September 14th, 2021](https://www.apple.com/apple-events/)
+- [What I Learnt Becoming a Tech Lead](https://tomgamon.com/posts/things-i-have-learned-new-tech-lead/)
 
-- [Facebook under fire over secret teen research](https://www.bbc.co.uk/news/technology-58570353)
+- [WireGuard for Windows now uses high speed kernel implementation](https://twitter.com/EdgeSecurity/status/1437402720135270403)
 
-- [Lumber crash leads to 'blowout' sales as prices crater](https://www.cbc.ca/news/business/lumber-prices-1.6177016)
+- [Ghost in the Shell – ZSH Setup](https://vermaden.wordpress.com/2021/09/19/ghost-in-the-shell-part-7-zsh-setup/)
 
-- [Is America Inc getting less dynamic, less global and more monopolistic?](https://www.economist.com/business/is-america-inc-getting-less-dynamic-less-global-and-more-monopolistic/21804757)
+- [Can You See the Republic of Ireland from England?](https://www.anglezarke.net/can-you-see-the-republic-of-ireland-from-england/)
 
-- [Home Assistant – open-source home automation](https://www.home-assistant.io/)
+- [Introducing Bagel: A statically typed, reactive language with pure and impure functions](https://www.brandons.me/blog/the-bagel-language)
 
-- [Where is the scrutiny over FDA’s role in the overdose epidemic?](https://www.inquirer.com/opinion/commentary/opioids-accountability-fda-janet-woodcock-20210914.html)
+- [How to rapidly improve at any programming language (2016)](https://www.cbui.dev/how-to-rapidly-improve-at-any-programming-language/)
 
-- [Designing Beautiful Shadows in CSS](https://www.joshwcomeau.com/css/designing-shadows/)
+- [Aeson Object Design](https://www.extrema.is/blog/2021/09/14/aeson-object-design)
 
-- [Three ex-US intelligence officers admit hacking for UAE](https://www.justice.gov/opa/pr/three-former-us-intelligence-community-and-military-personnel-agree-pay-more-168-million)
+- [Excision's CRISPR HIV therapy is heading into human testing after FDA clearance](https://www.fiercebiotech.com/biotech/excision-hiv-crispr-gene-editing-therapy-cleared-for-human-studies-by-fda)
 
-- [Nikon's 2021 Photomicrography Competition Winners](https://www.nikonsmallworld.com/galleries/2021-photomicrography-competition)
+- [Why the American shoe disappeared and why it's so hard to bring it back (2019)](https://www.npr.org/2019/06/19/731268823/why-the-american-shoe-disappeared-and-why-its-so-hard-to-bring-it-back)
 
-- [Why satellites are manufactured in clean rooms](https://www.ohb.de/en/magazine/sparkling-clean)
+- [Big gap between Pfizer, Moderna vaccines for preventing Covid hospitalizations](https://www.post-gazette.com/news/health/2021/09/18/Big-gap-between-Pfizer-Moderna-vaccines-seen-for-preventing-COVID-19-hospitalizations/stories/202109180045)
 
-- [A Tour of the Oil Language](https://www.oilshell.org/release/latest/doc/oil-language-tour.html)
+- [GNU/Linux Open Hardware PowerPC Notebook Project](https://www.powerpc-notebook.org)
 
-- [The first webcam was invented to keep an eye on a coffee pot](https://www.openculture.com/2021/09/the-very-first-webcam-was-invented-to-keep-an-eye-on-a-coffee-pot-at-cambridge-university.html)
+- [Ireland raises privacy question over Facebook smart glasses](https://www.reuters.com/technology/ireland-raises-privacy-question-over-facebook-smart-glasses-2021-09-17/)
 
-- [How much faster is Java 17?](https://www.optaplanner.org/blog/2021/09/15/HowMuchFasterIsJava17.html)
+- [The Reason for Germany's Industrial Expansion in the 19th Century?](https://www.spiegel.de/international/zeitgeist/no-copyright-law-the-real-reason-for-germany-s-industrial-expansion-a-710976.html)
 
-- [Why Authorization Is Hard](https://www.osohq.com/post/why-authorization-is-hard)
+- [Groundbreaking arm amputation surgery makes a ‘phantom’ hand seem real](https://www.statnews.com/2021/09/14/i-can-still-feel-it-new-arm-amputation-surgery-makes-a-phantom-hand-seem-real/)
 
-- [Introduction to the QML CMake API](https://www.qt.io/blog/introduction-to-the-qml-cmake-api)
+- [Amazon says it’s permanently banned 600 Chinese brands for review fraud](https://www.theverge.com/2021/9/17/22680269/amazon-ban-chinese-brands-review-abuse-fraud-policy)
 
-- [Show HN: Time travel debugger for web development](https://www.replay.io/)
+- [Upgraded Homemade Silicon Chips](https://www.youtube.com/watch?v=IS5ycm7VfXg)
 
-- [Sheriff's Office Told Officer to Play Copyrighted Music to Shut Down Recordings](https://www.techdirt.com/articles/20210911/21360647545/officer-claims-sheriffs-office-told-him-to-play-copyrighted-music-to-shut-down-citizens-recordings.shtml)
-
-- [“Secret” Agent Exposes Azure Customers To Unauthorized Code Execution](https://www.wiz.io/blog/secret-agent-exposes-azure-customers-to-unauthorized-code-execution)
-
-- [rqlite: The Distributed Database Built on Raft and SQLite (Philip O'Toole)](https://www.youtube.com/watch?v=JLlIAWjvHxM)
-
-- [Live: SpaceX to launch four civilians to orbit in mission known as Inspiration4](https://www.youtube.com/watch?v=bZVgBAurxsI)
+- [A History of Clojure with Q&A](https://www.youtube.com/watch?v=nD-QHbRWcoM)
