@@ -1,101 +1,105 @@
-- [A collection of modern games for the TI-99/4A](http://tigameshelf.net/asm.htm)
+- [std::optional and non-POD C++ types](http://blog.felipe.rs/2021/09/19/std-optional-and-non-pod-types-in-cpp)
 
-- [Visual Git Cheat Sheet](http://www.ndpsoftware.com/git-cheatsheet.html#loc=workspace;)
+- [Lock-Free Data Structures (2007)](http://erdani.org/publications/cuj-2004-10.pdf)
 
-- [Calculator Forensics](http://www.rskey.org/~mwsebastian/miscprj/forensics.htm)
+- [Public Domain Operating System](http://www.pdos.org/)
 
-- [Akku.scm - Scheme package manager](https://akkuscm.org/)
+- [Implementing Co, a Small Interpreted Language With Coroutines #2: The Interpreter](https://abhinavsarkar.net/posts/implementing-co-2/)
 
-- [My pain building a WYSIWYG editor with contenteditable](https://answerly.io/blog/my-pain-developing-a-wysiwyg-editor-with-contenteditable/)
+- [Engineering for Scale in Clojure](https://anchor.fm/recursive-house/episodes/Episode-2---Dmitri-Sotnikov---Engineering-for-Scale-in-Clojure-e17ka83)
 
-- [Let’s talk about founder compensation](https://auren.substack.com/p/lets-talk-about-founder-compensation)
+- [Is BI dead? – On dismantling data's ship of Theseus](https://benn.substack.com/p/is-bi-dead)
 
-- [Fixing Time.deltaTime in Unity 2020.2 for smoother gameplay: What did it take?](https://blog.unity.com/technology/fixing-time-deltatime-in-unity-2020-2-for-smoother-gameplay-what-did-it-take)
+- [Imaging mounted disk volumes under duress](https://blog.benjojo.co.uk/post/imaging-mounted-disk-volumes-live)
 
-- [Consolidation of the VPN industry spells trouble for the consumer](https://blog.windscribe.com/consolidation-of-the-vpn-industry-spells-trouble-for-the-consumer-57e638634cf0)
+- [DataStation, open source data IDE, 0.1.0 is released](https://datastation.multiprocess.io/docs/0.1.0-release-notes.html)
 
-- [Cinepaint: The long forgotten GIMP fork that once powered the cinema industry](https://cinepaint.bigasterisk.com/TheHistoryOfCinePaint/)
+- [Introduction to Hippo: The WebAssembly PaaS](https://deislabs.io/posts/introducing-hippo/)
 
-- [Setting Up Yocto Projects with kas](https://embeddeduse.com/2021/09/18/setting-up-yocto-projects-with-kas/)
+- [deskto.ps — share annotated screenshots of your desktop](https://deskto.ps/)
 
-- [Technologicat/pyan: Static call graph generator. The official Python 3 version](https://github.com/Technologicat/pyan)
+- [Sourcegraph Code Search - The Developers’ Gold Mine](https://dev.to/sourcegraph/sourcegraph-code-search-the-developers-treasure-trove-3ach)
 
-- [Raspberry Pi config for all things Internet](https://github.com/geerlingguy/internet-pi)
+- [Why Discord is switching from Go to Rust (2020)](https://discord.com/blog/why-discord-is-switching-from-go-to-rust)
 
-- [DOS Subsystem for Linux](https://github.com/haileys/doslinux)
+- [I quit – Peak indifference, big tobacco](https://doctorow.medium.com/i-quit-9ae7b6010c99)
 
-- [Bestline: Light self-contained readline alternative](https://github.com/jart/bestline)
+- [Earthquake in Melbourne, Australia (9.15 AM 22nd Sep 21, AEST)](https://earthquakes.ga.gov.au/event/ga2021sqogij)
 
-- [Sysz – An fzf terminal UI for systemctl](https://github.com/joehillen/sysz)
+- [The First Rule of Machine Learning: Start Without Machine Learning](https://eugeneyan.com/writing/first-rule-of-ml/)
 
-- [chkservice: ncurses-based TUI for systemd](https://github.com/linuxenko/chkservice)
+- [The first and last time AIM was hacked](https://g.livejournal.com/8390.html)
 
-- [AirGuard: Protect yourself from being tracked by AirTags and Find My accessories](https://github.com/seemoo-lab/AirGuard)
+- [Aubio, a C library for analyzing songs](https://github.com/aubio/aubio)
 
-- [You may not need Moment.js](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
+- [The Open Book Project: open-hardware e-ink eBook reader](https://github.com/joeycastillo/The-Open-Book)
 
-- [Belgian ISP under 250 Gbps DDoS for days on end](https://issues.edpnet.be/)
+- [I pattern I have been applying in Elixir: Using Ecto to validate params from web requests](https://github.com/roehst/ecto-plug-params)
 
-- [How We Made Playable Quotes for the Game Boy](https://joel.franusic.com/playable_quotes_for_game_boy)
+- [Rust adds initial support for m68k](https://github.com/rust-lang/rust/pull/88321)
 
-- [Ditch your version manager](https://juliu.is/ditch-your-version-manager/)
+- [Senior Software Engineer - HDR Enablement](https://global-redhat.icims.com/jobs/89344/senior-software-engineer---hdr-enablement/job)
 
-- [KySync: A complete, modern C++ rewrite of Zsync with 3x-10x+ performance boost](https://kyall.notion.site/KySync-v1-0-29eaad446308449a8c9a2373850eed62)
+- [Guix-HPC — What’s in a package](https://hpc.guix.info/blog/2021/09/whats-in-a-package/)
 
-- [All About B Trees and Databases](https://medium.com/@amitdavidson234/all-about-b-trees-and-databases-8c0697856189)
+- [A different kind of keyboard](https://ianthehenry.com/posts/peggi/)
 
-- [A Short History of Objective-C (2017)](https://medium.com/chmcore/a-short-history-of-objective-c-aff9d2bde8dd)
+- [That time I told my wife I wanted to quit my job](https://keygen.sh/blog/that-time-i-told-my-wife-i-wanted-to-quit-my-job/)
 
-- [Reality Check for Cloudflare Wasm Workers and Rust](https://nickb.dev/blog/reality-check-for-cloudflare-wasm-workers-and-rust)
+- [Static analysis using Haskell and Datalog](https://luctielen.com/posts/static_analysis_using_haskell_and_datalog/)
 
-- [Our Next Trip to Integer Partitions](https://offbeat.cc/blog/our-trip-to-integer-partitions.html)
+- [The BYTE magazine covers by Robert Tinney](https://lunduke.substack.com/p/the-truly-epic-byte-magazine-covers)
 
-- [Write in JavaScript, Render in Flutter](https://openkraken.com/en-US)
+- [Mux is looking for engineers with experience building WebRTC infrastructure](https://mux.com/jobs?hnj=real-time-video)
 
-- [TruthfulQA: Measuring How Models Mimic Human Falsehoods](https://owainevans.github.io/pdfs/truthfulQA_lin_evans.pdf)
+- [More Casio Watch Mods (LCD Colors, Transparent Display, Micro SD, Strap Remover)](https://n-o-d-e.net/watch_mods.html)
 
-- [The DragonFlyBSD Operating System](https://people.freebsd.org/~hsu/publications/dragonflybsd.asiabsdcon04.pdf)
+- [The Hitchhiker's Guide to Kotlin](https://nathan-contino.github.io/site,/name,/colors,/web/2020/12/11/hitchhikersGuideToKotlin.html)
 
-- [Using Podman with BuildKit, the better Docker image builder](https://pythonspeed.com/articles/podman-buildkit/)
+- [Software projects need heroes? lessons learned from 1100 projects](https://neverworkintheory.org/2021/09/10/why-software-projects-need-heroes.html)
 
-- [The pitfalls of using SSH-agent, or how to use an agent safely](https://rabexc.org/posts/pitfalls-of-ssh-agents)
+- [Enumerating and analyzing 40+ non-V8 JavaScript implementations](https://notes.eatonphil.com/javascript-implementations.html)
 
-- [A search engine that favors text-heavy sites and punishes modern web design](https://search.marginalia.nu/)
+- [Nyxt Release 2.2.0](https://nyxt.atlas.engineer/article/release-2.2.0.org)
 
-- [Q&A with the co-creator of the 6502](https://spectrum.ieee.org/q-a-with-co-creator-of-the-6502-processor)
+- [Everyone’s a (Perl) critic, and you can be too](https://phoenixtrap.com/2021/09/21/everyones-a-perl-critic/)
 
-- [Why We Migrated from Kubernetes to Nomad](https://thenewstack.io/conductor-why-we-migrated-from-kubernetes-to-nomad/)
+- [The Framework is the most exciting laptop I've used](https://pluralistic.net/2021/09/21/monica-byrne/#think-different)
 
-- [What I Learnt Becoming a Tech Lead](https://tomgamon.com/posts/things-i-have-learned-new-tech-lead/)
+- [Show HN: Qodebeam - platform for data sharing between users and services](https://qodebeam.com)
 
-- [WireGuard for Windows now uses high speed kernel implementation](https://twitter.com/EdgeSecurity/status/1437402720135270403)
+- [5 RCEs in npm for $15,000](https://robertchen.cc/blog/2021/09/20/npm-rce)
 
-- [Ghost in the Shell – ZSH Setup](https://vermaden.wordpress.com/2021/09/19/ghost-in-the-shell-part-7-zsh-setup/)
+- [An update on Memory Safety in Chrome](https://security.googleblog.com/2021/09/an-update-on-memory-safety-in-chrome.html)
 
-- [Can You See the Republic of Ireland from England?](https://www.anglezarke.net/can-you-see-the-republic-of-ireland-from-england/)
+- [The Silicon Carbide Race Begins](https://semiengineering.com/the-silicon-carbide-race-begins/)
 
-- [Introducing Bagel: A statically typed, reactive language with pure and impure functions](https://www.brandons.me/blog/the-bagel-language)
+- [macOS Finder RCE](https://ssd-disclosure.com/ssd-advisory-macos-finder-rce/)
 
-- [How to rapidly improve at any programming language (2016)](https://www.cbui.dev/how-to-rapidly-improve-at-any-programming-language/)
+- [TikTokers Are Trading Stocks by Copying What Members of Congress Do](https://text.npr.org/1039313011)
 
-- [Aeson Object Design](https://www.extrema.is/blog/2021/09/14/aeson-object-design)
+- [While posting to Tumblr, E and W keys just stopped working](https://twitter.com/foone/status/1440014690831126528)
 
-- [Excision's CRISPR HIV therapy is heading into human testing after FDA clearance](https://www.fiercebiotech.com/biotech/excision-hiv-crispr-gene-editing-therapy-cleared-for-human-studies-by-fda)
+- [Native fuzzing will be in Go 1.18](https://twitter.com/katie_hockman/status/1440082486692773897)
 
-- [Why the American shoe disappeared and why it's so hard to bring it back (2019)](https://www.npr.org/2019/06/19/731268823/why-the-american-shoe-disappeared-and-why-its-so-hard-to-bring-it-back)
+- [Taming Go’s memory usage, or how we avoided rewriting our client in Rust](https://www.akitasoftware.com/blog-posts/taming-gos-memory-usage-or-how-we-avoided-rewriting-our-client-in-rust)
 
-- [Big gap between Pfizer, Moderna vaccines for preventing Covid hospitalizations](https://www.post-gazette.com/news/health/2021/09/18/Big-gap-between-Pfizer-Moderna-vaccines-seen-for-preventing-COVID-19-hospitalizations/stories/202109180045)
+- [Cosmic Rays Flipping Bits](https://www.johndcook.com/blog/2019/05/20/cosmic-rays-flipping-bits/)
 
-- [GNU/Linux Open Hardware PowerPC Notebook Project](https://www.powerpc-notebook.org)
+- [Confessions of a Michelin Star Inspector](https://www.luxeat.com/blog/confessions-of-a-michelin-inspector/)
 
-- [Ireland raises privacy question over Facebook smart glasses](https://www.reuters.com/technology/ireland-raises-privacy-question-over-facebook-smart-glasses-2021-09-17/)
+- [Manyverse – A social network off the grid](https://www.manyver.se/)
 
-- [The Reason for Germany's Industrial Expansion in the 19th Century?](https://www.spiegel.de/international/zeitgeist/no-copyright-law-the-real-reason-for-germany-s-industrial-expansion-a-710976.html)
+- [Scientists develop the next generation of reservoir computing](https://www.nature.com/articles/s41467-021-25801-2)
 
-- [Groundbreaking arm amputation surgery makes a ‘phantom’ hand seem real](https://www.statnews.com/2021/09/14/i-can-still-feel-it-new-arm-amputation-surgery-makes-a-phantom-hand-seem-real/)
+- [The last days of Silicon Roundabout](https://www.newstatesman.com/science-tech/2021/09/the-last-days-of-silicon-roundabout)
 
-- [Amazon says it’s permanently banned 600 Chinese brands for review fraud](https://www.theverge.com/2021/9/17/22680269/amazon-ban-chinese-brands-review-abuse-fraud-policy)
+- [Facebook’s Push to Defend Its Image](https://www.nytimes.com/2021/09/21/technology/zuckerberg-facebook-project-amplify.html)
 
-- [Upgraded Homemade Silicon Chips](https://www.youtube.com/watch?v=IS5ycm7VfXg)
+- [Mathematician answers chess problem about attacking queens](https://www.quantamagazine.org/mathematician-answers-chess-problem-about-attacking-queens-20210921/)
 
-- [A History of Clojure with Q&A](https://www.youtube.com/watch?v=nD-QHbRWcoM)
+- [Mister Rogers had a simple set of rules for talking to children (2018)](https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/)
+
+- [Soviets put out a burning gas well with a nuclear explosion (1966) [video]](https://www.youtube.com/watch?v=2KJ6p4JVN4g)
+
+- [Linux on the Desktop: Part Two](https://xn--gckvb8fzb.com/linux-on-the-desktop-part-two/)
