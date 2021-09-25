@@ -1,105 +1,105 @@
-- [std::optional and non-POD C++ types](http://blog.felipe.rs/2021/09/19/std-optional-and-non-pod-types-in-cpp)
+- [RTC (Real-Time Communication) at scale](http://horatiulazu.ca/blog/coop/2020/05/02/rt-calling.html)
 
-- [Lock-Free Data Structures (2007)](http://erdani.org/publications/cuj-2004-10.pdf)
+- [Release Highlights for scikit-learn 1.0](http://scikit-learn.org/stable/auto_examples/release_highlights/plot_release_highlights_1_0_0.html)
 
-- [Public Domain Operating System](http://www.pdos.org/)
+- [My Math Confession](https://adriano.fyi/post/2021-09-23-my-math-confession/)
 
-- [Implementing Co, a Small Interpreted Language With Coroutines #2: The Interpreter](https://abhinavsarkar.net/posts/implementing-co-2/)
+- [Examining btrfs, Linux’s perpetually half-finished filesystem](https://arstechnica.com/gadgets/2021/09/examining-btrfs-linuxs-perpetually-half-finished-filesystem/)
 
-- [Engineering for Scale in Clojure](https://anchor.fm/recursive-house/episodes/Episode-2---Dmitri-Sotnikov---Engineering-for-Scale-in-Clojure-e17ka83)
+- [Introduction to Neural Network Verification [pdf]](https://arxiv.org/abs/2109.10317)
 
-- [Is BI dead? – On dismantling data's ship of Theseus](https://benn.substack.com/p/is-bi-dead)
+- [Why We Killed Our End-to-End Test Suite](https://building.nubank.com.br/why-we-killed-our-end-to-end-test-suite/)
 
-- [Imaging mounted disk volumes under duress](https://blog.benjojo.co.uk/post/imaging-mounted-disk-volumes-live)
+- [“Pay for success” contracts – a model to develop new therapies from old drugs](https://crowdfundedcures.medium.com/pay-for-success-contracts-a-new-model-to-develop-new-therapies-from-old-drugs-f69b2189184d)
 
-- [DataStation, open source data IDE, 0.1.0 is released](https://datastation.multiprocess.io/docs/0.1.0-release-notes.html)
+- [Reading Rituals](https://cruiseandpaul.substack.com/p/reading-rituals)
 
-- [Introduction to Hippo: The WebAssembly PaaS](https://deislabs.io/posts/introducing-hippo/)
+- [Antinets (a.k.a. analog Zettelkästen) and the power of tree structures](https://daily.scottscheper.com/num/247/)
 
-- [deskto.ps — share annotated screenshots of your desktop](https://deskto.ps/)
+- [OCaml 4.13.0](https://discuss.ocaml.org/t/ocaml-4-13-0-and-4-12-1/8529)
 
-- [Sourcegraph Code Search - The Developers’ Gold Mine](https://dev.to/sourcegraph/sourcegraph-code-search-the-developers-treasure-trove-3ach)
+- [Tree-ring dating of musical instruments](https://doi.org/10.1126/science.abj3823)
 
-- [Why Discord is switching from Go to Rust (2020)](https://discord.com/blog/why-discord-is-switching-from-go-to-rust)
+- [Asynchronous Programming in C#](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
 
-- [I quit – Peak indifference, big tobacco](https://doctorow.medium.com/i-quit-9ae7b6010c99)
+- [The world's worst Linux kernel module (driver)](https://github.com/davidmalcolm/antipatterns.ko)
 
-- [Earthquake in Melbourne, Australia (9.15 AM 22nd Sep 21, AEST)](https://earthquakes.ga.gov.au/event/ga2021sqogij)
+- [Toybox: All-in-one Linux command line](https://github.com/landley/toybox)
 
-- [The First Rule of Machine Learning: Start Without Machine Learning](https://eugeneyan.com/writing/first-rule-of-ml/)
+- [IBM CP-67 CMS Source Code](https://github.com/moshix/CP-67-CMS-Source)
 
-- [The first and last time AIM was hacked](https://g.livejournal.com/8390.html)
+- [BGGP/2021](https://github.com/netspooky/BGGP/tree/main/2021)
 
-- [Aubio, a C library for analyzing songs](https://github.com/aubio/aubio)
+- [Phoenix 1.6 released](https://github.com/phoenixframework/phoenix/blob/master/CHANGELOG.md)
 
-- [The Open Book Project: open-hardware e-ink eBook reader](https://github.com/joeycastillo/The-Open-Book)
+- [200k-year-old hand art found near a Tibetan hot spring](https://gizmodo.com/200-000-year-old-hand-art-found-near-a-tibetan-hot-spri-1847682046)
 
-- [I pattern I have been applying in Elixir: Using Ecto to validate params from web requests](https://github.com/roehst/ecto-plug-params)
+- [Disclosure of three 0-day iOS vulnerabilities and critique of Apple Security Bounty program](https://habr.com/en/post/579714/)
 
-- [Rust adds initial support for m68k](https://github.com/rust-lang/rust/pull/88321)
+- [Data scientists shouldn’t need to know Kubernetes](https://huyenchip.com/2021/09/13/data-science-infrastructure.html)
 
-- [Senior Software Engineer - HDR Enablement](https://global-redhat.icims.com/jobs/89344/senior-software-engineer---hdr-enablement/job)
+- [Debugging an mruby Heap Corruption in Artichoke with Pernosco](https://hyperbo.la/w/artichoke-pernosco/)
 
-- [Guix-HPC — What’s in a package](https://hpc.guix.info/blog/2021/09/whats-in-a-package/)
+- [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 
-- [A different kind of keyboard](https://ianthehenry.com/posts/peggi/)
+- [My Janet Story](https://junglecoder.com/blog/my-janet-story)
 
-- [That time I told my wife I wanted to quit my job](https://keygen.sh/blog/that-time-i-told-my-wife-i-wanted-to-quit-my-job/)
+- [Nginx Playground](https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground/)
 
-- [Static analysis using Haskell and Datalog](https://luctielen.com/posts/static_analysis_using_haskell_and_datalog/)
+- [Facebook is other people](https://kevinmunger.substack.com/p/facebook-is-other-people)
 
-- [The BYTE magazine covers by Robert Tinney](https://lunduke.substack.com/p/the-truly-epic-byte-magazine-covers)
+- [The Curious Case of IKEA Vocabulary](https://lar5.com/ikea/)
 
-- [Mux is looking for engineers with experience building WebRTC infrastructure](https://mux.com/jobs?hnj=real-time-video)
+- [Security Improvements in GCC](https://linuxplumbersconf.org/event/11/contributions/1001/attachments/882/1690/LPC_security_gcc_temp.pdf)
 
-- [More Casio Watch Mods (LCD Colors, Transparent Display, Micro SD, Strap Remover)](https://n-o-d-e.net/watch_mods.html)
+- [coreutils-9.0 released [stable]](https://lists.gnu.org/archive/html/coreutils-announce/2021-09/msg00000.html)
 
-- [The Hitchhiker's Guide to Kotlin](https://nathan-contino.github.io/site,/name,/colors,/web/2020/12/11/hitchhikersGuideToKotlin.html)
+- [Your face is not a bar code: arguments against automatic face recognition (2001)](https://pages.gseis.ucla.edu/faculty/agre/bar-code.html)
 
-- [Software projects need heroes? lessons learned from 1100 projects](https://neverworkintheory.org/2021/09/10/why-software-projects-need-heroes.html)
+- [Sunlight-driven photocatalytic water splitting for hydrogen production at scale](https://phys.org/news/2021-09-sunlight-driven-photocatalytic-hydrogen-production-scale.html)
 
-- [Enumerating and analyzing 40+ non-V8 JavaScript implementations](https://notes.eatonphil.com/javascript-implementations.html)
+- [Developers fix multitude of vulnerabilities in Apache HTTP Server](https://portswigger.net/daily-swig/developers-fix-multitude-of-vulnerabilities-in-apache-http-server)
 
-- [Nyxt Release 2.2.0](https://nyxt.atlas.engineer/article/release-2.2.0.org)
+- [Circassian Beauty in the American Sideshow](https://publicdomainreview.org/essay/circassian-beauties/)
 
-- [Everyone’s a (Perl) critic, and you can be too](https://phoenixtrap.com/2021/09/21/everyones-a-perl-critic/)
+- [AMD’s Lisa Su](https://spectrum.ieee.org/amds-lisa-su-breaks-through-the-silicon-ceiling)
 
-- [The Framework is the most exciting laptop I've used](https://pluralistic.net/2021/09/21/monica-byrne/#think-different)
+- [Deep Learning's Diminishing Returns](https://spectrum.ieee.org/deep-learning-computational-cost)
 
-- [Show HN: Qodebeam - platform for data sharing between users and services](https://qodebeam.com)
+- [Leaked grant proposal details high-risk coronavirus research](https://theintercept.com/2021/09/23/coronavirus-research-grant-darpa/)
 
-- [5 RCEs in npm for $15,000](https://robertchen.cc/blog/2021/09/20/npm-rce)
+- [Unlocked OS Build for the Oculus Go](https://twitter.com/id_aa_carmack/status/1441496416463904768)
 
-- [An update on Memory Safety in Chrome](https://security.googleblog.com/2021/09/an-update-on-memory-safety-in-chrome.html)
+- [Understanding EGL, GLX and friends in the Linux and X graphics stack](https://utcc.utoronto.ca/~cks/space/blog/linux/EGLAndGLXAndOpenGL)
 
-- [The Silicon Carbide Race Begins](https://semiengineering.com/the-silicon-carbide-race-begins/)
+- [Go generics have a new "type sets" way of doing type constraints](https://utcc.utoronto.ca/~cks/space/blog/programming/GoGenericsTypeSets)
 
-- [macOS Finder RCE](https://ssd-disclosure.com/ssd-advisory-macos-finder-rce/)
+- [Understanding Startup Offers](https://withcompound.com/manual-company-equity/understanding-startup-offers)
 
-- [TikTokers Are Trading Stocks by Copying What Members of Congress Do](https://text.npr.org/1039313011)
+- [Charting a Course for “Complexity”: Metamodeling, Ruliology and More](https://writings.stephenwolfram.com/2021/09/charting-a-course-for-complexity-metamodeling-ruliology-and-more/)
 
-- [While posting to Tumblr, E and W keys just stopped working](https://twitter.com/foone/status/1440014690831126528)
+- [It's tough being an Azure fan](https://www.alexhudson.com/2021/09/17/its-tough-being-an-azure-fan/)
 
-- [Native fuzzing will be in Go 1.18](https://twitter.com/katie_hockman/status/1440082486692773897)
+- [Microsoft and an army of tiny telecoms are part of a plan to wire rural America](https://www.bloomberg.com/news/features/2021-09-22/microsoft-google-part-of-plan-to-get-rural-america-high-speed-internet)
 
-- [Taming Go’s memory usage, or how we avoided rewriting our client in Rust](https://www.akitasoftware.com/blog-posts/taming-gos-memory-usage-or-how-we-avoided-rewriting-our-client-in-rust)
+- [OpenBSD on the Vortex86DX CPU](https://www.cambus.net/openbsd-on-the-vortex86dx-cpu/)
 
-- [Cosmic Rays Flipping Bits](https://www.johndcook.com/blog/2019/05/20/cosmic-rays-flipping-bits/)
+- [Do not leave XPS laptop in any sleep/hibernate/standby mode when placed in a bag](https://www.dell.com/community/XPS/FAQ-Modern-Standby/td-p/7514448)
 
-- [Confessions of a Michelin Star Inspector](https://www.luxeat.com/blog/confessions-of-a-michelin-inspector/)
+- [Django 4.0 alpha 1 released](https://www.djangoproject.com/weblog/2021/sep/21/django-40-alpha-1-released/)
 
-- [Manyverse – A social network off the grid](https://www.manyver.se/)
+- [A monk in 14th-century Italy wrote about the Americas](https://www.economist.com/the-americas/2021/09/25/a-monk-in-14th-century-italy-wrote-about-the-americas)
 
-- [Scientists develop the next generation of reservoir computing](https://www.nature.com/articles/s41467-021-25801-2)
+- [The Geometry of Color Perception](https://www.handprint.com/HP/WCL/color2.html)
 
-- [The last days of Silicon Roundabout](https://www.newstatesman.com/science-tech/2021/09/the-last-days-of-silicon-roundabout)
+- [Ten Commandments of Salary Negotiation](https://www.lennysnewsletter.com/p/negotiating-comp)
 
-- [Facebook’s Push to Defend Its Image](https://www.nytimes.com/2021/09/21/technology/zuckerberg-facebook-project-amplify.html)
+- [Food fraud and counterfeit cotton: detectives untangling the global supply chain](https://www.theguardian.com/news/2021/sep/16/food-fraud-counterfeit-cotton-detectives-untangling-global-supply-chain)
 
-- [Mathematician answers chess problem about attacking queens](https://www.quantamagazine.org/mathematician-answers-chess-problem-about-attacking-queens-20210921/)
+- [Engineers are developing new ways to convert greenhouse gases to fuel](https://www.uc.edu/news/articles/2021/09/uc-reactor-converts-carbon-dioxide-to-fuel-to-address-climate-change.html)
 
-- [Mister Rogers had a simple set of rules for talking to children (2018)](https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/)
+- [The predecessor to Google Earth was clumsy, yet powerful](https://www.vice.com/en/article/53vgbb/the-predecessor-to-google-earth-was-clumsy-yet-powerful)
 
-- [Soviets put out a burning gas well with a nuclear explosion (1966) [video]](https://www.youtube.com/watch?v=2KJ6p4JVN4g)
+- [Mathematics and its Notation](https://www.w3.org/TR/MathML3/chapter1.html#intro.notation)
 
-- [Linux on the Desktop: Part Two](https://xn--gckvb8fzb.com/linux-on-the-desktop-part-two/)
+- [Atari ST in daily use since 1985](https://www.youtube.com/watch?v=6LxPEz9x2fs)
