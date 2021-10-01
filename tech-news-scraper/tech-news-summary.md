@@ -1,107 +1,99 @@
-- [Nested strict data in Haskell](http://h2.jaguarpaw.co.uk/posts/nested-strict-data/)
+- [Where Do Type Systems Come From?](http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from)
 
-- [Project IceStorm: open-source toolchain for Lattice iCE40 FPGAs](http://www.clifford.at/icestorm/)
+- [A staged tag scheme for Erlang](http://www.it.uu.se/research/publications/reports/2000-029/)
 
-- [What John von Neumann Did at Los Alamos](https://3quarksdaily.com/3quarksdaily/2020/10/what-john-von-neumann-really-did-at-los-alamos.html)
+- [Why we spent the last month eliminating PostgreSQL subtransactions](https://about.gitlab.com/blog/2021/09/29/why-we-spent-the-last-month-eliminating-postgresql-subtransactions/)
 
-- [Common Newbie Mistakes and Bad Practices in Rust: Bad Habits](https://adventures.michaelfbryan.com/posts/rust-best-practices/bad-habits/)
+- [SpiceDB Is Open Source](https://authzed.com/blog/spicedb-is-open-source/)
 
-- [‎Amplosion: Redirect AMP Links on the App Store](https://apps.apple.com/br/app/amplosion-redirect-amp-links/id1585734696?l=en)
+- [AWS Cloud Control API, a Uniform API to Access AWS and Third-Party Services](https://aws.amazon.com/blogs/aws/announcing-aws-cloud-control-api/)
 
-- [What the GNU?](https://ariadnavigo.xyz/posts/what-the-gnu/)
+- [Why I Still Lisp (and You Should Too)](https://betterprogramming.pub/why-i-still-lisp-and-you-should-too-18a2ae36bd8)
 
-- [Installing Void Linux with a Serial Terminal](https://battlepenguin.com/tech/installing-void-linux-with-a-serial-terminal)
+- [Citations in Org mode 9.5](https://blog.tecosaur.com/tmio/2021-07-31-citations.html)
 
-- [Teaching a cheap ethernet switch new tricks (2019)](https://blog.benjojo.co.uk/post/dell-switch-hacking)
+- [DST Root CA X3 expiration update](https://blog.voltone.net/post/30)
 
-- [What it's like to spend 40-50 hours in VR every week](https://blog.immersed.team/working-from-orbit-39bf95a6d385)
+- [What every IT person needs to know about OpenBSD](https://bsdly.blogspot.com/2021/09/what-every-it-person-needs-to-know.html)
 
-- [A Bonding Exercise](https://blog.sigterm.se/posts/a-bonding-exercise/)
+- [Abstraction, intuition, and the “monad tutorial fallacy” (2009)](https://byorgey.wordpress.com/2009/01/12/abstraction-intuition-and-the-monad-tutorial-fallacy/)
 
-- [Cool happenings in Fedora Workstation land](https://blogs.gnome.org/uraeus/2021/09/16/cool-happenings-in-fedora-workstation-land/)
+- [The value of in-house expertise](https://danluu.com/in-house/)
 
-- [Category Theory Illustrated - Logic](https://boris-marinov.github.io/category-theory-illustrated/05_logic/)
+- [Facebook Thrives on Criticism of “Disinformation”](https://doctorow.medium.com/facebook-thrives-on-criticism-of-disinformation-64b141d7b6c8)
 
-- [Two new color spaces for color picking - Okhsv and Okhsl](https://bottosson.github.io/posts/colorpicker/)
+- [Understanding Awk](https://earthly.dev/blog/awk-examples/)
 
-- [Cloud Run quietly swaps HOME env var in Docker](https://chanind.github.io/2021/09/27/cloud-run-home-env-change.html)
+- [NFT Projects Are Just MLMs for Tech Elites](https://every.to/napkin-math/nft-projects-are-just-mlms-for-tech-elites)
 
-- [Less Hashing, Same Performance: Building a Better Bloom Filter](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.2442&rep=rep1&type=pdf)
+- [Are software engineering “best practices” just developer preferences?](https://floverfelt.org/posts/software-best-practices.html)
 
-- [Common mistakes when using libcurl](https://daniel.haxx.se/blog/2021/09/27/common-mistakes-when-using-libcurl/)
+- [Enabling IPv6 Support for GitHub Pages](https://github.blog/changelog/2021-09-30-enabling-ipv6-support-for-github-pages/)
 
-- [On Solitude](https://eriktorenberg.substack.com/p/on-solitude)
+- [Footnotes now supported in GitHub Markdown](https://github.blog/changelog/2021-09-30-footnotes-now-supported-in-markdown-fields/)
 
-- [EspoTek Labrador: All-in-one electronic hobbyist board](https://espotek.com/labrador/)
+- [SpiceDB – production-ready, open-source Google Zanzibar implementation](https://github.com/authzed/spicedb/releases/tag/v1.0.0)
 
-- [Prevent Google from mangling search result links when click/copying on Firefox](https://gist.github.com/radiantly/e1c7319214c77fa007f323fc56cd0239)
+- [Simple task/command runner with declarative goals and dependencies](https://github.com/xonixx/makesure)
 
-- [Partitioning GitHub's databases to handle scale](https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/)
+- [Hacker News RSS](https://hnrss.github.io/)
 
-- [What if Git worked with Programming Languages?](https://github.com/GavinMendelGleason/syntactic_versioning)
+- [Avenue (YC W21) is hiring across engineering, design, and bizops](https://jobs.ashbyhq.com/avenue)
 
-- [Pinball Fantasies assembly source code](https://github.com/historicalsource/pinballfantasies)
+- [Improving My Website's Typography](https://kevq.uk/pimping-my-type-improving-my-websites-typography/)
 
-- [tom-doerr/zsh_codex – AI in the command line](https://github.com/tom-doerr/zsh_codex)
+- [The seven programming ur-languages](https://madhadron.com/posts/seven_languages.html)
 
-- [DoS attacks against my online game](https://hookrace.net/blog/dos-attacks-against-online-game/)
+- [Always-on Processor magic: How Find My works while iPhone is powered off](https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html)
 
-- [How I built forlater.email](https://icyphox.sh/blog/building-forlater)
+- [Emacs org-mode version 9.5, a major release, is out](https://orgmode.org/Changes.html)
 
-- [Imgur Acquired by Medialab](https://imgur.com/gallery/We6yCM2)
+- [Fun with glibc and the ctype.h functions](https://rachelbythebay.com/w/2021/09/29/alnum/)
 
-- [The Digital Death of Collecting](https://kylechayka.substack.com/p/essay-the-digital-death-of-collecting)
+- [On bad advice](https://scattered-thoughts.net/writing/on-bad-advice/)
 
-- [Finding Number Related Memory Corruption Vulns](https://maxwelldulin.com/BlogPost?post=9715056640)
+- [Things Unlearned](https://scattered-thoughts.net/writing/things-unlearned/)
 
-- [Where is seL4 Heading?](https://microkerneldude.wordpress.com/2021/09/28/where-is-sel4-heading/)
+- [MEGA65 – highly advanced C64 and C65 compatible 8-bit computer](https://shop.trenz-electronic.de/en/TE0765-03-S001-MEGA65-highly-advanced-C64-and-C65-compatible-8-bit-computer)
 
-- [Coverage is not strongly correlated with test suite effectiveness](https://neverworkintheory.org/2021/09/24/coverage-is-not-strongly-correlated-with-test-suite-effectiveness.html)
+- [The Great AI Reckoning](https://spectrum.ieee.org/special-reports/the-great-ai-reckoning/)
 
-- [I bricked then recovered my reMarkable 2](https://operand.ca/2021/09/27/how_i_bricked_then_recovered_my_remarkable_2.html)
+- [Cloudflare's Disruption](https://stratechery.com/2021/cloudflares-disruption/)
 
-- [Canadian military saw pandemic as opportunity to test propaganda techniques](https://ottawacitizen.com/news/national/defence-watch/military-leaders-saw-pandemic-as-unique-opportunity-to-test-propaganda-techniques-on-canadians-forces-report-says)
+- [Completing Beethoven’s unfinished 10th Symphony](https://theconversation.com/how-a-team-of-musicologists-and-computer-scientists-completed-beethovens-unfinished-10th-symphony-168160)
 
-- [... allow me to toss in your direction a friendly vernacular phrase from my hometown of Boston](https://peguero.xyz/blog/google_and_facebook_i_am_facilitating_packet_filtering_to_block_your_tracking.html)
+- [Writing Python Extensions in Assembly](https://tonybaloney.github.io/posts/extending-python-with-assembly.html)
 
-- [Albert Millican’s Travels and Adventures of an Orchid Hunter (1891)](https://publicdomainreview.org/collection/orchid-hunter/)
+- [The OpenBSD Webzine](https://webzine.puffy.cafe/)
 
-- [Ford to invest in EV and battery plants in Tennessee and Kentucky [pdf]](https://s23.q4cdn.com/799033206/files/doc_news/2021/09/27/Press-Release_Ford-Multi-State-Investment_9-27-21.pdf)
+- [What the Robot Saw](https://what-the-robot-saw.com/)
 
-- [Quick and dirty subclassing in Win32](https://sporks.space/2021/09/28/quick-and-dirty-subclassing-in-win32/)
+- [How Masten Space Systems Is Using Ada and Spark to Land on the Moon's South Pole [pdf]](https://www.adacore.com/uploads/techPapers/Masten-case-study.pdf)
 
-- [VMS Software Releases Roadmap Updates (OpenVMS)](https://vmssoftware.com/about/news/2021-09-27-roadmap-update/)
+- [Mongolia’s Melting Ice Reveals Fragile Prehistoric Artifacts](https://www.atlasobscura.com/articles/mongolia-ice-melt-archaeology)
 
-- [Rapid prototyping for Microarchitectural Attacks](https://www.cattius.com/images/rapid-prototyping.pdf)
+- [U.S. declares more than 20 species extinct after exhaustive searches](https://www.axios.com/us-23-extinct-species-endangered-species-list-0555df01-b298-4df0-bc24-466d79530f2d.html)
 
-- [Designing Low Upkeep Software](https://www.jefftk.com/p/designing-low-upkeep-software)
+- ['Cottagecore' and the rise of the modern rural fantasy](https://www.bbc.com/culture/article/20201208-cottagecore-and-the-rise-of-the-modern-rural-fantasy)
 
-- [Big data in the age of the telegraph](https://www.mckinsey.com/business-functions/organization/our-insights/big-data-in-the-age-of-the-telegraph)
+- [Rust for the Polyglot Programmer](https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/intro.html)
 
-- [Beware survivorship bias in advice on science careers](https://www.nature.com/articles/d41586-021-02634-z)
+- [A tale of two toolchains and glibc](https://www.collabora.com/news-and-blog/blog/2021/09/30/a-tale-of-two-toolchains-and-glibc/)
 
-- [Goldman Sachs, Ozy Media and a $40M conference call gone wrong](https://www.nytimes.com/2021/09/26/business/media/ozy-media-goldman-sachs.html)
+- [DMV approves Cruise and Waymo for commercial service in parts of Bay Area](https://www.dmv.ca.gov/portal/news-and-media/117199-2/)
 
-- [Something weird is happening on Facebook](https://www.politicalorphans.com/something-weird-is-happening-on-facebook/)
+- [The Scientist and Engineer's Guide to Digital Signal Processing](https://www.dspguide.com/)
 
-- [‘Impossible’ particle discovery adds key piece to the strong force puzzle](https://www.quantamagazine.org/impossible-particle-discovery-adds-key-piece-to-the-strong-force-puzzle-20210927/)
+- [Treating beef like coal would make a big dent in greenhouse-gas emissions](https://www.economist.com/graphic-detail/2021/10/02/treating-beef-like-coal-would-make-a-big-dent-in-greenhouse-gas-emissions)
 
-- [Art of Assembly Language Programming and HLA by Randall Hyde](https://www.randallhyde.com/AssemblyLanguage/www.artofasm.com/index.html)
+- [Injecting environment variables into static websites using Nginx](https://www.innoq.com/de/blog/nginx-ssi-env/)
 
-- [Worldwide energy shortage shows up in surging coal, gas and oil prices](https://www.reuters.com/business/energy/worldwide-energy-shortage-shows-up-surging-coal-gas-oil-prices-kemp-2021-09-24/)
+- [PostgreSQL 14 Released](https://www.postgresql.org/about/news/postgresql-14-released-2318/)
 
-- [U.S. to open program to replace Huawei equipment in U.S. networks](https://www.reuters.com/business/media-telecom/us-open-program-replace-huawei-equipment-us-networks-2021-09-27/)
+- [Chip shortage leads carmaker Opel to shut German plant until 2022](https://www.reuters.com/business/autos-transportation/chip-shortage-leads-carmaker-opel-shut-german-plant-until-2022-2021-09-30/)
 
-- [New work sheds light on the Etruscans, who may have founded Rome](https://www.science.org/content/article/they-may-have-founded-rome-then-vanished-work-sheds-light-mysterious-etruscans)
+- [The Bulky Bears of Fat Bear Week 2021](https://www.smithsonianmag.com/smart-news/get-to-known-the-bodacious-bulky-bears-of-fat-bear-week-2021-180978778/)
 
-- [How to Interview Engineers (2020)](https://www.spakhm.com/p/how-to-interview-engineers)
+- [Data, objects, and how we're railroaded into poor design](https://www.tedinski.com/2018/01/23/data-objects-and-being-railroaded-into-misdesign.html)
 
-- [Bitfinex just spent $23.7M in fees to make a single Ethereum transaction](https://www.theblockcrypto.com/post/118753/bitfinex-just-spent-23-7-million-in-fees-to-make-one-ethereum-transaction)
-
-- [Synth (YC S21) Is Hiring](https://www.workatastartup.com/companies/synth-2)
-
-- [The new NetBSD entropy subsystem by Taylor R Campbell](https://www.youtube.com/watch?v=57z9BO95cEc)
-
-- [Porting GNOME to NetBSD by Dan Cirnat](https://www.youtube.com/watch?v=AGwaT5rQML0)
-
-- [Procedurally generating a rounded box mesh](https://wwwtyro.net/2021/09/24/rounded-box.html)
+- [Programming in Forth on Commodore 64 [video]](https://www.youtube.com/watch?v=1XdgUK1NbpI)
