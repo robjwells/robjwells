@@ -1,99 +1,101 @@
-- [Where Do Type Systems Come From?](http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from)
+- [Riesz Proves the Riesz Representation Theorem](http://nonagon.org/ExLibris/riesz-proves-riesz-representation-theorem)
 
-- [A staged tag scheme for Erlang](http://www.it.uu.se/research/publications/reports/2000-029/)
+- [Watering and draining planets – math and data](https://ahstat.github.io/Topography/)
 
-- [Why we spent the last month eliminating PostgreSQL subtransactions](https://about.gitlab.com/blog/2021/09/29/why-we-spent-the-last-month-eliminating-postgresql-subtransactions/)
+- [Unified Shader Programming in C++](https://arxiv.org/abs/2109.14682)
 
-- [SpiceDB Is Open Source](https://authzed.com/blog/spicedb-is-open-source/)
+- [The Act of Smelling](https://believermag.com/jude-stewart-act-of-smelling/)
 
-- [AWS Cloud Control API, a Uniform API to Access AWS and Third-Party Services](https://aws.amazon.com/blogs/aws/announcing-aws-cloud-control-api/)
+- [Simple Lists: a tiny to-do list app written the old-school way (server-side Go, no JS)](https://benhoyt.com/writings/simple-lists/)
 
-- [Why I Still Lisp (and You Should Too)](https://betterprogramming.pub/why-i-still-lisp-and-you-should-too-18a2ae36bd8)
+- [Faster Maven Builds](https://blog.frankel.ch/faster-maven-builds/1/)
 
-- [Citations in Org mode 9.5](https://blog.tecosaur.com/tmio/2021-07-31-citations.html)
+- [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://blog.pragmaticengineer.com/project-management-at-big-tech/)
 
-- [DST Root CA X3 expiration update](https://blog.voltone.net/post/30)
+- [PL Notation is a Barrier to Entry](https://blog.sigplan.org/2020/09/29/pl-notation-is-a-barrier-to-entry/)
 
-- [What every IT person needs to know about OpenBSD](https://bsdly.blogspot.com/2021/09/what-every-it-person-needs-to-know.html)
+- [Pull Requests vs. Pair Programming](https://chemaclass.es/blog/pull-request-vs-pair-prog/)
 
-- [Abstraction, intuition, and the “monad tutorial fallacy” (2009)](https://byorgey.wordpress.com/2009/01/12/abstraction-intuition-and-the-monad-tutorial-fallacy/)
+- [Best of 2020 in Tech [Talks]](https://copyconstruct.medium.com/best-of-2020-in-tech-talks-2f29002f4a92)
 
-- [The value of in-house expertise](https://danluu.com/in-house/)
+- [Conditionally-Perfect Secrecy and a Provably-Secure Randomized Cipher (1992)](https://crypto.ethz.ch/publications/files/Maurer92b.pdf)
 
-- [Facebook Thrives on Criticism of “Disinformation”](https://doctorow.medium.com/facebook-thrives-on-criticism-of-disinformation-64b141d7b6c8)
+- [Python 3.11](https://docs.python.org/3.11/whatsnew/changelog.html#changelog)
 
-- [Understanding Awk](https://earthly.dev/blog/awk-examples/)
+- [Wizards and warriors, part five](https://ericlippert.com/2015/05/11/wizards-and-warriors-part-five/)
 
-- [NFT Projects Are Just MLMs for Tech Elites](https://every.to/napkin-math/nft-projects-are-just-mlms-for-tech-elites)
+- [BANCStar: Financial Programming Language](https://esolangs.org/wiki/BANCStar)
 
-- [Are software engineering “best practices” just developer preferences?](https://floverfelt.org/posts/software-best-practices.html)
+- [Show HN: Futurecoder – A free online interactive Python course](https://futurecoder.io/)
 
-- [Enabling IPv6 Support for GitHub Pages](https://github.blog/changelog/2021-09-30-enabling-ipv6-support-for-github-pages/)
+- ["Static Linking Considered Harmful" Considered Harmful](https://gavinhoward.com/2021/10/static-linking-considered-harmful-considered-harmful/)
 
-- [Footnotes now supported in GitHub Markdown](https://github.blog/changelog/2021-09-30-footnotes-now-supported-in-markdown-fields/)
+- [Dune: A shell by the beach](https://github.com/adam-mcdaniel/dune)
 
-- [SpiceDB – production-ready, open-source Google Zanzibar implementation](https://github.com/authzed/spicedb/releases/tag/v1.0.0)
+- [Mt32-pi: A baremetal Roland MT-32 emulator](https://github.com/dwhinham/mt32-pi)
 
-- [Simple task/command runner with declarative goals and dependencies](https://github.com/xonixx/makesure)
+- [googleprojectzero/weggli: a semantic search tool for C and C++ codebases](https://github.com/googleprojectzero/weggli)
 
-- [Hacker News RSS](https://hnrss.github.io/)
+- [OpenHaystack - track personal Bluetooth devices via Apple's Find My network](https://github.com/seemoo-lab/openhaystack)
 
-- [Avenue (YC W21) is hiring across engineering, design, and bizops](https://jobs.ashbyhq.com/avenue)
+- [E-Ink Magic Calendar that runs off a battery powered Raspberry Pi](https://github.com/speedyg0nz/MagInkCal)
 
-- [Improving My Website's Typography](https://kevq.uk/pimping-my-type-improving-my-websites-typography/)
+- [Effective Go](https://golang.org/doc/effective_go)
 
-- [The seven programming ur-languages](https://madhadron.com/posts/seven_languages.html)
+- [A Computer in the Game of Life (2020)](https://hackaday.com/2020/11/21/a-computer-in-the-game-of-life/)
 
-- [Always-on Processor magic: How Find My works while iPhone is powered off](https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html)
+- [An Honest Look at Urbit](https://jayriverlong.substack.com/p/36-an-honest-look-at-urbit)
 
-- [Emacs org-mode version 9.5, a major release, is out](https://orgmode.org/Changes.html)
+- [Word-Aligned Bloom Filters](https://lemire.me/blog/2021/10/03/word-aligned-bloom-filters/)
 
-- [Fun with glibc and the ctype.h functions](https://rachelbythebay.com/w/2021/09/29/alnum/)
+- [The hunt for a better Dockerfile](https://matduggan.com/the-hunt-for-a-better-dockerfile/)
 
-- [On bad advice](https://scattered-thoughts.net/writing/on-bad-advice/)
+- [Characterization of bacteria and fungi associated with the ISS' surfaces](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0666-x)
 
-- [Things Unlearned](https://scattered-thoughts.net/writing/things-unlearned/)
+- [Proportional fonts and yapf vs black](https://nelsonslog.wordpress.com/2021/09/12/proportional-fonts-and-yapf-vs-black/)
 
-- [MEGA65 – highly advanced C64 and C65 compatible 8-bit computer](https://shop.trenz-electronic.de/en/TE0765-03-S001-MEGA65-highly-advanced-C64-and-C65-compatible-8-bit-computer)
+- [Plan 9 Desktop Guide](https://pspodcasting.net/dan/blog/2019/plan9_desktop.html#intro)
 
-- [The Great AI Reckoning](https://spectrum.ieee.org/special-reports/the-great-ai-reckoning/)
+- [Functions for Documentation Instead of Comments](https://quakkels.com/posts/functions-for-documentation-instead-of-comments/)
 
-- [Cloudflare's Disruption](https://stratechery.com/2021/cloudflares-disruption/)
+- [Revenge of Lisp (Part 1⁄2)](https://renato.athaydes.com/posts/revenge_of_lisp.html)
 
-- [Completing Beethoven’s unfinished 10th Symphony](https://theconversation.com/how-a-team-of-musicologists-and-computer-scientists-completed-beethovens-unfinished-10th-symphony-168160)
+- [Things Go Needs More Than Generics](https://ryanc118.medium.com/three-things-go-needs-right-now-more-than-generics-a6225d62f76b)
 
-- [Writing Python Extensions in Assembly](https://tonybaloney.github.io/posts/extending-python-with-assembly.html)
+- [Show HN: SpotML – Managed ML Training on Cheap AWS/GCP Spot Instances](https://spotml.io/)
 
-- [The OpenBSD Webzine](https://webzine.puffy.cafe/)
+- [Finding Multiple Bug Effects for More Precise Exploitability Estimation](https://static.sched.com/hosted_files/lssna2021/5a/LSS_2021_Multiple_Error_Behavior.pdf)
 
-- [What the Robot Saw](https://what-the-robot-saw.com/)
+- [A Macintosh History 85.10](https://systemtalk.org/post/macintosh-history-8510/)
 
-- [How Masten Space Systems Is Using Ada and Spark to Land on the Moon's South Pole [pdf]](https://www.adacore.com/uploads/techPapers/Masten-case-study.pdf)
+- [Removing my site from Google search](https://www.btao.org/2021/10/03/removing-from-google/)
 
-- [Mongolia’s Melting Ice Reveals Fragile Prehistoric Artifacts](https://www.atlasobscura.com/articles/mongolia-ice-melt-archaeology)
+- [I Was a Facebook Fact-Checker. It Was Like Playing a Doomed Game of Whack-a-Mole (2019)](https://www.buzzfeednews.com/article/brookebinkowski/fact-checking-facebook-doomed)
 
-- [U.S. declares more than 20 species extinct after exhaustive searches](https://www.axios.com/us-23-extinct-species-endangered-species-list-0555df01-b298-4df0-bc24-466d79530f2d.html)
+- [How much information can a small image contain?](https://www.camerongordon.site/post/how-much-information-can-a-small-image-contain)
 
-- ['Cottagecore' and the rise of the modern rural fantasy](https://www.bbc.com/culture/article/20201208-cottagecore-and-the-rise-of-the-modern-rural-fantasy)
+- [Whistleblower: Facebook is misleading the public](https://www.cbsnews.com/news/facebook-whistleblower-misinformation-public-60-minutes-2021-10-03/)
 
-- [Rust for the Polyglot Programmer](https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/intro.html)
+- [DARPA's hypersonic scramjet achieves successful flight](https://www.darpa.mil/news-events/2021-09-27)
 
-- [A tale of two toolchains and glibc](https://www.collabora.com/news-and-blog/blog/2021/09/30/a-tale-of-two-toolchains-and-glibc/)
+- [Minds, Machines and Gödel](https://www.jstor.org/stable/3749270?seq=1#metadata_info_tab_contents)
 
-- [DMV approves Cruise and Waymo for commercial service in parts of Bay Area](https://www.dmv.ca.gov/portal/news-and-media/117199-2/)
+- [Creating a vDSO: the Colonel's Other Chicken (2012)](https://www.linuxjournal.com/content/creating-vdso-colonels-other-chicken)
 
-- [The Scientist and Engineer's Guide to Digital Signal Processing](https://www.dspguide.com/)
+- [FoundationDB: A Distributed Unbundled Transactional Key Value Store](https://www.micahlerner.com/2021/06/12/foundationdb-a-distributed-unbundled-transactional-key-value-store.html)
 
-- [Treating beef like coal would make a big dent in greenhouse-gas emissions](https://www.economist.com/graphic-detail/2021/10/02/treating-beef-like-coal-would-make-a-big-dent-in-greenhouse-gas-emissions)
+- [How does the economy work? A new Fed paper suggests nobody really knows](https://www.nytimes.com/2021/10/01/upshot/inflation-economy-analysis.html)
 
-- [Injecting environment variables into static websites using Nginx](https://www.innoq.com/de/blog/nginx-ssi-env/)
+- [Firefighters say they’re swamped by calls for routine care from senior homes](https://www.oregonlive.com/business/2021/10/firefighters-say-theyre-swamped-by-calls-for-routine-care-from-senior-homes-setting-off-one-sided-political-battle.html)
 
-- [PostgreSQL 14 Released](https://www.postgresql.org/about/news/postgresql-14-released-2318/)
+- [PlantText: A PlantUML online editor](https://www.planttext.com/)
 
-- [Chip shortage leads carmaker Opel to shut German plant until 2022](https://www.reuters.com/business/autos-transportation/chip-shortage-leads-carmaker-opel-shut-german-plant-until-2022-2021-09-30/)
+- [How Indie Stone Fixed the Bandana 90% Protection Bug... Poorly](https://www.pseudonymouscodeviews.com/2021/10/how-indie-stone-fixed-bandana-90.html)
 
-- [The Bulky Bears of Fat Bear Week 2021](https://www.smithsonianmag.com/smart-news/get-to-known-the-bodacious-bulky-bears-of-fat-bear-week-2021-180978778/)
+- [Robotic Process Automation and Artificial Intelligence in Industry 4.0](https://www.sciencedirect.com/science/article/pii/S1877050921001393)
 
-- [Data, objects, and how we're railroaded into poor design](https://www.tedinski.com/2018/01/23/data-objects-and-being-railroaded-into-misdesign.html)
+- [Pandora papers: biggest leak of offshore data exposes financial secrets of rich](https://www.theguardian.com/news/2021/oct/03/pandora-papers-biggest-ever-leak-of-offshore-data-exposes-financial-secrets-of-rich-and-powerful)
 
-- [Programming in Forth on Commodore 64 [video]](https://www.youtube.com/watch?v=1XdgUK1NbpI)
+- [New study reveals iPhones aren't as private as you think](https://www.tomsguide.com/news/android-ios-data-collection)
+
+- [The FB Whistleblower, Frances Haugen, Says She Wants to Fix Company, Not Harm It](https://www.wsj.com/articles/facebook-whistleblower-frances-haugen-says-she-wants-to-fix-the-company-not-harm-it-11633304122)
