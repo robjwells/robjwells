@@ -1,101 +1,99 @@
-- [Riesz Proves the Riesz Representation Theorem](http://nonagon.org/ExLibris/riesz-proves-riesz-representation-theorem)
+- [Mac SE/30 odyssey](http://axio.ms//blog/2021/10/02/MacSE30.html)
 
-- [Watering and draining planets – math and data](https://ahstat.github.io/Topography/)
+- [You can't tell people anything (2004)](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
 
-- [Unified Shader Programming in C++](https://arxiv.org/abs/2109.14682)
+- [The History of OS/2 (2001)](http://www.landley.net/history/mirror/os2/history/)
 
-- [The Act of Smelling](https://believermag.com/jude-stewart-act-of-smelling/)
+- [How the latest Windows Update KB5005716 broke my CI environment](https://abbbi.github.io/vagrant/)
 
-- [Simple Lists: a tiny to-do list app written the old-school way (server-side Go, no JS)](https://benhoyt.com/writings/simple-lists/)
+- [Is this the simplest (and most surprising) sorting algorithm ever?](https://arxiv.org/pdf/2110.01111.pdf)
 
-- [Faster Maven Builds](https://blog.frankel.ch/faster-maven-builds/1/)
+- [Asahi Linux Progress Report: September 2021](https://asahilinux.org/2021/10/progress-report-september-2021/)
 
-- [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://blog.pragmaticengineer.com/project-management-at-big-tech/)
+- [Canyon.mid](https://canyonmid.com/)
 
-- [PL Notation is a Barrier to Entry](https://blog.sigplan.org/2020/09/29/pl-notation-is-a-barrier-to-entry/)
+- [Path Traversal Attack Disclosed for Apache 2.4.49](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-41773)
 
-- [Pull Requests vs. Pair Programming](https://chemaclass.es/blog/pull-request-vs-pair-prog/)
+- [Protein complex prediction with AlphaFold-Multimer](https://deepmind.com/research/publications/2021/protein-complex-prediction-with-alphafold-multimer)
 
-- [Best of 2020 in Tech [Talks]](https://copyconstruct.medium.com/best-of-2020-in-tech-talks-2f29002f4a92)
+- [New “Report a Problem” link on product pages](https://developer.apple.com/news/?id=j5uyprul)
 
-- [Conditionally-Perfect Secrecy and a Provably-Secure Randomized Cipher (1992)](https://crypto.ethz.ch/publications/files/Maurer92b.pdf)
+- [Apple requires account deletion within apps in AppStore starting January 31](https://developer.apple.com/news/?id=mdkbobfo)
 
-- [Python 3.11](https://docs.python.org/3.11/whatsnew/changelog.html#changelog)
+- [DIFUZE: Interface Aware Fuzzing for Kernel Drivers (2017)](https://dl.acm.org/doi/pdf/10.1145/3133956.3134069)
 
-- [Wizards and warriors, part five](https://ericlippert.com/2015/05/11/wizards-and-warriors-part-five/)
+- [Current and Future Tools for Interactive TLA+](https://emptysqua.re/blog/interactive-tla-plus/)
 
-- [BANCStar: Financial Programming Language](https://esolangs.org/wiki/BANCStar)
+- [The naughty username checking system used by Twitch](https://ghostbin.com/57bCm)
 
-- [Show HN: Futurecoder – A free online interactive Python course](https://futurecoder.io/)
+- [I'm Sorry](https://github.com/dotnet-foundation/Home/discussions/39)
 
-- ["Static Linking Considered Harmful" Considered Harmful](https://gavinhoward.com/2021/10/static-linking-considered-harmful-considered-harmful/)
+- [GitHub - felvin-search/instant-apps: Your search box is now an app store](https://github.com/felvin-search/instant-apps)
 
-- [Dune: A shell by the beach](https://github.com/adam-mcdaniel/dune)
+- [Writing a “bare metal” operating system for Raspberry Pi 4](https://github.com/isometimes/rpi4-osdev)
 
-- [Mt32-pi: A baremetal Roland MT-32 emulator](https://github.com/dwhinham/mt32-pi)
+- [A Bitcoin Mining Operation Started a Secret Power Plant, It Did Not Go as Plannd](https://gizmodo.com/a-bitcoin-mining-operation-started-a-secret-power-plant-1847811718)
 
-- [googleprojectzero/weggli: a semantic search tool for C and C++ codebases](https://github.com/googleprojectzero/weggli)
+- [Terraform vs. AWS CloudFormation](https://gswallow.medium.com/do-not-use-aws-cloudformation-7cf61f58bd5f)
 
-- [OpenHaystack - track personal Bluetooth devices via Apple's Find My network](https://github.com/seemoo-lab/openhaystack)
+- [Yes, Bitcoin Is a Ponzi](https://ic.unicamp.br/~stolfi/bitcoin/2020-12-31-bitcoin-ponzi.html)
 
-- [E-Ink Magic Calendar that runs off a battery powered Raspberry Pi](https://github.com/speedyg0nz/MagInkCal)
+- [FreeBSD Developer Workstation Setup](https://klarasystems.com/articles/freebsd-developer-workstation-setup/)
 
-- [Effective Go](https://golang.org/doc/effective_go)
+- [Moving Google toward the mainline](https://lwn.net/SubscriberLink/871195/d7e9acf5894446e6/)
 
-- [A Computer in the Game of Life (2020)](https://hackaday.com/2020/11/21/a-computer-in-the-game-of-life/)
+- [Warp Terminal Emulator Review](https://matduggan.com/warp-terminal-emulator-review/)
 
-- [An Honest Look at Urbit](https://jayriverlong.substack.com/p/36-an-honest-look-at-urbit)
+- [Effective Code Browsing](https://noahan.me/posts/effective-code-browsing-part1/)
 
-- [Word-Aligned Bloom Filters](https://lemire.me/blog/2021/10/03/word-aligned-bloom-filters/)
+- [Novice Nix: Flake Templates](https://peppe.rs/posts/novice_nix:_flake_templates/)
 
-- [The hunt for a better Dockerfile](https://matduggan.com/the-hunt-for-a-better-dockerfile/)
+- [Facebook Is an Addiction Treadmill Most May Never Be Able to Quit](https://petapixel.com/2021/10/06/facebook-is-an-addiction-treadmill-most-may-never-be-able-to-quit/)
 
-- [Characterization of bacteria and fungi associated with the ISS' surfaces](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0666-x)
+- [My Challenge to the Web Performance Community](https://philipwalton.com/articles/my-challenge-to-the-web-performance-community/)
 
-- [Proportional fonts and yapf vs black](https://nelsonslog.wordpress.com/2021/09/12/proportional-fonts-and-yapf-vs-black/)
+- [OPPA: Ohio could become the third US state to enact a new consumer privacy law](https://portswigger.net/daily-swig/oppa-ohio-could-become-the-third-us-state-to-enact-a-new-consumer-privacy-law-in-2021)
 
-- [Plan 9 Desktop Guide](https://pspodcasting.net/dan/blog/2019/plan9_desktop.html#intro)
+- [Wait for toolchain support for Python 3.10](https://pythonspeed.com/articles/switch-python-3.10/)
 
-- [Functions for Documentation Instead of Comments](https://quakkels.com/posts/functions-for-documentation-instead-of-comments/)
+- ['date -d' vs. 'date -s', and 'show foo' vs. 'clear foo'](https://rachelbythebay.com/w/2021/10/05/cmd/)
 
-- [Revenge of Lisp (Part 1⁄2)](https://renato.athaydes.com/posts/revenge_of_lisp.html)
+- [Gentle Introduction to Realtime Fluid Simulation for Programmers and Artists](https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac)
 
-- [Things Go Needs More Than Generics](https://ryanc118.medium.com/three-things-go-needs-right-now-more-than-generics-a6225d62f76b)
+- [The ultimate SMD marking codes database](https://smd.yooneed.one/)
 
-- [Show HN: SpotML – Managed ML Training on Cheap AWS/GCP Spot Instances](https://spotml.io/)
+- [Implementing a graph database in SQLite](https://sqlite.org/draft/lang_with.html#rcex3)
 
-- [Finding Multiple Bug Effects for More Precise Exploitability Estimation](https://static.sched.com/hosted_files/lssna2021/5a/LSS_2021_Multiple_Error_Behavior.pdf)
+- [Facebook Political Problems](https://stratechery.com/2021/facebook-political-problems/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJlbnQiOnsidXJpIjpbImh0dHBzOi8vc3RyYXRlY2hlcnkuY29tLzIwMjEvZmFjZWJvb2stcG9saXRpY2FsLXByb2JsZW1zLyJdfSwiZXhwIjoxNjM2MTMwMDQ1LCJpYXQiOjE2MzM1MzgwNDUsImlzcyI6Imh0dHBzOi8vc3RyYXRlY2hlcnkucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJhcnRpY2xlOnJlYWQgY2F0ZWdvcnk6cmVhZCIsInN1YiI6IkxHQUNiVVRGS1dtVWMxRFRkNXFtMW0iLCJ1c2UiOiJhY2Nlc3MifQ.PMr73FtoayLlKQVtITLPhzQLkDzDZBwfc1DMGGVupIsDlq_cQ5HdYx6NFyKFvknnyubEP4W1IpRSFQ4cLsg2-F8OGWBjmjXKVVx-VZq5Bw4wrBdwFtaFVL9ZAR419j3PbocuVmyXaEjahuDvyO8FPb9xmWIn0nOBCxSjjaioSFfNtPYJkrNaEjlplO6tShfh610j29o-nfQZ8qF_fOL87__CGrZzqf0COsGaq850ozNViqf4LWf9POcCRMt74MHwcfdoI4JPJg84KbvE2FeWrzGgeW3guTTQZn59cQFXlLulPrlqIyPugmw2wcpm2bHXY-VqSMECcTOc2TKMx4oLDw)
 
-- [A Macintosh History 85.10](https://systemtalk.org/post/macintosh-history-8510/)
+- [Actix: A Web Framework for Rust](https://tech.marksblogg.com/actix-rust-web-framework.html)
 
-- [Removing my site from Google search](https://www.btao.org/2021/10/03/removing-from-google/)
+- [The Tech Worker Handbook](https://techworkerhandbook.org/)
 
-- [I Was a Facebook Fact-Checker. It Was Like Playing a Doomed Game of Whack-a-Mole (2019)](https://www.buzzfeednews.com/article/brookebinkowski/fact-checking-facebook-doomed)
+- [QNTM on memes, anti-memes, and knowledge that doesn't want to be shared](https://thebrowser.com/notes/qntm/)
 
-- [How much information can a small image contain?](https://www.camerongordon.site/post/how-much-information-can-a-small-image-contain)
+- [An Iraqi who saved Norway from oil (2009)](https://web.archive.org/web/20100123225932/http://www.ft.com/cms/s/2/99680a04-92a0-11de-b63b-00144feabdc0.html)
 
-- [Whistleblower: Facebook is misleading the public](https://www.cbsnews.com/news/facebook-whistleblower-misinformation-public-60-minutes-2021-10-03/)
+- [Dear Privacy Aware Android App Devs - Please Use UnifiedPush](https://www.andrewjvpowell.com/articles/dear-privacy-aware-android-app-devs-please-use-unifiedpush/)
 
-- [DARPA's hypersonic scramjet achieves successful flight](https://www.darpa.mil/news-events/2021-09-27)
+- [Investigators say they've finally identified the Zodiac Killer](https://www.fox13now.com/news/national-news/investigators-say-theyve-finally-identified-the-zodiac-killer)
 
-- [Minds, Machines and Gödel](https://www.jstor.org/stable/3749270?seq=1#metadata_info_tab_contents)
+- [Hyperbaric Oxygen Treatment for Alzheimer's](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7293997/)
 
-- [Creating a vDSO: the Colonel's Other Chicken (2012)](https://www.linuxjournal.com/content/creating-vdso-colonels-other-chicken)
+- [Lessons learned from sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion)
 
-- [FoundationDB: A Distributed Unbundled Transactional Key Value Store](https://www.micahlerner.com/2021/06/12/foundationdb-a-distributed-unbundled-transactional-key-value-store.html)
+- [Guido van Rossum on improving Python's performance](https://www.softwareatscale.dev/p/software-at-scale-34-faster-python)
 
-- [How does the economy work? A new Fed paper suggests nobody really knows](https://www.nytimes.com/2021/10/01/upshot/inflation-economy-analysis.html)
+- [Will Cloudflare R2 Win Customers from Amazon S3?](https://www.taloflow.ai/blog/will-cloudflare-r2-win-customers-from-amazon-s3)
 
-- [Firefighters say they’re swamped by calls for routine care from senior homes](https://www.oregonlive.com/business/2021/10/firefighters-say-theyre-swamped-by-calls-for-routine-care-from-senior-homes-setting-off-one-sided-political-battle.html)
+- [The Insane Innovation of TI Calculator Hobbyists](https://www.thirtythreeforty.net/posts/2021/10/ti-calculator-innovation/)
 
-- [PlantText: A PlantUML online editor](https://www.planttext.com/)
+- [Twitch source code and customer data has reportedly been leaked](https://www.videogameschronicle.com/news/the-entirety-of-twitch-has-reportedly-been-leaked/)
 
-- [How Indie Stone Fixed the Bandana 90% Protection Bug... Poorly](https://www.pseudonymouscodeviews.com/2021/10/how-indie-stone-fixed-bandana-90.html)
+- [We moved from Pony to Rust](https://www.wallaroo.ai/blog-posts/wallaroo-move-to-rust)
 
-- [Robotic Process Automation and Artificial Intelligence in Industry 4.0](https://www.sciencedirect.com/science/article/pii/S1877050921001393)
+- [The Economics of Programming Languages (2005)](https://www.welton.it/articles/programming_language_economics.html)
 
-- [Pandora papers: biggest leak of offshore data exposes financial secrets of rich](https://www.theguardian.com/news/2021/oct/03/pandora-papers-biggest-ever-leak-of-offshore-data-exposes-financial-secrets-of-rich-and-powerful)
+- [Emerge Tools (YC W21) Is Hiring](https://www.workatastartup.com/jobs/46779)
 
-- [New study reveals iPhones aren't as private as you think](https://www.tomsguide.com/news/android-ios-data-collection)
-
-- [The FB Whistleblower, Frances Haugen, Says She Wants to Fix Company, Not Harm It](https://www.wsj.com/articles/facebook-whistleblower-frances-haugen-says-she-wants-to-fix-the-company-not-harm-it-11633304122)
+- [Take a look inside Steam Deck](https://www.youtube.com/watch?v=Dxnr2FAADAs)
