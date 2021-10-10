@@ -1,99 +1,105 @@
-- [Mac SE/30 odyssey](http://axio.ms//blog/2021/10/02/MacSE30.html)
+- [Amiga 3000T Review (1992)](http://nl.aminet.net/docs/rview/Amiga3000T.txt)
 
-- [You can't tell people anything (2004)](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
+- [Pop-up from Hell: On the growing opacity of web programs](http://tomasp.net/blog/2021/popup-from-hell/)
 
-- [The History of OS/2 (2001)](http://www.landley.net/history/mirror/os2/history/)
+- [AT&T’s Abandoned Microwave Tower Network (2017)](https://99percentinvisible.org/article/vintage-skynet-atts-abandoned-long-lines-microwave-tower-network/)
 
-- [How the latest Windows Update KB5005716 broke my CI environment](https://abbbi.github.io/vagrant/)
+- [Tips for debugging with print()](https://adamj.eu/tech/2021/10/08/tips-for-debugging-with-print/)
 
-- [Is this the simplest (and most surprising) sorting algorithm ever?](https://arxiv.org/pdf/2110.01111.pdf)
+- [DPRK Textbooks](https://archive.org/details/DPRKTexts)
 
-- [Asahi Linux Progress Report: September 2021](https://asahilinux.org/2021/10/progress-report-september-2021/)
+- [Part of Windows 11 is a revamped Windows Subsystem for Linux](https://arstechnica.com/gadgets/2021/10/the-best-part-of-windows-11-is-a-revamped-windows-subsystem-for-linux/)
 
-- [Canyon.mid](https://canyonmid.com/)
+- [Driven by Compression Progress (2009)](https://arxiv.org/abs/0812.4360)
 
-- [Path Traversal Attack Disclosed for Apache 2.4.49](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-41773)
+- [Improving Git's Autocorrect Feature](https://azeemba.com/posts/contributing-to-git.html)
 
-- [Protein complex prediction with AlphaFold-Multimer](https://deepmind.com/research/publications/2021/protein-complex-prediction-with-alphafold-multimer)
+- [Setting up IPv6 on a Linux Router](https://battlepenguin.com/tech/setting-up-ipv6-on-a-linux-router)
 
-- [New “Report a Problem” link on product pages](https://developer.apple.com/news/?id=j5uyprul)
+- [Where Go and GraphQL collide: Behind the curtain with genqlient](https://blog.khanacademy.org/where-go-and-graphql-collide-behind-the-curtain-with-genqlient/)
 
-- [Apple requires account deletion within apps in AppStore starting January 31](https://developer.apple.com/news/?id=mdkbobfo)
+- [Last Year I Started Reading a Physical Newspaper](https://brianschrader.com/archive/last-year-i-started-reading-a-physical-newspaper/)
 
-- [DIFUZE: Interface Aware Fuzzing for Kernel Drivers (2017)](https://dl.acm.org/doi/pdf/10.1145/3133956.3134069)
+- [Python and Lua (2019)](https://brmmm3.github.io/posts/2019/07/28/python_and_lua/)
 
-- [Current and Future Tools for Interactive TLA+](https://emptysqua.re/blog/interactive-tla-plus/)
+- [Orion is a new WebKit-based browser for Mac](https://browser.kagi.com/)
 
-- [The naughty username checking system used by Twitch](https://ghostbin.com/57bCm)
+- [BagIt](https://en.wikipedia.org/wiki/BagIt)
 
-- [I'm Sorry](https://github.com/dotnet-foundation/Home/discussions/39)
+- [Satoshi Nakamoto : Len Sassaman](https://evanhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10)
 
-- [GitHub - felvin-search/instant-apps: Your search box is now an app store](https://github.com/felvin-search/instant-apps)
+- [Facebook Recruiter Correspondence](https://george.mand.is/2021/10/facebook-recruiter-correspondence/)
 
-- [Writing a “bare metal” operating system for Raspberry Pi 4](https://github.com/isometimes/rpi4-osdev)
+- [Not so Common Desktop Environment (NsCDE) 1.3 released](https://github.com/NsCDE/NsCDE/releases/tag/1.3)
 
-- [A Bitcoin Mining Operation Started a Secret Power Plant, It Did Not Go as Plannd](https://gizmodo.com/a-bitcoin-mining-operation-started-a-secret-power-plant-1847811718)
+- [loop_tool tutorial - a lazy symbolic linear algebra toolkit](https://github.com/facebookresearch/loop_tool/blob/main/tutorial.ipynb)
 
-- [Terraform vs. AWS CloudFormation](https://gswallow.medium.com/do-not-use-aws-cloudformation-7cf61f58bd5f)
+- [Lisp in a weekend](https://github.com/fragglet/yoctolisp/blob/master/yoctolisp.md)
 
-- [Yes, Bitcoin Is a Ponzi](https://ic.unicamp.br/~stolfi/bitcoin/2020-12-31-bitcoin-ponzi.html)
+- [gpujs/gpu.js: GPU Accelerated JavaScript](https://github.com/gpujs/gpu.js)
 
-- [FreeBSD Developer Workstation Setup](https://klarasystems.com/articles/freebsd-developer-workstation-setup/)
+- [Graph of Keybase commits pre and post Zoom acquisition](https://github.com/keybase/client/graphs/contributors)
 
-- [Moving Google toward the mainline](https://lwn.net/SubscriberLink/871195/d7e9acf5894446e6/)
+- [Lots to see in Firefox 93](https://hacks.mozilla.org/2021/10/lots-to-see-in-firefox-93/)
 
-- [Warp Terminal Emulator Review](https://matduggan.com/warp-terminal-emulator-review/)
+- [Porting Niceware to Rust](https://healeycodes.com/porting-niceware-to-rust)
 
-- [Effective Code Browsing](https://noahan.me/posts/effective-code-browsing-part1/)
+- [Making a Game in Janet, Part 2: Judging Janet](https://ianthehenry.com/posts/janet-game/judging-janet/)
 
-- [Novice Nix: Flake Templates](https://peppe.rs/posts/novice_nix:_flake_templates/)
+- [Beyond Programming Languages (1979)](https://john.cs.olemiss.edu/~dwilkins/Seminar/S05/winogradPL.pdf)
 
-- [Facebook Is an Addiction Treadmill Most May Never Be Able to Quit](https://petapixel.com/2021/10/06/facebook-is-an-addiction-treadmill-most-may-never-be-able-to-quit/)
+- [For software performance, can you always trust inlining?](https://lemire.me/blog/2021/10/09/for-software-performance-can-you-always-trust-inlining/)
 
-- [My Challenge to the Web Performance Community](https://philipwalton.com/articles/my-challenge-to-the-web-performance-community/)
+- [Joys of Porting a Kernel to WebAssembly](https://medium.com/@raphael.outhier/joys-of-porting-a-kernel-to-webassembly-5f0124e71080)
 
-- [OPPA: Ohio could become the third US state to enact a new consumer privacy law](https://portswigger.net/daily-swig/oppa-ohio-could-become-the-third-us-state-to-enact-a-new-consumer-privacy-law-in-2021)
+- [HN 15 Years ago](https://news.ycombinator.com/front?day=2006-10-09)
 
-- [Wait for toolchain support for Python 3.10](https://pythonspeed.com/articles/switch-python-3.10/)
+- [Good tests don't change](https://owengage.com/writing/2021-10-09-good-tests-dont-change/)
 
-- ['date -d' vs. 'date -s', and 'show foo' vs. 'clear foo'](https://rachelbythebay.com/w/2021/10/05/cmd/)
+- [Design and Implementation of a 256-Core BrainFuck Computer](https://people.csail.mit.edu/wjun/papers/sigtbd16.pdf)
 
-- [Gentle Introduction to Realtime Fluid Simulation for Programmers and Artists](https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac)
+- [The Mind Has No Firewall [pdf]](https://press.armywarcollege.edu/cgi/viewcontent.cgi?article=1871&context=parameters)
 
-- [The ultimate SMD marking codes database](https://smd.yooneed.one/)
+- [Finding and reporting an asyncio bug in Python 3.10](https://simonwillison.net/2021/Oct/9/finding-and-reporting-a-bug/)
 
-- [Implementing a graph database in SQLite](https://sqlite.org/draft/lang_with.html#rcex3)
+- [Soupault is a tool that helps you create and manage static websites](https://soupault.app/)
 
-- [Facebook Political Problems](https://stratechery.com/2021/facebook-political-problems/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJlbnQiOnsidXJpIjpbImh0dHBzOi8vc3RyYXRlY2hlcnkuY29tLzIwMjEvZmFjZWJvb2stcG9saXRpY2FsLXByb2JsZW1zLyJdfSwiZXhwIjoxNjM2MTMwMDQ1LCJpYXQiOjE2MzM1MzgwNDUsImlzcyI6Imh0dHBzOi8vc3RyYXRlY2hlcnkucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJhcnRpY2xlOnJlYWQgY2F0ZWdvcnk6cmVhZCIsInN1YiI6IkxHQUNiVVRGS1dtVWMxRFRkNXFtMW0iLCJ1c2UiOiJhY2Nlc3MifQ.PMr73FtoayLlKQVtITLPhzQLkDzDZBwfc1DMGGVupIsDlq_cQ5HdYx6NFyKFvknnyubEP4W1IpRSFQ4cLsg2-F8OGWBjmjXKVVx-VZq5Bw4wrBdwFtaFVL9ZAR419j3PbocuVmyXaEjahuDvyO8FPb9xmWIn0nOBCxSjjaioSFfNtPYJkrNaEjlplO6tShfh610j29o-nfQZ8qF_fOL87__CGrZzqf0COsGaq850ozNViqf4LWf9POcCRMt74MHwcfdoI4JPJg84KbvE2FeWrzGgeW3guTTQZn59cQFXlLulPrlqIyPugmw2wcpm2bHXY-VqSMECcTOc2TKMx4oLDw)
+- [Gmail password first character is case insensitive on mobile device](https://support.google.com/mail/thread/55577729/gmail-password-first-character-is-case-insensitive-on-mobile-device?hl=en)
 
-- [Actix: A Web Framework for Rust](https://tech.marksblogg.com/actix-rust-web-framework.html)
+- [Hey linker, can you spare a meg?](https://tailscale.com/blog/go-linker/)
 
-- [The Tech Worker Handbook](https://techworkerhandbook.org/)
+- [Web3 Architecture and How It Compares to Traditional Web Apps](https://thenewstack.io/web3-architecture-and-how-it-compares-to-traditional-web-apps/)
 
-- [QNTM on memes, anti-memes, and knowledge that doesn't want to be shared](https://thebrowser.com/notes/qntm/)
+- [Tinyprinter.club](https://tinyprinter.club/)
 
-- [An Iraqi who saved Norway from oil (2009)](https://web.archive.org/web/20100123225932/http://www.ft.com/cms/s/2/99680a04-92a0-11de-b63b-00144feabdc0.html)
+- [The Xilinx Zynq has an ARM Cortex-A9 with Java bytecode execution enabled](https://twitter.com/zhuowei/status/1446813898859032578)
 
-- [Dear Privacy Aware Android App Devs - Please Use UnifiedPush](https://www.andrewjvpowell.com/articles/dear-privacy-aware-android-app-devs-please-use-unifiedpush/)
+- [Blue light from monitors no danger to eyes or sleep](https://www.aerzteblatt.de/nachrichten/127272/Blaues-Licht-von-Monitoren-laut-Fachgesellschaft-keine-Gefahr-fuer-Augen-oder-Schlaf)
 
-- [Investigators say they've finally identified the Zodiac Killer](https://www.fox13now.com/news/national-news/investigators-say-theyve-finally-identified-the-zodiac-killer)
+- [NetBSD, CTWM, and Spleen](https://www.cambus.net/netbsd-ctwm-and-spleen/)
 
-- [Hyperbaric Oxygen Treatment for Alzheimer's](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7293997/)
+- [Seal-mounted camera recovered after 3 years on ocean floor yields hours of video](https://www.cbc.ca/news/canada/nova-scotia/seal-camera-lost-at-sea-retrieved-offshore-nova-scotia-1.6204068)
 
-- [Lessons learned from sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion)
+- [Canada's 'gamble' on delaying, mixing and matching Covid-19 vaccines paid off](https://www.cbc.ca/news/health/canada-vaccine-effectiveness-data-delayed-doses-mixing-matching-covid-19-vaccines-1.6205993)
 
-- [Guido van Rossum on improving Python's performance](https://www.softwareatscale.dev/p/software-at-scale-34-faster-python)
+- [Incenser, or how NSA and GCHQ are tapping internet cables (2014)](https://www.electrospaces.net/2014/11/incenser-or-how-nsa-and-gchq-are.html)
 
-- [Will Cloudflare R2 Win Customers from Amazon S3?](https://www.taloflow.ai/blog/will-cloudflare-r2-win-customers-from-amazon-s3)
+- [Real-world data show that filters clean Covid-causing virus from air](https://www.nature.com/articles/d41586-021-02669-2)
 
-- [The Insane Innovation of TI Calculator Hobbyists](https://www.thirtythreeforty.net/posts/2021/10/ti-calculator-innovation/)
+- [Lebanon's central electricity grid shuts down as fuel shortages continue](https://www.npr.org/2021/10/09/1044766802/lebanon-power-grid-shutdown-fuel-shortage)
 
-- [Twitch source code and customer data has reportedly been leaked](https://www.videogameschronicle.com/news/the-entirety-of-twitch-has-reportedly-been-leaked/)
+- [V-USB – A Firmware-Only USB Driver for Atmel AVR Microcontrollers](https://www.obdev.at/products/vusb/index.html)
 
-- [We moved from Pony to Rust](https://www.wallaroo.ai/blog-posts/wallaroo-move-to-rust)
+- [O&O ShutUp10++ – Free anti-spy tool for Windows 10, 11](https://www.oo-software.com/en/shutup10)
 
-- [The Economics of Programming Languages (2005)](https://www.welton.it/articles/programming_language_economics.html)
+- [OSv Unikernel – Optimizing Guest OS to Run Stateless and Serverless Apps](https://www.p99conf.io/session/osv-unikernel-optimizing-guest-os-to-run-stateless-and-serverless-apps-in-the-cloud/)
 
-- [Emerge Tools (YC W21) Is Hiring](https://www.workatastartup.com/jobs/46779)
+- [Super Mario 64 has been ported to iOS](https://www.reddit.com/r/SM64PC/comments/q3nm9f/sm64_has_been_ported_to_ios/)
 
-- [Take a look inside Steam Deck](https://www.youtube.com/watch?v=Dxnr2FAADAs)
+- [ScummVM 2.5 “Twenty years ago today”](https://www.scummvm.org/news/20211009/)
+
+- [The American Bumblebee Has Vanished from Eight States](https://www.smithsonianmag.com/smart-news/american-bumblebee-has-vanished-from-eight-us-states-180978817/)
+
+- [ProleText](https://www.templetons.com/tech/proletext.html)
+
+- [Amiga 68000 Hardware Assembly Programming [video]](https://www.youtube.com/playlist?list=PL-i3KPjyWoghwa9ZNAfiKQ-1HGToHn9EJ)
