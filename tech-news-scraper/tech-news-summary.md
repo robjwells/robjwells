@@ -1,105 +1,103 @@
-- [How (not) to use readdir_r(3) (2012)](http://elliotth.blogspot.com/2012/10/how-not-to-use-readdirr3.html)
+- [Scaling Indexing and Search – Algolia New Search Architecture](http://highscalability.com/blog/2021/10/11/scaling-indexing-and-search-algolia-new-search-architecture.html)
 
-- [Classes often aren't the simplest tool for the job](https://adamzerner.bearblog.dev/classes-often-arent-the-simplest-tool-for-the-job/)
+- [So You Want to Write a Technical Book](http://terathon.com/blog/so-you-want-to-write-a-technical-book/)
 
-- [Ten Years of Rows and Columns (1989)](https://aresluna.org/attached/computerhistory/articles/spreadsheets/tenyearsofrowsandcolumns)
+- [Apple fires leader of AppleToo movement](https://appleinsider.com/articles/21/10/15/apple-fires-leader-of-appletoo-movement)
 
-- [Quadlet, an easier way to run system containers [with podman]](https://blogs.gnome.org/alexl/2021/10/12/quadlet-an-easier-way-to-run-system-containers/)
+- [Bugs in our Pockets: The Risks of Client-Side Scanning](https://arxiv.org/abs/2110.07450)
 
-- [SRE Doesn’t Scale](https://bravenewgeek.com/sre-doesnt-scale/)
+- [Ubuntu Frame; A secure, LTS display server for embedded displays [pdf]](https://assets.ubuntu.com/v1/713b9224-Ubuntu.Frame.Datasheet.pdf)
 
-- [Monorepos and Forced Migrations](https://buttondown.email/j2kun/archive/monorepos-and-forced-migrations/)
+- [“Progress” by Aldous Huxley (1928)](https://atlasofplaces.com/essays/progress/)
 
-- [About Halo game's backend](https://cleverheap.com/posts/about-halo-backend/)
+- [How not to blow up the production database](https://blog.battlefy.com/how-not-to-blow-up-the-production-database-424c162dccc6?gi=8ec446ad5e47)
 
-- [New PostgreSQL Interface for Cloud Spanner](https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interface-adds-familiarity-and-portability-cloud-spanner)
+- [Revisiting the Black Sunday Hack](https://blog.codinghorror.com/revisiting-the-black-sunday-hack/)
 
-- [GCP releases Spot VMs, the next generation of Pre-emptible VMs](https://cloud.google.com/kubernetes-engine/docs/concepts/spot-vms)
+- [Louisville sawmill challenges perception about wages](https://cdispatch.com/opinions/2021-10-13/slimantics-louisville-sawmill-challenges-perception-about-wages/)
 
-- [EU court rules no EULA can forbid decompilation, if you want to fix a bug](https://curia.europa.eu/juris/document/document.jsf?docid=247056&text=&dir=&doclang=EN&part=1&occ=first&mode=DOC&pageIndex=0&cid=10751201)
+- [Some reasons to work on productivity and velocity](https://danluu.com/productivity-velocity/)
 
-- [Cwtch: Decentralized, Surveillance Resistant Infrastructure](https://cwtch.im/)
+- [How to Use Hydra as your Deployment Source of Truth](https://determinate.systems/posts/hydra-deployment-source-of-truth)
 
-- [Intelligent brute forcing](https://davidkoloski.me/blog/intelligent-brute-forcing/)
+- [Python Multithreading without GIL](https://docs.google.com/document/u/0/d/18CXhDb1ygxg-YXNBJNzfzZsDFosB5e6BfnXLlejd9l0/mobilebasic)
 
-- [SHA-1 'fully and practically broken' by new collision (2020)](https://duo.com/decipher/sha-1-fully-and-practically-broken-by-new-collision)
+- [DX-Ball](https://dx-ball.ru/)
 
-- [Facebook's Novi wallet hits trouble as two top engineers depart](https://financefeeds.com/facebooks-novi-wallet-hits-trouble-as-two-top-engineers-depart/)
+- [Functional Algorithms, Verified](https://functional-algorithms-verified.org)
 
-- [The great executive-employee disconnect](https://futureforum.com/2021/10/05/the-great-executive-employee-disconnect/)
+- [Open source is coming to financial services](https://future.a16z.com/open-source-financial-services/)
 
-- [A Case Against Lookup Tables](https://github.com/Const-me/LookupTables)
+- [Minias – A mini x86-64 assembler for fun and learning](https://github.com/andrewchambers/minias)
 
-- [algoheader: Programmatically generate beautiful header images for blogs or social media accounts](https://github.com/d3d1rty/algoheader)
+- [Don’t change the Go standard library because of generics yet](https://github.com/golang/go/issues/48918)
 
-- [Use of GitHub Enterprise](https://github.com/dotnet-foundation/Home/discussions/59)
+- [What we can learn from "_why" the long lost open source developer](https://github.com/readme/featured/why-the-lucky-stiff)
 
-- [YoHa:  A Practical Hand Tracking Engine](https://handtracking.io/)
+- [Implementing form filling and accessibility in the Firefox PDF viewer](https://hacks.mozilla.org/2021/10/implementing-form-filling-and-accessibility-in-the-firefox-pdf-viewer/)
 
-- [History of Mathematics Project](https://history-of-mathematics.org/)
+- [DOOM Rendered via Checkboxes](https://healeycodes.com/doom-rendered-via-checkboxes)
 
-- [Mechanical sympathy for QR codes: making NSW check-in better](https://huonw.github.io/blog/2021/10/nsw-covid-qr/)
+- [“as_strided” and “sum” are all you need](https://jott.live/markdown/as_strided)
 
-- [The Problem with Macros](https://ianthehenry.com/posts/janet-game/the-problem-with-macros/)
+- [Explore the most detailed map of the universe – EPFL Longread](https://longread.epfl.ch/en/dossier/virup/)
 
-- [How to win at CORS](https://jakearchibald.com/2021/cors/)
+- [A viable solution for Python concurrency](https://lwn.net/SubscriberLink/872869/0e62bba2db51ec7a/)
 
-- [Rust and GCC, two different ways](https://lwn.net/SubscriberLink/871283/c437c1364397e70e/)
+- [Hunting down a C memory leak in a Go program](https://medium.com/zendesk-engineering/hunting-down-a-c-memory-leak-in-a-go-program-2d08b24b617d)
 
-- [Interface ergonomics: automation isn't just about time saved](https://macoy.me/blog/programming/InterfaceFriction)
+- [Theory of Computation ocw course (Sipser)](https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2020/)
 
-- [To catch a hacker in my home lab](https://marcusedmondson.com/2021/07/15/to-catch-a-hacker-in-my-home-lab/)
+- [Making slow Rust code fast](https://patrickfreed.github.io/rust/2021/10/15/making-slow-rust-code-fast.html)
 
-- [RIP Jörg Schilling](https://minnie.tuhs.org/pipermail/tuhs/2021-October/024523.html)
+- [Pip vs Conda: an in-depth comparison of Python’s two packaging systems](https://pythonspeed.com/articles/conda-vs-pip/)
 
-- [Tiny ELF Files: Revisited in 2021](https://nathanotterness.com/2021/10/tiny_elf_modernized.html)
+- [Cracking Random Number Generators using Machine Learning – Part 1: xorshift128](https://research.nccgroup.com/2021/10/15/cracking-random-number-generators-using-machine-learning-part-1-xorshift128/)
 
-- [Why birds can fly over Mount Everest (2020)](https://nautil.us/issue/86/energy/why-birds-can-fly-over-mount-everest)
+- [Speed matters](https://scattered-thoughts.net/writing/speed-matters/)
 
-- [It's Ada Lovelace Day! Learn the Ada programming language in 2021](https://opensource.com/article/21/10/learn-ada-2021)
+- [Every search bar looks like a URL bar to users](https://shkspr.mobi/blog/2021/10/every-search-bar-looks-like-a-url-bar-to-users/)
 
-- [Read The Fantastic Manual: How to get the most out of Perl documentation](https://phoenixtrap.com/2021/10/12/read-the-fantastic-manual-how-to-get-the-most-out-of-perl-documentation/)
+- [How Microsoft reduced Windows 11 update size by 40%](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/how-microsoft-reduced-windows-11-update-size-by-40/ba-p/2839794)
 
-- [Evidence of people on the Azores archipelago 700 years earlier than thought](https://phys.org/news/2021-10-evidence-people-azores-archipelago-years.html)
+- [Cortical Column Networks](https://thesmartrobot.github.io/2021/08/26/thousand-brains.html)
 
-- [Remarkable starts implementing subscription plans for its cloud features](https://remarkable.com/store/connect)
+- [Ubuntu 21.10 has landed](https://ubuntu.com/blog/ubuntu-21-10-has-landed)
 
-- [Replit (YC W18) Is Hiring to Make Programming More Accessible](https://replit.com/careers)
+- [Paradox of the perfect code editor](https://web.eecs.utk.edu/~azh/blog/perfecteditorparadox.html)
 
-- [Building Tiny Raspberry Pi Linux Images With Buildroot](https://rickcarlino.com/2021/building-tiny-raspberry-pi-linux-images-with-buildroot.html)
+- [Tether Fined $41M for Lying About Reserves](https://www.bloomberg.com/news/articles/2021-10-15/tether-bitfinex-to-pay-fines-totaling-42-5-million-cftc-says)
 
-- [Scribe - An alternative frontend to medium.com](https://scribe.rip/)
+- [The Complete Technical Guide for Adhesive Tape](https://www.echotape.com/blog/complete-technical-guide-adhesive-tape/)
 
-- [Encoding Events for Neural Networks](https://theorangeduck.com/page/encoding-events-neural-networks)
+- [Mezzano on Librebooted ThinkPads](https://www.fitzsim.org/blog/?p=445)
 
-- [Show HN: Identify car crash editorial anti-patterns using NLP](https://visionzeroreporting.com/)
+- [1500 Archers on a 28.8: Network Programming in Age of Empires and Beyond (2001)](https://www.gamedeveloper.com/programming/1500-archers-on-a-28-8-network-programming-in-age-of-empires-and-beyond)
 
-- [Sending Emails to Myself](https://voussoir.net/writing/emailing_myself)
+- [Deepdive on USDT fraud: The GrantWilliams Podcast: BennettTomlin and GeorgeNoble](https://www.grant-williams.com/podcast/the-grant-williams-podcast-bennett-tomlin-george-noble/)
 
-- [Show HN: A world map of 24x365 average temperature “fingerprints”](https://weatherspark.com/map)
+- [Phantom Types in Rust](https://www.greyblake.com/blog/2021-10-11-phantom-types-in-rust/)
 
-- [IoT hacking and rickrolling my high school district](https://whitehoodhacker.net/posts/2021-10-04-the-big-rick)
+- [Save the Scribe: the women who worked with medieval manuscripts](https://www.laphamsquarterly.org/roundtable/save-scribe)
 
-- [Wolf pups 'adopted' by Idaho high schoolers killed by federal agents](https://www.bbc.com/news/world-us-canada-58887928)
+- [Bugs in our pockets?](https://www.lightbluetouchpaper.org/2021/10/15/bugs-in-our-pockets/)
 
-- [Meterorite chunk crashes into house, bedroom, pillow](https://www.cbc.ca/news/canada/british-columbia/meteorite-crashes-into-womans-bedroom-golden-bc-1.6207904)
+- [A bimodal burst energy distribution of a repeating fast radio burst source](https://www.nature.com/articles/s41586-021-03878-5)
 
-- [Major nuclear fusion milestone reached as ‘ignition’ triggered in a lab](https://www.imperial.ac.uk/news/228373/major-nuclear-fusion-milestone-reached-ignition/)
+- [OpenBSD 7.0](https://www.openbsd.org/70.html)
 
-- [The Fundamentals of Testing with Persistence Layers](https://www.infoq.com/articles/Testing-With-Persistence-Layers/)
+- [October Update: Introducing the PinePhone Pro](https://www.pine64.org/2021/10/15/october-update-introducing-the-pinephone-pro/)
 
-- [Covid lesson: trust the public with hard truths](https://www.nature.com/articles/d41586-021-02758-2)
+- [NixOS and the Art of OS Configuration](https://www.rousette.org.uk/archives/nixos-and-the-art-of-os-configuration/)
 
-- [nrc's RFC index](https://www.ncameron.org/rfcs/)
+- [Timed Sets, Functional Complexity, and Computability (2012)](https://www.sciencedirect.com/science/article/pii/S1571066112000394)
 
-- [Reversal of cognitive decline: A novel therapeutic program](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4221920/)
+- [The Math Behind “Spot It”](https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/)
 
-- [A variable signal at heart of the Milky Way](https://www.sciencedaily.com/releases/2021/10/211012080039.htm)
+- [Most Canadians believe Facebook harms their mental health](https://www.theglobeandmail.com/canada/article-most-canadians-believe-facebook-harms-their-mental-health-survey-2/)
 
-- [Android phones are sending significant amount of user data with no opt-out [pdf]](https://www.scss.tcd.ie/Doug.Leith/Android_privacy_report.pdf)
+- [LANtenna attack reveals Ethernet cable traffic contents](https://www.theregister.com/2021/10/14/lantenna_ethernet_cable_rf_emissions/)
 
-- [The Return of the Unix Shell](https://www.sigops.org/2021/the-return-of-the-unix-shell/)
+- [Circle Medical (YC S15) is hiring fullstack engineers to reimagine primary care](https://www.ycombinator.com/companies/circle-medical/jobs/ZpIlsd7-fullstack-engineer-react-js-ruby-rails)
 
-- [Relational Databases Aren’t Dinosaurs, They’re Sharks](https://www.simplethread.com/relational-databases-arent-dinosaurs-theyre-sharks/)
-
-- [Explanation of IP networking with BGP fundamentals](https://www.youtube.com/watch?v=-wMU8vmfaYo)
+- [Review of the Buick Riviera’s ‘touchscreen’ from 1986 [video]](https://www.youtube.com/watch?v=mEzEbS4uvuo)
