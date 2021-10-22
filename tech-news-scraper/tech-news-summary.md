@@ -1,45 +1,49 @@
-- [Features of Excellent Code Review Tools](https://benjamincongdon.me/blog/2021/10/17/Features-of-Excellent-Code-Review-Tools/)
+- [Introducing eFlambé](https://blog.rentpathcode.com/introducing-eflamb%C3%A9-3065e70f9eb)
 
-- [Readability verification](https://blog.ploeh.dk/2021/10/18/readability-verification/)
+- [Announcing Rust 1.56.0 and Rust 2021](https://blog.rust-lang.org/2021/10/21/Rust-1.56.0.html)
 
-- [IndexNow - Instantly Index your web content in Search Engines](https://blogs.bing.com/webmaster/october-2021/IndexNow-Instantly-Index-your-web-content-in-Search-Engines)
+- [10 ways to get the best out of OpenSCAD](https://calbryant.uk/blog/10-ways-to-get-the-best-out-of-openscad/#for-sheet-metal)
 
-- [Swarm: preview and call for collaboration](https://byorgey.wordpress.com/2021/09/23/swarm-preview-and-call-for-collaboration/)
+- [Boring machine learning is where it's at](https://cerebralab.com/Boring_machine_learning_is_where_it's_at)
 
-- [What to learn](https://danluu.com/learn-what/)
+- [Reasons to consider NOT switching to Linux](https://corn.codeberg.page/notlinux.html)
 
-- [Experimenting with column- and row-oriented datastructures](https://datastation.multiprocess.io/blog/2021-10-18-experimenting-with-column-and-row-oriented-datastructures.html)
+- [Atari Document Archive](https://docs.dev-docs.org/)
 
-- [Sculpt OS release 21.10](https://genode.org/news/sculpt-os-release-21.10)
+- [Web scraping by watching requests](https://en.jeffprod.com/blog/2021/web-scraping-by-watching-requests/)
 
-- [Git Commands Explained with Cats (2017)](https://girliemac.com/blog/2017/12/26/git-purr/)
+- [October 2021 Home Infrastructure Status](https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/personal/2021-10-20_home_infra/article.md)
 
-- [Incremental backup with strong cryptographic confidentiality baked into the data model](https://github.com/richfelker/bakelite)
+- [Are you anonymous while using private browsing mode?](https://github.com/gautamkrishnar/nothing-private#readme)
 
-- [Where does all the effort go? Looking at Python core developer activity](https://lukasz.langa.pl/f15a8851-af26-4e94-a4b1-c146c57c9d20/)
+- [Hypercore 10 Alpha](https://github.com/hypercore-protocol/hypercore-next)
 
-- [My story of Javascript dependency woes](https://nadh.in/blog/javascript-ecosystem-software-development-are-a-hot-mess/)
+- [Umami - a simple, self-hosted, website analytics alternative to Google Analytics](https://github.com/mikecao/umami#readme)
 
-- [On logical inference over brains, behaviour, and artificial neural networks](https://psyarxiv.com/tbmcg/)
+- [Ruby gets a YJIT compiler](https://github.com/ruby/ruby/pull/4992)
 
-- [What =delete means](https://quuxplusone.github.io/blog/2021/10/17/equals-delete-means/)
+- [Gron in Awk](https://github.com/xonixx/gron.awk)
 
-- [SiliFuzz: Fuzzing CPUs by proxy](https://raw.githubusercontent.com/google/fuzzing/master/docs/silifuzz.pdf)
+- [How to get useful answers to your questions](https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/)
 
-- [Cracking Random Number Generators using Machine Learning – Part 2: Mersenne Twister](https://research.nccgroup.com/2021/10/18/cracking-random-number-generators-using-machine-learning-part-2-mersenne-twister/)
+- [Apple AirTag Bug Enables ‘Good Samaritan’ Attack](https://krebsonsecurity.com/2021/09/apple-airtag-bug-enables-good-samaritan-attack/)
 
-- [What every software engineer should know about search (2017)](https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d)
+- [The Day My Script Killed 10,000 Phones in South America](https://new.pythonforengineers.com/blog/the-day-i/)
 
-- [Tests aren’t enough: Case study after adding type hints to urllib3](https://sethmlarson.dev/blog/2021-10-18/tests-arent-enough-case-study-after-adding-types-to-urllib3)
+- [A new release of OWASP WebGoat](https://owasp.org/www-project-webgoat/)
 
-- [L0phtCrack is now open source](https://twitter.com/dildog/status/1449756327094505476)
+- [Lawsuit against California TV manufacturer Vizio Inc. for GPL violations](https://sfconservancy.org/copyleft-compliance/vizio.html)
 
-- [Apple Event for October 18th, 2021](https://www.apple.com/apple-events/)
+- [The Law of Net Design Costs](https://software.rajivprab.com/2021/07/11/the-law-of-net-design-costs/)
 
-- [Printf("%s %s", dependency, injection)](https://www.fredrikholmqvist.com/posts/print-dependency-injection/)
+- [In the beginning, there was no way to expand C's stack size](https://utcc.utoronto.ca/~cks/space/blog/programming/CStackOnceNoExpansion)
 
-- [TAO: Facebook’s Distributed Data Store for the Social Graph](https://www.micahlerner.com/2021/10/13/tao-facebooks-distributed-data-store-for-the-social-graph.html)
+- [PlayStation 3 Architecture](https://www.copetti.org/writings/consoles/playstation-3/)
 
-- [What's in a hostname?](https://www.netmeister.org/blog/hostnames.html)
+- [The Wat talk (2012)](https://www.destroyallsoftware.com/talks/wat?2021)
 
-- [ArcaOS: Using OS/2 In 2021 - Install and Review](https://www.youtube.com/watch?v=Utse8P_L8k0)
+- [What is the unit of a text column number?](https://www.foonathan.net/2021/02/column/)
+
+- [GIMP - Development version: GIMP 2.99.8 Released](https://www.gimp.org/news/2021/10/20/gimp-2-99-8-released/)
+
+- [Speed up your ClojureScript Webapp](https://www.juxt.pro/blog/clojurescript-app-performance)
