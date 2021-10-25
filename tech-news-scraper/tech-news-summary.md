@@ -1,49 +1,49 @@
-- [Introducing eFlambé](https://blog.rentpathcode.com/introducing-eflamb%C3%A9-3065e70f9eb)
+- [New language features since Java 8 to 17](https://advancedweb.hu/new-language-features-since-java-8-to-17/)
 
-- [Announcing Rust 1.56.0 and Rust 2021](https://blog.rust-lang.org/2021/10/21/Rust-1.56.0.html)
+- [Getting to know Fuchsia, Google's open-source operating system](https://blog.codemagic.io/fuchsia-os-preview/)
 
-- [10 ways to get the best out of OpenSCAD](https://calbryant.uk/blog/10-ways-to-get-the-best-out-of-openscad/#for-sheet-metal)
+- [Migrating this blog from Octopress to Babashka](https://blog.michielborkent.nl/migrating-octopress-to-babashka.html)
 
-- [Boring machine learning is where it's at](https://cerebralab.com/Boring_machine_learning_is_where_it's_at)
+- [Fast and Elegant Clojure](https://bsless.github.io/fast-and-elegant-clojure/)
 
-- [Reasons to consider NOT switching to Linux](https://corn.codeberg.page/notlinux.html)
+- [Habits I've Developed for Fast + Efficient Programming](https://cprimozic.net/blog/programming-speed-strategies/)
 
-- [Atari Document Archive](https://docs.dev-docs.org/)
+- [Why you should use a BSD style license for your Open Source Project](https://docs.freebsd.org/en/articles/bsdl-gpl/)
 
-- [Web scraping by watching requests](https://en.jeffprod.com/blog/2021/web-scraping-by-watching-requests/)
+- [ProbLog: Probabilistic logic programs](https://dtai.cs.kuleuven.be/problog/index.html#)
 
-- [October 2021 Home Infrastructure Status](https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/personal/2021-10-20_home_infra/article.md)
+- [Streamlining the process of upgrading Rails in a large monolith](https://engineering.skroutz.gr/blog/monolith-diaries-upgrading-rails/)
 
-- [Are you anonymous while using private browsing mode?](https://github.com/gautamkrishnar/nothing-private#readme)
+- [Raspberry Pi, Static HTTPS site with Docker and Nginx](https://gist.github.com/rain-1/2d6033ee2b63c0a3ab802b5572df3ba9)
 
-- [Hypercore 10 Alpha](https://github.com/hypercore-protocol/hypercore-next)
+- [Dixy: Data format based on dictionaries](https://github.com/kuyawa/Dixy)
 
-- [Umami - a simple, self-hosted, website analytics alternative to Google Analytics](https://github.com/mikecao/umami#readme)
+- [An APL compiler in Standard ML compiling to Typed Array Intermediate Language](https://github.com/melsman/apltail)
 
-- [Ruby gets a YJIT compiler](https://github.com/ruby/ruby/pull/4992)
+- [A modern Prolog implementation written mostly in Rust](https://github.com/mthom/scryer-prolog)
 
-- [Gron in Awk](https://github.com/xonixx/gron.awk)
+- [Himalaya, the CLI email client: v0.5.1 released](https://github.com/soywod/himalaya)
 
-- [How to get useful answers to your questions](https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/)
+- [Dots and crosses](https://ianthehenry.com/posts/janet-game/dots-and-crosses/)
 
-- [Apple AirTag Bug Enables ‘Good Samaritan’ Attack](https://krebsonsecurity.com/2021/09/apple-airtag-bug-enables-good-samaritan-attack/)
+- [A 16 Year History of the Git Init Command](https://initialcommit.com/blog/history-git-init-command)
 
-- [The Day My Script Killed 10,000 Phones in South America](https://new.pythonforengineers.com/blog/the-day-i/)
+- [IPng acquires AS8298](https://ipng.ch/s/articles/2021/10/24/as8298.html)
 
-- [A new release of OWASP WebGoat](https://owasp.org/www-project-webgoat/)
+- [ISO-9660 Compromise, Part 2: Finding Root](https://multimedia.cx/eggs/iso-9660-compromise-part-2-finding-root/)
 
-- [Lawsuit against California TV manufacturer Vizio Inc. for GPL violations](https://sfconservancy.org/copyleft-compliance/vizio.html)
+- [Strings, arrays, recursion, and parsing JSON: Exploring PL/pgSQL](https://notes.eatonphil.com/exploring-plpgsql.html)
 
-- [The Law of Net Design Costs](https://software.rajivprab.com/2021/07/11/the-law-of-net-design-costs/)
+- [A Prototype Original iPod](https://panic.com/blog/a-prototype-original-ipod/)
 
-- [In the beginning, there was no way to expand C's stack size](https://utcc.utoronto.ca/~cks/space/blog/programming/CStackOnceNoExpansion)
+- [RSS is Wonderful](https://quakkels.com/posts/rss-is-wonderful/)
 
-- [PlayStation 3 Architecture](https://www.copetti.org/writings/consoles/playstation-3/)
+- [The NeWS Book: An Introduction to the Network Extensible Window System (1989)](https://raw.githubusercontent.com/manjunath5496/James-Gosling-Books/master/gos(5).pdf)
 
-- [The Wat talk (2012)](https://www.destroyallsoftware.com/talks/wat?2021)
+- [Moving Faster](https://scattered-thoughts.net/writing/moving-faster/)
 
-- [What is the unit of a text column number?](https://www.foonathan.net/2021/02/column/)
+- [Multiple instance Activitywatch remote server setup for time-tracking](https://wsdookadr.github.io/posts/p6/)
 
-- [GIMP - Development version: GIMP 2.99.8 Released](https://www.gimp.org/news/2021/10/20/gimp-2-99-8-released/)
+- [LLMNR, Multicast DNS and names on your LAN](https://www.eiman.tv/blog/posts/lannames/)
 
-- [Speed up your ClojureScript Webapp](https://www.juxt.pro/blog/clojurescript-app-performance)
+- [An alternative approach to rate limiting (2017)](https://www.figma.com/blog/an-alternative-approach-to-rate-limiting/)
