@@ -1,49 +1,49 @@
-- [New language features since Java 8 to 17](https://advancedweb.hu/new-language-features-since-java-8-to-17/)
+- [Using Lineage with microG](https://battlepenguin.com/tech/lineage-with-microg-on-a-sony-xa2/)
 
-- [Getting to know Fuchsia, Google's open-source operating system](https://blog.codemagic.io/fuchsia-os-preview/)
+- [How Debian Cron Handles DST Transitions](https://blog.healthchecks.io/2021/10/how-debian-cron-handles-dst-transitions/)
 
-- [Migrating this blog from Octopress to Babashka](https://blog.michielborkent.nl/migrating-octopress-to-babashka.html)
+- [Rendering on the Apple M1 Max Chip](https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html)
 
-- [Fast and Elegant Clojure](https://bsless.github.io/fast-and-elegant-clojure/)
+- [CookLang – Recipe Markup Language](https://cooklang.org/)
 
-- [Habits I've Developed for Fast + Efficient Programming](https://cprimozic.net/blog/programming-speed-strategies/)
+- [A comprehensive guide to go generate](https://eli.thegreenplace.net/2021/a-comprehensive-guide-to-go-generate/)
 
-- [Why you should use a BSD style license for your Open Source Project](https://docs.freebsd.org/en/articles/bsdl-gpl/)
+- [My ideal Rust workflow](https://fasterthanli.me/articles/my-ideal-rust-workflow)
 
-- [ProbLog: Probabilistic logic programs](https://dtai.cs.kuleuven.be/problog/index.html#)
+- [PyCM 3.3 released : Comparison of Classifiers Based on Confusion Matrix](https://github.com/sepandhaghighi/pycm)
 
-- [Streamlining the process of upgrading Rails in a large monolith](https://engineering.skroutz.gr/blog/monolith-diaries-upgrading-rails/)
+- [Expectations for generics in Go 1.18 (Russ Cox on golang-dev)](https://groups.google.com/g/golang-dev/c/iuB22_G9Kbo)
 
-- [Raspberry Pi, Static HTTPS site with Docker and Nginx](https://gist.github.com/rain-1/2d6033ee2b63c0a3ab802b5572df3ba9)
+- [From ‘guix environment’ to ‘guix shell’](https://guix.gnu.org/en/blog/2021/from-guix-environment-to-guix-shell/)
 
-- [Dixy: Data format based on dictionaries](https://github.com/kuyawa/Dixy)
+- [Opaque Types Let You Think Locally](https://incrementalelm.com/opaque-types-let-you-think-locally)
 
-- [An APL compiler in Standard ML compiling to Typed Array Intermediate Language](https://github.com/melsman/apltail)
+- [Models of Programming](https://lambdaland.org/posts/2021-09-25_models_of_programming_draft2/)
 
-- [A modern Prolog implementation written mostly in Rust](https://github.com/mthom/scryer-prolog)
+- [In C++, is empty() faster than comparing the size with zero?](https://lemire.me/blog/2021/10/26/in-c-is-empty-faster-than-comparing-the-size-with-zero/)
 
-- [Himalaya, the CLI email client: v0.5.1 released](https://github.com/soywod/himalaya)
+- [In C, how do you know if the dynamic allocation succeeded?](https://lemire.me/blog/2021/10/27/in-c-how-do-you-know-if-the-dynamic-allocation-succeeded/)
 
-- [Dots and crosses](https://ianthehenry.com/posts/janet-game/dots-and-crosses/)
+- [Why Turtl Switched From CL to Js](https://lisp-journey.gitlab.io/blog/why-turtl-switched-from-lisp-to-js/)
 
-- [A 16 Year History of the Git Init Command](https://initialcommit.com/blog/history-git-init-command)
+- [When to Use Each of the Git Diff Algorithms](https://luppeng.wordpress.com/2020/10/10/when-to-use-each-of-the-git-diff-algorithms/)
 
-- [IPng acquires AS8298](https://ipng.ch/s/articles/2021/10/24/as8298.html)
+- [Migrations: migrating attributes, pt. II](https://minimalmodeling.substack.com/p/migrations-migrating-attributes-pt-ade)
 
-- [ISO-9660 Compromise, Part 2: Finding Root](https://multimedia.cx/eggs/iso-9660-compromise-part-2-finding-root/)
+- [Don’t reopen namespace std](https://quuxplusone.github.io/blog/2021/10/27/dont-reopen-namespace-std/)
 
-- [Strings, arrays, recursion, and parsing JSON: Exploring PL/pgSQL](https://notes.eatonphil.com/exploring-plpgsql.html)
+- [Cube burning (1993)](https://simson.net/ref/1993/cubefire.html)
 
-- [A Prototype Original iPod](https://panic.com/blog/a-prototype-original-ipod/)
+- [Refactoring vs. Defactoring](https://understandlegacycode.com/blog/refactoring-and-defactoring/)
 
-- [RSS is Wonderful](https://quakkels.com/posts/rss-is-wonderful/)
+- [Language Design Is Not Just Solving Puzzles (2006)](https://www.artima.com/weblogs/viewpost.jsp?thread=147358)
 
-- [The NeWS Book: An Introduction to the Network Extensible Window System (1989)](https://raw.githubusercontent.com/manjunath5496/James-Gosling-Books/master/gos(5).pdf)
+- [A 2021 Survey of Rust GUI Libraries](https://www.boringcactus.com/2021/10/24/2021-survey-of-rust-gui-libraries.html)
 
-- [Moving Faster](https://scattered-thoughts.net/writing/moving-faster/)
+- [How we built a forever-free serverless SQL database](https://www.cockroachlabs.com/blog/how-we-built-cockroachdb-serverless/)
 
-- [Multiple instance Activitywatch remote server setup for time-tracking](https://wsdookadr.github.io/posts/p6/)
+- [Play a game to find your true love of coding fonts](https://www.codingfont.com/)
 
-- [LLMNR, Multicast DNS and names on your LAN](https://www.eiman.tv/blog/posts/lannames/)
+- [Platforms, Compatibility, and the Future of the Free Desktop](https://www.jwestman.net/2021/10/26/platforms-compatibility-the-future-of-the-free-desktop.html)
 
-- [An alternative approach to rate limiting (2017)](https://www.figma.com/blog/an-alternative-approach-to-rate-limiting/)
+- [URL shortener written using only HTML](https://ï.at)
