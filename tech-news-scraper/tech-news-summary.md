@@ -1,49 +1,47 @@
-- [Using Lineage with microG](https://battlepenguin.com/tech/lineage-with-microg-on-a-sony-xa2/)
+- [SQL Server compatibility extension for PostgreSQL](https://babelfishpg.org/blog/releases/2021/10/babelfish-launch/)
 
-- [How Debian Cron Handles DST Transitions](https://blog.healthchecks.io/2021/10/how-debian-cron-handles-dst-transitions/)
+- [BBC Micro Emulator](https://bbc.godbolt.org/)
 
-- [Rendering on the Apple M1 Max Chip](https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html)
+- [Why Embedded Software Development is Harder](https://beza1e1.tuxen.de/embedded.html)
 
-- [CookLang – Recipe Markup Language](https://cooklang.org/)
+- [What every IT person needs to know about OpenBSD Part 1: How it all started](https://blog.apnic.net/2021/10/28/openbsd-part-1-how-it-all-started/)
 
-- [A comprehensive guide to go generate](https://eli.thegreenplace.net/2021/a-comprehensive-guide-to-go-generate/)
+- [Dont Worry Be Happy](https://blog.cofree.coffee/2021-10-29-dont-worry-be-happy/)
 
-- [My ideal Rust workflow](https://fasterthanli.me/articles/my-ideal-rust-workflow)
+- [elementary OS 6 Updates for October, 2021](https://blog.elementary.io/elementary-os-6-odin-updates-october-2021/)
 
-- [PyCM 3.3 released : Comparison of Classifiers Based on Confusion Matrix](https://github.com/sepandhaghighi/pycm)
+- [Async Ruby](https://brunosutic.com/blog/async-ruby)
 
-- [Expectations for generics in Go 1.18 (Russ Cox on golang-dev)](https://groups.google.com/g/golang-dev/c/iuB22_G9Kbo)
+- [Building an Emacs lisp VM in Rust](https://coredumped.dev/2021/10/21/building-an-emacs-lisp-vm-in-rust/)
 
-- [From ‘guix environment’ to ‘guix shell’](https://guix.gnu.org/en/blog/2021/from-guix-environment-to-guix-shell/)
+- [The QUIC API OpenSSL will not provide](https://daniel.haxx.se/blog/2021/10/25/the-quic-api-openssl-will-not-provide/)
 
-- [Opaque Types Let You Think Locally](https://incrementalelm.com/opaque-types-let-you-think-locally)
+- [net2o — reinventing the Internet](https://fossil.net2o.de/net2o/doc/trunk/wiki/net2o.md)
 
-- [Models of Programming](https://lambdaland.org/posts/2021-09-25_models_of_programming_draft2/)
+- [Avendish: Declarative, non-intrusive, compile-time C++ reflection](https://github.com/celtera/avendish)
 
-- [In C++, is empty() faster than comparing the size with zero?](https://lemire.me/blog/2021/10/26/in-c-is-empty-faster-than-comparing-the-size-with-zero/)
+- [SectorLISP Now Fits in One Sector](https://justine.lol/sectorlisp/)
 
-- [In C, how do you know if the dynamic allocation succeeded?](https://lemire.me/blog/2021/10/27/in-c-how-do-you-know-if-the-dynamic-allocation-succeeded/)
+- [An ode to the 10,000 RPM Western Digital (Veloci)Raptor](https://louwrentius.com/an-ode-to-the-10000-rpm-western-digital-velociraptor.html)
 
-- [Why Turtl Switched From CL to Js](https://lisp-journey.gitlab.io/blog/why-turtl-switched-from-lisp-to-js/)
+- [Debian's which hunt](https://lwn.net/SubscriberLink/874049/bf89a969ed3dde87/)
 
-- [When to Use Each of the Git Diff Algorithms](https://luppeng.wordpress.com/2020/10/10/when-to-use-each-of-the-git-diff-algorithms/)
+- [Switching the Linux graphics stack from GLX to EGL](https://mozillagfx.wordpress.com/2021/10/30/switching-the-linux-graphics-stack-from-glx-to-egl/)
 
-- [Migrations: migrating attributes, pt. II](https://minimalmodeling.substack.com/p/migrations-migrating-attributes-pt-ade)
+- [Hands-on with Macromedia Director in ScummVM](https://obscuritory.com/essay/macromedia-director-in-scummvm/)
 
-- [Don’t reopen namespace std](https://quuxplusone.github.io/blog/2021/10/27/dont-reopen-namespace-std/)
+- [STMP157-OLinuXino-LIME2 Open Source Hardware Industrial Grade Linux computer is in mass production with 4 variants](https://olimex.wordpress.com/2021/10/29/stmp157-olinuxino-lime2-open-source-hardware-industrial-grade-linux-computer-is-in-mass-production-with-4-variants/)
 
-- [Cube burning (1993)](https://simson.net/ref/1993/cubefire.html)
+- [Can Data Die? Tracking the Lenna Image](https://pudding.cool/2021/10/lenna/)
 
-- [Refactoring vs. Defactoring](https://understandlegacycode.com/blog/refactoring-and-defactoring/)
+- [Portable software is more complex than you think](https://sporks.space/2021/10/30/portable-software-is-more-complex-than-you-think/)
 
-- [Language Design Is Not Just Solving Puzzles (2006)](https://www.artima.com/weblogs/viewpost.jsp?thread=147358)
+- [Autumn Lisp Game Jam 2021 Postmortem](https://wiki.alopex.li/ALGJ2021Postmortem)
 
-- [A 2021 Survey of Rust GUI Libraries](https://www.boringcactus.com/2021/10/24/2021-survey-of-rust-gui-libraries.html)
+- [Packing, encrypting and uploading deliverables](https://wsdookadr.github.io/posts/p7/)
 
-- [How we built a forever-free serverless SQL database](https://www.cockroachlabs.com/blog/how-we-built-cockroachdb-serverless/)
+- [Blog.txt](https://www.curiositry.com/blog.txt)
 
-- [Play a game to find your true love of coding fonts](https://www.codingfont.com/)
+- [IPv4 addresses are silly, inet_aton(3) doubly so](https://www.netmeister.org/blog/inet_aton.html)
 
-- [Platforms, Compatibility, and the Future of the Free Desktop](https://www.jwestman.net/2021/10/26/platforms-compatibility-the-future-of-the-free-desktop.html)
-
-- [URL shortener written using only HTML](https://ï.at)
+- [Despite having just 5.8% sales, over 38% of bug reports come from the Linux community](https://www.reddit.com/r/gamedev/comments/qeqn3b/despite_having_just_58_sales_over_38_of_bug/)
