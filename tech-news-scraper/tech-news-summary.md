@@ -1,47 +1,49 @@
-- [SQL Server compatibility extension for PostgreSQL](https://babelfishpg.org/blog/releases/2021/10/babelfish-launch/)
+- [Tree Edit Distance](http://tree-edit-distance.dbresearch.uni-salzburg.at/)
 
-- [BBC Micro Emulator](https://bbc.godbolt.org/)
+- [spelunking through the apk-tools dependency solver](https://ariadne.space/2021/10/31/spelunking-through-the-apk-tools-dependency-solver/)
+
+- [Upgrading OpenSMTPD 6.3 and Running E-mail in Docker](https://battlepenguin.com/tech/upgrading-opensmtpd-6.3-and-running-e-mail-in-docker/)
 
 - [Why Embedded Software Development is Harder](https://beza1e1.tuxen.de/embedded.html)
 
-- [What every IT person needs to know about OpenBSD Part 1: How it all started](https://blog.apnic.net/2021/10/28/openbsd-part-1-how-it-all-started/)
-
-- [Dont Worry Be Happy](https://blog.cofree.coffee/2021-10-29-dont-worry-be-happy/)
-
-- [elementary OS 6 Updates for October, 2021](https://blog.elementary.io/elementary-os-6-odin-updates-october-2021/)
+- [BPM Is - Tap along with the beat of a song and discover its BPM](https://bpm.is)
 
 - [Async Ruby](https://brunosutic.com/blog/async-ruby)
 
-- [Building an Emacs lisp VM in Rust](https://coredumped.dev/2021/10/21/building-an-emacs-lisp-vm-in-rust/)
+- [Evaluating Clever CSS Solutions](https://css-irl.info/evaluating-clever-css-solutions/)
 
-- [The QUIC API OpenSSL will not provide](https://daniel.haxx.se/blog/2021/10/25/the-quic-api-openssl-will-not-provide/)
+- [Bash functions are better than I thought](https://cuddly-octo-palm-tree.com/posts/2021-10-31-better-bash-functions/)
 
-- [net2o — reinventing the Internet](https://fossil.net2o.de/net2o/doc/trunk/wiki/net2o.md)
+- [Building a performant SCSS-like rule expander for CSS using fuzzy parsing in under 300 LoC](https://datastation.multiprocess.io/blog/2021-10-31-building-a-nested-css-rule-expander.html)
 
-- [Avendish: Declarative, non-intrusive, compile-time C++ reflection](https://github.com/celtera/avendish)
+- [Pentium on a 386 motherboard](https://dependency-injection.com/pentium-on-a-386-motherboard/)
+
+- [Perfecting GLFW for Zig, and finding lurking undefined behavior that went unnoticed for 6+ years](https://devlog.hexops.com/2021/perfecting-glfw-for-zig-and-finding-undefined-behavior)
+
+- [Dew Point Forecast - Get a 7 day forecast of the dew point in a selected location](https://dewpoint.7bit.org/)
+
+- [WordPress on Kubernetes (GKE, cloud SQL, NFS, cluster autoscaling, HPA, VPA, Ingress, Let's Encrypt)](https://foolcontrol.org/?p=3754)
+
+- [Cross-compiling and Static-linking with Nix](https://functor.tokyo/blog/2021-10-20-nix-cross-static)
+
+- [epilys/rsqlite3: sqlite3 Rewritten in RiiR Rust](https://github.com/epilys/rsqlite3)
 
 - [SectorLISP Now Fits in One Sector](https://justine.lol/sectorlisp/)
 
-- [An ode to the 10,000 RPM Western Digital (Veloci)Raptor](https://louwrentius.com/an-ode-to-the-10000-rpm-western-digital-velociraptor.html)
+- [Researchers discover a Unicode bug that affects most compilers](https://krebsonsecurity.com/2021/11/trojan-source-bug-threatens-the-security-of-all-code/)
 
-- [Debian's which hunt](https://lwn.net/SubscriberLink/874049/bf89a969ed3dde87/)
+- [Relative relocations and RELR](https://maskray.me/blog/2021-10-31-relative-relocations-and-relr)
 
 - [Switching the Linux graphics stack from GLX to EGL](https://mozillagfx.wordpress.com/2021/10/30/switching-the-linux-graphics-stack-from-glx-to-egl/)
 
-- [Hands-on with Macromedia Director in ScummVM](https://obscuritory.com/essay/macromedia-director-in-scummvm/)
-
-- [STMP157-OLinuXino-LIME2 Open Source Hardware Industrial Grade Linux computer is in mass production with 4 variants](https://olimex.wordpress.com/2021/10/29/stmp157-olinuxino-lime2-open-source-hardware-industrial-grade-linux-computer-is-in-mass-production-with-4-variants/)
-
 - [Can Data Die? Tracking the Lenna Image](https://pudding.cool/2021/10/lenna/)
 
-- [Portable software is more complex than you think](https://sporks.space/2021/10/30/portable-software-is-more-complex-than-you-think/)
+- [Timing with curl (2010)](https://susam.in/maze/timing-with-curl.html)
 
-- [Autumn Lisp Game Jam 2021 Postmortem](https://wiki.alopex.li/ALGJ2021Postmortem)
+- [Introducing Visual Git](https://visualgit.io/news.html#20211031)
 
-- [Packing, encrypting and uploading deliverables](https://wsdookadr.github.io/posts/p7/)
+- [Using lightweight formal methods to validate a key-value storage node in Amazon S3](https://www.amazon.science/publications/using-lightweight-formal-methods-to-validate-a-key-value-storage-node-in-amazon-s3)
 
-- [Blog.txt](https://www.curiositry.com/blog.txt)
+- [sysexits -- preferable exit codes for programs](https://www.freebsd.org/cgi/man.cgi?query=sysexits)
 
-- [IPv4 addresses are silly, inet_aton(3) doubly so](https://www.netmeister.org/blog/inet_aton.html)
-
-- [Despite having just 5.8% sales, over 38% of bug reports come from the Linux community](https://www.reddit.com/r/gamedev/comments/qeqn3b/despite_having_just_58_sales_over_38_of_bug/)
+- [Trojan Source: Invisible Vulnerabilities](https://www.lightbluetouchpaper.org/2021/11/01/trojan-source-invisible-vulnerabilities/)
