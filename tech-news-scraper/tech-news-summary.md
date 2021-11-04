@@ -1,49 +1,49 @@
-- [Tree Edit Distance](http://tree-edit-distance.dbresearch.uni-salzburg.at/)
+- [A History of Modern 64-bit Computing (2007)](http://courses.cs.washington.edu/courses/csep590/06au/projects/history-64-bit.pdf)
 
-- [spelunking through the apk-tools dependency solver](https://ariadne.space/2021/10/31/spelunking-through-the-apk-tools-dependency-solver/)
+- [Scalability! But at what cost?](http://www.frankmcsherry.org/assets/COST.pdf)
 
-- [Upgrading OpenSMTPD 6.3 and Running E-mail in Docker](https://battlepenguin.com/tech/upgrading-opensmtpd-6.3-and-running-e-mail-in-docker/)
+- [Peeking through logs](https://asylum.madhouse-project.org/blog/2021/10/23/peeking-through-logs/)
 
-- [Why Embedded Software Development is Harder](https://beza1e1.tuxen.de/embedded.html)
+- [The tale of a single register value](https://blog.cloudflare.com/the-tale-of-a-single-register-value/)
 
-- [BPM Is - Tap along with the beat of a song and discover its BPM](https://bpm.is)
+- [How to get the best out of your Yubikey with GPG](https://calbryant.uk/blog/how-to-get-the-best-out-of-your-yubikey-with-gpg/)
 
-- [Async Ruby](https://brunosutic.com/blog/async-ruby)
+- [Curves and Surfaces](https://ciechanow.ski/curves-and-surfaces/)
 
-- [Evaluating Clever CSS Solutions](https://css-irl.info/evaluating-clever-css-solutions/)
+- [Misspecification: The Blind Spot of Formal Verification](https://concerningquality.com/misspecification/)
 
-- [Bash functions are better than I thought](https://cuddly-octo-palm-tree.com/posts/2021-10-31-better-bash-functions/)
+- [Leaving Debian](https://corecursive.com/leaving-debian/)
 
-- [Building a performant SCSS-like rule expander for CSS using fuzzy parsing in under 300 LoC](https://datastation.multiprocess.io/blog/2021-10-31-building-a-nested-css-rule-expander.html)
+- [FreeBSD Journal 2021/09-10 - FreeBSD Development](https://freebsdfoundation.org/past-issues/freebsd-development/)
 
-- [Pentium on a 386 motherboard](https://dependency-injection.com/pentium-on-a-386-motherboard/)
+- [Local-First Notebooks for Clojure](https://github.com/nextjournal/clerk)
 
-- [Perfecting GLFW for Zig, and finding lurking undefined behavior that went unnoticed for 6+ years](https://devlog.hexops.com/2021/perfecting-glfw-for-zig-and-finding-undefined-behavior)
+- [Introducing River, a Dynamic Tiling Wayland Compositor](https://isaacfreund.com/blog/river-intro/)
 
-- [Dew Point Forecast - Get a 7 day forecast of the dew point in a selected location](https://dewpoint.7bit.org/)
+- [How X Window Managers Work, And How To Write One (Part I)](https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/)
 
-- [WordPress on Kubernetes (GKE, cloud SQL, NFS, cluster autoscaling, HPA, VPA, Ingress, Let's Encrypt)](https://foolcontrol.org/?p=3754)
+- [Stylized Neural Painting](https://jiupinjia.github.io/neuralpainter/)
 
-- [Cross-compiling and Static-linking with Nix](https://functor.tokyo/blog/2021-10-20-nix-cross-static)
+- [Roblox's Luau Goes Open-Source](https://luau-lang.org/2021/11/03/luau-goes-open-source.html)
 
-- [epilys/rsqlite3: sqlite3 Rewritten in RiiR Rust](https://github.com/epilys/rsqlite3)
+- [Notes From the Meeting On Python GIL Removal Between Python Core and Sam Gross](https://lukasz.langa.pl/5d044f91-49c1-4170-aed1-62b6763e6ad0/)
 
-- [SectorLISP Now Fits in One Sector](https://justine.lol/sectorlisp/)
+- [An opinionated guide on how to reverse engineer software, part 1](https://margin.re/media/an-opinionated-guide-on-how-to-reverse-engineer-software-part-1.aspx)
 
-- [Researchers discover a Unicode bug that affects most compilers](https://krebsonsecurity.com/2021/11/trojan-source-bug-threatens-the-security-of-all-code/)
+- [What is the Inverse of a Vector?](https://mattferraro.dev/posts/geometric-algebra)
 
-- [Relative relocations and RELR](https://maskray.me/blog/2021-10-31-relative-relocations-and-relr)
+- [Backing up WhatsApp data through the multi-device web client](https://mazzo.li/posts/whatsapp-backup.html)
 
-- [Switching the Linux graphics stack from GLX to EGL](https://mozillagfx.wordpress.com/2021/10/30/switching-the-linux-graphics-stack-from-glx-to-egl/)
+- [s3-credentials: a tool for creating credentials for S3 buckets](https://simonwillison.net/2021/Nov/3/s3-credentials/)
 
-- [Can Data Die? Tracking the Lenna Image](https://pudding.cool/2021/10/lenna/)
+- [7 Useful Tools Written in Haskell](https://typeable.io/blog/2021-10-18-haskell-tools)
 
-- [Timing with curl (2010)](https://susam.in/maze/timing-with-curl.html)
+- [Async await in Swift explained with code examples](https://www.avanderlee.com/swift/async-await/)
 
-- [Introducing Visual Git](https://visualgit.io/news.html#20211031)
+- [A fork() in the road (2019)](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/fork-hotos19.pdf)
 
-- [Using lightweight formal methods to validate a key-value storage node in Amazon S3](https://www.amazon.science/publications/using-lightweight-formal-methods-to-validate-a-key-value-storage-node-in-amazon-s3)
+- [Anatomy of a Terminal Emulator](https://www.poor.dev/blog/terminal-anatomy/)
 
-- [sysexits -- preferable exit codes for programs](https://www.freebsd.org/cgi/man.cgi?query=sysexits)
+- [How Twine remade gaming](https://www.theverge.com/22321816/csk-twine)
 
-- [Trojan Source: Invisible Vulnerabilities](https://www.lightbluetouchpaper.org/2021/11/01/trojan-source-invisible-vulnerabilities/)
+- [Time-Series Database Requirements (2014)](https://www.xaprb.com/blog/2014/06/08/time-series-database-requirements/)
