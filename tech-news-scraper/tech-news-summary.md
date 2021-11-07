@@ -1,49 +1,49 @@
-- [A History of Modern 64-bit Computing (2007)](http://courses.cs.washington.edu/courses/csep590/06au/projects/history-64-bit.pdf)
+- [qb.js: An implementation of QBASIC in Javascript](http://stevehanov.ca/blog/?id=92)
 
-- [Scalability! But at what cost?](http://www.frankmcsherry.org/assets/COST.pdf)
+- [LuaJIT Garbage Collector Design Doc](http://wiki.luajit.org/New-Garbage-Collector)
 
-- [Peeking through logs](https://asylum.madhouse-project.org/blog/2021/10/23/peeking-through-logs/)
+- [An Introduction to Concurrent Logic Programming](http://www.call-with-current-continuation.org/articles/the-joy-of-concurrent-logic-programming.txt)
 
-- [The tale of a single register value](https://blog.cloudflare.com/the-tale-of-a-single-register-value/)
+- [Version 7 of FLENG, a concurrent logic programming language, has been released](http://www.call-with-current-continuation.org/fleng/fleng.html)
 
-- [How to get the best out of your Yubikey with GPG](https://calbryant.uk/blog/how-to-get-the-best-out-of-your-yubikey-with-gpg/)
+- [Moldable Emacs: a Clojure Playground with Babashka](https://ag91.github.io/blog/2021/11/05/moldable-emacs-a-clojure-playground-with-babashka/)
 
-- [Curves and Surfaces](https://ciechanow.ski/curves-and-surfaces/)
+- [Recommendations to clarify NASA open source requirements](https://arxiv.org/pdf/2111.02550.pdf)
 
-- [Misspecification: The Blind Spot of Formal Verification](https://concerningquality.com/misspecification/)
+- [Never update anything](https://blog.kronis.dev/articles/never-update-anything)
 
-- [Leaving Debian](https://corecursive.com/leaving-debian/)
+- [Spending $5k to learn how database indexes work](https://briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/)
 
-- [FreeBSD Journal 2021/09-10 - FreeBSD Development](https://freebsdfoundation.org/past-issues/freebsd-development/)
+- [Weaponizing an NFC reader for basic timing attacks](https://ceres-c.it/2021/10/24/weaponizing-NFC-reader/)
 
-- [Local-First Notebooks for Clojure](https://github.com/nextjournal/clerk)
+- [The Tree Structure of File Systems](https://fkohlgrueber.github.io/blog/tree-structure-of-file-systems/)
 
-- [Introducing River, a Dynamic Tiling Wayland Compositor](https://isaacfreund.com/blog/river-intro/)
+- [1001 Representations of Syntax with Binding](https://jesper.sikanda.be/posts/1001-syntax-representations.html)
 
-- [How X Window Managers Work, And How To Write One (Part I)](https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/)
+- [Emacs & Emojis: A love Story](https://lars.ingebrigtsen.no/2021/10/28/emacs-emojis-a-%e2%9d%a4%ef%b8%8f-story/)
 
-- [Stylized Neural Painting](https://jiupinjia.github.io/neuralpainter/)
+- [Moscow state university network built by students](https://medium.com/@pv.safronov/moscow-state-university-network-built-by-students-211539855cf9)
 
-- [Roblox's Luau Goes Open-Source](https://luau-lang.org/2021/11/03/luau-goes-open-source.html)
+- [Hacker Superstitions](https://nora.codes/post/hacker-superstitions/)
 
-- [Notes From the Meeting On Python GIL Removal Between Python Core and Sam Gross](https://lukasz.langa.pl/5d044f91-49c1-4170-aed1-62b6763e6ad0/)
+- [It's Time to Get Hyped About Const Generics in Rust](https://nora.codes/post/its-time-to-get-hyped-about-const-generics-in-rust/)
 
-- [An opinionated guide on how to reverse engineer software, part 1](https://margin.re/media/an-opinionated-guide-on-how-to-reverse-engineer-software-part-1.aspx)
+- [The yearly backup restore test](https://raymii.org/s/blog/Yearly_Backup_Restore_test.html)
 
-- [What is the Inverse of a Vector?](https://mattferraro.dev/posts/geometric-algebra)
+- [What is AT&T doing at 1111340002?](https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c)
 
-- [Backing up WhatsApp data through the multi-device web client](https://mazzo.li/posts/whatsapp-backup.html)
+- [How you can track your personal finances using Python](https://sgoel.dev/posts/how-you-can-track-your-personal-finances-using-python/)
 
-- [s3-credentials: a tool for creating credentials for S3 buckets](https://simonwillison.net/2021/Nov/3/s3-credentials/)
+- [Threema: Three Strikes, You’re Out](https://soatok.blog/2021/11/05/threema-three-strikes-youre-out/)
 
-- [7 Useful Tools Written in Haskell](https://typeable.io/blog/2021-10-18-haskell-tools)
+- [npm install is curl | bash](https://www.btao.org/2021/09/09/npm-install-is-curl-bash/)
 
-- [Async await in Swift explained with code examples](https://www.avanderlee.com/swift/async-await/)
+- [Backups and Corruption](https://www.collicutt.co.uk/notebook/backups.html)
 
-- [A fork() in the road (2019)](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/fork-hotos19.pdf)
+- [Decentralized ETS Counters for Better Scalability](https://www.erlang.org/blog/scalable-ets-counters/)
 
-- [Anatomy of a Terminal Emulator](https://www.poor.dev/blog/terminal-anatomy/)
+- [Announcing the new erlang.org](https://www.erlang.org/news/151)
 
-- [How Twine remade gaming](https://www.theverge.com/22321816/csk-twine)
+- [From MacOS to Arch Linux](https://www.juxt.pro/blog/from-mac-to-arch)
 
-- [Time-Series Database Requirements (2014)](https://www.xaprb.com/blog/2014/06/08/time-series-database-requirements/)
+- [Qt6 QML Book](https://www.qt.io/product/qt6/qml-book)
