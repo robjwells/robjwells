@@ -1,49 +1,49 @@
-- [qb.js: An implementation of QBASIC in Javascript](http://stevehanov.ca/blog/?id=92)
+- [A Static Haskell/Reflex Frontend App](http://jackkelly.name/blog/archives/2021/11/09/a_static_haskell_reflex_frontend_app)
 
-- [LuaJIT Garbage Collector Design Doc](http://wiki.luajit.org/New-Garbage-Collector)
+- [The Emacs Lisp book is finished](http://mbork.pl/2021-11-06_The_Emacs_Lisp_book_is_finished)
 
-- [An Introduction to Concurrent Logic Programming](http://www.call-with-current-continuation.org/articles/the-joy-of-concurrent-logic-programming.txt)
+- [Alloy 6](https://alloytools.org/alloy6.html)
 
-- [Version 7 of FLENG, a concurrent logic programming language, has been released](http://www.call-with-current-continuation.org/fleng/fleng.html)
+- [The Surreal Horror of PAM](https://christine.website/talks/surreal-horror-pam-2021-11-09)
 
-- [Moldable Emacs: a Clojure Playground with Babashka](https://ag91.github.io/blog/2021/11/05/moldable-emacs-a-clojure-playground-with-babashka/)
+- [simple, type-safe string formatting in Haskell](https://danso.ca/blog/type-safe-printf/)
 
-- [Recommendations to clarify NASA open source requirements](https://arxiv.org/pdf/2111.02550.pdf)
+- [ts2ocaml: generate OCaml bindings from .d.ts files](https://discuss.ocaml.org/t/ann-first-release-of-ts2ocaml-generates-ocaml-bindings-from-d-ts-files/8772)
 
-- [Never update anything](https://blog.kronis.dev/articles/never-update-anything)
+- [A no-go fantasy: writing Go in Ruby with Ruby Next](https://evilmartians.com/chronicles/a-no-go-fantasy-writing-go-in-ruby-with-ruby-next)
 
-- [Spending $5k to learn how database indexes work](https://briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/)
+- [Source code for the 1986 Commodore 64 MMO Habitat released](https://github.com/Museum-of-Art-and-Digital-Entertainment/habitat)
 
-- [Weaponizing an NFC reader for basic timing attacks](https://ceres-c.it/2021/10/24/weaponizing-NFC-reader/)
+- [A template project that builds a SDL application programmed in Zig to Android from scratch](https://github.com/vamolessa/zig-sdl-android-template)
 
-- [The Tree Structure of File Systems](https://fkohlgrueber.github.io/blog/tree-structure-of-file-systems/)
+- [iOS app proof of concept written in pure Rust](https://github.com/wooden-worm/ios-app-rs)
 
-- [1001 Representations of Syntax with Binding](https://jesper.sikanda.be/posts/1001-syntax-representations.html)
+- [Alpine: Considering LibreSSL as default OpenSSL provider again](https://gitlab.alpinelinux.org/alpine/tsc/-/issues/28)
 
-- [Emacs & Emojis: A love Story](https://lars.ingebrigtsen.no/2021/10/28/emacs-emojis-a-%e2%9d%a4%ef%b8%8f-story/)
+- [Lesser Known PostgreSQL Features](https://hakibenita.com/postgresql-unknown-features)
 
-- [Moscow state university network built by students](https://medium.com/@pv.safronov/moscow-state-university-network-built-by-students-211539855cf9)
+- [Announcing Hanami v2.0.0.alpha3](https://hanamirb.org/blog/2021/11/09/announcing-hanami-200alpha3/)
 
-- [Hacker Superstitions](https://nora.codes/post/hacker-superstitions/)
+- [How We Saved Millions in SSD Costs by Upgrading Our Filesystem](https://heap.io/blog/how-we-saved-millions-in-ssd-costs-by-upgrading-our-filesystem)
 
-- [It's Time to Get Hyped About Const Generics in Rust](https://nora.codes/post/its-time-to-get-hyped-about-const-generics-in-rust/)
+- [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
 
-- [The yearly backup restore test](https://raymii.org/s/blog/Yearly_Backup_Restore_test.html)
+- [A Reality Where CSS & JavaScript Don’t Exist…?](https://kevq.uk/reality-without-css-javascript)
 
-- [What is AT&T doing at 1111340002?](https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c)
+- [Taming the Moose: Classing up Perl attributes](https://phoenixtrap.com/2021/11/09/taming-the-moose-classing-up-perl-attributes/)
 
-- [How you can track your personal finances using Python](https://sgoel.dev/posts/how-you-can-track-your-personal-finances-using-python/)
+- [Semgrep: a static analysis journey](https://r2c.dev/blog/2021/semgrep-a-static-analysis-journey/)
 
-- [Threema: Three Strikes, You’re Out](https://soatok.blog/2021/11/05/threema-three-strikes-youre-out/)
+- ["This project will only take 2 hours"](https://web.eecs.utk.edu/~azh/blog/thisprojectwillonlytake.html)
 
-- [npm install is curl | bash](https://www.btao.org/2021/09/09/npm-install-is-curl-bash/)
+- [Verifying the Whiley Standard Library](https://whileydave.com/2021/10/27/verifying-the-whiley-standard-library/)
 
-- [Backups and Corruption](https://www.collicutt.co.uk/notebook/backups.html)
+- [Why Co–Star uses Haskell](https://www.costarastrology.com/why-haskell)
 
-- [Decentralized ETS Counters for Better Scalability](https://www.erlang.org/blog/scalable-ets-counters/)
+- [System76 is building a new Linux desktop in Rust](https://www.theregister.com/2021/11/08/system76_developing_new_linux_desktop/)
 
-- [Announcing the new erlang.org](https://www.erlang.org/news/151)
+- [Pyjion - A Python JIT Compiler](https://www.trypyjion.com/)
 
-- [From MacOS to Arch Linux](https://www.juxt.pro/blog/from-mac-to-arch)
+- [How the World's First USB-C iPhone was born](https://www.youtube.com/watch?v=FVEQJNRmfDQ)
 
-- [Qt6 QML Book](https://www.qt.io/product/qt6/qml-book)
+- [Welcome To Andrew - An Overview of the Andrew System (April 1988)](https://www.youtube.com/watch?v=RHJbDjjsJoA)
