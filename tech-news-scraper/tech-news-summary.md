@@ -1,49 +1,47 @@
-- [A Static Haskell/Reflex Frontend App](http://jackkelly.name/blog/archives/2021/11/09/a_static_haskell_reflex_frontend_app)
+- [Gentoo with EFIStub, encrypted BTRFS, swap, dracut, open-rc](http://aj.ianozi.com/2021/11/gentoo-with-efistub-encrypted-btrfs.html)
 
-- [The Emacs Lisp book is finished](http://mbork.pl/2021-11-06_The_Emacs_Lisp_book_is_finished)
+- [Idiomatic algebraic data types in Python with dataclasses and Union :  ezyang’s blog](http://blog.ezyang.com/2020/10/idiomatic-algebraic-data-types-in-python-with-dataclasses-and-union/)
 
-- [Alloy 6](https://alloytools.org/alloy6.html)
+- [Analyzing a watering hole campaign using macOS exploits](https://blog.google/threat-analysis-group/analyzing-watering-hole-campaign-using-macos-exploits/)
 
-- [The Surreal Horror of PAM](https://christine.website/talks/surreal-horror-pam-2021-11-09)
+- [Spotify Codes - Part 2](https://boonepeter.github.io/posts/spotify-codes-part-2/)
 
-- [simple, type-safe string formatting in Haskell](https://danso.ca/blog/type-safe-printf/)
+- [Build a Redis Protocol Server with Elixir](https://docs.statetrace.com/blog/redis-server)
 
-- [ts2ocaml: generate OCaml bindings from .d.ts files](https://discuss.ocaml.org/t/ann-first-release-of-ts2ocaml-generates-ocaml-bindings-from-d-ts-files/8772)
+- [Efficient matrix multiplication](https://gist.github.com/nadavrot/5b35d44e8ba3dd718e595e40184d03f0)
 
-- [A no-go fantasy: writing Go in Ruby with Ruby Next](https://evilmartians.com/chronicles/a-no-go-fantasy-writing-go-in-ruby-with-ruby-next)
+- [Useful sed](https://github.com/adrianscheff/useful-sed)
 
-- [Source code for the 1986 Commodore 64 MMO Habitat released](https://github.com/Museum-of-Art-and-Digital-Entertainment/habitat)
+- [coalton-lang: a statically typed functional programming language that supercharges Common Lisp](https://github.com/coalton-lang/coalton)
 
-- [A template project that builds a SDL application programmed in Zig to Android from scratch](https://github.com/vamolessa/zig-sdl-android-template)
+- [Backpressure And The Replicator](https://github.com/couchbase/couchbase-lite-core/wiki/Backpressure)
 
-- [iOS app proof of concept written in pure Rust](https://github.com/wooden-worm/ios-app-rs)
+- [Frictionless external backups with systemd](https://jmtd.net/log/systemd_ext_backups/)
 
-- [Alpine: Considering LibreSSL as default OpenSSL provider again](https://gitlab.alpinelinux.org/alpine/tsc/-/issues/28)
+- [The weirdest bug I've ever encountered](https://mental-reverb.com/blog.php?id=29)
 
-- [Lesser Known PostgreSQL Features](https://hakibenita.com/postgresql-unknown-features)
+- [mermaid - Markdownish syntax for generating diagrams](https://mermaid-js.github.io/mermaid/)
 
-- [Announcing Hanami v2.0.0.alpha3](https://hanamirb.org/blog/2021/11/09/announcing-hanami-200alpha3/)
+- [Nixers.net Conf 2021](https://nixers.net/Thread-Nixers-net-Conf-2021)
 
-- [How We Saved Millions in SSD Costs by Upgrading Our Filesystem](https://heap.io/blog/how-we-saved-millions-in-ssd-costs-by-upgrading-our-filesystem)
+- [Rusty results](https://pypi.org/project/rusty-results/)
 
-- [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+- [NixOps is easier than I thought](https://sgt.hootr.club/molten-matter/nixops-on-the-pi/)
 
-- [A Reality Where CSS & JavaScript Don’t Exist…?](https://kevq.uk/reality-without-css-javascript)
+- [Ruby vs Python comes down to the for loop](https://softwaredoug.com/blog/2021/11/12/ruby-vs-python-for-loop.html)
 
-- [Taming the Moose: Classing up Perl attributes](https://phoenixtrap.com/2021/11/09/taming-the-moose-classing-up-perl-attributes/)
+- [It's Now Possible To Sign Arbitrary Data With Your SSH Keys](https://www.agwa.name/blog/post/ssh_signatures)
 
-- [Semgrep: a static analysis journey](https://r2c.dev/blog/2021/semgrep-a-static-analysis-journey/)
+- [Functional programming in C++ (2012)](https://www.gamedeveloper.com/programming/in-depth-functional-programming-in-c-)
 
-- ["This project will only take 2 hours"](https://web.eecs.utk.edu/~azh/blog/thisprojectwillonlytake.html)
+- [SDL Next-Gen rendering API](https://www.patreon.com/posts/58563886)
 
-- [Verifying the Whiley Standard Library](https://whileydave.com/2021/10/27/verifying-the-whiley-standard-library/)
+- [Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing | USENIX](https://www.usenix.org/conference/usenixsecurity22/presentation/scharnowski)
 
-- [Why Co–Star uses Haskell](https://www.costarastrology.com/why-haskell)
+- [The Worst Programming Language Ever (2014)](https://www.youtube.com/watch?v=2mnYf7L7Amw)
 
-- [System76 is building a new Linux desktop in Rust](https://www.theregister.com/2021/11/08/system76_developing_new_linux_desktop/)
+- [Secrets of type driven program synthesis](https://www.youtube.com/watch?v=E7uSsL8r_mU)
 
-- [Pyjion - A Python JIT Compiler](https://www.trypyjion.com/)
+- [The Coming Firmware Revolution](https://www.youtube.com/watch?v=XbBzSSvT_P0)
 
-- [How the World's First USB-C iPhone was born](https://www.youtube.com/watch?v=FVEQJNRmfDQ)
-
-- [Welcome To Andrew - An Overview of the Andrew System (April 1988)](https://www.youtube.com/watch?v=RHJbDjjsJoA)
+- [Blockchain Without the Crypto](https://xtdb.com/blog/blockchain-without-crypto/)
