@@ -1,47 +1,47 @@
-- [Gentoo with EFIStub, encrypted BTRFS, swap, dracut, open-rc](http://aj.ianozi.com/2021/11/gentoo-with-efistub-encrypted-btrfs.html)
+- [Syntax changes for Corinna, proposed declarative OO Perl mechanism](http://blogs.perl.org/users/damian_conway/2021/11/a-dream-resyntaxed.html)
 
-- [Idiomatic algebraic data types in Python with dataclasses and Union :  ezyang’s blog](http://blog.ezyang.com/2020/10/idiomatic-algebraic-data-types-in-python-with-dataclasses-and-union/)
+- [Software evolves - An experience guided by results](http://gabrielmalakias.com.br/ruby/sidekiq/actormodel/2021/11/15/software-evolves-an-experience-guided-by-results.html)
 
-- [Analyzing a watering hole campaign using macOS exploits](https://blog.google/threat-analysis-group/analyzing-watering-hole-campaign-using-macos-exploits/)
+- [OAuth with Cloudflare Workers on a Statically Generated Site](https://abyteofcoding.com/blog/oauth-with-cloudflare-workers-on-a-statically-generated-site/)
 
-- [Spotify Codes - Part 2](https://boonepeter.github.io/posts/spotify-codes-part-2/)
+- [Microdefects](https://beza1e1.tuxen.de/microdefects.html)
 
-- [Build a Redis Protocol Server with Elixir](https://docs.statetrace.com/blog/redis-server)
+- [Blacksmith](https://comsec.ethz.ch/research/dram/blacksmith/)
 
-- [Efficient matrix multiplication](https://gist.github.com/nadavrot/5b35d44e8ba3dd718e595e40184d03f0)
+- [Future of Ruby – AST Tooling](https://dev.to/baweaver/future-of-ruby-ast-tooling-9i1)
 
-- [Useful sed](https://github.com/adrianscheff/useful-sed)
+- [Developing games in Go for Nintendo Switch](https://docs.google.com/presentation/d/e/2PACX-1vTMRSmuWjhpOx3DIgetfi72jcOGvlqPU5z0Nps24YN6dxaBbu4dWm0FXS2f--D4G2b1aAvTmfqNA2IG/pub?start=false&loop=false&delayms=3000#slide=id.p)
 
-- [coalton-lang: a statically typed functional programming language that supercharges Common Lisp](https://github.com/coalton-lang/coalton)
+- [Testing multiple implementations of a trait in Rust](https://eli.thegreenplace.net/2021/testing-multiple-implementations-of-a-trait-in-rust/)
 
-- [Backpressure And The Replicator](https://github.com/couchbase/couchbase-lite-core/wiki/Backpressure)
+- [git-branchless: High-velocity, monorepo-scale workflow for Git](https://github.com/arxanas/git-branchless)
 
-- [Frictionless external backups with systemd](https://jmtd.net/log/systemd_ext_backups/)
+- [Devops Renaissance](https://glennengstrand.info/blog/?p=570)
 
-- [The weirdest bug I've ever encountered](https://mental-reverb.com/blog.php?id=29)
+- [ELF Science Part 1](https://greatergoodest.github.io/post/elf_science_p1/)
 
-- [mermaid - Markdownish syntax for generating diagrams](https://mermaid-js.github.io/mermaid/)
+- [On the recent vulnerability in Diebold Nixdorf ATMs](https://habr.com/en/company/pt/blog/589291/)
 
-- [Nixers.net Conf 2021](https://nixers.net/Thread-Nixers-net-Conf-2021)
+- [Fennel 1.0.0 released](https://lists.sr.ht/~technomancy/fennel/%3C87v90ubdrq.fsf%40hagelb.org%3E)
 
-- [Rusty results](https://pypi.org/project/rusty-results/)
+- [Bramble: A Purely Functional Build System and Package Manager](https://maxmcd.com/posts/bramble/)
 
-- [NixOps is easier than I thought](https://sgt.hootr.club/molten-matter/nixops-on-the-pi/)
+- [Zen of Nim](https://nim-lang.org/blog/2021/11/15/zen-of-nim.html)
 
-- [Ruby vs Python comes down to the for loop](https://softwaredoug.com/blog/2021/11/12/ruby-vs-python-for-loop.html)
+- [Racket Discussions](https://racket.discourse.group/)
 
-- [It's Now Possible To Sign Arbitrary Data With Your SSH Keys](https://www.agwa.name/blog/post/ssh_signatures)
+- [Selecting a programming language can be a form of premature optimization](https://snarky.ca/programming-language-selection-is-a-form-of-premature-optimization/)
 
-- [Functional programming in C++ (2012)](https://www.gamedeveloper.com/programming/in-depth-functional-programming-in-c-)
+- [Go 1.18 will let you set the version of the "AMD64" architecture to target](https://utcc.utoronto.ca/~cks/space/blog/programming/GoAmd64ArchitectureLevels)
 
-- [SDL Next-Gen rendering API](https://www.patreon.com/posts/58563886)
+- [A Telegram bot that has the ability to /eval code](https://vimsical.notion.site/REPL-Chat-35c36c3da44c4d8c9b42c211cb0c67ef)
 
-- [Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing | USENIX](https://www.usenix.org/conference/usenixsecurity22/presentation/scharnowski)
+- [How new-lines affect the Linux kernel performance (2018)](https://web.archive.org/web/20190413095911/https://nadav.amit.zone/linux/2018/10/10/newline.html)
 
-- [The Worst Programming Language Ever (2014)](https://www.youtube.com/watch?v=2mnYf7L7Amw)
+- [WireGuard on FreeBSD Stabilizes, Eyes Upstreaming](https://www.freebsd.org/status/report-2021-07-2021-09/#_wireguard_on_freebsd_stabilizes_eyes_upstreaming)
 
-- [Secrets of type driven program synthesis](https://www.youtube.com/watch?v=E7uSsL8r_mU)
+- [The Demikernel Datapath OS Architecture for Microsecond-scale Datacenter Systems](https://www.micahlerner.com/2021/11/09/the-demikernel-datapath-os-architecture-for-microsecond-scale-datacenter-systems.html)
 
-- [The Coming Firmware Revolution](https://www.youtube.com/watch?v=XbBzSSvT_P0)
+- [From init.vim to init.lua](https://www.notonlycode.org/neovim-lua-config/)
 
-- [Blockchain Without the Crypto](https://xtdb.com/blog/blockchain-without-crypto/)
+- [AllegroGraph Youtube Channel](https://www.youtube.com/channel/UCv81s_clPJy_odPCFGzKvqA)
