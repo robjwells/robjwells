@@ -1,47 +1,49 @@
-- [Syntax changes for Corinna, proposed declarative OO Perl mechanism](http://blogs.perl.org/users/damian_conway/2021/11/a-dream-resyntaxed.html)
+- [Duff’s device in 2021](https://belaycpp.com/2021/11/18/duffs-device-in-2021/)
 
-- [Software evolves - An experience guided by results](http://gabrielmalakias.com.br/ruby/sidekiq/actormodel/2021/11/15/software-evolves-an-experience-guided-by-results.html)
+- [TPM sniffing](https://blog.scrt.ch/2021/11/15/tpm-sniffing/)
 
-- [OAuth with Cloudflare Workers on a Statically Generated Site](https://abyteofcoding.com/blog/oauth-with-cloudflare-workers-on-a-statically-generated-site/)
+- [Undefined Behavior deserves a better reputation](https://blog.sigplan.org/2021/11/18/undefined-behavior-deserves-a-better-reputation/)
 
-- [Microdefects](https://beza1e1.tuxen.de/microdefects.html)
+- [Endless Orange Week: GNOME on WSL](https://blogs.gnome.org/wjjt/2021/11/16/endless-orange-week-gnome-on-wsl/)
 
-- [Blacksmith](https://comsec.ethz.ch/research/dram/blacksmith/)
+- [Yes, PHP is Worth Learning/Using in $CURRENT_YEAR](https://bulletproofphp.dev/yes-php-is-worth-using)
 
-- [Future of Ruby – AST Tooling](https://dev.to/baweaver/future-of-ruby-ast-tooling-9i1)
+- [Xeact 0.0.69: A Revolutionary Femtoframework For High Efficiency JavaScript Development](https://christine.website/blog/xeact-0.0.69-2021-11-18)
 
-- [Developing games in Go for Nintendo Switch](https://docs.google.com/presentation/d/e/2PACX-1vTMRSmuWjhpOx3DIgetfi72jcOGvlqPU5z0Nps24YN6dxaBbu4dWm0FXS2f--D4G2b1aAvTmfqNA2IG/pub?start=false&loop=false&delayms=3000#slide=id.p)
+- [Developing a QML Keypad with TDD](https://embeddeduse.com/2021/11/18/developing-a-qml-keypad-with-tdd/)
 
-- [Testing multiple implementations of a trait in Rust](https://eli.thegreenplace.net/2021/testing-multiple-implementations-of-a-trait-in-rust/)
+- [Launching Fig](https://fig.io/blog/post/launching-fig)
 
-- [git-branchless: High-velocity, monorepo-scale workflow for Git](https://github.com/arxanas/git-branchless)
+- [semver-explain: convert SemVer requirements into their most-obvious form](https://github.com/alilleybrinker/semver-explain)
 
-- [Devops Renaissance](https://glennengstrand.info/blog/?p=570)
+- [epilys/kit-kat: plan9 kit-kat clock framebuffer implementation from scratch](https://github.com/epilys/kit-kat)
 
-- [ELF Science Part 1](https://greatergoodest.github.io/post/elf_science_p1/)
+- [Lark 1.0 released - a parsing toolkit that is friendly, production-ready, and comprehensive](https://github.com/lark-parser/lark/releases/tag/1.0.0)
 
-- [On the recent vulnerability in Diebold Nixdorf ATMs](https://habr.com/en/company/pt/blog/589291/)
+- [async: experimental promises in go1.18 with generics](https://github.com/nkcmr/async)
 
-- [Fennel 1.0.0 released](https://lists.sr.ht/~technomancy/fennel/%3C87v90ubdrq.fsf%40hagelb.org%3E)
+- [Energy Efficiency across Programming Languages (2017)](https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf)
 
-- [Bramble: A Purely Functional Build System and Package Manager](https://maxmcd.com/posts/bramble/)
+- [A Simple, Possibly Correct LR Parser for C11](https://hal.archives-ouvertes.fr/hal-01633123/document)
 
-- [Zen of Nim](https://nim-lang.org/blog/2021/11/15/zen-of-nim.html)
+- [Debugging a weird 'file not found' error](https://jvns.ca/blog/2021/11/17/debugging-a-weird--file-not-found--error/)
 
-- [Racket Discussions](https://racket.discourse.group/)
+- [Backdooring Rust crates for fun and profit](https://kerkour.com/rust-crate-backdoor/)
 
-- [Selecting a programming language can be a form of premature optimization](https://snarky.ca/programming-language-selection-is-a-form-of-premature-optimization/)
+- [What's new in Kotlin 1.6.0](https://kotlinlang.org/docs/whatsnew16.html)
 
-- [Go 1.18 will let you set the version of the "AMD64" architecture to target](https://utcc.utoronto.ca/~cks/space/blog/programming/GoAmd64ArchitectureLevels)
+- [Virtual inheritance in C++](https://mariusbancila.ro/blog/2021/11/16/virtual-inheritance-in-c/)
 
-- [A Telegram bot that has the ability to /eval code](https://vimsical.notion.site/REPL-Chat-35c36c3da44c4d8c9b42c211cb0c67ef)
+- [Mononym: Type-Level Named Values in Rust - Part 1: Demo and Implementation](https://maybevoid.com/blog/mononym-part-1/)
 
-- [How new-lines affect the Linux kernel performance (2018)](https://web.archive.org/web/20190413095911/https://nadav.amit.zone/linux/2018/10/10/newline.html)
+- [How we protect our most sensitive secrets from the most determined attackers](https://monzo.com/blog/2021/11/18/protecting-our-most-sensitive-secrets/)
 
-- [WireGuard on FreeBSD Stabilizes, Eyes Upstreaming](https://www.freebsd.org/status/report-2021-07-2021-09/#_wireguard_on_freebsd_stabilizes_eyes_upstreaming)
+- [Microsoft Power Fx: Open source now available](https://powerapps.microsoft.com/en-us/blog/power-fx-open-source-now-available/)
 
-- [The Demikernel Datapath OS Architecture for Microsecond-scale Datacenter Systems](https://www.micahlerner.com/2021/11/09/the-demikernel-datapath-os-architecture-for-microsecond-scale-datacenter-systems.html)
+- [Data Visualization: attribute types and their graphical elements](https://robertodip.com/blog/data-visualization-marks-and-channels/)
 
-- [From init.vim to init.lua](https://www.notonlycode.org/neovim-lua-config/)
+- [XMPP, A Comeback Story](https://takebackourtech.org/xmpp-comeback/)
 
-- [AllegroGraph Youtube Channel](https://www.youtube.com/channel/UCv81s_clPJy_odPCFGzKvqA)
+- [Layer 4 Load Balancing Direct Server Return (DSR) Mode](https://www.haproxy.com/blog/layer-4-load-balancing-direct-server-return-mode/)
+
+- [Fast Inverse Square Root — A Quake III Algorithm](https://www.youtube.com/watch?v=p8u_k2LIZyo)
