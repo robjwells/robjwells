@@ -1,49 +1,49 @@
-- [Duff’s device in 2021](https://belaycpp.com/2021/11/18/duffs-device-in-2021/)
+- [Pattern matching in concatenative programming languages](http://micsymposium.org/mics_2009_proceedings/mics2009_submission_72.pdf)
 
-- [TPM sniffing](https://blog.scrt.ch/2021/11/15/tpm-sniffing/)
+- [Oil 0.9.4 - User Feedback](http://www.oilshell.org/blog/2021/11/release-0.9.4.html)
 
-- [Undefined Behavior deserves a better reputation](https://blog.sigplan.org/2021/11/18/undefined-behavior-deserves-a-better-reputation/)
+- [Bcachefs: The COW filesystem for Linux that won't eat your data](https://bcachefs.org/)
 
-- [Endless Orange Week: GNOME on WSL](https://blogs.gnome.org/wjjt/2021/11/16/endless-orange-week-gnome-on-wsl/)
+- [AWKGo, an AWK-to-Go compiler](https://benhoyt.com/writings/awkgo/)
 
-- [Yes, PHP is Worth Learning/Using in $CURRENT_YEAR](https://bulletproofphp.dev/yes-php-is-worth-using)
+- [LLVM relicensing update & call for help](https://blog.llvm.org/posts/2021-11-18-relicensing-update/)
 
-- [Xeact 0.0.69: A Revolutionary Femtoframework For High Efficiency JavaScript Development](https://christine.website/blog/xeact-0.0.69-2021-11-18)
+- [Building WireGate: A WireGuard front to detect compromised keys](https://blog.thinkst.com/2021/11/building-wiregate-wireguard-front-to.html)
 
-- [Developing a QML Keypad with TDD](https://embeddeduse.com/2021/11/18/developing-a-qml-keypad-with-tdd/)
+- [I Love Arch, But GNU Guix Is My New Distro](https://boilingsteam.com/i-love-arch-but-gnu-guix-is-my-new-distro/)
 
-- [Launching Fig](https://fig.io/blog/post/launching-fig)
+- [cut -c considered harmful](https://catgirl.ai/log/cut-c-harmful/)
 
-- [semver-explain: convert SemVer requirements into their most-obvious form](https://github.com/alilleybrinker/semver-explain)
+- [Git ls-files is Faster Than Fd and Find](https://cj.rs//blog/git-ls-files-is-faster-than-fd-and-find/)
 
-- [epilys/kit-kat: plan9 kit-kat clock framebuffer implementation from scratch](https://github.com/epilys/kit-kat)
+- [README In Static Site (RISS)](https://cj.rs//readme-in-static-site/)
 
-- [Lark 1.0 released - a parsing toolkit that is friendly, production-ready, and comprehensive](https://github.com/lark-parser/lark/releases/tag/1.0.0)
+- [Formalizing Dawn in Coq](https://danilafe.com/blog/coq_dawn/)
 
-- [async: experimental promises in go1.18 with generics](https://github.com/nkcmr/async)
+- [A modern, ergonomic Unix shell configuration with Fish](https://dev.to/yonkeltron/a-modern-ergonomic-unix-shell-configuration-with-fish-4dio)
 
-- [Energy Efficiency across Programming Languages (2017)](https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf)
+- [Fun with Combinators](https://doisinkidney.com/posts/2020-10-17-ski.html)
 
-- [A Simple, Possibly Correct LR Parser for C11](https://hal.archives-ouvertes.fr/hal-01633123/document)
+- [Understanding why our build got 15x slower with Webpack 5](https://engineering.tines.com/blog/understanding-why-our-build-got-15x-slower-with-webpack)
 
-- [Debugging a weird 'file not found' error](https://jvns.ca/blog/2021/11/17/debugging-a-weird--file-not-found--error/)
+- [Discovering a new relocation entry of ARM64X in recent Windows 10 on Arm](https://ffri.github.io/ProjectChameleon/new_reloc_chpev2/)
 
-- [Backdooring Rust crates for fun and profit](https://kerkour.com/rust-crate-backdoor/)
+- [qTox is a chat, voice, video, and file transfer IM client using an encrypted peer-to-peer protocol](https://github.com/qTox/qTox)
 
-- [What's new in Kotlin 1.6.0](https://kotlinlang.org/docs/whatsnew16.html)
+- [Dell XPS13 RAM Upgrade](https://gregdavill.github.io/posts/dell-xps13-ram-upgrade/)
 
-- [Virtual inheritance in C++](https://mariusbancila.ro/blog/2021/11/16/virtual-inheritance-in-c/)
+- [JuliaSymbolics: Symbolic programming in Julia](https://juliasymbolics.org/)
 
-- [Mononym: Type-Level Named Values in Rust - Part 1: Demo and Implementation](https://maybevoid.com/blog/mononym-part-1/)
+- [Virtual Surround Sound Headphone setup on Linux with Pipewire](https://kaeru.my/notes/pipewire-surround-headphones)
 
-- [How we protect our most sensitive secrets from the most determined attackers](https://monzo.com/blog/2021/11/18/protecting-our-most-sensitive-secrets/)
+- [From JPEG to JFIF via an io.Writer](https://nigeltao.github.io/blog/2021/from-jpeg-to-jfif.html)
 
-- [Microsoft Power Fx: Open source now available](https://powerapps.microsoft.com/en-us/blog/power-fx-open-source-now-available/)
+- [IDEs and Macros](https://rust-analyzer.github.io//blog/2021/11/21/ides-and-macros.html)
 
-- [Data Visualization: attribute types and their graphical elements](https://robertodip.com/blog/data-visualization-marks-and-channels/)
+- [Foundations of Dawn: The Untyped Concatenative Calculus](https://www.dawn-lang.org/posts/foundations-ucc/)
 
-- [XMPP, A Comeback Story](https://takebackourtech.org/xmpp-comeback/)
+- [Phoenix Framework](https://www.phoenixframework.org/)
 
-- [Layer 4 Load Balancing Direct Server Return (DSR) Mode](https://www.haproxy.com/blog/layer-4-load-balancing-direct-server-return-mode/)
+- [An Imagined History of Agile Software Development](https://www.sicpers.info/2021/11/an-imagined-history-of-agile-software-development/)
 
-- [Fast Inverse Square Root — A Quake III Algorithm](https://www.youtube.com/watch?v=p8u_k2LIZyo)
+- [Investigating the HCF (Halt & Catch Fire) instruction on Motorola 6800](https://x86.fr/investigating-the-halt-and-catch-fire-instruction-on-motorola-6800/)
