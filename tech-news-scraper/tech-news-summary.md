@@ -1,49 +1,45 @@
-- [PackagingCon 2021 Talk Recordings](http://www.youtube.com/playlist?list=PLl386dCR5QGQu7XhFaVTwEGoD7fLtnGQ7)
+- [New in C# 10: Easier Lambda Expressions](http://dontcodetired.com/blog/post/Whats-New-in-C-10-Easier-Lambda-Expressions)
 
-- [The Best Starting Word in WORDLE](https://bert.org/2021/11/24/the-best-starting-word-in-wordle/)
+- [JCRCMDS AS/400 GAMES](http://www.jcrcmds.com/jcrgames2.html)
 
-- [A Tale of Three Codebases](https://blog.convex.dev/a-tale-of-three-codebases/)
+- [The Toit language is now open source](https://blog.toit.io/the-toit-language-is-now-open-source-14bdcb1604d9)
 
-- [Open Software Licensing Primer](https://blueoakcouncil.org/primer)
+- [no u pnp](https://computer.rip/2021-11-26-no-u-pnp.html)
 
-- [Next Generation Internet webinar on future of OpenPGP](https://conf.tube/videos/watch/4c6266f1-eefe-4f4b-8f54-9d31e5130080)
+- [Computer Science was always supposed to be taught to everyone, and it wasn’t about getting a job: A historical perspective](https://computinged.wordpress.com/2021/11/26/computer-science-was-always-supposed-to-be-taught-to-everyone-but-not-about-getting-a-job-a-historical-perspective/)
 
-- [LAPD: Hidden Spy Camera Detection using Smartphone Time-of-Flight Sensors](https://dl.acm.org/doi/pdf/10.1145/3485730.3485941)
+- [WWWBrowser - a Haskell web browser (1994)](https://cth.altocumulus.org/~hallgren/wwwbrowser.html)
 
-- [Using AWK with CSV Files](https://earthly.dev/blog/awk-csv/)
+- [We've Been Doing It The Wrong Way](https://danielbmarkham.com/weve-been-doing-this-the-wrong-way/)
 
-- [sfork: A synchronous, single-threaded interface for starting processes on Linux](https://github.com/catern/sfork)
+- [Go Does Not Need a Java Style GC](https://erik-engheim.medium.com/go-does-not-need-a-java-style-gc-ac99b8d26c60)
 
-- [HATEOAS — An Alternative Explanation](https://htmx.org/essays/hateoas/)
+- [An 'Attempt' to avoid C++ exceptions](https://genodians.org/nfeske/2021-11-26-attempt-no-exceptions)
 
-- [Constructors and evil initializers in C++](https://jmmv.dev/2021/11/cpp-ctors-vs-init.html)
+- [NattyNarwhal/vmwmouse: VMware mouse driver for Windows 3.1](https://github.com/NattyNarwhal/vmwmouse)
 
-- [Flatpak Is Not the Future](https://ludocode.com/blog/flatpak-is-not-the-future)
+- [Magma: A dependently-typed language](https://github.com/blainehansen/magma)
 
-- [Reliably allocating huge pages in Linux](https://mazzo.li/posts/check-huge-page.html)
+- [The TCP/IP Checksum (2012)](https://locklessinc.com/articles/tcp_checksum/)
 
-- [Remote, encrypted ZFS storage server with NixOS](https://mazzo.li/posts/hetzner-zfs.html)
+- [Late-bound argument defaults for Python](https://lwn.net/Articles/875441/)
 
-- [A Practical Guide to Applying Data-Oriented Design](https://media.handmade-seattle.com/practical-data-oriented-design/)
+- [Things I learned from building a production database](https://maheshba.bitbucket.io/blog/2021/10/19/42Things.html)
 
-- [Implementing zip archiving in Golang: unzipping](https://notes.eatonphil.com/implementing-zip-in-go-unzipping.html)
+- [Optimising memset and memcpy](https://mobile.twitter.com/nadavrot/status/1464364562409422852)
 
-- [Lossless Image Compression in O(n) Time](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression)
+- [NixOS: Headless Home Assistant VM](https://myme.no/posts/2021-11-25-nixos-home-assistant.html)
 
-- [Systemd service hardening (2020)](https://ruderich.org/simon/notes/systemd-service-hardening)
+- [The rep prefix and detecting valgrind (2012)](https://repzret.org/p/rep-prefix-and-detecting-valgrind/)
 
-- [systemd by example - Part 1: Minimization](https://seb.jambor.dev/posts/systemd-by-example-part-1-minimization/)
+- [The fish shell is amazing](https://rmpr.xyz/the-fish-shell-is-amazing/)
 
-- [1000x Faster Spelling Correction algorithm (2012)](https://seekstorm.com/blog/1000x-spelling-correction/)
+- [New undocumented APIs in Python 3.10: The future of trust stores in Python](https://sethmlarson.dev/blog/2021-11-27/experimental-python-3.10-apis-and-trust-stores)
 
-- [Boost your productivity with ZSH and Alacritty](https://shibumi.dev/posts/zsh-and-alacritty/)
+- [Bit Fields: Squishing Booleans Using Bitwise Operations](https://twin.sh/articles/54/bit-packing-squishing-booleans-using-bitwise-operations)
 
-- [How I got nerd sniped into benchmarking legacy x86 instructions (2019)](https://www.acepace.net/2019-07-27-xlatb/)
+- [Run a website off a Google Sheets Database, with Hugo](https://www.markhansen.co.nz/build-a-website-off-a-google-sheets-database-using-hugo-netlify/)
 
-- [Announcing HAProxy 2.5](https://www.haproxy.com/blog/announcing-haproxy-2-5/)
+- [SQLite Release 3.37.0](https://www.sqlite.org/releaselog/3_37_0.html)
 
-- [Peritext A CRDT for Rich-Text Collaboration](https://www.inkandswitch.com/peritext/)
-
-- [My Custom CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
-
-- [The Secret History of ATAPI](https://www.os2museum.com/wp/the-secret-history-of-atapi/)
+- [What Does It Take To Port 16-Bit Windows 1.0 Applications Into Native Windows 11 Programs?](https://www.youtube.com/watch?v=kh0CdLPkJVE)
