@@ -1,45 +1,49 @@
-- [New in C# 10: Easier Lambda Expressions](http://dontcodetired.com/blog/post/Whats-New-in-C-10-Easier-Lambda-Expressions)
+- [6kW OzInverter - DIY Pure Sinewave Inverter](http://www.bryanhorology.com/ozinverter.php)
 
-- [JCRCMDS AS/400 GAMES](http://www.jcrcmds.com/jcrgames2.html)
+- [Recent Progress on the Oil shell](http://www.oilshell.org/blog/2021/11/recent-progress.html)
 
-- [The Toit language is now open source](https://blog.toit.io/the-toit-language-is-now-open-source-14bdcb1604d9)
+- [Prettier switch-cases](https://belaycpp.com/2021/11/30/prettier-switch-cases/)
 
-- [no u pnp](https://computer.rip/2021-11-26-no-u-pnp.html)
+- [asciinema 3.0, 4x smaller, 50x faster](https://blog.asciinema.org/post/smaller-faster/)
 
-- [Computer Science was always supposed to be taught to everyone, and it wasn’t about getting a job: A historical perspective](https://computinged.wordpress.com/2021/11/26/computer-science-was-always-supposed-to-be-taught-to-everyone-but-not-about-getting-a-job-a-historical-perspective/)
+- [Will Nix Overtake Docker?](https://blog.replit.com/nix-vs-docker)
 
-- [WWWBrowser - a Haskell web browser (1994)](https://cth.altocumulus.org/~hallgren/wwwbrowser.html)
+- [Tools I use: PyCharm](https://blog.rfox.eu/en/Programming/Tools_I_use/Tools_I_use_PyCharm.html)
 
-- [We've Been Doing It The Wrong Way](https://danielbmarkham.com/weve-been-doing-this-the-wrong-way/)
+- [My Homelab NAS on NixOS](https://christine.website/blog/my-homelab-nas-2021-11-29)
 
-- [Go Does Not Need a Java Style GC](https://erik-engheim.medium.com/go-does-not-need-a-java-style-gc-ac99b8d26c60)
+- [Refinement: Formalizing the Simplicity Underneath Complex Programs](https://concerningquality.com/refinement/)
 
-- [An 'Attempt' to avoid C++ exceptions](https://genodians.org/nfeske/2021-11-26-attempt-no-exceptions)
+- [I wrote myself a static site generator](https://freeston.me/posts/2021-11-29-new-site-generator/)
 
-- [NattyNarwhal/vmwmouse: VMware mouse driver for Windows 3.1](https://github.com/NattyNarwhal/vmwmouse)
+- [Persism 2.0.0 Released - A zero ceremony ORM for Java](https://github.com/sproket/Persism)
 
-- [Magma: A dependently-typed language](https://github.com/blainehansen/magma)
+- [asmrepl: A REPL for x86 assembly language](https://github.com/tenderlove/asmrepl)
 
-- [The TCP/IP Checksum (2012)](https://locklessinc.com/articles/tcp_checksum/)
+- [shinglify: Tiling window management for linux desktop environments](https://gitlab.com/corthbandt/shinglify)
 
-- [Late-bound argument defaults for Python](https://lwn.net/Articles/875441/)
+- [HardenedBSD November 2021 Status Report](https://hardenedbsd.org/article/shawn-webb/2021-11-30/hardenedbsd-november-2021-status-report)
 
-- [Things I learned from building a production database](https://maheshba.bitbucket.io/blog/2021/10/19/42Things.html)
+- [On Parallelism and Concurrency](https://inside.java/2021/11/30/on-parallelism-and-concurrency/)
 
-- [Optimising memset and memcpy](https://mobile.twitter.com/nadavrot/status/1464364562409422852)
+- [Computer Networking Introduction - Ethernet and IP (Heavily Illustrated)](https://iximiuz.com/en/posts/computer-networking-101/)
 
-- [NixOS: Headless Home Assistant VM](https://myme.no/posts/2021-11-25-nixos-home-assistant.html)
+- [Hubris and Humility](https://oxide.computer/blog/hubris-and-humility)
 
-- [The rep prefix and detecting valgrind (2012)](https://repzret.org/p/rep-prefix-and-detecting-valgrind/)
+- [On relational compilation](https://people.csail.mit.edu/cpitcla/thesis/relational-compilation.html)
 
-- [The fish shell is amazing](https://rmpr.xyz/the-fish-shell-is-amazing/)
+- [Receiving Starlink satellite beacons on a budget](https://sgcderek.github.io/posts/starlink-beacons/)
 
-- [New undocumented APIs in Python 3.10: The future of trust stores in Python](https://sethmlarson.dev/blog/2021-11-27/experimental-python-3.10-apis-and-trust-stores)
+- [chat.sr.ht: a persistent IRC session for sourcehut users](https://sourcehut.org/blog/2021-11-29-announcing-the-chat.sr.ht-public-beta/)
 
-- [Bit Fields: Squishing Booleans Using Bitwise Operations](https://twin.sh/articles/54/bit-packing-squishing-booleans-using-bitwise-operations)
+- [Simple Things That Are Actually Hard: User Authentication](https://techblog.bozho.net/simple-things-that-are-actually-hard-user-authentication/)
 
-- [Run a website off a Google Sheets Database, with Hugo](https://www.markhansen.co.nz/build-a-website-off-a-google-sheets-database-using-hugo-netlify/)
+- [Uses This: Andreas Kling](https://usesthis.com/interviews/andreas.kling/)
 
-- [SQLite Release 3.37.0](https://www.sqlite.org/releaselog/3_37_0.html)
+- [Alloy 6: it's about Time](https://www.hillelwayne.com/post/alloy6/)
 
-- [What Does It Take To Port 16-Bit Windows 1.0 Applications Into Native Windows 11 Programs?](https://www.youtube.com/watch?v=kh0CdLPkJVE)
+- [JetBrains Fleet: The Next-Generation IDE](https://www.jetbrains.com/fleet/)
+
+- [Uninitialized Stack Variables](https://www.netmeister.org/blog/stack-vars.html)
+
+- [Wikipedia as the data source: taming the irregular, pt.1](https://zverok.github.io/blog/2021-11-30-irregular1.html)
