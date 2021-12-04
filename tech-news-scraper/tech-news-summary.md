@@ -1,49 +1,45 @@
-- [6kW OzInverter - DIY Pure Sinewave Inverter](http://www.bryanhorology.com/ozinverter.php)
+- [I had some time and I made an AI-generated podcast to help you sleep](https://anchor.fm/deepdreams)
 
-- [Recent Progress on the Oil shell](http://www.oilshell.org/blog/2021/11/recent-progress.html)
+- [DuckDB quacks Arrow: A zero-copy data integration between Apache Arrow and DuckDB](https://arrow.apache.org/blog/2021/12/03/arrow-duckdb/)
 
-- [Prettier switch-cases](https://belaycpp.com/2021/11/30/prettier-switch-cases/)
+- [Introducing CentOS Stream 9](https://blog.centos.org/2021/12/introducing-centos-stream-9/)
 
-- [asciinema 3.0, 4x smaller, 50x faster](https://blog.asciinema.org/post/smaller-faster/)
+- [Putting container updates on a diet (2020)](https://blogs.gnome.org/alexl/2020/05/13/putting-container-updates-on-a-diet/)
 
-- [Will Nix Overtake Docker?](https://blog.replit.com/nix-vs-docker)
+- [The skyline problem (2014)](https://briangordon.github.io/2014/08/the-skyline-problem.html)
 
-- [Tools I use: PyCharm](https://blog.rfox.eu/en/Programming/Tools_I_use/Tools_I_use_PyCharm.html)
+- [My VR Hell on NixOS](https://christine.website/blog/nixos-vr-hell-2021-12-02)
 
-- [My Homelab NAS on NixOS](https://christine.website/blog/my-homelab-nas-2021-11-29)
+- [Some guidelines for writing web scrapers](https://cushychicken.github.io/rules-for-web-scrapers/)
 
-- [Refinement: Formalizing the Simplicity Underneath Complex Programs](https://concerningquality.com/refinement/)
+- [Scala at Scale at Databricks](https://databricks.com/blog/2021/12/03/scala-at-scale-at-databricks.html)
 
-- [I wrote myself a static site generator](https://freeston.me/posts/2021-11-29-new-site-generator/)
+- [Elixir v1.13 released](https://elixir-lang.org/blog/2021/12/03/elixir-v1-13-0-released/)
 
-- [Persism 2.0.0 Released - A zero ceremony ORM for Java](https://github.com/sproket/Persism)
+- [Verneuil: S3-backed asynchronous replication for SQLite](https://engineering.backtrace.io/2021-12-02-verneuil-s3-backed-asynchronous-replication-for-sqlite/)
 
-- [asmrepl: A REPL for x86 assembly language](https://github.com/tenderlove/asmrepl)
+- [Diacritical Marks in Unicode](https://gregtatum.com/writing/2021/diacritical-marks/)
 
-- [shinglify: Tiling window management for linux desktop environments](https://gitlab.com/corthbandt/shinglify)
+- [PlusCal Tutorial](https://lamport.azurewebsites.net/tla/tutorial/intro.html)
 
-- [HardenedBSD November 2021 Status Report](https://hardenedbsd.org/article/shawn-webb/2021-11-30/hardenedbsd-november-2021-status-report)
+- [Don't Make My Mistakes: Common Infrastructure Errors I've Made](https://matduggan.com/mistakes/)
 
-- [On Parallelism and Concurrency](https://inside.java/2021/11/30/on-parallelism-and-concurrency/)
+- [William Cook, (OOP, Applescript) has died](https://mjtsai.com/blog/2021/12/02/william-cook-rip/)
 
-- [Computer Networking Introduction - Ethernet and IP (Heavily Illustrated)](https://iximiuz.com/en/posts/computer-networking-101/)
+- [A comparative study of vulnerability reporting by software composition analysis tools](https://nasifimtiazohi.github.io/assets/pdf/esem21.pdf)
 
-- [Hubris and Humility](https://oxide.computer/blog/hubris-and-humility)
+- [Is “KAX17” performing de-anonymization Attacks against Tor Users?](https://nusenu.medium.com/is-kax17-performing-de-anonymization-attacks-against-tor-users-42e566defce8)
 
-- [On relational compilation](https://people.csail.mit.edu/cpitcla/thesis/relational-compilation.html)
+- [Townscaper's rendering style in WebGL](https://reindernijhoff.net/2021/11/townscapers-rendering-style-in-webgl/)
 
-- [Receiving Starlink satellite beacons on a budget](https://sgcderek.github.io/posts/starlink-beacons/)
+- [Upgrading MySQL at Shopify](https://shopify.engineering/upgrading-mysql-shopify)
 
-- [chat.sr.ht: a persistent IRC session for sourcehut users](https://sourcehut.org/blog/2021-11-29-announcing-the-chat.sr.ht-public-beta/)
+- [Ideal monitor rotation for programmers](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
 
-- [Simple Things That Are Actually Hard: User Authentication](https://techblog.bozho.net/simple-things-that-are-actually-hard-user-authentication/)
+- [On Hubris and Humility: developing an OS for robustness in Rust Open Source Firmware Conference 2021](https://talks.osfc.io/osfc2021/talk/JTWYEH/)
 
-- [Uses This: Andreas Kling](https://usesthis.com/interviews/andreas.kling/)
+- [Tvix: We are rewriting Nix](https://tvl.fyi/blog/rewriting-nix)
 
-- [Alloy 6: it's about Time](https://www.hillelwayne.com/post/alloy6/)
+- [Blender 3.0](https://www.blender.org/download/releases/3-0/)
 
-- [JetBrains Fleet: The Next-Generation IDE](https://www.jetbrains.com/fleet/)
-
-- [Uninitialized Stack Variables](https://www.netmeister.org/blog/stack-vars.html)
-
-- [Wikipedia as the data source: taming the irregular, pt.1](https://zverok.github.io/blog/2021-11-30-irregular1.html)
+- [Write better code with Swift Algorithms](https://www.hackingwithswift.com/articles/243/write-better-code-with-swift-algorithms)
