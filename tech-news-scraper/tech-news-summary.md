@@ -1,45 +1,45 @@
-- [I had some time and I made an AI-generated podcast to help you sleep](https://anchor.fm/deepdreams)
+- [Oil shell: Rough Progress Assessments](http://www.oilshell.org/blog/2021/12/backlog-assess.html)
 
-- [DuckDB quacks Arrow: A zero-copy data integration between Apache Arrow and DuckDB](https://arrow.apache.org/blog/2021/12/03/arrow-duckdb/)
+- [The '21 Vector' XSS Challenge](https://21-vector.0e.vc/)
 
-- [Introducing CentOS Stream 9](https://blog.centos.org/2021/12/introducing-centos-stream-9/)
+- [Trans-inclusive Design (2019)](https://alistapart.com/article/trans-inclusive-design/)
 
-- [Putting container updates on a diet (2020)](https://blogs.gnome.org/alexl/2020/05/13/putting-container-updates-on-a-diet/)
+- [Are We Linus Yet?](https://arewelinusyet.com/)
 
-- [The skyline problem (2014)](https://briangordon.github.io/2014/08/the-skyline-problem.html)
+- [open cores, ISAs, etc: what is actually open about them?](https://ariadne.space/2021/12/06/open-cores-isas-etc-what-is-actually-open-about-them/)
 
-- [My VR Hell on NixOS](https://christine.website/blog/nixos-vr-hell-2021-12-02)
+- [No easter eggs in curl](https://daniel.haxx.se/blog/2021/12/06/no-easter-eggs-in-curl/)
 
-- [Some guidelines for writing web scrapers](https://cushychicken.github.io/rules-for-web-scrapers/)
+- [Some latency measurement pitfalls](https://danluu.com/latency-pitfalls/)
 
-- [Scala at Scale at Databricks](https://databricks.com/blog/2021/12/03/scala-at-scale-at-databricks.html)
+- [Paper review: Paxos vs Raft](https://emptysqua.re/blog/paxos-vs-raft/)
 
-- [Elixir v1.13 released](https://elixir-lang.org/blog/2021/12/03/elixir-v1-13-0-released/)
+- [How is a matrix used to count fish?](https://gist.github.com/rain-1/51944f4ed9318c320cfa0af2a03e6808)
 
-- [Verneuil: S3-backed asynchronous replication for SQLite](https://engineering.backtrace.io/2021-12-02-verneuil-s3-backed-asynchronous-replication-for-sqlite/)
+- [winage: Windows GUI for the age file encryption tool (built on rage, the Rust implementation)](https://github.com/spieglt/winage)
 
-- [Diacritical Marks in Unicode](https://gregtatum.com/writing/2021/diacritical-marks/)
+- [python-coverage.el: show python coverage information directly in emacs](https://github.com/wbolster/emacs-python-coverage)
 
-- [PlusCal Tutorial](https://lamport.azurewebsites.net/tla/tutorial/intro.html)
+- [v0.18 of Gleam released, including a new build dedicated tool](https://gleam.run/news/gleam-v0.18-released/)
 
-- [Don't Make My Mistakes: Common Infrastructure Errors I've Made](https://matduggan.com/mistakes/)
+- [WebAssembly and Back Again: Fine-Grained Sandboxing in Firefox 95](https://hacks.mozilla.org/2021/12/webassembly-and-back-again-fine-grained-sandboxing-in-firefox-95/)
 
-- [William Cook, (OOP, Applescript) has died](https://mjtsai.com/blog/2021/12/02/william-cook-rip/)
+- [DNS doesn't "propagate"](https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/)
 
-- [A comparative study of vulnerability reporting by software composition analysis tools](https://nasifimtiazohi.github.io/assets/pdf/esem21.pdf)
+- [Chubby: A lock service for distributed coordination](https://medium.com/coinmonks/chubby-a-centralized-lock-service-for-distributed-applications-390571273052)
 
-- [Is “KAX17” performing de-anonymization Attacks against Tor Users?](https://nusenu.medium.com/is-kax17-performing-de-anonymization-attacks-against-tor-users-42e566defce8)
+- [Fast CSV processing with SIMD](https://nullprogram.com/blog/2021/12/04/)
 
-- [Townscaper's rendering style in WebGL](https://reindernijhoff.net/2021/11/townscapers-rendering-style-in-webgl/)
+- [uBlock, I exfiltrate: exploiting ad blockers with CSS](https://portswigger.net/research/ublock-i-exfiltrate-exploiting-ad-blockers-with-css)
 
-- [Upgrading MySQL at Shopify](https://shopify.engineering/upgrading-mysql-shopify)
+- [Your public IBM i server](https://pub400.com/)
 
-- [Ideal monitor rotation for programmers](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
+- [Following the Unix philosophy without getting left-pad](https://raku-advent.blog/2021/12/06/unix_philosophy_without_leftpad/)
 
-- [On Hubris and Humility: developing an OS for robustness in Rust Open Source Firmware Conference 2021](https://talks.osfc.io/osfc2021/talk/JTWYEH/)
+- ["I implemented AES-128 in Scratch"](https://twitter.com/David3141593/status/1467174256677212164)
 
-- [Tvix: We are rewriting Nix](https://tvl.fyi/blog/rewriting-nix)
+- [Bumble claims IP rights on employee's open-source code](https://twitter.com/arkann1985/status/1467202744947822594)
 
-- [Blender 3.0](https://www.blender.org/download/releases/3-0/)
+- [Why are my PCHs out of date?](https://werat.dev/blog/why-are-my-pchs-out-of-date/)
 
-- [Write better code with Swift Algorithms](https://www.hackingwithswift.com/articles/243/write-better-code-with-swift-algorithms)
+- [Postgres, Kafka, and the Mysterious 100 GB](https://www.mattritter.me/?p=398)
