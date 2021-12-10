@@ -1,45 +1,47 @@
-- [Oil shell: Rough Progress Assessments](http://www.oilshell.org/blog/2021/12/backlog-assess.html)
+- [What happened to NEXTGRES?](http://oracle-internals.com/blog/2020/04/22/what-happened-to-nextgres/)
 
-- [The '21 Vector' XSS Challenge](https://21-vector.0e.vc/)
+- [Does the Bronze Garbage Collector Make Rust Easier to Use? A Controlled Experiment](https://arxiv.org/abs/2110.01098)
 
-- [Trans-inclusive Design (2019)](https://alistapart.com/article/trans-inclusive-design/)
+- [Go coverage with external tests (2016)](https://blog.cloudflare.com/go-coverage-with-external-tests/)
 
-- [Are We Linus Yet?](https://arewelinusyet.com/)
+- [Why Can't Programmers.. Program? (2007)](https://blog.codinghorror.com/why-cant-programmers-program/)
 
-- [open cores, ISAs, etc: what is actually open about them?](https://ariadne.space/2021/12/06/open-cores-isas-etc-what-is-actually-open-about-them/)
+- [Launching the 2021 State of Rust Survey](https://blog.rust-lang.org/2021/12/08/survey-launch.html)
 
-- [No easter eggs in curl](https://daniel.haxx.se/blog/2021/12/06/no-easter-eggs-in-curl/)
+- [Reasons to avoid Javascript CDNs](https://blog.wesleyac.com/posts/why-not-javascript-cdn)
 
-- [Some latency measurement pitfalls](https://danluu.com/latency-pitfalls/)
+- [Developing Databricks' Runbot CI Solution](https://databricks.com/blog/2021/10/14/developing-databricks-runbot-ci-solution.html)
 
-- [Paper review: Paxos vs Raft](https://emptysqua.re/blog/paxos-vs-raft/)
+- [Diagram as Code](https://diagrams.mingrammer.com/)
 
-- [How is a matrix used to count fish?](https://gist.github.com/rain-1/51944f4ed9318c320cfa0af2a03e6808)
+- [Introducing stack graphs](https://github.blog/2021-12-09-introducing-stack-graphs/)
 
-- [winage: Windows GUI for the age file encryption tool (built on rage, the Rust implementation)](https://github.com/spieglt/winage)
+- [deeplinks.js: Simple deep links to any selection of text on your website](https://github.com/WesleyAC/deeplinks)
 
-- [python-coverage.el: show python coverage information directly in emacs](https://github.com/wbolster/emacs-python-coverage)
+- [Llama - a terminal file manager](https://github.com/antonmedv/llama)
 
-- [v0.18 of Gleam released, including a new build dedicated tool](https://gleam.run/news/gleam-v0.18-released/)
+- [Escher-like Spiral Tilings](https://isohedral.ca/escher-like-spiral-tilings/)
 
-- [WebAssembly and Back Again: Fine-Grained Sandboxing in Firefox 95](https://hacks.mozilla.org/2021/12/webassembly-and-back-again-fine-grained-sandboxing-in-firefox-95/)
+- [Tailwind CSS v3.0](https://tailwindcss.com/blog/tailwindcss-v3)
 
-- [DNS doesn't "propagate"](https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/)
+- [Writing a simple 16 bit VM in less than 125 lines of C](https://www.andreinc.net/2021/12/01/writing-a-simple-vm-in-less-than-125-lines-of-c)
 
-- [Chubby: A lock service for distributed coordination](https://medium.com/coinmonks/chubby-a-centralized-lock-service-for-distributed-applications-390571273052)
+- [Small Wins for Accessibility and Resilience](https://www.callumhart.com/blog/small-wins-for-accessibility-and-resilience/)
 
-- [Fast CSV processing with SIMD](https://nullprogram.com/blog/2021/12/04/)
+- [PlayStation Architecture | A Practical Analysis](https://www.copetti.org/writings/consoles/playstation/)
 
-- [uBlock, I exfiltrate: exploiting ad blockers with CSS](https://portswigger.net/research/ublock-i-exfiltrate-exploiting-ad-blockers-with-css)
+- [Have you tried rubbing a database on it?](https://www.hytradboi.com/)
 
-- [Your public IBM i server](https://pub400.com/)
+- [Test for divisibility by 13 (and 7 and 11)](https://www.johndcook.com/blog/2020/11/10/test-for-divisibility-by-13/)
 
-- [Following the Unix philosophy without getting left-pad](https://raku-advent.blog/2021/12/06/unix_philosophy_without_leftpad/)
+- [RCE 0-day exploit found in log4j, a popular Java logging package](https://www.lunasec.io/docs/blog/log4j-zero-day/)
 
-- ["I implemented AES-128 in Scratch"](https://twitter.com/David3141593/status/1467174256677212164)
+- [ARM64 VM on macOS with libvirt + QEMU](https://www.naut.ca/blog/2021/12/09/arm64-vm-on-macos-with-libvirt-qemu/)
 
-- [Bumble claims IP rights on employee's open-source code](https://twitter.com/arkann1985/status/1467202744947822594)
+- [The Sad State Of Web Browser Support Currently Within Debian](https://www.phoronix.com/scan.php?page=news_item&px=Web-Browser-Packages-Debian)
 
-- [Why are my PCHs out of date?](https://werat.dev/blog/why-are-my-pchs-out-of-date/)
+- ["Have worked on “Bank Python” systems. AMA."](https://www.reddit.com/r/programming/comments/rbvpmy/bank_python_the_strange_world_of_python_as_used/)
 
-- [Postgres, Kafka, and the Mysterious 100 GB](https://www.mattritter.me/?p=398)
+- [Advent of UI Components](https://www.silvestar.codes/side-projects/advent/)
+
+- [Automerge: a new foundation for collaboration software](https://www.youtube.com/watch?v=Qytg0Ibet2E)
