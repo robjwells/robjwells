@@ -1,47 +1,49 @@
-- [What happened to NEXTGRES?](http://oracle-internals.com/blog/2020/04/22/what-happened-to-nextgres/)
+- [Learn you An Agda And Achieve Enlightenment](http://learnyouanagda.liamoc.net)
 
-- [Does the Bronze Garbage Collector Make Rust Easier to Use? A Controlled Experiment](https://arxiv.org/abs/2110.01098)
+- [View a python function's history over-time with Git & FZF](https://bhupesh.gitbook.io/notes/git/view-python-function-git-history-with-fzf)
 
-- [Go coverage with external tests (2016)](https://blog.cloudflare.com/go-coverage-with-external-tests/)
+- [Opacity precision](https://bjango.com/articles/opacityprecision/)
 
-- [Why Can't Programmers.. Program? (2007)](https://blog.codinghorror.com/why-cant-programmers-program/)
+- [How to cross-compile 850+ packages using Yocto/OpenEmbedded](https://bkhome.org/news/202112/how-to-cross-compile-850-packages-using-yoctoopenembedded.html)
 
-- [Launching the 2021 State of Rust Survey](https://blog.rust-lang.org/2021/12/08/survey-launch.html)
+- [Data-Oriented Programming: A link in the chain of programming paradigms](https://blog.klipse.tech/databook/2021/12/10/dop-link.html)
 
-- [Reasons to avoid Javascript CDNs](https://blog.wesleyac.com/posts/why-not-javascript-cdn)
+- [The future of Python build systems and Gentoo](https://blogs.gentoo.org/mgorny/2021/11/07/the-future-of-python-build-systems-and-gentoo/)
 
-- [Developing Databricks' Runbot CI Solution](https://databricks.com/blog/2021/10/14/developing-databricks-runbot-ci-solution.html)
+- [Coding Go in the blind](https://changelog.com/gotime/209)
 
-- [Diagram as Code](https://diagrams.mingrammer.com/)
+- [Game of Trees](https://gameoftrees.org/index.html)
 
-- [Introducing stack graphs](https://github.blog/2021-12-09-introducing-stack-graphs/)
+- [Fish Fight v0.3 - Open source moddable game](https://github.com/fishfight/FishFight)
 
-- [deeplinks.js: Simple deep links to any selection of text on your website](https://github.com/WesleyAC/deeplinks)
+- [Weird: Generative art in Common Lisp](https://github.com/inconvergent/weird)
 
-- [Llama - a terminal file manager](https://github.com/antonmedv/llama)
+- [Ten years of experience, still failing phone screens](https://kevin.burke.dev/kevin/phone-screens-broken/?lobsters)
 
-- [Escher-like Spiral Tilings](https://isohedral.ca/escher-like-spiral-tilings/)
+- [ZFS RAIDZ2 - Achieving 157 GB/s](https://neil.computer/notes/zfs-raidz2/)
 
-- [Tailwind CSS v3.0](https://tailwindcss.com/blog/tailwindcss-v3)
+- [Ouroboros (SDN not cryptocurrency)](https://ouroboros.rocks/)
 
-- [Writing a simple 16 bit VM in less than 125 lines of C](https://www.andreinc.net/2021/12/01/writing-a-simple-vm-in-less-than-125-lines-of-c)
+- [Persistence for the Masses: RRB-Vectors in a Systems Language](https://public.sinusoid.es/misc/immer/immer-icfp17.pdf)
 
-- [Small Wins for Accessibility and Resilience](https://www.callumhart.com/blog/small-wins-for-accessibility-and-resilience/)
+- [Unix philosophy without left-pad, Part 2: Minimizing dependencies with a utilities package](https://raku-advent.blog/2021/12/11/unix_philosophy_without_leftpad_part2/)
 
-- [PlayStation Architecture | A Practical Analysis](https://www.copetti.org/writings/consoles/playstation/)
+- [Vim Sudo Write Trick (2005)](https://susam.in/maze/vim-sudo-write-trick.html)
 
-- [Have you tried rubbing a database on it?](https://www.hytradboi.com/)
+- [PDP-11 Booting](https://trmm.net/PDP-11/Booting/)
 
-- [Test for divisibility by 13 (and 7 and 11)](https://www.johndcook.com/blog/2020/11/10/test-for-divisibility-by-13/)
+- [Haskell’s Type System Standing Alone](https://vitez.me/hts-language)
 
-- [RCE 0-day exploit found in log4j, a popular Java logging package](https://www.lunasec.io/docs/blog/log4j-zero-day/)
+- [KeePassX  development stopped](https://www.keepassx.org/index.html%3Fp=636.html)
 
-- [ARM64 VM on macOS with libvirt + QEMU](https://www.naut.ca/blog/2021/12/09/arm64-vm-on-macos-with-libvirt-qemu/)
+- [Benchmarks: FreeBSD 13 vs. NetBSD 9.2 vs. OpenBSD 7 vs. DragonFlyBSD 6 vs. Linux](https://www.phoronix.com/scan.php?page=article&item=bsd-linux-eo2021&num=1)
 
-- [The Sad State Of Web Browser Support Currently Within Debian](https://www.phoronix.com/scan.php?page=news_item&px=Web-Browser-Packages-Debian)
+- [JSON Can Be Faster Than Binary](https://www.tbray.org/ongoing/When/202x/2021/12/03/Filtering-Lessons)
 
-- ["Have worked on “Bank Python” systems. AMA."](https://www.reddit.com/r/programming/comments/rbvpmy/bank_python_the_strange_world_of_python_as_used/)
+- [Firefox 95 might be the most secure web browser on the market](https://www.techrepublic.com/article/the-new-firefox-95-might-be-the-most-secure-web-browser-on-the-market/)
 
-- [Advent of UI Components](https://www.silvestar.codes/side-projects/advent/)
+- ["Authorship Environments: in search of the 'personal' in 'personal computing'"](https://www.youtube.com/watch?v=5U6MkU5fLJw)
 
-- [Automerge: a new foundation for collaboration software](https://www.youtube.com/watch?v=Qytg0Ibet2E)
+- [What is polyhedral compilation? (2019)](https://www.youtube.com/watch?v=iAF-orse4hE)
+
+- [Plain Org v1.1 released](https://xenodium.com/plain-org-v11-released)
