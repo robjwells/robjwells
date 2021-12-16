@@ -1,49 +1,49 @@
-- [Learn you An Agda And Achieve Enlightenment](http://learnyouanagda.liamoc.net)
+- [Simpler, Easier! How to write a simple dependent type checker](http://augustss.blogspot.com/2007/10/simpler-easier-in-recent-paper-simply.html)
 
-- [View a python function's history over-time with Git & FZF](https://bhupesh.gitbook.io/notes/git/view-python-function-git-history-with-fzf)
+- [Fire Code for Software (2004)](http://www.ganssle.com/articles/FireCode.htm)
 
-- [Opacity precision](https://bjango.com/articles/opacityprecision/)
+- [The Blog is the program](https://andregarzia.com/2021/12/the-blog-is-the-program.html)
 
-- [How to cross-compile 850+ packages using Yocto/OpenEmbedded](https://bkhome.org/news/202112/how-to-cross-compile-850-packages-using-yoctoopenembedded.html)
+- [Progress Report: October-November 2021 - Asahi Linux](https://asahilinux.org/2021/12/progress-report-oct-nov-2021/)
 
-- [Data-Oriented Programming: A link in the chain of programming paradigms](https://blog.klipse.tech/databook/2021/12/10/dop-link.html)
+- [Why ISO was retired, part-2](https://bkhome.org/news/202112/why-iso-was-retired-part-2.html)
 
-- [The future of Python build systems and Gentoo](https://blogs.gentoo.org/mgorny/2021/11/07/the-future-of-python-build-systems-and-gentoo/)
+- [The Decent Way to Learn Functional Programming](https://blog.oxij.org/2012/01/16/the-decent-way-to-learn-functional-programming/)
 
-- [Coding Go in the blind](https://changelog.com/gotime/209)
+- [Aftertext](https://breckyunits.com/aftertext.html)
 
-- [Game of Trees](https://gameoftrees.org/index.html)
+- [Uncomfortable Truths in Software Engineering](https://buttondown.email/hillelwayne/archive/uncomfortable-truths-in-software-engineering/)
 
-- [Fish Fight v0.3 - Open source moddable game](https://github.com/fishfight/FishFight)
+- [F# Good and Bad](https://danielbmarkham.com/f-good-and-bad/)
 
-- [Weird: Generative art in Common Lisp](https://github.com/inconvergent/weird)
+- [3 Lines of Code Shouldn’t Take All Day](https://devtails.xyz/3-lines-of-code-shouldnt-take-all-day)
 
-- [Ten years of experience, still failing phone screens](https://kevin.burke.dev/kevin/phone-screens-broken/?lobsters)
+- [GrapheneOS/hardened_malloc: Hardened allocator designed for modern systems](https://github.com/GrapheneOS/hardened_malloc)
 
-- [ZFS RAIDZ2 - Achieving 157 GB/s](https://neil.computer/notes/zfs-raidz2/)
+- [How to write a very simple JIT compiler](https://github.com/spencertipping/jit-tutorial)
 
-- [Ouroboros (SDN not cryptocurrency)](https://ouroboros.rocks/)
+- [Go 1.18 Beta 1 is available, with generics](https://go.dev/blog/go1.18beta1)
 
-- [Persistence for the Masses: RRB-Vectors in a Systems Language](https://public.sinusoid.es/misc/immer/immer-icfp17.pdf)
+- [A deep dive into an NSO zero-click iMessage exploit: Remote Code Execution](https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html)
 
-- [Unix philosophy without left-pad, Part 2: Minimizing dependencies with a utilities package](https://raku-advent.blog/2021/12/11/unix_philosophy_without_leftpad_part2/)
+- [Mess with DNS](https://jvns.ca/blog/2021/12/15/mess-with-dns/)
 
-- [Vim Sudo Write Trick (2005)](https://susam.in/maze/vim-sudo-write-trick.html)
+- [gRPC - Best Practices](https://kreya.app/blog/grpc-best-practices)
 
-- [PDP-11 Booting](https://trmm.net/PDP-11/Booting/)
+- [nano-6.0 is released](https://lists.gnu.org/archive/html/info-gnu/2021-12/msg00005.html)
 
-- [Haskell’s Type System Standing Alone](https://vitez.me/hts-language)
+- [A Tour of Netty](https://medium.com/geekculture/a-tour-of-netty-5020ecee5494)
 
-- [KeePassX  development stopped](https://www.keepassx.org/index.html%3Fp=636.html)
+- [Allocgate is coming in Zig 0.9, and you will have to change your code](https://pithlessly.github.io/allocgate.html)
 
-- [Benchmarks: FreeBSD 13 vs. NetBSD 9.2 vs. OpenBSD 7 vs. DragonFlyBSD 6 vs. Linux](https://www.phoronix.com/scan.php?page=article&item=bsd-linux-eo2021&num=1)
+- [Programming Differential Privacy](https://programming-dp.com/)
 
-- [JSON Can Be Faster Than Binary](https://www.tbray.org/ongoing/When/202x/2021/12/03/Filtering-Lessons)
+- [Rails 7.0: Fulfilling a vision](https://rubyonrails.org/2021/12/15/Rails-7-fulfilling-a-vision)
 
-- [Firefox 95 might be the most secure web browser on the market](https://www.techrepublic.com/article/the-new-firefox-95-might-be-the-most-secure-web-browser-on-the-market/)
+- [Secure Containerized Browser](https://vermaden.wordpress.com/2021/12/15/secure-containerized-browser/)
 
-- ["Authorship Environments: in search of the 'personal' in 'personal computing'"](https://www.youtube.com/watch?v=5U6MkU5fLJw)
+- [Fixing a Tiny Corner of the Supply Chain](https://www.bunniestudios.com/blog/?p=6274)
 
-- [What is polyhedral compilation? (2019)](https://www.youtube.com/watch?v=iAF-orse4hE)
+- [The Pragmatism of Hubris](https://www.youtube.com/watch?v=cypmufnPfLw)
 
-- [Plain Org v1.1 released](https://xenodium.com/plain-org-v11-released)
+- [Simplicial Fluid on triangle meshes](https://yhesper.github.io/projects/2_project_simpfluid/)
