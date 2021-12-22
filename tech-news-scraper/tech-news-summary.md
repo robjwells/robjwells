@@ -1,47 +1,49 @@
-- [Data Team Platform](https://about.gitlab.com/handbook/business-technology/data-team/platform/)
+- [Stop defining feature-test macros in your code](https://ariadne.space/2021/12/21/stop-defining-feature-test-macros-in-your-code/)
 
-- [Why I wrote my own Go HTTP client](https://blog.carlmjohnson.net/post/2021/requests-golang-http-client/)
+- [Three Minor Features in Go 1.18](https://blog.carlmjohnson.net/post/2021/golang-118-minor-features/)
 
-- [Thread Safety in C++ and Rust](https://blog.reverberate.org/2021/12/18/thread-safety-cpp-rust.html)
+- [Disclosing Shamir’s Secret Sharing vulnerabilities and announcing ZKDocs](https://blog.trailofbits.com/2021/12/21/disclosing-shamirs-secret-sharing-vulnerabilities-and-announcing-zkdocs/)
 
-- [Accurate mental model for Rust's reference types](https://docs.rs/dtolnay/0.0.9/dtolnay/macro._02__reference_types.html)
+- [The container throttling problem](https://danluu.com/cgroup-throttling/)
 
-- [Perl turns 34 today](https://github.com/Perl/perl5/commit/8d063cd8450e59ea1c611a2f4f5a21059a2804f1)
+- [Ordering Movie Credits With Graph Theory](https://endcrawl.com/credits-ordering/)
 
-- [rlr: interactive pixel screen ruler and protractor](https://github.com/epilys/rlr)
+- [Intuitive Advanced Cryptography [pdf]](https://github.com/cryptosubtlety/intuitive-advanced-cryptography/blob/master/advancedcrypto.pdf)
 
-- [New Oberon+ to C99 transpiler for near native performance](https://github.com/rochus-keller/Oberon/releases/tag/CGEN_MVP)
+- [dsq: Run SQL queries against JSON, CSV, Excel, Parquet, and more](https://github.com/multiprocessio/datastation/tree/main/runner/cmd/dsq)
 
-- [Kinesis Advantage360 Ergonomic Keyboard](https://kinesis-ergo.com/keyboards/advantage360/)
+- [Pull Request for Multicore OCaml](https://github.com/ocaml/ocaml/pull/10831)
 
-- [Local man switches to Arch, tells no one](https://lunduke.substack.com/p/local-man-switches-to-arch-tells)
+- [LISP with GC in 436 bytes](https://justine.lol/sectorlisp2/)
 
-- [U-Shaped Utility of Monorepos](https://matt-rickard.com/monorepos/)
+- [linuxtouchpad.org - The Linux Touchpad Dev Guide](https://linuxtouchpad.org/)
 
-- [Implementing Domain-Driven Design and Hexagonal Architecture with Go](https://medium.com/@TonyBologni/implementing-domain-driven-design-and-hexagonal-architecture-with-go-1-292938c0a4d4)
+- [Why is C faster than Java: git vs JGit (2009)](https://marc.info/?l=git&m=124111702609723&w=2)
 
-- [Nim 1.6.2 released](https://nim-lang.org/blog/2021/12/17/version-162-released.html)
+- [Erlang & ASN.1(Abstract Syntax Notation One)](https://medium.com/erlang-battleground/erlang-asn-1-abstract-syntax-notation-one-deeb8300f479)
 
-- [Paged Out](https://pagedout.institute/)
+- [Yes, fun browser extensions can have vulnerabilities too](https://palant.info/2021/12/20/yes-fun-browser-extensions-can-have-vulnerabilities-too/)
 
-- [PrologHub](https://prologhub.com/)
+- [RCE in Visual Studio Code's Remote WSL for Fun and Negative Profit](https://parsiya.net/blog/2021-12-20-rce-in-visual-studio-codes-remote-wsl-for-fun-and-negative-profit/)
 
-- [ReactOS 0.4.14 released](https://reactos.org/project-news/reactos-0414-released/)
+- [34 at 34 for v5.34: Modern Perl features for Perl’s birthday](https://phoenixtrap.com/2021/12/21/34-at-34-for-v5-34-modern-perl-features-for-perls-birthday/)
 
-- [Designing a new PRNG](https://tom-kaitchuck.medium.com/designing-a-new-prng-1c4ffd27124d)
+- [Smoothly Reverting CSS Animations](https://pragmaticpineapple.com/smoothly-reverting-css-animations/)
 
-- [So-called modern web developers are the culprits](https://unixsheikh.com/articles/so-called-modern-web-developers-are-the-culprits.html)
+- [Generics facilitators in Go](https://rakyll.org/generics-facilititators/)
 
-- [The State Of Garnet In 2022](https://wiki.alopex.li/TheStateOfGarnet2022)
+- [Attempting to use GNU Guix, again](https://ruzkuku.com/texts/guix-again.html)
 
-- [PoC||GTFO 0x20](https://www.alchemistowl.org/pocorgtfo/pocorgtfo20.pdf)
+- [Rearticulating Free Software](https://ruzkuku.com/texts/refs.html)
 
-- [No more a.out on DragonFly](https://www.dragonflydigest.com/2021/12/17/26467.html)
+- [Coding](https://scattered-thoughts.net/writing/coding/)
 
-- [Age File Encryption: is it better than PGP?](https://www.go350.com/posts/age-file-encryption/)
+- [Stop Whining about Rust Hype - A Pro-Rust Rant](https://thenewwazoo.github.io/whining.html)
 
-- [History of the blinking cursor](https://www.inverse.com/innovation/blinking-cursor-history)
+- [A proposal for contexts and capabilities in Rust](https://tmandry.gitlab.io/blog/posts/2021-12-21-context-capabilities/)
 
-- [The Principia Rewrite](https://www.principiarewrite.com)
+- [The Future of Machine Learning and why it looks a lot like Julia](https://towardsdatascience.com/the-future-of-machine-learning-and-why-it-looks-a-lot-like-julia-a0e26b51f6a6)
 
-- [The Web3 Fraud](https://www.usenix.org/publications/loginonline/web3-fraud)
+- [A challenger to the throne of vector graphics. SVG is dead, long live TinyVG](https://zig.news/xq/a-challenger-to-the-throne-of-vector-graphics-svg-is-dead-long-live-tinyvg-4on8)
+
+- [Zig 0.9.0 Release Notes](https://ziglang.org/download/0.9.0/release-notes.html)
