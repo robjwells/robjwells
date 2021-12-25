@@ -1,49 +1,45 @@
-- [Stop defining feature-test macros in your code](https://ariadne.space/2021/12/21/stop-defining-feature-test-macros-in-your-code/)
+- [Introduction to the Sam Text Editor](https://blog.matthewdmiller.net/introduction-to-the-sam-text-editor)
 
-- [Three Minor Features in Go 1.18](https://blog.carlmjohnson.net/post/2021/golang-118-minor-features/)
+- [Tools You Should Know About: nix-shell](https://cuddly-octo-palm-tree.com/posts/2021-12-19-tyska-nix-shell/)
 
-- [Disclosing Shamir’s Secret Sharing vulnerabilities and announcing ZKDocs](https://blog.trailofbits.com/2021/12/21/disclosing-shamirs-secret-sharing-vulnerabilities-and-announcing-zkdocs/)
+- [When a web PKI certificate won’t cut it](https://emilymstark.com/2021/12/24/when-a-web-pki-certificate-wont-cut-it.html)
 
-- [The container throttling problem](https://danluu.com/cgroup-throttling/)
+- [Is It Even Worth Working on FOSS Anymore?](https://gavinhoward.com/2021/12/is-it-even-worth-working-on-foss-anymore/)
 
-- [Ordering Movie Credits With Graph Theory](https://endcrawl.com/credits-ordering/)
+- [Linux RNG replaces the SHA-1 entropy extractor with BLAKE2s](https://git.kernel.org/pub/scm/linux/kernel/git/crng/random.git/commit/?id=58655cccf3d68aea2127bfe226cd5f50afb89c55)
 
-- [Intuitive Advanced Cryptography [pdf]](https://github.com/cryptosubtlety/intuitive-advanced-cryptography/blob/master/advancedcrypto.pdf)
+- [How to avoid complicated coordinated upgrades](https://github.com/dtolnay/semver-trick)
 
-- [dsq: Run SQL queries against JSON, CSV, Excel, Parquet, and more](https://github.com/multiprocessio/datastation/tree/main/runner/cmd/dsq)
+- [Hera: a customized hybrid of Source Code Pro and Fira Mono](https://github.com/sayyadirfanali/Hera)
 
-- [Pull Request for Multicore OCaml](https://github.com/ocaml/ocaml/pull/10831)
+- [systemd 250 released](https://github.com/systemd/systemd/blob/v250/NEWS)
 
-- [LISP with GC in 436 bytes](https://justine.lol/sectorlisp2/)
+- [A Lisp interpreter implemented in Conway's Game of Life](https://github.com/woodrush/lisp-in-life)
 
-- [linuxtouchpad.org - The Linux Touchpad Dev Guide](https://linuxtouchpad.org/)
+- [Systemd 250 released](https://lwn.net/Articles/879739/)
 
-- [Why is C faster than Java: git vs JGit (2009)](https://marc.info/?l=git&m=124111702609723&w=2)
+- [Grammars for programming languages (2018)](https://medium.com/@mikhail.barash.mikbar/grammars-for-programming-languages-fae3a72a22c6)
 
-- [Erlang & ASN.1(Abstract Syntax Notation One)](https://medium.com/erlang-battleground/erlang-asn-1-abstract-syntax-notation-one-deeb8300f479)
+- [Opal: a Ruby to JavaScript source-to-source compiler](https://opalrb.com/)
 
-- [Yes, fun browser extensions can have vulnerabilities too](https://palant.info/2021/12/20/yes-fun-browser-extensions-can-have-vulnerabilities-too/)
+- [Selling my own GPL software, part 1: a lot of hurdles](https://raymii.org/s/blog/Selling_GPL_Software_part_1_lots_of_hurdles.html)
 
-- [RCE in Visual Studio Code's Remote WSL for Fun and Negative Profit](https://parsiya.net/blog/2021-12-20-rce-in-visual-studio-codes-remote-wsl-for-fun-and-negative-profit/)
+- [A few About boxes from vintage Mac applications](https://systemfolder.wordpress.com/2015/01/17/about-box/)
 
-- [34 at 34 for v5.34: Modern Perl features for Perl’s birthday](https://phoenixtrap.com/2021/12/21/34-at-34-for-v5-34-modern-perl-features-for-perls-birthday/)
+- [Observability vs. monitoring debate: An irreverent view](https://ubuntu.com/blog/observability-vs-monitoring-debate-an-irreverent-view)
 
-- [Smoothly Reverting CSS Animations](https://pragmaticpineapple.com/smoothly-reverting-css-animations/)
+- [Running your own email is increasingly an artisanal choice, not a practical one](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EmailServersNoLongerPractical)
 
-- [Generics facilitators in Go](https://rakyll.org/generics-facilititators/)
+- [Audacity - Release Notes 3.1.3](https://wiki.audacityteam.org/wiki/Release_Notes_3.1.3)
 
-- [Attempting to use GNU Guix, again](https://ruzkuku.com/texts/guix-again.html)
+- [OLPC Bitfrost (2005)](https://wiki.laptop.org/go/OLPC_Bitfrost)
 
-- [Rearticulating Free Software](https://ruzkuku.com/texts/refs.html)
+- [Learning VoWifi, VoLTE, and IMS: because I’m too Millennial to make a phone call](https://worthdoingbadly.com/vowifi/)
 
-- [Coding](https://scattered-thoughts.net/writing/coding/)
+- [Rust and SPARK(Ada): Software Reliability for Everyone](https://www.electronicdesign.com/industrial-automation/article/21804924/rust-and-spark-software-reliability-for-everyone)
 
-- [Stop Whining about Rust Hype - A Pro-Rust Rant](https://thenewwazoo.github.io/whining.html)
+- [Erlang -- global](https://www.erlang.org/doc/man/global.html)
 
-- [A proposal for contexts and capabilities in Rust](https://tmandry.gitlab.io/blog/posts/2021-12-21-context-capabilities/)
+- [What do you think of this type of “terminal based programming tutorial”?](https://www.gibney.org/from_debian_to_web_app)
 
-- [The Future of Machine Learning and why it looks a lot like Julia](https://towardsdatascience.com/the-future-of-machine-learning-and-why-it-looks-a-lot-like-julia-a0e26b51f6a6)
-
-- [A challenger to the throne of vector graphics. SVG is dead, long live TinyVG](https://zig.news/xq/a-challenger-to-the-throne-of-vector-graphics-svg-is-dead-long-live-tinyvg-4on8)
-
-- [Zig 0.9.0 Release Notes](https://ziglang.org/download/0.9.0/release-notes.html)
+- [Useful old technologies: ASN.1](https://www.thanassis.space/asn1.html)
