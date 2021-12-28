@@ -1,45 +1,43 @@
-- [Introduction to the Sam Text Editor](https://blog.matthewdmiller.net/introduction-to-the-sam-text-editor)
+- [Lua: Good, bad, and ugly parts (2012)](http://notebook.kulchenko.com/programming/lua-good-different-bad-and-ugly-parts)
 
-- [Tools You Should Know About: nix-shell](https://cuddly-octo-palm-tree.com/posts/2021-12-19-tyska-nix-shell/)
+- [Maximalism and Virtualism](http://viznut.fi/texts-en/maximalism_virtualism.html)
 
-- [When a web PKI certificate won’t cut it](https://emilymstark.com/2021/12/24/when-a-web-pki-certificate-wont-cut-it.html)
+- [Bypassing early 2000s copy protection for software preservation](https://blog.paavo.me/masa-copy-protection/)
 
-- [Is It Even Worth Working on FOSS Anymore?](https://gavinhoward.com/2021/12/is-it-even-worth-working-on-foss-anymore/)
+- [DIY Email](https://computer.rip/2021-12-26-diy-mail.html)
 
-- [Linux RNG replaces the SHA-1 entropy extractor with BLAKE2s](https://git.kernel.org/pub/scm/linux/kernel/git/crng/random.git/commit/?id=58655cccf3d68aea2127bfe226cd5f50afb89c55)
+- [RPG Maker: History & Games](https://felipepepe.medium.com/the-history-of-rpg-maker-its-games-c93685f41ae6)
 
-- [How to avoid complicated coordinated upgrades](https://github.com/dtolnay/semver-trick)
+- [What's the Future of IDEs?](https://giansegato.com/essays/what-future-ides/)
 
-- [Hera: a customized hybrid of Source Code Pro and Fira Mono](https://github.com/sayyadirfanali/Hera)
+- [LISP Evaluator for FreeBASIC](https://github.com/jayrm/fb-lisp)
 
-- [systemd 250 released](https://github.com/systemd/systemd/blob/v250/NEWS)
+- [Video Game Preservation](https://github.com/orgs/videogamepreservation/repositories)
 
-- [A Lisp interpreter implemented in Conway's Game of Life](https://github.com/woodrush/lisp-in-life)
+- [Preventing log4j with Capabilities](https://justinpombrio.net/2021/12/26/preventing-log4j-with-capabilities.html)
 
-- [Systemd 250 released](https://lwn.net/Articles/879739/)
+- [Analysis and reverse-engineering of the original Starlink router](https://olegkutkov.me/2021/12/25/analysis-and-reverse-engineering-of-the-original-starlink-router/)
 
-- [Grammars for programming languages (2018)](https://medium.com/@mikhail.barash.mikbar/grammars-for-programming-languages-fae3a72a22c6)
+- [Performance Anti-Patterns (2006)](https://queue.acm.org/detail.cfm?id=1117403)
 
-- [Opal: a Ruby to JavaScript source-to-source compiler](https://opalrb.com/)
+- [rC3 Fahrplan 2021](https://rc3.world/2021/public_fahrplan)
 
-- [Selling my own GPL software, part 1: a lot of hurdles](https://raymii.org/s/blog/Selling_GPL_Software_part_1_lots_of_hurdles.html)
+- [rC3 NOWHERE Streaming](https://streaming.media.ccc.de/rc3)
 
-- [A few About boxes from vintage Mac applications](https://systemfolder.wordpress.com/2015/01/17/about-box/)
+- [Regression with the C64](https://tensorthings.com/2021/12/27/regression-with-the-c64/)
 
-- [Observability vs. monitoring debate: An irreverent view](https://ubuntu.com/blog/observability-vs-monitoring-debate-an-irreverent-view)
+- [A Guide to Zsh Expansion with Examples](https://thevaluable.dev/zsh-expansion-guide-example/)
 
-- [Running your own email is increasingly an artisanal choice, not a practical one](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EmailServersNoLongerPractical)
+- [You can now use 'pip' to install Tailwind CSS. Node.js is no longer required](https://timonweb.com/python/you-can-now-use-pip-to-install-tailwind-css-nodejs-is-no-longer-required/)
 
-- [Audacity - Release Notes 3.1.3](https://wiki.audacityteam.org/wiki/Release_Notes_3.1.3)
+- [Windows 2000 Modernization Guide](https://w2k.phreaknet.org/guide)
 
-- [OLPC Bitfrost (2005)](https://wiki.laptop.org/go/OLPC_Bitfrost)
+- [Interface Hall of Shame [2000]](https://web.archive.org/web/20021017113918/www.iarchitect.com/shame.htm)
 
-- [Learning VoWifi, VoLTE, and IMS: because I’m too Millennial to make a phone call](https://worthdoingbadly.com/vowifi/)
+- [Enlightenment Desktop Environment 0.25.0](https://www.enlightenment.org/news/2021-12-26-enlightenment-0.25.0)
 
-- [Rust and SPARK(Ada): Software Reliability for Everyone](https://www.electronicdesign.com/industrial-automation/article/21804924/rust-and-spark-software-reliability-for-everyone)
+- [Practical Markup Language (PML)](https://www.pml-lang.dev/index.html)
 
-- [Erlang -- global](https://www.erlang.org/doc/man/global.html)
+- [5 lessons learned when I TDD an algorithm in JavaScript](https://yonatankra.com/5-tdd-lessons-when-writing-javascript-algorithm/)
 
-- [What do you think of this type of “terminal based programming tutorial”?](https://www.gibney.org/from_debian_to_web_app)
-
-- [Useful old technologies: ASN.1](https://www.thanassis.space/asn1.html)
+- [[Pure C] Why memcpy/strcpy/strcat return a value?](https://yurichev.com/news/20211227_strcpy_etc/)
