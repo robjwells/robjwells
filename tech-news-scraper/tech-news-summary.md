@@ -1,43 +1,47 @@
-- [Lua: Good, bad, and ugly parts (2012)](http://notebook.kulchenko.com/programming/lua-good-different-bad-and-ugly-parts)
+- [Python Type Hints - How to Handle Optional Imports](https://adamj.eu/tech/2021/12/29/python-type-hints-optional-imports/)
 
-- [Maximalism and Virtualism](http://viznut.fi/texts-en/maximalism_virtualism.html)
+- [Sharing and Learning Alloy on the Web (2019)](https://arxiv.org/abs/1907.02275)
 
-- [Bypassing early 2000s copy protection for software preservation](https://blog.paavo.me/masa-copy-protection/)
+- [PGPainless 1.0.0 Released](https://blog.jabberhead.tk/2021/12/30/pgpainless-1-0-0-released/)
 
-- [DIY Email](https://computer.rip/2021-12-26-diy-mail.html)
+- [Consider SQLite](https://blog.wesleyac.com/posts/consider-sqlite)
 
-- [RPG Maker: History & Games](https://felipepepe.medium.com/the-history-of-rpg-maker-its-games-c93685f41ae6)
+- [You can't copy code with memcpy; code is more complicated than that](https://devblogs.microsoft.com/oldnewthing/20211229-00/?p=106061)
 
-- [What's the Future of IDEs?](https://giansegato.com/essays/what-future-ides/)
+- [Why is my Rust build so slow?](https://fasterthanli.me/articles/why-is-my-rust-build-so-slow)
 
-- [LISP Evaluator for FreeBASIC](https://github.com/jayrm/fb-lisp)
+- [Fortran-lang: 2021 in review](https://fortran-lang.org/newsletter/2021/12/29/Fortran-lang-2021-in-review/)
 
-- [Video Game Preservation](https://github.com/orgs/videogamepreservation/repositories)
+- [SQL language proposal: JOIN FOREIGN](https://gist.github.com/joelonsql/15b50b65ec343dce94db6249cfea8aaa)
 
-- [Preventing log4j with Capabilities](https://justinpombrio.net/2021/12/26/preventing-log4j-with-capabilities.html)
+- [A header-only Web Assembly assembler](https://github.com/bwasti/wasmblr)
 
-- [Analysis and reverse-engineering of the original Starlink router](https://olegkutkov.me/2021/12/25/analysis-and-reverse-engineering-of-the-original-starlink-router/)
+- [Emacs for You - A 72 line ~/.emacs to quickly set up vanilla Emacs for editing and programming](https://github.com/susam/emfy)
 
-- [Performance Anti-Patterns (2006)](https://queue.acm.org/detail.cfm?id=1117403)
+- [What's up with these 3-cent microcontrollers? (2019)](https://jaycarlson.net/2019/09/06/whats-up-with-these-3-cent-microcontrollers/)
 
-- [rC3 Fahrplan 2021](https://rc3.world/2021/public_fahrplan)
+- [Some sanity for C and C++ development on Windows](https://nullprogram.com/blog/2021/12/30/)
 
-- [rC3 NOWHERE Streaming](https://streaming.media.ccc.de/rc3)
+- [Do We Really Need A Link Step?](https://robert.ocallahan.org/2021/12/do-we-really-need-link-step.html)
 
-- [Regression with the C64](https://tensorthings.com/2021/12/27/regression-with-the-c64/)
+- [rust-analyzer in 2021](https://rust-analyzer.github.io//blog/2021/12/30/2021-recap.html)
 
-- [A Guide to Zsh Expansion with Examples](https://thevaluable.dev/zsh-expansion-guide-example/)
+- [On Emacs 28’ context menu and mouse-usage in general](https://ruzkuku.com/texts/emacs-mouse.html)
 
-- [You can now use 'pip' to install Tailwind CSS. Node.js is no longer required](https://timonweb.com/python/you-can-now-use-pip-to-install-tailwind-css-nodejs-is-no-longer-required/)
+- [Learn Python ASTs, by building your own linter](https://sadh.life/post/ast/)
 
-- [Windows 2000 Modernization Guide](https://w2k.phreaknet.org/guide)
+- [Apache SeaTunnel](https://seatunnel.apache.org/)
 
-- [Interface Hall of Shame [2000]](https://web.archive.org/web/20021017113918/www.iarchitect.com/shame.htm)
+- [Open source package urllib3 raised $15,000 in 2021](https://sethmlarson.dev/blog/2021-12-29/urllib3-raised-15k-in-2021)
 
-- [Enlightenment Desktop Environment 0.25.0](https://www.enlightenment.org/news/2021-12-26-enlightenment-0.25.0)
+- [What is an Operating System?](https://signalsandthreads.com/what-is-an-operating-system/)
 
-- [Practical Markup Language (PML)](https://www.pml-lang.dev/index.html)
+- [Why the C Language Will Never Stop You from Making Mistakes](https://thephd.dev/your-c-compiler-and-standard-library-will-not-help-you)
 
-- [5 lessons learned when I TDD an algorithm in JavaScript](https://yonatankra.com/5-tdd-lessons-when-writing-javascript-algorithm/)
+- [How to back up your Git repositories](https://threkk.medium.com/how-to-back-up-your-git-repositories-1298a4487a31)
 
-- [[Pure C] Why memcpy/strcpy/strcat return a value?](https://yurichev.com/news/20211227_strcpy_etc/)
+- [co_resource<T>: An RAII coroutine](https://vector-of-bool.github.io/2021/12/30/co_resource.html)
+
+- [PETSCII Robots released for the ZX Spectrum](https://virtuallyfun.com/wordpress/2021/12/30/petscii-robots-released-for-the-zx-spectrum/)
+
+- [New Malware Uses SSD Over-Provisioning to Bypass Security Measures](https://www.tomshardware.com/news/ssd-over-provisioning-vulnerability)
