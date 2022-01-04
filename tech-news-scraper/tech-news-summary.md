@@ -1,45 +1,45 @@
-- [Unicode Normalization Forms: When ö != ö](https://blog.opencore.ch/posts/unicode-normalization-forms/)
+- [Performance impact of java.lang.System.getProperty()](https://blog.fastthread.io/2021/10/06/performance-impact-of-java-lang-system-getproperty/)
 
-- [Consider SQLite](https://blog.wesleyac.com/posts/consider-sqlite)
+- [Fixing stutters in Papers Please on Linux](https://blog.jhm.dev/posts/papers-please/)
 
-- [My Setup for Self-Hosting Dozens of Web Applications + Services on a Single Server](https://cprimozic.net/blog/my-selfhosted-websites-architecture/)
+- [Hacking a VW Golf Power Steering ECU](https://blog.willemmelching.nl/carhacking/2022/01/02/vw-part1/)
 
-- [A Data-Centric Introduction to Computing](https://dcic-world.org/2021-08-21/index.html)
+- [Fixing the Unfixable: Story of a Google Cloud SSRF (2021)](https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-google-cloud-ssrf/)
 
-- [Parallelizing the Racket Web Server](https://defn.io/2021/12/30/parallel-racket-web-server/)
+- [Secret military telephone buttons](https://computer.rip/2022-01-01-secret-military-telephone-buttons.html)
 
-- [You can't copy code with memcpy; code is more complicated than that](https://devblogs.microsoft.com/oldnewthing/20211229-00/?p=106061)
+- [Pure CSS device fingerprinting](https://csstracking.dev)
 
-- [Why is my Rust build so slow?](https://fasterthanli.me/articles/why-is-my-rust-build-so-slow)
+- [Compiling a Go program into a native binary for Nintendo Switch](https://ebiten.org/blog/native_compiling_for_nintendo_switch.html)
 
-- [BTRFS on Alpine Linux](https://garrit.xyz/posts/2021-12-31-btrfs-on-alpine)
+- [Rule-Based Programming in Interactive Fiction](https://eblong.com/zarf/essays/rule-based-if/)
 
-- [Reusing C libraries: The Oberon+ cross-platform FFI language](https://github.com/rochus-keller/Oberon/releases/tag/FFI_MVP)
+- [Profiling linkers](https://fasterthanli.me/articles/profiling-linkers)
 
-- [2021 End-Of-Year Work Setup](https://jameslittle.me/blog/2021/2021-work-setup/)
+- [dura: You shouldn't ever lose your work if you're using Git](https://github.com/tkellogg/dura)
 
-- [The Tao of tmux (2017)](https://leanpub.com/the-tao-of-tmux/read)
+- [Best Paper Awards in Computer Science over the past 25 years](https://jeffhuang.com/best_paper_awards/)
 
-- [Update on Linux hibernation support when lockdown is enabled](https://mjg59.dreamwidth.org/58077.html)
+- [How programmers make sure that their software is correct](https://lemire.me/blog/2022/01/03/how-programmers-make-sure-that-their-software-is-correct/)
 
-- [Some sanity for C and C++ development on Windows](https://nullprogram.com/blog/2021/12/30/)
+- [The fast kernel headers tree](https://lwn.net/Articles/880175/)
 
-- [A new protocol and tool for PNG file attachments](https://nullprogram.com/blog/2021/12/31/)
+- [C90 SDK to build cross-platform desktop applications](https://nappgui.com/en/home/web/home.html)
 
-- [How a Single Line of Code Made a 24-core Server Slower Than a Laptop](https://pkolaczk.github.io/server-slower-than-a-laptop/)
+- [Optimizing the size of the Go binary](https://prog.world/optimizing-the-size-of-the-go-binary/)
 
-- [Do We Really Need A Link Step?](https://robert.ocallahan.org/2021/12/do-we-really-need-link-step.html)
+- [Long division](https://tavianator.com/2022/long_division.html)
 
-- [rust-analyzer in 2021](https://rust-analyzer.github.io//blog/2021/12/30/2021-recap.html)
+- [Development on Fedora Silverblue and Fedora Kinoite](https://tim.siosm.fr/blog/2021/12/10/fedora-kinoite-silverblue-dev-guide/)
 
-- [Learn Python ASTs, by building your own linter](https://sadh.life/post/ast/)
+- [Toolchains adventures - Q4 2021](https://www.cambus.net/toolchains-adventures-q4-2021/)
 
-- [How to back up your Git repositories](https://threkk.medium.com/how-to-back-up-your-git-repositories-1298a4487a31)
+- [Exploring Visual Basic 1.0 for MS-DOS](https://www.cloudwisp.com/exploring-visual-basic-1-0-for-ms-dos/)
 
-- [co_resource<T>: An RAII coroutine](https://vector-of-bool.github.io/2021/12/30/co_resource.html)
+- [The Amiga as “a computer built to last 50 years”](https://www.datagubbe.se/30yearcomp/)
 
-- [PETSCII Robots released for the ZX Spectrum](https://virtuallyfun.com/wordpress/2021/12/30/petscii-robots-released-for-the-zx-spectrum/)
+- [Why symbol visibility is good](https://www.technovelty.org/code/why-symbol-visibility-is-good.html)
 
-- [TinyNES: An open hardware NES using the original 6502-derived chips](https://www.crowdsupply.com/tall-dog-electronics/tinynes)
+- [Chuck Moore and Dutch Fig talk October 9, 2021](https://www.youtube.com/watch?v=xoyDNIcnpgc)
 
-- [Walkthrough of a complete 6502 application for the Commodore PET 6502](https://www.youtube.com/watch?v=CfbciNZvg0o)
+- [Analysis of the overhead of a minimal Zig program](https://zig.news/aransentin/analysis-of-the-overhead-of-a-minimal-zig-program-4lg0)
