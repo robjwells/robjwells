@@ -1,45 +1,49 @@
-- [Performance impact of java.lang.System.getProperty()](https://blog.fastthread.io/2021/10/06/performance-impact-of-java-lang-system-getproperty/)
+- [The ultimate SQLite extension set](https://antonz.org/sqlean/)
 
-- [Fixing stutters in Papers Please on Linux](https://blog.jhm.dev/posts/papers-please/)
+- [From design patterns to category theory](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/)
 
-- [Hacking a VW Golf Power Steering ECU](https://blog.willemmelching.nl/carhacking/2022/01/02/vw-part1/)
+- [Elixir and Machine Learning: Nx v0.1 released](https://dashbit.co/blog/elixir-and-machine-learning-nx-v0.1)
 
-- [Fixing the Unfixable: Story of a Google Cloud SSRF (2021)](https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-google-cloud-ssrf/)
+- [Analyzing large JSON files via partial JSON parsing](https://datastation.multiprocess.io/blog/2022-01-06-analyzing-large-json-files-via-partial-json-parsing.html)
 
-- [Secret military telephone buttons](https://computer.rip/2022-01-01-secret-military-telephone-buttons.html)
+- [Filling in some gaps in the story of Space Cadet Pinball on 64-bit Windows](https://devblogs.microsoft.com/oldnewthing/20220106-00/?p=106122)
 
-- [Pure CSS device fingerprinting](https://csstracking.dev)
+- [Ridiculously fast feature flags](https://engineering.backtrace.io/2021-12-19-bounded-dynamicism-with-cross-modifying-code/)
 
-- [Compiling a Go program into a native binary for Nintendo Switch](https://ebiten.org/blog/native_compiling_for_nintendo_switch.html)
+- [Silly usage of AWS EC2 IPv6 prefixes](https://github.com/aidansteele/ipv6-ghost-ship)
 
-- [Rule-Based Programming in Interactive Fiction](https://eblong.com/zarf/essays/rule-based-if/)
+- [Venus - OO Standard Library for Perl 5](https://github.com/cpanery/venus)
 
-- [Profiling linkers](https://fasterthanli.me/articles/profiling-linkers)
+- [BSoD to Watson: The Reliability Journey](https://hardcoresoftware.learningbyshipping.com/p/061-bsod-to-watson-the-reliability)
 
-- [dura: You shouldn't ever lose your work if you're using Git](https://github.com/tkellogg/dura)
+- [Why might you run your own DNS server?](https://jvns.ca/blog/2022/01/05/why-might-you-run-your-own-dns-server-/)
 
-- [Best Paper Awards in Computer Science over the past 25 years](https://jeffhuang.com/best_paper_awards/)
+- [Stochastic bisection support in Git](https://lore.kernel.org/all/20211118164940.8818-1-jack@suse.cz/T/)
 
-- [How programmers make sure that their software is correct](https://lemire.me/blog/2022/01/03/how-programmers-make-sure-that-their-software-is-correct/)
+- [Restricting SSH agent keys](https://lwn.net/SubscriberLink/880458/5c4147ec8a7ca8df/)
 
-- [The fast kernel headers tree](https://lwn.net/Articles/880175/)
+- [BugAlert.org Rapidly notify people of high-impact vulnerabilities](https://mattslifebytes.com/2022/01/04/bugalert-org/)
 
-- [C90 SDK to build cross-platform desktop applications](https://nappgui.com/en/home/web/home.html)
+- [Memory leaks: the forgotten side of web performance](https://nolanlawson.com/2022/01/05/memory-leaks-the-forgotten-side-of-web-performance/)
 
-- [Optimizing the size of the Go binary](https://prog.world/optimizing-the-size-of-the-go-binary/)
+- [How We Got the Generics We Have (2020)](https://openjdk.java.net/projects/valhalla/design-notes/in-defense-of-erasure)
 
-- [Long division](https://tavianator.com/2022/long_division.html)
+- [Determinism Bugs, Part Two, Kernel32.dll](https://randomascii.wordpress.com/2022/01/06/determinism-bugs-part-two/)
 
-- [Development on Fedora Silverblue and Fedora Kinoite](https://tim.siosm.fr/blog/2021/12/10/fedora-kinoite-silverblue-dev-guide/)
+- [Should you use Let’s Encrypt for internal hostnames?](https://shkspr.mobi/blog/2022/01/should-you-use-lets-encrypt-for-internal-hostnames/)
 
-- [Toolchains adventures - Q4 2021](https://www.cambus.net/toolchains-adventures-q4-2021/)
+- [Three Kinds of Polymorphism in Rust](https://www.brandons.me/blog/polymorphism-in-rust)
 
-- [Exploring Visual Basic 1.0 for MS-DOS](https://www.cloudwisp.com/exploring-visual-basic-1-0-for-ms-dos/)
+- [Inkval - Generating Static Sites with Pandoc and Bash](https://www.chunqiuyiyu.com/inkval/)
 
-- [The Amiga as “a computer built to last 50 years”](https://www.datagubbe.se/30yearcomp/)
+- [GNU Parallel's 20th birthday](https://www.gnu.org/software/parallel/20th-birthday.html)
 
-- [Why symbol visibility is good](https://www.technovelty.org/code/why-symbol-visibility-is-good.html)
+- [Zig Strings in 5 minutes](https://www.huy.rocks/everyday/01-04-2022-zig-strings-in-5-minutes)
 
-- [Chuck Moore and Dutch Fig talk October 9, 2021](https://www.youtube.com/watch?v=xoyDNIcnpgc)
+- [Introducing KDBindings](https://www.kdab.com/signals-slots-properties-bindings/)
 
-- [Analysis of the overhead of a minimal Zig program](https://zig.news/aransentin/analysis-of-the-overhead-of-a-minimal-zig-program-4lg0)
+- [Do You Speak the Lingo?](https://www.mistys-internet.website/blog/blog/2022/01/06/do-you-speak-the-lingo/)
+
+- [KiCad 6](https://www.revk.uk/2022/01/kicad-6.html)
+
+- [What you can learn by merely writing a programming language changelog](https://zverok.substack.com/p/what-you-can-learn-by-merely-writing)
