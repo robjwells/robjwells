@@ -1,49 +1,47 @@
-- [The ultimate SQLite extension set](https://antonz.org/sqlean/)
+- [Digital audio synthesizer in rust](https://0xc45.com/blog/digital-audio-synthesizer-in-rust/)
 
-- [From design patterns to category theory](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/)
+- [Flutter Failed To Solve the Biggest Challenge for Our Cross-Platform App](https://betterprogramming.pub/flutter-failed-to-solve-the-biggest-challenge-for-our-cross-platform-app-c551afa0ef18)
 
-- [Elixir and Machine Learning: Nx v0.1 released](https://dashbit.co/blog/elixir-and-machine-learning-nx-v0.1)
+- [Bevy 0.6 Released](https://bevyengine.org/news/bevy-0-6/)
 
-- [Analyzing large JSON files via partial JSON parsing](https://datastation.multiprocess.io/blog/2022-01-06-analyzing-large-json-files-via-partial-json-parsing.html)
+- [Horizon EDA 2.2 (Progress Report September - December 2021)](https://blog.horizon-eda.org/progress/2022/01/09/progress-2021-09-12.html)
 
-- [Filling in some gaps in the story of Space Cadet Pinball on 64-bit Windows](https://devblogs.microsoft.com/oldnewthing/20220106-00/?p=106122)
+- [Desired state systems](https://branislavjenco.github.io/desired-state-systems/)
 
-- [Ridiculously fast feature flags](https://engineering.backtrace.io/2021-12-19-bounded-dynamicism-with-cross-modifying-code/)
+- [Make the Internet Yours Again With an Instant Mesh Network](https://changelog.complete.org/archives/10319-make-the-internet-yours-again-with-an-instant-mesh-network)
 
-- [Silly usage of AWS EC2 IPv6 prefixes](https://github.com/aidansteele/ipv6-ghost-ship)
+- [Logging is a code smell](https://dave.autonoma.ca/blog/2022/01/08/logging-code-smell/)
 
-- [Venus - OO Standard Library for Perl 5](https://github.com/cpanery/venus)
+- [Why was Pinball removed from Windows Vista? (2012)](https://devblogs.microsoft.com/oldnewthing/20121218-00/?p=5803)
 
-- [BSoD to Watson: The Reliability Journey](https://hardcoresoftware.learningbyshipping.com/p/061-bsod-to-watson-the-reliability)
+- [Porting a Poker Hand Evaluator from C to Factor (2010)](https://elasticdog.com/2010/11/porting-a-poker-hand-evaluator-from-c-to-factor/)
 
-- [Why might you run your own DNS server?](https://jvns.ca/blog/2022/01/05/why-might-you-run-your-own-dns-server-/)
+- [Chemical Computing with Clojure](https://gigasquidsoftware.com/chemical-computing/index.html)
 
-- [Stochastic bisection support in Git](https://lore.kernel.org/all/20211118164940.8818-1-jack@suse.cz/T/)
+- [Google Apps Script for Gmail to filter and sort email from Gitlab](https://github.com/mattst88/gmail-gitlab-filtering)
 
-- [Restricting SSH agent keys](https://lwn.net/SubscriberLink/880458/5c4147ec8a7ca8df/)
+- [Pluton is not (currently) a threat to software freedom](https://mjg59.dreamwidth.org/58125.html)
 
-- [BugAlert.org Rapidly notify people of high-impact vulnerabilities](https://mattslifebytes.com/2022/01/04/bugalert-org/)
+- [My first impressions of web3](https://moxie.org/2022/01/07/web3-first-impressions.html)
 
-- [Memory leaks: the forgotten side of web performance](https://nolanlawson.com/2022/01/05/memory-leaks-the-forgotten-side-of-web-performance/)
+- [Towards a hybrid snapshot/patch version control system](https://pijul.org/posts/2022-01-07-compressed-sanakirja/)
 
-- [How We Got the Generics We Have (2020)](https://openjdk.java.net/projects/valhalla/design-notes/in-defense-of-erasure)
+- [Memory Management](https://signalsandthreads.com/memory-management/)
 
-- [Determinism Bugs, Part Two, Kernel32.dll](https://randomascii.wordpress.com/2022/01/06/determinism-bugs-part-two/)
+- [Lisp in Vim](https://susam.net/blog/lisp-in-vim.html)
 
-- [Should you use Let’s Encrypt for internal hostnames?](https://shkspr.mobi/blog/2022/01/should-you-use-lets-encrypt-for-internal-hostnames/)
+- [Simplicity of IRC](https://susam.net/maze/simplicity-of-irc.html)
 
-- [Three Kinds of Polymorphism in Rust](https://www.brandons.me/blog/polymorphism-in-rust)
+- [Where is every IP Address?](https://tech.marksblogg.com/where-are-ip-addresses-ipinfo.html)
 
-- [Inkval - Generating Static Sites with Pandoc and Bash](https://www.chunqiuyiyu.com/inkval/)
+- [Saving a Third of Our Memory by Re-ordering Go Struct Fields](https://wagslane.dev/posts/go-struct-ordering/)
 
-- [GNU Parallel's 20th birthday](https://www.gnu.org/software/parallel/20th-birthday.html)
+- [VoLTE/VoWiFi research with $0 of equipment: set up a phone network over Wi-Fi calling](https://worthdoingbadly.com/vowifi2/)
 
-- [Zig Strings in 5 minutes](https://www.huy.rocks/everyday/01-04-2022-zig-strings-in-5-minutes)
+- [Dev corrupts NPM libs 'colors' and 'faker' breaking thousands of apps](https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/)
 
-- [Introducing KDBindings](https://www.kdab.com/signals-slots-properties-bindings/)
+- [Why I Program in Erlang (2012)](https://www.evanmiller.org/why-i-program-in-erlang.html)
 
-- [Do You Speak the Lingo?](https://www.mistys-internet.website/blog/blog/2022/01/06/do-you-speak-the-lingo/)
+- [Introducing Kit Framework](https://yogthos.net/posts/2022-01-08-IntroducingKit.html)
 
-- [KiCad 6](https://www.revk.uk/2022/01/kicad-6.html)
-
-- [What you can learn by merely writing a programming language changelog](https://zverok.substack.com/p/what-you-can-learn-by-merely-writing)
+- [On Proebsting's Law](https://zeux.io/2022/01/08/on-proebstings-law/)
