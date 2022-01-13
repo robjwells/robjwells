@@ -1,47 +1,49 @@
-- [Digital audio synthesizer in rust](https://0xc45.com/blog/digital-audio-synthesizer-in-rust/)
+- [Why I use a debugger](http://blog.pnkfx.org/blog/2022/01/10/why-i-use-a-debugger/)
 
-- [Flutter Failed To Solve the Biggest Challenge for Our Cross-Platform App](https://betterprogramming.pub/flutter-failed-to-solve-the-biggest-challenge-for-our-cross-platform-app-c551afa0ef18)
+- [Rethinking errors, warnings, and lints](http://neugierig.org/software/blog/2022/01/rethinking-errors.html)
 
-- [Bevy 0.6 Released](https://bevyengine.org/news/bevy-0-6/)
+- [rwasa: a web server written entirely in assembly language](https://2ton.com.au/rwasa/)
 
-- [Horizon EDA 2.2 (Progress Report September - December 2021)](https://blog.horizon-eda.org/progress/2022/01/09/progress-2021-09-12.html)
+- [Why I Like D](https://aradaelli.com/blog/why-i-like-d/)
 
-- [Desired state systems](https://branislavjenco.github.io/desired-state-systems/)
+- [Intellivision development, back in the day](https://atariage.com/forums/applications/core/interface/file/attachment.php?id=904010)
 
-- [Make the Internet Yours Again With an Instant Mesh Network](https://changelog.complete.org/archives/10319-make-the-internet-yours-again-with-an-instant-mesh-network)
+- [The Optional Chaining Operator, “Modern” Browsers, and My Mom](https://blog.jim-nielsen.com/2022/a-web-for-all/)
 
-- [Logging is a code smell](https://dave.autonoma.ca/blog/2022/01/08/logging-code-smell/)
+- [Don’t mix URL parsers](https://daniel.haxx.se/blog/2022/01/10/dont-mix-url-parsers/)
 
-- [Why was Pinball removed from Windows Vista? (2012)](https://devblogs.microsoft.com/oldnewthing/20121218-00/?p=5803)
+- [Penny Codes](https://depth-first.com/articles/2022/01/12/penny-codes/)
 
-- [Porting a Poker Hand Evaluator from C to Factor (2010)](https://elasticdog.com/2010/11/porting-a-poker-hand-evaluator-from-c-to-factor/)
+- [Data-Oriented Programming is dope](https://dev.to/xba/data-oriented-programming-is-dope-ma2)
 
-- [Chemical Computing with Clojure](https://gigasquidsoftware.com/chemical-computing/index.html)
+- [Jumping into the middle of an instruction is not as strange as it sounds](https://devblogs.microsoft.com/oldnewthing/20220111-00/?p=106144)
 
-- [Google Apps Script for Gmail to filter and sort email from Gitlab](https://github.com/mattst88/gmail-gitlab-filtering)
+- [State of machine learning in Julia](https://discourse.julialang.org/t/state-of-machine-learning-in-julia/74385)
 
-- [Pluton is not (currently) a threat to software freedom](https://mjg59.dreamwidth.org/58125.html)
+- [Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3](https://dl.acm.org/doi/pdf/10.1145/3477132.3483540)
 
-- [My first impressions of web3](https://moxie.org/2022/01/07/web3-first-impressions.html)
+- [Consistency Sin](https://furbo.org/2022/01/11/consistency-sin/)
 
-- [Towards a hybrid snapshot/patch version control system](https://pijul.org/posts/2022-01-07-compressed-sanakirja/)
+- [mlibc: Portable C standard library](https://github.com/managarm/mlibc)
 
-- [Memory Management](https://signalsandthreads.com/memory-management/)
+- [v0.19 of Gleam, a type safe language for the Erlang VM, is out](https://gleam.run/news/gleam-v0.19-released/)
 
-- [Lisp in Vim](https://susam.net/blog/lisp-in-vim.html)
+- [Tracing & Logging with the `TRICE` Library](https://interrupt.memfault.com/blog/trice)
 
-- [Simplicity of IRC](https://susam.net/maze/simplicity-of-irc.html)
+- [Writing a Game Boy Emulator in OCaml](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
 
-- [Where is every IP Address?](https://tech.marksblogg.com/where-are-ip-addresses-ipinfo.html)
+- [I’m harvesting credit card numbers and passwords from your site. Here’s how (2018)](https://medium.com/hackernoon/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
 
-- [Saving a Third of Our Memory by Re-ordering Go Struct Fields](https://wagslane.dev/posts/go-struct-ordering/)
+- [5.5 mm in 1.25 nanoseconds](https://randomascii.wordpress.com/2022/01/12/5-5-mm-in-1-25-nanoseconds/)
 
-- [VoLTE/VoWiFi research with $0 of equipment: set up a phone network over Wi-Fi calling](https://worthdoingbadly.com/vowifi2/)
+- [Events, Event Sourcing, and the Path Forward](https://relistan.com/event-sourcing-and-event-bus)
 
-- [Dev corrupts NPM libs 'colors' and 'faker' breaking thousands of apps](https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/)
+- [Savile Row constraint modelling assistant](https://savilerow.cs.st-andrews.ac.uk/)
 
-- [Why I Program in Erlang (2012)](https://www.evanmiller.org/why-i-program-in-erlang.html)
+- [My process for building a feature](https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/)
 
-- [Introducing Kit Framework](https://yogthos.net/posts/2022-01-08-IntroducingKit.html)
+- [Use StrictHostKeyChecking="accept-new" instead of "no"](https://twitter.com/antonmedv/status/1480978991309807616)
 
-- [On Proebsting's Law](https://zeux.io/2022/01/08/on-proebstings-law/)
+- [How low can you go? Running Ubuntu Desktop on a 2GB Raspberry Pi 4](https://ubuntu.com/blog/how-low-can-you-go-running-ubuntu-desktop-on-a-2gb-raspberry-pi-4)
+
+- [WordPress to Wagtail CMS Migration Kit](https://wagtail.io/blog/wordpress-to-wagtail-migration-kit/)
