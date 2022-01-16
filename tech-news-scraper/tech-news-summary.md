@@ -1,49 +1,47 @@
-- [Why I use a debugger](http://blog.pnkfx.org/blog/2022/01/10/why-i-use-a-debugger/)
+- [Get that "client side render" look](http://hiccupfx.telnet.asia)
 
-- [Rethinking errors, warnings, and lints](http://neugierig.org/software/blog/2022/01/rethinking-errors.html)
+- [OWL Guide, early hypertext, and "replacing" the Web](http://oldvcr.blogspot.com/2022/01/prior-art-dept-owl-guide-early.html)
 
-- [rwasa: a web server written entirely in assembly language](https://2ton.com.au/rwasa/)
+- [Postel's law as a profunctor](https://blog.ploeh.dk/2021/11/29/postels-law-as-a-profunctor/)
 
-- [Why I Like D](https://aradaelli.com/blog/why-i-like-d/)
+- [There is no such thing as a static website](https://blog.wesleyac.com/posts/no-static-websites)
 
-- [Intellivision development, back in the day](https://atariage.com/forums/applications/core/interface/file/attachment.php?id=904010)
+- [Reeding List 2022-01-03: Model Categories](https://cofree.coffee/~totbwf/blog/reeding-list-01-03-22.html)
 
-- [The Optional Chaining Operator, “Modern” Browsers, and My Mom](https://blog.jim-nielsen.com/2022/a-web-for-all/)
+- [Are You Sure You Want to Use MMAP in Your Database Management System?](https://db.cs.cmu.edu/mmap-cidr2022/)
 
-- [Don’t mix URL parsers](https://daniel.haxx.se/blog/2022/01/10/dont-mix-url-parsers/)
+- [The λ-cube](https://en.wikiversity.org/wiki/Foundations_of_Functional_Programming/The_λ-cube)
 
-- [Penny Codes](https://depth-first.com/articles/2022/01/12/penny-codes/)
+- [Exploiting IndexedDB API information leaks in Safari 15](https://fingerprintjs.com/blog/indexeddb-api-browser-vulnerability-safari-15/)
 
-- [Data-Oriented Programming is dope](https://dev.to/xba/data-oriented-programming-is-dope-ma2)
+- [FFmpeg 5.0](https://github.com/FFmpeg/FFmpeg/blob/release/5.0/Changelog)
 
-- [Jumping into the middle of an instruction is not as strange as it sounds](https://devblogs.microsoft.com/oldnewthing/20220111-00/?p=106144)
+- [GitHub will natively support Mermaid diagrams](https://github.com/github/roadmap/issues/372)
 
-- [State of machine learning in Julia](https://discourse.julialang.org/t/state-of-machine-learning-in-julia/74385)
+- [Capability-Based Computer Systems (1984)](https://homes.cs.washington.edu/~levy/capabook/)
 
-- [Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3](https://dl.acm.org/doi/pdf/10.1145/3477132.3483540)
+- [AWS is Not a Dumb Pipe](https://matt-rickard.com/aws-is-not-a-dumb-pipe/)
 
-- [Consistency Sin](https://furbo.org/2022/01/11/consistency-sin/)
+- [What would it take to recreate dplyr in python?](https://mchow.com/posts/2020-02-11-dplyr-in-python/)
 
-- [mlibc: Portable C standard library](https://github.com/managarm/mlibc)
+- [My 2022 high-end Linux PC](https://michael.stapelberg.ch/posts/2022-01-15-high-end-linux-pc/)
 
-- [v0.19 of Gleam, a type safe language for the Erlang VM, is out](https://gleam.run/news/gleam-v0.19-released/)
+- [Teaching how to code is broken](https://neil.computer/notes/teaching-how-to-code-is-broken/)
 
-- [Tracing & Logging with the `TRICE` Library](https://interrupt.memfault.com/blog/trice)
+- [Reversing an integer hash function](https://taxicat1.github.io/hash6432shift_inversion.html)
 
-- [Writing a Game Boy Emulator in OCaml](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
+- [Using Rustlang's Async Tokio Runtime for CPU-Bound Tasks](https://thenewstack.io/using-rustlangs-async-tokio-runtime-for-cpu-bound-tasks/)
 
-- [I’m harvesting credit card numbers and passwords from your site. Here’s how (2018)](https://medium.com/hackernoon/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
+- [Is the madness ever going to end?](https://unixsheikh.com/articles/is-the-madness-ever-going-to-end.html)
 
-- [5.5 mm in 1.25 nanoseconds](https://randomascii.wordpress.com/2022/01/12/5-5-mm-in-1-25-nanoseconds/)
+- [Making Your Game Go Fast by Asking Windows Nicely](https://www.anthropicstudios.com/2022/01/13/asking-windows-nicely/)
 
-- [Events, Event Sourcing, and the Path Forward](https://relistan.com/event-sourcing-and-event-bus)
+- [V8 Heap pwn and /dev/memes: WebOS Root LPE](https://www.da.vidbuchanan.co.uk/blog/webos-wampage.html)
 
-- [Savile Row constraint modelling assistant](https://savilerow.cs.st-andrews.ac.uk/)
+- [How Bad Is QWERTY, Really? A Review of the Literature, such as It Is](https://www.erichgrunewald.com/posts/how-bad-is-qwerty-really-a-review-of-the-literature-such-as-it-is/)
 
-- [My process for building a feature](https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/)
+- [Build your own Anycast network in 9 steps (2016)](https://www.linkedin.com/pulse/build-your-own-anycast-network-9-steps-samir-jafferali)
 
-- [Use StrictHostKeyChecking="accept-new" instead of "no"](https://twitter.com/antonmedv/status/1480978991309807616)
+- [modularity in the age of antisocial Shell](https://www.t-ravis.com/post/shell/modularity_in_the_age_of_antisocial_shell/)
 
-- [How low can you go? Running Ubuntu Desktop on a 2GB Raspberry Pi 4](https://ubuntu.com/blog/how-low-can-you-go-running-ubuntu-desktop-on-a-2gb-raspberry-pi-4)
-
-- [WordPress to Wagtail CMS Migration Kit](https://wagtail.io/blog/wordpress-to-wagtail-migration-kit/)
+- [A History of Compiling Ruby](https://www.youtube.com/watch?v=Zg-1_7ed0hE)
