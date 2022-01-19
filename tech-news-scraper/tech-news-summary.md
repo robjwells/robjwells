@@ -1,47 +1,47 @@
-- [Get that "client side render" look](http://hiccupfx.telnet.asia)
+- [Examining the covidtests.gov architecture](https://adhoc.team/2022/01/18/covidtests-usps-aws-managed-services/)
 
-- [OWL Guide, early hypertext, and "replacing" the Web](http://oldvcr.blogspot.com/2022/01/prior-art-dept-owl-guide-early.html)
+- [Hello Mac OS X Tiger](https://bunn.dev/benchmark/2022/01/16/hello-tiger.html)
 
-- [Postel's law as a profunctor](https://blog.ploeh.dk/2021/11/29/postels-law-as-a-profunctor/)
+- [Cicada Language: a dependently typed language and an interactive theorem prover](https://cicada-lang.org/)
 
-- [There is no such thing as a static website](https://blog.wesleyac.com/posts/no-static-websites)
+- [GPS](https://ciechanow.ski/gps/)
 
-- [Reeding List 2022-01-03: Model Categories](https://cofree.coffee/~totbwf/blog/reeding-list-01-03-22.html)
+- [Dates, Times, Calendars— The Universal Source of Data Science Trauma](https://counting.substack.com/p/dates-times-calendars-the-universal-source-of-data-science-trauma-92a887fdedd1)
 
-- [Are You Sure You Want to Use MMAP in Your Database Management System?](https://db.cs.cmu.edu/mmap-cidr2022/)
+- [29-year-old Conway conjecture settled](https://cp4space.hatsya.com/2022/01/14/conway-conjecture-settled/)
 
-- [The λ-cube](https://en.wikiversity.org/wiki/Foundations_of_Functional_Programming/The_λ-cube)
+- [Advent of code 2021 under 1 second](https://geekingfrog.com/blog/post/advent-of-code-2021-1s)
 
-- [Exploiting IndexedDB API information leaks in Safari 15](https://fingerprintjs.com/blog/indexeddb-api-browser-vulnerability-safari-15/)
+- [Demodal: a browser extension that blocks modals and overlays](https://github.com/AliasIO/demodal)
 
-- [FFmpeg 5.0](https://github.com/FFmpeg/FFmpeg/blob/release/5.0/Changelog)
+- [A simple WASM maze generator in Go](https://github.com/deadpixi/wasm-maze-generator)
 
-- [GitHub will natively support Mermaid diagrams](https://github.com/github/roadmap/issues/372)
+- [A go-style coroutine library in C++11 from the Namake Planet](https://github.com/idealvin/cocoyaxi)
 
-- [Capability-Based Computer Systems (1984)](https://homes.cs.washington.edu/~levy/capabook/)
+- [Swift in Jupyterlab](https://github.com/liuliu/swift-jupyter)
 
-- [AWS is Not a Dumb Pipe](https://matt-rickard.com/aws-is-not-a-dumb-pipe/)
+- [SeeYouCM-Thief](https://github.com/trustedsec/SeeYouCM-Thief)
 
-- [What would it take to recreate dplyr in python?](https://mchow.com/posts/2020-02-11-dplyr-in-python/)
+- [Zooming in on Zero-click Exploits](https://googleprojectzero.blogspot.com/2022/01/zooming-in-on-zero-click-exploits.html)
 
-- [My 2022 high-end Linux PC](https://michael.stapelberg.ch/posts/2022-01-15-high-end-linux-pc/)
+- [Who Watches Watchmen? - Integrating Elixir applications with systemd](https://hauleth.dev/post/who-watches-watchmen-i/)
 
-- [Teaching how to code is broken](https://neil.computer/notes/teaching-how-to-code-is-broken/)
+- [Linguistic Relativity and the Tyranny of the Compiler](https://ingrids.space/posts/tyranny-of-the-compiler/)
 
-- [Reversing an integer hash function](https://taxicat1.github.io/hash6432shift_inversion.html)
+- [Optimized Matrix Multiplication in Pure WebAssembly](https://jott.live/markdown/mm_wasm)
 
-- [Using Rustlang's Async Tokio Runtime for CPU-Bound Tasks](https://thenewstack.io/using-rustlangs-async-tokio-runtime-for-cpu-bound-tasks/)
+- [Windows 11 boots with Coreboot](https://mobile.twitter.com/dwizzzlemsft/status/1483113004979814403)
 
-- [Is the madness ever going to end?](https://unixsheikh.com/articles/is-the-madness-ever-going-to-end.html)
+- [How I built my own Sega Mega Drive hardware dev kit from scratch](https://nestenius.se/2022/01/18/how-i-built-my-own-sega-mega-drive-hardware-dev-kit-from-scratch/)
 
-- [Making Your Game Go Fast by Asking Windows Nicely](https://www.anthropicstudios.com/2022/01/13/asking-windows-nicely/)
+- [Smart contracts without blockchains](https://paulfrazee.medium.com/smart-contracts-without-blockchains-fc54603df754)
 
-- [V8 Heap pwn and /dev/memes: WebOS Root LPE](https://www.da.vidbuchanan.co.uk/blog/webos-wampage.html)
+- [Holistic Configuration Management at Facebook](https://research.facebook.com/publications/holistic-configuration-management-at-facebook/)
 
-- [How Bad Is QWERTY, Really? A Review of the Literature, such as It Is](https://www.erichgrunewald.com/posts/how-bad-is-qwerty-really-a-review-of-the-literature-such-as-it-is/)
+- [Datasette 0.60: The annotated release notes](https://simonwillison.net/2022/Jan/14/datasette-060/)
 
-- [Build your own Anycast network in 9 steps (2016)](https://www.linkedin.com/pulse/build-your-own-anycast-network-9-steps-samir-jafferali)
+- [Failing to Learn Zig via Advent of Code](https://www.forrestthewoods.com/blog/failing-to-learn-zig-via-advent-of-code/)
 
-- [modularity in the age of antisocial Shell](https://www.t-ravis.com/post/shell/modularity_in_the_age_of_antisocial_shell/)
+- [Happy 10th Birthday, Sidekiq](https://www.mikeperham.com/2022/01/17/happy-10th-birthday-sidekiq/)
 
-- [A History of Compiling Ruby](https://www.youtube.com/watch?v=Zg-1_7ed0hE)
+- [CPUs Could Use 85 Percent Fewer Transistors With New Adaptive Tech](https://www.tomshardware.com/news/researchers-develop-intelligent-transistors-uses-85-percent-fewer-transistors)
