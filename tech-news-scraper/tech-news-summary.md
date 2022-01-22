@@ -1,47 +1,47 @@
-- [Examining the covidtests.gov architecture](https://adhoc.team/2022/01/18/covidtests-usps-aws-managed-services/)
+- [How ISO C became unusable for operating systems development](https://arxiv.org/abs/2201.07845)
 
-- [Hello Mac OS X Tiger](https://bunn.dev/benchmark/2022/01/16/hello-tiger.html)
+- [Formal modeling as a design tool](https://asim.ihsan.io/formal-modeling-as-a-design-tool/)
 
-- [Cicada Language: a dependently typed language and an interactive theorem prover](https://cicada-lang.org/)
+- [IP addressing in 2021](https://blog.apnic.net/2022/01/19/ip-addressing-in-2021/)
 
-- [GPS](https://ciechanow.ski/gps/)
+- [DynamoDB's Best Feature: Predictability](https://brooker.co.za/blog/2022/01/19/predictability.html)
 
-- [Dates, Times, Calendars— The Universal Source of Data Science Trauma](https://counting.substack.com/p/dates-times-calendars-the-universal-source-of-data-science-trauma-92a887fdedd1)
+- [ldd arbitrary code execution](https://catonmat.net/ldd-arbitrary-code-execution)
 
-- [29-year-old Conway conjecture settled](https://cp4space.hatsya.com/2022/01/14/conway-conjecture-settled/)
+- [Curl: JSON support](https://curl.se/mail/archive-2022-01/0043.html)
 
-- [Advent of code 2021 under 1 second](https://geekingfrog.com/blog/post/advent-of-code-2021-1s)
+- [CryptoLyzer: A comprehensive cryptographic settings analyzer](https://dev.to/coroner/cryptolyzer-a-comprehensive-cryptographic-settings-analyzer-4l0c)
 
-- [Demodal: a browser extension that blocks modals and overlays](https://github.com/AliasIO/demodal)
+- [#[you_can::turn_off_the_borrow_checker]](https://docs.rs/you-can/latest/you_can/attr.turn_off_the_borrow_checker.html)
 
-- [A simple WASM maze generator in Go](https://github.com/deadpixi/wasm-maze-generator)
+- [Development and Proxies](https://f5n.org/blog/2022/development-and-proxies/)
 
-- [A go-style coroutine library in C++11 from the Namake Planet](https://github.com/idealvin/cocoyaxi)
+- [Datalisp Technical Report](https://gateway.pinata.cloud/ipfs/QmeVYAP75GAvY8Q8iSfMoWMGgTPjvRh2xcM7Zb6qEop2VZ?preview=1)
 
-- [Swift in Jupyterlab](https://github.com/liuliu/swift-jupyter)
+- [Terminal basics](https://geekingfrog.com/blog/post/terminal-basics)
 
-- [SeeYouCM-Thief](https://github.com/trustedsec/SeeYouCM-Thief)
+- [An Elixir implementation of the CONREC algorithm for topographic or isochrone maps](https://github.com/NAISorg/conrex)
 
-- [Zooming in on Zero-click Exploits](https://googleprojectzero.blogspot.com/2022/01/zooming-in-on-zero-click-exploits.html)
+- [SmoothWAN: Easily bond internet connections for home networks with Speedify](https://github.com/TalalMash/SmoothWAN)
 
-- [Who Watches Watchmen? - Integrating Elixir applications with systemd](https://hauleth.dev/post/who-watches-watchmen-i/)
+- [zsh-autoquoter](https://github.com/ianthehenry/zsh-autoquoter)
 
-- [Linguistic Relativity and the Tyranny of the Compiler](https://ingrids.space/posts/tyranny-of-the-compiler/)
+- [The case for a modern language (part 1)](https://jeang3nie.codeberg.page/case-for-modern-language-pt1/)
 
-- [Optimized Matrix Multiplication in Pure WebAssembly](https://jott.live/markdown/mm_wasm)
+- [How to efficiently load data to memory](https://jorgecarleitao.medium.com/how-to-efficiently-load-data-to-memory-d65ee359196c)
 
-- [Windows 11 boots with Coreboot](https://mobile.twitter.com/dwizzzlemsft/status/1483113004979814403)
+- [Two Phase Commit](https://martinfowler.com/articles/patterns-of-distributed-systems/two-phase-commit.html)
 
-- [How I built my own Sega Mega Drive hardware dev kit from scratch](https://nestenius.se/2022/01/18/how-i-built-my-own-sega-mega-drive-hardware-dev-kit-from-scratch/)
+- [New edition of Structure and Interpretation of Computer Programs, it is a JS version](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-1)
 
-- [Smart contracts without blockchains](https://paulfrazee.medium.com/smart-contracts-without-blockchains-fc54603df754)
+- [The best free, open-source supply-chain security tool? The lockfile](https://r2c.dev/blog/2022/the-best-free-open-source-supply-chain-tool-the-lockfile/)
 
-- [Holistic Configuration Management at Facebook](https://research.facebook.com/publications/holistic-configuration-management-at-facebook/)
+- [MIT for Noncommercial is Broken](https://writing.kemitchell.com/2022/01/21/MIT-for-Noncommercial.html)
 
-- [Datasette 0.60: The annotated release notes](https://simonwillison.net/2022/Jan/14/datasette-060/)
+- [The Single Return Law](https://www.anthonysteele.co.uk/TheSingleReturnLaw.html)
 
-- [Failing to Learn Zig via Advent of Code](https://www.forrestthewoods.com/blog/failing-to-learn-zig-via-advent-of-code/)
+- [Crystal installs OpenBSD on the Pinephone](https://www.exoticsilicon.com/crystal/pinephone_openbsd)
 
-- [Happy 10th Birthday, Sidekiq](https://www.mikeperham.com/2022/01/17/happy-10th-birthday-sidekiq/)
+- [Another Myth Busted](https://www.os2museum.com/wp/another-myth-busted/)
 
-- [CPUs Could Use 85 Percent Fewer Transistors With New Adaptive Tech](https://www.tomshardware.com/news/researchers-develop-intelligent-transistors-uses-85-percent-fewer-transistors)
+- [The Sea of Nodes and the HotSpot JIT (2020)](https://www.youtube.com/watch?v=9epgZ-e6DUU)
