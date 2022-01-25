@@ -1,47 +1,47 @@
-- [How ISO C became unusable for operating systems development](https://arxiv.org/abs/2201.07845)
+- [Why we're migrating (many of) our servers from Linux to FreeBSD](http://it-notes.dragas.net/2022/01/24/why-were-migrating-many-of-our-servers-from-linux-to-freebsd/)
 
-- [Formal modeling as a design tool](https://asim.ihsan.io/formal-modeling-as-a-design-tool/)
+- [Silicon die teardown: a look inside an early 555 timer chip](http://www.righto.com/2022/01/silicon-die-teardown-look-inside-early.html)
 
-- [IP addressing in 2021](https://blog.apnic.net/2022/01/19/ip-addressing-in-2021/)
+- [the FSF’s relationship with firmware is harmful to free software users](https://ariadne.space/2022/01/22/the-fsfs-relationship-with-firmware-is-harmful-to-free-software-users/)
 
-- [DynamoDB's Best Feature: Predictability](https://brooker.co.za/blog/2022/01/19/predictability.html)
+- [The truth about starting with microservices](https://arnoldgalovics.com/truth-about-microservices/)
 
-- [ldd arbitrary code execution](https://catonmat.net/ldd-arbitrary-code-execution)
+- [The Curse of NixOS](https://blog.wesleyac.com/posts/the-curse-of-nixos)
 
-- [Curl: JSON support](https://curl.se/mail/archive-2022-01/0043.html)
+- [BOB Conference 2022](https://bobkonf.de/2022)
 
-- [CryptoLyzer: A comprehensive cryptographic settings analyzer](https://dev.to/coroner/cryptolyzer-a-comprehensive-cryptographic-settings-analyzer-4l0c)
+- [This Post Was Written by GitHub Copilot](https://flower.codes/2021/07/08/this-post-was-written-by-github-copilot)
 
-- [#[you_can::turn_off_the_borrow_checker]](https://docs.rs/you-can/latest/you_can/attr.turn_off_the_borrow_checker.html)
+- [Destroy All Values: Designing Deinitialization in Programming Languages](https://gankra.github.io/blah/deinitialize-me-maybe/)
 
-- [Development and Proxies](https://f5n.org/blog/2022/development-and-proxies/)
+- [Compressed debug sections](https://maskray.me/blog/2022-01-23-compressed-debug-sections)
 
-- [Datalisp Technical Report](https://gateway.pinata.cloud/ipfs/QmeVYAP75GAvY8Q8iSfMoWMGgTPjvRh2xcM7Zb6qEop2VZ?preview=1)
+- [Bash Guide](https://mywiki.wooledge.org/BashGuide)
 
-- [Terminal basics](https://geekingfrog.com/blog/post/terminal-basics)
+- [Fixing Performance Regressions Before they Happen](https://netflixtechblog.com/fixing-performance-regressions-before-they-happen-eab2602b86fe)
 
-- [An Elixir implementation of the CONREC algorithm for topographic or isochrone maps](https://github.com/NAISorg/conrex)
+- [Bootloader basics](https://notes.eatonphil.com/bootloader-basics.html)
 
-- [SmoothWAN: Easily bond internet connections for home networks with Speedify](https://github.com/TalalMash/SmoothWAN)
+- [const all the things?](https://quuxplusone.github.io/blog/2022/01/23/dont-const-all-the-things/)
 
-- [zsh-autoquoter](https://github.com/ianthehenry/zsh-autoquoter)
+- [Rain's Rust CLI recommendations](https://rust-cli-recommendations.sunshowers.io/)
 
-- [The case for a modern language (part 1)](https://jeang3nie.codeberg.page/case-for-modern-language-pt1/)
+- [Strict Python function parameters](https://sethmlarson.dev/blog/strict-python-function-parameters)
 
-- [How to efficiently load data to memory](https://jorgecarleitao.medium.com/how-to-efficiently-load-data-to-memory-d65ee359196c)
+- [Update on the Bagel Language](https://www.brandons.me/blog/bagel-bites)
 
-- [Two Phase Commit](https://martinfowler.com/articles/patterns-of-distributed-systems/two-phase-commit.html)
+- [Running Puma in AWS](https://www.godaddy.com/engineering/2022/01/10/running-puma-in-aws/)
 
-- [New edition of Structure and Interpretation of Computer Programs, it is a JS version](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-1)
+- [GORILLA.BAS: How to Play the Secret MS-DOS Game From Your Childhood](https://www.howtogeek.com/779956/gorilla.bas-how-to-play-the-secret-ms-dos-game-from-your-childhood/)
 
-- [The best free, open-source supply-chain security tool? The lockfile](https://r2c.dev/blog/2022/the-best-free-open-source-supply-chain-tool-the-lockfile/)
+- [Modern Bash Scripting](https://www.mulle-kybernetik.com/modern-bash-scripting/)
 
-- [MIT for Noncommercial is Broken](https://writing.kemitchell.com/2022/01/21/MIT-for-Noncommercial.html)
+- [Passing Passwords (2015)](https://www.netmeister.org/blog/passing-passwords.html)
 
-- [The Single Return Law](https://www.anthonysteele.co.uk/TheSingleReturnLaw.html)
+- [LVFS Exploring Alternate, Open-Source Firmware For Capable End-Of-Life Devices](https://www.phoronix.com/scan.php?page=news_item&px=LVFS-Alternative-Firmware)
 
-- [Crystal installs OpenBSD on the Pinephone](https://www.exoticsilicon.com/crystal/pinephone_openbsd)
+- [How I Got Pwned by My Cloud Costs](https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/)
 
-- [Another Myth Busted](https://www.os2museum.com/wp/another-myth-busted/)
+- [The Unreasonable Effectiveness of JPEG: A Signal Processing Approach](https://www.youtube.com/watch?v=0me3guauqOU)
 
-- [The Sea of Nodes and the HotSpot JIT (2020)](https://www.youtube.com/watch?v=9epgZ-e6DUU)
+- ["A Political History of X" - Keith Packard (LCA 2020)](https://www.youtube.com/watch?v=cj02_UeUnGQ)
