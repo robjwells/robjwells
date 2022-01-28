@@ -1,47 +1,49 @@
-- [Why we're migrating (many of) our servers from Linux to FreeBSD](http://it-notes.dragas.net/2022/01/24/why-were-migrating-many-of-our-servers-from-linux-to-freebsd/)
+- [A Minimum Viable Computer, or Linux for $15](https://bbenchoff.github.io/pages/LinuxDevice.html)
 
-- [Silicon die teardown: a look inside an early 555 timer chip](http://www.righto.com/2022/01/silicon-die-teardown-look-inside-early.html)
+- [LTO Tape data storage for Linux nerds](https://blog.benjojo.co.uk/post/lto-tape-backups-for-linux-nerds)
 
-- [the FSF’s relationship with firmware is harmful to free software users](https://ariadne.space/2022/01/22/the-fsfs-relationship-with-firmware-is-harmful-to-free-software-users/)
+- [Magic-trace: Diagnosing tricky performance issues easily with Intel Processor Trace](https://blog.janestreet.com/magic-trace/)
 
-- [The truth about starting with microservices](https://arnoldgalovics.com/truth-about-microservices/)
+- [Two reasons Kubernetes is so complex](https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex/)
 
-- [The Curse of NixOS](https://blog.wesleyac.com/posts/the-curse-of-nixos)
+- [Prefer to change the code rather than write a workaround](https://catern.com/change_code.html)
 
-- [BOB Conference 2022](https://bobkonf.de/2022)
+- [Hidden Secrets to Making a New Microservices Cluster a Success](https://christine.website/blog/make-microservices-cluster-2022-01-27)
 
-- [This Post Was Written by GitHub Copilot](https://flower.codes/2021/07/08/this-post-was-written-by-github-copilot)
+- [Cubical 1lab: A formalised, cross-linked reference resource for mathematics done in HoTT](https://cubical.1lab.dev)
 
-- [Destroy All Values: Designing Deinitialization in Programming Languages](https://gankra.github.io/blah/deinitialize-me-maybe/)
+- [The Strength of the Record](https://docs.xtdb.com/concepts/strength-of-the-record/)
 
-- [Compressed debug sections](https://maskray.me/blog/2022-01-23-compressed-debug-sections)
+- [ichiban/prolog - The only reasonable scripting engine for Go](https://github.com/ichiban/prolog)
 
-- [Bash Guide](https://mywiki.wooledge.org/BashGuide)
+- [Release of Rancher Desktop (desktop Kubernetes) 1.0.0](https://github.com/rancher-sandbox/rancher-desktop/releases/tag/v1.0.0)
 
-- [Fixing Performance Regressions Before they Happen](https://netflixtechblog.com/fixing-performance-regressions-before-they-happen-eab2602b86fe)
+- [Brian Kernighan on the origins of Unix [LWN.net]](https://lwn.net/Articles/881431/)
 
-- [Bootloader basics](https://notes.eatonphil.com/bootloader-basics.html)
+- [I found an unpatched Xerox vulnerability that lets anyone remotely brick networked printers](https://neosmart.net/blog/2022/xerox-vulnerability-allows-unauthenticated-network-users-to-remotely-brick-printers/)
 
-- [const all the things?](https://quuxplusone.github.io/blog/2022/01/23/dont-const-all-the-things/)
+- [Lightweight Linting with Tree-sitter](https://peppe.rs/posts/lightweight_linting)
 
-- [Rain's Rust CLI recommendations](https://rust-cli-recommendations.sunshowers.io/)
+- [The Controversy Surrounding Hybrid Cryptography](https://soatok.blog/2022/01/27/the-controversy-surrounding-hybrid-cryptography/)
 
-- [Strict Python function parameters](https://sethmlarson.dev/blog/strict-python-function-parameters)
+- [Rust Futures and Tasks](https://swatinem.de/blog/futures-n-tasks/)
 
-- [Update on the Bagel Language](https://www.brandons.me/blog/bagel-bites)
+- [The complete guide to (external) Domain Specific Languages](https://tomassetti.me/domain-specific-languages/)
 
-- [Running Puma in AWS](https://www.godaddy.com/engineering/2022/01/10/running-puma-in-aws/)
+- [Big Time Public License 2.0.0](https://writing.kemitchell.com/2022/01/26/Big-Time-2.0.0.html)
 
-- [GORILLA.BAS: How to Play the Secret MS-DOS Game From Your Childhood](https://www.howtogeek.com/779956/gorilla.bas-how-to-play-the-secret-ms-dos-game-from-your-childhood/)
+- [Dialyzer, or how I learned to stop worrying and love the cryptic error messages](https://www.alanvardy.com/post/dialyzer-stop-worrying)
 
-- [Modern Bash Scripting](https://www.mulle-kybernetik.com/modern-bash-scripting/)
+- [I Always Design The Database Schema First, Then The ColdFusion Code](https://www.bennadel.com/blog/4191-i-always-design-the-database-schema-first-then-the-coldfusion-code.htm)
 
-- [Passing Passwords (2015)](https://www.netmeister.org/blog/passing-passwords.html)
+- [Writing an open source GPU driver – without the hardware](https://www.collabora.com/news-and-blog/blog/2022/01/27/writing-an-open-source-gpu-driver-without-the-hardware/)
 
-- [LVFS Exploring Alternate, Open-Source Firmware For Capable End-Of-Life Devices](https://www.phoronix.com/scan.php?page=news_item&px=LVFS-Alternative-Firmware)
+- [Making the web better. With blocks](https://www.joelonsoftware.com/2022/01/27/making-the-web-better-with-blocks/)
 
-- [How I Got Pwned by My Cloud Costs](https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/)
+- [Rebuttal & Addendum to "Build a minimal feature flags manager in under an hour"](https://www.johnnunemaker.com/hourly-feature-flags/)
 
-- [The Unreasonable Effectiveness of JPEG: A Signal Processing Approach](https://www.youtube.com/watch?v=0me3guauqOU)
+- [Searching for Susy Thunder](https://www.theverge.com/c/22889425/searching-for-susy-thunder)
 
-- ["A Political History of X" - Keith Packard (LCA 2020)](https://www.youtube.com/watch?v=cj02_UeUnGQ)
+- [How I hacked a hardware crypto wallet and recovered $2 million](https://www.youtube.com/watch?v=dT9y-KQbqi4)
+
+- [Wikipedia and irregular data: how much can you fetch in one expression?](https://zverok.substack.com/p/wikipedia-and-irregular-data-how)
