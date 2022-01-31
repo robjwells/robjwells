@@ -1,49 +1,49 @@
-- [A Minimum Viable Computer, or Linux for $15](https://bbenchoff.github.io/pages/LinuxDevice.html)
+- [Femto OS](http://www.femtoos.org/)
 
-- [LTO Tape data storage for Linux nerds](https://blog.benjojo.co.uk/post/lto-tape-backups-for-linux-nerds)
+- [CVE-2021-4034](https://ariadne.space/2022/01/27/cve-2021-4034/)
 
-- [Magic-trace: Diagnosing tricky performance issues easily with Intel Processor Trace](https://blog.janestreet.com/magic-trace/)
+- [Rust has a small standard library (and that's ok)](https://blog.nindalf.com/posts/rust-stdlib/)
 
-- [Two reasons Kubernetes is so complex](https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex/)
+- [A Base64 Surprise](https://cendyne.dev/posts/2022-01-23-base64.html)
 
-- [Prefer to change the code rather than write a workaround](https://catern.com/change_code.html)
+- [The Smart Modem](https://computer.rip/2022-01-24-the-smart-modem.html)
 
-- [Hidden Secrets to Making a New Microservices Cluster a Success](https://christine.website/blog/make-microservices-cluster-2022-01-27)
+- [Rust extension traits, greppability and IDEs](https://eli.thegreenplace.net/2022/rust-extension-traits-greppability-and-ides/)
 
-- [Cubical 1lab: A formalised, cross-linked reference resource for mathematics done in HoTT](https://cubical.1lab.dev)
+- [Recovering Nintendo's Lost SimCity for the NES (2018)](https://gamehistory.org/simcity/)
 
-- [The Strength of the Record](https://docs.xtdb.com/concepts/strength-of-the-record/)
+- [1History: All your history in one file](https://github.com/1History/1History)
 
-- [ichiban/prolog - The only reasonable scripting engine for Go](https://github.com/ichiban/prolog)
+- [Live full and incremental backups of standalone Qemu virtual machines](https://github.com/abbbi/qmpbackup)
 
-- [Release of Rancher Desktop (desktop Kubernetes) 1.0.0](https://github.com/rancher-sandbox/rancher-desktop/releases/tag/v1.0.0)
+- [doom-emacs: An Emacs framework](https://github.com/hlissner/doom-emacs)
 
-- [Brian Kernighan on the origins of Unix [LWN.net]](https://lwn.net/Articles/881431/)
+- [Release 22.1.0 · psf/black](https://github.com/psf/black/releases/tag/22.1.0)
 
-- [I found an unpatched Xerox vulnerability that lets anyone remotely brick networked printers](https://neosmart.net/blog/2022/xerox-vulnerability-allows-unauthenticated-network-users-to-remotely-brick-printers/)
+- [You want HOW MANY years experience?](https://howoldisit.glitch.me/)
 
-- [Lightweight Linting with Tree-sitter](https://peppe.rs/posts/lightweight_linting)
+- [Reasons for servers to support IPv6](https://jvns.ca/blog/2022/01/29/reasons-for-servers-to-support-ipv6/)
 
-- [The Controversy Surrounding Hybrid Cryptography](https://soatok.blog/2022/01/27/the-controversy-surrounding-hybrid-cryptography/)
+- [Debug packages for Arch Linux](https://lists.archlinux.org/pipermail/arch-dev-public/2022-January/030670.html)
 
-- [Rust Futures and Tasks](https://swatinem.de/blog/futures-n-tasks/)
+- [Uninitialized Memory: Unsafe Rust is Too Hard](https://lucumr.pocoo.org/2022/1/30/unsafe-rust/)
 
-- [The complete guide to (external) Domain Specific Languages](https://tomassetti.me/domain-specific-languages/)
+- [Megaparsec tutorial](https://markkarpov.com/tutorial/megaparsec.html)
 
-- [Big Time Public License 2.0.0](https://writing.kemitchell.com/2022/01/26/Big-Time-2.0.0.html)
+- [An Overview of Docker Desktop Alternatives](https://matt-rickard.com/docker-desktop-alternatives/)
 
-- [Dialyzer, or how I learned to stop worrying and love the cryptic error messages](https://www.alanvardy.com/post/dialyzer-stop-worrying)
+- [Beneath Apple ProDOS (1985)](https://mirrors.apple2.org.za/Apple%20II%20Documentation%20Project/Books/Beneath%20Apple%20ProDOS.pdf)
 
-- [I Always Design The Database Schema First, Then The ColdFusion Code](https://www.bennadel.com/blog/4191-i-always-design-the-database-schema-first-then-the-coldfusion-code.htm)
+- [sendxmpp as a replacement for mail(1)](https://momi.ca/posts/2020-08-28-sendxmpp.html)
 
-- [Writing an open source GPU driver – without the hardware](https://www.collabora.com/news-and-blog/blog/2022/01/27/writing-an-open-source-gpu-driver-without-the-hardware/)
+- [An update on rust/coreutils](https://sylvestre.ledru.info/blog/2022/01/29/an-update-on-rust-coreutils)
 
-- [Making the web better. With blocks](https://www.joelonsoftware.com/2022/01/27/making-the-web-better-with-blocks/)
+- [Technical Time Travel: On Vintage Programming Books](https://tiemoko.com/blog/vintage-tech-books/)
 
-- [Rebuttal & Addendum to "Build a minimal feature flags manager in under an hour"](https://www.johnnunemaker.com/hourly-feature-flags/)
+- [How FreeDOS Grew Up and Became a Modern DOS](https://www.cloudsavvyit.com/12250/how-freedos-grew-up-and-became-a-modern-dos/)
 
-- [Searching for Susy Thunder](https://www.theverge.com/c/22889425/searching-for-susy-thunder)
+- [A Database Query Language — HTSQL](https://www.htsql.org/)
 
-- [How I hacked a hardware crypto wallet and recovered $2 million](https://www.youtube.com/watch?v=dT9y-KQbqi4)
+- [Oil January Release Notes and Themes](https://www.oilshell.org/blog/2022/01/notes-themes.html)
 
-- [Wikipedia and irregular data: how much can you fetch in one expression?](https://zverok.substack.com/p/wikipedia-and-irregular-data-how)
+- [How to Calculate the Energy Consumption of a Mac](https://www.rdegges.com/2022/how-to-calculate-the-energy-consumption-of-a-mac/)
