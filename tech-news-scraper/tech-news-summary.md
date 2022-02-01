@@ -1,49 +1,47 @@
-- [Femto OS](http://www.femtoos.org/)
+- [Against division of labor in software](http://akkartik.name/post/division-of-labor)
 
-- [CVE-2021-4034](https://ariadne.space/2022/01/27/cve-2021-4034/)
+- [Tools for Thought (2016)](https://acko.net/files/gltalks/toolsforthought/)
 
 - [Rust has a small standard library (and that's ok)](https://blog.nindalf.com/posts/rust-stdlib/)
 
-- [A Base64 Surprise](https://cendyne.dev/posts/2022-01-23-base64.html)
+- [10 Unknown Security Pitfalls for Python](https://blog.sonarsource.com/10-unknown-security-pitfalls-for-python)
 
-- [The Smart Modem](https://computer.rip/2022-01-24-the-smart-modem.html)
+- [Software Deployment, Speed, and Safety](https://brooker.co.za/blog/2022/01/31/deployments.html)
 
-- [Rust extension traits, greppability and IDEs](https://eli.thegreenplace.net/2022/rust-extension-traits-greppability-and-ides/)
+- [Regexes are Cool and Good](https://buttondown.email/hillelwayne/archive/regexes-are-cool-and-good/)
 
-- [Recovering Nintendo's Lost SimCity for the NES (2018)](https://gamehistory.org/simcity/)
+- [Why I am Learning Haskell](https://chester-beard.medium.com/why-i-am-learning-haskell-d95d1e5212f3)
 
-- [1History: All your history in one file](https://github.com/1History/1History)
+- [Derw, a friendly ML-like language for the web, status: January 2022, part 2](https://derw.substack.com/p/derw-a-friendly-ml-like-language)
 
-- [Live full and incremental backups of standalone Qemu virtual machines](https://github.com/abbbi/qmpbackup)
+- [A Comprehensive Guide to Slicing in Python](https://dev.to/bascodes/a-comprehensive-guide-to-slicing-in-python-mko)
+
+- [ccls: a C/C++/Objective-C language server](https://github.com/MaskRay/ccls)
 
 - [doom-emacs: An Emacs framework](https://github.com/hlissner/doom-emacs)
 
-- [Release 22.1.0 · psf/black](https://github.com/psf/black/releases/tag/22.1.0)
+- [LispE: Description of Functions, Operators and Libraries](https://github.com/naver/lispe/wiki/5.-Description-of-Functions,-Operators-and-Libraries)
 
-- [You want HOW MANY years experience?](https://howoldisit.glitch.me/)
+- [HardenedBSD January 2022 Status Report](https://hardenedbsd.org/article/shawn-webb/2022-01-30/hardenedbsd-january-2022-status-report)
 
-- [Reasons for servers to support IPv6](https://jvns.ca/blog/2022/01/29/reasons-for-servers-to-support-ipv6/)
+- [AOSC OS/Retro: A Linux Distro for 486 & PPC Macs](https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486)
 
-- [Debug packages for Arch Linux](https://lists.archlinux.org/pipermail/arch-dev-public/2022-January/030670.html)
+- [No, Apple Did Not Crowdfund :focus-visible in Safari](https://meyerweb.com/eric/thoughts/2022/01/24/no-apple-did-not-crowdfund-focus-visible-in-safari/)
 
-- [Uninitialized Memory: Unsafe Rust is Too Hard](https://lucumr.pocoo.org/2022/1/30/unsafe-rust/)
+- [How to recommend books, or, stop recommending SICP](https://notes.eatonphil.com/recommending-a-book.html)
 
-- [Megaparsec tutorial](https://markkarpov.com/tutorial/megaparsec.html)
+- [Release the BATs (block level access control in IPFS)](https://peergos.org/posts/bats)
 
-- [An Overview of Docker Desktop Alternatives](https://matt-rickard.com/docker-desktop-alternatives/)
+- [MMU Virtualization via Intel EPT: Implementation - Part 1](https://revers.engineering/mmu-virtualization-impl-p1/)
 
-- [Beneath Apple ProDOS (1985)](https://mirrors.apple2.org.za/Apple%20II%20Documentation%20Project/Books/Beneath%20Apple%20ProDOS.pdf)
+- [Async Rust: Panics vs. Cancellation](https://smallcultfollowing.com/babysteps//blog/2022/01/27/panics-vs-cancellation-part-1/)
 
-- [sendxmpp as a replacement for mail(1)](https://momi.ca/posts/2020-08-28-sendxmpp.html)
+- [German court rules off-site resources like fonts violate GDPR](https://twitter.com/FascinatingTech/status/1487342734906171393)
 
-- [An update on rust/coreutils](https://sylvestre.ledru.info/blog/2022/01/29/an-update-on-rust-coreutils)
-
-- [Technical Time Travel: On Vintage Programming Books](https://tiemoko.com/blog/vintage-tech-books/)
-
-- [How FreeDOS Grew Up and Became a Modern DOS](https://www.cloudsavvyit.com/12250/how-freedos-grew-up-and-became-a-modern-dos/)
-
-- [A Database Query Language — HTSQL](https://www.htsql.org/)
-
-- [Oil January Release Notes and Themes](https://www.oilshell.org/blog/2022/01/notes-themes.html)
+- [Most websites are implicitly designed with a short lifetime](https://utcc.utoronto.ca/~cks/space/blog/web/WebsiteShortDesignLifetime?showcomments)
 
 - [How to Calculate the Energy Consumption of a Mac](https://www.rdegges.com/2022/how-to-calculate-the-energy-consumption-of-a-mac/)
+
+- [On the Criteria To Be Used in Decomposing Systems into Modules (1972)](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf)
+
+- [PinePhone Pro battery charging](https://xnux.eu/log/#059)
