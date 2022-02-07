@@ -1,49 +1,47 @@
-- [A technique to semi-automatically find vulnerabilities in WordPress plugins](http://kazet.cc/2022/02/03/fuzzing-wordpress-plugins.html)
+- [On Building 30K Debian Packages](http://moyix.blogspot.com/2022/02/on-building-30k-debian-packages.html)
 
-- [Slackware Release Announcement](http://www.slackware.com/announce/15.0.php)
+- [Working with Strings in Embedded C++](https://blog.feabhas.com/2022/02/working-with-strings-in-embedded-c/)
 
-- [Go performance from version 1.2 to 1.18](https://benhoyt.com/writings/go-version-performance/)
+- [waifud Progress Report #1](https://christine.website/blog/waifud-progress-2022-02-06)
 
-- [Optimizing GoAWK with a bytecode compiler and virtual machine](https://benhoyt.com/writings/goawk-compiler-vm/)
+- [BIM, Revit, and the Database Dream (2021)](https://constructionphysics.substack.com/p/bim-revit-and-the-database-dream)
 
-- [Using org-mode as an SQL playground](https://bitspook.in/blog/using-org-mode-as-an-sql-playground/)
+- [Does Transparency in Moderation Really Matter?: User Behavior After Content Removal Explanations on Reddit](https://dl.acm.org/doi/pdf/10.1145/3359252)
 
-- [Summary of the FlexSC paper](https://catern.com/flexsc.html)
+- [VxWorks Software Development Kit (SDK)](https://forums.windriver.com/t/vxworks-software-development-kit-sdk/43)
 
-- [Why and how I got my own ASN](https://chown.me/blog/getting-my-own-asn)
+- [FOSDEM 2022 - Schedule](https://fosdem.org/2022/schedule/)
 
-- [A closer look at the stack guard page](https://devblogs.microsoft.com/oldnewthing/20220203-00/?p=106215)
+- [Kindelia/HVM: A massively parallel, optimal functional runtime in Rust](https://github.com/Kindelia/HVM)
 
-- [Wordle-over-SSH](https://github.com/ajeetdsouza/clidle)
+- [SSH signatures implementation in Erlang](https://github.com/hauleth/ssh_signature)
 
-- [wordle97: Wordle for Word 97](https://github.com/nilsding/wordle97)
+- [MongoMQ2: A general-purpose message and event queuing library for MongoDB](https://github.com/morris/mongomq2)
 
-- [Public Suffix List Problems](https://github.com/sleevi/psl-problems)
+- [Tagref: check cross-references in your code](https://github.com/stepchowfun/tagref)
 
-- [Gitless — a simple version control system built on top of Git](https://gitless.com)
+- [Inkscape 1.1.2, 1.2 alpha released](https://inkscape.org/news/2022/02/05/inkscape-112/)
 
-- [Genealogy of Relational Database Management Systems](https://hpi.de/fileadmin/user_upload/fachgebiete/naumann/projekte/RDBMSGenealogy/RDBMS_Genealogy_V6.pdf)
+- [Jepsen: Radix DLT 1.0-beta.35.1](https://jepsen.io/analyses/radix-dlt-1.0-beta.35.1)
 
-- [Minimal Color Swatches](https://hugodaniel.com/posts/minimal-color-swatches/)
+- [Hot Reloading Rust: Windows and Linux](https://johnaustin.io/articles/2022/hot-reloading-rust)
 
-- [Epicyon ActivityPub server release version 1.3.0](https://libreserver.org/epicyon/v1_3_0.html )
+- [Diving Deep: implied bounds and variance :3](https://lcnr.de/blog/diving-deep-implied-bounds-and-variance/)
 
-- [What is a Process? (Operating Systems)](https://sequentialread.com/what-is-a-process/)
+- [Reproducible Builds in January 2022](https://reproducible-builds.org/reports/2022-01/)
 
-- [Rails is not written in Ruby](https://solnic.codes/2022/02/02/rails-is-not-written-in-ruby/)
+- [Go 1.18 won't have a 'constraints' package of generics helpers](https://utcc.utoronto.ca/~cks/space/blog/programming/Go118NoConstraintsPackage)
 
-- [Why not ZFS](https://storytime.ivysaur.me/posts/why-not-zfs/)
+- [Epitaph to Laptops](https://vermaden.wordpress.com/2022/02/07/epitaph-to-laptops/)
 
-- [Rustenstein 3D: Game programming like it's 1992](https://tech.nextroll.com/blog/dev/2022/02/02/rustenstein.html)
+- [How a Hypercore P2P innovation could bring more privacy to IPFS](https://www.ctrl.blog/entry/dht-privacy-discovery-hash.html)
 
-- [Universal Basic Cop-Out](https://writing.kemitchell.com/2022/02/04/Universal-Basic-Cop-Out.html)
+- [Waiting for PostgreSQL 15 – Add UNIQUE null treatment option](https://www.depesz.com/2022/02/06/waiting-for-postgresql-15-add-unique-null-treatment-option/)
 
-- [GDPR enforcer rules that IAB Europe's consent popups are unlawful](https://www.iccl.ie/news/gdpr-enforcer-rules-that-iab-europes-consent-popups-are-unlawful/)
+- [Firefox JIT Use-After-Frees | Exploiting CVE-2020-26950](https://www.sentinelone.com/labs/firefox-jit-use-after-frees-exploiting-cve-2020-26950/)
 
-- [Wolvic - a new project based on Firefox Reality](https://www.igalia.com/2022/02/03/Introducing-Wolvic.html)
+- [The Real Story Behind Wayland and X (2013)](https://www.youtube.com/watch?v=RIctzAQOe44)
 
-- [Yes, I can connect to a DB in CSS](https://www.leemeichin.com/posts/yes-i-can-connect-to-a-db-in-css.html)
+- [Interview with the creator of AmigaDOS](https://www.youtube.com/watch?v=pm-szurM5VY)
 
-- [Raspberry Pi OS (64-bit)](https://www.raspberrypi.com/news/raspberry-pi-os-64-bit/)
-
-- [Branchless Programming in C++ (2021)](https://www.youtube.com/watch?v=g-WPhYREFjk)
+- [The mathematically optimal Wordle strategy](https://www.youtube.com/watch?v=v68zYyaEmEA)
