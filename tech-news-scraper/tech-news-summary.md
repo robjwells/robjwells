@@ -1,47 +1,49 @@
-- [On Building 30K Debian Packages](http://moyix.blogspot.com/2022/02/on-building-30k-debian-packages.html)
+- [Functional Programming in Elixir with Witchcraft](https://blog.appsignal.com/2022/02/08/functional-programming-in-elixir-with-witchcraft.html)
 
-- [Working with Strings in Embedded C++](https://blog.feabhas.com/2022/02/working-with-strings-in-embedded-c/)
+- [Introduction to Telemetry in Elixir](https://blog.miguelcoba.com/introduction-to-telemetry-in-elixir)
 
-- [waifud Progress Report #1](https://christine.website/blog/waifud-progress-2022-02-06)
+- [Racket v8.4](https://blog.racket-lang.org/2022/02/racket-v8-4.html)
 
-- [BIM, Revit, and the Database Dream (2021)](https://constructionphysics.substack.com/p/bim-revit-and-the-database-dream)
+- [The world of PostgreSQL wire compatibility](https://datastation.multiprocess.io/blog/2022-02-08-the-world-of-postgresql-wire-compatibility.html)
 
-- [Does Transparency in Moderation Really Matter?: User Behavior After Content Removal Explanations on Reddit](https://dl.acm.org/doi/pdf/10.1145/3359252)
+- [Elm vs HyperScript - A Wordle implemetation](https://dev.to/lucamug/elm-vs-hyperscript-2m3m)
 
-- [VxWorks Software Development Kit (SDK)](https://forums.windriver.com/t/vxworks-software-development-kit-sdk/43)
+- [Vim Creator Bram Moolenaar Interview by Evrone](https://evrone.com/bram-moolenaar-interview)
 
-- [FOSDEM 2022 - Schedule](https://fosdem.org/2022/schedule/)
+- [Our User-Mode WireGuard Year](https://fly.io/blog/our-user-mode-wireguard-year/)
 
-- [Kindelia/HVM: A massively parallel, optimal functional runtime in Rust](https://github.com/Kindelia/HVM)
+- [Introduction to qbe](https://fosdem.org/2022/schedule/event/lg_qbe/)
 
-- [SSH signatures implementation in Erlang](https://github.com/hauleth/ssh_signature)
+- [Prototyping a small subset of Luau in Agda](https://github.com/Roblox/luau/pull/350)
 
-- [MongoMQ2: A general-purpose message and event queuing library for MongoDB](https://github.com/morris/mongomq2)
+- [QBE IR for Rust](https://github.com/garritfra/qbe-rs)
 
-- [Tagref: check cross-references in your code](https://github.com/stepchowfun/tagref)
+- [google/zx 5.0.0](https://github.com/google/zx/releases/tag/5.0.0)
 
-- [Inkscape 1.1.2, 1.2 alpha released](https://inkscape.org/news/2022/02/05/inkscape-112/)
+- [Godot 4.0 alpha 2 released](https://godotengine.org/article/dev-snapshot-godot-4-0-alpha-2)
 
-- [Jepsen: Radix DLT 1.0-beta.35.1](https://jepsen.io/analyses/radix-dlt-1.0-beta.35.1)
+- [Embed With Elliot: Interrupts, The Ugly (2015)](https://hackaday.com/2015/10/02/embed-with-elliot-interrupts-the-ugly/)
 
-- [Hot Reloading Rust: Windows and Linux](https://johnaustin.io/articles/2022/hot-reloading-rust)
+- [Learn You a Haskell for Great Good](https://learnyouahaskell.github.io/)
 
-- [Diving Deep: implied bounds and variance :3](https://lcnr.de/blog/diving-deep-implied-bounds-and-variance/)
+- [Holy Nonads! A Nine-Bit Computer](https://madned.substack.com/p/holy-nonads-a-nine-bit-computer)
 
-- [Reproducible Builds in January 2022](https://reproducible-builds.org/reports/2022-01/)
+- [A better `git blame` with `--ignore-rev`](https://michaelheap.com/git-ignore-rev/)
 
-- [Go 1.18 won't have a 'constraints' package of generics helpers](https://utcc.utoronto.ca/~cks/space/blog/programming/Go118NoConstraintsPackage)
+- [Top 10 web hacking techniques of 2021](https://portswigger.net/research/top-10-web-hacking-techniques-of-2021)
 
-- [Epitaph to Laptops](https://vermaden.wordpress.com/2022/02/07/epitaph-to-laptops/)
+- [R7RS Index](https://r7rsindex.com/)
 
-- [How a Hypercore P2P innovation could bring more privacy to IPFS](https://www.ctrl.blog/entry/dht-privacy-discovery-hash.html)
+- [How UTF-8 works](https://sethmlarson.dev/blog/utf-8)
 
-- [Waiting for PostgreSQL 15 – Add UNIQUE null treatment option](https://www.depesz.com/2022/02/06/waiting-for-postgresql-15-add-unique-null-treatment-option/)
+- [five different paths to methods](https://technomancy.us/197)
 
-- [Firefox JIT Use-After-Frees | Exploiting CVE-2020-26950](https://www.sentinelone.com/labs/firefox-jit-use-after-frees-exploiting-cve-2020-26950/)
+- [Safer entropy accumulation in Linux 5.18's RNG](https://twitter.com/EdgeSecurity/status/1491128272276664328)
 
-- [The Real Story Behind Wayland and X (2013)](https://www.youtube.com/watch?v=RIctzAQOe44)
+- [XFCE Cupertino Way](https://vermaden.wordpress.com/2022/02/09/xfce-cupertino-way/)
 
-- [Interview with the creator of AmigaDOS](https://www.youtube.com/watch?v=pm-szurM5VY)
+- [Happy Run Some Old Web Browsers Day! (2008)](https://www.jwz.org/blog/2008/03/happy-run-some-old-web-browsers-day/)
 
-- [The mathematically optimal Wordle strategy](https://www.youtube.com/watch?v=v68zYyaEmEA)
+- [Breaking 256-bit Elliptic Curve Encryption with a Quantum Computer](https://www.schneier.com/blog/archives/2022/02/breaking-245-bit-elliptic-curve-encryption-with-a-quantum-computer.html)
+
+- [There's no such thing as Plain Text](https://www.youtube.com/watch?v=oYd2KkuZLbE)
