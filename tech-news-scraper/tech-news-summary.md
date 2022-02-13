@@ -1,49 +1,47 @@
-- [Functional Programming in Elixir with Witchcraft](https://blog.appsignal.com/2022/02/08/functional-programming-in-elixir-with-witchcraft.html)
+- [The case against serverless](http://blog.cyborch.com/the-case-against-serverless/)
 
-- [Introduction to Telemetry in Elixir](https://blog.miguelcoba.com/introduction-to-telemetry-in-elixir)
+- [A nice story about Unix processes "infecting" each other](http://rachelbythebay.com/w/2022/02/09/nice/)
 
-- [Racket v8.4](https://blog.racket-lang.org/2022/02/racket-v8-4.html)
+- [A Hairy PostgreSQL Incident](https://ardentperf.com/2022/02/10/a-hairy-postgresql-incident/)
 
-- [The world of PostgreSQL wire compatibility](https://datastation.multiprocess.io/blog/2022-02-08-the-world-of-postgresql-wire-compatibility.html)
+- [JSON-LD is ideal for Cloud Native technologies](https://ariadne.space/2022/02/11/json-ld-is-ideal-for-cloud-native-technologies/)
 
-- [Elm vs HyperScript - A Wordle implemetation](https://dev.to/lucamug/elm-vs-hyperscript-2m3m)
+- [How to write idempotent Bash scripts (2019)](https://arslan.io/2019/07/03/how-to-write-idempotent-bash-scripts/)
 
-- [Vim Creator Bram Moolenaar Interview by Evrone](https://evrone.com/bram-moolenaar-interview)
+- [Sustainability with Rust](https://aws.amazon.com/blogs/opensource/sustainability-with-rust/)
 
-- [Our User-Mode WireGuard Year](https://fly.io/blog/our-user-mode-wireguard-year/)
+- [You Don't Know Gif - An analysis of a gif file and some weird gif features](https://blog.darrien.dev/posts/you-dont-know-gif/)
 
-- [Introduction to qbe](https://fosdem.org/2022/schedule/event/lg_qbe/)
+- [What Fortran does better than C-like languages](https://craftofcoding.wordpress.com/2022/02/11/what-fortran-does-better-than-c-like-languages/)
 
-- [Prototyping a small subset of Luau in Agda](https://github.com/Roblox/luau/pull/350)
+- [Dino 0.3 Release  Video calls and conferences - encrypted and peer-to-peer](https://dino.im/blog/2022/02/dino-0.3-release/)
 
-- [QBE IR for Rust](https://github.com/garritfra/qbe-rs)
+- [Music on the Commodore PET and the Faulty Robots](https://habr.com/en/post/650905/)
 
-- [google/zx 5.0.0](https://github.com/google/zx/releases/tag/5.0.0)
+- [Migrations: migrating attributes, pt. V](https://minimalmodeling.substack.com/p/migrations-migrating-attributes-pt-200)
 
-- [Godot 4.0 alpha 2 released](https://godotengine.org/article/dev-snapshot-godot-4-0-alpha-2)
+- [Plugins in Rust: Getting our Hands Dirty](https://nullderef.com/blog/plugin-impl/)
 
-- [Embed With Elliot: Interrupts, The Ugly (2015)](https://hackaday.com/2015/10/02/embed-with-elliot-interrupts-the-ugly/)
+- [The benefits and costs of writing a POSIX kernel in a high-level language](https://pdos.csail.mit.edu/6.S081/2021/readings/biscuit.pdf)
 
-- [Learn You a Haskell for Great Good](https://learnyouahaskell.github.io/)
+- [Code that Doesn’t Rot](https://pointersgonewild.com/2022/02/11/code-that-doesnt-rot/)
 
-- [Holy Nonads! A Nine-Bit Computer](https://madned.substack.com/p/holy-nonads-a-nine-bit-computer)
+- [Faster Python calculations with Numba: 2 lines of code, 13× speed-up](https://pythonspeed.com/articles/numba-faster-python/)
 
-- [A better `git blame` with `--ignore-rev`](https://michaelheap.com/git-ignore-rev/)
+- [Low latency Linux kernel for industrial embedded systems – Part I](https://ubuntu.com/blog/industrial-embedded-systems)
 
-- [Top 10 web hacking techniques of 2021](https://portswigger.net/research/top-10-web-hacking-techniques-of-2021)
+- [Devs Use Closed Software](https://writing.kemitchell.com/2022/02/12/Devs-Use-Closed-Software.html)
 
-- [R7RS Index](https://r7rsindex.com/)
+- [The Internals of PostgreSQL : Chapter 3 Query Processing](https://www.interdb.jp/pg/pgsql03.html)
 
-- [How UTF-8 works](https://sethmlarson.dev/blog/utf-8)
+- [GDPR compliance for 0.5 USD per month. Plus VAT](https://www.karlsutt.com/articles/gdpr-compliance-for-50-cents-month-vat/)
 
-- [five different paths to methods](https://technomancy.us/197)
+- [How and why Linaro builds, boots and tests over a million Linux kernels per year](https://www.linaro.org/blog/how-linaro-builds-boots-and-tests-over-a-million-linux-kernels-per-year/)
 
-- [Safer entropy accumulation in Linux 5.18's RNG](https://twitter.com/EdgeSecurity/status/1491128272276664328)
+- [pgMustard — review Postgres query plans quickly](https://www.pgmustard.com)
 
-- [XFCE Cupertino Way](https://vermaden.wordpress.com/2022/02/09/xfce-cupertino-way/)
+- [SheepSforza: the SheepShaver Power Mac emulator for OpenPOWER](https://www.talospace.com/2022/02/sheepsforza-sheepshaver-power-mac.html)
 
-- [Happy Run Some Old Web Browsers Day! (2008)](https://www.jwz.org/blog/2008/03/happy-run-some-old-web-browsers-day/)
+- [Raytracing on a Graphing Calculator (again)](https://www.youtube.com/watch?v=rY413t5fArw)
 
-- [Breaking 256-bit Elliptic Curve Encryption with a Quantum Computer](https://www.schneier.com/blog/archives/2022/02/breaking-245-bit-elliptic-curve-encryption-with-a-quantum-computer.html)
-
-- [There's no such thing as Plain Text](https://www.youtube.com/watch?v=oYd2KkuZLbE)
+- [Yet another explanation of C/C++ pointers](https://yurichev.com/news/20220212_C_ptrs/)
