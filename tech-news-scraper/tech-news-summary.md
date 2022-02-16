@@ -1,47 +1,49 @@
-- [The case against serverless](http://blog.cyborch.com/the-case-against-serverless/)
+- [A Review of Shader Languages](https://alain.xyz/blog/a-review-of-shader-languages)
 
-- [A nice story about Unix processes "infecting" each other](http://rachelbythebay.com/w/2022/02/09/nice/)
+- [A Formal Model of Checked C](https://arxiv.org/abs/2201.13394)
 
-- [A Hairy PostgreSQL Incident](https://ardentperf.com/2022/02/10/a-hairy-postgresql-incident/)
+- [How To Design A Chat Bot](https://blog.cofree.coffee/2022-02-14-how-to-design-a-chat-bot/)
 
-- [JSON-LD is ideal for Cloud Native technologies](https://ariadne.space/2022/02/11/json-ld-is-ideal-for-cloud-native-technologies/)
+- [Rust Survey 2021 Results](https://blog.rust-lang.org/2022/02/15/Rust-Survey-2021.html)
 
-- [How to write idempotent Bash scripts (2019)](https://arslan.io/2019/07/03/how-to-write-idempotent-bash-scripts/)
+- [Implement Folder Picker with .NET MAUI, WinUI and macOS](https://blog.verslu.is/maui/folder-picker-with-dotnet-maui/)
 
-- [Sustainability with Rust](https://aws.amazon.com/blogs/opensource/sustainability-with-rust/)
+- [CLIPasso: Semantically-Aware Object Sketching](https://clipasso.github.io/clipasso/)
 
-- [You Don't Know Gif - An analysis of a gif file and some weird gif features](https://blog.darrien.dev/posts/you-dont-know-gif/)
+- [If It Compiles It Works](https://elm-radio.com/episode/if-it-compiles-it-works)
 
-- [What Fortran does better than C-like languages](https://craftofcoding.wordpress.com/2022/02/11/what-fortran-does-better-than-c-like-languages/)
+- [OBS Studio 27.2 on Flathub, get it while it’s hot](https://feaneron.com/2022/02/14/obs-studio-27-2-on-flathub-get-it-while-its-hot/)
 
-- [Dino 0.3 Release  Video calls and conferences - encrypted and peer-to-peer](https://dino.im/blog/2022/02/dino-0.3-release/)
+- [quBSD: Qubes-like containerization using FreeBSD jails and bhyve](https://github.com/BawdyAnarchist/quBSD)
 
-- [Music on the Commodore PET and the Faulty Robots](https://habr.com/en/post/650905/)
+- [vaporup/ssh-tools: Making SSH more convenient](https://github.com/vaporup/ssh-tools)
 
-- [Migrations: migrating attributes, pt. V](https://minimalmodeling.substack.com/p/migrations-migrating-attributes-pt-200)
+- [Version 100 in Chrome and Firefox](https://hacks.mozilla.org/2022/02/version-100-in-chrome-and-firefox/)
 
-- [Plugins in Rust: Getting our Hands Dirty](https://nullderef.com/blog/plugin-impl/)
+- [Interactive Loop Optimization](https://jott.live/markdown/interactive_optimization)
 
-- [The benefits and costs of writing a POSIX kernel in a high-level language](https://pdos.csail.mit.edu/6.S081/2021/readings/biscuit.pdf)
+- [Securely delegating trust with digital signatures and secret storage systems](https://monzo.com/blog/2022/02/15/securely-delegating-trust-with-digital-signatures-and-secret-storage-systems/)
 
-- [Code that Doesn’t Rot](https://pointersgonewild.com/2022/02/11/code-that-doesnt-rot/)
+- [Single binary executable packages](https://notes.volution.ro/v1/2022/01/notes/fbf3f06c/)
 
-- [Faster Python calculations with Numba: 2 lines of code, 13× speed-up](https://pythonspeed.com/articles/numba-faster-python/)
+- [Bresenham’s circles are (always?) optimal](https://possiblywrong.wordpress.com/2022/02/14/bresenhams-circles-are-always-optimal/)
 
-- [Low latency Linux kernel for industrial embedded systems – Part I](https://ubuntu.com/blog/industrial-embedded-systems)
+- [redbean – single-file distributable web server](https://redbean.dev/)
 
-- [Devs Use Closed Software](https://writing.kemitchell.com/2022/02/12/Devs-Use-Closed-Software.html)
+- [Lineiform, a meta-JIT library for Rust interpreters](https://redvice.org/2022/lineiform-rust-meta-jit/)
 
-- [The Internals of PostgreSQL : Chapter 3 Query Processing](https://www.interdb.jp/pg/pgsql03.html)
+- [Go’s Version Control History](https://research.swtch.com/govcs)
 
-- [GDPR compliance for 0.5 USD per month. Plus VAT](https://www.karlsutt.com/articles/gdpr-compliance-for-50-cents-month-vat/)
+- [My thoughts on writing a Minecraft server from scratch (in Bash)](https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/)
 
-- [How and why Linaro builds, boots and tests over a million Linux kernels per year](https://www.linaro.org/blog/how-linaro-builds-boots-and-tests-over-a-million-linux-kernels-per-year/)
+- [New Chrome 0-Day Bug Under Active Attack – Update Your Browser ASAP](https://thehackernews.com/2022/02/new-chrome-0-day-bug-under-active.html)
 
-- [pgMustard — review Postgres query plans quickly](https://www.pgmustard.com)
+- [Thousands of npm accounts use email addresses with expired domains](https://therecord.media/thousands-of-npm-accounts-use-email-addresses-with-expired-domains/)
 
-- [SheepSforza: the SheepShaver Power Mac emulator for OpenPOWER](https://www.talospace.com/2022/02/sheepsforza-sheepshaver-power-mac.html)
+- [Sensors Information on FreeBSD](https://vermaden.wordpress.com/2022/02/15/sensors-information-on-freebsd/)
 
-- [Raytracing on a Graphing Calculator (again)](https://www.youtube.com/watch?v=rY413t5fArw)
+- [PoC||GTFO 0x21](https://www.alchemistowl.org/pocorgtfo/pocorgtfo21.pdf)
 
-- [Yet another explanation of C/C++ pointers](https://yurichev.com/news/20220212_C_ptrs/)
+- [Security and Privacy for public DNS Resolvers](https://www.enisa.europa.eu/publications/security-and-privacy-for-public-dns-resolvers)
+
+- [Cheaply writing a fast interpreter](https://www.youtube.com/watch?v=V8dnIw3amLA)
