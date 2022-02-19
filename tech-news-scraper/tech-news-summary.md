@@ -1,49 +1,45 @@
-- [A Review of Shader Languages](https://alain.xyz/blog/a-review-of-shader-languages)
+- [Skip: A programming language to skip the things you have already computed](http://skiplang.com/)
 
-- [A Formal Model of Checked C](https://arxiv.org/abs/2201.13394)
+- [Is Rust the future of software? I hope not](http://tryingtobeawesome.com/rust/)
 
-- [How To Design A Chat Bot](https://blog.cofree.coffee/2022-02-14-how-to-design-a-chat-bot/)
+- [Making A Cross Platform Mobile & Desktop App with Qt 6.2](https://16bpp.net/blog/post/making-a-cross-platform-mobile-desktop-app-with-qt-62/)
 
-- [Rust Survey 2021 Results](https://blog.rust-lang.org/2022/02/15/Rust-Survey-2021.html)
+- [Virtual Environments and Package Management in Python](https://bas.codes/posts/python-virtualenv-venv-pip-pyenv-poetry)
 
-- [Implement Folder Picker with .NET MAUI, WinUI and macOS](https://blog.verslu.is/maui/folder-picker-with-dotnet-maui/)
+- [Exploring OpenType Font Features](https://blog.lambda.cx/posts/opentype-font-exploration/)
 
-- [CLIPasso: Semantically-Aware Object Sketching](https://clipasso.github.io/clipasso/)
+- [What do you really get from IDE-driven development?](https://briandfoy.github.io/ide-driven-development/)
 
-- [If It Compiles It Works](https://elm-radio.com/episode/if-it-compiles-it-works)
+- [The Voids of Haskell](https://github.com/graninas/The-Voids-Of-Haskell)
 
-- [OBS Studio 27.2 on Flathub, get it while it’s hot](https://feaneron.com/2022/02/14/obs-studio-27-2-on-flathub-get-it-while-its-hot/)
+- [littlefs: A little fail-safe filesystem designed for microcontrollers](https://github.com/littlefs-project/littlefs)
 
-- [quBSD: Qubes-like containerization using FreeBSD jails and bhyve](https://github.com/BawdyAnarchist/quBSD)
+- [Jujutsu DVCS](https://github.com/martinvonz/jj)
 
-- [vaporup/ssh-tools: Making SSH more convenient](https://github.com/vaporup/ssh-tools)
+- [repl.nvim: Bring REPL support to Nvim](https://gitlab.com/HiPhish/repl.nvim)
 
-- [Version 100 in Chrome and Firefox](https://hacks.mozilla.org/2022/02/version-100-in-chrome-and-firefox/)
+- [OCaml from the Very Beginning](https://johnwhitington.net/ocamlfromtheverybeginning/)
 
-- [Interactive Loop Optimization](https://jott.live/markdown/interactive_optimization)
+- [The Unreasonable Effectiveness of Haskell](https://medium.com/pragmatic-programmers/the-unreasonable-effectiveness-of-haskell-48d92c2fe266)
 
-- [Securely delegating trust with digital signatures and secret storage systems](https://monzo.com/blog/2022/02/15/securely-delegating-trust-with-digital-signatures-and-secret-storage-systems/)
+- [Apple's custom NVMe drives are amazingly fast - if you don't care about data integrity](https://mobile.twitter.com/marcan42/status/1494213855387734019)
 
-- [Single binary executable packages](https://notes.volution.ro/v1/2022/01/notes/fbf3f06c/)
+- [The wild west of Windows command line parsing](https://nullprogram.com/blog/2022/02/18/)
 
-- [Bresenham’s circles are (always?) optimal](https://possiblywrong.wordpress.com/2022/02/14/bresenhams-circles-are-always-optimal/)
+- [Nix: An Idea Whose Time Has Come](https://revelry.co/insights/development/nix-time/)
 
-- [redbean – single-file distributable web server](https://redbean.dev/)
+- [Microcontroller-modified microphone](https://seancoates.com/blogs/modified-microphone)
 
-- [Lineiform, a meta-JIT library for Rust interpreters](https://redvice.org/2022/lineiform-rust-meta-jit/)
+- [Their Bionic Eyes Are Now Obsolete and Unsupported](https://spectrum.ieee.org/bionic-eye-obsolete)
 
-- [Go’s Version Control History](https://research.swtch.com/govcs)
+- [Toy Traceroute With Ping](https://susam.net/maze/toy-traceroute-with-ping.html)
 
-- [My thoughts on writing a Minecraft server from scratch (in Bash)](https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/)
+- [Announcing Tokio Metrics 0.1](https://tokio.rs/blog/2022-02-announcing-tokio-metrics)
 
-- [New Chrome 0-Day Bug Under Active Attack – Update Your Browser ASAP](https://thehackernews.com/2022/02/new-chrome-0-day-bug-under-active.html)
+- [Seamless, Fearless, and Structured Concurrency](https://verdagon.dev/blog/seamless-fearless-structured-concurrency)
 
-- [Thousands of npm accounts use email addresses with expired domains](https://therecord.media/thousands-of-npm-accounts-use-email-addresses-with-expired-domains/)
+- [GStreamer 1.20: Embedded & WebRTC lead the way](https://www.collabora.com/news-and-blog/news-and-events/gstreamer-120-embedded-webrtc-lead-the-way.html)
 
-- [Sensors Information on FreeBSD](https://vermaden.wordpress.com/2022/02/15/sensors-information-on-freebsd/)
+- [The Forgotten Secrets of the First Linux LiveCD (Yggdrasil Linux)](https://www.youtube.com/watch?v=Cynd0guSUvM)
 
-- [PoC||GTFO 0x21](https://www.alchemistowl.org/pocorgtfo/pocorgtfo21.pdf)
-
-- [Security and Privacy for public DNS Resolvers](https://www.enisa.europa.eu/publications/security-and-privacy-for-public-dns-resolvers)
-
-- [Cheaply writing a fast interpreter](https://www.youtube.com/watch?v=V8dnIw3amLA)
+- [The early days of Unix at Bell Labs](https://www.youtube.com/watch?v=ECCr_KFl41E)
