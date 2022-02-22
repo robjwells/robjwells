@@ -1,45 +1,45 @@
-- [Skip: A programming language to skip the things you have already computed](http://skiplang.com/)
+- [Dynamic Linking Is Bad For Apps And Static Linking Is Also Bad For Apps](https://belkadan.com/blog/2022/02/Dynamic-Linking-and-Static-Linking/)
 
-- [Is Rust the future of software? I hope not](http://tryingtobeawesome.com/rust/)
+- [Fleet Below Deck, Part II – Breaking down the editor](https://blog.jetbrains.com/fleet/2022/02/fleet-below-deck-part-ii-breaking-down-the-editor/)
 
-- [Making A Cross Platform Mobile & Desktop App with Qt 6.2](https://16bpp.net/blog/post/making-a-cross-platform-mobile-desktop-app-with-qt-62/)
+- [rust-analyzer joins the Rust organization](https://blog.rust-lang.org/2022/02/21/rust-analyzer-joins-rust-org.html)
 
-- [Virtual Environments and Package Management in Python](https://bas.codes/posts/python-virtualenv-venv-pip-pyenv-poetry)
+- [A Specification of a Note-Taking Program](https://blog.zdsmith.com/posts/a-specification-of-a-note-taking-program.html)
 
-- [Exploring OpenType Font Features](https://blog.lambda.cx/posts/opentype-font-exploration/)
+- [Nix Flakes: an Introduction](https://christine.website/blog/nix-flakes-1-2022-02-21)
 
-- [What do you really get from IDE-driven development?](https://briandfoy.github.io/ide-driven-development/)
+- [A Mock QCanBusDevice for TDD](https://embeddeduse.com/2022/02/21/a-mock-qcanbusdevice-for-tdd/)
 
-- [The Voids of Haskell](https://github.com/graninas/The-Voids-Of-Haskell)
+- [Guido van Rossum interview "Python is half my life"](https://issuu.com/vmadmin/docs/cwi_special_75_years)
 
-- [littlefs: A little fail-safe filesystem designed for microcontrollers](https://github.com/littlefs-project/littlefs)
+- [Live Streaming a Macintosh Plus](https://jcs.org/2022/02/21/macplus_streaming)
 
-- [Jujutsu DVCS](https://github.com/martinvonz/jj)
+- [SMTP protocol basics from scratch in Go: receiving email from Gmail](https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html)
 
-- [repl.nvim: Bring REPL support to Nvim](https://gitlab.com/HiPhish/repl.nvim)
+- [Pantagruel Specification Language](https://pantagruel-language.com/)
 
-- [OCaml from the Very Beginning](https://johnwhitington.net/ocamlfromtheverybeginning/)
+- [It’s normal and it works](https://pointieststick.com/2022/02/21/its-normal-and-it-works/)
 
-- [The Unreasonable Effectiveness of Haskell](https://medium.com/pragmatic-programmers/the-unreasonable-effectiveness-of-haskell-48d92c2fe266)
+- [Returning values and errors](https://rachelbythebay.com/w/2022/02/20/return/)
 
-- [Apple's custom NVMe drives are amazingly fast - if you don't care about data integrity](https://mobile.twitter.com/marcan42/status/1494213855387734019)
+- [Yocto boot2qt for the Raspberry Pi 4, both Qt 5.15 and 6.2](https://raymii.org/s/tutorials/Yocto_boot2qt_for_the_Raspberry_Pi_4_both_Qt_6_and_Qt_5.html)
 
-- [The wild west of Windows command line parsing](https://nullprogram.com/blog/2022/02/18/)
+- [Breaking the Rules With Stateful Services](https://remesh.blog/breaking-the-rules-with-stateful-services-8eb361734d86)
 
-- [Nix: An Idea Whose Time Has Come](https://revelry.co/insights/development/nix-time/)
+- [SvelteKit and the "Client pattern"](https://retro.cloud/sveltekit-and-the-client-pattern/)
 
-- [Microcontroller-modified microphone](https://seancoates.com/blogs/modified-microphone)
+- [The history (sort of) of service management in Unix](https://utcc.utoronto.ca/~cks/space/blog/unix/ServiceManagementHistory)
 
-- [Their Bionic Eyes Are Now Obsolete and Unsupported](https://spectrum.ieee.org/bionic-eye-obsolete)
+- [Data Races in Python, Despite the Global Interpreter Lock](https://verdagon.dev/blog/python-data-races)
 
-- [Toy Traceroute With Ping](https://susam.net/maze/toy-traceroute-with-ping.html)
+- [Tablesample In PostgreSQL 9.5](https://www.2ndquadrant.com/en/blog/tablesample-in-postgresql-9-5-2/)
 
-- [Announcing Tokio Metrics 0.1](https://tokio.rs/blog/2022-02-announcing-tokio-metrics)
+- [The Fastest GIF Does Not Exist](https://www.biphelps.com/blog/The-Fastest-GIF-Does-Not-Exist)
 
-- [Seamless, Fearless, and Structured Concurrency](https://verdagon.dev/blog/seamless-fearless-structured-concurrency)
+- [Software I'm Thankful For](https://www.jowanza.com/blog/2022/2/21/software-im-thankful-for)
 
-- [GStreamer 1.20: Embedded & WebRTC lead the way](https://www.collabora.com/news-and-blog/news-and-events/gstreamer-120-embedded-webrtc-lead-the-way.html)
+- [Thoughts On Markdown](https://www.smashingmagazine.com/2022/02/thoughts-on-markdown/)
 
-- [The Forgotten Secrets of the First Linux LiveCD (Yggdrasil Linux)](https://www.youtube.com/watch?v=Cynd0guSUvM)
+- [Structuring Machine Learning Code: DESIGN PATTERNS & CLEAN CODE](https://www.youtube.com/watch?v=9gzTvu-og34)
 
-- [The early days of Unix at Bell Labs](https://www.youtube.com/watch?v=ECCr_KFl41E)
+- [Emacs: Fuzzy search Apple’s online docs](https://xenodium.com/emacs-fuzzy-search-apples-online-docs/)
