@@ -1,45 +1,49 @@
-- [Dynamic Linking Is Bad For Apps And Static Linking Is Also Bad For Apps](https://belkadan.com/blog/2022/02/Dynamic-Linking-and-Static-Linking/)
+- [5 Lark features you probably didn't know about](http://blog.erezsh.com/5-lark-features-you-probably-didnt-know-about/)
 
-- [Fleet Below Deck, Part II – Breaking down the editor](https://blog.jetbrains.com/fleet/2022/02/fleet-below-deck-part-ii-breaking-down-the-editor/)
+- [Understanding Decorators in Python](https://bas.codes/posts/python-decorators)
 
-- [rust-analyzer joins the Rust organization](https://blog.rust-lang.org/2022/02/21/rust-analyzer-joins-rust-org.html)
+- [Going multipath without Multipath TCP](https://blog.benjojo.co.uk/post/multipath-without-mptcp)
 
-- [A Specification of a Note-Taking Program](https://blog.zdsmith.com/posts/a-specification-of-a-note-taking-program.html)
+- [Various Meanings of SQL’s PARTITION BY Syntax](https://blog.jooq.org/various-meanings-of-sqls-partition-by-syntax/)
 
-- [Nix Flakes: an Introduction](https://christine.website/blog/nix-flakes-1-2022-02-21)
+- [All New Repls are Powered By Nix](https://blog.replit.com/powered-by-nix)
 
-- [A Mock QCanBusDevice for TDD](https://embeddeduse.com/2022/02/21/a-mock-qcanbusdevice-for-tdd/)
+- [Announcing Rust 1.59.0](https://blog.rust-lang.org/2022/02/24/Rust-1.59.0.html)
 
-- [Guido van Rossum interview "Python is half my life"](https://issuu.com/vmadmin/docs/cwi_special_75_years)
+- [Rust Compiler Ambitions for 2022](https://blog.rust-lang.org/inside-rust/2022/02/22/compiler-team-ambitions-2022.html)
 
-- [Live Streaming a Macintosh Plus](https://jcs.org/2022/02/21/macplus_streaming)
+- [The cats sitting on a fence in early builds of Windows 8](https://devblogs.microsoft.com/oldnewthing/20220208-00/?p=106232)
 
-- [SMTP protocol basics from scratch in Go: receiving email from Gmail](https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html)
+- [Where Did I Put That File?](https://didgets.substack.com/p/where-did-i-put-that-file)
 
-- [Pantagruel Specification Language](https://pantagruel-language.com/)
+- [ncspot: Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes](https://github.com/hrkfdn/ncspot)
 
-- [It’s normal and it works](https://pointieststick.com/2022/02/21/its-normal-and-it-works/)
+- [CVE-2022-23835: A security analysis of Visual Voicemail](https://gitlab.com/kop316/vvm-disclosure)
 
-- [Returning values and errors](https://rachelbythebay.com/w/2022/02/20/return/)
+- [v0.20 of Gleam, a type safe language for the Erlang VM, is out](https://gleam.run/news/gleam-v0.20-released/)
 
-- [Yocto boot2qt for the Raspberry Pi 4, both Qt 5.15 and 6.2](https://raymii.org/s/tutorials/Yocto_boot2qt_for_the_Raspberry_Pi_4_both_Qt_6_and_Qt_5.html)
+- [Swearjure - Clojure without alphanumerics](https://hypirion.com/musings/swearjure)
 
-- [Breaking the Rules With Stateful Services](https://remesh.blog/breaking-the-rules-with-stateful-services-8eb361734d86)
+- [Screen Time: Another Feature That Apple Forgot](https://ishan.co/screen-time/)
 
-- [SvelteKit and the "Client pattern"](https://retro.cloud/sveltekit-and-the-client-pattern/)
+- [Some things about getaddrinfo that surprised me](https://jvns.ca/blog/2022/02/23/getaddrinfo-is-kind-of-weird/)
 
-- [The history (sort of) of service management in Unix](https://utcc.utoronto.ca/~cks/space/blog/unix/ServiceManagementHistory)
+- [Moving Python's bugs to GitHub](https://lwn.net/SubscriberLink/885854/bb107c53bdebc248/)
 
-- [Data Races in Python, Despite the Global Interpreter Lock](https://verdagon.dev/blog/python-data-races)
+- [Type-safety while incrementally migrating a large app from Flow to TypeScript](https://medium.com/czi-technology/type-safety-while-incrementally-migrating-a-large-app-from-flow-to-typescript-99f1139b8cd8)
 
-- [Tablesample In PostgreSQL 9.5](https://www.2ndquadrant.com/en/blog/tablesample-in-postgresql-9-5-2/)
+- [Chinese cybersecurity lab discovers US backdoor at Chinese system](https://pekingnology.substack.com/p/chinese-cybersecurity-lab-discovers)
 
-- [The Fastest GIF Does Not Exist](https://www.biphelps.com/blog/The-Fastest-GIF-Does-Not-Exist)
+- [Find You: Building a stealth AirTag clone](https://positive.security/blog/find-you)
 
-- [Software I'm Thankful For](https://www.jowanza.com/blog/2022/2/21/software-im-thankful-for)
+- [Support open source that you use by paying the maintainers to talk to your team](https://simonwillison.net/2022/Feb/23/support-open-source/)
 
-- [Thoughts On Markdown](https://www.smashingmagazine.com/2022/02/thoughts-on-markdown/)
+- [import readline](https://susam.net/blog/import-readline.html)
 
-- [Structuring Machine Learning Code: DESIGN PATTERNS & CLEAN CODE](https://www.youtube.com/watch?v=9gzTvu-og34)
+- [Foundations of Dawn: The Untyped Multistack Concatenative Calculus](https://www.dawn-lang.org/posts/foundations-umcc/)
 
-- [Emacs: Fuzzy search Apple’s online docs](https://xenodium.com/emacs-fuzzy-search-apples-online-docs/)
+- [VIM - Minimal Setup Explained](https://www.guckes.net/vim/setup.html)
+
+- [DevOps for the Sinclair Spectrum - Part 1](https://www.markround.com/blog/2021/12/21/devops-for-the-sinclair-spectrum-part-1/)
+
+- [This Patch Does Not Exist](https://www.thispatchdoesnotexist.com/)
