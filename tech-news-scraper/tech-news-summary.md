@@ -1,49 +1,49 @@
-- [5 Lark features you probably didn't know about](http://blog.erezsh.com/5-lark-features-you-probably-didnt-know-about/)
+- [JSON improvements in SQLite 3.38.0](http://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html)
 
-- [Understanding Decorators in Python](https://bas.codes/posts/python-decorators)
+- [Why Does Windows Really Use Backslash as Path Separator? (2019)](http://www.os2museum.com/wp/why-does-windows-really-use-backslash-as-path-separator/)
 
-- [Going multipath without Multipath TCP](https://blog.benjojo.co.uk/post/multipath-without-mptcp)
+- [GitLab Critical Security Release: 14.8.2, 14.7.4, and 14.6.5](https://about.gitlab.com/releases/2022/02/25/critical-security-release-gitlab-14-8-2-released/)
 
-- [Various Meanings of SQL’s PARTITION BY Syntax](https://blog.jooq.org/various-meanings-of-sqls-partition-by-syntax/)
+- [Python strings are immutable, but only sometimes](https://austinhenley.com/blog/pythonstringsaremutable.html)
 
-- [All New Repls are Powered By Nix](https://blog.replit.com/powered-by-nix)
+- [Prig: like AWK, but uses Go for "scripting"](https://benhoyt.com/writings/prig/)
 
-- [Announcing Rust 1.59.0](https://blog.rust-lang.org/2022/02/24/Rust-1.59.0.html)
+- [Using Ansible & Nomad for a homelab (part 1)](https://blog.aleksic.dev/using-ansible-and-nomad-for-a-homelab-part-1)
 
-- [Rust Compiler Ambitions for 2022](https://blog.rust-lang.org/inside-rust/2022/02/22/compiler-team-ambitions-2022.html)
+- [Predicting developments in real world conflict from patterns of failed logins](https://bsdly.blogspot.com/2022/02/predicting-developments-in-real-world.html)
 
-- [The cats sitting on a fence in early builds of Windows 8](https://devblogs.microsoft.com/oldnewthing/20220208-00/?p=106232)
+- [Nix Flakes: Packages and How to Use Them](https://christine.website/blog/nix-flakes-2-2022-02-27)
 
-- [Where Did I Put That File?](https://didgets.substack.com/p/where-did-i-put-that-file)
+- [The Antic Cyber Graphics Software and the Pre-history of Autodesk 3D Studio and Discreet 3ds max](https://doudoroff.com/atari/index.html)
 
-- [ncspot: Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes](https://github.com/hrkfdn/ncspot)
+- [How to make small tweaks to free software](https://gist.github.com/rain-1/799a4af4a9919c14c956272fe971b5d1)
 
-- [CVE-2022-23835: A security analysis of Visual Voicemail](https://gitlab.com/kop316/vvm-disclosure)
+- [OrioleDB: building a modern cloud-native storage engine](https://github.com/orioledb/orioledb)
 
-- [v0.20 of Gleam, a type safe language for the Erlang VM, is out](https://gleam.run/news/gleam-v0.20-released/)
+- [$60 PC Oscilloscope Review](https://hackaday.com/2022/02/26/60-pc-oscilloscope-review/)
 
-- [Swearjure - Clojure without alphanumerics](https://hypirion.com/musings/swearjure)
+- [Lambda Calculus in 400 Bytes](https://justine.lol/lambda/)
 
-- [Screen Time: Another Feature That Apple Forgot](https://ishan.co/screen-time/)
+- [Make Linux look like MacOS 9](https://lunduke.substack.com/p/make-linux-look-like-macos-9)
 
-- [Some things about getaddrinfo that surprised me](https://jvns.ca/blog/2022/02/23/getaddrinfo-is-kind-of-weird/)
+- [C++ header files and inter-class connections](https://rachelbythebay.com/w/2022/02/26/include/)
 
-- [Moving Python's bugs to GitHub](https://lwn.net/SubscriberLink/885854/bb107c53bdebc248/)
+- [Exploring content of X.509 certificates](https://relational-pipes.globalcode.info/v_0/examples-asn1-x509.xhtml)
 
-- [Type-safety while incrementally migrating a large app from Flow to TypeScript](https://medium.com/czi-technology/type-safety-while-incrementally-migrating-a-large-app-from-flow-to-typescript-99f1139b8cd8)
+- [Writing UTF-8 Programs in Plan 9](https://seh.dev/9runes/)
 
-- [Chinese cybersecurity lab discovers US backdoor at Chinese system](https://pekingnology.substack.com/p/chinese-cybersecurity-lab-discovers)
+- [Database functions to wrap logic and SQL queries](https://sive.rs/api01)
 
-- [Find You: Building a stealth AirTag clone](https://positive.security/blog/find-you)
+- [Database trigger recalculates totals, for data integrity](https://sive.rs/recalc)
 
-- [Support open source that you use by paying the maintainers to talk to your team](https://simonwillison.net/2022/Feb/23/support-open-source/)
+- [Win32 is the stable Linux userland ABI (and the consequences)](https://sporks.space/2022/02/27/win32-is-the-stable-linux-userland-abi-and-the-consequences/)
 
-- [import readline](https://susam.net/blog/import-readline.html)
+- [wordlexpr: compile-time wordle in c++20](https://vittorioromeo.info/index/blog/wordlexpr.html)
 
-- [Foundations of Dawn: The Untyped Multistack Concatenative Calculus](https://www.dawn-lang.org/posts/foundations-umcc/)
+- [A Good Way to Handle Errors Is To Prevent Them from Happening in the First Place](https://www.fluentcpp.com/2022/02/25/a-good-way-to-handle-errors-is-to-prevent-them-from-happening-in-the-first-place/)
 
-- [VIM - Minimal Setup Explained](https://www.guckes.net/vim/setup.html)
+- [Dependency hell? Not if we use functions! For library authors](https://www.hacklewayne.com/dependency-hell-not-if-we-use-functions-for-library-authors)
 
-- [DevOps for the Sinclair Spectrum - Part 1](https://www.markround.com/blog/2021/12/21/devops-for-the-sinclair-spectrum-part-1/)
+- [The Internet Was Designed With a Narrow Waist](https://www.oilshell.org/blog/2022/02/diagrams.html)
 
-- [This Patch Does Not Exist](https://www.thispatchdoesnotexist.com/)
+- [Wt, C++ Web Toolkit](https://www.webtoolkit.eu/wt/)
