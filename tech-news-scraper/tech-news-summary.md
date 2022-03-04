@@ -1,47 +1,45 @@
-- [Why Does Windows Really Use Backslash as Path Separator? (2019)](http://www.os2museum.com/wp/why-does-windows-really-use-backslash-as-path-separator/)
+- [Avoiding Source Code Spoofing](http://blog.unicode.org/2022/03/avoiding-source-code-spoofing.html)
 
-- [Prig: like AWK, but uses Go for "scripting"](https://benhoyt.com/writings/prig/)
+- [Integrate Org mode Agenda into other calendar apps](https://200ok.ch/posts/2022-02-13_integrating_org_mode_agenda_into_other_calendar_apps.html)
 
-- [Nix Flakes: Packages and How to Use Them](https://christine.website/blog/nix-flakes-2-2022-02-27)
+- [How Does Perspective Work in Pictures?](https://aaronhertzmann.com/2022/02/28/how-does-perspective-work.html)
 
-- [Understanding higher-kinded types](https://danso.ca/blog/higher-kinded-types/)
+- [On overwriting disks (on OpenBSD 7.0-current)](https://amissing.link/overwriting-disks.html)
 
-- [RFC 2468 - I Remember IANA (1998)](https://datatracker.ietf.org/doc/html/rfc2468)
+- [Rust's Rules are Made to Be Broken](https://blog.warp.dev/rules-are-made-to-be-broken/)
 
-- [Derw, a useful ML-like language for the web, status: Feburary 2022](https://derw.substack.com/p/derw-a-useful-ml-like-language-for)
+- [Speeding up UI tests with CodeceptJS and Playwright](https://canvatechblog.com/speeding-up-ui-tests-with-codeceptjs-and-playwright-98daf6cb8a79)
 
-- [Segment Trees](https://en.algorithmica.org/hpc/data-structures/segment-trees/)
+- [My New Old Apple Macintosh SE/30 Computer](https://charlieharrington.com/my-new-old-apple-macintosh-se30-computer/)
 
-- [How to make small tweaks to free software](https://gist.github.com/rain-1/799a4af4a9919c14c956272fe971b5d1)
+- [Franklin's ACE 1000](https://computeradsfromthepast.substack.com/p/franklins-ace-1000)
 
-- [holy-shoot: A shoot 'em up game for TempleOS written in HolyC](https://github.com/c6dy/holy-shoot)
+- [Speeding up Go's builtin JSON encoder up to 55% for large arrays of objects](https://datastation.multiprocess.io/blog/2022-03-03-improving-go-json-encoding-performance-for-large-arrays-of-objects.html)
 
-- [Tail recursion, but modulo cons](https://jfmengels.net/modulo-cons/)
+- [Miniboss, versatile local container management with Python](https://github.com/afroisalreadyinu/miniboss)
 
-- [Lambda Calculus in 400 Bytes](https://justine.lol/lambda/)
+- [blamscamp: Create a bandcamp-style audio player for selling albums on itch.io](https://github.com/blackle/blamscamp)
 
-- [Make Linux look like MacOS 9](https://lunduke.substack.com/p/make-linux-look-like-macos-9)
+- [inspektor: Centralized access control for your databases](https://github.com/poonai/inspektor)
 
-- [Solving Scheduling Problems with Integer Linear Programming (2019)](https://memo.barrucadu.co.uk/scheduling-problems.html)
+- [Go: A Documentary](https://golang.design/history/)
 
-- [Exercism and jq](https://qmacro.org/2022/02/28/exercism-and-jq/)
+- [SPAs were a mistake](https://gomakethings.com/spas-were-a-mistake/)
 
-- [When Command-V (or CTRL-V) is your "copilot"](https://rachelbythebay.com/w/2022/02/28/copilot/)
+- [Announcing Interop 2022](https://hacks.mozilla.org/2022/03/interop-2022/)
 
-- [Database functions to wrap logic and SQL queries](https://sive.rs/api01)
+- [Protected Mode Segmentation as a powerful anti-debugging measure](https://j00ru.vexillium.org/2011/06/protected-mode-segmentation-as-a-powerful-anti-debugging-measure/)
 
-- [Generate unique random values directly in the database](https://sive.rs/rand1)
+- [XKCD 2585 Implemented: Round the world](https://lam.io/blog/rounding/)
 
-- [Win32 is the stable Linux userland ABI (and the consequences)](https://sporks.space/2022/02/27/win32-is-the-stable-linux-userland-abi-and-the-consequences/)
+- [Qt 5.15.3 Opensource released](https://lists.qt-project.org/pipermail/development/2022-March/042262.html)
 
-- [PureScript Annual Survey 2022](https://surveyhero.com/c/wzajwjpd)
+- [Google Slides is Actually Hilarious](https://medium.com/@laurajavier/google-slides-is-actually-hilarious-83c1ced857ee)
 
-- [Paredit Slurp and Barf Mnemonics](https://susam.net/maze/paredit-slurp-and-barf-mnemonics.html)
+- [Schwarzgerät III - 32 overclocked cores, 252TB spinning disk, and a Geiger counter](https://nick-black.com/dankwiki/index.php?title=Schwarzger%C3%A4t_III)
 
-- [Code Review Guidelines for Data Science Teams](https://tdhopper.com/blog/code-review-guidelines)
+- [What if vector<T>::iterator were just T*?](https://quuxplusone.github.io/blog/2022/03/03/why-isnt-vector-iterator-just-t-star/)
 
-- [Nftables - Demystifying IPsec expressions [Thermalcircle.de]](https://thermalcircle.de/doku.php?id=blog:linux:nftables_demystifying_ipsec_expressions)
+- [Building data-centric apps with a reactive relational database](https://riffle.systems/essays/prelude/)
 
-- [EU plans to mandate less secure certificates in browsers](https://www.feistyduck.com/bulletproof-tls-newsletter/issue_86_eu_plans_to_mandate_less_secure_certificates_in_browsers)
-
-- [What Is the Oldest Computer Program Still in Use? (2015)](https://www.technologyreview.com/2015/08/06/166822/what-is-the-oldest-computer-program-still-in-use/)
+- [Having the right data](https://www.sicpers.info/2022/03/having-the-right-data/)
