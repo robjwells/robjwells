@@ -1,45 +1,43 @@
-- [Avoiding Source Code Spoofing](http://blog.unicode.org/2022/03/avoiding-source-code-spoofing.html)
+- [Stop guessing, use data! (Or how we estimate at Lunar Logic)](http://blog.lunarlogic.io/2016/how-we-estimate-at-lunar-logic/)
 
-- [Integrate Org mode Agenda into other calendar apps](https://200ok.ch/posts/2022-02-13_integrating_org_mode_agenda_into_other_calendar_apps.html)
+- [CockroachDB: The Resilient Geo-Distributed SQL Database](http://muratbuffalo.blogspot.com/2022/03/cockroachdb-resilient-geo-distributed.html)
 
-- [How Does Perspective Work in Pictures?](https://aaronhertzmann.com/2022/02/28/how-does-perspective-work.html)
+- [Editing stuff in prod](http://rachelbythebay.com/w/2022/03/05/prod/)
 
-- [On overwriting disks (on OpenBSD 7.0-current)](https://amissing.link/overwriting-disks.html)
+- [Configuring default applications for xdg-open](https://200ok.ch/posts/2022-01-12_configuring_default_applications_for_xdg_open.html)
 
-- [Rust's Rules are Made to Be Broken](https://blog.warp.dev/rules-are-made-to-be-broken/)
+- [The perils of the “real” client IP](https://adam-p.ca/blog/2022/03/x-forwarded-for/)
 
-- [Speeding up UI tests with CodeceptJS and Playwright](https://canvatechblog.com/speeding-up-ui-tests-with-codeceptjs-and-playwright-98daf6cb8a79)
+- [Discovering I've Shot Myself in the Foot with std::async](https://aneksteind.github.io/posts/2022-03-04.html)
 
-- [My New Old Apple Macintosh SE/30 Computer](https://charlieharrington.com/my-new-old-apple-macintosh-se30-computer/)
+- [Scoring an animation using Orca](https://blog.yaymukund.com/posts/scoring-an-animation-with-orca/)
 
-- [Franklin's ACE 1000](https://computeradsfromthepast.substack.com/p/franklins-ace-1000)
+- [Kensington Microware's System Saver](https://computeradsfromthepast.substack.com/p/kensington-microwares-system-saver)
 
-- [Speeding up Go's builtin JSON encoder up to 55% for large arrays of objects](https://datastation.multiprocess.io/blog/2022-03-03-improving-go-json-encoding-performance-for-large-arrays-of-objects.html)
+- [I Can No Longer Compile My First Flash Game](https://devtails.xyz/i-can-no-longer-compile-my-first-flash-game)
 
-- [Miniboss, versatile local container management with Python](https://github.com/afroisalreadyinu/miniboss)
+- [Introducing Native Matrix VoIP with Element Call](https://element.io/blog/introducing-native-matrix-voip-with-element-call/)
 
-- [blamscamp: Create a bandcamp-style audio player for selling albums on itch.io](https://github.com/blackle/blamscamp)
+- [An open-source, motorized microscope built using LEGO bricks, Arduino, RPi and 3D printing](https://github.com/IBM/MicroscoPy)
 
-- [inspektor: Centralized access control for your databases](https://github.com/poonai/inspektor)
+- [A mobile-first Prolog editor](https://github.com/lf94/paizo-prolog)
 
-- [Go: A Documentary](https://golang.design/history/)
+- [Blinking an LED with an original 1980s Intel 8051 microcontroller (2017)](https://jaycarlson.net/2017/06/27/blinking-an-led-with-an-original-intel-8051/)
 
-- [SPAs were a mistake](https://gomakethings.com/spas-were-a-mistake/)
+- [Replacing make with a Shell Script for Running Your Project's Tasks](https://nickjanetakis.com/blog/replacing-make-with-a-shell-script-for-running-your-projects-tasks)
 
-- [Announcing Interop 2022](https://hacks.mozilla.org/2022/03/interop-2022/)
+- [Untangling mechanized proofs](https://plv.csail.mit.edu/blog/alectryon.html#alectryon)
 
-- [Protected Mode Segmentation as a powerful anti-debugging measure](https://j00ru.vexillium.org/2011/06/protected-mode-segmentation-as-a-powerful-anti-debugging-measure/)
+- [ReScript on Deno: Declarative Command Line Tools](https://practicalrescript.com/rescript-on-deno-declarative-command-line-tools/)
 
-- [XKCD 2585 Implemented: Round the world](https://lam.io/blog/rounding/)
+- [Which browsers are best for privacy?](https://privacytests.org/)
 
-- [Qt 5.15.3 Opensource released](https://lists.qt-project.org/pipermail/development/2022-March/042262.html)
+- [Why I invented “dash encoding”, a new encoding scheme for URL paths](https://simonwillison.net/2022/Mar/5/dash-encoding/)
 
-- [Google Slides is Actually Hilarious](https://medium.com/@laurajavier/google-slides-is-actually-hilarious-83c1ced857ee)
+- [Just managed to log into Lobsters from SerenityOS](https://twitter.com/awesomekling/status/1499750525306388482)
 
-- [Schwarzgerät III - 32 overclocked cores, 252TB spinning disk, and a Geiger counter](https://nick-black.com/dankwiki/index.php?title=Schwarzger%C3%A4t_III)
+- [Retrieving your browsing history through a CAPTCHA](https://varun.ch/history)
 
-- [What if vector<T>::iterator were just T*?](https://quuxplusone.github.io/blog/2022/03/03/why-isnt-vector-iterator-just-t-star/)
+- [Advanced Editing on UNIX](https://wolfram.schneider.org/bsd/7thEdManVol2/adv.ed/adv.ed.pdf)
 
-- [Building data-centric apps with a reactive relational database](https://riffle.systems/essays/prelude/)
-
-- [Having the right data](https://www.sicpers.info/2022/03/having-the-right-data/)
+- [Windows NT and VMS: The Rest of the Story (1998)](https://www.itprotoday.com/compute-engines/windows-nt-and-vms-rest-story)
