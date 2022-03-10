@@ -1,43 +1,49 @@
-- [Stop guessing, use data! (Or how we estimate at Lunar Logic)](http://blog.lunarlogic.io/2016/how-we-estimate-at-lunar-logic/)
+- [Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion](http://nothings.org/gamedev/ssao/)
 
-- [CockroachDB: The Resilient Geo-Distributed SQL Database](http://muratbuffalo.blogspot.com/2022/03/cockroachdb-resilient-geo-distributed.html)
+- [The Long Strange Trip to Java](http://www.blinkenlights.com/classiccmp/javaorigin.html)
 
-- [Editing stuff in prod](http://rachelbythebay.com/w/2022/03/05/prod/)
+- [Reverse-engineering the waveform generator in a 1969 breadboard](http://www.righto.com/2022/03/reverse-engineering-waveform-generator.html)
 
-- [Configuring default applications for xdg-open](https://200ok.ch/posts/2022-01-12_configuring_default_applications_for_xdg_open.html)
+- [Vector Fields, Math and Art](https://anvaka.github.io/fieldplay/)
 
-- [The perils of the “real” client IP](https://adam-p.ca/blog/2022/03/x-forwarded-for/)
+- [More Than a Dozen Command Line Tools I've Written—and So Can You (2018)](https://blog.carlmjohnson.net/post/2018/go-cli-tools/)
 
-- [Discovering I've Shot Myself in the Foot with std::async](https://aneksteind.github.io/posts/2022-03-04.html)
+- [A Realworld Introduction to Elixir Flow](https://blog.joelabshier.com/%F0%9F%8C%8A-a-realworld-introduction-to-elixir-flow/)
 
-- [Scoring an animation using Orca](https://blog.yaymukund.com/posts/scoring-an-animation-with-orca/)
+- [Bugs in Hello World](https://blog.sunfishcode.online/bugs-in-hello-world/)
 
-- [Kensington Microware's System Saver](https://computeradsfromthepast.substack.com/p/kensington-microwares-system-saver)
+- [All desktop calculators are wrong, so I had to build my own](https://chachatelier.fr/chalk/article/chalk.html)
 
-- [I Can No Longer Compile My First Flash Game](https://devtails.xyz/i-can-no-longer-compile-my-first-flash-game)
+- [A love of languages](https://derw.substack.com/p/a-love-of-languages)
 
-- [Introducing Native Matrix VoIP with Element Call](https://element.io/blog/introducing-native-matrix-voip-with-element-call/)
+- [A Proposal For Type Syntax in JavaScript](https://devblogs.microsoft.com/typescript/a-proposal-for-type-syntax-in-javascript/)
 
-- [An open-source, motorized microscope built using LEGO bricks, Arduino, RPi and 3D printing](https://github.com/IBM/MicroscoPy)
+- [Unison Milestone 3](https://github.com/unisonweb/unison/releases/tag/release%2FM3)
 
-- [A mobile-first Prolog editor](https://github.com/lf94/paizo-prolog)
+- [Isolating problematic Cgo code](https://jonwillia.ms/2022/03/09/isolating-problematic-cgo-code)
 
-- [Blinking an LED with an original 1980s Intel 8051 microcontroller (2017)](https://jaycarlson.net/2017/06/27/blinking-an-led-with-an-original-intel-8051/)
+- [Some tiny personal programs I've written](https://jvns.ca/blog/2022/03/08/tiny-programs/)
 
-- [Replacing make with a Shell Script for Running Your Project's Tasks](https://nickjanetakis.com/blog/replacing-make-with-a-shell-script-for-running-your-projects-tasks)
+- [The perils of your RSS feed](https://kn100.me/rss-perils/)
 
-- [Untangling mechanized proofs](https://plv.csail.mit.edu/blog/alectryon.html#alectryon)
+- [When and why to deprecate filesystems](https://lwn.net/SubscriberLink/886708/bb94ce7c5231d242/)
 
-- [ReScript on Deno: Declarative Command Line Tools](https://practicalrescript.com/rescript-on-deno-declarative-command-line-tools/)
+- [Public Release of MorphOS 3.16](https://morphos-team.net/releasenotes/3.16)
 
-- [Which browsers are best for privacy?](https://privacytests.org/)
+- [Filtering and transforming relational and tree data with XPath](https://relational-pipes.globalcode.info/v_0/examples-xpath-filtering-transforming.xhtml)
 
-- [Why I invented “dash encoding”, a new encoding scheme for URL paths](https://simonwillison.net/2022/Mar/5/dash-encoding/)
+- [Why RISC-V Is Succeeding](https://semiengineering.com/why-risc-v-is-succeeding/)
 
-- [Just managed to log into Lobsters from SerenityOS](https://twitter.com/awesomekling/status/1499750525306388482)
+- [Unveiling the Anonymous Author: Stylometry Techniques](https://serhack.me/articles/unveiling-anonymous-author-stylometry-techniques/)
 
-- [Retrieving your browsing history through a CAPTCHA](https://varun.ch/history)
+- [Racing the Hardware: 8-bit Division](https://specbranch.com/posts/faster-div8/)
 
-- [Advanced Editing on UNIX](https://wolfram.schneider.org/bsd/7thEdManVol2/adv.ed/adv.ed.pdf)
+- [Working in my native language requires empathy](https://thoughtbot.com/blog/working-in-my-native-language-requires-empathy)
 
-- [Windows NT and VMS: The Rest of the Story (1998)](https://www.itprotoday.com/compute-engines/windows-nt-and-vms-rest-story)
+- [Apple Event for March 8th, 2022](https://www.apple.com/apple-events/)
+
+- [PipeWire: A year in review & a look ahead](https://www.collabora.com/news-and-blog/blog/2022/03/08/pipewire-a-year-in-review-look-ahead/)
+
+- [shite: static sites from shell: part 1/2](https://www.evalapply.org/posts/shite-the-static-sites-from-shell-part-1/#screw-that-gimme-a-site-already)
+
+- [Exploring the Amiga](https://www.thedigitalcatonline.com/blog/2018/05/28/exploring-the-amiga-1/)
