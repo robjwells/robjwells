@@ -1,49 +1,47 @@
-- [Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion](http://nothings.org/gamedev/ssao/)
+- [Old McCarthy Had a Form](http://atomized.org/blog/2021/11/28/old-mccarthy-had-a-form/)
 
-- [The Long Strange Trip to Java](http://www.blinkenlights.com/classiccmp/javaorigin.html)
+- [A Sketch of the Biggest Idea in Software Architecture](http://www.oilshell.org/blog/2022/03/backlog-arch.html)
 
-- [Reverse-engineering the waveform generator in a 1969 breadboard](http://www.righto.com/2022/03/reverse-engineering-waveform-generator.html)
+- [How Cloudflare verifies the code WhatsApp Web serves to users](https://blog.cloudflare.com/cloudflare-verifies-code-whatsapp-web-serves-users/)
 
-- [Vector Fields, Math and Art](https://anvaka.github.io/fieldplay/)
+- [Inspecting Web Views in macOS](https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/)
 
-- [More Than a Dozen Command Line Tools I've Written—and So Can You (2018)](https://blog.carlmjohnson.net/post/2018/go-cli-tools/)
+- [Making RockPro64 a NetBSD Server](https://blog.netbsd.org/tnf/entry/making_rockpro64_a_netbsd_server)
 
-- [A Realworld Introduction to Elixir Flow](https://blog.joelabshier.com/%F0%9F%8C%8A-a-realworld-introduction-to-elixir-flow/)
+- [Things I hate about Rust, redux](https://blog.yossarian.net/2022/03/10/Things-I-hate-about-Rust-redux)
 
-- [Bugs in Hello World](https://blog.sunfishcode.online/bugs-in-hello-world/)
+- [Strategic Simulations Inc](https://computeradsfromthepast.substack.com/p/strategic-simulations-inc)
 
-- [All desktop calculators are wrong, so I had to build my own](https://chachatelier.fr/chalk/article/chalk.html)
+- [Hooks: The secret feature powering the Postgres ecosystem](https://ctodive.com/hooks-the-secret-feature-powering-the-postgres-ecosystem-f05b3b82e0ba)
 
-- [A love of languages](https://derw.substack.com/p/a-love-of-languages)
+- [Zero-downtime schema migrations in Postgres using views](https://fabianlindfors.se/blog/schema-migrations-in-postgres/)
 
-- [A Proposal For Type Syntax in JavaScript](https://devblogs.microsoft.com/typescript/a-proposal-for-type-syntax-in-javascript/)
+- [microsoft/mimalloc](https://github.com/microsoft/mimalloc)
 
-- [Unison Milestone 3](https://github.com/unisonweb/unison/releases/tag/release%2FM3)
+- [groffstudio: an IDE for groff](https://groff.tuxproject.de)
 
-- [Isolating problematic Cgo code](https://jonwillia.ms/2022/03/09/isolating-problematic-cgo-code)
+- [Rust WebAssembly OCR experiments](https://hugopeixoto.net/articles/rust-wasm-ocr-experiments.html)
 
-- [Some tiny personal programs I've written](https://jvns.ca/blog/2022/03/08/tiny-programs/)
+- [So you want to Scrape like the Big Boys?](https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/)
 
-- [The perils of your RSS feed](https://kn100.me/rss-perils/)
+- [The Resilience of the Internet in Ukraine](https://labs.ripe.net/author/emileaben/the-resilience-of-the-internet-in-ukraine/)
 
-- [When and why to deprecate filesystems](https://lwn.net/SubscriberLink/886708/bb94ce7c5231d242/)
+- [PartialExecuter: Reducing WebAssembly size by exploring all executions in LLVM](https://leaningtech.com/reducing-webassembly-size-by-exploring-all-executions-in-llvm/)
 
-- [Public Release of MorphOS 3.16](https://morphos-team.net/releasenotes/3.16)
+- [Leaving Sweetness for two weeks on the Coast](https://lojikil.github.io/b/4.html)
 
-- [Filtering and transforming relational and tree data with XPath](https://relational-pipes.globalcode.info/v_0/examples-xpath-filtering-transforming.xhtml)
+- [Better visibility into packet-dropping decisions](https://lwn.net/Articles/885729/)
 
-- [Why RISC-V Is Succeeding](https://semiengineering.com/why-risc-v-is-succeeding/)
+- [Safe Hacking (2011)](https://marcan.st/2011/01/safe-hacking/)
 
-- [Unveiling the Anonymous Author: Stylometry Techniques](https://serhack.me/articles/unveiling-anonymous-author-stylometry-techniques/)
+- [The Discovery and Exploitation of CVE-2022-25636](https://nickgregory.me/linux/security/2022/03/12/cve-2022-25636/)
 
-- [Racing the Hardware: 8-bit Division](https://specbranch.com/posts/faster-div8/)
+- [Publish Hargassner wood chip boiler state to MQTT](https://people.skolelinux.org/pere/blog/Publish_Hargassner_wood_chip_boiler_state_to_MQTT.html)
 
-- [Working in my native language requires empathy](https://thoughtbot.com/blog/working-in-my-native-language-requires-empathy)
+- [First release of Nickel](https://tweag.io/blog/2022-03-11-nickel-first-release/)
 
-- [Apple Event for March 8th, 2022](https://www.apple.com/apple-events/)
+- [Extreme IO performance with parallel Apache Parquet in Python](https://wesmckinney.com/blog/python-parquet-multithreading/)
 
-- [PipeWire: A year in review & a look ahead](https://www.collabora.com/news-and-blog/blog/2022/03/08/pipewire-a-year-in-review-look-ahead/)
+- [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
 
-- [shite: static sites from shell: part 1/2](https://www.evalapply.org/posts/shite-the-static-sites-from-shell-part-1/#screw-that-gimme-a-site-already)
-
-- [Exploring the Amiga](https://www.thedigitalcatonline.com/blog/2018/05/28/exploring-the-amiga-1/)
+- [A complete guide to TypeScript’s never type](https://zhenghao.io/posts/ts-never)
