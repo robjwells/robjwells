@@ -1,47 +1,49 @@
-- [Old McCarthy Had a Form](http://atomized.org/blog/2021/11/28/old-mccarthy-had-a-form/)
+- [Oxide at Home: Propolis says Hello](https://artemis.sh/2022/03/14/propolis-oxide-at-home-pt1.html)
 
-- [A Sketch of the Biggest Idea in Software Architecture](http://www.oilshell.org/blog/2022/03/backlog-arch.html)
+- [Visualizing Black Holes with General Relativistic Ray Tracing](https://blog.seanholloway.com/2022/03/13/visualizing-black-holes-with-general-relativistic-ray-tracing/)
 
-- [How Cloudflare verifies the code WhatsApp Web serves to users](https://blog.cloudflare.com/cloudflare-verifies-code-whatsapp-web-serves-users/)
+- [No Ghosts](https://blog.sunfishcode.online/no-ghosts/)
 
-- [Inspecting Web Views in macOS](https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/)
+- [Arti 0.1.0 is released: Your somewhat-stable API is here](https://blog.torproject.org/arti_010_released/)
 
-- [Making RockPro64 a NetBSD Server](https://blog.netbsd.org/tnf/entry/making_rockpro64_a_netbsd_server)
+- [Introducing Rustler Precompiled](https://dashbit.co/blog/rustler-precompiled)
 
-- [Things I hate about Rust, redux](https://blog.yossarian.net/2022/03/10/Things-I-hate-about-Rust-redux)
+- [DataStation 0.8.0 is released](https://datastation.multiprocess.io/docs/0.8.0-release-notes.html)
 
-- [Strategic Simulations Inc](https://computeradsfromthepast.substack.com/p/strategic-simulations-inc)
+- [Fermat Attack on RSA](https://fermatattack.secvuln.info/)
 
-- [Hooks: The secret feature powering the Postgres ecosystem](https://ctodive.com/hooks-the-secret-feature-powering-the-postgres-ecosystem-f05b3b82e0ba)
+- [gcobol: a new COBOL frontend for GCC](https://gcc.gnu.org/pipermail/gcc/2022-March/238408.html)
 
-- [Zero-downtime schema migrations in Postgres using views](https://fabianlindfors.se/blog/schema-migrations-in-postgres/)
+- [Announcing Enarx 0.3.0, a Linux foundation project for running code in trusted enclaves (SGX, SEV)](https://github.com/enarx/enarx)
 
-- [microsoft/mimalloc](https://github.com/microsoft/mimalloc)
+- [OpenStreetMap viewer for Emacs](https://github.com/minad/osm)
 
-- [groffstudio: an IDE for groff](https://groff.tuxproject.de)
+- [Tensil -- open-source ML accelerators](https://github.com/tensil-ai/tensil)
 
-- [Rust WebAssembly OCR experiments](https://hugopeixoto.net/articles/rust-wasm-ocr-experiments.html)
+- [Go 1.18 Release Notes](https://go.dev/doc/go1.18)
 
-- [So you want to Scrape like the Big Boys?](https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/)
+- [RP2040 Doom](https://kilograham.github.io/rp2040-doom/)
 
-- [The Resilience of the Internet in Ukraine](https://labs.ripe.net/author/emileaben/the-resilience-of-the-internet-in-ukraine/)
+- [The first RISC-V portable computer is now available](https://lunduke.substack.com/p/the-first-risc-v-portable-computer)
 
-- [PartialExecuter: Reducing WebAssembly size by exploring all executions in LLVM](https://leaningtech.com/reducing-webassembly-size-by-exploring-all-executions-in-llvm/)
+- [RPATH, or why lld doesn’t work on NixOS](https://matklad.github.io//2022/03/14/rpath-or-why-lld-doesnt-work-on-nixos.html)
 
-- [Leaving Sweetness for two weeks on the Coast](https://lojikil.github.io/b/4.html)
+- [Contributing to Complex Projects](https://mitchellh.com/writing/contributing-to-complex-projects)
 
-- [Better visibility into packet-dropping decisions](https://lwn.net/Articles/885729/)
+- [Nix: Why You Should Give it a Try](https://nixos.org/guides/nix-pills/why-you-should-give-it-a-try.html)
 
-- [Safe Hacking (2011)](https://marcan.st/2011/01/safe-hacking/)
+- [A flexible, lightweight, spin-lock barrier](https://nullprogram.com/blog/2022/03/13/)
 
-- [The Discovery and Exploitation of CVE-2022-25636](https://nickgregory.me/linux/security/2022/03/12/cve-2022-25636/)
+- [Processing large JSON files in Python without running out of memory](https://pythonspeed.com/articles/json-memory-streaming/)
 
-- [Publish Hargassner wood chip boiler state to MQTT](https://people.skolelinux.org/pere/blog/Publish_Hargassner_wood_chip_boiler_state_to_MQTT.html)
+- [More stories about stacks of modems](https://rachelbythebay.com/w/2022/03/14/modems/)
 
-- [First release of Nickel](https://tweag.io/blog/2022-03-11-nickel-first-release/)
+- [The Migration of Engine ECU Software From Single-Core to Multi-Core](https://semiengineering.com/the-migration-of-engine-ecu-software-from-single-core-to-multi-core/)
 
-- [Extreme IO performance with parallel Apache Parquet in Python](https://wesmckinney.com/blog/python-parquet-multithreading/)
+- [ZFS Boot Environments Revolutions](https://vermaden.wordpress.com/2022/03/14/zfs-boot-environments-revolutions/)
 
-- [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
+- [Serving A Bypassable "Down For Maintenance" Page In ColdFusion 2021](https://www.bennadel.com/blog/4227-serving-a-bypassable-down-for-maintenance-page-in-coldfusion-2021.htm)
 
-- [A complete guide to TypeScript’s never type](https://zhenghao.io/posts/ts-never)
+- [FreeBSD on the Vortex86DX CPU](https://www.cambus.net/freebsd-on-the-vortex86dx-cpu/)
+
+- [OpenSSL Security Advisory: Infinite loop in BN_mod_sqrt() reachable when parsing certificates](https://www.openssl.org/news/secadv/20220315.txt)
