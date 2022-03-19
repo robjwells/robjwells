@@ -1,49 +1,47 @@
-- [Oxide at Home: Propolis says Hello](https://artemis.sh/2022/03/14/propolis-oxide-at-home-pt1.html)
+- [Reverse Engineering North Korea's Gaming Economy](http://gamestudies.org/2201/articles/anonymous)
 
-- [Visualizing Black Holes with General Relativistic Ray Tracing](https://blog.seanholloway.com/2022/03/13/visualizing-black-holes-with-general-relativistic-ray-tracing/)
+- [A detailed graphical comparison of typing efforts of a variety of keyboard layouts](http://mkweb.bcgsc.ca/carpalx/?popular_alternatives)
 
-- [No Ghosts](https://blog.sunfishcode.online/no-ghosts/)
+- [Simple, small, awk analytics HTTP log parsers](https://adi.onl/cbl.html)
 
-- [Arti 0.1.0 is released: Your somewhat-stable API is here](https://blog.torproject.org/arti_010_released/)
+- [The first Asahi Linux Alpha Release is here](https://asahilinux.org/2022/03/asahi-linux-alpha-release/)
 
-- [Introducing Rustler Precompiled](https://dashbit.co/blog/rustler-precompiled)
+- [My Favorite npm Commit](https://blog.izs.me/2021/10/my-favorite-npm-commit/)
 
-- [DataStation 0.8.0 is released](https://datastation.multiprocess.io/docs/0.8.0-release-notes.html)
+- [Understanding why Resilience Faults in Microservice Applications Occur](https://christophermeiklejohn.com/filibuster/2022/03/19/understanding-faults.html)
 
-- [Fermat Attack on RSA](https://fermatattack.secvuln.info/)
+- [Fixing Traefik Proxy Issues](https://garrit.xyz/posts/2022-03-18-fix-traefik-proxy-issues)
 
-- [gcobol: a new COBOL frontend for GCC](https://gcc.gnu.org/pipermail/gcc/2022-March/238408.html)
+- [Quirks of C](https://gist.github.com/fay59/5ccbe684e6e56a7df8815c3486568f01)
 
-- [Announcing Enarx 0.3.0, a Linux foundation project for running code in trusted enclaves (SGX, SEV)](https://github.com/enarx/enarx)
+- [LibrePlanet 2022 Program](https://libreplanet.org/2022/program/)
 
-- [OpenStreetMap viewer for Emacs](https://github.com/minad/osm)
+- [Python finally offloads some batteries](https://lwn.net/SubscriberLink/888043/1bd384391190f7d1/)
 
-- [Tensil -- open-source ML accelerators](https://github.com/tensil-ai/tensil)
+- [Typography is impossible](https://medium.engineering/typography-is-impossible-5872b0c7f891)
 
-- [Go 1.18 Release Notes](https://go.dev/doc/go1.18)
+- [The Noise Protocol Framework](https://noiseprotocol.org/noise.html)
 
-- [RP2040 Doom](https://kilograham.github.io/rp2040-doom/)
+- [C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/)
 
-- [The first RISC-V portable computer is now available](https://lunduke.substack.com/p/the-first-risc-v-portable-computer)
+- [Text editors through the years, and my little "secret" (2011)](https://rachelbythebay.com/w/2011/09/24/editor/)
 
-- [RPATH, or why lld doesn’t work on NixOS](https://matklad.github.io//2022/03/14/rpath-or-why-lld-doesnt-work-on-nixos.html)
+- [Yocto boot2qt for the Seeed reTerminal (Qt 6)](https://raymii.org/s/tutorials/Yocto_boot2qt_for_the_Seeed_reTerminal_qt6.html)
 
-- [Contributing to Complex Projects](https://mitchellh.com/writing/contributing-to-complex-projects)
+- [A look at search engines with their own indexes](https://seirdy.one/2021/03/10/search-engines-with-own-indexes.html)
 
-- [Nix: Why You Should Give it a Try](https://nixos.org/guides/nix-pills/why-you-should-give-it-a-try.html)
+- [Alert: peacenotwar module sabotages npm developers in the node-ipc package to protest the invasion of Ukraine](https://snyk.io/blog/peacenotwar-malicious-npm-node-ipc-package-vulnerability/)
 
-- [A flexible, lightweight, spin-lock barrier](https://nullprogram.com/blog/2022/03/13/)
+- [Your Pa$$word doesn't matter (2019)](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/your-pa-word-doesn-t-matter/ba-p/731984)
 
-- [Processing large JSON files in Python without running out of memory](https://pythonspeed.com/articles/json-memory-streaming/)
+- [TOML: Tom's Obvious Minimal Language](https://toml.io/)
 
-- [More stories about stacks of modems](https://rachelbythebay.com/w/2022/03/14/modems/)
+- [How to pay professional maintainers](https://words.filippo.io/pay-maintainers/)
 
-- [The Migration of Engine ECU Software From Single-Core to Multi-Core](https://semiengineering.com/the-migration-of-engine-ecu-software-from-single-core-to-multi-core/)
+- [GBA nostalgia and the Flash Advance Linker](https://www.cambus.net/gba-nostalgia-and-the-flash-advance-linker/)
 
-- [ZFS Boot Environments Revolutions](https://vermaden.wordpress.com/2022/03/14/zfs-boot-environments-revolutions/)
+- [C++ basics: Pointers vs iterators](https://www.sandordargo.com/blog/2022/03/16/iterators-vs-pointers)
 
-- [Serving A Bypassable "Down For Maintenance" Page In ColdFusion 2021](https://www.bennadel.com/blog/4227-serving-a-bypassable-down-for-maintenance-page-in-coldfusion-2021.htm)
+- [NetBSD Full system backups with FFS snapshots, ZFS and dump(8)](https://www.unitedbsd.com/d/705-full-system-backups-with-ffs-snapshots-zfs-and-dump8)
 
-- [FreeBSD on the Vortex86DX CPU](https://www.cambus.net/freebsd-on-the-vortex86dx-cpu/)
-
-- [OpenSSL Security Advisory: Infinite loop in BN_mod_sqrt() reachable when parsing certificates](https://www.openssl.org/news/secadv/20220315.txt)
+- [Random number generator enhancements for Linux 5.17 and 5.18](https://www.zx2c4.com/projects/linux-rng-5.17-5.18/)
