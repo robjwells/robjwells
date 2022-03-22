@@ -1,47 +1,45 @@
-- [Reverse Engineering North Korea's Gaming Economy](http://gamestudies.org/2201/articles/anonymous)
+- [Linux needs a explicitly defined userspace API](http://catern.com/linux_api.html)
 
-- [A detailed graphical comparison of typing efforts of a variety of keyboard layouts](http://mkweb.bcgsc.ca/carpalx/?popular_alternatives)
+- [Frink: a Units-Aware Programming Language](http://frinklang.org/)
 
-- [Simple, small, awk analytics HTTP log parsers](https://adi.onl/cbl.html)
+- [Reflections on Rusting Trust (2016)](http://manishearth.github.io/blog/2016/12/02/reflections-on-rusting-trust/)
 
-- [The first Asahi Linux Alpha Release is here](https://asahilinux.org/2022/03/asahi-linux-alpha-release/)
+- [Inside the Apple-1's unusual MOS clock driver chip](http://www.righto.com/2022/03/inside-apple-1s-unusual-mos-clock.html)
 
-- [My Favorite npm Commit](https://blog.izs.me/2021/10/my-favorite-npm-commit/)
+- [My key takeaways from The Pragmatic Programmer](https://arkadiuszchmura.com/posts/my-key-takeaways-from-the-pragmatic-programmer/)
 
-- [Understanding why Resilience Faults in Microservice Applications Occur](https://christophermeiklejohn.com/filibuster/2022/03/19/understanding-faults.html)
+- [Penny Wise and Cloud Foolish](https://danielcompton.net/2022/03/21/penny-wise-cloud-foolish)
 
-- [Fixing Traefik Proxy Issues](https://garrit.xyz/posts/2022-03-18-fix-traefik-proxy-issues)
+- [Windows Needs a Change in Priorities](https://den.dev/blog/windows-priority-shuffle/)
 
-- [Quirks of C](https://gist.github.com/fay59/5ccbe684e6e56a7df8815c3486568f01)
+- [Injected class names: The C++ feature you didn't even realize that you were using](https://devblogs.microsoft.com/oldnewthing/20220321-00/?p=106367)
 
-- [LibrePlanet 2022 Program](https://libreplanet.org/2022/program/)
+- [How to make a templating language (Part 2)](https://dorianmarie.fr/template/2.html)
 
-- [Python finally offloads some batteries](https://lwn.net/SubscriberLink/888043/1bd384391190f7d1/)
+- [Everything we actually know about the Apple Neural Engine (ANE)](https://github.com/hollance/neural-engine)
 
-- [Typography is impossible](https://medium.engineering/typography-is-impossible-5872b0c7f891)
+- [Catalog of Elixir-specific code smells](https://github.com/lucasvegi/Elixir-Code-Smells)
 
-- [The Noise Protocol Framework](https://noiseprotocol.org/noise.html)
+- [OpenBSD/arm64 on Apple M1 systems](https://marc.info/?l=openbsd-arm&m=164768992119719&w=2)
 
-- [C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/)
+- [Lanai, the mystery CPU architecture in LLVM](https://q3k.org/lanai.html)
 
-- [Text editors through the years, and my little "secret" (2011)](https://rachelbythebay.com/w/2011/09/24/editor/)
+- [Please put units in names](https://ruudvanasseldonk.com/2022/03/20/please-put-units-in-names)
 
-- [Yocto boot2qt for the Seeed reTerminal (Qt 6)](https://raymii.org/s/tutorials/Yocto_boot2qt_for_the_Seeed_reTerminal_qt6.html)
+- [A platform for open source projects to find maintainers](https://seeking-maintainers.net)
 
-- [A look at search engines with their own indexes](https://seirdy.one/2021/03/10/search-engines-with-own-indexes.html)
+- [Git Can Break Automated Tests](https://telemachus.me/git-can-break-your-tests)
 
-- [Alert: peacenotwar module sabotages npm developers in the node-ipc package to protest the invasion of Ukraine](https://snyk.io/blog/peacenotwar-malicious-npm-node-ipc-package-vulnerability/)
+- [The opportunity will find you](https://thoughtbot.com/blog/the-opportunity-will-find-you)
 
-- [Your Pa$$word doesn't matter (2019)](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/your-pa-word-doesn-t-matter/ba-p/731984)
+- [Claimed security breach of Okta](https://twitter.com/_MG_/status/1506109152665382920)
 
-- [TOML: Tom's Obvious Minimal Language](https://toml.io/)
+- [How To Build an Evil Compiler](https://www.awelm.com/posts/evil-compiler/)
 
-- [How to pay professional maintainers](https://words.filippo.io/pay-maintainers/)
+- [Why Don't You Use](https://www.brendangregg.com/blog/2022-03-19/why-dont-you-use.html)
 
-- [GBA nostalgia and the Flash Advance Linker](https://www.cambus.net/gba-nostalgia-and-the-flash-advance-linker/)
+- [Reflections on Trusting Trust (1984)](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)
 
-- [C++ basics: Pointers vs iterators](https://www.sandordargo.com/blog/2022/03/16/iterators-vs-pointers)
+- [Why it’s easier to recover unsaved documents in Kate than GEdit](https://www.ctrl.blog/entry/kate-swp.html)
 
-- [NetBSD Full system backups with FFS snapshots, ZFS and dump(8)](https://www.unitedbsd.com/d/705-full-system-backups-with-ffs-snapshots-zfs-and-dump8)
-
-- [Random number generator enhancements for Linux 5.17 and 5.18](https://www.zx2c4.com/projects/linux-rng-5.17-5.18/)
+- [Structuring Machine Learning Code: Design Patterns & Clean Code](https://www.neuraxio.com/blogs/news/structuring-machine-learning-code-design-patterns-clean-code?language=🐍)
