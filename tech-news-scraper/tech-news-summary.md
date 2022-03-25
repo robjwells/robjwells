@@ -1,45 +1,49 @@
-- [Linux needs a explicitly defined userspace API](http://catern.com/linux_api.html)
+- [Mason jars](http://blog.cretaria.com/posts/mason-jars.html)
 
-- [Frink: a Units-Aware Programming Language](http://frinklang.org/)
+- [Abuse Of Some Sum Types In OO Languages](http://www.jerf.org/iri/post/2960)
 
-- [Reflections on Rusting Trust (2016)](http://manishearth.github.io/blog/2016/12/02/reflections-on-rusting-trust/)
+- [Benchmark of WebAssembly runtimes - 2021 Q1](https://00f.net/2021/02/22/webassembly-runtimes-benchmarks/)
 
-- [Inside the Apple-1's unusual MOS clock driver chip](http://www.righto.com/2022/03/inside-apple-1s-unusual-mos-clock.html)
+- [Preface to an Unwritten Programming Language Book](https://avdi.codes/preface-to-an-unwritten-programming-language-book/)
 
-- [My key takeaways from The Pragmatic Programmer](https://arkadiuszchmura.com/posts/my-key-takeaways-from-the-pragmatic-programmer/)
+- [Epyx's Crush, Crumble, & Chomp](https://computeradsfromthepast.substack.com/p/crush-crumble-and-chomp)
 
-- [Penny Wise and Cloud Foolish](https://danielcompton.net/2022/03/21/penny-wise-cloud-foolish)
+- [Anatomy of a ghost CVE](https://daniel.haxx.se/blog/2022/03/23/anatomy-of-a-ghost-cve/)
 
-- [Windows Needs a Change in Priorities](https://den.dev/blog/windows-priority-shuffle/)
+- [On working through difficult problems](https://derw.substack.com/p/on-working-through-difficult-problems)
 
-- [Injected class names: The C++ feature you didn't even realize that you were using](https://devblogs.microsoft.com/oldnewthing/20220321-00/?p=106367)
+- [Swapping two Numbers without Temporary Variables](https://garrit.xyz/posts/2022-03-24-swapping-numbers-without-temp)
 
-- [How to make a templating language (Part 2)](https://dorianmarie.fr/template/2.html)
+- [Scripts to Rule Them All (2015)](https://github.blog/2015-06-30-scripts-to-rule-them-all/)
 
-- [Everything we actually know about the Apple Neural Engine (ANE)](https://github.com/hollance/neural-engine)
+- [A new optionally-typed general purpose programming language](https://github.com/StanzaOrg/lbstanza)
 
-- [Catalog of Elixir-specific code smells](https://github.com/lucasvegi/Elixir-Code-Smells)
+- [Benchmarking ORMs with realistic queries](https://github.com/edgedb/imdbench)
 
-- [OpenBSD/arm64 on Apple M1 systems](https://marc.info/?l=openbsd-arm&m=164768992119719&w=2)
+- [An Introduction To Generics](https://go.dev/blog/intro-generics)
 
-- [Lanai, the mystery CPU architecture in LLVM](https://q3k.org/lanai.html)
+- [Compiler Explorer](https://godbolt.org/)
 
-- [Please put units in names](https://ruudvanasseldonk.com/2022/03/20/please-put-units-in-names)
+- [Implementing a toy version of TLS 1.3](https://jvns.ca/blog/2022/03/23/a-toy-version-of-tls/)
 
-- [A platform for open source projects to find maintainers](https://seeking-maintainers.net)
+- [Understanding The Dreamcast GD-ROM Layout](https://multimedia.cx/eggs/understanding-the-dreamcast-gd-rom-layout/)
 
-- [Git Can Break Automated Tests](https://telemachus.me/git-can-break-your-tests)
+- [The Power, pt 1 OR How Plasmas Become Cat Pictures](https://nick-black.com/dankwiki/index.php?title=The_Power,_pt_1)
 
-- [The opportunity will find you](https://thoughtbot.com/blog/the-opportunity-will-find-you)
+- [Extracting Triangular 3D Models, Materials, and Lighting From Images](https://nvlabs.github.io/nvdiffrec/)
 
-- [Claimed security breach of Okta](https://twitter.com/_MG_/status/1506109152665382920)
+- [AWS Graviton vs M1 vs M1 Pro Node.js Benchmarks](https://spacedoutandsmiling.com/blog/2021-12-27-nerdy-aws-graviton-vs-m1-vs-m1-pro-nodejsr-benchmarks)
 
-- [How To Build an Evil Compiler](https://www.awelm.com/posts/evil-compiler/)
+- [Interesting bug in Switch kernel](https://twitter.com/qlutoo/status/1506370290967883778)
 
-- [Why Don't You Use](https://www.brendangregg.com/blog/2022-03-19/why-dont-you-use.html)
+- [Vale's Higher RAII, the pattern that saved me a vital 5 hours in the 7DRL Challenge](https://verdagon.dev/blog/higher-raii-7drl)
 
-- [Reflections on Trusting Trust (1984)](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)
+- [ZFS Compatibility](https://vermaden.wordpress.com/2022/03/25/zfs-compatibility/)
 
-- [Why it’s easier to recover unsaved documents in Kate than GEdit](https://www.ctrl.blog/entry/kate-swp.html)
+- [Functional Queues](https://vfoley.xyz/functional-queues/)
 
-- [Structuring Machine Learning Code: Design Patterns & Clean Code](https://www.neuraxio.com/blogs/news/structuring-machine-learning-code-design-patterns-clean-code?language=🐍)
+- [Mozilla’s vision for the evolution of the Web](https://webvision.mozilla.org/)
+
+- [Benchmarking AWS, Azure, & GCP in the 2021 Cloud Report](https://www.cockroachlabs.com/blog/2021-cloud-report/)
+
+- [Dragonfire Internet Services: A Retrospective [2008]](https://www.dragonfire.net/)
