@@ -1,49 +1,49 @@
-- [Mason jars](http://blog.cretaria.com/posts/mason-jars.html)
+- [Software Visualizations to Analyze Memory Consumption: A Literature Review](http://bergel.eu/MyPapers/Fern22a-ACMSurvey.pdf)
 
-- [Abuse Of Some Sum Types In OO Languages](http://www.jerf.org/iri/post/2960)
+- [Understanding Bitemporal Data](https://abhinavomprakash.com/posts/understanding-bitemporal-data/)
 
-- [Benchmark of WebAssembly runtimes - 2021 Q1](https://00f.net/2021/02/22/webassembly-runtimes-benchmarks/)
+- [Exporting and importing Youtube channel subscriptions with AppleScript](https://andregarzia.com/2022/03/exporting-and-importing-youtube-channel-subscriptions-with-applescript.html)
 
-- [Preface to an Unwritten Programming Language Book](https://avdi.codes/preface-to-an-unwritten-programming-language-book/)
+- [the tragedy of gethostbyname](https://ariadne.space/2022/03/27/the-tragedy-of-gethostbyname/)
 
-- [Epyx's Crush, Crumble, & Chomp](https://computeradsfromthepast.substack.com/p/crush-crumble-and-chomp)
+- [A Conversational Paradigm for Program Synthesis](https://arxiv.org/abs/2203.13474)
 
-- [Anatomy of a ghost CVE](https://daniel.haxx.se/blog/2022/03/23/anatomy-of-a-ghost-cve/)
+- [Daily-driving a Mac, one year later](https://catfox.life/2022/03/26/daily-driving-a-mac-one-year-later/)
 
-- [On working through difficult problems](https://derw.substack.com/p/on-working-through-difficult-problems)
+- [The counter-intuitive rise of Python in scientific computing (2020)](https://cerfacs.fr/coop/fortran-vs-python)
 
-- [Swapping two Numbers without Temporary Variables](https://garrit.xyz/posts/2022-03-24-swapping-numbers-without-temp)
+- [How Side Effects Work in FP](https://chadnauseam.com/coding/random/how-side-effects-work-in-fp/)
 
-- [Scripts to Rule Them All (2015)](https://github.blog/2015-06-30-scripts-to-rule-them-all/)
+- [Difftastic: a diff that understands syntax](https://github.com/Wilfred/difftastic)
 
-- [A new optionally-typed general purpose programming language](https://github.com/StanzaOrg/lbstanza)
+- [septum: Context-based code search tool](https://github.com/pyjarrett/septum)
 
-- [Benchmarking ORMs with realistic queries](https://github.com/edgedb/imdbench)
+- [gocaml: Practical statically typed functional programming language implementation with Go and LLVM](https://github.com/rhysd/gocaml)
 
-- [An Introduction To Generics](https://go.dev/blog/intro-generics)
+- [High Assurance Rust](https://highassurance.rs/)
 
-- [Compiler Explorer](https://godbolt.org/)
+- [Running CP/M on the Raspberry Pi Pico microcontroller](https://kevinboone.me/cpicom.html)
 
-- [Implementing a toy version of TLS 1.3](https://jvns.ca/blog/2022/03/23/a-toy-version-of-tls/)
+- [Why the fascination with retrocomputing?](https://kevinboone.me/retrocomputing.html)
 
-- [Understanding The Dreamcast GD-ROM Layout](https://multimedia.cx/eggs/understanding-the-dreamcast-gd-rom-layout/)
+- [Debian 11.3 released](https://lists.debian.org/debian-announce/2022/msg00000.html)
 
-- [The Power, pt 1 OR How Plasmas Become Cat Pictures](https://nick-black.com/dankwiki/index.php?title=The_Power,_pt_1)
+- [Self Modifying Code](https://matklad.github.io//2022/03/26/self-modifying-code.html)
 
-- [Extracting Triangular 3D Models, Materials, and Lighting From Images](https://nvlabs.github.io/nvdiffrec/)
+- [Browser In The Browser (BITB) Attack](https://mrd0x.com/browser-in-the-browser-phishing-attack/)
 
-- [AWS Graviton vs M1 vs M1 Pro Node.js Benchmarks](https://spacedoutandsmiling.com/blog/2021-12-27-nerdy-aws-graviton-vs-m1-vs-m1-pro-nodejsr-benchmarks)
+- [Running minor tasks with a simple job system in Django](https://nessuent.xyz/posts/2022-03-26_Django_jobs.html)
 
-- [Interesting bug in Switch kernel](https://twitter.com/qlutoo/status/1506370290967883778)
+- [How to write a linter using tree-sitter in an hour](https://siraben.dev/2022/03/22/tree-sitter-linter.html)
 
-- [Vale's Higher RAII, the pattern that saved me a vital 5 hours in the 7DRL Challenge](https://verdagon.dev/blog/higher-raii-7drl)
+- [The Tragedy of UCS-2](https://unascribed.com/b/2019-08-02-the-tragedy-of-ucs2.html)
 
-- [ZFS Compatibility](https://vermaden.wordpress.com/2022/03/25/zfs-compatibility/)
+- [The DEC/Compaq Turbo Laser 6 AlphaServer KN7CH Processor](https://www.cpushack.com/2022/03/26/the-dec-compaq-turbo-laser-6-alphaserver-kn7ch-processor/)
 
-- [Functional Queues](https://vfoley.xyz/functional-queues/)
+- [A brief walkthrough on how TypeScript implemented Inlay Hints](https://www.huy.rocks/everyday/03-24-2022-typescript-source-code-walkthrough-inlayhints)
 
-- [Mozilla’s vision for the evolution of the Web](https://webvision.mozilla.org/)
+- [Writing Text with Flag Emojis](https://www.mcclimon.org/blog/writing-text-with-flag-emojis/)
 
-- [Benchmarking AWS, Azure, & GCP in the 2021 Cloud Report](https://www.cockroachlabs.com/blog/2021-cloud-report/)
+- [Factor in 2022](https://www.youtube.com/watch?v=OLh61q4c4XE)
 
-- [Dragonfire Internet Services: A Retrospective [2008]](https://www.dragonfire.net/)
+- [Emacs DWIM: swiper vs isearch vs phi-search](https://xenodium.com/emacs-dwim-swiper-vs-isearch-vs-phi-search/)
