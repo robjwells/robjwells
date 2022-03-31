@@ -1,49 +1,43 @@
-- [Software Visualizations to Analyze Memory Consumption: A Literature Review](http://bergel.eu/MyPapers/Fern22a-ACMSurvey.pdf)
+- [Your computer is a distributed system](http://catern.com/compdist.html)
 
-- [Understanding Bitemporal Data](https://abhinavomprakash.com/posts/understanding-bitemporal-data/)
+- [Algebraic Shift Register Sequences](http://www.cs.uky.edu/~klapper/pdf/algebraic.pdf)
 
-- [Exporting and importing Youtube channel subscriptions with AppleScript](https://andregarzia.com/2022/03/exporting-and-importing-youtube-channel-subscriptions-with-applescript.html)
+- [The 2021 ACM Turing Award](https://amturing.acm.org/)
 
-- [the tragedy of gethostbyname](https://ariadne.space/2022/03/27/the-tragedy-of-gethostbyname/)
+- [it is correct to refer to GNU/Linux as GNU/Linux](https://ariadne.space/2022/03/30/it-is-correct-to-refer-to-gnu-linux-as-gnu-linux/)
 
-- [A Conversational Paradigm for Program Synthesis](https://arxiv.org/abs/2203.13474)
+- [Implementing cosine in C from scratch](https://austinhenley.com/blog/cosine.html)
 
-- [Daily-driving a Mac, one year later](https://catfox.life/2022/03/26/daily-driving-a-mac-one-year-later/)
+- [What to Expect from Python 3.11?](https://bas.codes/posts/new-features-python-3-11)
 
-- [The counter-intuitive rise of Python in scientific computing (2020)](https://cerfacs.fr/coop/fortran-vs-python)
+- [Baby's First AWS Deployment](https://blog.verygoodsoftwarenotvirus.ru/posts/babys-first-aws/)
 
-- [How Side Effects Work in FP](https://chadnauseam.com/coding/random/how-side-effects-work-in-fp/)
+- [Transformer Inference Arithmetic - Understanding Performance From Few Principles](https://carolchen.me/blog/transformer-inference-arithmetic/)
 
-- [Difftastic: a diff that understands syntax](https://github.com/Wilfred/difftastic)
+- [Strict provenance: a teachable memory model (experiment) for Rust](https://doc.rust-lang.org/nightly/std/ptr/index.html#strict-provenance)
 
-- [septum: Context-based code search tool](https://github.com/pyjarrett/septum)
+- [Architecture of a Database System](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)
 
-- [gocaml: Practical statically typed functional programming language implementation with Go and LLVM](https://github.com/rhysd/gocaml)
+- [Consul at Fly.io](https://fly.io/blog/a-foolish-consistency/)
 
-- [High Assurance Rust](https://highassurance.rs/)
+- [zee: A modern text editor for the terminal written in Rust](https://github.com/mcobzarenco/zee)
 
-- [Running CP/M on the Raspberry Pi Pico microcontroller](https://kevinboone.me/cpicom.html)
+- [Ruby -> Go at the snap of your fingers](https://github.com/redneckbeard/thanos)
 
-- [Why the fascination with retrocomputing?](https://kevinboone.me/retrocomputing.html)
+- [Announcing Grafana Mimir, the most scalable open source TSDB in the world](https://grafana.com/blog/2022/03/30/announcing-grafana-mimir/)
 
-- [Debian 11.3 released](https://lists.debian.org/debian-announce/2022/msg00000.html)
+- [Helix 22.03 released. A modal, terminal based, text editor written in Rust](https://helix-editor.com/news/release-22-03-highlights/)
 
-- [Self Modifying Code](https://matklad.github.io//2022/03/26/self-modifying-code.html)
+- [GPT-3 can run code](https://mayt.substack.com/p/gpt-3-can-run-code)
 
-- [Browser In The Browser (BITB) Attack](https://mrd0x.com/browser-in-the-browser-phishing-attack/)
+- [Generics can make your Go code slower](https://planetscale.com/blog/generics-can-make-your-go-code-slower)
 
-- [Running minor tasks with a simple job system in Django](https://nessuent.xyz/posts/2022-03-26_Django_jobs.html)
+- [React v18.0](https://reactjs.org/blog/2022/03/29/react-v18.html)
 
-- [How to write a linter using tree-sitter in an hour](https://siraben.dev/2022/03/22/tree-sitter-linter.html)
+- [Sorbet: Stripe's type checker for Ruby](https://stripe.com/blog/sorbet-stripes-type-checker-for-ruby)
 
-- [The Tragedy of UCS-2](https://unascribed.com/b/2019-08-02-the-tragedy-of-ucs2.html)
+- [Serenity Browser passes Acid3](https://twitter.com/awesomekling/status/1508953394836353024)
 
-- [The DEC/Compaq Turbo Laser 6 AlphaServer KN7CH Processor](https://www.cpushack.com/2022/03/26/the-dec-compaq-turbo-laser-6-alphaserver-kn7ch-processor/)
+- [Fundamentals & Deployment](https://underjord.io/fundamentals-and-deployment.html)
 
-- [A brief walkthrough on how TypeScript implemented Inlay Hints](https://www.huy.rocks/everyday/03-24-2022-typescript-source-code-walkthrough-inlayhints)
-
-- [Writing Text with Flag Emojis](https://www.mcclimon.org/blog/writing-text-with-flag-emojis/)
-
-- [Factor in 2022](https://www.youtube.com/watch?v=OLh61q4c4XE)
-
-- [Emacs DWIM: swiper vs isearch vs phi-search](https://xenodium.com/emacs-dwim-swiper-vs-isearch-vs-phi-search/)
+- [Spotlight on Meson's full-featured developer environment](https://www.collabora.com/news-and-blog/blog/2022/03/30/spotlight-on-meson-full-featured-developer-environment/)
