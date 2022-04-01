@@ -1,43 +1,47 @@
 - [Your computer is a distributed system](http://catern.com/compdist.html)
 
-- [Algebraic Shift Register Sequences](http://www.cs.uky.edu/~klapper/pdf/algebraic.pdf)
-
-- [The 2021 ACM Turing Award](https://amturing.acm.org/)
-
-- [it is correct to refer to GNU/Linux as GNU/Linux](https://ariadne.space/2022/03/30/it-is-correct-to-refer-to-gnu-linux-as-gnu-linux/)
-
-- [Implementing cosine in C from scratch](https://austinhenley.com/blog/cosine.html)
+- [My First Clippy Lint](http://jamesmcm.github.io/blog/2022/03/26/my-first-clippy-lint)
 
 - [What to Expect from Python 3.11?](https://bas.codes/posts/new-features-python-3-11)
 
 - [Baby's First AWS Deployment](https://blog.verygoodsoftwarenotvirus.ru/posts/babys-first-aws/)
 
-- [Transformer Inference Arithmetic - Understanding Performance From Few Principles](https://carolchen.me/blog/transformer-inference-arithmetic/)
+- [Unwinding a Stack by Hand with Frame Pointers and ORC](https://blogs.oracle.com/linux/post/unwinding-stack-frame-pointers-and-orc)
+
+- [While I wasn't paying attention, PHP got quite good](https://dnlytras.com/blog/modern-php/)
 
 - [Strict provenance: a teachable memory model (experiment) for Rust](https://doc.rust-lang.org/nightly/std/ptr/index.html#strict-provenance)
 
-- [Architecture of a Database System](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)
+- [Understanding Arm64EC ABI and assembly code](https://docs.microsoft.com/en-us/windows/uwp/porting/arm64ec-abi)
 
-- [Consul at Fly.io](https://fly.io/blog/a-foolish-consistency/)
+- [matrix-highlight: A decentralized and federated way of annotating the web based on Matrix](https://github.com/DanilaFe/matrix-highlight)
+
+- [modelator-py: Utilities for the TLA+ ecoystem](https://github.com/informalsystems/modelator-py)
 
 - [zee: A modern text editor for the terminal written in Rust](https://github.com/mcobzarenco/zee)
 
-- [Ruby -> Go at the snap of your fingers](https://github.com/redneckbeard/thanos)
+- [How Go Mitigates Supply Chain Attacks](https://go.dev/blog/supply-chain)
 
-- [Announcing Grafana Mimir, the most scalable open source TSDB in the world](https://grafana.com/blog/2022/03/30/announcing-grafana-mimir/)
+- [FORCEDENTRY: Sandbox Escape](https://googleprojectzero.blogspot.com/2022/03/forcedentry-sandbox-escape.html)
+
+- [Can Grafana run Doom?](https://grafana.com/blog/2022/03/31/can-grafana-run-doom/)
 
 - [Helix 22.03 released. A modal, terminal based, text editor written in Rust](https://helix-editor.com/news/release-22-03-highlights/)
 
-- [GPT-3 can run code](https://mayt.substack.com/p/gpt-3-can-run-code)
+- [Cache and Prizes](https://infrequently.org/2022/03/cache-and-prizes/)
+
+- [Why APL is a language worth knowing](https://mathspp.com/blog/why-apl-is-a-language-worth-knowing)
+
+- [Technical FAQ on the Digital Markets Act](https://matrix.org/blog/2022/03/30/technical-faq-on-the-digital-markets-act)
+
+- [The smallest and worst HDMI display ever](https://mitxela.com/projects/ddc-oled)
+
+- [ZTA doesn't solve all problems, but partial implementations solve fewer](https://mjg59.dreamwidth.org/59079.html)
+
+- [How we secure Monzo’s banking platform](https://monzo.com/blog/2022/03/31/how-we-secure-monzos-banking-platform/)
 
 - [Generics can make your Go code slower](https://planetscale.com/blog/generics-can-make-your-go-code-slower)
 
-- [React v18.0](https://reactjs.org/blog/2022/03/29/react-v18.html)
+- [gf2p8affineqb: Bit reversal (2020)](https://wunkolo.github.io/post/2020/11/gf2p8affineqb-bit-reversal/)
 
-- [Sorbet: Stripe's type checker for Ruby](https://stripe.com/blog/sorbet-stripes-type-checker-for-ruby)
-
-- [Serenity Browser passes Acid3](https://twitter.com/awesomekling/status/1508953394836353024)
-
-- [Fundamentals & Deployment](https://underjord.io/fundamentals-and-deployment.html)
-
-- [Spotlight on Meson's full-featured developer environment](https://www.collabora.com/news-and-blog/blog/2022/03/30/spotlight-on-meson-full-featured-developer-environment/)
+- [Oil Is Being Implemented "Middle Out"](https://www.oilshell.org/blog/2022/03/middle-out.html)
