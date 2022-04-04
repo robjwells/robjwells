@@ -1,47 +1,47 @@
-- [Your computer is a distributed system](http://catern.com/compdist.html)
+- [Why Rust mutexes look like they do](http://cliffle.com/blog/rust-mutexes/)
 
-- [My First Clippy Lint](http://jamesmcm.github.io/blog/2022/03/26/my-first-clippy-lint)
+- [Reverse-engineering a mysterious Univac computer board](http://www.righto.com/2022/04/reverse-engineering-mysterious-univac.html)
 
-- [What to Expect from Python 3.11?](https://bas.codes/posts/new-features-python-3-11)
+- [Wordle is NP-hard](https://arxiv.org/abs/2203.16713)
 
-- [Baby's First AWS Deployment](https://blog.verygoodsoftwarenotvirus.ru/posts/babys-first-aws/)
+- [Understanding the Strategy Pattern](https://asthasr.github.io/posts/understanding-strategy-pattern/)
 
-- [Unwinding a Stack by Hand with Frame Pointers and ORC](https://blogs.oracle.com/linux/post/unwinding-stack-frame-pointers-and-orc)
+- [The project with a single 11,000-line code file](https://austinhenley.com/blog/11000lines.html)
 
-- [While I wasn't paying attention, PHP got quite good](https://dnlytras.com/blog/modern-php/)
+- [Infinite Mac: An Instant-Booting Quadra in Your Browser](https://blog.persistent.info/2022/03/blog-post.html)
 
-- [Strict provenance: a teachable memory model (experiment) for Rust](https://doc.rust-lang.org/nightly/std/ptr/index.html#strict-provenance)
+- [I wrote a peephole optimizer for QBE](https://briancallahan.net/blog/20220330.html)
 
-- [Understanding Arm64EC ABI and assembly code](https://docs.microsoft.com/en-us/windows/uwp/porting/arm64ec-abi)
+- [The Joy Of Duplexes](https://codahale.com//the-joy-of-duplexes/)
 
-- [matrix-highlight: A decentralized and federated way of annotating the web based on Matrix](https://github.com/DanilaFe/matrix-highlight)
+- [Exploring Neural Networks Visually in the Browser](https://cprimozic.net/blog/neural-network-experiments-and-visualizations/)
 
-- [modelator-py: Utilities for the TLA+ ecoystem](https://github.com/informalsystems/modelator-py)
+- [Faster sorting with Go generics](https://eli.thegreenplace.net/2022/faster-sorting-with-go-generics/)
 
-- [zee: A modern text editor for the terminal written in Rust](https://github.com/mcobzarenco/zee)
+- [Go Generics for Field Level Database Encryption](https://engineering.kablamo.com.au/posts/2022/field-level-data-encryption-in-go)
 
-- [How Go Mitigates Supply Chain Attacks](https://go.dev/blog/supply-chain)
+- [A tour through hyper's service trait](https://fasterthanli.me/articles/futures-nostalgia)
 
-- [FORCEDENTRY: Sandbox Escape](https://googleprojectzero.blogspot.com/2022/03/forcedentry-sandbox-escape.html)
+- [Debugging with GDB](https://felix-knorr.net/posts/2022-02-27-direct-gdb.html)
 
-- [Can Grafana run Doom?](https://grafana.com/blog/2022/03/31/can-grafana-run-doom/)
+- [disruptor: High Performance Inter-Thread Messaging Library](https://github.com/LMAX-Exchange/disruptor)
 
-- [Helix 22.03 released. A modal, terminal based, text editor written in Rust](https://helix-editor.com/news/release-22-03-highlights/)
+- [aeron: Efficient reliable UDP unicast, UDP multicast, and IPC message transport](https://github.com/real-logic/aeron)
 
-- [Cache and Prizes](https://infrequently.org/2022/03/cache-and-prizes/)
+- [How to ease the production of micro libraries?](https://hyper.dev/a/how-to-ease-the-production-of-micro-libraries/)
 
-- [Why APL is a language worth knowing](https://mathspp.com/blog/why-apl-is-a-language-worth-knowing)
+- [My favorite Erlang Program (2013)](https://joearms.github.io/published/2013-11-21-My-favorite-erlang-program.html)
 
-- [Technical FAQ on the Digital Markets Act](https://matrix.org/blog/2022/03/30/technical-faq-on-the-digital-markets-act)
+- [A database for 2022](https://tailscale.com/blog/database-for-2022/)
 
-- [The smallest and worst HDMI display ever](https://mitxela.com/projects/ddc-oled)
+- [Surprising Weak-Ref Implementations: Swift, Obj-C, C++, Rust, and Vale](https://verdagon.dev/blog/surprising-weak-refs)
 
-- [ZTA doesn't solve all problems, but partial implementations solve fewer](https://mjg59.dreamwidth.org/59079.html)
+- [The surprising complexity of interpreting X-Forwarded-For safely](https://www.brainonfire.net/blog/2022/03/04/understanding-using-xff/)
 
-- [How we secure Monzo’s banking platform](https://monzo.com/blog/2022/03/31/how-we-secure-monzos-banking-platform/)
+- [Battleship](https://www.nulliq.dev/posts/battleship/)
 
-- [Generics can make your Go code slower](https://planetscale.com/blog/generics-can-make-your-go-code-slower)
+- [How is PyPy Tested?](https://www.pypy.org/posts/2022/04/how-is-pypy-tested.html)
 
-- [gf2p8affineqb: Bit reversal (2020)](https://wunkolo.github.io/post/2020/11/gf2p8affineqb-bit-reversal/)
+- [Ruby 3.2.0 Preview 1 Released](https://www.ruby-lang.org/en/news/2022/04/03/ruby-3-2-0-preview1-released/)
 
-- [Oil Is Being Implemented "Middle Out"](https://www.oilshell.org/blog/2022/03/middle-out.html)
+- [How 90's dial-up Internet worked, and let's make our own ISP](https://www.youtube.com/watch?v=Je8lwcUPBys)
