@@ -1,47 +1,47 @@
-- [Why Rust mutexes look like they do](http://cliffle.com/blog/rust-mutexes/)
+- [Running a Container off the Host /usr/](https://0pointer.net/blog/running-an-container-off-the-host-usr.html)
 
-- [Reverse-engineering a mysterious Univac computer board](http://www.righto.com/2022/04/reverse-engineering-mysterious-univac.html)
+- [The State of Fortran](https://arxiv.org/abs/2203.15110)
 
-- [Wordle is NP-hard](https://arxiv.org/abs/2203.16713)
+- [Why Don't More Languages Offer Flow Typing?](https://ayazhafiz.com/articles/22/why-dont-more-languages-offer-flow-typing)
 
-- [Understanding the Strategy Pattern](https://asthasr.github.io/posts/understanding-strategy-pattern/)
+- [PIPEFAIL: How a missing shell option slowed Cloudflare down](https://blog.cloudflare.com/pipefail-how-a-missing-shell-option-slowed-cloudflare-down/)
 
-- [The project with a single 11,000-line code file](https://austinhenley.com/blog/11000lines.html)
+- [Hand-optimizing the TCC code generator](https://briancallahan.net/blog/20220406.html)
 
-- [Infinite Mac: An Instant-Booting Quadra in Your Browser](https://blog.persistent.info/2022/03/blog-post.html)
+- [Nix Flakes: Exposing and using NixOS Modules](https://christine.website/blog/nix-flakes-3-2022-04-07)
 
-- [I wrote a peephole optimizer for QBE](https://briancallahan.net/blog/20220330.html)
+- [popey/unsnap: Quickly migrate from using snap packages to flatpaks](https://github.com/popey/unsnap)
 
-- [The Joy Of Duplexes](https://codahale.com//the-joy-of-duplexes/)
+- [The Underwhelming Impact of Software Engineering Research](https://iansommerville.com/technology/research-impact/)
 
-- [Exploring Neural Networks Visually in the Browser](https://cprimozic.net/blog/neural-network-experiments-and-visualizations/)
+- [password based authentication without TLS using SASL](https://inspektor.cloud/blog/password-based-authentication-without-tls-using-sasl)
 
-- [Faster sorting with Go generics](https://eli.thegreenplace.net/2022/faster-sorting-with-go-generics/)
+- [Destroyed at the Boundaries](https://interjectedfuture.com/destroyed-at-the-boundary/)
 
-- [Go Generics for Field Level Database Encryption](https://engineering.kablamo.com.au/posts/2022/field-level-data-encryption-in-go)
+- [my personal website is one binary](https://j3s.sh/thought/my-website-is-one-binary.html)
 
-- [A tour through hyper's service trait](https://fasterthanli.me/articles/futures-nostalgia)
+- [Python f-strings Are More Powerful Than You Might Think](https://martinheinz.dev/blog/70)
 
-- [Debugging with GDB](https://felix-knorr.net/posts/2022-02-27-direct-gdb.html)
+- [TZDB and Some Challenges of Long Data](https://media.libreplanet.org/u/libreplanet/m/tzdb-and-some-challenges-of-long-data-slides/)
 
-- [disruptor: High Performance Inter-Thread Messaging Library](https://github.com/LMAX-Exchange/disruptor)
+- [DALL·E 2 is a new AI system that can create realistic images and art from a description in natural l](https://openai.com/dall-e-2/)
 
-- [aeron: Efficient reliable UDP unicast, UDP multicast, and IPC message transport](https://github.com/real-logic/aeron)
+- [JEP 425: Virtual Threads (Preview)](https://openjdk.java.net/jeps/425)
 
-- [How to ease the production of micro libraries?](https://hyper.dev/a/how-to-ease-the-production-of-micro-libraries/)
+- [Pnpm: Fast, disk space efficient package manager](https://pnpm.io/)
 
-- [My favorite Erlang Program (2013)](https://joearms.github.io/published/2013-11-21-My-favorite-erlang-program.html)
+- [That simple script is still someone's bad day](https://rachelbythebay.com/w/2022/04/05/pipe/)
 
-- [A database for 2022](https://tailscale.com/blog/database-for-2022/)
+- [Labor of Division (Episode I)](https://ridiculousfish.com/blog/posts/labor-of-division-episode-i.html)
 
-- [Surprising Weak-Ref Implementations: Swift, Obj-C, C++, Rust, and Vale](https://verdagon.dev/blog/surprising-weak-refs)
+- [Writing a NetBSD kernel module (2017)](https://saurvs.github.io/post/writing-netbsd-kern-mod/)
 
-- [The surprising complexity of interpreting X-Forwarded-For safely](https://www.brainonfire.net/blog/2022/03/04/understanding-using-xff/)
+- [large-anon: Practical scalable anonymous records for Haskell](https://well-typed.com/blog/2022/04/large-anon/)
 
-- [Battleship](https://www.nulliq.dev/posts/battleship/)
+- [Emacs version 28.1 released](https://www.gnu.org/software/emacs/#Releases)
 
-- [How is PyPy Tested?](https://www.pypy.org/posts/2022/04/how-is-pypy-tested.html)
+- [Researchers Identify ‘Master Problem’ Underlying All Cryptography](https://www.quantamagazine.org/researchers-identify-master-problem-underlying-all-cryptography-20220406/)
 
-- [Ruby 3.2.0 Preview 1 Released](https://www.ruby-lang.org/en/news/2022/04/03/ruby-3-2-0-preview1-released/)
+- [Pockit: A tiny, powerful, modular computer](https://www.youtube.com/watch?v=b3F9OtH2Xx4)
 
-- [How 90's dial-up Internet worked, and let's make our own ISP](https://www.youtube.com/watch?v=Je8lwcUPBys)
+- [Please stop calling it "magic"](https://zverok.space/blog/2017-10-22-stop-magic.html)
