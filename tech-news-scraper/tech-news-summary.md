@@ -1,47 +1,49 @@
-- [Running a Container off the Host /usr/](https://0pointer.net/blog/running-an-container-off-the-host-usr.html)
+- [Reverse-engineering the LM185 voltage reference chip and its bandgap reference](http://www.righto.com/2022/04/reverse-engineering-lm185-voltage.html)
 
-- [The State of Fortran](https://arxiv.org/abs/2203.15110)
+- [Goodbye Tracking? Impact of iOS App Tracking Transparency and Privacy Labels](https://arxiv.org/abs/2204.03556)
 
-- [Why Don't More Languages Offer Flow Typing?](https://ayazhafiz.com/articles/22/why-dont-more-languages-offer-flow-typing)
+- [Using ELisp as an HTML templating engine](https://bitspook.in/blog/using-elisp-as-an/)
 
-- [PIPEFAIL: How a missing shell option slowed Cloudflare down](https://blog.cloudflare.com/pipefail-how-a-missing-shell-option-slowed-cloudflare-down/)
+- [What might degrowth computing look like?](https://criticaledtech.com/2022/04/08/what-might-degrowth-computing-look-like/)
 
-- [Hand-optimizing the TCC code generator](https://briancallahan.net/blog/20220406.html)
+- [I Believe Zig Has Function Colors](https://gavinhoward.com/2022/04/i-believe-zig-has-function-colors/)
 
-- [Nix Flakes: Exposing and using NixOS Modules](https://christine.website/blog/nix-flakes-3-2022-04-07)
+- [Graph-oriented live coding language and audio DSP library written in Rust](https://github.com/chaosprint/glicol)
 
-- [popey/unsnap: Quickly migrate from using snap packages to flatpaks](https://github.com/popey/unsnap)
+- [Color standards for terminal emulators](https://github.com/termstandard/colors)
 
-- [The Underwhelming Impact of Software Engineering Research](https://iansommerville.com/technology/research-impact/)
+- [Raytracing, a 4 year retrospective](https://interplayoflight.wordpress.com/2022/04/09/raytracing-a-4-year-retrospective/)
 
-- [password based authentication without TLS using SASL](https://inspektor.cloud/blog/password-based-authentication-without-tls-using-sasl)
+- [Reaching 100 stars on GitHub: what I learned from putting code online](https://j11g.com/2022/04/08/reaching-100-stars-on-github-what-i-learned-from-putting-code-online/)
 
-- [Destroyed at the Boundaries](https://interjectedfuture.com/destroyed-at-the-boundary/)
+- [Run YOLO v4 Tiny with Tensil on Ultra96 FPGA board](https://k155la3.blog/2022/04/04/tensil-tutorial-for-yolo-v4-tiny-on-ultra96-v2/)
 
-- [my personal website is one binary](https://j3s.sh/thought/my-website-is-one-binary.html)
+- [Maybe Passwords are the Future](https://kevincox.ca/2022/04/07/passwords/)
 
-- [Python f-strings Are More Powerful Than You Might Think](https://martinheinz.dev/blog/70)
+- [Evolving Software: SOLID principles as a continuum](https://kislayverma.com/programming/evolving-software-solid-principles-as-a-continuum/)
 
-- [TZDB and Some Challenges of Long Data](https://media.libreplanet.org/u/libreplanet/m/tzdb-and-some-challenges-of-long-data-slides/)
+- [Russia’s certificate authority for sanctioned organizations](https://koen.engineer/russias-certificate-authority-for-sanctioned-organizations-645d61af8ac6)
 
-- [DALL·E 2 is a new AI system that can create realistic images and art from a description in natural l](https://openai.com/dall-e-2/)
+- [The Coding Interview](https://marcofoco.com/the-coding-interview/)
 
-- [JEP 425: Virtual Threads (Preview)](https://openjdk.java.net/jeps/425)
+- [Goroutines Are Not Significantly Smaller Than Threads](https://matklad.github.io//2021/03/12/goroutines-are-not-significantly-smaller-than-threads.html)
 
-- [Pnpm: Fast, disk space efficient package manager](https://pnpm.io/)
+- [The struggle of using native emoji on the web](https://nolanlawson.com/2022/04/08/the-struggle-of-using-native-emoji-on-the-web/)
 
-- [That simple script is still someone's bad day](https://rachelbythebay.com/w/2022/04/05/pipe/)
+- [Starting your Computer Music Journey with Clojure and Overtone in Emacs](https://savo.rocks/posts/starting-your-computer-music-journey-with-clojure-and-overtone-in-emacs/)
 
-- [Labor of Division (Episode I)](https://ridiculousfish.com/blog/posts/labor-of-division-episode-i.html)
+- [Memorizing a programming language using spaced repetition software (2013)](https://sive.rs/srs)
 
-- [Writing a NetBSD kernel module (2017)](https://saurvs.github.io/post/writing-netbsd-kern-mod/)
+- [The Unexpected Importance of the Trailing Slash](https://tookmund.com/2022/04/importance-of-the-trailing-slash)
 
-- [large-anon: Practical scalable anonymous records for Haskell](https://well-typed.com/blog/2022/04/large-anon/)
+- [Find Jira issues faster with this shortcut](https://www.bejarano.io/jira-issues-shortcut/)
 
-- [Emacs version 28.1 released](https://www.gnu.org/software/emacs/#Releases)
+- [Takeaways From 3 Years Working In Machine Learning](https://www.epistem.ink/p/takeaways-from-3-years-working-in?s=w)
 
-- [Researchers Identify ‘Master Problem’ Underlying All Cryptography](https://www.quantamagazine.org/researchers-identify-master-problem-underlying-all-cryptography-20220406/)
+- [Haiku Activity & Contract Report: March 2022](https://www.haiku-os.org/blog/waddlesplash/2022-04-08_haiku_activity_contract_report_march_2022/)
 
-- [Pockit: A tiny, powerful, modular computer](https://www.youtube.com/watch?v=b3F9OtH2Xx4)
+- [Those HTML Attributes You Never Use](https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/)
 
-- [Please stop calling it "magic"](https://zverok.space/blog/2017-10-22-stop-magic.html)
+- [You should know: rand() may call malloc()](https://www.thingsquare.com/blog/articles/rand-may-call-malloc/)
+
+- [Harder Drive: Hard drives we didn't want or need](https://www.youtube.com/watch?v=JcJSW7Rprio)
