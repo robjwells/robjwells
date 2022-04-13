@@ -1,49 +1,49 @@
-- [Reverse-engineering the LM185 voltage reference chip and its bandgap reference](http://www.righto.com/2022/04/reverse-engineering-lm185-voltage.html)
+- [A maze generator in WebAssembly in Rust](http://frigidriver.com/mazes2)
 
-- [Goodbye Tracking? Impact of iOS App Tracking Transparency and Privacy Labels](https://arxiv.org/abs/2204.03556)
+- [-h --help -help help --? -? ????](https://blog.craftyguy.net/cmdline-help/)
 
-- [Using ELisp as an HTML templating engine](https://bitspook.in/blog/using-elisp-as-an/)
+- [AWS RDS Vulnerability Leads to AWS Internal Service Credentials](https://blog.lightspin.io/aws-rds-critical-security-vulnerability)
 
-- [What might degrowth computing look like?](https://criticaledtech.com/2022/04/08/what-might-degrowth-computing-look-like/)
+- [Everything in OCaml, a blog generated and served in OCaml using MirageOS](https://blog.osau.re/articles/blog_requiem.html)
 
-- [I Believe Zig Has Function Colors](https://gavinhoward.com/2022/04/i-believe-zig-has-function-colors/)
+- [You can automate more than you think](https://buttondown.email/hillelwayne/archive/you-can-automate-more-than-you-think/)
 
-- [Graph-oriented live coding language and audio DSP library written in Rust](https://github.com/chaosprint/glicol)
+- [Surveying 10+ SQL parser libraries in a few high-level languages](https://datastation.multiprocess.io/blog/2022-04-11-sql-parsers.html)
 
-- [Color standards for terminal emulators](https://github.com/termstandard/colors)
+- [Watch People Doing the Thing](https://earthly.dev/blog/golang-streamers/)
 
-- [Raytracing, a 4 year retrospective](https://interplayoflight.wordpress.com/2022/04/09/raytracing-a-4-year-retrospective/)
+- [Taking Hashrocket's "Ultimate Elixir CI" to the Next Level](https://felt.com/blog/hashrocket-ultimate-elixir-to-the-next-level)
 
-- [Reaching 100 stars on GitHub: what I learned from putting code online](https://j11g.com/2022/04/08/reaching-100-stars-on-github-what-i-learned-from-putting-code-online/)
+- [Git Security Vulnerability Announced](https://github.blog/2022-04-12-git-security-vulnerability-announced/)
 
-- [Run YOLO v4 Tiny with Tensil on Ultra96 FPGA board](https://k155la3.blog/2022/04/04/tensil-tutorial-for-yolo-v4-tiny-on-ultra96-v2/)
+- [Enarx 0.4.0, a Linux foundation project for running code in trusted enclaves (SGX, SEV)](https://github.com/enarx/enarx/releases/tag/v0.4.0)
 
-- [Maybe Passwords are the Future](https://kevincox.ca/2022/04/07/passwords/)
+- [Working with UTF8, UTF16 and UTF32 characters in C++... And Emojis as Well](https://github.com/naver/lispe/wiki/6.12-Working-with-UTF8,-UTF16-and-UTF32-characters-in-CPlusPlus,-and-by-the-way-with-emojis-as-well...)
 
-- [Evolving Software: SOLID principles as a continuum](https://kislayverma.com/programming/evolving-software-solid-principles-as-a-continuum/)
+- [Contractual Semver](https://github.com/pschanely/contractual-semver)
 
-- [Russia’s certificate authority for sanctioned organizations](https://koen.engineer/russias-certificate-authority-for-sanctioned-organizations-645d61af8ac6)
+- [When To Use Generics](https://go.dev/blog/when-generics)
 
-- [The Coding Interview](https://marcofoco.com/the-coding-interview/)
+- [How is the free firmware for the Raspberry progressing?](https://gwolf.org/2022/04/how-is-the-free-firmware-for-the-raspberry-progressing.html)
 
-- [Goroutines Are Not Significantly Smaller Than Threads](https://matklad.github.io//2021/03/12/goroutines-are-not-significantly-smaller-than-threads.html)
+- [NodeJS packages don't deserve your trust](https://josephg.com/blog/node-sandbox/)
 
-- [The struggle of using native emoji on the web](https://nolanlawson.com/2022/04/08/the-struggle-of-using-native-emoji-on-the-web/)
+- [The smallest Docker image to serve static websites](https://lipanski.com/posts/smallest-docker-image-static-website)
 
-- [Starting your Computer Music Journey with Clojure and Overtone in Emacs](https://savo.rocks/posts/starting-your-computer-music-journey-with-clojure-and-overtone-in-emacs/)
+- [Building a Streaming Music Service with Phoenix and Elixir](https://lofi.limo/blog/building-a-streaming-music-service-with-phoenix-and-elixir)
 
-- [Memorizing a programming language using spaced repetition software (2013)](https://sive.rs/srs)
+- [How to speed up the Rust compiler in April 2022](https://nnethercote.github.io/2022/04/12/how-to-speed-up-the-rust-compiler-in-april-2022.html)
 
-- [The Unexpected Importance of the Trailing Slash](https://tookmund.com/2022/04/importance-of-the-trailing-slash)
+- [The Vale Programming Language](https://vale.dev/)
 
-- [Find Jira issues faster with this shortcut](https://www.bejarano.io/jira-issues-shortcut/)
+- [Multiranges in PostgreSQL 14](https://www.cybertec-postgresql.com/en/multiranges-in-postgresql-14/)
 
-- [Takeaways From 3 Years Working In Machine Learning](https://www.epistem.ink/p/takeaways-from-3-years-working-in?s=w)
+- [A New Chapter Begins for Triton and SmartOS](https://www.joyent.com/blog/a-new-chapter-begins-for-triton-and-smartos)
 
-- [Haiku Activity & Contract Report: March 2022](https://www.haiku-os.org/blog/waddlesplash/2022-04-08_haiku_activity_contract_report_march_2022/)
+- [Glow In The Dark Memory](https://www.mikekohn.net/micro/glow_in_the_dark_memory.php)
 
-- [Those HTML Attributes You Never Use](https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/)
+- [How EEx Turns Your Template Into HTML](https://www.mitchellhanberg.com/how-eex-turns-your-template-into-html/)
 
-- [You should know: rand() may call malloc()](https://www.thingsquare.com/blog/articles/rand-may-call-malloc/)
+- [Qt 6.3 released](https://www.qt.io/blog/qt-6.3-released)
 
-- [Harder Drive: Hard drives we didn't want or need](https://www.youtube.com/watch?v=JcJSW7Rprio)
+- [Pointers Are Complicated III, or: Pointer-integer casts exposed](https://www.ralfj.de/blog/2022/04/11/provenance-exposed.html)
