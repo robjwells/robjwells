@@ -1,49 +1,45 @@
-- [A maze generator in WebAssembly in Rust](http://frigidriver.com/mazes2)
+- [The Complete History of Lemmings (2006)](http://www.javalemmings.com/DMA/Lem_1.htm)
 
-- [-h --help -help help --? -? ????](https://blog.craftyguy.net/cmdline-help/)
+- [A Study of Real-World Data Races in Golang](https://arxiv.org/pdf/2204.00764.pdf )
 
-- [AWS RDS Vulnerability Leads to AWS Internal Service Credentials](https://blog.lightspin.io/aws-rds-critical-security-vulnerability)
+- [Contra Chrome](https://contrachrome.com/)
 
-- [Everything in OCaml, a blog generated and served in OCaml using MirageOS](https://blog.osau.re/articles/blog_requiem.html)
+- [Git Jump to Vim Quickfix](https://evantravers.com/articles/2022/04/14/git-jump-to-vim-quickfix/)
 
-- [You can automate more than you think](https://buttondown.email/hillelwayne/archive/you-can-automate-more-than-you-think/)
+- [Introducing FoundationDB Client API for Tokio](https://fdb-rs.github.io/blog/introducing-fdb-crate/)
 
-- [Surveying 10+ SQL parser libraries in a few high-level languages](https://datastation.multiprocess.io/blog/2022-04-11-sql-parsers.html)
+- [cgo does clear errno](https://flak.tedunangst.com/post/cgo-does-clear-errno)
 
-- [Watch People Doing the Thing](https://earthly.dev/blog/golang-streamers/)
+- [How to Freaking Hire Great Developers](https://freakingrectangle.wordpress.com/2022/04/15/how-to-freaking-hire-great-developers/)
 
-- [Taking Hashrocket's "Ultimate Elixir CI" to the Next Level](https://felt.com/blog/hashrocket-ultimate-elixir-to-the-next-level)
+- [Security alert: Attack campaign involving stolen OAuth user tokens issued to two third-party integrators](https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/)
 
-- [Git Security Vulnerability Announced](https://github.blog/2022-04-12-git-security-vulnerability-announced/)
+- [A library to easily write software-emulated hardware](https://github.com/YJDoc2/pcb-rs)
 
-- [Enarx 0.4.0, a Linux foundation project for running code in trusted enclaves (SGX, SEV)](https://github.com/enarx/enarx/releases/tag/v0.4.0)
+- [Release NVIM v0.7.0](https://github.com/neovim/neovim/releases/tag/v0.7.0)
 
-- [Working with UTF8, UTF16 and UTF32 characters in C++... And Emojis as Well](https://github.com/naver/lispe/wiki/6.12-Working-with-UTF8,-UTF16-and-UTF32-characters-in-CPlusPlus,-and-by-the-way-with-emojis-as-well...)
+- [How we lost 54k GitHub stars](https://httpie.io/blog/stardust)
 
-- [Contractual Semver](https://github.com/pschanely/contractual-semver)
+- [The Broken Half of Interactive Programs](https://interjectedfuture.com/the-broken-half-of-interactive-programs/)
 
-- [When To Use Generics](https://go.dev/blog/when-generics)
+- [1,000,000 Concurrent Connections](https://josephmate.github.io/2022-04-14-max-connections/)
 
-- [How is the free firmware for the Raspberry progressing?](https://gwolf.org/2022/04/how-is-the-free-firmware-for-the-raspberry-progressing.html)
+- [Monitoring the kernel.org Transparency Log for a year](https://linderud.dev/blog/monitoring-the-kernel.org-transparency-log-for-a-year/)
 
-- [NodeJS packages don't deserve your trust](https://josephg.com/blog/node-sandbox/)
+- [Rustaceans at the border](https://lwn.net/SubscriberLink/889924/2b330ed9ea4a9e23/)
 
-- [The smallest Docker image to serve static websites](https://lipanski.com/posts/smallest-docker-image-static-website)
+- [What made the NES so interesting?](https://nicole.express/2022/the-nes-as-an-artifact.html)
 
-- [Building a Streaming Music Service with Phoenix and Elixir](https://lofi.limo/blog/building-a-streaming-music-service-with-phoenix-and-elixir)
+- [Reversing Sound Blaster X7 Control for fun and Linux support](https://sayr.us/reverse/soundblaster-reverse/)
 
-- [How to speed up the Rust compiler in April 2022](https://nnethercote.github.io/2022/04/12/how-to-speed-up-the-rust-compiler-in-april-2022.html)
+- [Tails - Call for testing: 5.0~beta1](https://tails.boum.org/news/test_5.0-beta1/)
 
-- [The Vale Programming Language](https://vale.dev/)
+- [Are You Really Muted?: A Privacy Analysis of Mute Buttons in Video Conferencing Apps](https://wiscprivacy.com/publication/vca_mute/)
 
-- [Multiranges in PostgreSQL 14](https://www.cybertec-postgresql.com/en/multiranges-in-postgresql-14/)
+- [How I'm Using SNI Proxying and IPv6 to Share Port 443 Between Webapps](https://www.agwa.name/blog/post/using_sni_proxying_and_ipv6_to_share_port_443)
 
-- [A New Chapter Begins for Triton and SmartOS](https://www.joyent.com/blog/a-new-chapter-begins-for-triton-and-smartos)
+- [Boost Version 1.79.0](https://www.boost.org/users/history/version_1_79_0.html)
 
-- [Glow In The Dark Memory](https://www.mikekohn.net/micro/glow_in_the_dark_memory.php)
+- [Practical Go Benchmarks (2018)](https://www.instana.com/blog/practical-golang-benchmarks/)
 
-- [How EEx Turns Your Template Into HTML](https://www.mitchellhanberg.com/how-eex-turns-your-template-into-html/)
-
-- [Qt 6.3 released](https://www.qt.io/blog/qt-6.3-released)
-
-- [Pointers Are Complicated III, or: Pointer-integer casts exposed](https://www.ralfj.de/blog/2022/04/11/provenance-exposed.html)
+- [Fennel: The Practical Lisp](https://www.mattroelle.com/fennel-the-practical-lisp)
