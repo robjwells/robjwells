@@ -1,45 +1,49 @@
-- [The Complete History of Lemmings (2006)](http://www.javalemmings.com/DMA/Lem_1.htm)
+- [Art Bits from HyperCard](http://archives.somnolescent.net/web/hypercard/)
 
-- [A Study of Real-World Data Races in Golang](https://arxiv.org/pdf/2204.00764.pdf )
+- [Tearing out the Emacs windows manager for tiling window managers](http://techtrickery.com/tearing-out-the-emacs-window-manager.html)
 
-- [Contra Chrome](https://contrachrome.com/)
+- [Copy-and-Patch Compilation: A fast compilation algorithm for high-level languages and bytecode](https://arxiv.org/abs/2011.13127)
 
-- [Git Jump to Vim Quickfix](https://evantravers.com/articles/2022/04/14/git-jump-to-vim-quickfix/)
+- [Parsing and Validating Dates in Awk](https://blog.jpalardy.com/posts/parsing-and-validate-dates-in-awk/)
 
-- [Introducing FoundationDB Client API for Tokio](https://fdb-rs.github.io/blog/introducing-fdb-crate/)
+- [How Async Functions in Traits could Work in Rustc](https://blog.theincredibleholk.org/blog/2022/04/18/how-async-functions-in-traits-could-work-in-rustc/)
 
-- [cgo does clear errno](https://flak.tedunangst.com/post/cgo-does-clear-errno)
+- [Stop Using Politics As A Cudgel To Discourage Experimentation](https://christine.website/blog/politics-cudgel-experimentation-2022-04-21)
 
-- [How to Freaking Hire Great Developers](https://freakingrectangle.wordpress.com/2022/04/15/how-to-freaking-hire-great-developers/)
+- [cleanlab 2.0: Automatically Find Errors in ML Datasets](https://cleanlab.ai/blog/cleanlab-2/)
 
-- [Security alert: Attack campaign involving stolen OAuth user tokens issued to two third-party integrators](https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/)
+- [Ubuntu 22.04 LTS Release Notes](https://discourse.ubuntu.com/t/jammy-jellyfish-release-notes/24668)
 
-- [A library to easily write software-emulated hardware](https://github.com/YJDoc2/pcb-rs)
+- [Embedding Information in Text Documents Using Glyph Perturbation](https://dl.acm.org/doi/pdf/10.1145/3152823)
 
-- [Release NVIM v0.7.0](https://github.com/neovim/neovim/releases/tag/v0.7.0)
+- [the three line single binary compiler free blog](https://flak.tedunangst.com/post/the-three-line-single-binary-compiler-free-blog)
 
-- [How we lost 54k GitHub stars](https://httpie.io/blog/stardust)
+- [GitHub: Private Profiles beta](https://github.blog/changelog/2022-04-21-private-profiles/)
 
-- [The Broken Half of Interactive Programs](https://interjectedfuture.com/the-broken-half-of-interactive-programs/)
+- [Memray: a memory profiler for Python](https://github.com/bloomberg/memray)
 
-- [1,000,000 Concurrent Connections](https://josephmate.github.io/2022-04-14-max-connections/)
+- [Vim Tada - a simple todo manager for vim](https://github.com/dewyze/vim-tada)
 
-- [Monitoring the kernel.org Transparency Log for a year](https://linderud.dev/blog/monitoring-the-kernel.org-transparency-log-for-a-year/)
+- [TypeScript and Set Theory](https://ivov.dev/notes/typescript-and-set-theory)
 
-- [Rustaceans at the border](https://lwn.net/SubscriberLink/889924/2b330ed9ea4a9e23/)
+- [Daniel J. Bernstein's ptyget toolset (2016)](https://jdebp.uk/Softwares/djbwares/bernstein-ptyget.html)
 
-- [What made the NES so interesting?](https://nicole.express/2022/the-nes-as-an-artifact.html)
+- [JavaScript Garbage Collection with WebAssembly is Possible Today](https://jott.live/markdown/js_gc_in_wasm)
 
-- [Reversing Sound Blaster X7 Control for fun and Linux support](https://sayr.us/reverse/soundblaster-reverse/)
+- [Fundamentals of the FreeBSD Shell](https://klarasystems.com/articles/interacting-with-freebsd-learning-the-fundamentals-of-the-freebsd-shell-2/)
 
-- [Tails - Call for testing: 5.0~beta1](https://tails.boum.org/news/test_5.0-beta1/)
+- [Technical Debt Ratio: A Definition and Why It Matters](https://linearb.io/blog/technical-debt-ratio/)
 
-- [Are You Really Muted?: A Privacy Analysis of Mute Buttons in Video Conferencing Apps](https://wiscprivacy.com/publication/vca_mute/)
+- [RuboCop Turns 10](https://metaredux.com/posts/2022/04/21/rubocop-turns-10.html)
 
-- [How I'm Using SNI Proxying and IPv6 to Share Port 443 Between Webapps](https://www.agwa.name/blog/post/using_sni_proxying_and_ipv6_to_share_port_443)
+- [plan9palette.fnl](https://paste.sr.ht/~icefox/1dae9fdaf210ca88146190340c0b5b706dbe7808)
 
-- [Boost Version 1.79.0](https://www.boost.org/users/history/version_1_79_0.html)
+- [Rust9x: Compile Rust code for Windows 95, NT and above](https://seri.tools/blog/announcing-rust9x/)
 
-- [Practical Go Benchmarks (2018)](https://www.instana.com/blog/practical-golang-benchmarks/)
+- [Beyond The Web: Reassembly of the Internet](https://socketsupply.qa/blog/beyond-the-web/)
 
-- [Fennel: The Practical Lisp](https://www.mattroelle.com/fennel-the-practical-lisp)
+- [OpenBSD webzine issue #9](https://webzine.puffy.cafe/issue-9.html)
+
+- [OpenBSD 7.1 Released](https://www.openbsd.org/71.html)
+
+- [Python’s “Type Hints” are a bit of a disappointment to me](https://www.uninformativ.de/blog/postings/2022-04-21/0/POSTING-en.html)
