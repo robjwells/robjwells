@@ -1,49 +1,47 @@
-- [Art Bits from HyperCard](http://archives.somnolescent.net/web/hypercard/)
+- [Patching an Embedded OS from 1996 with Ghidra](http://blog.petersobot.com/patching-the-k2500)
 
-- [Tearing out the Emacs windows manager for tiling window managers](http://techtrickery.com/tearing-out-the-emacs-window-manager.html)
+- [Picoputer: RP Pico Hardware Transputer – Stack Based With OS in Hardware](http://trochilidae.blogspot.com/2021/07/stack-based-with-os-in-hardware.html)
 
-- [Copy-and-Patch Compilation: A fast compilation algorithm for high-level languages and bytecode](https://arxiv.org/abs/2011.13127)
+- [Maximum Flow and Minimum-Cost Flow in Almost-Linear Time](https://arxiv.org/abs/2203.00671)
 
-- [Parsing and Validating Dates in Awk](https://blog.jpalardy.com/posts/parsing-and-validate-dates-in-awk/)
+- [Chris Lattner on [tracing] garbage collection vs ARC (2017)](https://atp.fm/205-chris-lattner-interview-transcript#gc)
 
-- [How Async Functions in Traits could Work in Rustc](https://blog.theincredibleholk.org/blog/2022/04/18/how-async-functions-in-traits-could-work-in-rustc/)
+- [Default Arguments and Label-based Overloading](https://belkadan.com/blog/2022/04/Default-Arguments-and-Label-based-Overloading/)
 
-- [Stop Using Politics As A Cudgel To Discourage Experimentation](https://christine.website/blog/politics-cudgel-experimentation-2022-04-21)
+- [Crimes with Go Generics](https://christine.website/blog/gonads-2022-04-24)
 
-- [cleanlab 2.0: Automatically Find Errors in ML Datasets](https://cleanlab.ai/blog/cleanlab-2/)
+- [An Introduction to the UNIX Shell](https://cscie26.dce.harvard.edu/~dce-lib113/reference/unix/bourne_shell.pdf)
 
-- [Ubuntu 22.04 LTS Release Notes](https://discourse.ubuntu.com/t/jammy-jellyfish-release-notes/24668)
+- [Idea Assembly Part #473](https://danielbmarkham.com/idea-assembly-part-473/)
 
-- [Embedding Information in Text Documents Using Glyph Perturbation](https://dl.acm.org/doi/pdf/10.1145/3152823)
+- [Generalizing Folds in Haskell](https://danilafe.com/blog/haskell_catamorphisms/)
 
-- [the three line single binary compiler free blog](https://flak.tedunangst.com/post/the-three-line-single-binary-compiler-free-blog)
+- [Now that computers have more than 4MB of memory, can we get seconds on the taskbar?](https://devblogs.microsoft.com/oldnewthing/20220411-00/?p=106456)
 
-- [GitHub: Private Profiles beta](https://github.blog/changelog/2022-04-21-private-profiles/)
+- [Element (Matrix) - Introducing Threads in Beta](https://element.io/blog/introducing-threads-in-beta/)
 
-- [Memray: a memory profiler for Python](https://github.com/bloomberg/memray)
+- [Magic-trace – High-resolution traces of what a process is doing](https://github.com/janestreet/magic-trace)
 
-- [Vim Tada - a simple todo manager for vim](https://github.com/dewyze/vim-tada)
+- [Parallel graph management and execution in heterogeneous computing](https://github.com/uqfoundation/pathos)
 
-- [TypeScript and Set Theory](https://ivov.dev/notes/typescript-and-set-theory)
+- [Introducing the Gleam language server](https://gleam.run/news/v0.21-introducing-the-gleam-language-server/)
 
-- [Daniel J. Bernstein's ptyget toolset (2016)](https://jdebp.uk/Softwares/djbwares/bernstein-ptyget.html)
+- [Compute shaders in graphics: Gaussian blur](https://lisyarus.github.io/blog/graphics/2022/04/21/compute-blur.html)
 
-- [JavaScript Garbage Collection with WebAssembly is Possible Today](https://jott.live/markdown/js_gc_in_wasm)
+- [Reverse engineering a GameBoy Advance game — Complete Guide](https://macabeus.medium.com/reverse-engineering-a-gameboy-advance-game-introduction-ec185bd8e02)
 
-- [Fundamentals of the FreeBSD Shell](https://klarasystems.com/articles/interacting-with-freebsd-learning-the-fundamentals-of-the-freebsd-shell-2/)
+- [PI_STATIC_AND_HIDDEN in glibc rtld](https://maskray.me/blog/2022-04-24-pi-static-and-hidden-in-glibc-rtld)
 
-- [Technical Debt Ratio: A Definition and Why It Matters](https://linearb.io/blog/technical-debt-ratio/)
+- [Why LSP?](https://matklad.github.io//2022/04/25/why-lsp.html)
 
-- [RuboCop Turns 10](https://metaredux.com/posts/2022/04/21/rubocop-turns-10.html)
+- [My upgrade to 25 Gbit/s Fiber To The Home](https://michael.stapelberg.ch/posts/2022-04-23-fiber7-25gbit-upgrade/)
 
-- [plan9palette.fnl](https://paste.sr.ht/~icefox/1dae9fdaf210ca88146190340c0b5b706dbe7808)
+- [Functional programming with bananas, lenses, envelopes and barbed wire](https://ris.utwente.nl/ws/portalfiles/portal/6142049/meijer91functional.pdf)
 
-- [Rust9x: Compile Rust code for Windows 95, NT and above](https://seri.tools/blog/announcing-rust9x/)
+- [Inventing Postscript, the Tech That Took the Pain out of Printing](https://spectrum.ieee.org/adobe-postscript)
 
-- [Beyond The Web: Reassembly of the Internet](https://socketsupply.qa/blog/beyond-the-web/)
+- [An Ode to Shell Scripts](https://twitter.com/marekgibney/status/1518156180085948416)
 
-- [OpenBSD webzine issue #9](https://webzine.puffy.cafe/issue-9.html)
+- [The temptation of writing shell scripts, illustrated](https://utcc.utoronto.ca/~cks/space/blog/programming/ShellScriptTemptation)
 
-- [OpenBSD 7.1 Released](https://www.openbsd.org/71.html)
-
-- [Python’s “Type Hints” are a bit of a disappointment to me](https://www.uninformativ.de/blog/postings/2022-04-21/0/POSTING-en.html)
+- [Zas Editor](https://www.zeditor.app)
