@@ -1,47 +1,49 @@
-- [Patching an Embedded OS from 1996 with Ghidra](http://blog.petersobot.com/patching-the-k2500)
+- [Testing my System Code in /usr/ Without Modifying /usr/](https://0pointer.net/blog/testing-my-system-code-in-usr-without-modifying-usr.html)
 
-- [Picoputer: RP Pico Hardware Transputer – Stack Based With OS in Hardware](http://trochilidae.blogspot.com/2021/07/stack-based-with-os-in-hardware.html)
+- [Can you be sure to clear a line at Tetris?](https://a3nm.net/blog/adversarial_tetris.html)
 
-- [Maximum Flow and Minimum-Cost Flow in Almost-Linear Time](https://arxiv.org/abs/2203.00671)
+- [Exponential Backoff And Jitter](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/)
 
-- [Chris Lattner on [tracing] garbage collection vs ARC (2017)](https://atp.fm/205-chris-lattner-interview-transcript#gc)
+- [gpt2tc: Text Completion and Compression using GPT-2](https://bellard.org/libnc/gpt2tc.html)
 
-- [Default Arguments and Label-based Overloading](https://belkadan.com/blog/2022/04/Default-Arguments-and-Label-based-Overloading/)
+- [Measuring the coverage of a rust program in Github Actions](https://blog.balthazar-rouberol.com/measuring-the-coverage-of-a-rust-program-in-github-actions)
 
-- [Crimes with Go Generics](https://christine.website/blog/gonads-2022-04-24)
+- [I ported the new Hare compiler to OpenBSD](https://briancallahan.net/blog/20220427.html)
 
-- [An Introduction to the UNIX Shell](https://cscie26.dce.harvard.edu/~dce-lib113/reference/unix/bourne_shell.pdf)
+- [The Go Programming Language and Environment](https://cacm.acm.org/magazines/2022/5/260357-the-go-programming-language-and-environment/fulltext)
 
-- [Idea Assembly Part #473](https://danielbmarkham.com/idea-assembly-part-473/)
+- [Derw: a language to make web programming sane, April 2022 status](https://derw.substack.com/p/derw-a-language-to-make-web-programming)
 
-- [Generalizing Folds in Haskell](https://danilafe.com/blog/haskell_catamorphisms/)
+- [A comprehensive test suite for RFC 8259 compliant JSON parsers](https://github.com/nst/JSONTestSuite)
 
-- [Now that computers have more than 4MB of memory, can we get seconds on the taskbar?](https://devblogs.microsoft.com/oldnewthing/20220411-00/?p=106456)
+- [Eqivo: open source telephony API platform](https://github.com/rtckit/eqivo)
 
-- [Element (Matrix) - Introducing Threads in Beta](https://element.io/blog/introducing-threads-in-beta/)
+- [GUIdebook: Graphical User Interface gallery](https://guidebookgallery.org/)
 
-- [Magic-trace – High-resolution traces of what a process is doing](https://github.com/janestreet/magic-trace)
+- [Beating grep with Go](https://healeycodes.com/beating-grep-with-go)
 
-- [Parallel graph management and execution in heterogeneous computing](https://github.com/uqfoundation/pathos)
+- [CAP is Only Part of the Story, we need PACELC](https://inelpandzic.com/articles/cap-is-only-part-of-the-story-we-need-pacelc/)
 
-- [Introducing the Gleam language server](https://gleam.run/news/v0.21-introducing-the-gleam-language-server/)
+- [Designing and testing a highly available Kafka cluster on Kubernetes](https://learnk8s.io/kafka-ha-kubernetes)
 
-- [Compute shaders in graphics: Gaussian blur](https://lisyarus.github.io/blog/graphics/2022/04/21/compute-blur.html)
+- [Writing Rust the Elixir way - 18 months later](https://lunatic.solutions/blog/writing-rust-the-elixir-way-1.5-years-later/)
 
-- [Reverse engineering a GameBoy Advance game — Complete Guide](https://macabeus.medium.com/reverse-engineering-a-gameboy-advance-game-introduction-ec185bd8e02)
+- [C programming language extension: Cedro pre-processor](https://sentido-labs.com/en/library/cedro/202106171400/)
 
-- [PI_STATIC_AND_HIDDEN in glibc rtld](https://maskray.me/blog/2022-04-24-pi-static-and-hidden-in-glibc-rtld)
+- [Slack’s Incident on 2-22-22: Double Trouble with Datastores](https://slack.engineering/slacks-incident-on-2-22-22/)
 
-- [Why LSP?](https://matklad.github.io//2022/04/25/why-lsp.html)
+- [Playing the game Bottomless on OpenBSD](https://videos.pair2jeux.tube/w/9408fa52-80ac-4558-baf9-b61bad715494)
 
-- [My upgrade to 25 Gbit/s Fiber To The Home](https://michael.stapelberg.ch/posts/2022-04-23-fiber7-25gbit-upgrade/)
+- [Introducing zq: an Easier (and Faster) Alternative to jq](https://www.brimdata.io/blog/introducing-zq/)
 
-- [Functional programming with bananas, lenses, envelopes and barbed wire](https://ris.utwente.nl/ws/portalfiles/portal/6142049/meijer91functional.pdf)
+- [Coroutines in C (2000)](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html)
 
-- [Inventing Postscript, the Tech That Took the Pain out of Printing](https://spectrum.ieee.org/adobe-postscript)
+- [SELinux is unmanageable; just turn it off if it gets in your way](https://www.ctrl.blog/entry/selinux-unmanageable.html)
 
-- [An Ode to Shell Scripts](https://twitter.com/marekgibney/status/1518156180085948416)
+- [External graphics cards work on the Raspberry Pi](https://www.jeffgeerling.com/blog/2022/external-graphics-cards-work-on-raspberry-pi)
 
-- [The temptation of writing shell scripts, illustrated](https://utcc.utoronto.ca/~cks/space/blog/programming/ShellScriptTemptation)
+- [How to turn DDOS attacks into a business opportunity](https://www.letsdebug.it/post/34-ddos-as-business-opportunity/)
 
-- [Zas Editor](https://www.zeditor.app)
+- [Four Eras of JavaScript Frameworks](https://www.pzuraq.com/blog/four-eras-of-javascript-frameworks)
+
+- [Clojure Web Development Evolved by Dmitri Sotnikov & Nik Peric](https://www.youtube.com/watch?v=DFzukK5-rpU)
