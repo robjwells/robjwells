@@ -1,49 +1,49 @@
-- [Testing my System Code in /usr/ Without Modifying /usr/](https://0pointer.net/blog/testing-my-system-code-in-usr-without-modifying-usr.html)
+- [Anna: A Key-Value Store For Any Scale](http://muratbuffalo.blogspot.com/2022/04/anna-key-value-store-for-any-scale.html)
 
-- [Can you be sure to clear a line at Tetris?](https://a3nm.net/blog/adversarial_tetris.html)
+- [Paying a visit to planet BSD](http://rachelbythebay.com/w/2022/04/29/bsd/)
 
-- [Exponential Backoff And Jitter](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/)
+- [What was wrong with Standard ML?](https://blog.plover.com/prog/haskell/sml-defects.html)
 
-- [gpt2tc: Text Completion and Compression using GPT-2](https://bellard.org/libnc/gpt2tc.html)
+- [robocadey: Shitposting as a Service](https://christine.website/blog/robocadey-2022-04-30)
 
-- [Measuring the coverage of a rust program in Github Actions](https://blog.balthazar-rouberol.com/measuring-the-coverage-of-a-rust-program-in-github-actions)
+- [zb: a zip blog](https://code.rosaelefanten.org/zb/dir?ci=tip)
 
-- [I ported the new Hare compiler to OpenBSD](https://briancallahan.net/blog/20220427.html)
+- [Forgetting about the problem of memory](https://davmac.wordpress.com/2022/04/30/forgetting-about-the-problem-of-memory/)
 
-- [The Go Programming Language and Environment](https://cacm.acm.org/magazines/2022/5/260357-the-go-programming-language-and-environment/fulltext)
+- [That time we unplugged a data center to test our disaster readiness](https://dropbox.tech/infrastructure/disaster-readiness-test-failover-blackhole-sjc)
 
-- [Derw: a language to make web programming sane, April 2022 status](https://derw.substack.com/p/derw-a-language-to-make-web-programming)
+- [Compact word vectors with Bloom embeddings](https://explosion.ai/blog/bloom-embeddings)
 
-- [A comprehensive test suite for RFC 8259 compliant JSON parsers](https://github.com/nst/JSONTestSuite)
+- [Violet - Python VM written in Swift](https://forums.swift.org/t/violet-python-vm-written-in-swift/56945)
 
-- [Eqivo: open source telephony API platform](https://github.com/rtckit/eqivo)
+- [GitBOM: Enabling Universal Artifact Traceability In Software Supply Chains](https://gitbom.dev/resources/whitepaper/)
 
-- [GUIdebook: Graphical User Interface gallery](https://guidebookgallery.org/)
+- [List of 140+ programming languages, including smaller, lesser-known and experimental ones](https://github.com/ChessMax/awesome-programming-languages)
 
-- [Beating grep with Go](https://healeycodes.com/beating-grep-with-go)
+- [Trial: A fully-fledged Common Lisp game engine](https://github.com/Shirakumo/trial)
 
-- [CAP is Only Part of the Story, we need PACELC](https://inelpandzic.com/articles/cap-is-only-part-of-the-story-we-need-pacelc/)
+- [waraft: Whatsapp's raft implentation in erlang](https://github.com/WhatsApp/waraft)
 
-- [Designing and testing a highly available Kafka cluster on Kubernetes](https://learnk8s.io/kafka-ha-kubernetes)
+- [PranaDB is a distributed streaming database, designed from the outset to be horizontally scalable](https://github.com/cashapp/pranadb)
 
-- [Writing Rust the Elixir way - 18 months later](https://lunatic.solutions/blog/writing-rust-the-elixir-way-1.5-years-later/)
+- [GitHub - rprinz08/hBPF: hBPF = eBPF in hardware](https://github.com/rprinz08/hBPF)
 
-- [C programming language extension: Cedro pre-processor](https://sentido-labs.com/en/library/cedro/202106171400/)
+- [How to generate random number sequences (in your head) (1999)](https://groups.google.com/g/sci.math/c/6BIYd0cafQo/m/Ucipn_5T_TMJ)
 
-- [Slack’s Incident on 2-22-22: Double Trouble with Datastores](https://slack.engineering/slacks-incident-on-2-22-22/)
+- [We fixed f-string typos in 69 of the most popular Python repos in only one day. Here’s how](https://highertier.com/we-fixed-f-string-typos-in-69-of-the-most-popular-python-repos-in-only-one-day-heres-how/)
 
-- [Playing the game Bottomless on OpenBSD](https://videos.pair2jeux.tube/w/9408fa52-80ac-4558-baf9-b61bad715494)
+- [Let’s Program a Calculus Student](https://iagoleal.com/posts/calculus-symbolic/)
 
-- [Introducing zq: an Easier (and Faster) Alternative to jq](https://www.brimdata.io/blog/introducing-zq/)
+- [Jepsen: Redpanda 21.10.1](https://jepsen.io/analyses/redpanda-21.10.1)
 
-- [Coroutines in C (2000)](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html)
+- [Chonky Palmtop is a DIY portable Linux computer with a split keyboard and 7 inch display](https://liliputing.com/2022/04/chonky-palmtop-is-a-diy-portable-linux-computer-with-a-split-keyboard-and-7-inch-display.html)
 
-- [SELinux is unmanageable; just turn it off if it gets in your way](https://www.ctrl.blog/entry/selinux-unmanageable.html)
+- [Why I like bugs](https://twitter.com/marekgibney/status/1520451818819670018)
 
-- [External graphics cards work on the Raspberry Pi](https://www.jeffgeerling.com/blog/2022/external-graphics-cards-work-on-raspberry-pi)
+- [Experience Report: 6 months of Go](https://typesanitizer.com/blog/go-experience-report.html)
 
-- [How to turn DDOS attacks into a business opportunity](https://www.letsdebug.it/post/34-ddos-as-business-opportunity/)
+- [The appeal of using plain HTML pages](https://utcc.utoronto.ca/~cks/space/blog/web/PlainHTMLAppeal)
 
-- [Four Eras of JavaScript Frameworks](https://www.pzuraq.com/blog/four-eras-of-javascript-frameworks)
+- [Post-Incident Review on the Atlassian April 2022 outage](https://www.atlassian.com/engineering/post-incident-review-april-2022-outage)
 
-- [Clojure Web Development Evolved by Dmitri Sotnikov & Nik Peric](https://www.youtube.com/watch?v=DFzukK5-rpU)
+- [PipeWire: Bluetooth® support status update](https://www.collabora.com/news-and-blog/news-and-events/pipewire-bluetooth-support-status-update.html)
