@@ -1,49 +1,47 @@
-- [Anna: A Key-Value Store For Any Scale](http://muratbuffalo.blogspot.com/2022/04/anna-key-value-store-for-any-scale.html)
+- [Calling Fennel from Haskell using HsLua](http://jackkelly.name/blog/archives/2022/05/01/haskell_lua_and_fennel/)
 
-- [Paying a visit to planet BSD](http://rachelbythebay.com/w/2022/04/29/bsd/)
+- [Twelve-factor app anno 2022](http://xenitab.github.io/blog/2022/02/23/12factor)
 
-- [What was wrong with Standard ML?](https://blog.plover.com/prog/haskell/sml-defects.html)
+- [5 key elements of successful monolith-to-microservices migrations](https://about.sourcegraph.com/blog/monolith-microservices-migration/)
 
-- [robocadey: Shitposting as a Service](https://christine.website/blog/robocadey-2022-04-30)
+- [UA gotta be kidding](https://bkardell.com/blog/UAGottaBeKidding.html)
 
-- [zb: a zip blog](https://code.rosaelefanten.org/zb/dir?ci=tip)
+- [A faster lexer in Go](https://eli.thegreenplace.net/2022/a-faster-lexer-in-go/)
 
-- [Forgetting about the problem of memory](https://davmac.wordpress.com/2022/04/30/forgetting-about-the-problem-of-memory/)
+- [ts-error-translator: Translate your TypeScript errors into plain English](https://github.com/mattpocock/ts-error-translator)
 
-- [That time we unplugged a data center to test our disaster readiness](https://dropbox.tech/infrastructure/disaster-readiness-test-failover-blackhole-sjc)
+- [Will Hare replace C? Or Rust? Or Zig? Or anything else?](https://harelang.org/blog/2022-05-02-what-is-hares-scope/)
 
-- [Compact word vectors with Bloom embeddings](https://explosion.ai/blog/bloom-embeddings)
+- [Porting Zelda Classic to the Web](https://hoten.cc/blog/porting-zelda-classic-to-the-web/)
 
-- [Violet - Python VM written in Swift](https://forums.swift.org/t/violet-python-vm-written-in-swift/56945)
+- [Modularizing GHC](https://hsyl20.fr/home/files/papers/2022-ghc-modularity.pdf)
 
-- [GitBOM: Enabling Universal Artifact Traceability In Software Supply Chains](https://gitbom.dev/resources/whitepaper/)
+- [Trickery to Tame Big WebAssembly Binaries](https://jott.live/markdown/wasm_binary_size)
 
-- [List of 140+ programming languages, including smaller, lesser-known and experimental ones](https://github.com/ChessMax/awesome-programming-languages)
+- [One gotty(1) Web terminal per user](https://jpmens.net/2022/05/03/one-gotty-per-user/)
 
-- [Trial: A fully-fledged Common Lisp game engine](https://github.com/Shirakumo/trial)
+- [FerrarGIS: Using QGIS to apply a 1777 style to today's OpenStreetMap data](https://manuelclaeysbouuaert.be/projects/ferrargis.html)
 
-- [waraft: Whatsapp's raft implentation in erlang](https://github.com/WhatsApp/waraft)
+- [Don't Write Your Own Kubernetes YAML Generator](https://matduggan.com/tips-for-making-kubernetes-yaml-less-annoying/)
 
-- [PranaDB is a distributed streaming database, designed from the outset to be horizontally scalable](https://github.com/cashapp/pranadb)
+- [Four Attacks and a Proof for Telegram](https://mtpsym.github.io/paper.pdf)
 
-- [GitHub - rprinz08/hBPF: hBPF = eBPF in hardware](https://github.com/rprinz08/hBPF)
+- [Fearless concurrency at a discount?](https://newsletter.papersyoumightlove.pl/archive/fearless-concurrency-at-a-discount/)
 
-- [How to generate random number sequences (in your head) (1999)](https://groups.google.com/g/sci.math/c/6BIYd0cafQo/m/Ucipn_5T_TMJ)
+- [Podman v4.0.0 Released](https://podman.io/releases/2022/02/22/podman-release-v4.0.0.html)
 
-- [We fixed f-string typos in 69 of the most popular Python repos in only one day. Here’s how](https://highertier.com/we-fixed-f-string-typos-in-69-of-the-most-popular-python-repos-in-only-one-day-heres-how/)
+- [User-Agent URI](https://user-agent.globalcode.info/)
 
-- [Let’s Program a Calculus Student](https://iagoleal.com/posts/calculus-symbolic/)
+- [Not Quite Zero](https://www.clinicallyawesome.com/2021/09/not-quite-zero.html)
 
-- [Jepsen: Redpanda 21.10.1](https://jepsen.io/analyses/redpanda-21.10.1)
+- [Ruby 3.1’s incompatible changes to its YAML module (Psych 4)](https://www.ctrl.blog/entry/ruby-psych4.html)
 
-- [Chonky Palmtop is a DIY portable Linux computer with a split keyboard and 7 inch display](https://liliputing.com/2022/04/chonky-palmtop-is-a-diy-portable-linux-computer-with-a-split-keyboard-and-7-inch-display.html)
+- [The Demise of the Mildly Dynamic Website](https://www.devever.net/~hl/mildlydynamic)
 
-- [Why I like bugs](https://twitter.com/marekgibney/status/1520451818819670018)
+- [Why I don't miss React: a story about using the platform](https://www.jackfranklin.co.uk/blog/working-with-react-and-the-web-platform/)
 
-- [Experience Report: 6 months of Go](https://typesanitizer.com/blog/go-experience-report.html)
+- [Unpatched DNS Bug in Popular C Standard Library Putting IoT at Risk](https://www.nozominetworks.com/blog/nozomi-networks-discovers-unpatched-dns-bug-in-popular-c-standard-library-putting-iot-at-risk/)
 
-- [The appeal of using plain HTML pages](https://utcc.utoronto.ca/~cks/space/blog/web/PlainHTMLAppeal)
+- [HYTRADBOI 2022 postmortem](https://www.scattered-thoughts.net/writing/hytradboi-2022-postmortem/)
 
-- [Post-Incident Review on the Atlassian April 2022 outage](https://www.atlassian.com/engineering/post-incident-review-april-2022-outage)
-
-- [PipeWire: Bluetooth® support status update](https://www.collabora.com/news-and-blog/news-and-events/pipewire-bluetooth-support-status-update.html)
+- [Union and intersection contracts are hard, actually](https://www.tweag.io/blog/2022-04-28-union-intersection-contracts/)
