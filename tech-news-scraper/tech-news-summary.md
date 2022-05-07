@@ -1,47 +1,47 @@
-- [Calling Fennel from Haskell using HsLua](http://jackkelly.name/blog/archives/2022/05/01/haskell_lua_and_fennel/)
+- [Gopher on the Palm Pilot and the pitfalls of PalmOS connectivity](http://oldvcr.blogspot.com/2022/05/gopher-on-palm-pilot-and-pitfalls-of.html)
 
-- [Twelve-factor app anno 2022](http://xenitab.github.io/blog/2022/02/23/12factor)
+- [Identity Crisis: Sequence v. UUID as Primary Key](https://brandur.org/nanoglyphs/026-ids)
 
-- [5 key elements of successful monolith-to-microservices migrations](https://about.sourcegraph.com/blog/monolith-microservices-migration/)
+- [Top 5 Best Programming Languages](https://catonmat.net/5-best-programming-languages)
 
-- [UA gotta be kidding](https://bkardell.com/blog/UAGottaBeKidding.html)
+- [Mechanical Watch](https://ciechanow.ski/mechanical-watch/)
 
-- [A faster lexer in Go](https://eli.thegreenplace.net/2022/a-faster-lexer-in-go/)
+- [How I fell in love with low-js](https://edofic.com/posts/2022-01-28-low-js/)
 
-- [ts-error-translator: Translate your TypeScript errors into plain English](https://github.com/mattpocock/ts-error-translator)
+- [VM (VM ( …](https://euroquis.nl//freebsd/2022/05/05/inception.html)
 
-- [Will Hare replace C? Or Rust? Or Zig? Or anything else?](https://harelang.org/blog/2022-05-02-what-is-hares-scope/)
+- [How to build an absurdly backwards compatible website](https://flower.codes/2022/03/23/backwards-compatibility.html)
 
-- [Porting Zelda Classic to the Web](https://hoten.cc/blog/porting-zelda-classic-to-the-web/)
+- [GCC 12.1 Released](https://gcc.gnu.org/pipermail/gcc/2022-May/238653.html)
 
-- [Modularizing GHC](https://hsyl20.fr/home/files/papers/2022-ghc-modularity.pdf)
+- [GitHub will require two-factor authentication by end of 2023](https://github.blog/2022-05-04-software-security-starts-with-the-developer-securing-developer-accounts-with-2fa/)
 
-- [Trickery to Tame Big WebAssembly Binaries](https://jott.live/markdown/wasm_binary_size)
+- [Fast character case conversion using compressed lookup tables](https://github.com/apankrat/notes/tree/master/fast-case-conversion)
 
-- [One gotty(1) Web terminal per user](https://jpmens.net/2022/05/03/one-gotty-per-user/)
+- [Introducing Crane: Composable and Cacheable Builds with Cargo and Nix](https://ipetkov.dev/blog/introducing-crane/)
 
-- [FerrarGIS: Using QGIS to apply a 1777 style to today's OpenStreetMap data](https://manuelclaeysbouuaert.be/projects/ferrargis.html)
+- [Rust is hard, yes, but does it matter?](https://jmmv.dev/2022/05/rust-is-hard-but-does-it-matter.html)
 
-- [Don't Write Your Own Kubernetes YAML Generator](https://matduggan.com/tips-for-making-kubernetes-yaml-less-annoying/)
+- [Bugs that the Rust compiler catches for you](https://kerkour.com/bugs-rust-compiler-helps-prevent)
 
-- [Four Attacks and a Proof for Telegram](https://mtpsym.github.io/paper.pdf)
+- [Deploying Kubernetes clusters in increasingly absurd languages](https://leebriggs.co.uk/blog/2022/05/04/deploying-kubernetes-clusters-in-absurd-languages.html)
 
-- [Fearless concurrency at a discount?](https://newsletter.papersyoumightlove.pl/archive/fearless-concurrency-at-a-discount/)
+- [The real reason that the first version of Windows NT was called 3.1](https://liam-on-linux.dreamwidth.org/83538.html)
 
-- [Podman v4.0.0 Released](https://podman.io/releases/2022/02/22/podman-release-v4.0.0.html)
+- [Modern Python performance considerations](https://lwn.net/SubscriberLink/893686/8978976335696804/)
 
-- [User-Agent URI](https://user-agent.globalcode.info/)
+- [Fig Terminal Auto-complete Review](https://matduggan.com/fig-terminal-autocomplete-review/)
 
-- [Not Quite Zero](https://www.clinicallyawesome.com/2021/09/not-quite-zero.html)
+- [It’s time we fix the unethical design of cookie consent windows](https://uxdesign.cc/unethical-design-of-cookie-consent-windows-857ef68f1bd6)
 
-- [Ruby 3.1’s incompatible changes to its YAML module (Psych 4)](https://www.ctrl.blog/entry/ruby-psych4.html)
+- [A Web Around the World, Part 9: A Network of Networks](https://www.filfre.net/2022/05/a-web-around-the-world-part-9-a-network-of-networks/)
 
-- [The Demise of the Mildly Dynamic Website](https://www.devever.net/~hl/mildlydynamic)
+- [Please, stop disabling zoom](https://www.matuzo.at/blog/2022/please-stop-disabling-zoom/)
 
-- [Why I don't miss React: a story about using the platform](https://www.jackfranklin.co.uk/blog/working-with-react-and-the-web-platform/)
+- [Oil 0.10.0 - Can Shell's Error Handling Be Fixed Once and For All?](https://www.oilshell.org/blog/2022/05/release-0.10.0.html)
 
-- [Unpatched DNS Bug in Popular C Standard Library Putting IoT at Risk](https://www.nozominetworks.com/blog/nozomi-networks-discovers-unpatched-dns-bug-in-popular-c-standard-library-putting-iot-at-risk/)
+- [You say “cave dweller debugging”, I say debug logging](https://www.sicpers.info/2022/05/you-say-cave-dweller-debugging-i-say-debug-logging/)
 
-- [HYTRADBOI 2022 postmortem](https://www.scattered-thoughts.net/writing/hytradboi-2022-postmortem/)
+- [You Don’t Need A UI Framework](https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/)
 
-- [Union and intersection contracts are hard, actually](https://www.tweag.io/blog/2022-04-28-union-intersection-contracts/)
+- [User disengagement](https://zerodha.tech/blog/user-disengagement/)
