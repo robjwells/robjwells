@@ -1,47 +1,47 @@
-- [Gopher on the Palm Pilot and the pitfalls of PalmOS connectivity](http://oldvcr.blogspot.com/2022/05/gopher-on-palm-pilot-and-pitfalls-of.html)
+- [Fitting Everything Together](https://0pointer.net/blog/fitting-everything-together.html)
 
-- [Identity Crisis: Sequence v. UUID as Primary Key](https://brandur.org/nanoglyphs/026-ids)
+- [Generated columns in SQLite](https://antonz.org/generated-columns/)
 
-- [Top 5 Best Programming Languages](https://catonmat.net/5-best-programming-languages)
+- [Adding CSV support to (Go)AWK](https://benhoyt.com/writings/goawk-csv/)
 
-- [Mechanical Watch](https://ciechanow.ski/mechanical-watch/)
+- [The next chapter for Cloudflare Workers: open source](https://blog.cloudflare.com/workers-open-source-announcement/)
 
-- [How I fell in love with low-js](https://edofic.com/posts/2022-01-28-low-js/)
+- [A most vexing parse, but for Python packaging](https://blog.yossarian.net/2022/05/09/A-most-vexing-parse-but-for-Python-packaging)
 
-- [VM (VM ( …](https://euroquis.nl//freebsd/2022/05/05/inception.html)
+- [Adding code to an existing ELF file](https://dropbear.sh/blog/elf-patching.html)
 
-- [How to build an absurdly backwards compatible website](https://flower.codes/2022/03/23/backwards-compatibility.html)
+- [I'm All-In on Server-Side SQLite](https://fly.io/blog/all-in-on-sqlite-litestream/)
 
-- [GCC 12.1 Released](https://gcc.gnu.org/pipermail/gcc/2022-May/238653.html)
+- [snmalloc 0.6 released, major redesign with security hardening](https://github.com/microsoft/snmalloc/releases/tag/0.6.0)
 
-- [GitHub will require two-factor authentication by end of 2023](https://github.blog/2022-05-04-software-security-starts-with-the-developer-securing-developer-accounts-with-2fa/)
+- [Implementing an SSH agent in Hare](https://harelang.org/blog/2022-05-09-hare-ssh/)
 
-- [Fast character case conversion using compressed lookup tables](https://github.com/apankrat/notes/tree/master/fast-case-conversion)
+- [Using Java's Project Loom to build more reliable distributed systems](https://jbaker.io/2022/05/09/project-loom-for-distributed-systems/)
 
-- [Introducing Crane: Composable and Cacheable Builds with Cargo and Nix](https://ipetkov.dev/blog/introducing-crane/)
+- [The John Lam Podcast: Stories from Microsoft’s DevDiv](https://john-lam-podcast.simplecast.com/)
 
-- [Rust is hard, yes, but does it matter?](https://jmmv.dev/2022/05/rust-is-hard-but-does-it-matter.html)
+- [Your Phone May Soon Replace Many of Your Passwords](https://krebsonsecurity.com/2022/05/your-phone-may-soon-replace-many-of-your-passwords/)
 
-- [Bugs that the Rust compiler catches for you](https://kerkour.com/bugs-rust-compiler-helps-prevent)
+- [From Folklore to Fact: Comparing Implementations of Stacks and Continuations](https://par.nsf.gov/servlets/purl/10201136)
 
-- [Deploying Kubernetes clusters in increasingly absurd languages](https://leebriggs.co.uk/blog/2022/05/04/deploying-kubernetes-clusters-in-absurd-languages.html)
+- [Exploring GitHub repo name distribution with jq](https://qmacro.org/blog/posts/2022/05/07/exploring-github-repo-name-distribution-with-jq/)
 
-- [The real reason that the first version of Windows NT was called 3.1](https://liam-on-linux.dreamwidth.org/83538.html)
+- [Let’s Make Overtone Sing Like Sonic-Pi](https://savo.rocks/posts/lets-make-overtone-sing-like-sonic-pi/)
 
-- [Modern Python performance considerations](https://lwn.net/SubscriberLink/893686/8978976335696804/)
+- [Haskell on a Shared-Memory Multiprocessor (2005)](https://simonmar.github.io/bib/papers/multiproc.pdf)
 
-- [Fig Terminal Auto-complete Review](https://matduggan.com/fig-terminal-autocomplete-review/)
+- [Infinite versions of minesweeper are Turing complete (2007)](https://web.mat.bham.ac.uk/R.W.Kaye/minesw/infmsw.pdf)
 
-- [It’s time we fix the unethical design of cookie consent windows](https://uxdesign.cc/unethical-design-of-cookie-consent-windows-857ef68f1bd6)
+- [4 integers are enough to write a Snake Game](https://www.andreinc.net/2022/05/01/4-integers-are-enough-to-write-a-snake-game)
 
-- [A Web Around the World, Part 9: A Network of Networks](https://www.filfre.net/2022/05/a-web-around-the-world-part-9-a-network-of-networks/)
+- [Haiku Activity & Contract Report: April 2022](https://www.haiku-os.org/blog/waddlesplash/2022-05-09_haiku_activity_contract_report_april_2022/)
 
-- [Please, stop disabling zoom](https://www.matuzo.at/blog/2022/please-stop-disabling-zoom/)
+- [The golden rule of software distributions](https://www.haskellforall.com/2022/05/the-golden-rule-of-software.html)
 
-- [Oil 0.10.0 - Can Shell's Error Handling Be Fixed Once and For All?](https://www.oilshell.org/blog/2022/05/release-0.10.0.html)
+- [The Fumbled Deprecation of PodSecurityPolicies](https://www.macchaffee.com/blog/2022/psp-deprecation/)
 
-- [You say “cave dweller debugging”, I say debug logging](https://www.sicpers.info/2022/05/you-say-cave-dweller-debugging-i-say-debug-logging/)
+- [New Wayland Protocol Proposed For Fractional Scaling](https://www.phoronix.com/scan.php?page=news_item&px=Wayland-Fractional-Scaling-v1)
 
-- [You Don’t Need A UI Framework](https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/)
+- [Existential optics](https://www.tweag.io/blog/2022-05-05-existential-optics/)
 
-- [User disengagement](https://zerodha.tech/blog/user-disengagement/)
+- [Bill and Andy's Excellent Adventure II (1994)](https://www.wired.com/1994/04/general-magic/)
