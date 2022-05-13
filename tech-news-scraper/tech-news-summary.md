@@ -1,47 +1,49 @@
-- [Fitting Everything Together](https://0pointer.net/blog/fitting-everything-together.html)
+- [Advanced Django ORM @ PyConDE 2022](https://bas.codes/posts/pyconde22-django)
 
-- [Generated columns in SQLite](https://antonz.org/generated-columns/)
+- [Modernizing AWK, a 45-year old language, by adding CSV support](https://benhoyt.com/writings/goawk-csv/?m)
 
-- [Adding CSV support to (Go)AWK](https://benhoyt.com/writings/goawk-csv/)
+- [Announcing D1: our first SQL database](https://blog.cloudflare.com/introducing-d1/)
 
-- [The next chapter for Cloudflare Workers: open source](https://blog.cloudflare.com/workers-open-source-announcement/)
+- [The vMotion Process Under the Hood](https://blogs.vmware.com/vsphere/2019/07/the-vmotion-process-under-the-hood.html)
 
-- [A most vexing parse, but for Python packaging](https://blog.yossarian.net/2022/05/09/A-most-vexing-parse-but-for-Python-packaging)
+- [I Miss Heroku's DevEx](https://christine.website/blog/heroku-devex-2022-05-12)
 
-- [Adding code to an existing ELF file](https://dropbear.sh/blog/elf-patching.html)
+- [Let's talk about this async](https://conradludgate.com/posts/async)
 
-- [I'm All-In on Server-Side SQLite](https://fly.io/blog/all-in-on-sqlite-litestream/)
+- [A tale of a trailing dot](https://daniel.haxx.se/blog/2022/05/12/a-tale-of-a-trailing-dot/)
 
-- [snmalloc 0.6 released, major redesign with security hardening](https://github.com/microsoft/snmalloc/releases/tag/0.6.0)
+- [SQLite in Go, with and without cgo](https://datastation.multiprocess.io/blog/2022-05-12-sqlite-in-go-with-and-without-cgo.html)
 
-- [Implementing an SSH agent in Hare](https://harelang.org/blog/2022-05-09-hare-ssh/)
+- [NVIDIA Releases Open-Source GPU Kernel Modules](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/)
 
-- [Using Java's Project Loom to build more reliable distributed systems](https://jbaker.io/2022/05/09/project-loom-for-distributed-systems/)
+- [testscript, a hidden gem the Go team kept locked away](https://encore.dev/blog/testscript-hidden-testing-gem)
 
-- [The John Lam Podcast: Stories from Microsoft’s DevDiv](https://john-lam-podcast.simplecast.com/)
+- [Matrix Rust SDK 0.5 brings native crypto, wasm support](https://github.com/matrix-org/matrix-rust-sdk/releases/tag/matrix-sdk-0.5.0)
 
-- [Your Phone May Soon Replace Many of Your Passwords](https://krebsonsecurity.com/2022/05/your-phone-may-soon-replace-many-of-your-passwords/)
+- [std::find() and memchr() Optimizations](https://gms.tf/stdfind-and-memchr-optimizations.html)
 
-- [From Folklore to Fact: Comparing Implementations of Stacks and Continuations](https://par.nsf.gov/servlets/purl/10201136)
+- [Improved Process Isolation in Firefox 100](https://hacks.mozilla.org/2022/05/improved-process-isolation-in-firefox-100/)
 
-- [Exploring GitHub repo name distribution with jq](https://qmacro.org/blog/posts/2022/05/07/exploring-github-repo-name-distribution-with-jq/)
+- [Why I Quit Google's WebAssembly Team, And How It Made Me Sick](https://medium.com/@katelyngadd/why-i-quit-googles-webassembly-team-and-how-it-made-me-sick-c50ef562ce1)
 
-- [Let’s Make Overtone Sing Like Sonic-Pi](https://savo.rocks/posts/lets-make-overtone-sing-like-sonic-pi/)
+- [How I improved myself in 2014](https://nanxiao.me/en/how-i-improved-myself-in-2014/)
 
-- [Haskell on a Shared-Memory Multiprocessor (2005)](https://simonmar.github.io/bib/papers/multiproc.pdf)
+- [The regex [,-.]](https://pboyd.io/posts/comma-dash-dot/)
 
-- [Infinite versions of minesweeper are Turing complete (2007)](https://web.mat.bham.ac.uk/R.W.Kaye/minesw/infmsw.pdf)
+- [Faster, more memory-efficient Python JSON parsing with msgspec](https://pythonspeed.com/articles/faster-python-json-parsing/)
 
-- [4 integers are enough to write a Snake Game](https://www.andreinc.net/2022/05/01/4-integers-are-enough-to-write-a-snake-game)
+- [Linux Accessibility: an unmaintained Mess](https://scribe.rip/@r.d.t.prater/linux-accessibility-an-unmaintained-mess-8fbf9decaf8a)
 
-- [Haiku Activity & Contract Report: April 2022](https://www.haiku-os.org/blog/waddlesplash/2022-05-09_haiku_activity_contract_report_april_2022/)
+- [My experience at community college](https://sporks.space/2022/05/11/my-experience-at-community-college/)
 
-- [The golden rule of software distributions](https://www.haskellforall.com/2022/05/the-golden-rule-of-software.html)
+- [The 2022 Developer Survey is now open](https://stackoverflow.blog/2022/05/11/stack-overflow-2022-developer-survey-is-open/)
 
-- [The Fumbled Deprecation of PodSecurityPolicies](https://www.macchaffee.com/blog/2022/psp-deprecation/)
+- [Customizing NetBSD boot banners](https://www.cambus.net/customizing-netbsd-boot-banners/)
 
-- [New Wayland Protocol Proposed For Fractional Scaling](https://www.phoronix.com/scan.php?page=news_item&px=Wayland-Fractional-Scaling-v1)
+- [A Flexible Type System for Fearless Concurrency](https://www.cs.cornell.edu/andru/papers/gallifrey-types/)
 
-- [Existential optics](https://www.tweag.io/blog/2022-05-05-existential-optics/)
+- [NVIDIA Transitioning To Official, Open-Source Linux GPU Kernel Driver](https://www.phoronix.com/scan.php?page=article&item=nvidia-open-kernel&num=1)
 
-- [Bill and Andy's Excellent Adventure II (1994)](https://www.wired.com/1994/04/general-magic/)
+- [The Odin Project, a complete and free curriculum for full stack web development](https://www.theodinproject.com/)
+
+- [Drizzle: the most influential software project you’ve (probably) never heard of](https://xahteiwi.eu/blog/2022/05/10/drizzle/)
