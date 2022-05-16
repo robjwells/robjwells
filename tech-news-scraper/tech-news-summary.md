@@ -1,49 +1,49 @@
-- [Advanced Django ORM @ PyConDE 2022](https://bas.codes/posts/pyconde22-django)
+- [The Dawn of Lightweight Concurrency for Java and Clojure](https://ales.rocks/notes-on-virtual-threads-and-clojure)
 
-- [Modernizing AWK, a 45-year old language, by adding CSV support](https://benhoyt.com/writings/goawk-csv/?m)
+- [Comparing Rust supply chain safety tools](https://blog.logrocket.com/comparing-rust-supply-chain-safety-tools/)
 
-- [Announcing D1: our first SQL database](https://blog.cloudflare.com/introducing-d1/)
+- [The very weird Hewlett Packard FreeDOS option](https://blog.tmm.cx/2022/05/15/the-very-weird-hewlett-packard-freedos-option/)
 
-- [The vMotion Process Under the Hood](https://blogs.vmware.com/vsphere/2019/07/the-vmotion-process-under-the-hood.html)
+- [Fly.io: the Reclaimer of Heroku's Magic](https://christine.website/blog/fly.io-heroku-replacement)
 
-- [I Miss Heroku's DevEx](https://christine.website/blog/heroku-devex-2022-05-12)
+- [Dynamodb based distributed lock in Rust](https://crates.io/crates/dynamodb_lock)
 
-- [Let's talk about this async](https://conradludgate.com/posts/async)
+- [A passion for programming](https://derw.substack.com/p/a-passion-for-programming)
 
-- [A tale of a trailing dot](https://daniel.haxx.se/blog/2022/05/12/a-tale-of-a-trailing-dot/)
+- [Real-time LaTeX Using Vim or Neovim](https://ejmastnak.github.io/tutorials/vim-latex/intro.html)
 
-- [SQLite in Go, with and without cgo](https://datastation.multiprocess.io/blog/2022-05-12-sqlite-in-go-with-and-without-cgo.html)
+- [parallel tree running](https://flak.tedunangst.com/post/parallel-tree-running)
 
-- [NVIDIA Releases Open-Source GPU Kernel Modules](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/)
+- [The “Activate Windows” watermark ported to Linux](https://github.com/MrGlockenspiel/activate-linux)
 
-- [testscript, a hidden gem the Go team kept locked away](https://encore.dev/blog/testscript-hidden-testing-gem)
+- [wttr.in: cURL the weather](https://github.com/chubin/wttr.in)
 
-- [Matrix Rust SDK 0.5 brings native crypto, wasm support](https://github.com/matrix-org/matrix-rust-sdk/releases/tag/matrix-sdk-0.5.0)
+- [glibc_version_header: Build portable Linux binaries without using an ancient distro](https://github.com/wheybags/glibc_version_header)
 
-- [std::find() and memchr() Optimizations](https://gms.tf/stdfind-and-memchr-optimizations.html)
+- [coloring computers: non-electronic computers that work when you color them according to a simple set](https://ipfs.io/ipfs/QmYz7DPRWypGQcbAHr7Mi8EKB6ntSPsEnUsCXbAhBiHQZP/)
 
-- [Improved Process Isolation in Firefox 100](https://hacks.mozilla.org/2022/05/improved-process-isolation-in-firefox-100/)
+- [Wrong by Default](https://kevincox.ca/2022/05/13/wrong-by-default/)
 
-- [Why I Quit Google's WebAssembly Team, And How It Made Me Sick](https://medium.com/@katelyngadd/why-i-quit-googles-webassembly-team-and-how-it-made-me-sick-c50ef562ce1)
+- [Surprises in Logic (2016)](https://math.ucr.edu/home/baez/surprises.html)
 
-- [How I improved myself in 2014](https://nanxiao.me/en/how-i-improved-myself-in-2014/)
+- [The overengineered Solution to my Pigeon Problem](https://maxnagy.com/posts/pigeons/)
 
-- [The regex [,-.]](https://pboyd.io/posts/comma-dash-dot/)
+- [25 Gbit/s HTTP and HTTPS download speeds](https://michael.stapelberg.ch/posts/2022-05-14-http-and-https-download-25gbit/)
 
-- [Faster, more memory-efficient Python JSON parsing with msgspec](https://pythonspeed.com/articles/faster-python-json-parsing/)
+- [A lock-free, concurrent, generic queue in 32 bits](https://nullprogram.com/blog/2022/05/14/)
 
-- [Linux Accessibility: an unmaintained Mess](https://scribe.rip/@r.d.t.prater/linux-accessibility-an-unmaintained-mess-8fbf9decaf8a)
+- [Latency testing remote browsing: Why display streaming is hard](https://thume.ca/2022/05/15/latency-testing-streaming/)
 
-- [My experience at community college](https://sporks.space/2022/05/11/my-experience-at-community-college/)
+- [NixOS: Enabling LXD virtual machines using Flakes](https://www.adaltas.com/en/2022/05/13/nixos-flakes-lxd-vm/)
 
-- [The 2022 Developer Survey is now open](https://stackoverflow.blog/2022/05/11/stack-overflow-2022-developer-survey-is-open/)
+- [FreeBSD 13.1-RELEASE Release Notes](https://www.freebsd.org/releases/13.1R/relnotes/)
 
-- [Customizing NetBSD boot banners](https://www.cambus.net/customizing-netbsd-boot-banners/)
+- [Operator precedence by textual substitution](https://www.kmjn.org/notes/operator_precedence_fortran.html)
 
-- [A Flexible Type System for Fearless Concurrency](https://www.cs.cornell.edu/andru/papers/gallifrey-types/)
+- [Golang Diaries: Generics](https://www.tbray.org/ongoing/When/202x/2022/05/14/Golang-Generics)
 
-- [NVIDIA Transitioning To Official, Open-Source Linux GPU Kernel Driver](https://www.phoronix.com/scan.php?page=article&item=nvidia-open-kernel&num=1)
+- [The Verica Open Incident Database](https://www.thevoid.community)
 
-- [The Odin Project, a complete and free curriculum for full stack web development](https://www.theodinproject.com/)
+- [Implementing recoil patterns in FPS games](https://www.youtube.com/watch?v=XNkijakpf9Y)
 
-- [Drizzle: the most influential software project you’ve (probably) never heard of](https://xahteiwi.eu/blog/2022/05/10/drizzle/)
+- [Multiple bugs chained to takeover Facebook Accounts which uses Gmail. – Youssef Sammouda](https://ysamm.com/?p=763)
