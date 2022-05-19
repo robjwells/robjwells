@@ -1,49 +1,47 @@
-- [The Dawn of Lightweight Concurrency for Java and Clojure](https://ales.rocks/notes-on-virtual-threads-and-clojure)
+- [Multi-platform experiments in framebuffer drawing performance](http://nuclear.mutantstargoat.com/blog/100-fbperf_experiments.html)
 
-- [Comparing Rust supply chain safety tools](https://blog.logrocket.com/comparing-rust-supply-chain-safety-tools/)
+- [Trailer.app — Accelerate your GitHub workflow](http://ptsochantaris.github.io/trailer/)
 
-- [The very weird Hewlett Packard FreeDOS option](https://blog.tmm.cx/2022/05/15/the-very-weird-hewlett-packard-freedos-option/)
+- [Notation without bars](https://andrewyoon.art/blog/neoscore-release)
 
-- [Fly.io: the Reclaimer of Heroku's Magic](https://christine.website/blog/fly.io-heroku-replacement)
+- [Temporary tables in SQLite](https://antonz.org/temp-tables/)
 
-- [Dynamodb based distributed lock in Rust](https://crates.io/crates/dynamodb_lock)
+- [Manifest v3 in Firefox: Recap & Next Steps](https://blog.mozilla.org/addons/2022/05/18/manifest-v3-in-firefox-recap-next-steps/)
 
-- [A passion for programming](https://derw.substack.com/p/a-passion-for-programming)
+- [The dev container CLI](https://code.visualstudio.com/blogs/2022/05/18/dev-container-cli)
 
-- [Real-time LaTeX Using Vim or Neovim](https://ejmastnak.github.io/tutorials/vim-latex/intro.html)
+- [I wanted to see how much CI you can get for free so I compared some of the top services](https://earthly.dev/blog/ci-comparison/)
 
-- [parallel tree running](https://flak.tedunangst.com/post/parallel-tree-running)
+- [fasteR: Fast Lane to Learning R](https://github.com/matloff/fasteR)
 
-- [The “Activate Windows” watermark ported to Linux](https://github.com/MrGlockenspiel/activate-linux)
+- [Gophie — Open Source Gopher Browser](https://gophie.org/)
 
-- [wttr.in: cURL the weather](https://github.com/chubin/wttr.in)
+- [Bringing bcachefs to the mainline](https://lwn.net/SubscriberLink/895266/08dde553840fd74b/)
 
-- [glibc_version_header: Build portable Linux binaries without using an ancient distro](https://github.com/wheybags/glibc_version_header)
+- [The Big Six Matrix Factorizations](https://nhigham.com/2022/05/18/the-big-six-matrix-factorizations/)
 
-- [coloring computers: non-electronic computers that work when you color them according to a simple set](https://ipfs.io/ipfs/QmYz7DPRWypGQcbAHr7Mi8EKB6ntSPsEnUsCXbAhBiHQZP/)
+- [Let's build a distributed Postgres proof of concept](https://notes.eatonphil.com/distributed-postgres.html)
 
-- [Wrong by Default](https://kevincox.ca/2022/05/13/wrong-by-default/)
+- [Forgotten Systems](https://portal.mozz.us/gemini/arcanesciences.com/forgotten/)
 
-- [Surprises in Logic (2016)](https://math.ucr.edu/home/baez/surprises.html)
+- [Proxyman — Modern Web Debugging Proxy on macOS, iOS, Android devices and iOS Simulator](https://proxyman.io)
 
-- [The overengineered Solution to my Pigeon Problem](https://maxnagy.com/posts/pigeons/)
+- [DB Browser for SQLite](https://sqlitebrowser.org)
 
-- [25 Gbit/s HTTP and HTTPS download speeds](https://michael.stapelberg.ch/posts/2022-05-14-http-and-https-download-25gbit/)
+- [Living The Eshell Dream: A Reduction in Latency From 70 Seconds to 3 Seconds](https://tdodge.consulting/blog/eshell/background-output-thread)
 
-- [A lock-free, concurrent, generic queue in 32 bits](https://nullprogram.com/blog/2022/05/14/)
+- [How to Stop Postgres Autovacuum from Sucking up Your Performance](https://thenewstack.io/how-to-stop-autovacuum-from-sucking-up-your-performance/)
 
-- [Latency testing remote browsing: Why display streaming is hard](https://thume.ca/2022/05/15/latency-testing-streaming/)
+- [Parsing a TLS Client Hello with Go's cryptobyte Package](https://www.agwa.name/blog/post/parsing_tls_client_hello_with_cryptobyte)
 
-- [NixOS: Enabling LXD virtual machines using Flakes](https://www.adaltas.com/en/2022/05/13/nixos-flakes-lxd-vm/)
+- [Host a Ghost Blog for Free on Fly.io — In 1 Minute](https://www.autodidacts.io/host-a-ghost-blog-free-on-fly-io/)
 
-- [FreeBSD 13.1-RELEASE Release Notes](https://www.freebsd.org/releases/13.1R/relnotes/)
+- [Introducing Husky, Datadog's Third Generation Event Store](https://www.datadoghq.com/blog/engineering/introducing-husky/)
 
-- [Operator precedence by textual substitution](https://www.kmjn.org/notes/operator_precedence_fortran.html)
+- [Erlang/OTP 25 Highlights](https://www.erlang.org/blog/my-otp-25-highlights/)
 
-- [Golang Diaries: Generics](https://www.tbray.org/ongoing/When/202x/2022/05/14/Golang-Generics)
+- [Erlang/OTP 25.0 Release](https://www.erlang.org/news/157)
 
-- [The Verica Open Incident Database](https://www.thevoid.community)
+- [Towards Holistic Systems](https://www.slideshare.net/bcantrill/towards-holistic-systems)
 
-- [Implementing recoil patterns in FPS games](https://www.youtube.com/watch?v=XNkijakpf9Y)
-
-- [Multiple bugs chained to takeover Facebook Accounts which uses Gmail. – Youssef Sammouda](https://ysamm.com/?p=763)
+- [Serious Sam's Most Notorious Bug Analysed](https://www.youtube.com/watch?v=PpfpfDNFdvQ)
