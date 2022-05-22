@@ -1,47 +1,47 @@
-- [Multi-platform experiments in framebuffer drawing performance](http://nuclear.mutantstargoat.com/blog/100-fbperf_experiments.html)
+- [IntyOS - An Operating System for the Intellivision (2003)](http://intyos.free.fr/)
 
-- [Trailer.app — Accelerate your GitHub workflow](http://ptsochantaris.github.io/trailer/)
+- [Tasks, lists, and promises](http://rachelbythebay.com/w/2022/05/19/priority/)
 
-- [Notation without bars](https://andrewyoon.art/blog/neoscore-release)
+- [Shapefile must die](http://switchfromshapefile.org/)
 
-- [Temporary tables in SQLite](https://antonz.org/temp-tables/)
+- [On rants about laptops for developers](https://andregarzia.com/2022/05/On-rants-about-laptops-for-developers.html)
 
-- [Manifest v3 in Firefox: Recap & Next Steps](https://blog.mozilla.org/addons/2022/05/18/manifest-v3-in-firefox-recap-next-steps/)
+- [Compact objects in Python](https://antonz.org/compact-objects/)
 
-- [The dev container CLI](https://code.visualstudio.com/blogs/2022/05/18/dev-container-cli)
+- [Memory safety for SerenityOS](https://awesomekling.github.io/Memory-safety-for-SerenityOS/)
 
-- [I wanted to see how much CI you can get for free so I compared some of the top services](https://earthly.dev/blog/ci-comparison/)
+- [Generate Rust tests from data files (2018)](https://blog.cyplo.dev/posts/2018/12/generate-rust-tests-from-data/)
 
-- [fasteR: Fast Lane to Learning R](https://github.com/matloff/fasteR)
+- [Working with JSON in Various Shells](https://blog.kellybrazil.com/2022/05/19/working-with-json-in-various-shells/)
 
-- [Gophie — Open Source Gopher Browser](https://gophie.org/)
+- [Language Design in the Real World](https://blog.sigplan.org/2022/05/19/language-design-in-the-real-world/)
 
-- [Bringing bcachefs to the mainline](https://lwn.net/SubscriberLink/895266/08dde553840fd74b/)
+- [Soft deletion with PostgreSQL: but with logic on the database](https://evilmartians.com/chronicles/soft-deletion-with-postgresql-but-with-logic-on-the-database)
 
-- [The Big Six Matrix Factorizations](https://nhigham.com/2022/05/18/the-big-six-matrix-factorizations/)
+- [Lightweight anonymous function syntax for Go? (recent activity on proposal from 2017)](https://github.com/golang/go/issues/21498#issuecomment-1132271548)
 
-- [Let's build a distributed Postgres proof of concept](https://notes.eatonphil.com/distributed-postgres.html)
+- [a simpler infrastructure as code specification](https://github.com/nathants/libaws)
 
-- [Forgotten Systems](https://portal.mozz.us/gemini/arcanesciences.com/forgotten/)
+- [Oberon+ exception handling and other new language features](https://github.com/rochus-keller/Oberon/releases/tag/EH_MVP)
 
-- [Proxyman — Modern Web Debugging Proxy on macOS, iOS, Android devices and iOS Simulator](https://proxyman.io)
+- [I made minimal change to escape HTML in REST API using go reflection](https://inspektor.cloud/blog/i-made-minimal-change-to-escape-html-in-rest-using-go-reflection)
 
-- [DB Browser for SQLite](https://sqlitebrowser.org)
+- [Lotus 1-2-3 For Linux](https://lock.cmpxchg8b.com/linux123.html)
 
-- [Living The Eshell Dream: A Reduction in Latency From 70 Seconds to 3 Seconds](https://tdodge.consulting/blog/eshell/background-output-thread)
+- [Determining the intersection point of two lists in O(1) space](https://muscar.eu/linked-list-intersection.html)
 
-- [How to Stop Postgres Autovacuum from Sucking up Your Performance](https://thenewstack.io/how-to-stop-autovacuum-from-sucking-up-your-performance/)
+- [The balance has shifted away from SPAs](https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas/)
 
-- [Parsing a TLS Client Hello with Go's cryptobyte Package](https://www.agwa.name/blog/post/parsing_tls_client_hello_with_cryptobyte)
+- [The SPACE of Developer Productivity - ACM Queue](https://queue.acm.org/detail.cfm?id=3454124)
 
-- [Host a Ghost Blog for Free on Fly.io — In 1 Minute](https://www.autodidacts.io/host-a-ghost-blog-free-on-fly-io/)
+- [std::relocate’s implementation is cute](https://quuxplusone.github.io/blog/2022/05/18/std-relocate/)
 
-- [Introducing Husky, Datadog's Third Generation Event Store](https://www.datadoghq.com/blog/engineering/introducing-husky/)
+- [Call Me Maybe: Ea­ves­drop­ping En­cryp­ted LTE Calls With Re­VoL­TE](https://revolte-attack.net/)
 
-- [Erlang/OTP 25 Highlights](https://www.erlang.org/blog/my-otp-25-highlights/)
+- [NFS Server Inside FreeBSD VNET Jail](https://vermaden.wordpress.com/2022/05/22/nfs-server-inside-freebsd-vnet-jail/)
 
-- [Erlang/OTP 25.0 Release](https://www.erlang.org/news/157)
+- [Mis-Adventures In GatsbyJS](https://www.feoh.org/posts/mis-adventures-in-gatsbyjs.html)
 
-- [Towards Holistic Systems](https://www.slideshare.net/bcantrill/towards-holistic-systems)
+- [Spaced Repetition for Efficient Learning](https://www.gwern.net/Spaced-repetition)
 
-- [Serious Sam's Most Notorious Bug Analysed](https://www.youtube.com/watch?v=PpfpfDNFdvQ)
+- [Leslie Lamport interview: How to Write Software With Mathematical Perfection](https://www.quantamagazine.org/computing-expert-says-programmers-need-more-math-20220517/)
