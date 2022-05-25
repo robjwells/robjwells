@@ -1,47 +1,49 @@
-- [IntyOS - An Operating System for the Intellivision (2003)](http://intyos.free.fr/)
+- [FRBR, Before and After: A Look at Our Bibliographic Models](http://kcoyle.net/beforeAndAfter/978-0-8389-1364-2.pdf)
 
-- [Tasks, lists, and promises](http://rachelbythebay.com/w/2022/05/19/priority/)
+- [The joy of concurrent logic programming](http://www.call-with-current-continuation.org/articles/the-joy-of-concurrent-logic-programming.txt)
 
-- [Shapefile must die](http://switchfromshapefile.org/)
+- [microFLENG - concurrent logic programming for CP/M, C64 and the "uxn" VM](http://www.call-with-current-continuation.org/microfleng/microfleng.html)
 
-- [On rants about laptops for developers](https://andregarzia.com/2022/05/On-rants-about-laptops-for-developers.html)
+- [A Kernel Hacker Meets Fuchsia OS](https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html)
 
-- [Compact objects in Python](https://antonz.org/compact-objects/)
+- [The Future of the GitLab Web IDE](https://about.gitlab.com/blog/2022/05/23/the-future-of-the-gitlab-web-ide/)
 
-- [Memory safety for SerenityOS](https://awesomekling.github.io/Memory-safety-for-SerenityOS/)
+- [Zoom: Remote Code Execution with XMPP Stanza Smuggling](https://bugs.chromium.org/p/project-zero/issues/detail?id=2254)
 
-- [Generate Rust tests from data files (2018)](https://blog.cyplo.dev/posts/2018/12/generate-rust-tests-from-data/)
+- [I hate LaTeX, I love LaTeX](https://commutative.xyz/~miguelmurca/blog/x/illihl.html)
 
-- [Working with JSON in Various Shells](https://blog.kellybrazil.com/2022/05/19/working-with-json-in-various-shells/)
+- [Announcing TypeScript 4.7](https://devblogs.microsoft.com/typescript/announcing-typescript-4-7/)
 
-- [Language Design in the Real World](https://blog.sigplan.org/2022/05/19/language-design-in-the-real-world/)
+- [the trouble with q quotes](https://flak.tedunangst.com/post/the-trouble-with-q-quotes)
 
-- [Soft deletion with PostgreSQL: but with logic on the database](https://evilmartians.com/chronicles/soft-deletion-with-postgresql-but-with-logic-on-the-database)
+- [Fly Machines: an API for fast-booting VMs](https://fly.io/blog/fly-machines/)
 
-- [Lightweight anonymous function syntax for Go? (recent activity on proposal from 2017)](https://github.com/golang/go/issues/21498#issuecomment-1132271548)
+- [Setaceous Versioning, the revolutionary new way to maintain software](https://github.com/RocketRace/setver)
 
-- [a simpler infrastructure as code specification](https://github.com/nathants/libaws)
+- [Imagen: Text-to-Image Diffusion Models](https://imagen.research.google/)
 
-- [Oberon+ exception handling and other new language features](https://github.com/rochus-keller/Oberon/releases/tag/EH_MVP)
+- [Fixing vulnerabilities in Elm's virtual DOM](https://jfmengels.net/virtual-dom-security-patch/)
 
-- [I made minimal change to escape HTML in REST API using go reflection](https://inspektor.cloud/blog/i-made-minimal-change-to-escape-html-in-rest-using-go-reflection)
+- [On rebooting: the unreasonable effectiveness of turning computers off and on again](https://keunwoo.com/notes/rebooting/)
 
-- [Lotus 1-2-3 For Linux](https://lock.cmpxchg8b.com/linux123.html)
+- [Branch/cmove and compiler optimizations](https://kristerw.github.io/2022/05/24/branchless/)
 
-- [Determining the intersection point of two lists in O(1) space](https://muscar.eu/linked-list-intersection.html)
+- [Refactoring a House: Software Architecture is Like Architecture After All](https://markus.oberlehner.net/blog/refactoring-a-house-software-architecture-is-architecture-after-all/)
 
-- [The balance has shifted away from SPAs](https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas/)
+- [Fixing Memory Leaks in Rust](https://onesignal.com/blog/solving-memory-leaks-in-rust/)
 
-- [The SPACE of Developer Productivity - ACM Queue](https://queue.acm.org/detail.cfm?id=3454124)
+- [Minimalism in Programming Language Design](https://pointersgonewild.com/2022/05/23/minimalism-in-programming-language-design/)
 
-- [std::relocate’s implementation is cute](https://quuxplusone.github.io/blog/2022/05/18/std-relocate/)
+- [The Streets of Monaco](https://tech.marksblogg.com/streets-of-monaco-openstreetmap-postgis-qgis.html)
 
-- [Call Me Maybe: Ea­ves­drop­ping En­cryp­ted LTE Calls With Re­VoL­TE](https://revolte-attack.net/)
+- [Formally Verifying an Auction Contract](https://whileydave.com/2022/05/17/verifying-an-auction-contract-in-whiley/)
 
-- [NFS Server Inside FreeBSD VNET Jail](https://vermaden.wordpress.com/2022/05/22/nfs-server-inside-freebsd-vnet-jail/)
+- [FreeBSD on AWS Graviton 3](https://www.daemonology.net/blog/2022-05-23-FreeBSD-Graviton-3.html)
 
-- [Mis-Adventures In GatsbyJS](https://www.feoh.org/posts/mis-adventures-in-gatsbyjs.html)
+- [The Hidden Dangers of Haskell's Ratio Type](https://www.fpcomplete.com/blog/hidden-dangers-of-ratio/)
 
-- [Spaced Repetition for Efficient Learning](https://www.gwern.net/Spaced-repetition)
+- [Adventures with Solaris 11.4 CBE, pkgsrc and NVMM](https://www.unitedbsd.com/d/722-adventures-with-solaris-114-cbe-pkgsrc-and-nvmm)
 
-- [Leslie Lamport interview: How to Write Software With Mathematical Perfection](https://www.quantamagazine.org/computing-expert-says-programmers-need-more-math-20220517/)
+- [How Zig is used at Uber](https://www.youtube.com/watch?v=SCj2J3HcEfc)
+
+- [Jetbrains editors are getting a redesign](https://youtrack.jetbrains.com/articles/IDEA-A-156/Main-changes-and-known-issues)
