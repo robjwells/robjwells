@@ -1,49 +1,47 @@
-- [FRBR, Before and After: A Look at Our Bibliographic Models](http://kcoyle.net/beforeAndAfter/978-0-8389-1364-2.pdf)
+- [Thoughts on Forth Programming](http://www.call-with-current-continuation.org/articles/forth.txt)
 
-- [The joy of concurrent logic programming](http://www.call-with-current-continuation.org/articles/the-joy-of-concurrent-logic-programming.txt)
+- [QuickLook plugins list](http://www.quicklookplugins.com)
 
-- [microFLENG - concurrent logic programming for CP/M, C64 and the "uxn" VM](http://www.call-with-current-continuation.org/microfleng/microfleng.html)
+- [Architecture Notes: Datasette](https://architecturenotes.co/datasette-simon-willison/)
 
-- [A Kernel Hacker Meets Fuchsia OS](https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html)
+- [After 30 years, the world can now play the lost Marble Madness II](https://arstechnica.com/gaming/2022/05/after-30-years-the-world-can-now-play-the-lost-marble-madness-ii/)
 
-- [The Future of the GitLab Web IDE](https://about.gitlab.com/blog/2022/05/23/the-future-of-the-gitlab-web-ide/)
+- [All you need to know about Asterisks in Python](https://bas.codes/posts/python-asterisks)
 
-- [Zoom: Remote Code Execution with XMPP Stanza Smuggling](https://bugs.chromium.org/p/project-zero/issues/detail?id=2254)
+- [Writing like a pro with vale & neovim](https://bhupesh.me//writing-like-a-pro-with-vale-and-neovim/)
 
-- [I hate LaTeX, I love LaTeX](https://commutative.xyz/~miguelmurca/blog/x/illihl.html)
+- [On removing APIs - Linux status bar, GNOME system tray and ElementaryOS AppIndicators](https://blog.console.dev/on-removing-apis-status-appindicators-in-gnome/)
 
-- [Announcing TypeScript 4.7](https://devblogs.microsoft.com/typescript/announcing-typescript-4-7/)
+- [The unreasonable effectiveness of f‍-‍strings and re.VERBOSE](https://death.andgravity.com/f-re)
 
-- [the trouble with q quotes](https://flak.tedunangst.com/post/the-trouble-with-q-quotes)
+- [Conway's Game of Life in APL in FORTH](https://github.com/chmykh/apl-life)
 
-- [Fly Machines: an API for fast-booting VMs](https://fly.io/blog/fly-machines/)
+- [Where Contributors Have Problems with Oil](https://github.com/oilshell/oil/wiki/Where-Contributors-Have-Problems)
 
-- [Setaceous Versioning, the revolutionary new way to maintain software](https://github.com/RocketRace/setver)
+- [React PIN Field v3.0.14 released](https://github.com/soywod/react-pin-field)
 
-- [Imagen: Text-to-Image Diffusion Models](https://imagen.research.google/)
+- [Catalogs and Context](https://kcoyle.net/catcon.html)
 
-- [Fixing vulnerabilities in Elm's virtual DOM](https://jfmengels.net/virtual-dom-security-patch/)
+- [A Conference About Software You Can Love](https://kristoff.it/blog/software-you-can-love/)
 
-- [On rebooting: the unreasonable effectiveness of turning computers off and on again](https://keunwoo.com/notes/rebooting/)
+- [Layouts RFC](https://nextjs.org/blog/layouts-rfc)
 
-- [Branch/cmove and compiler optimizations](https://kristerw.github.io/2022/05/24/branchless/)
+- [Parse Platform — The complete application stack](https://parseplatform.org/)
 
-- [Refactoring a House: Software Architecture is Like Architecture After All](https://markus.oberlehner.net/blog/refactoring-a-house-software-architecture-is-architecture-after-all/)
+- [How I built zig-sqlite](https://rischmann.fr/blog/how-i-built-zig-sqlite)
 
-- [Fixing Memory Leaks in Rust](https://onesignal.com/blog/solving-memory-leaks-in-rust/)
+- [Retrofitting Temporal Memory Safety on C++](https://security.googleblog.com/2022/05/retrofitting-temporal-memory-safety-on-c.html)
 
-- [Minimalism in Programming Language Design](https://pointersgonewild.com/2022/05/23/minimalism-in-programming-language-design/)
+- [A City in a Bottle](https://twitter.com/KilledByAPixel/status/1517294627996545024)
 
-- [The Streets of Monaco](https://tech.marksblogg.com/streets-of-monaco-openstreetmap-postgis-qgis.html)
+- [LTeX – Grammar/Spell Checker Using LanguageTool with Support for LaTeX, Markdown, and Others | LTeX](https://valentjn.github.io/ltex/)
 
-- [Formally Verifying an Auction Contract](https://whileydave.com/2022/05/17/verifying-an-auction-contract-in-whiley/)
+- [Terraform should have remained stateless](https://www.bejarano.io/terraform-stateless/)
 
-- [FreeBSD on AWS Graviton 3](https://www.daemonology.net/blog/2022-05-23-FreeBSD-Graviton-3.html)
+- [Ghost in the Shellcode](https://www.notcheckmark.com/2022/05/ghost-in-the-shellcode/)
 
-- [The Hidden Dangers of Haskell's Ratio Type](https://www.fpcomplete.com/blog/hidden-dangers-of-ratio/)
+- [rqlite – distributed SQLite: v7.5.0 trading durability for higher write performance](https://www.philipotoole.com/rqlite-trading-durability-for-performance/)
 
-- [Adventures with Solaris 11.4 CBE, pkgsrc and NVMM](https://www.unitedbsd.com/d/722-adventures-with-solaris-114-cbe-pkgsrc-and-nvmm)
+- [Magical SVG Techniques](https://www.smashingmagazine.com/2022/05/magical-svg-techniques/)
 
-- [How Zig is used at Uber](https://www.youtube.com/watch?v=SCj2J3HcEfc)
-
-- [Jetbrains editors are getting a redesign](https://youtrack.jetbrains.com/articles/IDEA-A-156/Main-changes-and-known-issues)
+- [Tetra - Full stack reactive component framework for Django using Alpine.js](https://www.tetraframework.com/)
