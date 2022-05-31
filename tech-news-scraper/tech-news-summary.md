@@ -1,47 +1,47 @@
-- [Thoughts on Forth Programming](http://www.call-with-current-continuation.org/articles/forth.txt)
+- [Quotes from the Erlang world](http://blog.syncpup.com/posts/quotes-from-the-erlang-world.html)
 
-- [QuickLook plugins list](http://www.quicklookplugins.com)
+- [Jepsen – distributed systems testing](http://jepsen.io/)
 
-- [Architecture Notes: Datasette](https://architecturenotes.co/datasette-simon-willison/)
+- [So long, home T1 line; hello, hacking the T1 router](http://oldvcr.blogspot.com/2022/05/so-long-home-t1-line-hello-hacking-t1.html)
 
-- [After 30 years, the world can now play the lost Marble Madness II](https://arstechnica.com/gaming/2022/05/after-30-years-the-world-can-now-play-the-lost-marble-madness-ii/)
+- [Nix(OS) Thoughts](https://bicompact.space/blog/2020/06/20/nix-os-thoughts/)
 
-- [All you need to know about Asterisks in Python](https://bas.codes/posts/python-asterisks)
+- [Compiling the NetBSD kernel as a benchmark](https://blog.anotherhomepage.org/post/2022/05/25/Compiling-the-NetBSD-kernel-as-a-benchmark/)
 
-- [Writing like a pro with vale & neovim](https://bhupesh.me//writing-like-a-pro-with-vale-and-neovim/)
+- [Using Verizon's API to get a vanity phone number with 4 consecutive digits](https://blog.jonlu.ca/posts/verizon-rare-numbers?ref=ls)
 
-- [On removing APIs - Linux status bar, GNOME system tray and ElementaryOS AppIndicators](https://blog.console.dev/on-removing-apis-status-appindicators-in-gnome/)
+- [Electronic Catan LCD Tiles](https://coliniuliano.ca/projects/catan-tiles/)
 
-- [The unreasonable effectiveness of f‍-‍strings and re.VERBOSE](https://death.andgravity.com/f-re)
+- [Rewriting the lexer benchmark in Rust](https://eli.thegreenplace.net/2022/rewriting-the-lexer-benchmark-in-rust/)
 
-- [Conway's Game of Life in APL in FORTH](https://github.com/chmykh/apl-life)
+- [A decade of dotfiles](https://evanhahn.com/a-decade-of-dotfiles/)
 
-- [Where Contributors Have Problems with Oil](https://github.com/oilshell/oil/wiki/Where-Contributors-Have-Problems)
+- [Of tantivy, a search engine in Rust](https://fulmicoton.com/posts/behold-tantivy/)
 
-- [React PIN Field v3.0.14 released](https://github.com/soywod/react-pin-field)
+- [Bob Cassette Rewinder: Hacking Detergent DRM](https://github.com/dekuNukem/bob_cassette_rewinder/blob/master/README.md)
 
-- [Catalogs and Context](https://kcoyle.net/catcon.html)
+- [opuntiaOS - an operating system targeting x86, ARMv7, Aarch64](https://github.com/opuntiaOS-Project/opuntiaOS)
 
-- [A Conference About Software You Can Love](https://kristoff.it/blog/software-you-can-love/)
+- [Glicol: a next-generation computer music language](https://glicol.org/)
 
-- [Layouts RFC](https://nextjs.org/blog/layouts-rfc)
+- [Gren 0.1.0 is released](https://gren-lang.org/news/220530_first_release)
 
-- [Parse Platform — The complete application stack](https://parseplatform.org/)
+- [Programming after Climate Change](https://matduggan.com/programming-in-the/)
 
-- [How I built zig-sqlite](https://rischmann.fr/blog/how-i-built-zig-sqlite)
+- [Binary Privacy](https://matklad.github.io//2022/05/29/binary-privacy.html)
 
-- [Retrofitting Temporal Memory Safety on C++](https://security.googleblog.com/2022/05/retrofitting-temporal-memory-safety-on-c.html)
+- [Welcoming Rocket.Chat to Matrix](https://matrix.org/blog/2022/05/30/welcoming-rocket-chat-to-matrix)
 
-- [A City in a Bottle](https://twitter.com/KilledByAPixel/status/1517294627996545024)
+- [NixOS 22.05 released](https://nixos.org/blog/announcements.html#nixos-22.05)
 
-- [LTeX – Grammar/Spell Checker Using LanguageTool with Support for LaTeX, Markdown, and Others | LTeX](https://valentjn.github.io/ltex/)
+- [Writing an OS in Rust](https://os.phil-opp.com/)
 
-- [Terraform should have remained stateless](https://www.bejarano.io/terraform-stateless/)
+- [Writing video games in a functional style [2016]](https://prog21.dadgum.com/228.html)
 
-- [Ghost in the Shellcode](https://www.notcheckmark.com/2022/05/ghost-in-the-shellcode/)
+- [Query Google Sheet data using PostgreSQL clients](https://roapi.github.io/docs/config/dataset-formats/gsheet.html#example)
 
-- [rqlite – distributed SQLite: v7.5.0 trading durability for higher write performance](https://www.philipotoole.com/rqlite-trading-durability-for-performance/)
+- [A Couple Lines To Improve Print-Based Debugging In Loops](https://rtpg.co/2022/05/30/improve-print-based-debugging.html)
 
-- [Magical SVG Techniques](https://www.smashingmagazine.com/2022/05/magical-svg-techniques/)
+- [Major Version Numbers are Not Sacred](https://tom.preston-werner.com/2022/05/23/major-version-numbers-are-not-sacred.html)
 
-- [Tetra - Full stack reactive component framework for Django using Alpine.js](https://www.tetraframework.com/)
+- [Building Reliable Infrastructure in Rust](https://www.youtube.com/watch?v=hMJEPWcSD8w)
