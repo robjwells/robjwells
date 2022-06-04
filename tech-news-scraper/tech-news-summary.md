@@ -1,49 +1,47 @@
-- [So long, home T1 line; hello, hacking the T1 router](http://oldvcr.blogspot.com/2022/05/so-long-home-t1-line-hello-hacking-t1.html)
+- [Remembering Ned Freed (1959-2022)](http://theviewfromguppylake.blogspot.com/2022/05/remembering-ned-freed-1959-2022.html)
 
-- [[2018] CMU 15-721 Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2018/schedule.html)
+- [Installing a payphone in my house](https://bert.org/2022/06/02/payphone/)
 
-- [Remembering Apple’s Newton, 30 years on](https://arstechnica.com/gadgets/2022/05/remembering-apples-newton-30-years-on/)
+- [Move away from streaming platforms & take your music offline](https://blog.orhun.dev/take-your-music-offline/)
 
-- [Git Under the Hood](https://articles.foletta.org/post/git-under-the-hood/)
+- [Generating a random `float64` with `crypto/rand`](https://brandur.org/fragments/crypto-rand-float64)
 
-- [Evaluating the security implications of a company-wide Nix remote builder](https://asymmetric.github.io/2021/05/31/remote-nix-builder/)
+- [Formal Methods Only Solve Half My Problems](https://brooker.co.za/blog/2022/06/02/formal.html)
 
-- [Deno 1.8 Release Notes](https://deno.com/blog/v1.8)
+- [A match made in heaven](https://conradludgate.com/posts/macros_match)
 
-- [Postgres Docker Container Migration Cheat Sheet](https://garrit.xyz/posts/2022-05-31-database-server-migration-cheat-sheet)
+- [How many man years are wasted with western naming convensions?](https://games.greggman.com/game/2022-06-02-western-naming-convensions-wasting-time_md/)
 
-- [Monads and popular FP abstractions, based on Go 1.18+ Generics](https://github.com/samber/mo)
+- [commercial-emacs](https://github.com/commercial-emacs/commercial-emacs)
 
-- [Some notes on internal working of profiler](https://inspektor.cloud/blog/how-profiler-works)
+- [The Open SIMH computer simulators project (forked)](https://github.com/open-simh)
 
-- [Linux and Tiny C Compiler in the browser, part one](https://ja.nsommer.dk/articles/linux-and-tiny-c-compiler-in-the-browser-part-one.html)
+- [Rust Is Hard, Or: The Misery of Mainstream Programming](https://hirrolot.github.io/posts/rust-is-hard-or-the-misery-of-mainstream-programming.html)
 
-- [Welcoming Rocket.Chat to Matrix](https://matrix.org/blog/2022/05/30/welcoming-rocket-chat-to-matrix)
+- [(async) Rust doesn't have to be hard](https://itsallaboutthebit.com/async-simple/)
 
-- [NixOS 22.05 released](https://nixos.org/blog/announcements.html#nixos-22.05)
+- [My Experience Building an Editor in Rust](https://jimmyhmiller.github.io/editor-experience)
 
-- [BTRFS can survive acts of God](https://pencil.toast.cafe/hellops/electrifying-ext4)
+- [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html)
 
-- [perl v5.36.0 has been released](https://rjbs.cloud/blog/2022/05/perl-5.36/)
+- [Apple Silicon “Augury” DMP Vulnerability](https://mjtsai.com/blog/2022/06/03/apple-silicon-augury-dmp-vulnerability/)
 
-- [A Couple Lines To Improve Print-Based Debugging In Loops](https://rtpg.co/2022/05/30/improve-print-based-debugging.html)
+- [Vectorized and performance-portable Quicksort](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)
 
-- [People in your software supply chain](https://sethmlarson.dev/blog/people-in-your-software-supply-chain)
+- [systemd services & timers in NixOS](https://paperless.blog/systemd-services-and-timers-in-nixos)
 
-- [I hacked Notion to create a search symbol and copy to clipboard tool](https://symbols.wentin.net/)
+- [Smooth, non-invasive Haskell Stack and Nix shell integration](https://tweag.io/blog/2022-06-02-haskell-stack-nix-shell/)
 
-- [Teleforking a process onto a different computer](https://thume.ca/2020/04/18/telefork-forking-a-process-onto-a-different-computer/)
+- [Benchmarking Malloc with Doom 3](https://www.forrestthewoods.com/blog/benchmarking-malloc-with-doom3/)
 
-- [Vodafone plans carrier-level user tracking for targeted ads](https://www.bleepingcomputer.com/news/security/vodafone-plans-carrier-level-user-tracking-for-targeted-ads/)
+- [The appeal of bidirectional type-checking](https://www.haskellforall.com/2022/06/the-appeal-of-bidirectional-type.html)
 
-- [Pong](https://www.falstad.com/pong/index.html)
+- [Compiling a Subset of JavaScript to ARM Assembly in Haskell](https://www.micahcantor.com/blog/js-to-asm-in-hs/)
 
-- [Certificate Transparency data is used to compromise WordPress before installation](https://www.feistyduck.com/bulletproof-tls-newsletter/issue_89_certificate_transparency_data_is_used_to_compromise_wordpress_before_installation)
+- [Dangerous Gift](https://www.tbray.org/ongoing/When/202x/2022/06/02/Dangerous-Gift)
 
-- [Generate web forms from pure functions](https://www.haskellforall.com/2022/05/generate-web-forms-from-pure-functions.html)
+- [Zero-Day Exploitation of Atlassian Confluence](https://www.volexity.com/blog/2022/06/02/zero-day-exploitation-of-atlassian-confluence/)
 
-- [XModem in 2022](https://www.mattkeeter.com/blog/2022-05-31-xmodem/)
+- [SolidJS: Past, Present, Future](https://www.youtube.com/watch?v=dOgnQ9SuKYk)
 
-- [Give WindowMaker a macos Mojave look](https://www.tumfatig.net/2022/give-windowmaker-a-macos-mojave-look/)
-
-- [But How DO Fluid Simulations Work?](https://www.youtube.com/watch?v=qsYE1wMEMPA)
+- [Emacs: Password-protect current pdf](https://xenodium.com/emacs-password-protect-current-pdf/)
