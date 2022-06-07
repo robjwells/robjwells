@@ -1,47 +1,47 @@
-- [Remembering Ned Freed (1959-2022)](http://theviewfromguppylake.blogspot.com/2022/05/remembering-ned-freed-1959-2022.html)
+- [Plain text. With lines](http://akkartik.name/lines.html)
 
-- [Installing a payphone in my house](https://bert.org/2022/06/02/payphone/)
+- [UX patterns for CLI tools](http://lucasfcosta.com/2022/06/01/ux-patterns-cli-tools.html)
 
-- [Move away from streaming platforms & take your music offline](https://blog.orhun.dev/take-your-music-offline/)
+- [Windows 9x Video Minidriver HD+](http://www.os2museum.com/wp/windows-9x-video-minidriver-hd/)
 
-- [Generating a random `float64` with `crypto/rand`](https://brandur.org/fragments/crypto-rand-float64)
+- [The true cost of linked lists](http://ykarroum.com/2022/05/30/true-cost-list/)
 
-- [Formal Methods Only Solve Half My Problems](https://brooker.co.za/blog/2022/06/02/formal.html)
+- [Raw Filtering of JSON Data on FPGAs](https://arxiv.org/pdf/2205.05464.pdf)
 
-- [A match made in heaven](https://conradludgate.com/posts/macros_match)
+- [The Darklang backend rewrite is complete](https://blog.darklang.com/backend-rewrite-complete/)
 
-- [How many man years are wasted with western naming convensions?](https://games.greggman.com/game/2022-06-02-western-naming-convensions-wasting-time_md/)
+- [How to print anything in OCaml](https://dev.to/yawaramin/how-to-print-anything-in-ocaml-1hkl)
 
-- [commercial-emacs](https://github.com/commercial-emacs/commercial-emacs)
+- [Useful utilities and toys over DNS](https://dns.toys)
 
-- [The Open SIMH computer simulators project (forked)](https://github.com/open-simh)
+- [Do not ship work in progress](https://do-not-ship.it/)
 
-- [Rust Is Hard, Or: The Misery of Mainstream Programming](https://hirrolot.github.io/posts/rust-is-hard-or-the-misery-of-mainstream-programming.html)
+- [Exploiting the Wii U's USB Descriptor parsing](https://garyodernichts.blogspot.com/2022/06/exploiting-wii-us-usb-descriptor-parsing.html)
 
-- [(async) Rust doesn't have to be hard](https://itsallaboutthebit.com/async-simple/)
+- [Ten years of Ansible](https://jpmens.net/2022/06/06/ten-years-of-ansible/)
 
-- [My Experience Building an Editor in Rust](https://jimmyhmiller.github.io/editor-experience)
+- [Data structure size and cache-line accesses](https://lemire.me/blog/2022/06/06/data-structure-size-and-cache-line-accesses/)
 
-- [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html)
+- [Start test names with “should”](https://paperless.blog/start-test-names-with-should)
 
-- [Apple Silicon “Augury” DMP Vulnerability](https://mjtsai.com/blog/2022/06/03/apple-silicon-augury-dmp-vulnerability/)
+- [Wordmul: Wordle for Multics](https://portal.mozz.us/gemini/arcanesciences.com/gemlog/22-06-05/)
 
-- [Vectorized and performance-portable Quicksort](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)
+- [Dimensionality and the Unbearable Size of Systems](https://rambling.malignat.us/2022-06-06/dimensionality-and-the-unbearable-size-of-systems)
 
-- [systemd services & timers in NixOS](https://paperless.blog/systemd-services-and-timers-in-nixos)
+- [A layered approach to content blocking](https://seirdy.one/posts/2022/06/04/layered-content-blocking/)
 
-- [Smooth, non-invasive Haskell Stack and Nix shell integration](https://tweag.io/blog/2022-06-02-haskell-stack-nix-shell/)
+- [Paper Prototype CSS](https://shkspr.mobi/blog/2022/06/paper-prototype-css/)
 
-- [Benchmarking Malloc with Doom 3](https://www.forrestthewoods.com/blog/benchmarking-malloc-with-doom3/)
+- [A beginners guide to pixel art](https://smoldungeon.com/pixel-art)
 
-- [The appeal of bidirectional type-checking](https://www.haskellforall.com/2022/06/the-appeal-of-bidirectional-type.html)
+- [WHAT functions and WHY functions](https://t-ravis.com/post/doc/what_functions_and_why_functions/)
 
-- [Compiling a Subset of JavaScript to ARM Assembly in Haskell](https://www.micahcantor.com/blog/js-to-asm-in-hs/)
+- [WWDC 2022](https://www.apple.com/apple-events/)
 
-- [Dangerous Gift](https://www.tbray.org/ongoing/When/202x/2022/06/02/Dangerous-Gift)
+- [Conformant open source support for Mali-G57](https://www.collabora.com/news-and-blog/news-and-events/conformant-open-source-support-for-mali-g57.htm)
 
-- [Zero-Day Exploitation of Atlassian Confluence](https://www.volexity.com/blog/2022/06/02/zero-day-exploitation-of-atlassian-confluence/)
+- [The sort --key Trick](https://www.gwern.net/Sort)
 
-- [SolidJS: Past, Present, Future](https://www.youtube.com/watch?v=dOgnQ9SuKYk)
+- [Notkia - Linux phone in the shape of Nokia, with LoRa+WiFI+BT connectivity](https://www.hackster.io/reimunotmoe/notkia-f6e772)
 
-- [Emacs: Password-protect current pdf](https://xenodium.com/emacs-password-protect-current-pdf/)
+- [RFC 9114: HTTP/3](https://www.rfc-editor.org/rfc/rfc9114)
