@@ -1,47 +1,49 @@
-- [Plain text. With lines](http://akkartik.name/lines.html)
+- [Why I often implement things from scratch (2006)](http://armstrongonsoftware.blogspot.com/2006/09/why-i-often-implement-things-from.html)
 
-- [UX patterns for CLI tools](http://lucasfcosta.com/2022/06/01/ux-patterns-cli-tools.html)
+- [Private Access Tokens: eliminating CAPTCHAs on iPhones and Macs with open standards](https://blog.cloudflare.com/eliminating-captchas-on-iphones-and-macs-using-new-standard/)
 
-- [Windows 9x Video Minidriver HD+](http://www.os2museum.com/wp/windows-9x-video-minidriver-hd/)
+- [Cranelift, Part 4: A New Register Allocator](https://cfallin.org/blog/2022/06/09/cranelift-regalloc2/)
 
-- [The true cost of linked lists](http://ykarroum.com/2022/05/30/true-cost-list/)
+- [Is there a maximum size for Windows clipboard data? Because I'm getting null for something I know should be there](https://devblogs.microsoft.com/oldnewthing/20220608-00/?p=106727)
 
-- [Raw Filtering of JSON Data on FPGAs](https://arxiv.org/pdf/2205.05464.pdf)
+- [Sunsetting Atom](https://github.blog/2022-06-08-sunsetting-atom/)
 
-- [The Darklang backend rewrite is complete](https://blog.darklang.com/backend-rewrite-complete/)
+- [Handling Concurrency Without Locks](https://hakibenita.com/django-concurrency)
 
-- [How to print anything in OCaml](https://dev.to/yawaramin/how-to-print-anything-in-ocaml-1hkl)
+- [Linux on A7-A8X](https://konradybcio.pl/linuxona7/)
 
-- [Useful utilities and toys over DNS](https://dns.toys)
+- [Open source code editor (in Rust)](https://lapce.dev/)
 
-- [Do not ship work in progress](https://do-not-ship.it/)
+- [Rust without the async (hard) part](https://lunatic.solutions/blog/rust-without-the-async-hard-part/)
 
-- [Exploiting the Wii U's USB Descriptor parsing](https://garyodernichts.blogspot.com/2022/06/exploiting-wii-us-usb-descriptor-parsing.html)
+- [Infrastructure From Code](https://medium.com/@nodar.d/infrastructure-from-code-b4cbd36f2dd7)
 
-- [Ten years of Ansible](https://jpmens.net/2022/06/06/ten-years-of-ansible/)
+- [Making Advanced GUI Applications with Godot](https://medium.com/swlh/what-makes-godot-engine-great-for-advance-gui-applications-b1cfb941df3b)
 
-- [Data structure size and cache-line accesses](https://lemire.me/blog/2022/06/06/data-structure-size-and-cache-line-accesses/)
+- [The collapse of complex software](https://nolanlawson.com/2022/06/09/the-collapse-of-complex-software/)
 
-- [Start test names with “should”](https://paperless.blog/start-test-names-with-should)
+- [Pandas vectorization: faster code, slower code, bloated memory](https://pythonspeed.com/articles/pandas-vectorization/)
 
-- [Wordmul: Wordle for Multics](https://portal.mozz.us/gemini/arcanesciences.com/gemlog/22-06-05/)
+- [Rust OSDev May 2022 update](https://rust-osdev.com/this-month/2022-05/)
 
-- [Dimensionality and the Unbearable Size of Systems](https://rambling.malignat.us/2022-06-06/dimensionality-and-the-unbearable-size-of-systems)
+- [The Best Book on Code Reviews](https://stratus3d.com/blog/2022/06/08/the-best-book-on-code-reviews)
 
-- [A layered approach to content blocking](https://seirdy.one/posts/2022/06/04/layered-content-blocking/)
+- [Why We're Sticking with Ruby on Rails at GitLab](https://thenewstack.io/why-were-sticking-with-ruby-on-rails-at-gitlab/)
 
-- [Paper Prototype CSS](https://shkspr.mobi/blog/2022/06/paper-prototype-css/)
+- [Quick look at Rosetta on Linux](https://threedots.ovh/blog/2022/06/quick-look-at-rosetta-on-linux/)
 
-- [A beginners guide to pixel art](https://smoldungeon.com/pixel-art)
+- [Quick look at user-mode file systems on macOS Ventura](https://threedots.ovh/blog/2022/06/quick-look-at-user-mode-file-systems-on-macos-ventura/)
 
-- [WHAT functions and WHY functions](https://t-ravis.com/post/doc/what_functions_and_why_functions/)
+- [Whiley gets Rusty](https://whileydave.com/2022/05/31/whiley-gets-rusty/)
 
-- [WWDC 2022](https://www.apple.com/apple-events/)
+- [What Would It Take for Roda to Win?](https://www.fullstackruby.dev/fullstack-development/2022/06/03/what-would-it-take-for-roda-to-win/)
 
-- [Conformant open source support for Mali-G57](https://www.collabora.com/news-and-blog/news-and-events/conformant-open-source-support-for-mali-g57.htm)
+- [Haiku Activity & Contract Report: May 2022](https://www.haiku-os.org/blog/waddlesplash/2022-06-08_haiku_activity_contract_report_may_2022/)
 
-- [The sort --key Trick](https://www.gwern.net/Sort)
+- [Get Things Done with Emacs](https://www.labri.fr/perso/nrougier/GTD/index.html)
 
-- [Notkia - Linux phone in the shape of Nokia, with LoRa+WiFI+BT connectivity](https://www.hackster.io/reimunotmoe/notkia-f6e772)
+- [Re: Error in localtime(time) function](https://www.nntp.perl.org/group/perl.perl5.porters/2000/01/msg5283.html)
 
-- [RFC 9114: HTTP/3](https://www.rfc-editor.org/rfc/rfc9114)
+- [Solving Sudoku with Poetry's dependency resolver](https://www.splitgraph.com/blog/poetry-dependency-resolver-sudoku)
+
+- [How Static Code Analysis Prevents You From Waking Up at 3AM With Production on Fire](https://xeiaso.net/talks/conf42-static-analysis)
