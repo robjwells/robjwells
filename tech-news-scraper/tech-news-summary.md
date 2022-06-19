@@ -1,49 +1,45 @@
-- [Why Duck Typing Is Safe](http://www.jerf.org/iri/post/2954)
+- [Breaking Our Latin-1 Assumptions (2017)](http://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/)
 
-- [The Case for Use.GPU](https://acko.net/blog/the-case-for-use-gpu/)
+- [Alternatives to installing npm packages globally](https://2ality.com/2022/06/global-npm-install-alternatives.html)
 
-- [More Oxide at Home: My Pi is a Wireless Crucible](https://artemis.sh/2022/06/14/oxide-crucible.html)
+- [Ante: A low-level functional language](https://antelang.org/)
 
-- [My other database is a compiler](https://blog.chiselstrike.com/my-other-database-is-a-compiler-10fd527a4d78)
+- [List processing in real time on a serial computer (1978)](https://dl.acm.org/doi/pdf/10.1145/359460.359470)
 
-- [Firefox Rolls Out Total Cookie Protection By Default To All Users](https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
+- [The Connection Machine](https://dspace.mit.edu/bitstream/handle/1721.1/14719/18524280-MIT.pdf)
 
-- [Validate Your YAML](https://earthly.dev/blog/yaml-validate-and-lint-cue-lang/)
+- [from apples to pears](https://flak.tedunangst.com/post/from-apples-to-pears)
 
-- [Trying out some hosting options](https://f5n.org/blog/2022/trying-out-some-hosting-options/)
+- [CreuSAT: A formally verified SAT solver written in Rust](https://github.com/sarsko/CreuSAT)
 
-- [How to make Rust leak memory (also: how to make it stop)](https://fly.io/blog/rust-memory-leak/)
+- [DORA Metrics: the Right Answer to measuring engineering team performance](https://jacobian.org/2022/jun/17/dora-metrics/)
 
-- [Breaking Secure Boot on Google Nest Hub (2nd Gen) to run Ubuntu](https://fredericb.info/2022/06/breaking-secure-boot-on-google-nest-hub-2nd-gen-to-run-ubuntu.html)
+- [Speeding up autoconf with caching](https://jmmv.dev/2022/06/autoconf-caching.html)
 
-- [Oblivious HTTP](https://ietf-wg-ohai.github.io/oblivious-http/draft-ietf-ohai-ohttp.html)
+- [redbean 2.0 release notes](https://justine.lol/redbean2/)
 
-- [Using Netgraph for FreeBSD’s Bhyve Networking](https://klarasystems.com/articles/using-netgraph-for-freebsds-bhyve-networking/)
+- [V Language Review (2022)](https://mawfig.github.io/2022/06/18/v-lang-in-2022.html)
 
-- [M1 GPUs for C++ science: Getting started](https://larsgeb.github.io/2022/04/20/m1-gpu.html)
+- [Switch to VPC Endpoints from NAT Gateways to Reduce Bandwidth Charges](https://medium.com/towards-aws/switch-to-vpc-endpoints-from-nat-gateways-to-reduce-bandwidth-charges-881b1d96e9cf)
 
-- [Details-as-a-menu](https://melsumner.github.io/details-as-a-menu)
+- [rsync, article 1: Scenarios](https://michael.stapelberg.ch/posts/2022-06-18-rsync-article-1-scenarios/)
 
-- [NixOS: Confederation](https://myme.no/posts/2022-06-14-nixos-confederation.html)
+- [Common DB schema change mistakes](https://postgres.ai/blog/20220525-common-db-schema-change-mistakes)
 
-- [Write documentation first. Then build](https://reproof.app/blog/document-first-then-build)
+- [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/utm/)
 
-- [What it feels like when Rust saves your bacon](https://smallcultfollowing.com/babysteps/blog/2022/06/15/what-it-feels-like-when-rust-saves-your-bacon/)
+- [File Sharing with Caddy & MinIO](https://tech.marksblogg.com/caddy-https-minio.html)
 
-- [Announcing the Swift Language Workgroup](https://swift.org/blog/language-workgroup/)
+- [“Batteries-Included” vs “Bloated”](https://textslashplain.com/2022/06/16/batteries-included-vs-bloated/)
 
-- [How many chairs do I need?](https://thomwright.co.uk/2022/05/05/auto-scaling/)
+- [Binary Golf Grand Prix: Crash](https://tmpout.sh/bggp/3/)
 
-- [Readme Driven Development (2010)](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+- [Is FreeBSD a Real UNIX?](https://vermaden.wordpress.com/2022/06/19/is-freebsd-a-real-unix/)
 
-- [Why Is AVX 512 Useful for RPCS3?](https://whatcookie.github.io/posts/why-is-avx-512-useful-for-rpcs3/)
+- [TypeScript development with Emacs, tree-sitter and LSP in 2022](https://vxlabs.com/2022/06/12/typescript-development-with-emacs-tree-sitter-and-lsp-in-2022/)
 
-- [Priest Against Priesthood](https://writing.kemitchell.com/2022/06/12/Backus-Priesthood)
+- [The Emacs Operating System (EOS)](https://writequit.org/eos/eos.html)
 
-- [Artificial neural networks today are not conscious, according to Douglas Hofstadter](https://www.economist.com/by-invitation/2022/06/09/artificial-neural-networks-today-are-not-conscious-according-to-douglas-hofstadter)
+- [The Modos Paper Laptop](https://www.modos.tech/blog/modos-paper-laptop)
 
-- [Formally Proven Binary Format Parsers](https://www.fstar-lang.org/papers/EverParse3D.pdf)
-
-- [Hertzbleed Attack](https://www.hertzbleed.com/)
-
-- [Full Stack Dart](https://www.infoq.com/presentations/full-stack-dart/)
+- [Generating true random numbers from bananas](https://www.valerionappi.it/brng-en/)
