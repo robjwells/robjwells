@@ -1,45 +1,49 @@
-- [Breaking Our Latin-1 Assumptions (2017)](http://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/)
+- [Been there, done that](http://ane.iki.fi/2022/06/21/beenthere-donethat.html)
 
-- [Alternatives to installing npm packages globally](https://2ality.com/2022/06/global-npm-install-alternatives.html)
+- [The Grug Brained Developer](http://grugbrain.dev)
 
-- [Ante: A low-level functional language](https://antelang.org/)
+- [Matrix notes](https://anarc.at/blog/2022-06-17-matrix-notes/)
 
-- [List processing in real time on a serial computer (1978)](https://dl.acm.org/doi/pdf/10.1145/359460.359470)
+- [A Guide to Phoenix LiveView Assigns](https://blog.appsignal.com/2022/06/14/a-guide-to-phoenix-liveview-assigns.html)
 
-- [The Connection Machine](https://dspace.mit.edu/bitstream/handle/1721.1/14719/18524280-MIT.pdf)
+- [Blackbird: A reference architecture for local-first connected mobile apps](https://blog.metaobject.com/2022/06/blackbird-simple-reference-architecture.html)
 
-- [from apples to pears](https://flak.tedunangst.com/post/from-apples-to-pears)
+- [Microvium is very small](https://coder-mike.com/blog/2022/06/11/microvium-is-very-small/)
 
-- [CreuSAT: A formally verified SAT solver written in Rust](https://github.com/sarsko/CreuSAT)
+- [Announcing TypeScript 4.8 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-4-8-beta/)
 
-- [DORA Metrics: the Right Answer to measuring engineering team performance](https://jacobian.org/2022/jun/17/dora-metrics/)
+- [BaGuaLu: targeting brain scale pretrained models with over 37 million cores](https://dl.acm.org/doi/abs/10.1145/3503221.3508417)
 
-- [Speeding up autoconf with caching](https://jmmv.dev/2022/06/autoconf-caching.html)
+- [Effective Shell](https://effective-shell.com/)
 
-- [redbean 2.0 release notes](https://justine.lol/redbean2/)
+- [Lavarand - lava lamp-based hardware random number generator](https://en.wikipedia.org/wiki/Lavarand)
 
-- [V Language Review (2022)](https://mawfig.github.io/2022/06/18/v-lang-in-2022.html)
+- [Don’t Mock What You Don’t Own](https://hynek.me/articles/what-to-mock-in-5-mins/)
 
-- [Switch to VPC Endpoints from NAT Gateways to Reduce Bandwidth Charges](https://medium.com/towards-aws/switch-to-vpc-endpoints-from-nat-gateways-to-reduce-bandwidth-charges-881b1d96e9cf)
+- [A journey to improving the plain text experience on mobile and web](https://len.falken.directory/web/improving-the-plain-text-experience-on-mobile-and-browsers.txt)
 
-- [rsync, article 1: Scenarios](https://michael.stapelberg.ch/posts/2022-06-18-rsync-article-1-scenarios/)
+- [requires expressions and requires clauses in C++20](https://mariusbancila.ro/blog/2022/06/20/requires-expressions-and-requires-clauses-in-cpp20/)
 
-- [Common DB schema change mistakes](https://postgres.ai/blog/20220525-common-db-schema-change-mistakes)
+- [MEGA: Malleable Encryption Goes Awry](https://mega-awry.io/)
 
-- [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/utm/)
+- [Failure is your Domain](https://middlemost.com/failure-is-your-domain/)
 
-- [File Sharing with Caddy & MinIO](https://tech.marksblogg.com/caddy-https-minio.html)
+- [How to declutter Google's search results page](https://mmazzarolo.com/blog/2022-06-19-making-google-search-less-annoying/)
 
-- [“Batteries-Included” vs “Bloated”](https://textslashplain.com/2022/06/16/batteries-included-vs-bloated/)
+- [netboot.xyz: your favorite operating systems in one place](https://netboot.xyz/docs/)
 
-- [Binary Golf Grand Prix: Crash](https://tmpout.sh/bggp/3/)
+- [A look at search engines with their own indexes](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
 
-- [Is FreeBSD a Real UNIX?](https://vermaden.wordpress.com/2022/06/19/is-freebsd-a-real-unix/)
+- [Get paid to contribute to urllib3](https://sethmlarson.dev/blog/get-paid-to-contribute-to-urllib3)
 
-- [TypeScript development with Emacs, tree-sitter and LSP in 2022](https://vxlabs.com/2022/06/12/typescript-development-with-emacs-tree-sitter-and-lsp-in-2022/)
+- [One-liner for running queries against CSV files with SQLite](https://til.simonwillison.net/sqlite/one-line-csv-operations)
 
-- [The Emacs Operating System (EOS)](https://writequit.org/eos/eos.html)
+- [You Can Run Doom on a Chip From a $15 Ikea Smart Lamp](https://uk.pcmag.com/games/133930/you-can-run-doom-on-a-chip-from-a-15-ikea-smart-lamp)
 
-- [The Modos Paper Laptop](https://www.modos.tech/blog/modos-paper-laptop)
+- [Type Checking in Whiley goes Both Ways](https://whileydave.com/2022/06/15/type-checking-in-whiley-goes-both-ways/)
 
-- [Generating true random numbers from bananas](https://www.valerionappi.it/brng-en/)
+- [the gizmo's role in markup](https://www.t-ravis.com/post/doc/the_gizmos_role_in_markup/)
+
+- [I remastered my 30 year-old DOS game](https://www.youtube.com/watch?v=08RveywBXl4)
+
+- [Let's Remix Distributed Database Design](https://www.youtube.com/watch?v=rNmZZLant9o)
