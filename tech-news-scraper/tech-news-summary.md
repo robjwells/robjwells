@@ -1,49 +1,47 @@
-- [Been there, done that](http://ane.iki.fi/2022/06/21/beenthere-donethat.html)
+- [The Impoliteness of Overriding Methods (2012)](http://journal.stuffwithstuff.com/2012/12/19/the-impoliteness-of-overriding-methods/)
 
-- [The Grug Brained Developer](http://grugbrain.dev)
+- [Ferret: Automatically finding RFC compliance bugs in DNS nameservers](https://blog.apnic.net/2022/06/24/ferret-automatically-finding-rfc-compliance-bugs-in-dns-nameservers/)
 
-- [Matrix notes](https://anarc.at/blog/2022-06-17-matrix-notes/)
+- [Java garbage collection: The 10-release evolution from JDK 8 to JDK 18](https://blogs.oracle.com/javamagazine/post/java-garbage-collectors-evolution)
 
-- [A Guide to Phoenix LiveView Assigns](https://blog.appsignal.com/2022/06/14/a-guide-to-phoenix-liveview-assigns.html)
+- [QBE 1.0](https://c9x.me/compile/releases.html)
 
-- [Blackbird: A reference architecture for local-first connected mobile apps](https://blog.metaobject.com/2022/06/blackbird-simple-reference-architecture.html)
+- [Chameleon: A tool to make solving type errors in Haskell simple and fun](https://chameleon.typecheck.me)
 
-- [Microvium is very small](https://coder-mike.com/blog/2022/06/11/microvium-is-very-small/)
+- [What Is Lisp? -- FOSS & Crafts podcast episode](https://fossandcrafts.org/episodes/47-what-is-lisp.html)
 
-- [Announcing TypeScript 4.8 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-4-8-beta/)
+- [FreeBSD Journal - 20022/05-06 - Disaster Recovery](https://freebsdfoundation.org/past-issues/disaster-recovery/)
 
-- [BaGuaLu: targeting brain scale pretrained models with over 37 million cores](https://dl.acm.org/doi/abs/10.1145/3503221.3508417)
+- [multihash: Self describing hashes, for future proofing](https://github.com/multiformats/multihash)
 
-- [Effective Shell](https://effective-shell.com/)
+- [Release mold 1.3.0](https://github.com/rui314/mold/releases/tag/v1.3.0)
 
-- [Lavarand - lava lamp-based hardware random number generator](https://en.wikipedia.org/wiki/Lavarand)
+- [ffsend: A fully featured Firefox Send client](https://github.com/timvisee/ffsend)
 
-- [Don’t Mock What You Don’t Own](https://hynek.me/articles/what-to-mock-in-5-mins/)
+- [awesome-learning-haskell: A collection of useful resources for learning Haskell](https://github.com/tweag/awesome-learning-haskell)
 
-- [A journey to improving the plain text experience on mobile and web](https://len.falken.directory/web/improving-the-plain-text-experience-on-mobile-and-browsers.txt)
+- [What would SQLite would look like if written in Rust? — Part 0](https://medium.com/the-polyglot-programmer/what-would-sqlite-would-look-like-if-written-in-rust-part-0-4fc192368984)
 
-- [requires expressions and requires clauses in C++20](https://mariusbancila.ro/blog/2022/06/20/requires-expressions-and-requires-clauses-in-cpp20/)
+- [Modern Software Development](https://mike.cloud/tech%20industry/2022/06/24/autonomous-teams.html)
 
-- [MEGA: Malleable Encryption Goes Awry](https://mega-awry.io/)
+- [Limitations in rust's type system when it comes to supporting commutative mathematical operations](https://neosmart.net/blog/2022/prettysize-0-3-release-and-a-weakness-in-rusts-type-system/)
 
-- [Failure is your Domain](https://middlemost.com/failure-is-your-domain/)
+- [iRISC: A web-based ARMv7 assembly language interpreter and computer architecture simulator](https://polysoftit.co.uk/irisc-web/)
 
-- [How to declutter Google's search results page](https://mmazzarolo.com/blog/2022-06-19-making-google-search-less-annoying/)
+- [unordered_multiset’s API affects its big-O](https://quuxplusone.github.io/blog/2022/06/23/unordered-multiset-equal-range/)
 
-- [netboot.xyz: your favorite operating systems in one place](https://netboot.xyz/docs/)
+- [Building a remote SQLite explorer](https://ricardoanderegg.com/posts/sqlite-remote-explorer-gui/)
 
-- [A look at search engines with their own indexes](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
+- [The Modern World](https://shkspr.mobi/blog/2022/06/the-modern-world/)
 
-- [Get paid to contribute to urllib3](https://sethmlarson.dev/blog/get-paid-to-contribute-to-urllib3)
+- [First impressions of DALL-E, generating images from text](https://simonwillison.net/2022/Jun/23/dall-e/)
 
-- [One-liner for running queries against CSV files with SQLite](https://til.simonwillison.net/sqlite/one-line-csv-operations)
+- [Source-level deep dive into TypeScript ESLint](https://sourcegraph.com/notebooks/Tm90ZWJvb2s6MTA2OA==)
 
-- [You Can Run Doom on a Chip From a $15 Ikea Smart Lamp](https://uk.pcmag.com/games/133930/you-can-run-doom-on-a-chip-from-a-15-ikea-smart-lamp)
+- [SMS phishing is way too easy](https://www.bejarano.io/sms-phishing/)
 
-- [Type Checking in Whiley goes Both Ways](https://whileydave.com/2022/06/15/type-checking-in-whiley-goes-both-ways/)
+- [Testing Zig for embedded development](https://www.kuon.ch/post/2022-06-22-zig-embed/)
 
-- [the gizmo's role in markup](https://www.t-ravis.com/post/doc/the_gizmos_role_in_markup/)
+- [Hay Ain't YAML - Custom Languages for Unix Systems](https://www.oilshell.org/release/0.11.0/doc/hay.html)
 
-- [I remastered my 30 year-old DOS game](https://www.youtube.com/watch?v=08RveywBXl4)
-
-- [Let's Remix Distributed Database Design](https://www.youtube.com/watch?v=rNmZZLant9o)
+- [Linus Torvalds: Rust For The Kernel Could Possibly Be Merged For Linux 5.20](https://www.phoronix.com/scan.php?page=news_item&px=Rust-For-Linux-5.20-Possible)
