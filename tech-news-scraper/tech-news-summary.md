@@ -1,47 +1,47 @@
-- [The Impoliteness of Overriding Methods (2012)](http://journal.stuffwithstuff.com/2012/12/19/the-impoliteness-of-overriding-methods/)
+- [Notes on WebAssembly](http://neugierig.org/software/blog/2022/06/wasm-notes.html)
 
-- [Ferret: Automatically finding RFC compliance bugs in DNS nameservers](https://blog.apnic.net/2022/06/24/ferret-automatically-finding-rfc-compliance-bugs-in-dns-nameservers/)
+- [Angular without SSR is faster than Next.js with SSR](https://alexkrupp.typepad.com/sensemaking/2022/06/angular-without-ssr-is-faster-than-nextjs-with-ssr-i-have-the-data.html)
 
-- [Java garbage collection: The 10-release evolution from JDK 8 to JDK 18](https://blogs.oracle.com/javamagazine/post/java-garbage-collectors-evolution)
+- [Things You Should Know About Databases](https://architecturenotes.co/things-you-should-know-about-databases/)
 
-- [QBE 1.0](https://c9x.me/compile/releases.html)
+- [Mapping over table rows in org-mode](https://benswift.me/blog/2019/03/09/mapping-over-table-rows-in-org-mode/)
 
-- [Chameleon: A tool to make solving type errors in Haskell simple and fun](https://chameleon.typecheck.me)
+- [Is zero trust living up to expectations?](https://blog.apnic.net/2022/06/27/is-zero-trust-living-up-to-expectations/)
 
-- [What Is Lisp? -- FOSS & Crafts podcast episode](https://fossandcrafts.org/episodes/47-what-is-lisp.html)
+- [tolower() in bulk at speed](https://dotat.at/@/2022-06-27-tolower-swar.html)
 
-- [FreeBSD Journal - 20022/05-06 - Disaster Recovery](https://freebsdfoundation.org/past-issues/disaster-recovery/)
+- [Accessibility in Fedora Workstation](https://fedoramagazine.org/accessibility-in-fedora-workstation/)
 
-- [multihash: Self describing hashes, for future proofing](https://github.com/multiformats/multihash)
+- [Highlights from Git 2.37](https://github.blog/2022-06-27-highlights-from-git-2-37/)
 
-- [Release mold 1.3.0](https://github.com/rui314/mold/releases/tag/v1.3.0)
+- [PRQL: a modern language for transforming data — a simple, powerful, pipelined SQL replacement](https://github.com/prql/prql)
 
-- [ffsend: A fully featured Firefox Send client](https://github.com/timvisee/ffsend)
+- [Notes on OpenSSL remote memory corruption](https://guidovranken.com/2022/06/27/notes-on-openssl-remote-memory-corruption/)
 
-- [awesome-learning-haskell: A collection of useful resources for learning Haskell](https://github.com/tweag/awesome-learning-haskell)
+- [Evaluating open policy agent in rust using wasm](https://inspektor.cloud/blog/evaluating-open-policy-agent-in-rust-using-wasm)
 
-- [What would SQLite would look like if written in Rust? — Part 0](https://medium.com/the-polyglot-programmer/what-would-sqlite-would-look-like-if-written-in-rust-part-0-4fc192368984)
+- [Building speech controlled robot with Tensil and Arty A7](https://k155la3.blog/2022/06/26/building-speech-controlled-robot-with-tensil-and-arty-a7-part1/)
 
-- [Modern Software Development](https://mike.cloud/tech%20industry/2022/06/24/autonomous-teams.html)
+- [REPL Python programming and debugging with IPython](https://lukeplant.me.uk/blog/posts/repl-python-programming-and-debugging-with-ipython/)
 
-- [Limitations in rust's type system when it comes to supporting commutative mathematical operations](https://neosmart.net/blog/2022/prettysize-0-3-release-and-a-weakness-in-rusts-type-system/)
+- [Reviving Drop Seven and a Half Years Later](https://maxdeviant.com/posts/2022/reviving-drop-seven-and-a-half-years-later/)
 
-- [iRISC: A web-based ARMv7 assembly language interpreter and computer architecture simulator](https://polysoftit.co.uk/irisc-web/)
+- [NeRF: An Eventual Successor for Deepfakes?](https://metaphysic.ai/nerf-successor-deepfakes/)
 
-- [unordered_multiset’s API affects its big-O](https://quuxplusone.github.io/blog/2022/06/23/unordered-multiset-equal-range/)
+- [SPAs: theory versus practice](https://nolanlawson.com/2022/06/27/spas-theory-versus-practice/)
 
-- [Building a remote SQLite explorer](https://ricardoanderegg.com/posts/sqlite-remote-explorer-gui/)
+- [Assertions should be more debugger-oriented](https://nullprogram.com/blog/2022/06/26/)
 
-- [The Modern World](https://shkspr.mobi/blog/2022/06/the-modern-world/)
+- [Development Environments](https://phaazon.net/blog/development-environments)
 
-- [First impressions of DALL-E, generating images from text](https://simonwillison.net/2022/Jun/23/dall-e/)
+- [Start all of your commands with a comma](https://rhodesmill.org/brandon/2009/commands-with-comma/)
 
-- [Source-level deep dive into TypeScript ESLint](https://sourcegraph.com/notebooks/Tm90ZWJvb2s6MTA2OA==)
+- [Many modes: a GATs pattern](https://smallcultfollowing.com/babysteps/blog/2022/06/27/many-modes-a-gats-pattern/)
 
-- [SMS phishing is way too easy](https://www.bejarano.io/sms-phishing/)
+- [Mullvad VPN relay audit](https://www.assured.se/publications/Assured_Mullvad_relay_server_audit_report_2022.pdf)
 
-- [Testing Zig for embedded development](https://www.kuon.ch/post/2022-06-22-zig-embed/)
+- [defaultable-map: An Applicative wrapper for Maps](https://www.haskellforall.com/2022/06/defaultable-map-applicative-wrapper-for.html)
 
-- [Hay Ain't YAML - Custom Languages for Unix Systems](https://www.oilshell.org/release/0.11.0/doc/hay.html)
+- [“Atari Was Very, Very Hard” Nolan Bushnell on Atari, 50 Years Later](https://www.howtogeek.com/812246/atari-was-very-very-hard-nolan-bushnell-on-atari-50-years-later/)
 
-- [Linus Torvalds: Rust For The Kernel Could Possibly Be Merged For Linux 5.20](https://www.phoronix.com/scan.php?page=news_item&px=Rust-For-Linux-5.20-Possible)
+- [An Intro to Zig's checkAllAllocationFailures](https://www.ryanliptak.com/blog/zig-intro-to-check-all-allocation-failures/)
