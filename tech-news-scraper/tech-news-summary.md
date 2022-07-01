@@ -1,47 +1,47 @@
-- [Notes on WebAssembly](http://neugierig.org/software/blog/2022/06/wasm-notes.html)
+- [What's a condition system and why do you want one?](http://axisofeval.blogspot.com/2011/04/whats-condition-system-and-why-do-you.html)
 
-- [Angular without SSR is faster than Next.js with SSR](https://alexkrupp.typepad.com/sensemaking/2022/06/angular-without-ssr-is-faster-than-nextjs-with-ssr-i-have-the-data.html)
+- [Re-evaluating technology](https://adactio.com/journal/19125)
 
-- [Things You Should Know About Databases](https://architecturenotes.co/things-you-should-know-about-databases/)
+- [MagicPairing: Apple's Take on Securing Bluetooth Peripherals](https://arxiv.org/pdf/2005.07255.pdf)
 
-- [Mapping over table rows in org-mode](https://benswift.me/blog/2019/03/09/mapping-over-table-rows-in-org-mode/)
+- [Learning HTML was too hard so I made a compiler instead](https://austinhenley.com/blog/mycomputingstory.html)
 
-- [Is zero trust living up to expectations?](https://blog.apnic.net/2022/06/27/is-zero-trust-living-up-to-expectations/)
+- [Abusing Cloudflare Workers](https://blog.christophetd.fr/abusing-cloudflare-workers/)
 
-- [tolower() in bulk at speed](https://dotat.at/@/2022-06-27-tolower-swar.html)
+- [RISC-V Is Getting MSIs](https://blog.stephenmarz.com/2022/06/30/msi/)
 
-- [Accessibility in Fedora Workstation](https://fedoramagazine.org/accessibility-in-fedora-workstation/)
+- [WebExtension Support in Epiphany](https://blog.tingping.se/2022/06/29/WebExtensions-Epiphany.html)
 
-- [Highlights from Git 2.37](https://github.blog/2022-06-27-highlights-from-git-2-37/)
+- [OpenBSD has two new C compilers: chibicc and kefir](https://briancallahan.net/blog/20220629.html)
 
-- [PRQL: a modern language for transforming data — a simple, powerful, pipelined SQL replacement](https://github.com/prql/prql)
+- [Ripcord: Alternative desktop chat client for Slack (and Discord)](https://cancel.fm/ripcord)
 
-- [Notes on OpenSSL remote memory corruption](https://guidovranken.com/2022/06/27/notes-on-openssl-remote-memory-corruption/)
+- [Arrays are not pointers](https://craftofcoding.wordpress.com/2022/06/30/arrays-are-not-pointers/)
 
-- [Evaluating open policy agent in rust using wasm](https://inspektor.cloud/blog/evaluating-open-policy-agent-in-rust-using-wasm)
+- [The Chromium super (inline cache) type confusion](https://github.blog/2022-06-29-the-chromium-super-inline-cache-type-confusion/)
 
-- [Building speech controlled robot with Tensil and Arty A7](https://k155la3.blog/2022/06/26/building-speech-controlled-robot-with-tensil-and-arty-a7-part1/)
+- [Announcing the pkgsrc-2022Q2 branch](https://mail-index.netbsd.org/netbsd-announce/2022/06/30/msg000339.html)
 
-- [REPL Python programming and debugging with IPython](https://lukeplant.me.uk/blog/posts/repl-python-programming-and-debugging-with-ipython/)
+- [Using JavaScript to fill localStorage to its maximum capacity](https://mmazzarolo.com/blog/2022-06-26-filling-local-storage-programmatically/)
 
-- [Reviving Drop Seven and a Half Years Later](https://maxdeviant.com/posts/2022/reviving-drop-seven-and-a-half-years-later/)
+- [Some Problems Of URLs](https://noncombatant.org/2017/11/07/problems-of-urls/)
 
-- [NeRF: An Eventual Successor for Deepfakes?](https://metaphysic.ai/nerf-successor-deepfakes/)
+- [Maybe We Can Have Nice Things](https://noncombatant.org/2021/02/16/maybe-we-can-have-nice-things/)
 
-- [SPAs: theory versus practice](https://nolanlawson.com/2022/06/27/spas-theory-versus-practice/)
+- [Thoughts On Language Design Bugs](https://noncombatant.org/2021/10/23/thoughts-on-language-design-bugs/)
 
-- [Assertions should be more debugger-oriented](https://nullprogram.com/blog/2022/06/26/)
+- [Building a Secure Software Supply Chain with GNU Guix](https://programming-journal.org/2023/7/1/)
 
-- [Development Environments](https://phaazon.net/blog/development-environments)
+- [Give Up GitHub](https://sfconservancy.org/GiveUpGitHub/)
 
-- [Start all of your commands with a comma](https://rhodesmill.org/brandon/2009/commands-with-comma/)
+- [Porting Graphing Calculator from C++ to Swift](https://swift.org/blog/graphing-calculator/)
 
-- [Many modes: a GATs pattern](https://smallcultfollowing.com/babysteps/blog/2022/06/27/many-modes-a-gats-pattern/)
+- [What Metric to Use When Benchmarking?](https://tratt.net/laurie/blog/2022/what_metric_to_use_when_benchmarking.html)
 
-- [Mullvad VPN relay audit](https://www.assured.se/publications/Assured_Mullvad_relay_server_audit_report_2022.pdf)
+- [Nixpacks beat Buildpacks by almost two minutes](https://twitter.com/JustJake/status/1542316666666614784)
 
-- [defaultable-map: An Applicative wrapper for Maps](https://www.haskellforall.com/2022/06/defaultable-map-applicative-wrapper-for.html)
+- [Toolchains adventures - Q2 2022](https://www.cambus.net/toolchains-adventures-q2-2022/)
 
-- [“Atari Was Very, Very Hard” Nolan Bushnell on Atari, 50 Years Later](https://www.howtogeek.com/812246/atari-was-very-very-hard-nolan-bushnell-on-atari-50-years-later/)
+- [The Cell Programming Language](https://www.cell-lang.net)
 
-- [An Intro to Zig's checkAllAllocationFailures](https://www.ryanliptak.com/blog/zig-intro-to-check-all-allocation-failures/)
+- [Which type-safe database library should you use? (2019)](https://www.williamyaoh.com/posts/2019-12-14-typesafe-db-libraries.html)
