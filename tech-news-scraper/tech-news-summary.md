@@ -1,47 +1,47 @@
-- [What's a condition system and why do you want one?](http://axisofeval.blogspot.com/2011/04/whats-condition-system-and-why-do-you.html)
+- [Minerva: Solving Quantitative Reasoning Problems with Language Models](http://ai.googleblog.com/2022/06/minerva-solving-quantitative-reasoning.html)
 
-- [Re-evaluating technology](https://adactio.com/journal/19125)
+- [The Berkeley Crossword Solver](http://bair.berkeley.edu/blog/2022/05/20/crosswords/)
 
-- [MagicPairing: Apple's Take on Securing Bluetooth Peripherals](https://arxiv.org/pdf/2005.07255.pdf)
+- [RETRO Is Blazingly Fast](http://mitchgordon.me/ml/2022/07/01/retro-is-blazing.html)
 
-- [Learning HTML was too hard so I made a compiler instead](https://austinhenley.com/blog/mycomputingstory.html)
+- [A brief dive into Power Mac INITs and NVRAM scripts, or, teaching Mac OS 9 new device tricks](http://oldvcr.blogspot.com/2022/07/a-brief-dive-into-power-mac-inits-and.html)
 
-- [Abusing Cloudflare Workers](https://blog.christophetd.fr/abusing-cloudflare-workers/)
+- [Nothing makes sense in deep learning, except in the light of evolution](https://arxiv.org/abs/2205.10320)
 
-- [RISC-V Is Getting MSIs](https://blog.stephenmarz.com/2022/06/30/msi/)
+- [RLS Deprecation](https://blog.rust-lang.org/2022/07/01/RLS-deprecation.html)
 
-- [WebExtension Support in Epiphany](https://blog.tingping.se/2022/06/29/WebExtensions-Epiphany.html)
+- [Conducting a Technical Interview: Everything You Should Know](https://builtin.com/software-engineering-perspectives/how-conduct-technical-interview)
 
-- [OpenBSD has two new C compilers: chibicc and kefir](https://briancallahan.net/blog/20220629.html)
+- [Functional programming is a universal programming paradigm](https://codepengu.in/universal_programming_paradigm/)
 
-- [Ripcord: Alternative desktop chat client for Slack (and Discord)](https://cancel.fm/ripcord)
+- [Nicer struct literals in Go templates](https://commaok.xyz/post/tstruct/)
 
-- [Arrays are not pointers](https://craftofcoding.wordpress.com/2022/06/30/arrays-are-not-pointers/)
+- [The Windows malloc() Implementation Is A Trash Fire](https://erikmcclure.com/blog/windows-malloc-implementation-is-a-trash-fire/)
 
-- [The Chromium super (inline cache) type confusion](https://github.blog/2022-06-29-the-chromium-super-inline-cache-type-confusion/)
+- [Adventures With Verizon FiOS IPv6](https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/personal/2022-07-02_verizon/article.md)
 
-- [Announcing the pkgsrc-2022Q2 branch](https://mail-index.netbsd.org/netbsd-announce/2022/06/30/msg000339.html)
+- [bootBASIC: a BASIC language in 512 bytes of x86 machine code](https://github.com/nanochess/bootBASIC)
 
-- [Using JavaScript to fill localStorage to its maximum capacity](https://mmazzarolo.com/blog/2022-06-26-filling-local-storage-programmatically/)
+- [Generate RSS feeds from websites with RSS Please](https://github.com/wezm/rsspls)
 
-- [Some Problems Of URLs](https://noncombatant.org/2017/11/07/problems-of-urls/)
+- [Virtual Lab by Quantum Flytrap](https://lab.quantumflytrap.com/lab)
 
-- [Maybe We Can Have Nice Things](https://noncombatant.org/2021/02/16/maybe-we-can-have-nice-things/)
+- [rsync, article 3: How does rsync work?](https://michael.stapelberg.ch/posts/2022-07-02-rsync-how-does-it-work/)
 
-- [Thoughts On Language Design Bugs](https://noncombatant.org/2021/10/23/thoughts-on-language-design-bugs/)
+- [How to test typed HTTP clients in .NET 6?](https://mikolaj-kaminski.com/how-to-test-typed-http-client-with-di/)
 
-- [Building a Secure Software Supply Chain with GNU Guix](https://programming-journal.org/2023/7/1/)
+- [Write Code Like You Just Learned How to Program](https://prog21.dadgum.com/87.html)
 
-- [Give Up GitHub](https://sfconservancy.org/GiveUpGitHub/)
+- [An experiment to test GitHub Copilot's legality](https://seirdy.one/posts/2022/07/01/experiment-copilot-legality/)
 
-- [Porting Graphing Calculator from C++ to Swift](https://swift.org/blog/graphing-calculator/)
+- [Minimalist Guide to Axum](https://tech.marksblogg.com/axum-rust-web-framework.html)
 
-- [What Metric to Use When Benchmarking?](https://tratt.net/laurie/blog/2022/what_metric_to_use_when_benchmarking.html)
+- [OpenBSD webzine issue #10](https://webzine.puffy.cafe/issue-10.html)
 
-- [Nixpacks beat Buildpacks by almost two minutes](https://twitter.com/JustJake/status/1542316666666614784)
+- [darktable 4.0: 3763 Days Later](https://www.darktable.org/2022/07/darktable-4.0/)
 
-- [Toolchains adventures - Q2 2022](https://www.cambus.net/toolchains-adventures-q2-2022/)
+- [The last two years in Miri](https://www.ralfj.de/blog/2022/07/02/miri.html)
 
-- [The Cell Programming Language](https://www.cell-lang.net)
+- [On the Expressive Power of Programming Languages [PWLConf 2019]](https://www.youtube.com/watch?v=43XaZEn2aLc)
 
-- [Which type-safe database library should you use? (2019)](https://www.williamyaoh.com/posts/2019-12-14-typesafe-db-libraries.html)
+- [Finally Obtaining the Triforce in Ocarina of Time: Triforce Percent Explained](https://www.youtube.com/watch?v=qBK1sq1BQ2Q)
