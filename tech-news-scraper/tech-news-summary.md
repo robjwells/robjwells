@@ -1,47 +1,47 @@
-- [Minerva: Solving Quantitative Reasoning Problems with Language Models](http://ai.googleblog.com/2022/06/minerva-solving-quantitative-reasoning.html)
+- [Superficial Simplicity](https://arrdem.com/2022/07/04/superficial_simplicity/)
 
-- [The Berkeley Crossword Solver](http://bair.berkeley.edu/blog/2022/05/20/crosswords/)
+- [Running the Steam Deck’s OS in a virtual machine using QEMU](https://blogs.igalia.com/berto/2022/07/05/running-the-steam-decks-os-in-a-virtual-machine-using-qemu/)
 
-- [RETRO Is Blazingly Fast](http://mitchgordon.me/ml/2022/07/01/retro-is-blazing.html)
+- [Bun is a fast all-in-one JavaScript runtime](https://bun.sh)
 
-- [A brief dive into Power Mac INITs and NVRAM scripts, or, teaching Mac OS 9 new device tricks](http://oldvcr.blogspot.com/2022/07/a-brief-dive-into-power-mac-inits-and.html)
+- [The History and Mystery Of Eliza](https://corecursive.com/eliza-with-jeff-shrager/)
 
-- [Nothing makes sense in deep learning, except in the light of evolution](https://arxiv.org/abs/2205.10320)
+- [Is it time to look past Git?](https://dev.to/yonkeltron/is-it-time-to-look-past-git-ah4)
 
-- [RLS Deprecation](https://blog.rust-lang.org/2022/07/01/RLS-deprecation.html)
+- [nixpacks: App source + Nix packages + Docker = Image](https://github.com/railwayapp/nixpacks)
 
-- [Conducting a Technical Interview: Everything You Should Know](https://builtin.com/software-engineering-perspectives/how-conduct-technical-interview)
+- [typical: Data interchange with algebraic data types](https://github.com/stepchowfun/typical/blob/main/README.md)
 
-- [Functional programming is a universal programming paradigm](https://codepengu.in/universal_programming_paradigm/)
+- [tao: A hobbyist statically-typed functional language](https://github.com/zesterer/tao)
 
-- [Nicer struct literals in Go templates](https://commaok.xyz/post/tstruct/)
+- [“Magic links” can end up in Bing search results — rendering them useless](https://medium.com/@ryanbadger/magic-links-can-end-up-in-bing-search-results-rendering-them-useless-37def0fae994)
 
-- [The Windows malloc() Implementation Is A Trash Fire](https://erikmcclure.com/blog/windows-malloc-implementation-is-a-trash-fire/)
+- [What would DNA sound if synthesized to an audio file](https://mitjafelicijan.com/what-would-dna-sound-if-synthesized.html)
 
-- [Adventures With Verizon FiOS IPv6](https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/personal/2022-07-02_verizon/article.md)
+- [Our Machinery Guidebook](https://ourmachinery.com/apidoc/doc/guidebook.md.html)
 
-- [bootBASIC: a BASIC language in 512 bytes of x86 machine code](https://github.com/nanochess/bootBASIC)
+- [Quart is now a Pallets project](https://palletsprojects.com/blog/quart-pallets/)
 
-- [Generate RSS feeds from websites with RSS Please](https://github.com/wezm/rsspls)
+- [The Fields Medals 2022: Maryna Viazovska](https://plus.maths.org/content/mv)
 
-- [Virtual Lab by Quantum Flytrap](https://lab.quantumflytrap.com/lab)
+- [SourceHut is committed to making IRC better](https://sourcehut.org/blog/2022-07-06-sourcehut-and-irc/)
 
-- [rsync, article 3: How does rsync work?](https://michael.stapelberg.ch/posts/2022-07-02-rsync-how-does-it-work/)
+- [Creating a language using only assembly language](https://speakerdeck.com/nineties/creating-a-language-using-only-assembly-language)
 
-- [How to test typed HTTP clients in .NET 6?](https://mikolaj-kaminski.com/how-to-test-typed-http-client-with-di/)
+- [A Scheme Primer](https://spritely.institute/static/papers/scheme-primer.html)
 
-- [Write Code Like You Just Learned How to Program](https://prog21.dadgum.com/87.html)
+- [I don't care how you web dev; I just need more better web apps](https://www.baldurbjarnason.com/2022/more-better-web-apps/)
 
-- [An experiment to test GitHub Copilot's legality](https://seirdy.one/posts/2022/07/01/experiment-copilot-legality/)
+- [NIST Announces First Four Quantum-Resistant Cryptographic Algorithms](https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-resistant-cryptographic-algorithms)
 
-- [Minimalist Guide to Axum](https://tech.marksblogg.com/axum-rust-web-framework.html)
+- [The SQLite Index Suggester](https://www.sqlite.org/cli.html#index_recommendations_sqlite_expert_)
 
-- [OpenBSD webzine issue #10](https://webzine.puffy.cafe/issue-10.html)
+- [Data Engineering in Rust](https://www.statcan.gc.ca/en/data-science/network/engineering-rust)
 
-- [darktable 4.0: 3763 Days Later](https://www.darktable.org/2022/07/darktable-4.0/)
+- [Jai vs Odin systems programming languages (Non-spicy takes!)](https://www.youtube.com/watch?v=M763xHjsPk4)
 
-- [The last two years in Miri](https://www.ralfj.de/blog/2022/07/02/miri.html)
+- [Watch Andreas Kling port SerenityOS's web engine to Linux in <2hrs](https://www.youtube.com/watch?v=X38MTKHt3_I)
 
-- [On the Expressive Power of Programming Languages [PWLConf 2019]](https://www.youtube.com/watch?v=43XaZEn2aLc)
+- [Nix packaging, the heretic way](https://zimbatm.com/notes/nix-packaging-the-heretic-way)
 
-- [Finally Obtaining the Triforce in Ocarina of Time: Triforce Percent Explained](https://www.youtube.com/watch?v=qBK1sq1BQ2Q)
+- [Learn a language by writing too many Forths](https://zserge.com/posts/too-many-forths/)
