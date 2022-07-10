@@ -1,47 +1,49 @@
-- [Superficial Simplicity](https://arrdem.com/2022/07/04/superficial_simplicity/)
+- [Log Structured Merge Trees (2015)](http://www.benstopford.com/2015/02/14/log-structured-merge-trees/)
 
-- [Running the Steam Deck’s OS in a virtual machine using QEMU](https://blogs.igalia.com/berto/2022/07/05/running-the-steam-decks-os-in-a-virtual-machine-using-qemu/)
+- [Reverse-engineering the Apollo spacecraft's FM radio](http://www.righto.com/2022/07/reverse-engineering-apollo-spacecrafts.html)
 
-- [Bun is a fast all-in-one JavaScript runtime](https://bun.sh)
+- [Migrating from cgit to stagit](https://a3nm.net/blog/cgit_stagit.html)
 
-- [The History and Mystery Of Eliza](https://corecursive.com/eliza-with-jeff-shrager/)
+- [Axial name highlighting](https://amitp.blogspot.com/2022/07/axial-name-highlighting.html)
 
-- [Is it time to look past Git?](https://dev.to/yonkeltron/is-it-time-to-look-past-git-ah4)
+- [Introduction to the Analysis of Algorithms by Robert Sedgewick and Philippe Flajolet](https://aofa.cs.princeton.edu/home/)
 
-- [nixpacks: App source + Nix packages + Docker = Image](https://github.com/railwayapp/nixpacks)
+- [Implementing a File Pager In Zig](https://ayende.com/blog/posts/series/195587-B/implementing-a-file-pager-in-zig)
 
-- [typical: Data interchange with algebraic data types](https://github.com/stepchowfun/typical/blob/main/README.md)
+- [What’s new in Go 1.19?](https://blog.carlmjohnson.net/post/2022/golang-119-new-features/)
 
-- [tao: A hobbyist statically-typed functional language](https://github.com/zesterer/tao)
+- [Self-hosting a static site with OpenBSD, httpd, and relayd](https://citizen428.net/blog/self-hosting-static-site-openbsd-httpd-relayd/)
 
-- [“Magic links” can end up in Bing search results — rendering them useless](https://medium.com/@ryanbadger/magic-links-can-end-up-in-bing-search-results-rendering-them-useless-37def0fae994)
+- [Crystal 1.5.0 is released](https://crystal-lang.org/2022/07/06/1.5.0-released.html)
 
-- [What would DNA sound if synthesized to an audio file](https://mitjafelicijan.com/what-would-dna-sound-if-synthesized.html)
+- [Logic and Computation Intertwined](https://cs.uwaterloo.ca/~plragde/flane/LACI/)
 
-- [Our Machinery Guidebook](https://ourmachinery.com/apidoc/doc/guidebook.md.html)
+- [zesterer/chumsky: A parser library for humans with powerful error recovery](https://github.com/zesterer/chumsky)
 
-- [Quart is now a Pallets project](https://palletsprojects.com/blog/quart-pallets/)
+- [A simple mess](https://idiomdrottning.org/a-simple-mess)
 
-- [The Fields Medals 2022: Maryna Viazovska](https://plus.maths.org/content/mv)
+- [Monitoring tiny web services](https://jvns.ca/blog/2022/07/09/monitoring-small-web-services/)
 
-- [SourceHut is committed to making IRC better](https://sourcehut.org/blog/2022-07-06-sourcehut-and-irc/)
+- [Go generics are not bad](https://lemire.me/blog/2022/07/08/go-generics-are-not-bad/)
 
-- [Creating a language using only assembly language](https://speakerdeck.com/nineties/creating-a-language-using-only-assembly-language)
+- [Congratulations: We Now Have Opinions on Your Open Source Contributions](https://lucumr.pocoo.org/2022/7/9/congratulations/)
 
-- [A Scheme Primer](https://spritely.institute/static/papers/scheme-primer.html)
+- [Lenovo shipping new laptops that only boot Windows by default](https://mjg59.dreamwidth.org/59931.html)
 
-- [I don't care how you web dev; I just need more better web apps](https://www.baldurbjarnason.com/2022/more-better-web-apps/)
+- [re: Are You Sure You Want to Use MMAP in Your Database Management System?](https://ravendb.net/articles/re-are-you-sure-you-want-to-use-mmap-in-your-database-management-system)
 
-- [NIST Announces First Four Quantum-Resistant Cryptographic Algorithms](https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-resistant-cryptographic-algorithms)
+- [rr: lightweight recording & deterministic debugging](https://rr-project.org/)
 
-- [The SQLite Index Suggester](https://www.sqlite.org/cli.html#index_recommendations_sqlite_expert_)
+- [Ruby Evolution: a brief list of new significant features 2.0-3.1](https://rubyreferences.github.io/rubychanges/evolution.html)
 
-- [Data Engineering in Rust](https://www.statcan.gc.ca/en/data-science/network/engineering-rust)
+- [Marginalia Search](https://search.marginalia.nu/)
 
-- [Jai vs Odin systems programming languages (Non-spicy takes!)](https://www.youtube.com/watch?v=M763xHjsPk4)
+- [Using GPT-3 to explain how code works](https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/)
 
-- [Watch Andreas Kling port SerenityOS's web engine to Linux in <2hrs](https://www.youtube.com/watch?v=X38MTKHt3_I)
+- [semantic: the 8 letter s-word](https://t-ravis.com/post/doc/semantic_the_8_letter_s-word/)
 
-- [Nix packaging, the heretic way](https://zimbatm.com/notes/nix-packaging-the-heretic-way)
+- [A Pleasing Symmetry in Rust : how enums and structs mirror each other](https://v5.chriskrycho.com/journal/pleasing-symmetry-in-rust/)
 
-- [Learn a language by writing too many Forths](https://zserge.com/posts/too-many-forths/)
+- [Spearphishing: it can happen to you too](https://xeiaso.net/blog/spearphishing)
+
+- [png to icns (Emacs DWIM style)](https://xenodium.com/png-to-icns-emacs-dwim-style)
