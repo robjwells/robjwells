@@ -1,49 +1,47 @@
-- [Log Structured Merge Trees (2015)](http://www.benstopford.com/2015/02/14/log-structured-merge-trees/)
+- [The magic of bits "Bitwise"](https://antonio-cooler.gitbook.io/coolervoid-tavern/the-magic-of-bits-bitwise)
 
-- [Reverse-engineering the Apollo spacecraft's FM radio](http://www.righto.com/2022/07/reverse-engineering-apollo-spacecrafts.html)
+- [Maintaining Software Correctness](https://blog.danlew.net/2022/06/22/maintaining-software-correctness/)
 
-- [Migrating from cgit to stagit](https://a3nm.net/blog/cgit_stagit.html)
+- [RISC-V Linux on ESP32](https://blog.drorgluska.com/2022/07/risc-v-linux-on-esp32.html)
 
-- [Axial name highlighting](https://amitp.blogspot.com/2022/07/axial-name-highlighting.html)
+- [Postgres 15 improves UNIQUE and NULL](https://blog.rustprooflabs.com/2022/07/postgres-15-unique-improvement-with-null)
 
-- [Introduction to the Analysis of Algorithms by Robert Sedgewick and Philippe Flajolet](https://aofa.cs.princeton.edu/home/)
+- [FizzBuzz in GNU make](https://citizen428.net/blog/fizzbuzz-in-gnu-make/)
 
-- [Implementing a File Pager In Zig](https://ayende.com/blog/posts/series/195587-B/implementing-a-file-pager-in-zig)
+- [Retbleed: Arbitrary Speculative Code Execution with Return Instructions](https://comsec.ethz.ch/research/microarch/retbleed/)
 
-- [What’s new in Go 1.19?](https://blog.carlmjohnson.net/post/2022/golang-119-new-features/)
+- [Decompiler Explorer](https://dogbolt.org/)
 
-- [Self-hosting a static site with OpenBSD, httpd, and relayd](https://citizen428.net/blog/self-hosting-static-site-openbsd-httpd-relayd/)
+- [My favorite Erlang Container](https://ferd.ca/my-favorite-erlang-container.html)
 
-- [Crystal 1.5.0 is released](https://crystal-lang.org/2022/07/06/1.5.0-released.html)
+- [GCC Rust approved by GCC Steering Committee](https://gcc.gnu.org/pipermail/gcc/2022-July/239057.html)
 
-- [Logic and Computation Intertwined](https://cs.uwaterloo.ca/~plragde/flane/LACI/)
+- [SimpleX - the first messaging  operating without user identifiers of any kind](https://github.com/simplex-chat/simplex-chat)
 
-- [zesterer/chumsky: A parser library for humans with powerful error recovery](https://github.com/zesterer/chumsky)
+- [Visualizing Delaunay Triangulation](https://ianthehenry.com/posts/delaunay/)
 
-- [A simple mess](https://idiomdrottning.org/a-simple-mess)
+- [Activation](https://macwright.com/2022/07/11/activation.html)
 
-- [Monitoring tiny web services](https://jvns.ca/blog/2022/07/09/monitoring-small-web-services/)
+- [How MirageOS Powers Docker Desktop](https://mirage.io/blog/2022-04-06.vpnkit)
 
-- [Go generics are not bad](https://lemire.me/blog/2022/07/08/go-generics-are-not-bad/)
+- [Status of Python 3.11 release](https://pycoders.com/link/9122/upi6aiyjmq)
 
-- [Congratulations: We Now Have Opinions on Your Open Source Contributions](https://lucumr.pocoo.org/2022/7/9/congratulations/)
+- [Slower Memory Zeroing Through Parallelism](https://randomascii.wordpress.com/2022/07/11/slower-memory-zeroing-through-parallelism/)
 
-- [Lenovo shipping new laptops that only boot Windows by default](https://mjg59.dreamwidth.org/59931.html)
+- [How Bazel Works](https://sluongng.hashnode.dev/bazel-caching-explained-pt-1-how-bazel-works)
 
-- [re: Are You Sure You Want to Use MMAP in Your Database Management System?](https://ravendb.net/articles/re-are-you-sure-you-want-to-use-mmap-in-your-database-management-system)
+- [Clickable Links Inside XML](https://tdarb.org/blog/rss-click.html)
 
-- [rr: lightweight recording & deterministic debugging](https://rr-project.org/)
+- [Desktop Environments Resource Usage Comparison](https://vermaden.wordpress.com/2022/07/12/desktop-environments-resource-usage-comparison/)
 
-- [Ruby Evolution: a brief list of new significant features 2.0-3.1](https://rubyreferences.github.io/rubychanges/evolution.html)
+- [Formally Verifying Industry Cryptography](https://www.computer.org/csdl/magazine/sp/2022/03/09733177/1BENJJewLKw)
 
-- [Marginalia Search](https://search.marginalia.nu/)
+- [The Problem with RISC-V V Mask Bits](https://www.computerenhance.com/p/the-problem-with-risc-v-v-mask-bits)
 
-- [Using GPT-3 to explain how code works](https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/)
+- [Column order in PostgreSQL does matter](https://www.cybertec-postgresql.com/en/column-order-in-postgresql-does-matter/)
 
-- [semantic: the 8 letter s-word](https://t-ravis.com/post/doc/semantic_the_8_letter_s-word/)
+- [NASA’s Webb Delivers Deepest Infrared Image of Universe Yet](https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-delivers-deepest-infrared-image-of-universe-yet)
 
-- [A Pleasing Symmetry in Rust : how enums and structs mirror each other](https://v5.chriskrycho.com/journal/pleasing-symmetry-in-rust/)
+- [Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service (2022)](https://www.usenix.org/system/files/atc22-vig.pdf)
 
-- [Spearphishing: it can happen to you too](https://xeiaso.net/blog/spearphishing)
-
-- [png to icns (Emacs DWIM style)](https://xenodium.com/png-to-icns-emacs-dwim-style)
+- [How "let it fail" leads to simpler code](https://yiming.dev/blog/2022/07/10/how-let-it-fail-leads-to-simpler-code/)
