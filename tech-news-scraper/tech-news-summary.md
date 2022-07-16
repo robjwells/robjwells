@@ -1,47 +1,47 @@
-- [The magic of bits "Bitwise"](https://antonio-cooler.gitbook.io/coolervoid-tavern/the-magic-of-bits-bitwise)
+- [Crypto Ancienne 2.0 now brings TLS 1.3 to the Internet of Old Things (except BeOS)](http://oldvcr.blogspot.com/2022/07/crypto-ancienne-20-now-brings-tls-13-to.html)
 
-- [Maintaining Software Correctness](https://blog.danlew.net/2022/06/22/maintaining-software-correctness/)
+- [Arcan 0.6.2 – It’s all connected](https://arcan-fe.com/2022/07/15/arcan-0-6-2-its-all-connected/)
 
-- [RISC-V Linux on ESP32](https://blog.drorgluska.com/2022/07/risc-v-linux-on-esp32.html)
+- [JavaScript readability vs performance: a false tradeoff](https://blog.shimin.io/javascript-readability-vs-performance-a-false-tradeoff/)
 
-- [Postgres 15 improves UNIQUE and NULL](https://blog.rustprooflabs.com/2022/07/postgres-15-unique-improvement-with-null)
+- [Lessons from Writing a Compiler](https://borretti.me/article/lessons-writing-compiler)
 
-- [FizzBuzz in GNU make](https://citizen428.net/blog/fizzbuzz-in-gnu-make/)
+- [Postgres and the curious case of the cursory cursors](https://dev.to/fritshooglandyugabyte/postgres-and-the-curious-case-of-the-cursory-cursors-3l3h)
 
-- [Retbleed: Arbitrary Speculative Code Execution with Return Instructions](https://comsec.ethz.ch/research/microarch/retbleed/)
+- [The Slow March of Progress in Programming Language Tooling](https://earthly.dev/blog/programming-language-improvements/)
 
-- [Decompiler Explorer](https://dogbolt.org/)
+- [Robert-van-Engelen/tinylisp: Lisp in 99 lines of C and how to write one yourself](https://github.com/Robert-van-Engelen/tinylisp)
 
-- [My favorite Erlang Container](https://ferd.ca/my-favorite-erlang-container.html)
+- [I made JCOF, an object notation which encodes data more efficiently than JSON](https://github.com/mortie/jcof)
 
-- [GCC Rust approved by GCC Steering Committee](https://gcc.gnu.org/pipermail/gcc/2022-July/239057.html)
+- [Functional programming is finally going mainstream](https://github.com/readme/featured/functional-programming)
 
-- [SimpleX - the first messaging  operating without user identifiers of any kind](https://github.com/simplex-chat/simplex-chat)
+- [Chinese numerals and char::is_numeric](https://github.com/rust-lang/rust/issues/84056#issuecomment-1184725924)
 
-- [Visualizing Delaunay Triangulation](https://ianthehenry.com/posts/delaunay/)
+- [GeoPub: A Multi-Model Database](https://inqlab.net/2022-07-01-geopub-a-multi-model-database.html)
 
-- [Activation](https://macwright.com/2022/07/11/activation.html)
+- [Writing and Running a BBS on a Macintosh Plus](https://jcs.org/2022/07/15/kludge)
 
-- [How MirageOS Powers Docker Desktop](https://mirage.io/blog/2022-04-06.vpnkit)
+- [Porting OpenBSD pledge() to Linux](https://justine.lol/pledge/)
 
-- [Status of Python 3.11 release](https://pycoders.com/link/9122/upi6aiyjmq)
+- [How Duke Nukem II’s parallax scrolling worked](https://lethalguitar.wordpress.com/2022/07/14/how-duke-nukem-iis-parallax-scrolling-worked/)
 
-- [Slower Memory Zeroing Through Parallelism](https://randomascii.wordpress.com/2022/07/11/slower-memory-zeroing-through-parallelism/)
+- [Why long-term plans don't work and how to fix them](https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html)
 
-- [How Bazel Works](https://sluongng.hashnode.dev/bazel-caching-explained-pt-1-how-bazel-works)
+- [Advice for the next dozen Rust GUIs](https://raphlinus.github.io/rust/gui/2022/07/15/next-dozen-guis.html)
 
-- [Clickable Links Inside XML](https://tdarb.org/blog/rss-click.html)
+- [SearchHut is a curated free software search engine](https://searchhut.org)
 
-- [Desktop Environments Resource Usage Comparison](https://vermaden.wordpress.com/2022/07/12/desktop-environments-resource-usage-comparison/)
+- [DNS Esoterica - Why you can't dig Switzerland](https://shkspr.mobi/blog/2022/07/dns-esoterica-why-you-cant-dig-switzerland/)
 
-- [Formally Verifying Industry Cryptography](https://www.computer.org/csdl/magazine/sp/2022/03/09733177/1BENJJewLKw)
+- [State of the SqueakPhone](https://syndicate-lang.org/journal/2022/06/03/phone-progress)
 
-- [The Problem with RISC-V V Mask Bits](https://www.computerenhance.com/p/the-problem-with-risc-v-v-mask-bits)
+- [no-look, no-leap Shell script dependencies](https://t-ravis.com/post/shell/no_look_no_leap_shell_with_nix/)
 
-- [Column order in PostgreSQL does matter](https://www.cybertec-postgresql.com/en/column-order-in-postgresql-does-matter/)
+- [A Guide to the Go Garbage Collector](https://tip.golang.org/doc/gc-guide)
 
-- [NASA’s Webb Delivers Deepest Infrared Image of Universe Yet](https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-delivers-deepest-infrared-image-of-universe-yet)
+- [It's possible to run Doom inside of Doom](https://www.gamingonlinux.com/2022/07/its-possible-to-run-doom-inside-of-doom/)
 
-- [Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service (2022)](https://www.usenix.org/system/files/atc22-vig.pdf)
+- [effectful - an easy to use, performant extensible effects library](https://www.reddit.com/r/haskell/comments/vzpjxx/ann_effectful_an_easy_to_use_performant/)
 
-- [How "let it fail" leads to simpler code](https://yiming.dev/blog/2022/07/10/how-let-it-fail-leads-to-simpler-code/)
+- [Why Rust should not have provided `unwrap`](https://www.thecodedmessage.com/posts/2022-07-14-programming-unwrap/)
