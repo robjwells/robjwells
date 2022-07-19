@@ -1,47 +1,47 @@
-- [Crypto Ancienne 2.0 now brings TLS 1.3 to the Internet of Old Things (except BeOS)](http://oldvcr.blogspot.com/2022/07/crypto-ancienne-20-now-brings-tls-13-to.html)
+- [SATAn: Air-Gap Exfiltration Attack via Radio Signals From SATA Cables](https://arxiv.org/abs/2207.07413)
 
-- [Arcan 0.6.2 – It’s all connected](https://arcan-fe.com/2022/07/15/arcan-0-6-2-its-all-connected/)
+- [M2 is here! July 2022 Release & Progress Report](https://asahilinux.org/2022/07/july-2022-release/)
 
-- [JavaScript readability vs performance: a false tradeoff](https://blog.shimin.io/javascript-readability-vs-performance-a-false-tradeoff/)
+- [In Praise of Stacked PRs](https://benjamincongdon.me/blog/2022/07/17/In-Praise-of-Stacked-PRs/)
 
-- [Lessons from Writing a Compiler](https://borretti.me/article/lessons-writing-compiler)
+- [FirmwareBleed: The industry fails to adopt Return Stack Buffer mitigations in SMM](https://binarly.io/posts/FirmwareBleed_The_industry_fails_to_adopt_Return_Stack_Buffer_mitigations_in_SMM/index.html)
 
-- [Postgres and the curious case of the cursory cursors](https://dev.to/fritshooglandyugabyte/postgres-and-the-curious-case-of-the-cursory-cursors-3l3h)
+- [Monorepos and Forced Migrations](https://buttondown.email/j2kun/archive/monorepos-and-forced-migrations/)
 
-- [The Slow March of Progress in Programming Language Tooling](https://earthly.dev/blog/programming-language-improvements/)
+- [Richard Feynman on Cargo Cult Science (1974)](https://calteches.library.caltech.edu/51/2/CargoCult.htm)
 
-- [Robert-van-Engelen/tinylisp: Lisp in 99 lines of C and how to write one yourself](https://github.com/Robert-van-Engelen/tinylisp)
+- [Comfy Software](https://catgirl.ai/log/comfy-software/)
 
-- [I made JCOF, an object notation which encodes data more efficiently than JSON](https://github.com/mortie/jcof)
+- [Designing an ML-family language on top of TypeScript: import and export syntax](https://derw.substack.com/p/designing-an-ml-family-language-on)
 
-- [Functional programming is finally going mainstream](https://github.com/readme/featured/functional-programming)
+- [Improving “Extract Function” in Rust Analyzer](https://dorianlistens.com/2022/07/improving-extract-function-in-rust-analyzer/)
 
-- [Chinese numerals and char::is_numeric](https://github.com/rust-lang/rust/issues/84056#issuecomment-1184725924)
+- [EmacsConf 2022 Call for Participation](https://emacsconf.org/2022/cfp/)
 
-- [GeoPub: A Multi-Model Database](https://inqlab.net/2022-07-01-geopub-a-multi-model-database.html)
+- [FART Stack](https://fart-stack.io/)
 
-- [Writing and Running a BBS on a Macintosh Plus](https://jcs.org/2022/07/15/kludge)
+- [Spartan Schema: Ultra-minimal JSON schemas with Typescript inference](https://github.com/ar-nelson/spartan-schema)
 
-- [Porting OpenBSD pledge() to Linux](https://justine.lol/pledge/)
+- [Practical Real-Time Hex Tiling](https://github.com/mmikk/hextile-demo)
 
-- [How Duke Nukem II’s parallax scrolling worked](https://lethalguitar.wordpress.com/2022/07/14/how-duke-nukem-iis-parallax-scrolling-worked/)
+- [Hubs by Mozilla](https://hubs.mozilla.com/)
 
-- [Why long-term plans don't work and how to fix them](https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html)
+- [The Rust Performance Book](https://nnethercote.github.io/perf-book/title-page.html)
 
-- [Advice for the next dozen Rust GUIs](https://raphlinus.github.io/rust/gui/2022/07/15/next-dozen-guis.html)
+- [Pentester's Promiscuous Notebook](https://ppn.snovvcrash.rocks/)
 
-- [SearchHut is a curated free software search engine](https://searchhut.org)
+- [Screencast: Interactive, persistent whiteboards using JavaScript and NATS](https://rethink.synadia.com/episodes/3/)
 
-- [DNS Esoterica - Why you can't dig Switzerland](https://shkspr.mobi/blog/2022/07/dns-esoterica-why-you-cant-dig-switzerland/)
+- [Extending SQLite with Rust to support Excel files as virtual tables](https://sergey.khabibullin.com/sqlite-extensions-in-rust/)
 
-- [State of the SqueakPhone](https://syndicate-lang.org/journal/2022/06/03/phone-progress)
+- [Bazel In-Memory Cache](https://sluongng.hashnode.dev/bazel-caching-explained-pt-2-bazel-in-memory-cache)
 
-- [no-look, no-leap Shell script dependencies](https://t-ravis.com/post/shell/no_look_no_leap_shell_with_nix/)
+- [Implementing "seen by" functionality with Postgres](https://supabase.com/blog/2022/07/18/seen-by-in-postgresql)
 
-- [A Guide to the Go Garbage Collector](https://tip.golang.org/doc/gc-guide)
+- [Revisiting Radix Economy (2018)](https://sweis.medium.com/revisiting-radix-economy-8f642d9f3c6a)
 
-- [It's possible to run Doom inside of Doom](https://www.gamingonlinux.com/2022/07/its-possible-to-run-doom-inside-of-doom/)
+- [What worries me about AI tooling](https://www.akselmo.dev/2022/07/17/What-worries-me-about-AI-tools.html)
 
-- [effectful - an easy to use, performant extensible effects library](https://www.reddit.com/r/haskell/comments/vzpjxx/ann_effectful_an_easy_to_use_performant/)
+- [Lensm, A Tool for Viewing Disassembly](https://www.storj.io/blog/lensm)
 
-- [Why Rust should not have provided `unwrap`](https://www.thecodedmessage.com/posts/2022-07-14-programming-unwrap/)
+- [I've started using Mozilla Firefox and now I can never go back to Google Chrome](https://www.techradar.com/in/features/ive-started-using-mozilla-firefox-and-now-i-can-never-go-back-to-google-chrome)
