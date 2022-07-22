@@ -1,47 +1,47 @@
-- [SATAn: Air-Gap Exfiltration Attack via Radio Signals From SATA Cables](https://arxiv.org/abs/2207.07413)
+- [Buy Now: the screensaver (2007)](http://toastycode.com/besavers/buynow.html)
 
-- [M2 is here! July 2022 Release & Progress Report](https://asahilinux.org/2022/07/july-2022-release/)
+- [Makin' wavs with Zig](https://blog.jfo.click/makin-wavs-with-zig/)
 
-- [In Praise of Stacked PRs](https://benjamincongdon.me/blog/2022/07/17/In-Praise-of-Stacked-PRs/)
+- [Things I wish everyone knew about Git (Part II)](https://blog.plover.com/prog/git/tips-2.html)
 
-- [FirmwareBleed: The industry fails to adopt Return Stack Buffer mitigations in SMM](https://binarly.io/posts/FirmwareBleed_The_industry_fails_to_adopt_Return_Stack_Buffer_mitigations_in_SMM/index.html)
+- [Star Wars Scene Transition Effects in CSS](https://codersblock.com/blog/star-wars-scene-transition-effects-in-css/  )
 
-- [Monorepos and Forced Migrations](https://buttondown.email/j2kun/archive/monorepos-and-forced-migrations/)
+- [Interactive Parser Explanations](https://cofree.coffee/~verity/parser.html)
 
-- [Richard Feynman on Cargo Cult Science (1974)](https://calteches.library.caltech.edu/51/2/CargoCult.htm)
+- [Typing your way into safety](https://dev.to/flare/typing-your-way-into-safety-4lek)
 
-- [Comfy Software](https://catgirl.ai/log/comfy-software/)
+- [A Little Story About the `yes` Unix Command](https://endler.dev/2017/yes/)
 
-- [Designing an ML-family language on top of TypeScript: import and export syntax](https://derw.substack.com/p/designing-an-ml-family-language-on)
+- [headscale: Open source, self-hosted implementation of the Tailscale control server](https://github.com/juanfont/headscale)
 
-- [Improving “Extract Function” in Rust Analyzer](https://dorianlistens.com/2022/07/improving-extract-function-in-rust-analyzer/)
+- [The Ć Programming Language](https://github.com/pfusik/cito/blob/master/ci.md)
 
-- [EmacsConf 2022 Call for Participation](https://emacsconf.org/2022/cfp/)
+- [casting: Delegate methods in Ruby, preserving self and superclass hierarchy](https://github.com/saturnflyer/casting)
 
-- [FART Stack](https://fart-stack.io/)
+- [Unit-aware data frames with composite, dimensional and ixset-typed](https://homotopic.tech/post/unit-aware-data-frames.html)
 
-- [Spartan Schema: Ultra-minimal JSON schemas with Typescript inference](https://github.com/ar-nelson/spartan-schema)
+- [An SPA alternative](https://htmx.org/essays/spa-alternative/)
 
-- [Practical Real-Time Hex Tiling](https://github.com/mmikk/hextile-demo)
+- [What happens when you press a key in your terminal?](https://jvns.ca/blog/2022/07/20/pseudoterminals/)
 
-- [Hubs by Mozilla](https://hubs.mozilla.com/)
+- [Getting Started With Ephemeral Containers](https://metalbear.co/blog/getting-started-with-ephemeral-containers/)
 
-- [The Rust Performance Book](https://nnethercote.github.io/perf-book/title-page.html)
+- [Debugging Methodologies](https://oxide-and-friends.transistor.fm/episodes/debugging-methodologies)
 
-- [Pentester's Promiscuous Notebook](https://ppn.snovvcrash.rocks/)
+- [Static low-bandwidth search at scale](https://pagefind.app/)
 
-- [Screencast: Interactive, persistent whiteboards using JavaScript and NATS](https://rethink.synadia.com/episodes/3/)
+- [Finding performance bottlenecks in Celery tasks](https://pythonspeed.com/articles/celery-performance/)
 
-- [Extending SQLite with Rust to support Excel files as virtual tables](https://sergey.khabibullin.com/sqlite-extensions-in-rust/)
+- [Summer #lang Party](https://racket.discourse.group/t/summer-lang-party/1128)
 
-- [Bazel In-Memory Cache](https://sluongng.hashnode.dev/bazel-caching-explained-pt-2-bazel-in-memory-cache)
+- [Pretty Maps in Python](https://tech.marksblogg.com/pretty-maps-in-python.html)
 
-- [Implementing "seen by" functionality with Postgres](https://supabase.com/blog/2022/07/18/seen-by-in-postgresql)
+- [Interactive book/course about “everyday” data science](https://tigyog.app/d/C-I1weB9CpTH/r/everyday-data-science)
 
-- [Revisiting Radix Economy (2018)](https://sweis.medium.com/revisiting-radix-economy-8f642d9f3c6a)
+- [Where's the fun in accessibility?](https://uxdesign.cc/wheres-the-fun-in-accessibility-b78c6b9d280d)
 
-- [What worries me about AI tooling](https://www.akselmo.dev/2022/07/17/What-worries-me-about-AI-tools.html)
+- [Some Thoughts on Zig](https://v5.chriskrycho.com/journal/some-thoughts-on-zig/)
 
-- [Lensm, A Tool for Viewing Disassembly](https://www.storj.io/blog/lensm)
+- [Thoughts After Three Years With a Raptor Blackbird](https://wrongthink.neocities.org/posts/thoughts-after-years-raptor-blackbird/)
 
-- [I've started using Mozilla Firefox and now I can never go back to Google Chrome](https://www.techradar.com/in/features/ive-started-using-mozilla-firefox-and-now-i-can-never-go-back-to-google-chrome)
+- [10 Things I Love and 10 Things I Hate about MCP Systems (2004)](https://www.digm.com/UNITE/2004/2004-4050-MCP.pdf)
