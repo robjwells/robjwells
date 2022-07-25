@@ -1,47 +1,49 @@
-- [Buy Now: the screensaver (2007)](http://toastycode.com/besavers/buynow.html)
+- [Library Writing Realizations (2015)](http://cbloomrants.blogspot.com/2015/09/library-writing-realizations.html)
 
-- [Makin' wavs with Zig](https://blog.jfo.click/makin-wavs-with-zig/)
+- [The Perils of Holistic Profiling](http://cbloomrants.blogspot.com/2018/06/the-perils-of-holistic-profiling.html)
 
-- [Things I wish everyone knew about Git (Part II)](https://blog.plover.com/prog/git/tips-2.html)
+- [“Meta-circular” Static Types](http://sigusr2.net/metacircular-static-types.html)
 
-- [Star Wars Scene Transition Effects in CSS](https://codersblock.com/blog/star-wars-scene-transition-effects-in-css/  )
+- [The next era of no-code](https://arthurwu.com/posts/next-era-of-no-code)
 
-- [Interactive Parser Explanations](https://cofree.coffee/~verity/parser.html)
+- [Building a tiny little broken calculator with parser combinators](https://blog.jfo.click/building-a-tiny-little-broken-calculator-with-parser-combinators/)
 
-- [Typing your way into safety](https://dev.to/flare/typing-your-way-into-safety-4lek)
+- [Reconfigurable Asynchronous Logic Automata](https://cba.mit.edu/docs/papers/09.11.POPL.pdf)
 
-- [A Little Story About the `yes` Unix Command](https://endler.dev/2017/yes/)
+- [MITS' Altair 680b](https://computeradsfromthepast.substack.com/p/mits-altair-680b)
 
-- [headscale: Open source, self-hosted implementation of the Tailscale control server](https://github.com/juanfont/headscale)
+- [Microsoft FOSS Fund Winner: curl](https://daniel.haxx.se/blog/2022/07/22/microsoft-foss-fund-winner-curl/)
 
-- [The Ć Programming Language](https://github.com/pfusik/cito/blob/master/ci.md)
+- [Let a 1,000 flowers bloom. Then rip 999 of them out by the roots. (2015)](https://gigamonkeys.com/flowers/)
 
-- [casting: Delegate methods in Ruby, preserving self and superclass hierarchy](https://github.com/saturnflyer/casting)
+- [Kerf](https://github.com/kevinlawler/kerf1)
 
-- [Unit-aware data frames with composite, dimensional and ixset-typed](https://homotopic.tech/post/unit-aware-data-frames.html)
+- [The nala frontend to APT](https://gitlab.com/volian/nala)
 
-- [An SPA alternative](https://htmx.org/essays/spa-alternative/)
+- [Garnet programming language](https://hg.sr.ht/~icefox/garnet)
 
-- [What happens when you press a key in your terminal?](https://jvns.ca/blog/2022/07/20/pseudoterminals/)
+- [User settings, Lamport clocks and lightweight formal methods](https://jakub-m.github.io/2022/07/17/laport-clocks-formal.html)
 
-- [Getting Started With Ephemeral Containers](https://metalbear.co/blog/getting-started-with-ephemeral-containers/)
+- [How finishing what you start makes teams more productive and predictable](https://lucasfcosta.com/2022/07/19/finish-what-you-start.html)
 
-- [Debugging Methodologies](https://oxide-and-friends.transistor.fm/episodes/debugging-methodologies)
+- [Non-Obvious Docker Uses](https://matt-rickard.com/non-obvious-docker-uses/)
 
-- [Static low-bandwidth search at scale](https://pagefind.app/)
+- [No-code isn’t scalable. Our learnings at FINN going from 1000 toward 100,000 car subscriptions](https://medium.com/@ishtiaque/no-code-isnt-scalable-our-learnings-at-finn-going-from-1000-toward-100-000-car-subscriptions-ac98e752fc61)
 
-- [Finding performance bottlenecks in Celery tasks](https://pythonspeed.com/articles/celery-performance/)
+- [The tar archive format, its extensions, and why GNU tar extracts in quadratic time](https://mort.coffee/home/tar/)
 
-- [Summer #lang Party](https://racket.discourse.group/t/summer-lang-party/1128)
+- [Project Mentat](https://mozilla.github.io/mentat/)
 
-- [Pretty Maps in Python](https://tech.marksblogg.com/pretty-maps-in-python.html)
+- [finally. #embed in C](https://thephd.dev/finally-embed-in-c23)
 
-- [Interactive book/course about “everyday” data science](https://tigyog.app/d/C-I1weB9CpTH/r/everyday-data-science)
+- [Practical Deep Learning for Coders 2022](https://www.fast.ai/2022/07/21/dl-coders-22/)
 
-- [Where's the fun in accessibility?](https://uxdesign.cc/wheres-the-fun-in-accessibility-b78c6b9d280d)
+- [Metastable Failures in the Wild](https://www.micahlerner.com/2022/07/11/metastable-failures-in-the-wild.html)
 
-- [Some Thoughts on Zig](https://v5.chriskrycho.com/journal/some-thoughts-on-zig/)
+- [Riding the InfoRail to Exploit Ivanti Avalanche](https://www.thezdi.com/blog/2022/7/19/riding-the-inforail-to-exploit-ivanti-avalanche)
 
-- [Thoughts After Three Years With a Raptor Blackbird](https://wrongthink.neocities.org/posts/thoughts-after-years-raptor-blackbird/)
+- [The Problem with Speed Cubing](https://www.youtube.com/watch?v=YWnp3hJBQRk)
 
-- [10 Things I Love and 10 Things I Hate about MCP Systems (2004)](https://www.digm.com/UNITE/2004/2004-4050-MCP.pdf)
+- [dwim-shell-command on melpa](https://xenodium.com/dwim-shell-command-on-melpa/)
+
+- [Data Oriented Design is not ECS](https://yoyo-code.com/data-oriented-design-is-not-ecs/)
