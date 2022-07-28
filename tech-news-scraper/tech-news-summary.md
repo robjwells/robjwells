@@ -1,49 +1,49 @@
-- [Library Writing Realizations (2015)](http://cbloomrants.blogspot.com/2015/09/library-writing-realizations.html)
+- [Uniqueness Typing Simplified](http://www.edsko.net/pubs/ifl07-paper.pdf)
 
-- [The Perils of Holistic Profiling](http://cbloomrants.blogspot.com/2018/06/the-perils-of-holistic-profiling.html)
+- [ML-Enhanced Code Completion Improves Developer Productivity](https://ai.googleblog.com/2022/07/ml-enhanced-code-completion-improves.html)
 
-- [“Meta-circular” Static Types](http://sigusr2.net/metacircular-static-types.html)
+- [Discovery of new UEFI rootkit exposes an ugly truth: The attacks are invisible to us](https://arstechnica.com/information-technology/2022/07/researchers-unpack-unkillable-uefi-rootkit-that-survives-os-reinstalls/)
 
-- [The next era of no-code](https://arthurwu.com/posts/next-era-of-no-code)
+- [StockBot: Using LSTMs to Predict Stock Prices](https://arxiv.org/abs/2207.06605)
 
-- [Building a tiny little broken calculator with parser combinators](https://blog.jfo.click/building-a-tiny-little-broken-calculator-with-parser-combinators/)
+- [How to Write a Functor in Elixir](https://blog.appsignal.com/2022/07/26/how-to-write-a-functor-in-elixir.html)
 
-- [Reconfigurable Asynchronous Logic Automata](https://cba.mit.edu/docs/papers/09.11.POPL.pdf)
+- [Why I moved from Rust to TypeScript](https://blog.chiselstrike.com/notes-from-my-journey-from-rust-to-typescript-9bd9d28141e3)
 
-- [MITS' Altair 680b](https://computeradsfromthepast.substack.com/p/mits-altair-680b)
+- [Announcing the Keyword Generics Initiative](https://blog.rust-lang.org/inside-rust/2022/07/27/keyword-generics.html)
 
-- [Microsoft FOSS Fund Winner: curl](https://daniel.haxx.se/blog/2022/07/22/microsoft-foss-fund-winner-curl/)
+- [A Unified Theory of Garbage CollectIon (2004)](https://courses.cs.washington.edu/courses/cse590p/05au/p50-bacon.pdf)
 
-- [Let a 1,000 flowers bloom. Then rip 999 of them out by the roots. (2015)](https://gigamonkeys.com/flowers/)
+- [Container scheduling strategies for integration testing 14 different databases in Github Actions](https://datastation.multiprocess.io/blog/2022-07-25-database-integration-testing.html)
 
-- [Kerf](https://github.com/kevinlawler/kerf1)
+- [Help pick a syntax for CSS nesting](https://developer.chrome.com/blog/help-css-nesting/)
 
-- [The nala frontend to APT](https://gitlab.com/volian/nala)
+- [µON: Compact and simple binary encoding, on par (or outperforms) CBOR, MsgPack and UBJSON](https://docs.google.com/presentation/d/1MosK6LTy_Rr32eF6HKej6UEtf9vBzdbeSF6YPb1_e4A/present)
 
-- [Garnet programming language](https://hg.sr.ht/~icefox/garnet)
+- [Persistent Storage of Adaptive Radix Trees in DuckDB](https://duckdb.org/2022/07/27/art-storage.html)
 
-- [User settings, Lamport clocks and lightweight formal methods](https://jakub-m.github.io/2022/07/17/laport-clocks-formal.html)
+- [Prr: Text-based code review tool for GitHub](https://dxuuu.xyz/prr.html)
 
-- [How finishing what you start makes teams more productive and predictable](https://lucasfcosta.com/2022/07/19/finish-what-you-start.html)
+- [SQLite Internals: Pages & B-trees](https://fly.io/blog/sqlite-internals-btree/)
 
-- [Non-Obvious Docker Uses](https://matt-rickard.com/non-obvious-docker-uses/)
+- [Corrupting memory without memory corruption](https://github.blog/2022-07-27-corrupting-memory-without-memory-corruption/)
 
-- [No-code isn’t scalable. Our learnings at FINN going from 1000 toward 100,000 car subscriptions](https://medium.com/@ishtiaque/no-code-isnt-scalable-our-learnings-at-finn-going-from-1000-toward-100-000-car-subscriptions-ac98e752fc61)
+- [Manticore Search](https://manticoresearch.com/)
 
-- [The tar archive format, its extensions, and why GNU tar extracts in quadratic time](https://mort.coffee/home/tar/)
+- [The different ways to handle errors in C](https://mccue.dev/pages/7-27-22-c-errors)
 
-- [Project Mentat](https://mozilla.github.io/mentat/)
+- [Twenty years of Valgrind](https://nnethercote.github.io/2022/07/27/twenty-years-of-valgrind.html)
 
-- [finally. #embed in C](https://thephd.dev/finally-embed-in-c23)
+- [Code Density Compared Between Way Too Many Instruction Sets](https://portal.mozz.us/gemini/arcanesciences.com/gemlog/22-07-28/)
 
-- [Practical Deep Learning for Coders 2022](https://www.fast.ai/2022/07/21/dl-coders-22/)
+- [When It Does Not Listen for Thee, Ask for Whom the Server Listens (Understanding Listening Addresses](https://sequentialread.com/understanding-listening-addresses/)
 
-- [Metastable Failures in the Wild](https://www.micahlerner.com/2022/07/11/metastable-failures-in-the-wild.html)
+- [Notes on GitLab Postgres Schema Design](https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/)
 
-- [Riding the InfoRail to Exploit Ivanti Avalanche](https://www.thezdi.com/blog/2022/7/19/riding-the-inforail-to-exploit-ivanti-avalanche)
+- [Why isn't there a CreateProcess that completely isolates Windows processes?](https://www.computerenhance.com/p/why-isnt-there-a-createprocess-that)
 
-- [The Problem with Speed Cubing](https://www.youtube.com/watch?v=YWnp3hJBQRk)
+- [Offline with redux – A different (service worker free) approach to offline webapps](https://www.innoq.com/en/blog/offline-with-redux/)
 
-- [dwim-shell-command on melpa](https://xenodium.com/dwim-shell-command-on-melpa/)
+- [Does the software industry learn?](https://www.tomrenner.com/blog/2022-01-24/does-the-software-industry-learn-)
 
-- [Data Oriented Design is not ECS](https://yoyo-code.com/data-oriented-design-is-not-ecs/)
+- [Summer of Nix 2022 Public Lecture Series Playlist](https://youtube.com/playlist?list=PLt4-_lkyRrOMWyp5G-m_d1wtTcbBaOxZk)
