@@ -1,47 +1,49 @@
-- [ABC: A C compiler for printable x86 (2017)](http://tom7.org/abc/)
+- [Character encoding and UTF-8](https://blog.fredrb.com/2022/07/31/character-encoding-utf8/)
 
-- [Filtering Unique Items from Heterogeneous Lists at Compile Time](https://blog.galowicz.de/2022/03/20/unique-heterogeneous-typelists/)
+- [New Clojure project quickstart](https://blog.michielborkent.nl/new-clojure-project-quickstart.html)
 
-- [Testing Vulkan drivers with games that cannot run on the target device](https://blogs.igalia.com/dpiliaiev/gfxreconstruct-test-mobile-gpus/)
+- [How good a Data Scientist is GPT-3?](https://bytepawn.com/how-good-a-data-scientist-is-gpt-3.html#how-good-a-data-scientist-is-gpt-3)
 
-- [Roll your own JavaScript runtime](https://deno.com/blog/roll-your-own-javascript-runtime)
-
-- [Patterns with Rust types](https://dev.to/ivancernja/patterns-with-rust-types-3233)
+- [Using Nix on macOS](https://checkoway.net/musings/nix/)
 
 - [SLJS: A true JS runtime written in rust that compiles to wasm](https://dmytrish.net/sljs/)
 
-- [Parallelising Huffman decoding and x86 disassembly by synchronising non-self-synchronising prefix codes](https://dougallj.wordpress.com/2022/07/30/parallelising-huffman-decoding-and-x86-disassembly-by-synchronising-non-self-synchronising-prefix-codes/)
+- [Elixir versus Python for Data Science](https://dockyard.com/blog/2022/07/12/elixir-versus-python-for-data-science)
 
-- [How to Freaking Find Great Developers By Having Them Read Code](https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/)
+- [An efficient key recovery attack on SIDH (preliminary version)](https://eprint.iacr.org/2022/975)
 
-- [Gum: a tool for glamorous shell scripts](https://github.com/charmbracelet/gum)
+- [Ceptre, a tiny logic programming language for prototyping rulesets that you can run, interact with](https://github.com/chrisamaphone/interactive-lp)
 
-- [OxideDB – Teach PostgreSQL Database How to Speak MongoDB Wire Protocol](https://github.com/fcoury/oxide)
+- [JSON serialization should never fail](https://github.com/ehmicky/safe-json-value)
 
 - [mvsqlite: Distributed, MVCC SQLite that runs on FoundationDB](https://github.com/losfair/mvsqlite)
 
-- [zshbrev](https://idiomdrottning.org/zshbrev)
+- [A nice round-up of javascript spreadsheet-like grids](https://jspreadsheets.com/)
 
-- [You Don’t Need Microservices](https://itnext.io/you-dont-need-microservices-2ad8508b9e27)
+- [Reference Count, Don't Garbage Collect](https://kevinlawler.com/refcount)
 
-- [Why does nobody seem to know what imperative and declarative actually mean?](https://leebriggs.co.uk/blog/2022/07/20/nobody-knows-what-declarative-is)
+- [Magical Haskell](https://leanpub.com/magicalhaskell/read)
 
-- [The many flavors of hashing](https://notes.volution.ro/v1/2022/07/notes/1290a79c/)
+- [Docker and the OCI container ecosystem](https://lwn.net/SubscriberLink/902049/374614a66c0367f3/)
 
-- [PEP 659 – Specializing Adaptive Interpreter | peps.python.org](https://peps.python.org/pep-0659/)
+- [How Kubernetes Broke Git](https://matt-rickard.com/how-kubernetes-broke-git/)
 
-- [Why the Windows Registry sucks … technically (2010)](https://rwmj.wordpress.com/2010/02/18/why-the-windows-registry-sucks-technically/)
-
-- [What Declarative Languages Are (2013)](https://semantic-domain.blogspot.com/2013/07/what-declarative-languages-are.html?m=1)
-
-- [Timsort — the fastest sorting algorithm you’ve never heard of](https://skerritt.blog/timsort/)
+- [Thoughts on static linking in Rust and how it affects distro maintainers](https://old.reddit.com/r/rust/comments/us328s/can_someone_from_the_rust_community_share_their/i91o4wj/)
 
 - [Lisp in Vim (2019)](https://susam.net/blog/lisp-in-vim.html)
+
+- [Build UNIX, not Uber](https://thesephist.com/posts/legacy/)
 
 - [Type-Signature: Who Wants to Be a Millionaire - but with types](https://type-signature.com/)
 
 - [Print based debugging and infrequent developers](https://utcc.utoronto.ca/~cks/space/blog/programming/PrintDebuggingAndInfrequentDevs)
 
-- [Understanding GC in JSC From Scratch](https://webkit.org/blog/12967/understanding-gc-in-jsc-from-scratch/)
+- [Carbon's most exciting feature is its calling convention](https://www.foonathan.net/2022/07/carbon-calling-convention/)
+
+- [Semantic Networks](https://www.jfsowa.com/pubs/semnet.htm)
+
+- [Load Testing: An Unorthodox Guide](https://www.marcobehler.com/guides/load-testing)
 
 - [An accentuated Emacs experiment (à la macOS)](https://xenodium.com/an-accentuated-emacs-experiment/)
+
+- [Use flake.nix, not Dockerfile](https://youtu.be/0uixRE8xlbY)
