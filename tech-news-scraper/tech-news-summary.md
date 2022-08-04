@@ -1,49 +1,47 @@
-- [Character encoding and UTF-8](https://blog.fredrb.com/2022/07/31/character-encoding-utf8/)
+- [The Curious Case of String.slice/3](https://adworse.codes/the-curious-case-of-string-slice-3/)
 
-- [New Clojure project quickstart](https://blog.michielborkent.nl/new-clojure-project-quickstart.html)
+- [Post-quantum encryption contender is taken out by single-core PC and 1 hour](https://arstechnica.com/information-technology/2022/08/sike-once-a-post-quantum-encryption-contender-is-koed-in-nist-smackdown/)
 
-- [How good a Data Scientist is GPT-3?](https://bytepawn.com/how-good-a-data-scientist-is-gpt-3.html#how-good-a-data-scientist-is-gpt-3)
+- [The tools I use to build my website](https://benhoyt.com/writings/tools-i-use-to-build-my-website/)
 
-- [Using Nix on macOS](https://checkoway.net/musings/nix/)
+- [Building and using Managed Components with WebCM](https://blog.cloudflare.com/building-using-managed-components-webcm/)
 
-- [SLJS: A true JS runtime written in rust that compiles to wasm](https://dmytrish.net/sljs/)
+- [Search less, browse more](https://buttondown.email/hillelwayne/archive/search-less-browse-more-7595/)
 
-- [Elixir versus Python for Data Science](https://dockyard.com/blog/2022/07/12/elixir-versus-python-for-data-science)
+- [GitHub - moyix/fauxpilot: FauxPilot - an open-source GitHub Copilot server](https://github.com/moyix/fauxpilot)
 
-- [An efficient key recovery attack on SIDH (preliminary version)](https://eprint.iacr.org/2022/975)
+- [Go 1.19 Released](https://go.dev/doc/go1.19)
 
-- [Ceptre, a tiny logic programming language for prototyping rulesets that you can run, interact with](https://github.com/chrisamaphone/interactive-lp)
+- [Mutually Crafted Happiness: How MCH2022 Happened](https://hackaday.com/2022/08/02/mutually-crafted-happiness-how-mch2022-happened/)
 
-- [JSON serialization should never fail](https://github.com/ehmicky/safe-json-value)
+- [How I Used DALL·E 2 to Generate The Logo for OctoSQL](https://jacobmartins.com/posts/how-i-used-dalle2-to-generate-the-logo-for-octosql/)
 
-- [mvsqlite: Distributed, MVCC SQLite that runs on FoundationDB](https://github.com/losfair/mvsqlite)
+- [Checking if a JavaScript native function is monkey patched](https://mmazzarolo.com/blog/2022-07-30-checking-if-a-javascript-native-function-was-monkey-patched/)
 
-- [A nice round-up of javascript spreadsheet-like grids](https://jspreadsheets.com/)
+- [Expanding diskless infrastructure to more locations (System Transparency: stboot)](https://mullvad.net/de/blog/2022/8/1/expanding-diskless-infrastructure-to-more-locations-system-transparency-stboot/)
 
-- [Reference Count, Don't Garbage Collect](https://kevinlawler.com/refcount)
+- [Strict-serializability, but at what cost, for what purpose?](https://muratbuffalo.blogspot.com/2022/08/strict-serializability-but-at-what-cost.html)
 
-- [Magical Haskell](https://leanpub.com/magicalhaskell/read)
+- [Learning K Programming, Idiom by Idiom (2019)](https://nsl.com/k/training/idioms_K3.pdf)
 
-- [Docker and the OCI container ecosystem](https://lwn.net/SubscriberLink/902049/374614a66c0367f3/)
+- [Use One Big Server](https://specbranch.com/posts/one-big-server/)
 
-- [How Kubernetes Broke Git](https://matt-rickard.com/how-kubernetes-broke-git/)
+- [Ookla Internet benchmark results around the World](https://studio.unfolded.ai/public/eb120377-c715-4630-8a4e-c1b24e6a32f9)
 
-- [Thoughts on static linking in Rust and how it affects distro maintainers](https://old.reddit.com/r/rust/comments/us328s/can_someone_from_the_rust_community_share_their/i91o4wj/)
+- [Wi-Fine: it is fine to use public Wi-Fi](https://wifine.gitlab.io/)
 
-- [Lisp in Vim (2019)](https://susam.net/blog/lisp-in-vim.html)
+- [Where did architecture go?](https://www.agile-meets-architecture.com/essays/where-did-architecture-go)
 
-- [Build UNIX, not Uber](https://thesephist.com/posts/legacy/)
+- [Determining Malicious Probabilities Through ASNs](https://www.akamai.com/blog/security/determining-malicious-probabilities-through-asns)
 
-- [Type-Signature: Who Wants to Be a Millionaire - but with types](https://type-signature.com/)
+- [Django 4.1 released](https://www.djangoproject.com/weblog/2022/aug/03/django-41-released/)
 
-- [Print based debugging and infrequent developers](https://utcc.utoronto.ca/~cks/space/blog/programming/PrintDebuggingAndInfrequentDevs)
+- [Interneting Is Hard](https://www.internetingishard.com)
 
-- [Carbon's most exciting feature is its calling convention](https://www.foonathan.net/2022/07/carbon-calling-convention/)
+- [Microsoft is still far behind: Windows on ARM](https://www.jeffgeerling.com/blog/2022/microsoft-still-far-behind-windows-on-arm)
 
-- [Semantic Networks](https://www.jfsowa.com/pubs/semnet.htm)
+- [How to support open-source software and stay sane (2019)](https://www.nature.com/articles/d41586-019-02046-0)
 
-- [Load Testing: An Unorthodox Guide](https://www.marcobehler.com/guides/load-testing)
+- [7 things I've learned building a modern TUI framework](https://www.textualize.io/blog/posts/7-things-about-terminals)
 
-- [An accentuated Emacs experiment (à la macOS)](https://xenodium.com/an-accentuated-emacs-experiment/)
-
-- [Use flake.nix, not Dockerfile](https://youtu.be/0uixRE8xlbY)
+- [Unlocking type-safety superpowers in Typescript with nominal and refinement types](https://zackoverflow.dev/writing/nominal-and-refinement-types-typescript)
