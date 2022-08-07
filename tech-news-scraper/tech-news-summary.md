@@ -1,47 +1,49 @@
-- [The Curious Case of String.slice/3](https://adworse.codes/the-curious-case-of-string-slice-3/)
+- [NSA, NIST, and post-quantum cryptography](https://blog.cr.yp.to/20220805-nsa.html)
 
-- [Post-quantum encryption contender is taken out by single-core PC and 1 hour](https://arstechnica.com/information-technology/2022/08/sike-once-a-post-quantum-encryption-contender-is-koed-in-nist-smackdown/)
+- [NetBSD 9.3 released](https://blog.netbsd.org/tnf/entry/netbsd_9_3_released)
 
-- [The tools I use to build my website](https://benhoyt.com/writings/tools-i-use-to-build-my-website/)
+- [Non-lexical lifetimes (NLL) fully stable](https://blog.rust-lang.org/2022/08/05/nll-by-default.html)
 
-- [Building and using Managed Components with WebCM](https://blog.cloudflare.com/building-using-managed-components-webcm/)
+- [Autosummarized Hacker News (with GPT-3)](https://danieljanus.pl/autosummarized-hn/)
 
-- [Search less, browse more](https://buttondown.email/hillelwayne/archive/search-less-browse-more-7595/)
+- [Cramming 'Papers, Please' Onto Phones](https://dukope.com/devlogs/papers-please/mobile/)
 
-- [GitHub - moyix/fauxpilot: FauxPilot - an open-source GitHub Copilot server](https://github.com/moyix/fauxpilot)
+- [A Guile Steel smelting pot](https://dustycloud.org/blog/guile-steel-smelting-pot/)
 
-- [Go 1.19 Released](https://go.dev/doc/go1.19)
+- [Solving the "Fake Twitter Profile" Problem using DNS](https://easydns.com/blog/2022/08/05/solving-the-fake-twitter-profile-problem-with-dns/)
 
-- [Mutually Crafted Happiness: How MCH2022 Happened](https://hackaday.com/2022/08/02/mutually-crafted-happiness-how-mch2022-happened/)
+- [Stack frame layout on x86-64](https://eli.thegreenplace.net/2011/09/06/stack-frame-layout-on-x86-64)
 
-- [How I Used DALL·E 2 to Generate The Logo for OctoSQL](https://jacobmartins.com/posts/how-i-used-dalle2-to-generate-the-logo-for-octosql/)
+- [Genesis: God's actual programming language](https://github.com/elonlit/Genesis)
 
-- [Checking if a JavaScript native function is monkey patched](https://mmazzarolo.com/blog/2022-07-30-checking-if-a-javascript-native-function-was-monkey-patched/)
+- [Adding a standard iterator interface to Go?](https://github.com/golang/go/discussions/54245)
 
-- [Expanding diskless infrastructure to more locations (System Transparency: stboot)](https://mullvad.net/de/blog/2022/8/1/expanding-diskless-infrastructure-to-more-locations-system-transparency-stboot/)
+- [Microsoft has open sourced its model Open Source Software (OSS) Secure Supply Chain (SSC) Framework](https://github.com/microsoft/oss-ssc-framework)
 
-- [Strict-serializability, but at what cost, for what purpose?](https://muratbuffalo.blogspot.com/2022/08/strict-serializability-but-at-what-cost.html)
+- [The MGR Window System](https://hack.org/mc/mgr/)
 
-- [Learning K Programming, Idiom by Idiom (2019)](https://nsl.com/k/training/idioms_K3.pdf)
+- [Why Programmers Can’t Stop Programs With Ctrl-C, but Used to Be Able To, and Why They Should Be Able to Again](https://kevinlawler.com/ctrl-c)
 
-- [Use One Big Server](https://specbranch.com/posts/one-big-server/)
+- [Kanye West's Stem Player - An engineering disaster](https://krystalgamer.github.io/stem-player-emulator/)
 
-- [Ookla Internet benchmark results around the World](https://studio.unfolded.ai/public/eb120377-c715-4630-8a4e-c1b24e6a32f9)
+- [Lapce code editor](https://lapce.dev/)
 
-- [Wi-Fine: it is fine to use public Wi-Fi](https://wifine.gitlab.io/)
+- [The Pong you could program, possibly: the MOS 7600/7601](https://oldvcr.blogspot.com/2022/08/the-pong-you-could-program-possibly-mos.html)
 
-- [Where did architecture go?](https://www.agile-meets-architecture.com/essays/where-did-architecture-go)
+- [A simple but nifty inequality](https://residuetheorem.com/2017/02/10/a-simple-but-nifty-inequality/)
 
-- [Determining Malicious Probabilities Through ASNs](https://www.akamai.com/blog/security/determining-malicious-probabilities-through-asns)
+- [Rust Analyzer's structural search and replace](https://rust-analyzer.github.io/manual.html#structural-search-and-replace)
 
-- [Django 4.1 released](https://www.djangoproject.com/weblog/2022/aug/03/django-41-released/)
+- [C23 is Finished: Here is What is on the Menu](https://thephd.dev/c23-is-coming-here-is-what-is-on-the-menu)
 
-- [Interneting Is Hard](https://www.internetingishard.com)
+- [Rust and WebAssembly without a Bundler](https://tung.github.io/posts/rust-and-webassembly-without-a-bundler/)
 
-- [Microsoft is still far behind: Windows on ARM](https://www.jeffgeerling.com/blog/2022/microsoft-still-far-behind-windows-on-arm)
+- [Monad Confusion and the Blurry Line Between Data and Computation](https://www.micahcantor.com/blog/monad-confusion/)
 
-- [How to support open-source software and stay sane (2019)](https://www.nature.com/articles/d41586-019-02046-0)
+- [Our roadmap for Nix](https://www.tweag.io/blog/2022-08-04-tweag-and-nix-future/)
 
-- [7 things I've learned building a modern TUI framework](https://www.textualize.io/blog/posts/7-things-about-terminals)
+- [I solved Matt Parker's Wordle puzzle 100000 times faster](https://www.youtube.com/watch?v=947Ewgue4DM)
 
-- [Unlocking type-safety superpowers in Typescript with nominal and refinement types](https://zackoverflow.dev/writing/nominal-and-refinement-types-typescript)
+- [how floating point works](https://www.youtube.com/watch?v=dQhj5RGtag0)
+
+- [How to look up a Nix package's Nix store path from flake inputs](https://xeiaso.net/blog/nix-flakes-look-up-package)
