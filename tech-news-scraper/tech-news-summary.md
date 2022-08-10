@@ -1,49 +1,49 @@
-- [NSA, NIST, and post-quantum cryptography](https://blog.cr.yp.to/20220805-nsa.html)
+- [Reverse-engineering a 1960s cordwood flip flop module with X-ray CT scans](http://www.righto.com/2022/08/lumafield-flip-flop.html)
 
-- [NetBSD 9.3 released](https://blog.netbsd.org/tnf/entry/netbsd_9_3_released)
+- [A performance retrospective using Rust (part 1)](https://agourlay.github.io/rust-performance-retrospective-part1/)
 
-- [Non-lexical lifetimes (NLL) fully stable](https://blog.rust-lang.org/2022/08/05/nll-by-default.html)
+- [Test against what won't change](https://blog.alexgilleran.com/test-against-what-wont-change/)
 
-- [Autosummarized Hacker News (with GPT-3)](https://danieljanus.pl/autosummarized-hn/)
+- [The case against a C alternative](https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative)
 
-- [Cramming 'Papers, Please' Onto Phones](https://dukope.com/devlogs/papers-please/mobile/)
+- [CoPing with CoPilot](https://emeryberger.medium.com/coping-with-copilot-b2b59671e516)
 
-- [A Guile Steel smelting pot](https://dustycloud.org/blog/guile-steel-smelting-pot/)
+- [Implementing Parts of the Swift Compiler in Swift](https://forums.swift.org/t/implementing-parts-of-the-swift-compiler-in-swift/59524)
 
-- [Solving the "Fake Twitter Profile" Problem using DNS](https://easydns.com/blog/2022/08/05/solving-the-fake-twitter-profile-problem-with-dns/)
+- [unblob: accurate and fast extraction suite for 30+ formats](https://github.com/onekey-sec/unblob)
 
-- [Stack frame layout on x86-64](https://eli.thegreenplace.net/2011/09/06/stack-frame-layout-on-x86-64)
+- [Don’t call it a comeback: Why Java is still champ](https://github.com/readme/featured/java-programming-language)
 
-- [Genesis: God's actual programming language](https://github.com/elonlit/Genesis)
+- [Achieving A Completely Open Source Implementation of Apple Code Signing and Notarization](https://gregoryszorc.com/blog/2022/08/08/achieving-a-completely-open-source-implementation-of-apple-code-signing-and-notarization/)
 
-- [Adding a standard iterator interface to Go?](https://github.com/golang/go/discussions/54245)
+- [Tailwind is an Anti-Pattern](https://javascript.plainenglish.io/tailwind-is-an-anti-pattern-ed3f64f565f0)
 
-- [Microsoft has open sourced its model Open Source Software (OSS) Secure Supply Chain (SSC) Framework](https://github.com/microsoft/oss-ssc-framework)
+- [Baby’s First Garbage Collector (2013)](https://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
 
-- [The MGR Window System](https://hack.org/mc/mgr/)
+- [Avoiding space leaks at all costs](https://kodimensional.dev/space-leak)
 
-- [Why Programmers Can’t Stop Programs With Ctrl-C, but Used to Be Able To, and Why They Should Be Able to Again](https://kevinlawler.com/ctrl-c)
+- [“Hello world” is slower in C++ than in C (Linux)](https://lemire.me/blog/2022/08/09/hello-world-is-slower-in-c-than-in-c-linux/)
 
-- [Kanye West's Stem Player - An engineering disaster](https://krystalgamer.github.io/stem-player-emulator/)
+- [What Tech Workers Don't Understand They've Lost by WFH](https://michaelgv.uk/posts/2022/08/what-tech-workers-dont-understand-theyve-lost-by-wfh/)
 
-- [Lapce code editor](https://lapce.dev/)
+- [Fixing Memory Exhaustion Bugs in My Golang Web App](https://mtlynch.io/notes/picoshare-perf/)
 
-- [The Pong you could program, possibly: the MOS 7600/7601](https://oldvcr.blogspot.com/2022/08/the-pong-you-could-program-possibly-mos.html)
+- [My new debugbreak command](https://nullprogram.com/blog/2022/07/31/)
 
-- [A simple but nifty inequality](https://residuetheorem.com/2017/02/10/a-simple-but-nifty-inequality/)
+- [The quick and practical "MSI" hash table](https://nullprogram.com/blog/2022/08/08/)
 
-- [Rust Analyzer's structural search and replace](https://rust-analyzer.github.io/manual.html#structural-search-and-replace)
+- [I Don’t Like Go’s Default HTTP Handlers](https://preslav.me/2022/08/09/i-dont-like-golang-default-http-handlers/)
 
-- [C23 is Finished: Here is What is on the Menu](https://thephd.dev/c23-is-coming-here-is-what-is-on-the-menu)
+- [SSH from RHEL 9 to RHEL 5 or RHEL 6](https://rwmj.wordpress.com/2022/08/08/ssh-from-rhel-9-to-rhel-5-or-rhel-6/)
 
-- [Rust and WebAssembly without a Bundler](https://tung.github.io/posts/rust-and-webassembly-without-a-bundler/)
+- [Federation vs. Clustering: Self-determination vs. distributed computing?](https://sequentialread.com/federation-vs-clustering-self-hosting/)
 
-- [Monad Confusion and the Blurry Line Between Data and Computation](https://www.micahcantor.com/blog/monad-confusion/)
+- [Making a Video of a Single Window](https://tratt.net/laurie/blog/2022/making_a_video_of_a_single_window.html)
 
-- [Our roadmap for Nix](https://www.tweag.io/blog/2022-08-04-tweag-and-nix-future/)
+- [Run Linux on Electric Objects EO1 Wall Computer](https://www.charlieharrington.com/run-linux-on-electric-objects-eo1-wall-computer/)
 
-- [I solved Matt Parker's Wordle puzzle 100000 times faster](https://www.youtube.com/watch?v=947Ewgue4DM)
+- [Naming Things Is Hard](https://www.fastruby.io/blog/rails/naming-things-is-hard.html)
 
-- [how floating point works](https://www.youtube.com/watch?v=dQhj5RGtag0)
+- [Antique Display Driving](https://www.os2museum.com/wp/antique-display-driving/)
 
-- [How to look up a Nix package's Nix store path from flake inputs](https://xeiaso.net/blog/nix-flakes-look-up-package)
+- [Simulating an Entire Car Engine (yes, it makes noise)](https://youtu.be/RKT-sKtR970)
