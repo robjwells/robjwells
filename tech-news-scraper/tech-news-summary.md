@@ -1,49 +1,47 @@
-- [Reverse-engineering a 1960s cordwood flip flop module with X-ray CT scans](http://www.righto.com/2022/08/lumafield-flip-flop.html)
+- [Linguistic Antipatterns catalog](http://linguistic-antipatterns.com/)
 
-- [A performance retrospective using Rust (part 1)](https://agourlay.github.io/rust-performance-retrospective-part1/)
+- [Asdf Performance](http://stratus3d.com/blog/2022/08/11/asdf-performance/)
 
-- [Test against what won't change](https://blog.alexgilleran.com/test-against-what-wont-change/)
+- [Confusion in the Church-Turing Thesis](https://arxiv.org/abs/1410.7103)
 
-- [The case against a C alternative](https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative)
+- [Rob Pike's simple C regex matcher in Go](https://benhoyt.com/writings/rob-pike-regex/)
 
-- [CoPing with CoPilot](https://emeryberger.medium.com/coping-with-copilot-b2b59671e516)
+- [Announcing Rust 1.63.0](https://blog.rust-lang.org/2022/08/11/Rust-1.63.0.html)
 
-- [Implementing Parts of the Swift Compiler in Swift](https://forums.swift.org/t/implementing-parts-of-the-swift-compiler-in-swift/59524)
+- [PyPI Package 'secretslib' Drops Fileless Linux Malware to Mine Monero](https://blog.sonatype.com/pypi-package-secretslib-drops-fileless-linux-malware-to-mine-monero)
 
-- [unblob: accurate and fast extraction suite for 30+ formats](https://github.com/onekey-sec/unblob)
+- [Excel is Pretty Dang Cool](https://buttondown.email/hillelwayne/archive/excel-is-pretty-dang-cool/)
 
-- [Don’t call it a comeback: Why Java is still champ](https://github.com/readme/featured/java-programming-language)
+- [IPFS and their gateways](https://daniel.haxx.se/blog/2022/08/10/ipfs-and-their-gateways/)
 
-- [Achieving A Completely Open Source Implementation of Apple Code Signing and Notarization](https://gregoryszorc.com/blog/2022/08/08/achieving-a-completely-open-source-implementation-of-apple-code-signing-and-notarization/)
+- [GHC 9.4.1 is now available](https://discourse.haskell.org/t/ghc-9-4-1-is-now-available/4901)
 
-- [Tailwind is an Anti-Pattern](https://javascript.plainenglish.io/tailwind-is-an-anti-pattern-ed3f64f565f0)
+- [Cranelift: Using E-Graphs for Verified, Cooperating Middle-End Optimizations](https://github.com/bytecodealliance/rfcs/pull/27)
 
-- [Baby’s First Garbage Collector (2013)](https://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
+- [Roc is a language for making delightful software](https://github.com/roc-lang/roc)
 
-- [Avoiding space leaks at all costs](https://kodimensional.dev/space-leak)
+- [BUSY - a lean, statically typed, cross-platform build system for GCC, CLANG and MSVC](https://github.com/rochus-keller/BUSY/blob/main/README.md)
 
-- [“Hello world” is slower in C++ than in C (Linux)](https://lemire.me/blog/2022/08/09/hello-world-is-slower-in-c-than-in-c-linux/)
+- [PGPP (Pretty Good Phone Privacy) Beta Launch](https://invisv.com/articles/pretty-good-phone-privacy.html)
 
-- [What Tech Workers Don't Understand They've Lost by WFH](https://michaelgv.uk/posts/2022/08/what-tech-workers-dont-understand-theyve-lost-by-wfh/)
+- [Why Xcode tools are slow after reboot](https://lapcatsoftware.com/articles/xcrun.html)
 
-- [Fixing Memory Exhaustion Bugs in My Golang Web App](https://mtlynch.io/notes/picoshare-perf/)
+- [Direct host system calls from KVM](https://lwn.net/Articles/902585/)
 
-- [My new debugbreak command](https://nullprogram.com/blog/2022/07/31/)
+- [The trouble with 64-bit DMA](https://lwn.net/SubscriberLink/904210/46bbced99963b245/)
 
-- [The quick and practical "MSI" hash table](https://nullprogram.com/blog/2022/08/08/)
+- [Avoid Spaghetti Code with Scope Minimization](https://massimo-nazaria.github.io/blog/2022/02/10/avoid-spaghetti-code-with-scope-minimization.html)
 
-- [I Don’t Like Go’s Default HTTP Handlers](https://preslav.me/2022/08/09/i-dont-like-golang-default-http-handlers/)
+- [The Unreasonable Effectiveness of Makefiles](https://matt-rickard.com/the-unreasonable-effectiveness-of-makefiles)
 
-- [SSH from RHEL 9 to RHEL 5 or RHEL 6](https://rwmj.wordpress.com/2022/08/08/ssh-from-rhel-9-to-rhel-5-or-rhel-6/)
+- [Stupid SMP Tricks: A Review of Locking Engineering Principles and Hierarchy](https://paulmck.livejournal.com/67832.html)
 
-- [Federation vs. Clustering: Self-determination vs. distributed computing?](https://sequentialread.com/federation-vs-clustering-self-hosting/)
+- [Extending SQLite with Rust](https://ricardoanderegg.com/posts/extending-sqlite-with-rust/)
 
-- [Making a Video of a Single Window](https://tratt.net/laurie/blog/2022/making_a_video_of_a_single_window.html)
+- [Experimentally compiling PHP code to Rust](https://ryangjchandler.co.uk/posts/experimentally-compiling-php-code-to-rust)
 
-- [Run Linux on Electric Objects EO1 Wall Computer](https://www.charlieharrington.com/run-linux-on-electric-objects-eo1-wall-computer/)
+- [Automating String Processing in Spreadsheets using Input-Output Examples (2011)](https://www.microsoft.com/en-us/research/publication/automating-string-processing-spreadsheets-using-input-output-examples/)
 
-- [Naming Things Is Hard](https://www.fastruby.io/blog/rails/naming-things-is-hard.html)
+- [Hacking Hyundai Tucson 2020](https://xakcop.com/post/hyundai-hack/)
 
-- [Antique Display Driving](https://www.os2museum.com/wp/antique-display-driving/)
-
-- [Simulating an Entire Car Engine (yes, it makes noise)](https://youtu.be/RKT-sKtR970)
+- [You Suck at Excel with Joel Spolsky](https://youtube.com/watch?v=0nbkaYsR94c)
