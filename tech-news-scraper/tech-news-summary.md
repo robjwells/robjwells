@@ -1,47 +1,45 @@
-- [Linguistic Antipatterns catalog](http://linguistic-antipatterns.com/)
+- [Win32 Is The Only Stable ABI on Linux](https://blog.hiler.eu/win32-the-only-stable-abi/)
 
-- [Asdf Performance](http://stratus3d.com/blog/2022/08/11/asdf-performance/)
+- [SCO XENIX](https://computeradsfromthepast.substack.com/p/sco-xenix)
 
-- [Confusion in the Church-Turing Thesis](https://arxiv.org/abs/1410.7103)
+- [Thoughts on Copilot](https://daverupert.com/2022/08/github-copilot/)
 
-- [Rob Pike's simple C regex matcher in Go](https://benhoyt.com/writings/rob-pike-regex/)
+- [Big Changes Ahead for Deno](https://deno.com/blog/changes)
 
-- [Announcing Rust 1.63.0](https://blog.rust-lang.org/2022/08/11/Rust-1.63.0.html)
+- [Passgen: A password generator that uses a regex-like syntax to create secure passwords of any shape](https://dev.to/xfbs/passgen-a-password-generator-that-uses-a-regex-like-syntax-to-create-secure-passwords-of-any-shape-2b7f)
 
-- [PyPI Package 'secretslib' Drops Fileless Linux Malware to Mine Monero](https://blog.sonatype.com/pypi-package-secretslib-drops-fileless-linux-malware-to-mine-monero)
+- [Distributed Replicated Block Device - DRBD](https://docs.kernel.org/admin-guide/blockdev/drbd/index.html)
 
-- [Excel is Pretty Dang Cool](https://buttondown.email/hillelwayne/archive/excel-is-pretty-dang-cool/)
+- [Lux 0.7 is out! Lisp for JVM, JavaScript, Python, Ruby and Lua with static types](https://github.com/LuxLang/lux/releases/tag/0.7.0)
 
-- [IPFS and their gateways](https://daniel.haxx.se/blog/2022/08/10/ipfs-and-their-gateways/)
+- [AFFiNE: There can be more than Notion and Miro](https://github.com/toeverything/AFFiNE)
 
-- [GHC 9.4.1 is now available](https://discourse.haskell.org/t/ghc-9-4-1-is-now-available/4901)
+- [Getting the World Record in HATETRIS](https://hallofdreams.org/posts/hatetris/)
 
-- [Cranelift: Using E-Graphs for Verified, Cooperating Middle-End Optimizations](https://github.com/bytecodealliance/rfcs/pull/27)
+- [Implementing Bitcask, a Log-Structured Hash Table](https://healeycodes.com/implementing-bitcask-a-log-structured-hash-table)
 
-- [Roc is a language for making delightful software](https://github.com/roc-lang/roc)
+- [Optimizing for JavaScript is hard](https://jfmengels.net/optimizing-javascript-is-hard/)
 
-- [BUSY - a lean, statically typed, cross-platform build system for GCC, CLANG and MSVC](https://github.com/rochus-keller/BUSY/blob/main/README.md)
+- [The three-page paper that shook philosophy: Gettiers in software engineering [2019]](https://jsomers.net/blog/gettiers)
 
-- [PGPP (Pretty Good Phone Privacy) Beta Launch](https://invisv.com/articles/pretty-good-phone-privacy.html)
+- [The Matrix Summer Special 2022](https://matrix.org/blog/2022/08/15/the-matrix-summer-special-2022/)
 
-- [Why Xcode tools are slow after reboot](https://lapcatsoftware.com/articles/xcrun.html)
+- [Surviving Continuous Deployment in Distributed Systems](https://oooops.dev/2021/07/30/surviving-continuous-deployment-in-distributed-systems/)
 
-- [Direct host system calls from KVM](https://lwn.net/Articles/902585/)
+- [Rust in Perspective](https://people.kernel.org/linusw/rust-in-perspective)
 
-- [The trouble with 64-bit DMA](https://lwn.net/SubscriberLink/904210/46bbced99963b245/)
+- [Introducing Horizon Linux (Switch OS Emulation)](https://reddit.com/r/linux_gaming/comments/wnuh3u/introducing_horizon_linux/)
 
-- [Avoid Spaghetti Code with Scope Minimization](https://massimo-nazaria.github.io/blog/2022/02/10/avoid-spaghetti-code-with-scope-minimization.html)
+- [MVPy: Minimum Viable Python](https://snarky.ca/mvpy-minimum-viable-python/)
 
-- [The Unreasonable Effectiveness of Makefiles](https://matt-rickard.com/the-unreasonable-effectiveness-of-makefiles)
+- [Twilio Incident: What Signal Users Need to Know](https://support.signal.org/hc/en-us/articles/4850133017242)
 
-- [Stupid SMP Tricks: A Review of Locking Engineering Principles and Hierarchy](https://paulmck.livejournal.com/67832.html)
+- [What is RSS?](https://www.autodidacts.io/what-is-rss/)
 
-- [Extending SQLite with Rust](https://ricardoanderegg.com/posts/extending-sqlite-with-rust/)
+- [The Concurnas Programming Language](https://www.concurnas.com/)
 
-- [Experimentally compiling PHP code to Rust](https://ryangjchandler.co.uk/posts/experimentally-compiling-php-code-to-rust)
+- [Uploading kubernetes pod coredumps to s3](https://www.convalesco.org/notes/2022/08/12/uploading-kubernetes-pod-coredumps-to-s3.html)
 
-- [Automating String Processing in Spreadsheets using Input-Output Examples (2011)](https://www.microsoft.com/en-us/research/publication/automating-string-processing-spreadsheets-using-input-output-examples/)
+- [Do regex dream of Turing Completeness?](https://www.youtube.com/watch?v=TImfEidPo-o)
 
-- [Hacking Hyundai Tucson 2020](https://xakcop.com/post/hyundai-hack/)
-
-- [You Suck at Excel with Joel Spolsky](https://youtube.com/watch?v=0nbkaYsR94c)
+- [Exceptions the Other Way Round](https://www.youtube.com/watch?v=mkkaAWNE-Ig)
