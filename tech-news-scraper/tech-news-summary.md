@@ -1,45 +1,49 @@
-- [Win32 Is The Only Stable ABI on Linux](https://blog.hiler.eu/win32-the-only-stable-abi/)
+- [React.useCallback is justifiably zero-cost (disproving claims saying otherwise)](http://len.falken.directory/web/react-usecallback-is-justifiably-zero-cost.html)
 
-- [SCO XENIX](https://computeradsfromthepast.substack.com/p/sco-xenix)
+- [The Symbolics Virtual Lisp Machine: Using The DEC Alpha As a Programmable Micro-Engine (1994)](http://pt.withington.org/publications/VLM.html)
 
-- [Thoughts on Copilot](https://daverupert.com/2022/08/github-copilot/)
+- [LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)
 
-- [Big Changes Ahead for Deno](https://deno.com/blog/changes)
+- [Millet, a language server for SML](https://azdavis.net/posts/millet/)
 
-- [Passgen: A password generator that uses a regex-like syntax to create secure passwords of any shape](https://dev.to/xfbs/passgen-a-password-generator-that-uses-a-regex-like-syntax-to-create-secure-passwords-of-any-shape-2b7f)
+- [How big is a string?](https://blog.bitsrc.io/how-big-is-a-string-ef2af3d222e6)
 
-- [Distributed Replicated Block Device - DRBD](https://docs.kernel.org/admin-guide/blockdev/drbd/index.html)
+- [Why I left PINE64](https://blog.brixit.nl/why-i-left-pine64/)
 
-- [Lux 0.7 is out! Lisp for JVM, JavaScript, Python, Ruby and Lua with static types](https://github.com/LuxLang/lux/releases/tag/0.7.0)
+- [I love my GPD Micro PC](https://blog.danieljanus.pl/2022/08/18/i-love-my-gpd-micro-pc/)
 
-- [AFFiNE: There can be more than Notion and Miro](https://github.com/toeverything/AFFiNE)
+- [I have complicated feelings about TDD](https://buttondown.email/hillelwayne/archive/i-have-complicated-feelings-about-tdd-8403/)
 
-- [Getting the World Record in HATETRIS](https://hallofdreams.org/posts/hatetris/)
+- [Janet Jackson had the power to crash laptop computers](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)
 
-- [Implementing Bitcask, a Log-Structured Hash Table](https://healeycodes.com/implementing-bitcask-a-log-structured-hash-table)
+- [Play music from your LCD monitor with a radio](https://github.com/luamfb/tempest-lcd)
 
-- [Optimizing for JavaScript is hard](https://jfmengels.net/optimizing-javascript-is-hard/)
+- [CPython now support for the LLVM-BOLT post-link binary optimizer](https://github.com/python/cpython/pull/95908)
 
-- [The three-page paper that shook philosophy: Gettiers in software engineering [2019]](https://jsomers.net/blog/gettiers)
+- [nix-on-droid: Nix-enabled environment for your Android device](https://github.com/t184256/nix-on-droid)
 
-- [The Matrix Summer Special 2022](https://matrix.org/blog/2022/08/15/the-matrix-summer-special-2022/)
+- [Files That Change Together Should Stick Together](https://kevinmahoney.co.uk/articles/files-that-change-together/)
 
-- [Surviving Continuous Deployment in Distributed Systems](https://oooops.dev/2021/07/30/surviving-continuous-deployment-in-distributed-systems/)
+- [Openness Trumps Profit-Seeking, What We can Learn from a Decade of AI Renaissance](https://liuliu.me/eyes/openness-trumps-profit-seeking-what-we-can-learn-from-a-decade-of-ai-renaissance/)
 
-- [Rust in Perspective](https://people.kernel.org/linusw/rust-in-perspective)
+- [Linux 6.0 includes an io_uring-based user-space block driver](https://lwn.net/Articles/903855/)
 
-- [Introducing Horizon Linux (Switch OS Emulation)](https://reddit.com/r/linux_gaming/comments/wnuh3u/introducing_horizon_linux/)
+- [Managarm: August 2022 Update](https://managarm.org/2022/08/14/aug-update.html)
 
-- [MVPy: Minimum Viable Python](https://snarky.ca/mvpy-minimum-viable-python/)
+- [Natalie, a Ruby Dialect](https://natalie-lang.org/)
 
-- [Twilio Incident: What Signal Users Need to Know](https://support.signal.org/hc/en-us/articles/4850133017242)
+- [ravynOS – Finesse of macOS. Freedom of FreeBSD](https://ravynos.com/)
 
-- [What is RSS?](https://www.autodidacts.io/what-is-rss/)
+- [A tour of Spritely Institute's tech](https://spritely.institute/news/blast-off-spritely-institutes-tech-tour.html)
 
-- [The Concurnas Programming Language](https://www.concurnas.com/)
+- [A ssh(1) key management example](https://try.popho.be/ssh-keys.html)
 
-- [Uploading kubernetes pod coredumps to s3](https://www.convalesco.org/notes/2022/08/12/uploading-kubernetes-pod-coredumps-to-s3.html)
+- [Using :has() as a CSS Parent Selector and much more](https://webkit.org/blog/13096/css-has-pseudo-class/)
 
-- [Do regex dream of Turing Completeness?](https://www.youtube.com/watch?v=TImfEidPo-o)
+- [I added some localization settings to KDE](https://www.akselmo.dev/2022/08/18/I-added-localization-settings-for-KDE.html)
 
-- [Exceptions the Other Way Round](https://www.youtube.com/watch?v=mkkaAWNE-Ig)
+- [Xmas hacking: Let's contribute to the Natalie Ruby compiler](https://www.youtube.com/watch?v=b4PZgvPYkP4)
+
+- [But You Told Me You Were Safe: Attacking the Mozilla Firefox Renderer (Part 1)](https://www.zerodayinitiative.com/blog/2022/8/17/but-you-told-me-you-were-safe-attacking-the-mozilla-firefox-renderer-part-1)
+
+- [Programming breakthroughs we need](https://yoyo-code.com/programming-breakthroughs-we-need/)
