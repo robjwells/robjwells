@@ -1,49 +1,49 @@
-- [React.useCallback is justifiably zero-cost (disproving claims saying otherwise)](http://len.falken.directory/web/react-usecallback-is-justifiably-zero-cost.html)
+- [When does technology pass from being a tool to being a crutch? (2009)](http://boston.conman.org/2009/11/03.1)
 
-- [The Symbolics Virtual Lisp Machine: Using The DEC Alpha As a Programmable Micro-Engine (1994)](http://pt.withington.org/publications/VLM.html)
+- [FreeBSD 11.0-13.0 LPE via aio_aqueue Kernel Refcount Bug](https://accessvector.net/2022/freebsd-aio-lpe)
 
-- [LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)
+- [This Program is Illegally Packaged in 14 Distributions](https://artemis.sh/2022/08/21/this-program-is-illegally-packaged-in-14-distributions.html)
 
-- [Millet, a language server for SML](https://azdavis.net/posts/millet/)
+- [Why don't we do email verification in reverse?](https://blog.yossarian.net/2022/08/20/Why-dont-we-do-email-verification-in-reverse)
 
-- [How big is a string?](https://blog.bitsrc.io/how-big-is-a-string-ef2af3d222e6)
+- [The Excellent Schemer](https://code-magazine.com/Article/2207071/The-Excellent-Schemer)
 
-- [Why I left PINE64](https://blog.brixit.nl/why-i-left-pine64/)
+- [SQLite has pretty limited builtin functions](https://datastation.multiprocess.io/blog/2022-08-21-sqlite-limited-builtin-functions.html)
 
-- [I love my GPD Micro PC](https://blog.danieljanus.pl/2022/08/18/i-love-my-gpd-micro-pc/)
+- [Faster zlib/DEFLATE decompression on the Apple M1 (and x86)](https://dougallj.wordpress.com/2022/08/20/faster-zlib-deflate-decompression-on-the-apple-m1-and-x86/)
 
-- [I have complicated feelings about TDD](https://buttondown.email/hillelwayne/archive/i-have-complicated-feelings-about-tdd-8403/)
+- [GCC internals - From a porting perspective](https://ekaitz.elenq.tech/bootstrapGcc1.html)
 
-- [Janet Jackson had the power to crash laptop computers](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)
+- [The Flang Compiler (LLVM’s Fortran frontend)](https://flang.llvm.org/docs/)
 
-- [Play music from your LCD monitor with a radio](https://github.com/luamfb/tempest-lcd)
+- [QuineDot/rust-snags: Gotchas and warts in Rust Lang](https://github.com/QuineDot/rust-snags)
 
-- [CPython now support for the LLVM-BOLT post-link binary optimizer](https://github.com/python/cpython/pull/95908)
+- [Brian Kernighan adds Unicode support to Awk](https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636)
 
-- [nix-on-droid: Nix-enabled environment for your Android device](https://github.com/t184256/nix-on-droid)
+- [On Estimates](https://github.com/stebunovd/blog/blob/master/contents/On-Estimates.md)
 
-- [Files That Change Together Should Stick Together](https://kevinmahoney.co.uk/articles/files-that-change-together/)
+- [Zig is now self-hosted by default](https://github.com/ziglang/zig/wiki/Self-Hosted-Compiler-Upgrade-Guide)
 
-- [Openness Trumps Profit-Seeking, What We can Learn from a Decade of AI Renaissance](https://liuliu.me/eyes/openness-trumps-profit-seeking-what-we-can-learn-from-a-decade-of-ai-renaissance/)
+- [Zero-based indexing in the real world (2013)](https://lukeplant.me.uk/blog/posts/zero-based-indexing-in-the-real-world/)
 
-- [Linux 6.0 includes an io_uring-based user-space block driver](https://lwn.net/Articles/903855/)
+- [glibc and DT_GNU_HASH](https://maskray.me/blog/2022-08-21-glibc-and-dt-gnu-hash)
 
-- [Managarm: August 2022 Update](https://managarm.org/2022/08/14/aug-update.html)
+- [Jack Sparrow's Compass](https://mitxela.com/projects/jack_sparrow_compass)
 
-- [Natalie, a Ruby Dialect](https://natalie-lang.org/)
+- [The Pijul version control system](https://pijul.org/)
 
-- [ravynOS – Finesse of macOS. Freedom of FreeBSD](https://ravynos.com/)
+- [Butterick’s Practical Typography](https://practicaltypography.com/)
 
-- [A tour of Spritely Institute's tech](https://spritely.institute/news/blast-off-spritely-institutes-tech-tour.html)
+- [Hacking around with the ScotRail audio announcements](https://simonwillison.net/2022/Aug/21/scotrail/)
 
-- [A ssh(1) key management example](https://try.popho.be/ssh-keys.html)
+- [Cryptographic Agility and Superior Alternatives](https://soatok.blog/2022/08/20/cryptographic-agility-and-superior-alternatives/)
 
-- [Using :has() as a CSS Parent Selector and much more](https://webkit.org/blog/13096/css-has-pseudo-class/)
+- [The Myth of Mass Collaboration](https://staltz.com/the-myth-of-mass-collaboration.html)
 
-- [I added some localization settings to KDE](https://www.akselmo.dev/2022/08/18/I-added-localization-settings-for-KDE.html)
+- [Executable shared ELF files](https://stoppels.ch/2022/08/20/executable-shared-libraries.html)
 
-- [Xmas hacking: Let's contribute to the Natalie Ruby compiler](https://www.youtube.com/watch?v=b4PZgvPYkP4)
+- [Using jSoup To Extract JSON+LD Structured Data In ColdFusion 2021](https://www.bennadel.com/blog/4312-using-jsoup-to-extract-json-ld-structured-data-in-coldfusion-2021.htm)
 
-- [But You Told Me You Were Safe: Attacking the Mozilla Firefox Renderer (Part 1)](https://www.zerodayinitiative.com/blog/2022/8/17/but-you-told-me-you-were-safe-attacking-the-mozilla-firefox-renderer-part-1)
+- [Teaching Intro CS in a world with Copilot](https://www.sigarch.org/coping-with-copilot/)
 
-- [Programming breakthroughs we need](https://yoyo-code.com/programming-breakthroughs-we-need/)
+- [How I Learned to Stop Worrying and Love Macros](https://zdimension.fr/how-i-learned-to-stop-worrying-and-love-macros/)
