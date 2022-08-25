@@ -1,49 +1,47 @@
-- [When does technology pass from being a tool to being a crutch? (2009)](http://boston.conman.org/2009/11/03.1)
+- [How Firefox’s Total Cookie Protection and container extensions work together](https://blog.mozilla.org/en/products/firefox/how-firefoxs-total-cookie-protection-and-container-extensions-work-together/)
 
-- [FreeBSD 11.0-13.0 LPE via aio_aqueue Kernel Refcount Bug](https://accessvector.net/2022/freebsd-aio-lpe)
+- [SSH Tips and Tricks](https://carlosbecker.com/posts/ssh-tips-and-tricks/)
 
-- [This Program is Illegally Packaged in 14 Distributions](https://artemis.sh/2022/08/21/this-program-is-illegally-packaged-in-14-distributions.html)
+- [How to deal with money in software](https://cs-syd.eu/posts/2022-08-22-how-to-deal-with-money-in-software)
 
-- [Why don't we do email verification in reverse?](https://blog.yossarian.net/2022/08/20/Why-dont-we-do-email-verification-in-reverse)
+- [GitHub IPv6 proxy](https://danwin1210.de/github-ipv6-proxy.php)
 
-- [The Excellent Schemer](https://code-magazine.com/Article/2207071/The-Excellent-Schemer)
+- [How SQLite Scales Read Concurrency](https://fly.io/blog/sqlite-internals-wal/)
 
-- [SQLite has pretty limited builtin functions](https://datastation.multiprocess.io/blog/2022-08-21-sqlite-limited-builtin-functions.html)
+- [FreeBSD Journal 2022/07-08 - Science/Systems/FreeBSD](https://freebsdfoundation.org/past-issues/science-systems-and-freebsd-2/)
 
-- [Faster zlib/DEFLATE decompression on the Apple M1 (and x86)](https://dougallj.wordpress.com/2022/08/20/faster-zlib-deflate-decompression-on-the-apple-m1-and-x86/)
+- [Use several git branches simultaneously](https://git-scm.com/docs/git-worktree#:~:text=A%20git%20repository%20can%20support,others%20in%20the%20same%20repository.)
 
-- [GCC internals - From a porting perspective](https://ekaitz.elenq.tech/bootstrapGcc1.html)
+- [SSH commit verification now supported](https://github.blog/changelog/2022-08-23-ssh-commit-verification-now-supported/)
 
-- [The Flang Compiler (LLVM’s Fortran frontend)](https://flang.llvm.org/docs/)
+- [sq: a type-safe data mapper and query builder](https://github.com/bokwoon95/sq)
 
-- [QuineDot/rust-snags: Gotchas and warts in Rust Lang](https://github.com/QuineDot/rust-snags)
+- [Cemu, a Wii U emulator, is now Open Source](https://github.com/cemu-project/Cemu)
 
-- [Brian Kernighan adds Unicode support to Awk](https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636)
+- [maskedemail-cli: CLI to create fastmail masked emails](https://github.com/dvcrn/maskedemail-cli)
 
-- [On Estimates](https://github.com/stebunovd/blog/blob/master/contents/On-Estimates.md)
+- [Computers and Intractability: A Guide to Algorithmic Lower Bounds](https://hardness.mit.edu/)
 
-- [Zig is now self-hosted by default](https://github.com/ziglang/zig/wiki/Self-Hosted-Compiler-Upgrade-Guide)
+- [Software 2.0: Model training is the new binary compilation](https://karpathy.medium.com/software-2-0-a64152b37c35)
 
-- [Zero-based indexing in the real world (2013)](https://lukeplant.me.uk/blog/posts/zero-based-indexing-in-the-real-world/)
+- [First Look: The Jakt Programming Language](https://keyholesoftware.com/2022/08/23/first-look-the-jakt-programming-language/)
 
-- [glibc and DT_GNU_HASH](https://maskray.me/blog/2022-08-21-glibc-and-dt-gnu-hash)
+- [The container orchestrator landscape](https://lwn.net/SubscriberLink/905164/8c13fabaff641359/)
 
-- [Jack Sparrow's Compass](https://mitxela.com/projects/jack_sparrow_compass)
+- [Online Z3 Guide](https://microsoft.github.io/z3guide/)
 
-- [The Pijul version control system](https://pijul.org/)
+- [What's the big deal about embedded key-value databases like RocksDB?](https://notes.eatonphil.com/whats-the-big-deal-about-key-value-databases.html)
 
-- [Butterick’s Practical Typography](https://practicaltypography.com/)
+- [Preparing for the wave of open source funding](https://sethmlarson.dev/blog/preparing-for-the-wave-of-open-source-funding)
 
-- [Hacking around with the ScotRail audio announcements](https://simonwillison.net/2022/Aug/21/scotrail/)
+- [My personal hell of translating DXIL to SPIR-V – finale](https://themaister.net/blog/2022/08/21/my-personal-hell-of-translating-dxil-to-spir-v-finale/)
 
-- [Cryptographic Agility and Superior Alternatives](https://soatok.blog/2022/08/20/cryptographic-agility-and-superior-alternatives/)
+- [Just-in-time code generation within webassembly](https://wingolog.org/archives/2022/08/18/just-in-time-code-generation-within-webassembly)
 
-- [The Myth of Mass Collaboration](https://staltz.com/the-myth-of-mass-collaboration.html)
+- [Windows '95 Australian launch (1995)](https://www.abc.net.au/news/2022-08-24/windows-95-release-(1995)/13978926)
 
-- [Executable shared ELF files](https://stoppels.ch/2022/08/20/executable-shared-libraries.html)
+- [Oil 0.12.4 - User Feedback](https://www.oilshell.org/blog/2022/08/release-0.12.4.html)
 
-- [Using jSoup To Extract JSON+LD Structured Data In ColdFusion 2021](https://www.bennadel.com/blog/4312-using-jsoup-to-extract-json-ld-structured-data-in-coldfusion-2021.htm)
+- [The Template Method Pattern and the Non-Virtual Idiom](https://www.sandordargo.com/blog/2022/08/24/tmp-and-nvi)
 
-- [Teaching Intro CS in a world with Copilot](https://www.sigarch.org/coping-with-copilot/)
-
-- [How I Learned to Stop Worrying and Love Macros](https://zdimension.fr/how-i-learned-to-stop-worrying-and-love-macros/)
+- [Polygon Shapes](https://yuanchuan.dev/polygon-shapes)
