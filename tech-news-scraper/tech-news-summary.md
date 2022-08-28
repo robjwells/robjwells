@@ -1,47 +1,47 @@
-- [How Firefox’s Total Cookie Protection and container extensions work together](https://blog.mozilla.org/en/products/firefox/how-firefoxs-total-cookie-protection-and-container-extensions-work-together/)
+- [Containers Redux - Capturing Type Class information for myriad types](http://mark.hammons.fr/blog/containers-redux-2022-08-26.gmi)
 
-- [SSH Tips and Tricks](https://carlosbecker.com/posts/ssh-tips-and-tricks/)
+- [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/)
 
-- [How to deal with money in software](https://cs-syd.eu/posts/2022-08-22-how-to-deal-with-money-in-software)
+- [Linux Kernel Exploit (CVE-2022-32250) with mqueue](https://blog.theori.io/research/CVE-2022-32250-linux-kernel-lpe-2022/)
 
-- [GitHub IPv6 proxy](https://danwin1210.de/github-ipv6-proxy.php)
+- [Volkswriter Deluxe - One of the first word processors for the IBM PC](https://computeradsfromthepast.substack.com/p/volkswriter-deluxe)
 
-- [How SQLite Scales Read Concurrency](https://fly.io/blog/sqlite-internals-wal/)
+- [All branches will diverge from the stem: from Elm to Derw](https://derw.substack.com/p/all-branches-will-diverge-from-the?sd=pf)
 
-- [FreeBSD Journal 2022/07-08 - Science/Systems/FreeBSD](https://freebsdfoundation.org/past-issues/science-systems-and-freebsd-2/)
+- [Implementing Multiplication](https://gist.github.com/reednj/faca61bca9f09f9e1e9462595be2e931)
 
-- [Use several git branches simultaneously](https://git-scm.com/docs/git-worktree#:~:text=A%20git%20repository%20can%20support,others%20in%20the%20same%20repository.)
+- [xmake v2.7.1 release](https://github.com/xmake-io/xmake/releases/tag/v2.7.1)
 
-- [SSH commit verification now supported](https://github.blog/changelog/2022-08-23-ssh-commit-verification-now-supported/)
+- [I Love My PinePhone](https://jakob.space/blog/i-love-my-pinephone.html)
 
-- [sq: a type-safe data mapper and query builder](https://github.com/bokwoon95/sq)
+- [Developer Experience Infrastructure](https://kenneth.io/post/developer-experience-infrastructure-dxi)
 
-- [Cemu, a Wii U emulator, is now Open Source](https://github.com/cemu-project/Cemu)
+- [DIY out of band management: remote console server](https://michael.stapelberg.ch/posts/2022-08-27-out-of-band-remote-console/)
 
-- [maskedemail-cli: CLI to create fastmail masked emails](https://github.com/dvcrn/maskedemail-cli)
+- [Interlisp Online](https://online.interlisp.org)
 
-- [Computers and Intractability: A Guide to Algorithmic Lower Bounds](https://hardness.mit.edu/)
+- [PLDB | Programming Languages Database](https://pldb.com/posts/index.html)
 
-- [Software 2.0: Model training is the new binary compilation](https://karpathy.medium.com/software-2-0-a64152b37c35)
+- [What is the “vector pessimization”?](https://quuxplusone.github.io/blog/2022/08/26/vector-pessimization/)
 
-- [First Look: The Jakt Programming Language](https://keyholesoftware.com/2022/08/23/first-look-the-jakt-programming-language/)
+- [The Power of Indented Heredocs: Markdown, Textile, and BBCode in one file with no escaping](https://scroll.pub/public/blog/indented-heredocs.html)
 
-- [The container orchestrator landscape](https://lwn.net/SubscriberLink/905164/8c13fabaff641359/)
+- [When there’s not enough room for sprintf…](https://subethasoftware.com/2022/08/26/when-theres-not-enough-room-for-sprintf/)
 
-- [Online Z3 Guide](https://microsoft.github.io/z3guide/)
+- [Thinking about dependencies](https://sunshowers.io/posts/dependencies/)
 
-- [What's the big deal about embedded key-value databases like RocksDB?](https://notes.eatonphil.com/whats-the-big-deal-about-key-value-databases.html)
+- [Stick to Tinkering](https://walid.dev/blog/stick-to-tinkering/)
 
-- [Preparing for the wave of open source funding](https://sethmlarson.dev/blog/preparing-for-the-wave-of-open-source-funding)
+- [LastPass developer systems hacked to steal source code](https://www.bleepingcomputer.com/news/security/lastpass-developer-systems-hacked-to-steal-source-code/)
 
-- [My personal hell of translating DXIL to SPIR-V – finale](https://themaister.net/blog/2022/08/21/my-personal-hell-of-translating-dxil-to-spir-v-finale/)
+- [3-lisp: An infinite tower of meta-circular interpreters](https://www.cofault.com/2022/08/3-lisp-infinite-tower-of-meta-circular.html?m=1)
 
-- [Just-in-time code generation within webassembly](https://wingolog.org/archives/2022/08/18/just-in-time-code-generation-within-webassembly)
+- [History of Zero-based Months?](https://www.jefftk.com/p/history-of-zero-based-months)
 
-- [Windows '95 Australian launch (1995)](https://www.abc.net.au/news/2022-08-24/windows-95-release-(1995)/13978926)
+- [Correlation between experience and efficacy of programmers [pdf]](https://www.se.cs.uni-saarland.de/publications/docs/PBR+22.pdf)
 
-- [Oil 0.12.4 - User Feedback](https://www.oilshell.org/blog/2022/08/release-0.12.4.html)
+- [Ransomware Actor Abuses Genshin Impact Anti-Cheat Driver to Kill Antivirus](https://www.trendmicro.com/en_us/research/22/h/ransomware-actor-abuses-genshin-impact-anti-cheat-driver-to-kill-antivirus.html)
 
-- [The Template Method Pattern and the Non-Virtual Idiom](https://www.sandordargo.com/blog/2022/08/24/tmp-and-nvi)
+- [Embedded Logging Case Study: From C to Shining C++](https://www.youtube.com/watch?v=Dt0vx-7e_B0)
 
-- [Polygon Shapes](https://yuanchuan.dev/polygon-shapes)
+- [TTC Reds Titration [Scattershot] [SM64]](https://youtu.be/9WWWfCJF2wY)
