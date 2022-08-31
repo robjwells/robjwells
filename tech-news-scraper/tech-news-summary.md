@@ -1,47 +1,49 @@
-- [Containers Redux - Capturing Type Class information for myriad types](http://mark.hammons.fr/blog/containers-redux-2022-08-26.gmi)
+- [All Figures in Evidence-based Software Engineering](http://www.knosof.co.uk/ESEUR/figures/index.html)
 
-- [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/)
+- [4.2 Gigabytes, or: How to Draw Anything](https://andys.page/posts/how-to-draw/)
 
-- [Linux Kernel Exploit (CVE-2022-32250) with mqueue](https://blog.theori.io/research/CVE-2022-32250-linux-kernel-lpe-2022/)
+- [Dear Linux, Privileged Ports Must Die](https://ar.al/2022/08/30/dear-linux-privileged-ports-must-die/)
 
-- [Volkswriter Deluxe - One of the first word processors for the IBM PC](https://computeradsfromthepast.substack.com/p/volkswriter-deluxe)
+- [OCaml at First Glance](https://batsov.com/articles/2022/08/29/ocaml-at-first-glance/)
 
-- [All branches will diverge from the stem: from Elm to Derw](https://derw.substack.com/p/all-branches-will-diverge-from-the?sd=pf)
+- [Tracker Beeper](https://berthub.eu/articles/posts/tracker-beeper/)
 
-- [Implementing Multiplication](https://gist.github.com/reednj/faca61bca9f09f9e1e9462595be2e931)
+- [Have I been pwned? – DIY style](https://blog.mro.name/2022/08/pwned-diy/)
 
-- [xmake v2.7.1 release](https://github.com/xmake-io/xmake/releases/tag/v2.7.1)
+- [Stateless Forms with the Rails Attributes API](https://blog.testdouble.com/posts/2022-08-30-stateless-forms-with-the-rails-attributes-api/)
 
-- [I Love My PinePhone](https://jakob.space/blog/i-love-my-pinephone.html)
+- [How the public domain can win](https://breckyunits.com/how-the-public-domain-can-win.html)
 
-- [Developer Experience Infrastructure](https://kenneth.io/post/developer-experience-infrastructure-dxi)
+- [Making Smalltalk](https://computerhistory.org/events/making-smalltalk/)
 
-- [DIY out of band management: remote console server](https://michael.stapelberg.ch/posts/2022-08-27-out-of-band-remote-console/)
+- [The AArch64 processor (aka arm64), part 25: The ARM64EC ABI](https://devblogs.microsoft.com/oldnewthing/20220830-00/?p=107069)
 
-- [Interlisp Online](https://online.interlisp.org)
+- [Packed structs in Zig make bit/flag sets trivial](https://devlog.hexops.com/2022/packed-structs-in-zig/)
 
-- [PLDB | Programming Languages Database](https://pldb.com/posts/index.html)
+- [IHP v0.20 has been released](https://github.com/digitallyinduced/ihp/releases/tag/v0.20.0)
 
-- [What is the “vector pessimization”?](https://quuxplusone.github.io/blog/2022/08/26/vector-pessimization/)
+- [Supporting four operating systems in a 400 byte ELF executable](https://justine.lol/sizetricks/#elf)
 
-- [The Power of Indented Heredocs: Markdown, Textile, and BBCode in one file with no escaping](https://scroll.pub/public/blog/indented-heredocs.html)
+- [On ELF, Part 1](https://kestrelcomputer.github.io/kestrel/2018/01/29/on-elf)
 
-- [When there’s not enough room for sprintf…](https://subethasoftware.com/2022/08/26/when-theres-not-enough-room-for-sprintf/)
+- [command line tools and parameters to losslessly shrink different kind of image formats](https://news.ycombinator.com/item?id=32658123)
 
-- [Thinking about dependencies](https://sunshowers.io/posts/dependencies/)
+- [restic 0.14.0: deduplicating encrypted backup tool now supports compression via Zstandard](https://restic.net/blog/2022-08-25/restic-0.14.0-released/)
 
-- [Stick to Tinkering](https://walid.dev/blog/stick-to-tinkering/)
+- [SpiderMonkey Changelog (Firefox 104-105)](https://spidermonkey.dev/blog/2022/08/29/newsletter-firefox-104-105.html)
 
-- [LastPass developer systems hacked to steal source code](https://www.bleepingcomputer.com/news/security/lastpass-developer-systems-hacked-to-steal-source-code/)
+- [Acorn, a Lightweight, Portable PaaS for Kubernetes](https://thenewstack.io/acorn-a-lightweight-portable-paas-for-kubernetes/)
 
-- [3-lisp: An infinite tower of meta-circular interpreters](https://www.cofault.com/2022/08/3-lisp-infinite-tower-of-meta-circular.html?m=1)
+- [The Box: A Replacement for Files (1999)](https://web.archive.org/web/20100408210331/http://plan9.escet.urjc.es/who/nemo/export/2kblocks/2kblocks.html)
 
-- [History of Zero-based Months?](https://www.jefftk.com/p/history-of-zero-based-months)
+- [Stop calling everything "Nix"](https://www.haskellforall.com/2022/08/stop-calling-everything-nix.html)
 
-- [Correlation between experience and efficacy of programmers [pdf]](https://www.se.cs.uni-saarland.de/publications/docs/PBR+22.pdf)
+- [Understanding useMemo and useCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/)
 
-- [Ransomware Actor Abuses Genshin Impact Anti-Cheat Driver to Kill Antivirus](https://www.trendmicro.com/en_us/research/22/h/ransomware-actor-abuses-genshin-impact-anti-cheat-driver-to-kill-antivirus.html)
+- [REPL Driven Minecraft](https://www.juxt.pro/blog/repl-driven-minecraft)
 
-- [Embedded Logging Case Study: From C to Shining C++](https://www.youtube.com/watch?v=Dt0vx-7e_B0)
+- [Demystifying Emacs's Window Manager](https://www.masteringemacs.org/article/demystifying-emacs-window-manager)
 
-- [TTC Reds Titration [Scattershot] [SM64]](https://youtu.be/9WWWfCJF2wY)
+- [The Sender Policy Framework (SPF)](https://www.netmeister.org/blog/spf.html)
+
+- [Magic tricks with the HTML parser | HTTP 203](https://www.youtube.com/watch?v=LLRig4s1_yA)
