@@ -1,49 +1,49 @@
-- [All Figures in Evidence-based Software Engineering](http://www.knosof.co.uk/ESEUR/figures/index.html)
+- [Improving the Kernel TTY throughput](http://walac.github.io/kernel-tty/)
+
+- [Interview: Fuchsia’s past, present, and future, as told by ex-director Chris McKillop](https://9to5google.com/2022/08/30/fuchsia-director-interview-chris-mckillop/)
 
 - [4.2 Gigabytes, or: How to Draw Anything](https://andys.page/posts/how-to-draw/)
 
 - [Dear Linux, Privileged Ports Must Die](https://ar.al/2022/08/30/dear-linux-privileged-ports-must-die/)
 
-- [OCaml at First Glance](https://batsov.com/articles/2022/08/29/ocaml-at-first-glance/)
+- [Cram; a new dotfile manager](https://arrdem.com/2022/08/31/dotfiles/)
 
-- [Tracker Beeper](https://berthub.eu/articles/posts/tracker-beeper/)
+- [Falsehoods programmers believe about email](https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email)
 
-- [Have I been pwned? – DIY style](https://blog.mro.name/2022/08/pwned-diy/)
+- [Domain-Driven Test Data Generation: A Category-Partition Method and Property-Based Testing Mashup](https://concerningquality.com/category-partition-properties/)
 
-- [Stateless Forms with the Rails Attributes API](https://blog.testdouble.com/posts/2022-08-30-stateless-forms-with-the-rails-attributes-api/)
+- [I'm leaving Github (ruby oauth maintainer)](https://dev.to/galtzo/im-leaving-github-50ba)
 
-- [How the public domain can win](https://breckyunits.com/how-the-public-domain-can-win.html)
+- [NAT-Again: IRC NAT helper flaws](https://dgl.cx/2022/08/nat-again-irc-cve-2022-2663)
 
-- [Making Smalltalk](https://computerhistory.org/events/making-smalltalk/)
+- [Boa Javascript Engine](https://github.com/boa-dev/boa)
 
-- [The AArch64 processor (aka arm64), part 25: The ARM64EC ABI](https://devblogs.microsoft.com/oldnewthing/20220830-00/?p=107069)
+- [Ruff - An extremely fast Python linter, written in Rust](https://github.com/charliermarsh/ruff)
 
-- [Packed structs in Zig make bit/flag sets trivial](https://devlog.hexops.com/2022/packed-structs-in-zig/)
+- [q: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH](https://github.com/natesales/q)
 
-- [IHP v0.20 has been released](https://github.com/digitallyinduced/ihp/releases/tag/v0.20.0)
+- [Some ways to get better at debugging](https://jvns.ca/blog/2022/08/30/a-way-to-categorize-debugging-skills/)
 
-- [Supporting four operating systems in a 400 byte ELF executable](https://justine.lol/sizetricks/#elf)
+- [You Should Be Using Python's Walrus Operator](https://martinheinz.dev/blog/79)
 
-- [On ELF, Part 1](https://kestrelcomputer.github.io/kestrel/2018/01/29/on-elf)
+- [Data Structure Sketches](https://okso.app/showcase/data-structures)
 
-- [command line tools and parameters to losslessly shrink different kind of image formats](https://news.ycombinator.com/item?id=32658123)
+- [RFC: New PLDB homepage](https://pldb.com/index.html)
 
-- [restic 0.14.0: deduplicating encrypted backup tool now supports compression via Zstandard](https://restic.net/blog/2022-08-25/restic-0.14.0-released/)
+- [Writing FreeBSD Kernel Modules in Rust](https://research.nccgroup.com/2022/08/31/writing-freebsd-kernel-modules-in-rust/)
 
-- [SpiderMonkey Changelog (Firefox 104-105)](https://spidermonkey.dev/blog/2022/08/29/newsletter-firefox-104-105.html)
+- [Time Till Open Source Alternative](https://staltz.com/time-till-open-source-alternative.html)
 
-- [Acorn, a Lightweight, Portable PaaS for Kubernetes](https://thenewstack.io/acorn-a-lightweight-portable-paas-for-kubernetes/)
+- [Traditional Packaging is not Suitable for Modern Applications](https://theevilskeleton.gitlab.io/2022/08/29/traditional-packaging-is-not-suitable-for-modern-applications.html)
 
-- [The Box: A Replacement for Files (1999)](https://web.archive.org/web/20100408210331/http://plan9.escet.urjc.es/who/nemo/export/2kblocks/2kblocks.html)
+- [A Week of Bug Reporting](https://tratt.net/laurie/blog/2022/a_week_of_bug_reporting.html)
 
-- [Stop calling everything "Nix"](https://www.haskellforall.com/2022/08/stop-calling-everything-nix.html)
+- [inline – not what it used to be](https://vorbrodt.blog/2022/08/31/inline-not-what-it-used-to-be/)
 
-- [Understanding useMemo and useCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/)
+- [malloc() and free() are a bad API](https://www.foonathan.net/2022/08/malloc-interface/)
 
-- [REPL Driven Minecraft](https://www.juxt.pro/blog/repl-driven-minecraft)
+- [The Forth Language and Language Design](https://www.forth2020.org/about-forth)
 
-- [Demystifying Emacs's Window Manager](https://www.masteringemacs.org/article/demystifying-emacs-window-manager)
+- [Farmbound, or how I built an app in 2022](https://www.kryogenix.org/days/2022/08/31/farmbound-or-how-i-built-an-app-in-2022/)
 
-- [The Sender Policy Framework (SPF)](https://www.netmeister.org/blog/spf.html)
-
-- [Magic tricks with the HTML parser | HTTP 203](https://www.youtube.com/watch?v=LLRig4s1_yA)
+- [An app can be a home-cooked meal (2020)](https://www.robinsloan.com/notes/home-cooked-app/)
