@@ -1,49 +1,49 @@
-- [Improving the Kernel TTY throughput](http://walac.github.io/kernel-tty/)
+- [Impossibility and Uncertainty Theorems in AI Value Alignment (against utility functions)](https://arxiv.org/pdf/1901.00064.pdf)
 
-- [Interview: Fuchsia’s past, present, and future, as told by ex-director Chris McKillop](https://9to5google.com/2022/08/30/fuchsia-director-interview-chris-mckillop/)
+- [Memory Tagging: A Memory Efficient Design](https://arxiv.org/pdf/2209.00307.pdf)
 
-- [4.2 Gigabytes, or: How to Draw Anything](https://andys.page/posts/how-to-draw/)
+- [Blocking Kiwifarms](https://blog.cloudflare.com/kiwifarms-blocked/)
 
-- [Dear Linux, Privileged Ports Must Die](https://ar.al/2022/08/30/dear-linux-privileged-ports-must-die/)
+- [Dev Diary: What it took to bring Wi-Fi support to Original Prusa MINI+](https://blog.prusa3d.com/dev-diary-what-it-took-to-bring-wi-fi-support-to-original-prusa-mini_70615/)
 
-- [Cram; a new dotfile manager](https://arrdem.com/2022/08/31/dotfiles/)
+- [Arti 1.0.0 is released: Our Rust Tor implementation is ready for production use](https://blog.torproject.org/arti_100_released/)
 
-- [Falsehoods programmers believe about email](https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email)
+- [Oberon, Plan 9 and Inferno](https://blog.tsr-podcast.com/index.php/2021/05/13/episode-76-oberon-plan-9-inferno/)
 
-- [Domain-Driven Test Data Generation: A Category-Partition Method and Property-Based Testing Mashup](https://concerningquality.com/category-partition-properties/)
+- [Discontinuing Bibliogram (alternative front-end for Instagram)](https://cadence.moe/blog/2022-09-01-discontinuing-bibliogram)
 
-- [I'm leaving Github (ruby oauth maintainer)](https://dev.to/galtzo/im-leaving-github-50ba)
+- [Tesla’s Dojo Microarchitecture](https://chipsandcheese.com/2022/09/01/hot-chips-34-teslas-dojo-microarchitecture/)
 
-- [NAT-Again: IRC NAT helper flaws](https://dgl.cx/2022/08/nat-again-irc-cve-2022-2663)
+- [The Forty-Year Programmer](https://codefol.io/posts/the-forty-year-programmer/)
 
-- [Boa Javascript Engine](https://github.com/boa-dev/boa)
+- [Peter Eckersley has passed away](https://community.letsencrypt.org/t/peter-eckersley-may-his-memory-be-a-blessing/183854)
 
-- [Ruff - An extremely fast Python linter, written in Rust](https://github.com/charliermarsh/ruff)
+- [From Prison To Programming](https://corecursive.com/prison-programming-with-rick-wolter/)
 
-- [q: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH](https://github.com/natesales/q)
+- [Fix annoying max open files for Emacs](https://en.liujiacai.net/2022/09/03/emacs-maxopenfiles/)
 
-- [Some ways to get better at debugging](https://jvns.ca/blog/2022/08/30/a-way-to-categorize-debugging-skills/)
+- [Ubuntu bungled the Firefox Snap package transition](https://evertpot.com/firefox-ubuntu-snap/)
 
-- [You Should Be Using Python's Walrus Operator](https://martinheinz.dev/blog/79)
+- [LiveView Native SwiftUI - library for using Phoenix LiveView on iOS devices](https://github.com/liveviewnative/liveview-client-swiftui)
 
-- [Data Structure Sketches](https://okso.app/showcase/data-structures)
+- [Optimizing Clang : A Practical Example of Applying BOLT](https://github.com/llvm/llvm-project/blob/main/bolt/docs/OptimizingClang.md)
 
-- [RFC: New PLDB homepage](https://pldb.com/index.html)
+- [High speed Unicode routines using SIMD](https://github.com/simdutf/simdutf)
 
-- [Writing FreeBSD Kernel Modules in Rust](https://research.nccgroup.com/2022/08/31/writing-freebsd-kernel-modules-in-rust/)
+- [Infrastructure as software](https://justingarrison.com/blog/2022-06-01-infrastructure-as-software/)
 
-- [Time Till Open Source Alternative](https://staltz.com/time-till-open-source-alternative.html)
+- [Reviving the Language that Brought us the Jak & Daxter Series](https://opengoal.dev/)
 
-- [Traditional Packaging is not Suitable for Modern Applications](https://theevilskeleton.gitlab.io/2022/08/29/traditional-packaging-is-not-suitable-for-modern-applications.html)
+- [Announcing Poetry 1.2.0](https://python-poetry.org/blog/announcing-poetry-1.2.0/)
 
-- [A Week of Bug Reporting](https://tratt.net/laurie/blog/2022/a_week_of_bug_reporting.html)
+- [Hexagon conversions](https://simblob.blogspot.com/2022/09/hexagon-conversions.html)
 
-- [inline – not what it used to be](https://vorbrodt.blog/2022/08/31/inline-not-what-it-used-to-be/)
+- [Downgrading binary packages with pkg on FreeBSD](https://sporks.space/2022/09/03/downgrading-binary-packages-with-pkg-on-freebsd/)
 
-- [malloc() and free() are a bad API](https://www.foonathan.net/2022/08/malloc-interface/)
+- [Building Secure and Reliable Systems](https://sre.google/books/building-secure-reliable-systems/)
 
-- [The Forth Language and Language Design](https://www.forth2020.org/about-forth)
+- [A primer on Roaring bitmaps: what they are and how they work](https://vikramoberoi.com/a-primer-on-roaring-bitmaps-what-they-are-and-how-they-work/)
 
-- [Farmbound, or how I built an app in 2022](https://www.kryogenix.org/days/2022/08/31/farmbound-or-how-i-built-an-app-in-2022/)
+- [Weird ways to multiply really fast with Karatsuba, Toom–Cook and Fourier](https://www.entropy1729.com/divide-and-conquer-fourier/)
 
-- [An app can be a home-cooked meal (2020)](https://www.robinsloan.com/notes/home-cooked-app/)
+- [maTeXt](https://xigoi.srht.site/matext/)
