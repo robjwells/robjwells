@@ -1,49 +1,49 @@
-- [Impossibility and Uncertainty Theorems in AI Value Alignment (against utility functions)](https://arxiv.org/pdf/1901.00064.pdf)
+- [Wasmtime 1.0: A Look at Performance](https://bytecodealliance.org/articles/wasmtime-10-performance)
 
-- [Memory Tagging: A Memory Efficient Design](https://arxiv.org/pdf/2209.00307.pdf)
+- [A Sequel to SQL? An introduction to Malloy](https://carlineng.com/?postid=malloy-intro#blog)
 
-- [Blocking Kiwifarms](https://blog.cloudflare.com/kiwifarms-blocked/)
+- [NIST issues new call for Post-Quantum Cryptography Digital Signature Schemes](https://csrc.nist.gov/projects/pqc-dig-sig/standardization/call-for-proposals)
 
-- [Dev Diary: What it took to bring Wi-Fi support to Original Prusa MINI+](https://blog.prusa3d.com/dev-diary-what-it-took-to-bring-wi-fi-support-to-original-prusa-mini_70615/)
+- [Introducing Riff: automatically provide external dependencies for Rust projects](https://determinate.systems/posts/introducing-riff)
 
-- [Arti 1.0.0 is released: Our Rust Tor implementation is ready for production use](https://blog.torproject.org/arti_100_released/)
+- [LLVM 15.0.0 Release](https://discourse.llvm.org/t/llvm-15-0-0-release/65099)
 
-- [Oberon, Plan 9 and Inferno](https://blog.tsr-podcast.com/index.php/2021/05/13/episode-76-oberon-plan-9-inferno/)
+- [Sudoku, Go and WebAssembly](https://eli.thegreenplace.net/2022/sudoku-go-and-webassembly/)
 
-- [Discontinuing Bibliogram (alternative front-end for Instagram)](https://cadence.moe/blog/2022-09-01-discontinuing-bibliogram)
+- [Monocraft: A programming font based on the typeface used in Minecraft](https://github.com/IdreesInc/Monocraft)
 
-- [Tesla’s Dojo Microarchitecture](https://chipsandcheese.com/2022/09/01/hot-chips-34-teslas-dojo-microarchitecture/)
+- [A library for testing different thread interleavings of concurrent Rust code](https://github.com/awslabs/shuttle)
 
-- [The Forty-Year Programmer](https://codefol.io/posts/the-forty-year-programmer/)
+- [Vulnerability Management for Go](https://go.dev/blog/vuln)
 
-- [Peter Eckersley has passed away](https://community.letsencrypt.org/t/peter-eckersley-may-his-memory-be-a-blessing/183854)
+- [Cheating at chess with a computer for my shoes](https://incoherency.co.uk/blog/stories/sockfish.html)
 
-- [From Prison To Programming](https://corecursive.com/prison-programming-with-rick-wolter/)
+- [How to send raw network packets in Python with tun/tap](https://jvns.ca/blog/2022/09/06/send-network-packets-python-tun-tap/)
 
-- [Fix annoying max open files for Emacs](https://en.liujiacai.net/2022/09/03/emacs-maxopenfiles/)
+- [Game Emulation via Neural Network](https://madebyoll.in/posts/game_emulation_via_dnn/)
 
-- [Ubuntu bungled the Firefox Snap package transition](https://evertpot.com/firefox-ubuntu-snap/)
+- [Someone’s Been Messing With My Subnormals](https://moyix.blogspot.com/2022/09/someones-been-messing-with-my-subnormals.html)
 
-- [LiveView Native SwiftUI - library for using Phoenix LiveView on iOS devices](https://github.com/liveviewnative/liveview-client-swiftui)
+- [What’s the smallest variety of CHERI?](https://msrc-blog.microsoft.com/2022/09/06/whats-the-smallest-variety-of-cheri/)
 
-- [Optimizing Clang : A Practical Example of Applying BOLT](https://github.com/llvm/llvm-project/blob/main/bolt/docs/OptimizingClang.md)
+- [Static site hosting hurdles](https://notes.volution.ro/v1/2022/09/notes/b08118d8/)
 
-- [High speed Unicode routines using SIMD](https://github.com/simdutf/simdutf)
+- [Proebsting's Law](https://proebsting.cs.arizona.edu/law.html)
 
-- [Infrastructure as software](https://justingarrison.com/blog/2022-06-01-infrastructure-as-software/)
+- [Full Disclosure: 123ADV-001: Stack Buffer Overflow in Lotus 1-2-3 R3 for UNIX/Linux](https://seclists.org/fulldisclosure/2022/Sep/1)
 
-- [Reviving the Language that Brought us the Jak & Daxter Series](https://opengoal.dev/)
+- [My barcode debugging story](https://twitter.com/benji_york/status/1566421109255315458)
 
-- [Announcing Poetry 1.2.0](https://python-poetry.org/blog/announcing-poetry-1.2.0/)
+- [A Catalogue of Optimizing Transformations [1971]](https://www.clear.rice.edu/comp512/Lectures/Papers/1971-allen-catalog.pdf)
 
-- [Hexagon conversions](https://simblob.blogspot.com/2022/09/hexagon-conversions.html)
+- [Great Works in Computer Science](https://www.cs.virginia.edu/~evans/greatworks/)
 
-- [Downgrading binary packages with pkg on FreeBSD](https://sporks.space/2022/09/03/downgrading-binary-packages-with-pkg-on-freebsd/)
+- [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
 
-- [Building Secure and Reliable Systems](https://sre.google/books/building-secure-reliable-systems/)
+- [Safety and Liveness Properties](https://www.hillelwayne.com/post/safety-and-liveness/)
 
-- [A primer on Roaring bitmaps: what they are and how they work](https://vikramoberoi.com/a-primer-on-roaring-bitmaps-what-they-are-and-how-they-work/)
+- [Difftastic, the Fantastic Diff](https://www.wilfred.me.uk/blog/2022/09/06/difftastic-the-fantastic-diff/)
 
-- [Weird ways to multiply really fast with Karatsuba, Toom–Cook and Fourier](https://www.entropy1729.com/divide-and-conquer-fourier/)
+- [Bare Metal Programming - Booting From the Switches](https://www.youtube.com/watch?v=DM4rZZBqXVM)
 
-- [maTeXt](https://xigoi.srht.site/matext/)
+- [The Sheer Terror of PAM](https://xeiaso.net/talks/rustconf-2022-sheer-terror-pam)
