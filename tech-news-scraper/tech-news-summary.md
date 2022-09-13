@@ -1,47 +1,45 @@
-- [The Middle of the Square](http://bit-player.org/2022/the-middle-of-the-square)
+- [The Error Model [2016]](http://joeduffyblog.com/2016/02/07/the-error-model/)
 
-- [Graydon Hoare: 21 compilers and 3 orders of magnitude in 60 minutes](http://lambda-the-ultimate.org/node/5648)
+- [The reports of UML's death are greatly exaggerated](https://andydote.co.uk/2022/09/11/uml-isnt-dead/)
 
-- [Python Type Hints are Turing Complete](https://arxiv.org/abs/2208.14755)
+- [Ladybird: A new cross-platform browser project](https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/)
 
-- [TIL: You Can Access A User's Camera with Just HTML](https://austingil.com/html-capture-attribute/)
+- [The Case of the Slow Websites](https://computer-mysteries.netlify.app/slow-website.html)
 
-- [How to (Kinda) Download More RAM](https://blog.horner.tj/how-to-kinda-download-more-ram/)
+- [Why do web-services tend to use preshared secret keys for client authentication instead of public keys?](https://crypto.stackexchange.com/q/101827)
 
-- [Fix your Clojure code: Clojure comes with design patterns (Part 2)](https://blog.janetacarr.com/fix-your-clojure-code-clojure-comes-with-design-patterns-part-2/)
+- [Integrating C++ header units into Office using MSVC (1/n)](https://devblogs.microsoft.com/cppblog/integrating-c-header-units-into-office-using-msvc-1-n/)
 
-- [Decompiling Java, Excel and the Vista TCP/IP stack](https://boyter.org/posts/decompiling-java-excel-and-the-vista-tcpip-stack/)
+- [Report on Secure Compilation Research](https://drops.dagstuhl.de/opus/volltexte/2022/15933/pdf/dagrep_v011_i010_p173_21481.pdf)
 
-- [Stratified Synthesis: Automatically Learning the x86-64 Instruction Set (2016)](https://cs.stanford.edu/people/eschkufz/docs/pldi_16.pdf)
+- [A personal list of Rust grievances](https://gist.github.com/brendanzab/d41c3ae485d66c07178749eaeeb9e5f7)
 
-- [http://http://http://@http://http://?http://#http://](https://daniel.haxx.se/blog/2022/09/08/http-http-http-http-http-http-http/)
+- [meli - a text user interface e-mail client in the terminal, in the spirit of mutt](https://git.meli.delivery/meli/meli#meli-github-license-https-img-shields-io-github-license-meli-meli-https-github-com-meli-meli-blob-master-copying-crates-io-https-img-shields-io-crates-v-meli-https-crates-io-crates-meli)
 
-- [Accelerate Python code 100x by import taichi as ti](https://docs.taichi-lang.org/blog/accelerate-python-code-100x)
+- [Bauble: a playground for making art with lisp and math](https://github.com/ianthehenry/bauble)
 
-- [Valence: A Rust framework for building Minecraft servers](https://github.com/valence-rs/valence)
+- [Instant, easy, predictable shells and containers](https://github.com/jetpack-io/devbox)
 
-- [Quality Is Systemic](https://jacobian.org/2022/sep/9/quality-is-systemic/)
+- [banzai: a pure Rust bzip2 encoder](https://github.com/jgbyrne/banzai)
 
-- [The self-fulfilling prophecy of React](https://joshcollinsworth.com/blog/self-fulfilling-prophecy-of-react)
+- [How to Learn Modern Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust)
 
-- [A fresh look at FreeBSD](https://liam-on-linux.dreamwidth.org/86277.html)
+- [Odin programming language review](https://graphitemaster.github.io/odin_review/)
 
-- [Lightning CSS: Parse, transform, bundle, and minify CSS](https://lightningcss.dev/)
+- [Inko 0.10.0: build concurrent software with confidence](https://inko-lang.org/news/inko-0-10-0-released/)
 
-- [A retro style online SSH client to play Nethack](https://nethack.glitch.me/?retro=true)
+- [Software Engineering Research Questions](https://neverworkintheory.org/2022/08/30/software-engineering-research-questions.html)
 
-- [Introducing `cxx-async`](https://pcwalton.github.io/_posts/2022-08-19-introducing-cxx-async.html)
+- [Prompt injection attacks against GPT-3](https://simonwillison.net/2022/Sep/12/prompt-injection/)
 
-- [PRQL: Pipelined Relational Query Language](https://prql-lang.org/)
+- [Commit Under Test](https://sluongng.hashnode.dev/bazel-in-ci-part-1-commit-under-test)
 
-- [Parallel curves of cubic Béziers](https://raphlinus.github.io/curves/2022/09/09/parallel-beziers.html)
+- [TAG: Tagged Architecture Guide](https://web.archive.org/web/20220512014406id_/https://dl.acm.org/doi/pdf/10.1145/3533704)
 
-- [Speeding up incremental Rust compilation with dylibs](https://robert.kra.hn/posts/2022-09-09-speeding-up-incremental-rust-compilation-with-dylibs/)
+- [Wirth Language Evolution](https://wiki.alopex.li/WirthEvolution)
 
-- [This is not your grandfather's Perl](https://stackoverflow.blog/2022/09/08/this-is-not-your-grandfathers-perl/)
+- [Distributed Postgres goes full open source with Citus](https://www.citusdata.com/blog/2022/09/12/distributed-postgres-goes-full-open-source-with-citus/)
 
-- [What's wrong with Perl (2002)](https://www.garshol.priv.no/download/text/perl.html)
+- [Text-to-image for my inbox](https://www.kmjn.org/notes/txt2img_email_visualization.html)
 
-- [Reverse Engineering Alembic](https://www.gingerbill.org/article/2022/07/11/reverse-engineering-alembic/)
-
-- [Haiku Activity & Contract Report, August 2022](https://www.haiku-os.org/blog/waddlesplash/2022-09-09_haiku_activity_contract_report_august_2022/)
+- [My Blog is Hilariously Overengineered to the Point People Think it's a Static Site](https://xeiaso.net/talks/how-my-website-works)
