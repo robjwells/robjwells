@@ -1,45 +1,49 @@
-- [The Error Model [2016]](http://joeduffyblog.com/2016/02/07/the-error-model/)
+- [PaLI: Scaling Language-Image Learning in 100+ Languages](https://ai.googleblog.com/2022/09/pali-scaling-language-image-learning-in.html)
 
-- [The reports of UML's death are greatly exaggerated](https://andydote.co.uk/2022/09/11/uml-isnt-dead/)
+- [How we built Pingora, the proxy that connects Cloudflare to the Internet](https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/)
 
-- [Ladybird: A new cross-platform browser project](https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/)
+- [Easy JSON in Haskell](https://blog.drewolson.org/easy-json)
 
-- [The Case of the Slow Websites](https://computer-mysteries.netlify.app/slow-website.html)
+- [That annoying shade of blue (2018)](https://bsago.me/posts/that-annoying-shade-of-blue)
 
-- [Why do web-services tend to use preshared secret keys for client authentication instead of public keys?](https://crypto.stackexchange.com/q/101827)
+- [More Details on `details`](https://css-tricks.com/more-details-on-details/)
 
-- [Integrating C++ header units into Office using MSVC (1/n)](https://devblogs.microsoft.com/cppblog/integrating-c-header-units-into-office-using-msvc-1-n/)
+- [The Follower uses open cameras and AI to find how an Instagram photo is taken](https://driesdepoorter.be/thefollower/)
 
-- [Report on Secure Compilation Research](https://drops.dagstuhl.de/opus/volltexte/2022/15933/pdf/dagrep_v011_i010_p173_21481.pdf)
+- [F4PGA: a fully open source toolchain for the development of FPGAs of multiple vendors](https://f4pga.org/)
 
-- [A personal list of Rust grievances](https://gist.github.com/brendanzab/d41c3ae485d66c07178749eaeeb9e5f7)
+- [Extending Go backward compatibility](https://github.com/golang/go/discussions/55090)
 
-- [meli - a text user interface e-mail client in the terminal, in the spirit of mutt](https://git.meli.delivery/meli/meli#meli-github-license-https-img-shields-io-github-license-meli-meli-https-github-com-meli-meli-blob-master-copying-crates-io-https-img-shields-io-crates-v-meli-https-crates-io-crates-meli)
+- [Outpainting with Stable Diffusion on an infinite canvas](https://github.com/lkwq007/stablediffusion-infinity)
 
-- [Bauble: a playground for making art with lisp and math](https://github.com/ianthehenry/bauble)
+- [tup: a file-based build system](https://gittup.org/tup/)
 
-- [Instant, easy, predictable shells and containers](https://github.com/jetpack-io/devbox)
+- [The next big step: Godot 4.0 reaches Beta](https://godotengine.org/article/dev-snapshot-godot-4-0-beta-1)
 
-- [banzai: a pure Rust bzip2 encoder](https://github.com/jgbyrne/banzai)
+- [Graphite: Redefining state-of-the-art graphics editing](https://graphite.rs/)
 
-- [How to Learn Modern Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust)
+- [Why VPNs are Wrong for Privacy and MPRs are Right](https://invisv.com/articles/relay.html)
 
-- [Odin programming language review](https://graphitemaster.github.io/odin_review/)
+- [Building Complex Types in TypeScript](https://medium.hexlabs.io/building-complex-types-in-typescript-bfdf5e131dbe)
 
-- [Inko 0.10.0: build concurrent software with confidence](https://inko-lang.org/news/inko-0-10-0-released/)
+- [Confirmed! the MOS 7600/7601 Pong chip is a true microcontroller](https://oldvcr.blogspot.com/2022/09/confirmed-mos-76007601-pong-chip-is.html)
 
-- [Software Engineering Research Questions](https://neverworkintheory.org/2022/08/30/software-engineering-research-questions.html)
+- [Multi-threading and globals in Pumpkin OS](https://pmig96.wordpress.com/2022/09/15/multi-threading-and-globals/)
 
-- [Prompt injection attacks against GPT-3](https://simonwillison.net/2022/Sep/12/prompt-injection/)
+- [The Golden Age of PL Research](https://semantic-domain.blogspot.com/2022/09/the-golden-age-of-pl-research.html?m=1)
 
-- [Commit Under Test](https://sluongng.hashnode.dev/bazel-in-ci-part-1-commit-under-test)
+- [Slint released version 0.3 -- A GUI toolkit written in Rust](https://slint-ui.com/blog/slint-0.3-released-with-platform-api-for-mcu.html)
 
-- [TAG: Tagged Architecture Guide](https://web.archive.org/web/20220512014406id_/https://dl.acm.org/doi/pdf/10.1145/3533704)
+- [The case of the spiky file descriptors](https://tailscale.com/blog/case-of-spiky-file-descriptors/)
 
-- [Wirth Language Evolution](https://wiki.alopex.li/WirthEvolution)
+- [A taxonomy of hosting options, for personal data security](https://thomask.sdf.org/blog/2022/09/15/a-taxonomy-of-hosting-options.html)
 
-- [Distributed Postgres goes full open source with Citus](https://www.citusdata.com/blog/2022/09/12/distributed-postgres-goes-full-open-source-with-citus/)
+- [Ever wondered how a QR code works?](https://typefully.com/DanHollick/qr-codes-T7tLlNi)
 
-- [Text-to-image for my inbox](https://www.kmjn.org/notes/txt2img_email_visualization.html)
+- [Can We Please Move Past Git? (2021)](https://www.boringcactus.com/2021/02/22/can-we-please-move-past-git.html)
 
-- [My Blog is Hilariously Overengineered to the Point People Think it's a Static Site](https://xeiaso.net/talks/how-my-website-works)
+- [Bringing Up TLS on Precursor](https://www.crowdsupply.com/sutajio-kosagi/precursor/updates/bringing-up-tls-on-precursor)
+
+- [Think Prometheus, but for logs (not metrics). Simple, efficient log store](https://www.parseable.io/docs/introduction)
+
+- [ANN: Rust: match_deref. I made a proc-macro lib for long-awaited deref patterns](https://www.reddit.com/r/rust/comments/waqyc1/ann_match_deref_i_made_a_procmacro_lib_for/)
