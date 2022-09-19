@@ -1,49 +1,49 @@
-- [PaLI: Scaling Language-Image Learning in 100+ Languages](https://ai.googleblog.com/2022/09/pali-scaling-language-image-learning-in.html)
+- [Ada Programming Language](https://ada-lang.io/)
 
-- [How we built Pingora, the proxy that connects Cloudflare to the Internet](https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/)
+- [An X11 Apologist Tries Wayland](https://artemis.sh/2022/09/18/wayland-from-an-x-apologist.html)
 
-- [Easy JSON in Haskell](https://blog.drewolson.org/easy-json)
+- [Create Rust binaries, and Docker images with Nix](https://blog.sekun.dev/posts/create-rust-binaries-and-docker-images-with-nix/)
 
-- [That annoying shade of blue (2018)](https://bsago.me/posts/that-annoying-shade-of-blue)
+- [GCC's new fortification level: The gains and costs](https://developers.redhat.com/articles/2022/09/17/gccs-new-fortification-level)
 
-- [More Details on `details`](https://css-tricks.com/more-details-on-details/)
+- [Explorations in the untyped lambda calculus](https://flownet.com/ron/lambda-calculus.html)
 
-- [The Follower uses open cameras and AI to find how an Instagram photo is taken](https://driesdepoorter.be/thefollower/)
+- [Remote attestation is coming back. How much freedom will it take?](https://gabrielsieben.tech/2022/07/29/remote-assertion-is-coming-back-how-much-freedom-will-it-take/)
 
-- [F4PGA: a fully open source toolchain for the development of FPGAs of multiple vendors](https://f4pga.org/)
+- [A Virtual FIDO2 USB Device](https://github.com/bulwarkid/virtual-fido)
 
-- [Extending Go backward compatibility](https://github.com/golang/go/discussions/55090)
+- [S6: Deepmind's Python JIT on top of CPython](https://github.com/deepmind/s6)
 
-- [Outpainting with Stable Diffusion on an infinite canvas](https://github.com/lkwq007/stablediffusion-infinity)
+- [cppfront: A personal experimental C++ Syntax 2 -> Syntax 1 compiler by Herb Sutter](https://github.com/hsutter/cppfront)
 
-- [tup: a file-based build system](https://gittup.org/tup/)
+- [v0.23 of Gleam, a type safe language for the Erlang VM, is out](https://gleam.run/news/gleam-v0.23-released/)
 
-- [The next big step: Godot 4.0 reaches Beta](https://godotengine.org/article/dev-snapshot-godot-4-0-beta-1)
+- [Why are you being constructive?](https://lawrencecpaulson.github.io/2022/04/20/Why-constructive.html)
 
-- [Graphite: Redefining state-of-the-art graphics editing](https://graphite.rs/)
+- [The perils of pinning](https://lwn.net/SubscriberLink/907876/ae07b6d9e121d1f4/)
 
-- [Why VPNs are Wrong for Privacy and MPRs are Right](https://invisv.com/articles/relay.html)
+- [Why fix Kubernetes and Systemd?](https://medium.com/@kris-nova/why-fix-kubernetes-and-systemd-782840e50104)
 
-- [Building Complex Types in TypeScript](https://medium.hexlabs.io/building-complex-types-in-typescript-bfdf5e131dbe)
+- [A minimal distributed key-value database with Hashicorp's Raft library](https://notes.eatonphil.com/minimal-key-value-store-with-hashicorp-raft.html)
 
-- [Confirmed! the MOS 7600/7601 Pong chip is a true microcontroller](https://oldvcr.blogspot.com/2022/09/confirmed-mos-76007601-pong-chip-is.html)
+- [Running PalmOS without PalmOS](https://pmig96.wordpress.com/2022/09/18/running-palmos-without-palmos/)
 
-- [Multi-threading and globals in Pumpkin OS](https://pmig96.wordpress.com/2022/09/15/multi-threading-and-globals/)
+- [Finding the “Second Bug” in glibc’s Condition Variable](https://probablydance.com/2022/09/17/finding-the-second-bug-in-glibcs-condition-variable/)
 
-- [The Golden Age of PL Research](https://semantic-domain.blogspot.com/2022/09/the-golden-age-of-pl-research.html?m=1)
+- [Simple Type Inference for System F](https://semantic-domain.blogspot.com/2022/03/simple-type-inference-for-system-f.html)
 
-- [Slint released version 0.3 -- A GUI toolkit written in Rust](https://slint-ui.com/blog/slint-0.3-released-with-platform-api-for-mcu.html)
+- [You can’t solve AI security problems with more AI](https://simonwillison.net/2022/Sep/17/prompt-injection-more-ai/)
 
-- [The case of the spiky file descriptors](https://tailscale.com/blog/case-of-spiky-file-descriptors/)
+- [TinyTapeout](https://tinytapeout.com/)
 
-- [A taxonomy of hosting options, for personal data security](https://thomask.sdf.org/blog/2022/09/15/a-taxonomy-of-hosting-options.html)
+- [Visualizing how S3 deletes 1 billion objects with Athena and Rust](https://tomforb.es/visualizing-how-s3-deletes-1-billion-objects-with-athena-and-rust/)
 
-- [Ever wondered how a QR code works?](https://typefully.com/DanHollick/qr-codes-T7tLlNi)
+- [How to debug deadlocks in Visual Studio](https://werat.dev/blog/how-to-debug-deadlocks-in-visual-studio/)
 
-- [Can We Please Move Past Git? (2021)](https://www.boringcactus.com/2021/02/22/can-we-please-move-past-git.html)
+- [LambdaLisp - A Lisp Interpreter That Runs on Lambda Calculus](https://woodrush.github.io/blog/lambdalisp.html)
 
-- [Bringing Up TLS on Precursor](https://www.crowdsupply.com/sutajio-kosagi/precursor/updates/bringing-up-tls-on-precursor)
+- [CHARL-E packages Stable Diffusion into a simple app](https://www.charl-e.com/)
 
-- [Think Prometheus, but for logs (not metrics). Simple, efficient log store](https://www.parseable.io/docs/introduction)
+- [Promising io_uring_spawn Announced](https://www.phoronix.com/news/Linux-LPC2022-io_uring_spawn)
 
-- [ANN: Rust: match_deref. I made a proc-macro lib for long-awaited deref patterns](https://www.reddit.com/r/rust/comments/waqyc1/ann_match_deref_i_made_a_procmacro_lib_for/)
+- [$ rm Important.txt (uh oh!)](https://xenodium.com/rm-important-txt-oh-sht/)
