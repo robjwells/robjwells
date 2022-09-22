@@ -1,49 +1,49 @@
-- [Ada Programming Language](https://ada-lang.io/)
+- [Getty Images will cease to accept art created using AI generative models](https://app.engage.gettyimages.com/e/es?e=11409471&elq=ffb9ca1a980a43f29bb0563b4f8b5f27)
 
-- [An X11 Apologist Tries Wayland](https://artemis.sh/2022/09/18/wayland-from-an-x-apologist.html)
+- [Betterbird: a fine-tuned version of Mozilla Thunderbird](https://betterbird.eu/)
 
-- [Create Rust binaries, and Docker images with Nix](https://blog.sekun.dev/posts/create-rust-binaries-and-docker-images-with-nix/)
+- [Will Serving Real HTML Content Make A Website Faster? Let's Experiment](https://blog.webpagetest.org/posts/will-html-content-make-site-faster/)
 
-- [GCC's new fortification level: The gains and costs](https://developers.redhat.com/articles/2022/09/17/gccs-new-fortification-level)
+- [A details element as a burger menu is not accessible](https://cloudfour.com/thinks/a-details-element-as-a-burger-menu-is-not-accessible/)
 
-- [Explorations in the untyped lambda calculus](https://flownet.com/ron/lambda-calculus.html)
+- [Extracting a Verified Interpreter from Isabelle/HOL](https://concerningquality.com/semantics-extraction-isabelle/)
 
-- [Remote attestation is coming back. How much freedom will it take?](https://gabrielsieben.tech/2022/07/29/remote-assertion-is-coming-back-how-much-freedom-will-it-take/)
+- [Thelio 2022 Redesign Review](https://dominickm.com/thelio-2022-redesign-review/)
 
-- [A Virtual FIDO2 USB Device](https://github.com/bulwarkid/virtual-fido)
+- [Introducing LiteFS](https://fly.io/blog/introducing-litefs/)
 
-- [S6: Deepmind's Python JIT on top of CPython](https://github.com/deepmind/s6)
+- [Introducing the Framework Laptop Chromebook Edition](https://frame.work/fr/en/blog/introducing-the-framework-laptop-chromebook-edition)
 
-- [cppfront: A personal experimental C++ Syntax 2 -> Syntax 1 compiler by Herb Sutter](https://github.com/hsutter/cppfront)
+- [Hacking anything with GNU Guix](https://gexp.no/blog/hacking-anything-with-gnu-guix.html)
 
-- [v0.23 of Gleam, a type safe language for the Erlang VM, is out](https://gleam.run/news/gleam-v0.23-released/)
+- [Cosmopolitan v2.1](https://github.com/jart/cosmopolitan/releases/tag/2.1)
 
-- [Why are you being constructive?](https://lawrencecpaulson.github.io/2022/04/20/Why-constructive.html)
+- [Can I Use a System Call?](https://justine.lol/cosmopolitan/functions.html)
 
-- [The perils of pinning](https://lwn.net/SubscriberLink/907876/ae07b6d9e121d1f4/)
+- [11 Laws of Software Estimation for Complex Work](https://mdalmijn.com/11-laws-of-software-estimation-for-complex-work/)
 
-- [Why fix Kubernetes and Systemd?](https://medium.com/@kris-nova/why-fix-kubernetes-and-systemd-782840e50104)
+- [Entitlement in Open Source](https://mikemcquaid.com/entitlement-in-open-source/)
 
-- [A minimal distributed key-value database with Hashicorp's Raft library](https://notes.eatonphil.com/minimal-key-value-store-with-hashicorp-raft.html)
+- [What's new for RISC-V in LLVM 15](https://muxup.com/2022q3/whats-new-for-risc-v-in-llvm-15)
 
-- [Running PalmOS without PalmOS](https://pmig96.wordpress.com/2022/09/18/running-palmos-without-palmos/)
+- [C++ initialization, arrays and lambdas oh my](https://shafik.github.io/c++/2022/09/20/init-lambdas-array-ohmy.html)
 
-- [Finding the “Second Bug” in glibc’s Condition Variable](https://probablydance.com/2022/09/17/finding-the-second-bug-in-glibcs-condition-variable/)
+- [What I meant by the "soul of Rust"](https://smallcultfollowing.com/babysteps/blog/2022/09/19/what-i-meant-by-the-soul-of-rust/)
 
-- [Simple Type Inference for System F](https://semantic-domain.blogspot.com/2022/03/simple-type-inference-for-system-f.html)
+- [Explaining the csurf vulnerability: CSRF attacks on all versions](https://snyk.io/blog/explaining-the-csurf-vulnerability-csrf-attacks-on-all-versions/)
 
-- [You can’t solve AI security problems with more AI](https://simonwillison.net/2022/Sep/17/prompt-injection-more-ai/)
+- [End-points and Computations](https://theprogrammersparadox.blogspot.com/2022/08/end-points-and-computations.html)
 
-- [TinyTapeout](https://tinytapeout.com/)
+- [A Web Server with io_uring](https://unixism.net/2020/04/io-uring-by-example-part-3-a-web-server-with-io-uring/)
 
-- [Visualizing how S3 deletes 1 billion objects with Athena and Rust](https://tomforb.es/visualizing-how-s3-deletes-1-billion-objects-with-athena-and-rust/)
+- [A Brief Overview of Webstrates](https://webstrates.net/project/a-brief-overview/)
 
-- [How to debug deadlocks in Visual Studio](https://werat.dev/blog/how-to-debug-deadlocks-in-visual-studio/)
+- [Not quite aphorisms](https://www.datagubbe.se/short/)
 
-- [LambdaLisp - A Lisp Interpreter That Runs on Lambda Calculus](https://woodrush.github.io/blog/lambdalisp.html)
+- [Solving the Dog-Bunny Puzzle with Program Verification Technology](https://www.pathsensitive.com/2022/09/solving-dog-bunny-puzzle-with-program.html)
 
-- [CHARL-E packages Stable Diffusion into a simple app](https://www.charl-e.com/)
+- [The Val Programming Language](https://www.val-lang.dev/)
 
-- [Promising io_uring_spawn Announced](https://www.phoronix.com/news/Linux-LPC2022-io_uring_spawn)
+- [My four-step framework for merge-worthy contributions - with a Rails PR example](https://www.youtube.com/watch?v=5znQMEuHqc4)
 
-- [$ rm Important.txt (uh oh!)](https://xenodium.com/rm-important-txt-oh-sht/)
+- [Analyzing BSD Kernels for Uninitialized Memory Disclosures using Binary Ninja](https://www.zerodayinitiative.com/blog/2022/9/19/mindshare-analyzing-bsd-kernels-with-binary-ninja)
