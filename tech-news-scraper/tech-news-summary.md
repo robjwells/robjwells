@@ -1,49 +1,47 @@
-- [Getty Images will cease to accept art created using AI generative models](https://app.engage.gettyimages.com/e/es?e=11409471&elq=ffb9ca1a980a43f29bb0563b4f8b5f27)
+- [Casting Perls before Splines](http://blogs.perl.org/users/saif/2022/09/perls-before-splines.html)
 
-- [Betterbird: a fine-tuned version of Mozilla Thunderbird](https://betterbird.eu/)
+- [So when did POP and IMAP become a “legacy protocol?”](http://boston.conman.org//2022/09/22.1)
 
-- [Will Serving Real HTML Content Make A Website Faster? Let's Experiment](https://blog.webpagetest.org/posts/will-html-content-make-site-faster/)
+- [Get in Zoomer, We're Saving React](https://acko.net/blog/get-in-zoomer-we-re-saving-react/)
 
-- [A details element as a burger menu is not accessible](https://cloudfour.com/thinks/a-details-element-as-a-burger-menu-is-not-accessible/)
+- [A history of ARM, part 1: Building the first chip](https://arstechnica.com/?p=1879525)
 
-- [Extracting a Verified Interpreter from Isabelle/HOL](https://concerningquality.com/semantics-extraction-isabelle/)
+- [An AI assistant for command line errors](https://austinhenley.com/blog/aiterminal.html)
 
-- [Thelio 2022 Redesign Review](https://dominickm.com/thelio-2022-redesign-review/)
+- [Schedule Cronjob for the First Monday of Every Month, the Funky Way](https://blog.healthchecks.io/2022/09/schedule-cron-job-the-funky-way/)
 
-- [Introducing LiteFS](https://fly.io/blog/introducing-litefs/)
+- [The Geeks way of checking what the outside wheather is like](https://blog.netbsd.org/tnf/entry/the_geeks_way_of_checking)
 
-- [Introducing the Framework Laptop Chromebook Edition](https://frame.work/fr/en/blog/introducing-the-framework-laptop-chromebook-edition)
+- [Test crashed - Attempting to connect to non-local address! some-nonexistent-domain-27489274c8927.com](https://bugzilla.mozilla.org/show_bug.cgi?id=1791519)
 
-- [Hacking anything with GNU Guix](https://gexp.no/blog/hacking-anything-with-gnu-guix.html)
+- [Connectix RAM Doubler - Never run out of RAM Again](https://computeradsfromthepast.substack.com/p/connectix-ram-doubler)
 
-- [Cosmopolitan v2.1](https://github.com/jart/cosmopolitan/releases/tag/2.1)
+- [Writing composable SQL using JavaScript](https://contra.com/p/AqZWWoUB-writing-composable-sql-using-java-script)
 
-- [Can I Use a System Call?](https://justine.lol/cosmopolitan/functions.html)
+- [The rule of six](https://davidamos.dev/the-rule-of-six/)
 
-- [11 Laws of Software Estimation for Complex Work](https://mdalmijn.com/11-laws-of-software-estimation-for-complex-work/)
+- [Guix for development](https://dthompson.us/guix-for-development.html)
 
-- [Entitlement in Open Source](https://mikemcquaid.com/entitlement-in-open-source/)
+- [Compiler Optimizations Are Hard Because They Forget](https://faultlore.com/blah/oops-that-was-important/)
 
-- [What's new for RISC-V in LLVM 15](https://muxup.com/2022q3/whats-new-for-risc-v-in-llvm-15)
+- [langcc: A Next-Generation Compiler Compiler](https://github.com/jzimmerman/langcc)
 
-- [C++ initialization, arrays and lambdas oh my](https://shafik.github.io/c++/2022/09/20/init-lambdas-array-ohmy.html)
+- [TwitterToNitter. A bookmarklet that makes reading on Twitter easier when not logged in](https://github.com/no-gravity/TwitterToNitter)
 
-- [What I meant by the "soul of Rust"](https://smallcultfollowing.com/babysteps/blog/2022/09/19/what-i-meant-by-the-soul-of-rust/)
+- [LeanQt - a stripped-down Qt version easy to build from source and to integrate with an application](https://github.com/rochus-keller/LeanQt)
 
-- [Explaining the csurf vulnerability: CSRF attacks on all versions](https://snyk.io/blog/explaining-the-csurf-vulnerability-csrf-attacks-on-all-versions/)
+- [onFOSS-LAN](https://onfoss.libregaming.org/host.html)
 
-- [End-points and Computations](https://theprogrammersparadox.blogspot.com/2022/08/end-points-and-computations.html)
+- [SM-17 (parent of SM-2 used by Anki) spaced repetition algorithm](https://supermemo.guru/wiki/Algorithm_SM-17)
 
-- [A Web Server with io_uring](https://unixism.net/2020/04/io-uring-by-example-part-3-a-web-server-with-io-uring/)
+- [Glamorize your problem domain](https://twitchard.github.io/posts/2022-09-02-glamorize-your-problem-domain.html)
 
-- [A Brief Overview of Webstrates](https://webstrates.net/project/a-brief-overview/)
+- [Fools! Stop Mysticizing System Dynamics](https://twitchard.github.io/posts/2022-09-23-system-dynamics-schmystem-dynamics.html)
 
-- [Not quite aphorisms](https://www.datagubbe.se/short/)
+- [The image in this tweet displays its own MD5 hash](https://twitter.com/david3141593/status/1573218394358386688)
 
-- [Solving the Dog-Bunny Puzzle with Program Verification Technology](https://www.pathsensitive.com/2022/09/solving-dog-bunny-puzzle-with-program.html)
+- [WHOIS: Fragile, unparseable, obsolete... and universally relied upon](https://www.netmeister.org/blog/whois.html)
 
-- [The Val Programming Language](https://www.val-lang.dev/)
+- [Build a Reactive Data Streaming App with Python and Apache Kafka | Coding In Motion](https://youtu.be/jItIQ-UvFI4)
 
-- [My four-step framework for merge-worthy contributions - with a Rails PR example](https://www.youtube.com/watch?v=5znQMEuHqc4)
-
-- [Analyzing BSD Kernels for Uninitialized Memory Disclosures using Binary Ninja](https://www.zerodayinitiative.com/blog/2022/9/19/mindshare-analyzing-bsd-kernels-with-binary-ninja)
+- [2 ways to test your Go HTTP server](https://youtu.be/tCAl8fdqDnM)
