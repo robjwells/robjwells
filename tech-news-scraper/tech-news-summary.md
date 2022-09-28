@@ -1,47 +1,49 @@
-- [Casting Perls before Splines](http://blogs.perl.org/users/saif/2022/09/perls-before-splines.html)
+- [Apalache - Symbolic Model Checker for TLA+](https://apalache.informal.systems/)
 
-- [So when did POP and IMAP become a “legacy protocol?”](http://boston.conman.org//2022/09/22.1)
+- [Introducing workerd: Cloudflare's Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)
 
-- [Get in Zoomer, We're Saving React](https://acko.net/blog/get-in-zoomer-we-re-saving-react/)
+- [Making python fast for free: adventures with mypyc](https://blog.meadsteve.dev/programming/2022/09/27/making-python-fast-for-free/)
 
-- [A history of ARM, part 1: Building the first chip](https://arstechnica.com/?p=1879525)
+- [Why Async Rust](https://blog.yoshuawuyts.com/why-async-rust/)
 
-- [An AI assistant for command line errors](https://austinhenley.com/blog/aiterminal.html)
+- [Software Engineering Tips for Students](https://catball.dev/clms_swe_tips)
 
-- [Schedule Cronjob for the First Monday of Every Month, the Funky Way](https://blog.healthchecks.io/2022/09/schedule-cron-job-the-funky-way/)
+- [Speeding Up Three.JS with Depth-Based Fragment Culling](https://cprimozic.net/blog/depth-based-fragment-culling-webgl/)
 
-- [The Geeks way of checking what the outside wheather is like](https://blog.netbsd.org/tnf/entry/the_geeks_way_of_checking)
+- [Named Element IDs Can Be Referenced as JavaScript Globals](https://css-tricks.com/named-element-ids-can-be-referenced-as-javascript-globals/)
 
-- [Test crashed - Attempting to connect to non-local address! some-nonexistent-domain-27489274c8927.com](https://bugzilla.mozilla.org/show_bug.cgi?id=1791519)
+- [Microspeak: Break glass](https://devblogs.microsoft.com/oldnewthing/20220927-00/?p=107217)
 
-- [Connectix RAM Doubler - Never run out of RAM Again](https://computeradsfromthepast.substack.com/p/connectix-ram-doubler)
+- [Self-hosted software I'm thankful for](https://garrit.xyz/posts/2022-09-26-self-hosted-software-im-thankful-for)
 
-- [Writing composable SQL using JavaScript](https://contra.com/p/AqZWWoUB-writing-composable-sql-using-java-script)
+- [58 bytes of CSS to look great nearly everywhere](https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41)
 
-- [The rule of six](https://davidamos.dev/the-rule-of-six/)
+- [Ignite: Firecracker MicroVMs with Docker images](https://github.com/weaveworks/ignite)
 
-- [Guix for development](https://dthompson.us/guix-for-development.html)
+- [Go runtime: 4 years later](https://go.dev/blog/go119runtime)
 
-- [Compiler Optimizations Are Hard Because They Forget](https://faultlore.com/blah/oops-that-was-important/)
+- [Have I Been Sqautted — free DNS typosquatting platform](https://haveibeensquatted.com/)
 
-- [langcc: A Next-Generation Compiler Compiler](https://github.com/jzimmerman/langcc)
+- [Internet.nl: test for modern Internet Standards](https://internet.nl/)
 
-- [TwitterToNitter. A bookmarklet that makes reading on Twitter easier when not logged in](https://github.com/no-gravity/TwitterToNitter)
+- [Ezno:  a JavaScript compiler featuring checking, correctness and performance](https://kaleidawave.github.io/posts/introducing-ezno/)
 
-- [LeanQt - a stripped-down Qt version easy to build from source and to integrate with an application](https://github.com/rochus-keller/LeanQt)
+- [Bash 5.2 released](https://lwn.net/Articles/909596/)
 
-- [onFOSS-LAN](https://onfoss.libregaming.org/host.html)
+- [Introducing PureBoot Basic](https://puri.sm/posts/introducing-pureboot-basic-2/)
 
-- [SM-17 (parent of SM-2 used by Anki) spaced repetition algorithm](https://supermemo.guru/wiki/Algorithm_SM-17)
+- [Find slow data processing tasks (before your customers do)](https://pythonspeed.com/articles/slow-data-analysis-tasks/)
 
-- [Glamorize your problem domain](https://twitchard.github.io/posts/2022-09-02-glamorize-your-problem-domain.html)
+- [The 6 Books New Redis Developers Should Read](https://redis.com/blog/6-books-new-redis-developers-should-read/)
 
-- [Fools! Stop Mysticizing System Dynamics](https://twitchard.github.io/posts/2022-09-23-system-dynamics-schmystem-dynamics.html)
+- [Race Conditions Can Be Useful for Parallelism](https://shwestrick.github.io/2022/09/27/useful-races.html)
 
-- [The image in this tweet displays its own MD5 hash](https://twitter.com/david3141593/status/1573218394358386688)
+- [Third Room tech preview released](https://thirdroom.io/preview)
 
-- [WHOIS: Fragile, unparseable, obsolete... and universally relied upon](https://www.netmeister.org/blog/whois.html)
+- [Real World OCaml: Functional Programming for the Masses](https://www.cambridge.org/core/books/real-world-ocaml-functional-programming-for-the-masses/052E4BCCB09D56A0FE875DD81B1ED571)
 
-- [Build a Reactive Data Streaming App with Python and Apache Kafka | Coding In Motion](https://youtu.be/jItIQ-UvFI4)
+- [Turns are better than radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
 
-- [2 ways to test your Go HTTP server](https://youtu.be/tCAl8fdqDnM)
+- [LISTEN / NOTIFY: Automatic client notification in PostgreSQL](https://www.cybertec-postgresql.com/en/listen-notify-automatic-client-notification-in-postgresql/)
+
+- [RFC 9308: Applicability of the QUIC Transport Protocol](https://www.rfc-editor.org/rfc/rfc9308.html)
