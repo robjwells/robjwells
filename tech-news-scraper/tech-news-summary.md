@@ -1,49 +1,41 @@
-- [Apalache - Symbolic Model Checker for TLA+](https://apalache.informal.systems/)
+- [The appeal of small computers](https://andregarzia.com/2022/09/The-appeal-of-small-computers.html)
 
-- [Introducing workerd: Cloudflare's Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)
+- [Announcing 3.7-3.10 support and a new direction for Pyston](https://blog.pyston.org/2022/09/29/announcing-3-7-3-10-support-and-a-new-direction/)
 
-- [Making python fast for free: adventures with mypyc](https://blog.meadsteve.dev/programming/2022/09/27/making-python-fast-for-free/)
+- [Announcing the Rust Style Team](https://blog.rust-lang.org/inside-rust/2022/09/29/announcing-the-rust-style-team.html)
 
-- [Why Async Rust](https://blog.yoshuawuyts.com/why-async-rust/)
+- [Announcing ICU4X 1.0](https://blog.unicode.org/2022/09/announcing-icu4x-10.html)
 
-- [Software Engineering Tips for Students](https://catball.dev/clms_swe_tips)
+- [Building advanced SQL search from a user text input](https://contra.com/p/WobOBob7-building-advanced-sql-search-from-a-user-text-input)
 
-- [Speeding Up Three.JS with Depth-Based Fragment Culling](https://cprimozic.net/blog/depth-based-fragment-culling-webgl/)
+- [Static Program Analysis](https://cs.au.dk/%7Eamoeller/spa/spa.pdf)
 
-- [Named Element IDs Can Be Referenced as JavaScript Globals](https://css-tricks.com/named-element-ids-can-be-referenced-as-javascript-globals/)
+- [LISP in Google Sheets with named functions](https://docs.google.com/spreadsheets/d/1m_QQlAaMtxKUjwncPMBJilq2ZbStVas83Qqw9Dn6E_M/edit#gid=950860623)
 
-- [Microspeak: Break glass](https://devblogs.microsoft.com/oldnewthing/20220927-00/?p=107217)
+- [Querying Postgres Tables Directly From DuckDB](https://duckdb.org/2022/09/30/postgres-scanner.html)
 
-- [Self-hosted software I'm thankful for](https://garrit.xyz/posts/2022-09-26-self-hosted-software-im-thankful-for)
+- [Debugging Docker images](https://garrit.xyz/posts/2022-09-30-debugging-docker-images)
 
-- [58 bytes of CSS to look great nearly everywhere](https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41)
+- [Release Nvim v0.8.0](https://github.com/neovim/neovim/releases/tag/v0.8.0)
 
-- [Ignite: Firecracker MicroVMs with Docker images](https://github.com/weaveworks/ignite)
+- [Reals: a Python library for real-number arithmetic](https://github.com/rubenvannieuwpoort/reals)
 
-- [Go runtime: 4 years later](https://go.dev/blog/go119runtime)
+- [MathB.in - Mathematics Pastebin Written in Common Lisp](https://github.com/susam/mathb)
 
-- [Have I Been Sqautted — free DNS typosquatting platform](https://haveibeensquatted.com/)
+- [Next steps for Rust in the kernel](https://lwn.net/Articles/908347/)
 
-- [Internet.nl: test for modern Internet Standards](https://internet.nl/)
+- [How to fix an ancient GDB problem](https://lwn.net/SubscriberLink/909496/060e5ff1ced271dc/)
 
-- [Ezno:  a JavaScript compiler featuring checking, correctness and performance](https://kaleidawave.github.io/posts/introducing-ezno/)
+- [Why Modern Software is Slow–Windows Voice Recorder](https://randomascii.wordpress.com/2022/09/29/why-modern-software-is-slow-windows-voice-recorder/)
 
-- [Bash 5.2 released](https://lwn.net/Articles/909596/)
+- [Exploring 10m scraped Shutterstock videos used to train Meta’s Make-A-Video text-to-video model](https://simonwillison.net/2022/Sep/29/webvid/)
 
-- [Introducing PureBoot Basic](https://puri.sm/posts/introducing-pureboot-basic-2/)
+- [age and Authenticated Encryption](https://words.filippo.io/dispatches/age-authentication/)
 
-- [Find slow data processing tasks (before your customers do)](https://pythonspeed.com/articles/slow-data-analysis-tasks/)
+- [New integer types I'd like to see](https://www.foonathan.net/2022/09/new-integer-types/)
 
-- [The 6 Books New Redis Developers Should Read](https://redis.com/blog/6-books-new-redis-developers-should-read/)
+- [Why I own two copies of Designing Data-Intensive Applications](https://www.garrensmith.com/designing-data-intensive-applications/)
 
-- [Race Conditions Can Be Useful for Parallelism](https://shwestrick.github.io/2022/09/27/useful-races.html)
+- [9 puzzles to convince you you don't understand dependence](https://www.pathsensitive.com/2022/09/bet-you-cant-solve-these-9-dependency.html)
 
-- [Third Room tech preview released](https://thirdroom.io/preview)
-
-- [Real World OCaml: Functional Programming for the Masses](https://www.cambridge.org/core/books/real-world-ocaml-functional-programming-for-the-masses/052E4BCCB09D56A0FE875DD81B1ED571)
-
-- [Turns are better than radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
-
-- [LISTEN / NOTIFY: Automatic client notification in PostgreSQL](https://www.cybertec-postgresql.com/en/listen-notify-automatic-client-notification-in-postgresql/)
-
-- [RFC 9308: Applicability of the QUIC Transport Protocol](https://www.rfc-editor.org/rfc/rfc9308.html)
+- [Chimp: Efficient Lossless Floating Point Compression for Time Series Databases](https://www.vldb.org/pvldb/vol15/p3058-liakos.pdf)
