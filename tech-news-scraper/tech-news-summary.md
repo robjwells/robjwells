@@ -1,41 +1,45 @@
-- [The appeal of small computers](https://andregarzia.com/2022/09/The-appeal-of-small-computers.html)
+- [es - extensible shell](http://wryun.github.io/es-shell/)
 
-- [Announcing 3.7-3.10 support and a new direction for Pyston](https://blog.pyston.org/2022/09/29/announcing-3-7-3-10-support-and-a-new-direction/)
+- [Faster, more flexible inference on both AMD and NVIDIA GPUs using AITemplate](https://ai.facebook.com/blog/gpu-inference-engine-nvidia-amd-open-source/)
 
-- [Announcing the Rust Style Team](https://blog.rust-lang.org/inside-rust/2022/09/29/announcing-the-rust-style-team.html)
+- [Game Scripting with Logic Programming](https://blog.cameldridge.com/article/20200828-logic-game-scripting/)
 
-- [Announcing ICU4X 1.0](https://blog.unicode.org/2022/09/announcing-icu4x-10.html)
+- [Simplify your model code in Rails by avoiding association pollution](https://calebhearth.com/association-pollution)
 
-- [Building advanced SQL search from a user text input](https://contra.com/p/WobOBob7-building-advanced-sql-search-from-a-user-text-input)
+- [Android's Unlikely Success](https://corecursive.com/android-with-chet-haase/)
 
-- [Static Program Analysis](https://cs.au.dk/%7Eamoeller/spa/spa.pdf)
+- [Writing a DNS Server in Rust](https://dev.to/xfbs/writing-a-dns-server-in-rust-1gpn)
 
-- [LISP in Google Sheets with named functions](https://docs.google.com/spreadsheets/d/1m_QQlAaMtxKUjwncPMBJilq2ZbStVas83Qqw9Dn6E_M/edit#gid=950860623)
+- [AudioGen: Textually Guided Audio Generation](https://felixkreuk.github.io/text2audio_arxiv_samples/)
 
-- [Querying Postgres Tables Directly From DuckDB](https://duckdb.org/2022/09/30/postgres-scanner.html)
+- [Introductory Rust Support merged in linux](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=8aebac82933ff1a7c8eede18cab11e1115e2062b)
 
-- [Debugging Docker images](https://garrit.xyz/posts/2022-09-30-debugging-docker-images)
+- [redefining for loop variable semantics](https://github.com/golang/go/discussions/56010)
 
-- [Release Nvim v0.8.0](https://github.com/neovim/neovim/releases/tag/v0.8.0)
+- [Goal: Pass all 4259065 tests in sqlite sqllogictest in 1 week](https://github.com/jamii/hytradboi-jam-2022)
 
-- [Reals: a Python library for real-number arithmetic](https://github.com/rubenvannieuwpoort/reals)
+- [Hyperlinks in handwriting](https://handwritten.blog/2022-10-01-hyperlinks-in-handwriting.html)
 
-- [MathB.in - Mathematics Pastebin Written in Common Lisp](https://github.com/susam/mathb)
+- [You don't need Scrum. You just need to do Kanban right](https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html)
 
-- [Next steps for Rust in the kernel](https://lwn.net/Articles/908347/)
+- [MNT RKX7 Open Hardware FPGA CPU Module Showcase](https://mntre.com/media/reform_md/2022-09-29-rkx7-showcase.html)
 
-- [How to fix an ancient GDB problem](https://lwn.net/SubscriberLink/909496/060e5ff1ced271dc/)
+- [Illuminating synchronization edges for ThreadSanitizer](https://nullprogram.com/blog/2022/10/03/)
 
-- [Why Modern Software is Slow–Windows Voice Recorder](https://randomascii.wordpress.com/2022/09/29/why-modern-software-is-slow-windows-voice-recorder/)
+- [An efficient image format for SDL](https://studios.ptilouk.net/superfluous-returnz/blog/2022-09-28_compression.html)
 
-- [Exploring 10m scraped Shutterstock videos used to train Meta’s Make-A-Video text-to-video model](https://simonwillison.net/2022/Sep/29/webvid/)
+- [How (and why) nextest uses tokio, part 1](https://sunshowers.io/posts/nextest-and-tokio-1/)
 
-- [age and Authenticated Encryption](https://words.filippo.io/dispatches/age-authentication/)
+- [I turned JS into a compiled language (for fun and Wasm)](https://surma.dev/things/compile-js/)
 
-- [New integer types I'd like to see](https://www.foonathan.net/2022/09/new-integer-types/)
+- [what color is your markup?](https://t-ravis.com/post/doc/what_color_is_your_markup/)
 
-- [Why I own two copies of Designing Data-Intensive Applications](https://www.garrensmith.com/designing-data-intensive-applications/)
+- [UML: My Part in its Downfall](https://tratt.net/laurie/blog/2022/uml_my_part_in_its_downfall.html)
 
-- [9 puzzles to convince you you don't understand dependence](https://www.pathsensitive.com/2022/09/bet-you-cant-solve-these-9-dependency.html)
+- [new month, new brainworm](https://wingolog.org/archives/2022/09/01/new-month-new-brainworm)
 
-- [Chimp: Efficient Lossless Floating Point Compression for Time Series Databases](https://www.vldb.org/pvldb/vol15/p3058-liakos.pdf)
+- [On "Correct and Efficient Work-Stealing for Weak Memory Models"](https://wingolog.org/archives/2022/10/03/on-correct-and-efficient-work-stealing-for-weak-memory-models)
+
+- [The Smartest Website You Haven't Heard of](https://www.bedelstein.com/post/mcmaster-carr)
+
+- [Linux 6.0](https://www.lkml.org/lkml/2022/10/2/255)
