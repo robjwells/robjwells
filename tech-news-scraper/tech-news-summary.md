@@ -1,45 +1,49 @@
-- [es - extensible shell](http://wryun.github.io/es-shell/)
+- [Why We Use CUE (and Not Helm)](https://cloudplane.org/blog/why-cue)
 
-- [Faster, more flexible inference on both AMD and NVIDIA GPUs using AITemplate](https://ai.facebook.com/blog/gpu-inference-engine-nvidia-amd-open-source/)
+- [Bulk inserting nested data into the database (part II)](https://contra.com/p/P7kB2RPO-bulk-inserting-nested-data-into-the-database-part-ii)
 
-- [Game Scripting with Logic Programming](https://blog.cameldridge.com/article/20200828-logic-game-scripting/)
+- [Practical OCaml, Multicore Edition](https://dev.to/yawaramin/practical-ocaml-multicore-edition-3gf2)
 
-- [Simplify your model code in Rails by avoiding association pollution](https://calebhearth.com/association-pollution)
+- [Crubit: High-level design of C++/Rust interop](https://github.com/google/crubit/blob/main/docs/design.md)
 
-- [Android's Unlikely Success](https://corecursive.com/android-with-chet-haase/)
+- [coost - A fantastic C++ library](https://github.com/idealvin/coost)
 
-- [Writing a DNS Server in Rust](https://dev.to/xfbs/writing-a-dns-server-in-rust-1gpn)
+- [GitHub - naftaliharris/tauthon: Fork of Python 2.7 with new syntax, builtins, and libraries backported from Python 3](https://github.com/naftaliharris/tauthon)
 
-- [AudioGen: Textually Guided Audio Generation](https://felixkreuk.github.io/text2audio_arxiv_samples/)
+- [Programming is Greek to me... Literally](https://github.com/naver/lispe/wiki/6.15-Programming-is-Greek-to-me...-Literally)
 
-- [Introductory Rust Support merged in linux](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=8aebac82933ff1a7c8eede18cab11e1115e2062b)
+- [lambda-8cc: An x86 C compiler written in untyped lambda calculus](https://github.com/woodrush/lambda-8cc)
 
-- [redefining for loop variable semantics](https://github.com/golang/go/discussions/56010)
+- [Future Proofing SQL with Carefully Placed Errors](https://hakibenita.com/future-proof-sql)
 
-- [Goal: Pass all 4259065 tests in sqlite sqllogictest in 1 week](https://github.com/jamii/hytradboi-jam-2022)
+- [The struggles of building a Feed Reader](https://jackevansevo.github.io/posts/struggles-of-building-an-rss-feed-reader/)
 
-- [Hyperlinks in handwriting](https://handwritten.blog/2022-10-01-hyperlinks-in-handwriting.html)
+- [BBSing at 300 Bits Per Second](https://jcs.org/2022/10/02/whisper_writer)
 
-- [You don't need Scrum. You just need to do Kanban right](https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html)
+- [Don't worry (about writing Haskell), be happy (writing Agda instead)](https://jesper.sikanda.be/posts/agda2hs.html)
 
-- [MNT RKX7 Open Hardware FPGA CPU Module Showcase](https://mntre.com/media/reform_md/2022-09-29-rkx7-showcase.html)
+- [WebVM: Linux Virtualization in WebAssembly with Full Networking via Tailscale](https://leaningtech.com/webvm-virtual-machine-with-networking-via-tailscale/)
 
-- [Illuminating synchronization edges for ThreadSanitizer](https://nullprogram.com/blog/2022/10/03/)
+- [I've been playing with OS/2 again -- more on that soon -- but it was doomed from a young age](https://liam-on-linux.dreamwidth.org/87435.html)
 
-- [An efficient image format for SDL](https://studios.ptilouk.net/superfluous-returnz/blog/2022-09-28_compression.html)
+- [libgrapheme 2.0.0 released - A suckless Unicode string library](https://libs.suckless.org/libgrapheme/)
 
-- [How (and why) nextest uses tokio, part 1](https://sunshowers.io/posts/nextest-and-tokio-1/)
+- [Hard Mode Rust](https://matklad.github.io/2022/10/06/hard-mode-rust.html)
 
-- [I turned JS into a compiled language (for fun and Wasm)](https://surma.dev/things/compile-js/)
+- [Cloud desktops aren't as good as you'd think](https://mjg59.dreamwidth.org/61535.html)
 
-- [what color is your markup?](https://t-ravis.com/post/doc/what_color_is_your_markup/)
+- [So you're using a weird language](https://morepablo.com/2022/09/so-you-re-using-a-weird-language.html)
 
-- [UML: My Part in its Downfall](https://tratt.net/laurie/blog/2022/uml_my_part_in_its_downfall.html)
+- [Rust's Result Type is Cool](https://naiveai.hashnode.dev/rust-result-cool)
 
-- [new month, new brainworm](https://wingolog.org/archives/2022/09/01/new-month-new-brainworm)
+- [Just, Nix Shell and Podman are a Killer Combo](https://notes.abhinavsarkar.net/2022/just-nix-podman-combo)
 
-- [On "Correct and Efficient Work-Stealing for Weak Memory Models"](https://wingolog.org/archives/2022/10/03/on-correct-and-efficient-work-stealing-for-weak-memory-models)
+- [The Story Behind the Alternative Genesis Block of Bitcoin](https://serhack.me/articles/story-behind-alternative-genesis-block-bitcoin/)
 
-- [The Smartest Website You Haven't Heard of](https://www.bedelstein.com/post/mcmaster-carr)
+- [Modmapper: Putting every Skyrim mod on a map with Rust](https://www.hallada.net/2022/10/05/modmapper-putting-every-skyrim-mod-on-a-map-with-rust.html)
 
-- [Linux 6.0](https://www.lkml.org/lkml/2022/10/2/255)
+- [Unix, Plan 9 and the Lurking Smalltalk](https://www.humprog.org/~stephen/research/papers/kell19unix-personal.pdf)
+
+- [Apple AirPods Pro Are As Unrepairable As Ever](https://www.ifixit.com/News/66194/apples-new-airpods-are-telling-users-to-replace-the-batteries-already-too-bad-thats-impossible)
+
+- [Construction and analysis of the build and runtime dependency graph of nixpkgs](https://www.tweag.io/blog/2022-09-13-nixpkgs-graph/)
