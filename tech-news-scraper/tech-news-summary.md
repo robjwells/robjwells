@@ -1,49 +1,47 @@
-- [Why We Use CUE (and Not Helm)](https://cloudplane.org/blog/why-cue)
+- [A Manufacturer's Perspective on PL Progress](http://lambda-the-ultimate.org/node/5655)
 
-- [Bulk inserting nested data into the database (part II)](https://contra.com/p/P7kB2RPO-bulk-inserting-nested-data-into-the-database-part-ii)
+- [WebAssembly Troubles part 1: WebAssembly Is Not a Stack Machine (2019)](http://troubles.md/wasm-is-not-a-stack-machine/)
 
-- [Practical OCaml, Multicore Edition](https://dev.to/yawaramin/practical-ocaml-multicore-edition-3gf2)
+- [Why is it hard to learn another programming language?](https://austinhenley.com/blog/learnanotherpl.html)
 
-- [Crubit: High-level design of C++/Rust interop](https://github.com/google/crubit/blob/main/docs/design.md)
+- [Swift was always going to be part of the OS](https://belkadan.com/blog/2022/10/Swift-in-the-OS)
 
-- [coost - A fantastic C++ library](https://github.com/idealvin/coost)
+- [What’s wrong with Git? A conceptual design analysis (2016)](https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/)
 
-- [GitHub - naftaliharris/tauthon: Fork of Python 2.7 with new syntax, builtins, and libraries backported from Python 3](https://github.com/naftaliharris/tauthon)
+- [Memory Safety in a Modern Systems Programming Language, Part 1](https://dlang.org/blog/2022/06/21/dip1000-memory-safety-in-a-modern-system-programming-language-pt-1/)
 
-- [Programming is Greek to me... Literally](https://github.com/naver/lispe/wiki/6.15-Programming-is-Greek-to-me...-Literally)
+- [Python Preloaded: Bundle Python executable with preloaded modules](https://github.com/albertz/python-preloaded)
 
-- [lambda-8cc: An x86 C compiler written in untyped lambda calculus](https://github.com/woodrush/lambda-8cc)
+- [Halfix: a portable x86 emulator written in C99](https://github.com/nepx/halfix)
 
-- [Future Proofing SQL with Carefully Placed Errors](https://hakibenita.com/future-proof-sql)
+- [More about the Google plasma globe thing](https://lcamtuf.coredump.cx/plasma_globe.txt)
 
-- [The struggles of building a Feed Reader](https://jackevansevo.github.io/posts/struggles-of-building-an-rss-feed-reader/)
+- [DIY out of band management: remote power button](https://michael.stapelberg.ch/posts/2022-10-09-remote-power-button/)
 
-- [BBSing at 300 Bits Per Second](https://jcs.org/2022/10/02/whisper_writer)
+- [Going where BeOS NetPositive hasn't gone before: NetPositive+](https://oldvcr.blogspot.com/2022/10/going-where-beos-netpositive-hasnt-gone.html)
 
-- [Don't worry (about writing Haskell), be happy (writing Agda instead)](https://jesper.sikanda.be/posts/agda2hs.html)
+- [GIT for Beginners (handout)](https://people.irisa.fr/Anthony.Baire/git/git-for-beginners-handout.pdf)
 
-- [WebVM: Linux Virtualization in WebAssembly with Full Networking via Tailscale](https://leaningtech.com/webvm-virtual-machine-with-networking-via-tailscale/)
+- [ProtonVPN IP Leakage on Linux and Workaround](https://privsec.dev/apps/protonvpn-ip-leakage-on-linux-and-workaround/)
 
-- [I've been playing with OS/2 again -- more on that soon -- but it was doomed from a young age](https://liam-on-linux.dreamwidth.org/87435.html)
+- [Introducing pgproxy](https://tailscale.com/blog/introducing-pgproxy/)
 
-- [libgrapheme 2.0.0 released - A suckless Unicode string library](https://libs.suckless.org/libgrapheme/)
+- [Tonic: A low profile component framework](https://tonicframework.dev/)
 
-- [Hard Mode Rust](https://matklad.github.io/2022/10/06/hard-mode-rust.html)
+- [Zig-style generics are not well-suited for most languages](https://typesanitizer.com/blog/zig-generics.html)
 
-- [Cloud desktops aren't as good as you'd think](https://mjg59.dreamwidth.org/61535.html)
+- [How old various Unix signals are](https://utcc.utoronto.ca/~cks/space/blog/unix/SignalsHowOld)
 
-- [So you're using a weird language](https://morepablo.com/2022/09/so-you-re-using-a-weird-language.html)
+- [Circle Language Quick Reference](https://www.circle-lang.org/quickref.html)
 
-- [Rust's Result Type is Cool](https://naiveai.hashnode.dev/rust-result-cool)
+- [Know your carrying capacity](https://www.macchaffee.com/blog/2022/carrying-capacity/)
 
-- [Just, Nix Shell and Podman are a Killer Combo](https://notes.abhinavsarkar.net/2022/just-nix-podman-combo)
+- [Discovering faster matrix multiplication algorithms with reinforcement learning](https://www.nature.com/articles/s41586-022-05172-4)
 
-- [The Story Behind the Alternative Genesis Block of Bitcoin](https://serhack.me/articles/story-behind-alternative-genesis-block-bitcoin/)
+- [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)
 
-- [Modmapper: Putting every Skyrim mod on a map with Rust](https://www.hallada.net/2022/10/05/modmapper-putting-every-skyrim-mod-on-a-map-with-rust.html)
+- [What A General Diagonal Argument Looks Like (Category Theory)](https://www.youtube.com/watch?v=dwNxVpbEVcc)
 
-- [Unix, Plan 9 and the Lurking Smalltalk](https://www.humprog.org/~stephen/research/papers/kell19unix-personal.pdf)
+- [Bitcoin and economic nihilism](https://xeiaso.net/blog/cryptocurrency-ownership)
 
-- [Apple AirPods Pro Are As Unrepairable As Ever](https://www.ifixit.com/News/66194/apples-new-airpods-are-telling-users-to-replace-the-batteries-already-too-bad-thats-impossible)
-
-- [Construction and analysis of the build and runtime dependency graph of nixpkgs](https://www.tweag.io/blog/2022-09-13-nixpkgs-graph/)
+- [Emacs: Reveal in macOS Finder (DWIM style)](https://xenodium.com/emacs-reveal-in-finder-dwim-style/)
