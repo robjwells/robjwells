@@ -1,47 +1,49 @@
-- [A Manufacturer's Perspective on PL Progress](http://lambda-the-ultimate.org/node/5655)
+- [12 Factor App Revisited](https://architecturenotes.co/12-factor-app-revisited/)
 
-- [WebAssembly Troubles part 1: WebAssembly Is Not a Stack Machine (2019)](http://troubles.md/wasm-is-not-a-stack-machine/)
+- [A Little Smalltalk (Timothy Budd) (1987)](https://archive.org/details/ALittleSmalltalkBook)
 
-- [Why is it hard to learn another programming language?](https://austinhenley.com/blog/learnanotherpl.html)
+- [Using a Framework will harm the maintenance of your software](https://berk.es/2022/09/06/frameworks-harm-maintenance/)
 
-- [Swift was always going to be part of the OS](https://belkadan.com/blog/2022/10/Swift-in-the-OS)
+- [Blog comments on a static site via social networks](https://berk.es/2022/10/12/blog-comments-on-a-static-site-via-social-networks/)
 
-- [What’s wrong with Git? A conceptual design analysis (2016)](https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/)
+- [Python dependency management difficulty is an unhelpful meme](https://blog.viraptor.info/post/python-dependency-management-difficulty-is-an-unhelpful-meme)
 
-- [Memory Safety in a Modern Systems Programming Language, Part 1](https://dlang.org/blog/2022/06/21/dip1000-memory-safety-in-a-modern-system-programming-language-pt-1/)
+- [My Future with Elixir: set-theoretic types](https://elixir-lang.org/blog/2022/10/05/my-future-with-elixir-set-theoretic-types/)
 
-- [Python Preloaded: Bundle Python executable with preloaded modules](https://github.com/albertz/python-preloaded)
+- [Elm at a Billion Dollar Company with Vendr CTO Aaron White](https://elm-radio.com/episode/elm-at-a-billion-dollar-company/)
 
-- [Halfix: a portable x86 emulator written in C99](https://github.com/nepx/halfix)
+- [Reverse Engineering a GPU from 2009](https://garnet.codeberg.page/posts/gpu-reversing/)
 
-- [More about the Google plasma globe thing](https://lcamtuf.coredump.cx/plasma_globe.txt)
+- [nursery: Programs and libs that I haven't gotten around to formally packaging](https://github.com/chrisbarrett/nursery)
 
-- [DIY out of band management: remote power button](https://michael.stapelberg.ch/posts/2022-10-09-remote-power-button/)
+- [std: The Nix Flakes framework for perfectionists with deadlines](https://github.com/divnix/std)
 
-- [Going where BeOS NetPositive hasn't gone before: NetPositive+](https://oldvcr.blogspot.com/2022/10/going-where-beos-netpositive-hasnt-gone.html)
+- [katara: Synthesize CRDTs from classic data types with verified lifting](https://github.com/hydro-project/katara)
 
-- [GIT for Beginners (handout)](https://people.irisa.fr/Anthony.Baire/git/git-for-beginners-handout.pdf)
+- [I wish my web server were in the corner of my room](https://interconnected.org/home/2022/10/10/servers)
 
-- [ProtonVPN IP Leakage on Linux and Workaround](https://privsec.dev/apps/protonvpn-ip-leakage-on-linux-and-workaround/)
+- [Verifying distributed systems with Isabelle/HOL, by Martin Kleppmann](https://lawrencecpaulson.github.io/2022/10/12/verifying-distributed-systems-isabelle.html)
 
-- [Introducing pgproxy](https://tailscale.com/blog/introducing-pgproxy/)
+- [MLstruct: Principal Type Inference in a Boolean Algebra of Structural Types](https://lptk.github.io/files/[v6.1]%20mlstruct.pdf)
 
-- [Tonic: A low profile component framework](https://tonicframework.dev/)
+- [Seven Sins of Numerical Linear Algebra](https://nhigham.com/2022/10/11/seven-sins-of-numerical-linear-algebra/)
 
-- [Zig-style generics are not well-suited for most languages](https://typesanitizer.com/blog/zig-generics.html)
+- [I solved the Dandelions paper-and-pencil game](https://nullprogram.com/blog/2022/10/12/)
 
-- [How old various Unix signals are](https://utcc.utoronto.ca/~cks/space/blog/unix/SignalsHowOld)
+- [Removing SMS support from Signal Android (soon)](https://signal.org/blog/sms-removal-android/)
 
-- [Circle Language Quick Reference](https://www.circle-lang.org/quickref.html)
+- [Simplifying the Craigslist Gallery](https://tdarb.org/blog/craigslist-gallery.html)
 
-- [Know your carrying capacity](https://www.macchaffee.com/blog/2022/carrying-capacity/)
+- [We are stuck with egrep and fgrep (unless you like beating people)](https://utcc.utoronto.ca/~cks/space/blog/unix/EgrepFgrepStuckWith)
 
-- [Discovering faster matrix multiplication algorithms with reinforcement learning](https://www.nature.com/articles/s41586-022-05172-4)
+- [Fast signum with AVX512](https://wunkolo.github.io/post/2022/10/vfixupimm-signum/)
 
-- [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)
+- [How I fixed git-grep macOS UTF-8 support](https://www.spinellis.gr/blog/20221012/)
 
-- [What A General Diagonal Argument Looks Like (Category Theory)](https://www.youtube.com/watch?v=dwNxVpbEVcc)
+- [Monads are everywhere... Maybe that's bad?](https://www.youtube.com/watch?v=nGhoZzihbHY)
 
-- [Bitcoin and economic nihilism](https://xeiaso.net/blog/cryptocurrency-ownership)
+- [Moving online webserver using public transport](https://www.youtube.com/watch?v=vQ5MA685ApE)
 
-- [Emacs: Reveal in macOS Finder (DWIM style)](https://xenodium.com/emacs-reveal-in-finder-dwim-style/)
+- [Emacs: macOS sharing (DWIM style)](https://xenodium.com/emacs-macos-share-from-dired-dwim-style/)
+
+- [Improving on Emacs macOS sharing](https://xenodium.com/emacs-macos-sharing-dwim-style-improved)
