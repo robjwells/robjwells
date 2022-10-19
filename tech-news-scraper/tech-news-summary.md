@@ -1,49 +1,47 @@
-- [Pimping my Casio with Oddly Specific Objects' alternate motherboard and firmware](https://blog.jgc.org/2022/10/pimping-my-casio-with-oddly-specific.html)
+- [The Legendary Comm Engine](http://forgedinstars.blogspot.com/2022/03/the-legendary-comm-engine.html)
 
-- [The disproportionate influence of early tech decisions](https://brandur.org/fragments/early-tech-decisions)
+- [A canon of user experience](http://www.bogieland.com/postings/post_canonux.php)
 
-- [Skylake: Intel’s Longest Serving Architecture](https://chipsandcheese.com/2022/10/14/skylake-intels-longest-serving-architecture/)
+- [The AT Protocol](https://blueskyweb.xyz/blog/10-18-2022-the-at-protocol)
 
-- [Yes, Lisp is useful for DevOps and automation](https://dev.to/yonkeltron/yes-lisp-is-useful-for-devops-and-automation-1dak)
+- [Customizing packages in Nix](https://bobvanderlinden.me/customizing-packages-in-nix/)
 
-- [Building a high-performance database buffer pool in Zig using io_uring's new fixed-buffer mode](https://gavinray97.github.io/blog/io-uring-fixed-bufferpool-zig)
+- [Sound](https://ciechanow.ski/sound/)
 
-- [m2lang: The LLVM-based Modula-2 compiler](https://github.com/redstar/m2lang)
+- [Syntax design](https://cs.lmu.edu/~ray/notes/syntaxdesign/)
 
-- [A Real World React -> htmx Port: 67% reduction in LoC](https://htmx.org/essays/a-real-world-react-to-htmx-port/)
+- [Relaying YubiKeys](https://cube0x0.github.io/Relaying-YubiKeys/)
 
-- [Announcing Algol 68 Genie 3.0](https://jmvdveer.home.xs4all.nl/en.post.announcing-algol-68-genie.html)
+- [The wasted potential of CSS attribute selectors](https://elisehe.in/2022/10/16/attribute-selectors)
 
-- [Runnning lambda functions on a specific thread with Qt](https://lnj.gitlab.io/post/running-lambdas-on-a-thread-with-qt/)
+- [No Congress 2022: Looking forward to decentralized alternatives and Camp 2023](https://events.ccc.de/2022/10/18/no-congress-2022/#no-congress-2022-en)
 
-- [IR-controlling the new air conditioner in the vintage server room](https://oldvcr.blogspot.com/2022/10/ir-controlling-new-air-conditioner-in.html)
+- [A Possible Vision for Macros in Swift](https://gist.github.com/DougGregor/4f3ba5f4eadac474ae62eae836328b71)
 
-- [A fake (AI) conversation between the best programmer in the world with a junior](https://onebite.dev/a-fake-conversation-between-the-best-programmer-in-the-world-with-a-junior/)
+- [Introducing fine-grained personal access tokens for GitHub](https://github.blog/2022-10-18-introducing-fine-grained-personal-access-tokens-for-github/)
 
-- [Automating screenshots for the Datasette documentation using shot-scraper](https://simonwillison.net/2022/Oct/14/automating-screenshots/)
+- [GitHub Copilot investigation](https://githubcopilotinvestigation.com/)
 
-- [GNU Modula-2 patch review status](https://splendidisolation.ddns.net/public/modula2/patchsummary.html)
+- [Optimizing the hell out of my website](https://kmaasrud.com/posts/2022-09-26%20Optimizing%20the%20hell%20out%20of%20my%20website.html)
 
-- [hack.css, new.css, Water.css, sakura, Pico themes for my static site generator (mkws)](https://t.mkws.sh)
+- [YAGNI exceptions (2021)](https://lukeplant.me.uk/blog/posts/yagni-exceptions/)
 
-- [Designing and Programming Malleable Software](https://tcher.tech/publications/PhilipTchernavskij_PhDThesis.pdf)
+- [Memory corruption vulnerabilities in Edge](https://microsoftedge.github.io/edgevr/posts/memory-corruption-vulnerabilities-in-edge/)
 
-- [Avoiding Featurism](https://tdarb.org/blog/avoid-featurism.html)
+- [Practical Parsing in Rust with nom](https://naiveai.hashnode.dev/practical-parsing-nom)
 
-- [We're moving away from swap partitions on our Linux servers](https://utcc.utoronto.ca/~cks/space/blog/linux/SwapPartitionsNoMore)
+- [Elevator Saga - the elevator programming game](https://play.elevatorsaga.com/)
 
-- [Probability for Slay the Spire fanatics](https://www.haskellforall.com/2021/06/probability-for-slay-spire-fanatics.html)
+- [Difftastic diffing with Magit](https://tsdh.org/posts/2022-08-01-difftastic-diffing-with-magit.html)
 
-- [The Chicken McNugget Monoid](https://www.johndcook.com/blog/2022/10/10/mcnugget-monoid/)
+- [TED: The Tiny Exfiltrating Debugger](https://www.codereversing.com/archives/561)
 
-- [You should not be using AWS. Probably](https://www.karlsutt.com/articles/you-should-not-be-using-aws/)
+- [Announcing the FreeBSD/Firecracker platform](https://www.daemonology.net/blog/2022-10-18-FreeBSD-Firecracker.html)
 
-- [Mini5 Word Crusher](https://www.leadedsolder.com/2022/10/09/pwp50ha-nec-mini5-word-processor-pickup.html)
+- [When is a slice of any not a slice of any?](https://www.timr.co/slice-of-any-not-slice-of-any/)
 
-- [Hexagonal Grids](https://www.redblobgames.com/grids/hexagons/)
+- [Reducing Logging Cost by Two Orders of Magnitude using CLP](https://www.uber.com/blog/reducing-logging-cost-by-two-orders-of-magnitude-using-clp/)
 
-- [NP-complete Problems and Physical Reality [2005]](https://www.scottaaronson.com/papers/npcomplete.pdf)
+- [How to Build Software like an SRE](https://www.willett.io/posts/precepts/)
 
-- [Go's several function argument passing modes](https://www.sobyte.net/post/2022-10/go-func/)
-
-- [Possibly a new way of drawing boxes in the terminal](https://www.willmcgugan.com/blog/tech/post/ceo-just-wants-to-draw-boxes/)
+- [Someone improved my code by 40,832,277,770%](https://www.youtube.com/watch?v=c33AZBnRHks)
