@@ -1,47 +1,47 @@
-- [The Legendary Comm Engine](http://forgedinstars.blogspot.com/2022/03/the-legendary-comm-engine.html)
+- [A look under the hood of the new student loan debt relief application](https://adhoc.team/2022/10/21/student-loan-debt-application/)
 
-- [A canon of user experience](http://www.bogieland.com/postings/post_canonux.php)
+- [[CVE-2022-1786] A Journey To The Dawn](https://blog.kylebot.net/2022/10/16/CVE-2022-1786/)
 
-- [The AT Protocol](https://blueskyweb.xyz/blog/10-18-2022-the-at-protocol)
+- [The HTTP crash course nobody asked for](https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for)
 
-- [Customizing packages in Nix](https://bobvanderlinden.me/customizing-packages-in-nix/)
+- [Brewing Microservices | Property-Based Testing](https://filibuster.transistor.fm/episodes/property-based-testing)
 
-- [Sound](https://ciechanow.ski/sound/)
+- [LeanQt - Network and Concurrent module release, planned feature set reached](https://github.com/rochus-keller/LeanQt/releases/tag/2022-10-21)
 
-- [Syntax design](https://cs.lmu.edu/~ray/notes/syntaxdesign/)
+- [Canary in the Kernel Mine: Exploiting and Defending Against Same-Type Object Reuse](https://grsecurity.net/exploiting_and_defending_against_same_type_object_reuse)
 
-- [Relaying YubiKeys](https://cube0x0.github.io/Relaying-YubiKeys/)
+- [Back to Ubuntu: Linux dual-boot, but cheaper](https://linus.schreibt.jetzt/posts/switch-root-dual-boot.html)
 
-- [The wasted potential of CSS attribute selectors](https://elisehe.in/2022/10/16/attribute-selectors)
+- [The Commodordion](https://linusakesson.net/commodordion/index.php)
 
-- [No Congress 2022: Looking forward to decentralized alternatives and Camp 2023](https://events.ccc.de/2022/10/18/no-congress-2022/#no-congress-2022-en)
+- [Eglot has landed on master: Emacs now has a built-in LSP client](https://lists.gnu.org/archive/html/emacs-devel/2022-10/msg01609.html)
 
-- [A Possible Vision for Macros in Swift](https://gist.github.com/DougGregor/4f3ba5f4eadac474ae62eae836328b71)
+- [Stop Optimizing for Tutorials](https://matduggan.com/why-are-containers-insecure-by-default/)
 
-- [Introducing fine-grained personal access tokens for GitHub](https://github.blog/2022-10-18-introducing-fine-grained-personal-access-tokens-for-github/)
+- [SHA-3 Buffer Overflow](https://mouha.be/sha-3-buffer-overflow/)
 
-- [GitHub Copilot investigation](https://githubcopilotinvestigation.com/)
+- [Refurb weekend: PowerBook 1400](https://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html)
 
-- [Optimizing the hell out of my website](https://kmaasrud.com/posts/2022-09-26%20Optimizing%20the%20hell%20out%20of%20my%20website.html)
+- [Breaking Down the System Layer](https://synit.org/book/system-layer.html)
 
-- [YAGNI exceptions (2021)](https://lukeplant.me.uk/blog/posts/yagni-exceptions/)
+- [How Gas app cut its Redis Engine CPU Utilization by 80%](https://twitter.com/daveschatz/status/1583342175005220864)
 
-- [Memory corruption vulnerabilities in Edge](https://microsoftedge.github.io/edgevr/posts/memory-corruption-vulnerabilities-in-edge/)
+- [Blending Modes](https://typefully.com/DanHollick/blending-modes-KrBa0JP)
 
-- [Practical Parsing in Rust with nom](https://naiveai.hashnode.dev/practical-parsing-nom)
+- [How the FPGA Came to Be](https://www.eejournal.com/article/how-the-fpga-came-to-be-part-1/)
 
-- [Elevator Saga - the elevator programming game](https://play.elevatorsaga.com/)
+- [What does "isomorphic" mean (in Haskell)?](https://www.haskellforall.com/2022/10/what-does-isomorphic-mean-in-haskell.html)
 
-- [Difftastic diffing with Magit](https://tsdh.org/posts/2022-08-01-difftastic-diffing-with-magit.html)
+- [Deepfake phishing](https://www.jefftk.com/p/deepfake-phishing)
 
-- [TED: The Tiny Exfiltrating Debugger](https://www.codereversing.com/archives/561)
+- [Oil 0.12.7 - Garbage Collector Problems](https://www.oilshell.org/blog/2022/10/garbage-collector.html)
 
-- [Announcing the FreeBSD/Firecracker platform](https://www.daemonology.net/blog/2022-10-18-FreeBSD-Firecracker.html)
+- [OpenBSD 7.2 Release](https://www.openbsd.org/72.html)
 
-- [When is a slice of any not a slice of any?](https://www.timr.co/slice-of-any-not-slice-of-any/)
+- [A look across the pond: a comparison between GHC and Racket compilation models](https://www.youtube.com/watch?v=H0ATppFmt2o)
 
-- [Reducing Logging Cost by Two Orders of Magnitude using CLP](https://www.uber.com/blog/reducing-logging-cost-by-two-orders-of-magnitude-using-clp/)
+- [Concatenative Programming: From Ivory to Metal](https://www.youtube.com/watch?v=_IgqJr8jG8M)
 
-- [How to Build Software like an SRE](https://www.willett.io/posts/precepts/)
+- [The History of the FPGA](https://www.youtube.com/watch?v=m-8G1Yixb34&list=PLKtxx9TnH76RiptUQ22iDGxNewdxjI6Xh&index=35)
 
-- [Someone improved my code by 40,832,277,770%](https://www.youtube.com/watch?v=c33AZBnRHks)
+- [Ziglibc: Sweeping out the rug from underneath C](https://youtu.be/1N85yU6RMcY)
