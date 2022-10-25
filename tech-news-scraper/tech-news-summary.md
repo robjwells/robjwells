@@ -1,47 +1,47 @@
-- [A look under the hood of the new student loan debt relief application](https://adhoc.team/2022/10/21/student-loan-debt-application/)
+- [My next Mac might be the last](http://morrick.me/archives/9667)
 
-- [[CVE-2022-1786] A Journey To The Dawn](https://blog.kylebot.net/2022/10/16/CVE-2022-1786/)
+- [Debugging C With Cosmopolitan Libc](https://ahgamut.github.io/2022/10/23/debugging-c-with-cosmo/)
 
-- [The HTTP crash course nobody asked for](https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for)
+- [Buffers on the edge: Python and Rust](https://alexgaynor.net/2022/oct/23/buffers-on-the-edge/)
 
-- [Brewing Microservices | Property-Based Testing](https://filibuster.transistor.fm/episodes/property-based-testing)
+- [What “Work” Looks Like](https://blog.jim-nielsen.com/2022/what-work-looks-like/)
 
-- [LeanQt - Network and Concurrent module release, planned feature set reached](https://github.com/rochus-keller/LeanQt/releases/tag/2022-10-21)
+- [Encapsulation in Functional Programming](https://blog.ploeh.dk/2022/10/24/encapsulation-in-functional-programming/)
 
-- [Canary in the Kernel Mine: Exploiting and Defending Against Same-Type Object Reuse](https://grsecurity.net/exploiting_and_defending_against_same_type_object_reuse)
+- [Python Insider: Python 3.11.0 is now available](https://blog.python.org/2022/10/python-3110-is-now-available.html)
 
-- [Back to Ubuntu: Linux dual-boot, but cheaper](https://linus.schreibt.jetzt/posts/switch-root-dual-boot.html)
+- [Windows Dev Kit 2023 aka Project Volterra](https://blogs.windows.com/windowsdeveloper/2022/10/24/available-today-windows-dev-kit-2023-aka-project-volterra/)
 
-- [The Commodordion](https://linusakesson.net/commodordion/index.php)
+- [Bolt.css - Another classless css library](https://boltcss.com)
 
-- [Eglot has landed on master: Emacs now has a built-in LSP client](https://lists.gnu.org/archive/html/emacs-devel/2022-10/msg01609.html)
+- [Emacs User Survey (2022)](https://emacssurvey.org/)
 
-- [Stop Optimizing for Tutorials](https://matduggan.com/why-are-containers-insecure-by-default/)
+- [Parking at Munich Airport: An Awful Experience](https://embeddeduse.com/2022/10/24/parking-at-munich-airport-an-awful-experience/)
 
-- [SHA-3 Buffer Overflow](https://mouha.be/sha-3-buffer-overflow/)
+- [How Fuzzy are Your Fuzzers?](https://fitzgeraldnick.com/2022/10/24/how-fuzzy-are-your-fuzzers.html)
 
-- [Refurb weekend: PowerBook 1400](https://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html)
+- [Programming language comparison by reimplementing the same transit data app](https://github.com/losvedir/transit-lang-cmp)
 
-- [Breaking Down the System Layer](https://synit.org/book/system-layer.html)
+- [Gooey](https://gooey.abstract.properties/)
 
-- [How Gas app cut its Redis Engine CPU Utilization by 80%](https://twitter.com/daveschatz/status/1583342175005220864)
+- [IHP 1.0 has been released](https://ihp.digitallyinduced.com/blog/c479f341-1374-496a-96d6-7af647005b21-ihp-1-0)
 
-- [Blending Modes](https://typefully.com/DanHollick/blending-modes-KrBa0JP)
+- [An argument for self-modifying applications](https://macoy.me/blog/programming/SelfModifyingApplications)
 
-- [How the FPGA Came to Be](https://www.eejournal.com/article/how-the-fpga-came-to-be-part-1/)
+- [Programming Portals](https://maggieappleton.com/programming-portals)
 
-- [What does "isomorphic" mean (in Haskell)?](https://www.haskellforall.com/2022/10/what-does-isomorphic-mean-in-haskell.html)
+- [Significant Garbage Collection Improvement For Emacs](https://tdodge.consulting/blog/living-the-emacs-garbage-collection-dream)
 
-- [Deepfake phishing](https://www.jefftk.com/p/deepfake-phishing)
+- [How the clipboard works](https://whynothugo.nl/journal/2022/10/21/how-the-clipboard-works/)
 
-- [Oil 0.12.7 - Garbage Collector Problems](https://www.oilshell.org/blog/2022/10/garbage-collector.html)
+- [Defense in depth: limit outgoing connection part 1](https://www.buymeacoffee.com/betterdev/limit-outgoing-connection)
 
-- [OpenBSD 7.2 Release](https://www.openbsd.org/72.html)
+- [How to Make a Roguelike (2018)](https://www.gridsagegames.com/blog/2018/10/how-to-make-a-roguelike/)
 
-- [A look across the pond: a comparison between GHC and Racket compilation models](https://www.youtube.com/watch?v=H0ATppFmt2o)
+- [How to correctly cache build-time dependencies using Nix](https://www.haskellforall.com/2022/10/how-to-correctly-cache-build-time.html)
 
-- [Concatenative Programming: From Ivory to Metal](https://www.youtube.com/watch?v=_IgqJr8jG8M)
+- [We've released Textual 0.2.0, a TUI framework for Python](https://www.textualize.io/blog/posts/textual-0-point-2-point-0)
 
-- [The History of the FPGA](https://www.youtube.com/watch?v=m-8G1Yixb34&list=PLKtxx9TnH76RiptUQ22iDGxNewdxjI6Xh&index=35)
+- [Obtaining Statistical Properties by Simulating TLA+ Specs with TLC](https://www.youtube.com/watch?v=cYenTPD7740&t=4s)
 
-- [Ziglibc: Sweeping out the rug from underneath C](https://youtu.be/1N85yU6RMcY)
+- [Emacs: A welcoming experiment](https://xenodium.com/emacs-a-welcoming-experiment/)
