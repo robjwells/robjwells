@@ -1,47 +1,47 @@
-- [My next Mac might be the last](http://morrick.me/archives/9667)
+- [Exploring intricate execution mysteries by reversing a crackme](http://blog.pkh.me/p/34-exploring-intricate-execution-mysteries-by-reversing-a-crackme.html)
 
-- [Debugging C With Cosmopolitan Libc](https://ahgamut.github.io/2022/10/23/debugging-c-with-cosmo/)
+- [Remembering Professor Kathleen Booth, 1922-2022](http://blogs.bbk.ac.uk/bbkcomments/2022/10/06/remembering-professor-kathleen-booth-1922-2022/)
 
-- [Buffers on the edge: Python and Rust](https://alexgaynor.net/2022/oct/23/buffers-on-the-edge/)
+- [Real World Adversarial Attacks on Object Detectors](https://arxiv.org/abs/1910.14667)
 
-- [What “Work” Looks Like](https://blog.jim-nielsen.com/2022/what-work-looks-like/)
+- [Open source sustainment and the future of Gitea](https://blog.gitea.io/2022/10/open-source-sustainment-and-the-future-of-gitea/)
 
-- [Encapsulation in Functional Programming](https://blog.ploeh.dk/2022/10/24/encapsulation-in-functional-programming/)
+- [Do we need a "Rust Standard"?](https://blog.m-ou.se/rust-standard/)
 
-- [Python Insider: Python 3.11.0 is now available](https://blog.python.org/2022/10/python-3110-is-now-available.html)
+- [Safely renaming a table with no downtime in Postgres](https://brandur.org/fragments/postgres-table-rename)
 
-- [Windows Dev Kit 2023 aka Project Volterra](https://blogs.windows.com/windowsdeveloper/2022/10/24/available-today-windows-dev-kit-2023-aka-project-volterra/)
+- [Announcing the Haskell Error Index](https://discourse.haskell.org/t/announcing-the-haskell-error-index/5195)
 
-- [Bolt.css - Another classless css library](https://boltcss.com)
+- [Booting an M1 Mac from hardware to kexts](https://eclecticlight.co/2022/01/04/booting-an-m1-mac-from-hardware-to-kexts-1-hardware/)
 
-- [Emacs User Survey (2022)](https://emacssurvey.org/)
+- [What do we really mean by microservice configuration?](https://encore.dev/blog/designing-a-config-api)
 
-- [Parking at Munich Airport: An Awful Experience](https://embeddeduse.com/2022/10/24/parking-at-munich-airport-an-awful-experience/)
+- [nes-nesume: A NES game based resume in ROM format](https://github.com/ronaldstoner/nes-nesume)
 
-- [How Fuzzy are Your Fuzzers?](https://fitzgeraldnick.com/2022/10/24/how-fuzzy-are-your-fuzzers.html)
+- [What if the team hates my functional code?](https://jrsinclair.com/articles/2022/what-if-the-team-hates-my-functional-code/)
 
-- [Programming language comparison by reimplementing the same transit data app](https://github.com/losvedir/transit-lang-cmp)
+- [Upcoming critical OpenSSL CVE](https://mta.openssl.org/pipermail/openssl-announce/2022-October/000238.html)
 
-- [Gooey](https://gooey.abstract.properties/)
+- [How to speed up the Rust compiler in October 2022](https://nnethercote.github.io/2022/10/27/how-to-speed-up-the-rust-compiler-in-october-2022.html)
 
-- [IHP 1.0 has been released](https://ihp.digitallyinduced.com/blog/c479f341-1374-496a-96d6-7af647005b21-ihp-1-0)
+- [specialist: Visualize CPython 3.11's specializing, adaptive interpreter](https://pypi.org/project/specialist/)
 
-- [An argument for self-modifying applications](https://macoy.me/blog/programming/SelfModifyingApplications)
+- [How to leverage HTTP conditional requests to build robust REST APIs](https://quadratic.fm/p/how-meta-microsoft-google-github)
 
-- [Programming Portals](https://maggieappleton.com/programming-portals)
+- [Starting Services](https://quindarius.com/timeline/2022/10/27/starting-services.html)
 
-- [Significant Garbage Collection Improvement For Emacs](https://tdodge.consulting/blog/living-the-emacs-garbage-collection-dream)
+- [Towards the next generation of XNU memory safety: kalloc_type](https://security.apple.com/blog/towards-the-next-generation-of-xnu-memory-safety/)
 
-- [How the clipboard works](https://whynothugo.nl/journal/2022/10/21/how-the-clipboard-works/)
+- [Shell Script Best Practices](https://sharats.me/posts/shell-script-best-practices/)
 
-- [Defense in depth: limit outgoing connection part 1](https://www.buymeacoffee.com/betterdev/limit-outgoing-connection)
+- [Beating Super Mario Bros 3 in 19 frames](https://tasvideos.org/7245S)
 
-- [How to Make a Roguelike (2018)](https://www.gridsagegames.com/blog/2018/10/how-to-make-a-roguelike/)
+- [The Linux Userspace API (UAPI) Group](https://uapi-group.org/)
 
-- [How to correctly cache build-time dependencies using Nix](https://www.haskellforall.com/2022/10/how-to-correctly-cache-build-time.html)
+- [Our computer security problems are our own fault](https://utcc.utoronto.ca/~cks/space/blog/tech/SecurityItsOurOwnFault)
 
-- [We've released Textual 0.2.0, a TUI framework for Python](https://www.textualize.io/blog/posts/textual-0-point-2-point-0)
+- [Undecidability (1999)](https://www.cs.rochester.edu/u/nelson/courses/csc_173/computability/undecidable.html)
 
-- [Obtaining Statistical Properties by Simulating TLA+ Specs with TLC](https://www.youtube.com/watch?v=cYenTPD7740&t=4s)
+- [Keyboard Shortcuts every Command Line Hacker should know about GNU Readline](https://www.masteringemacs.org/article/keyboard-shortcuts-every-command-line-hacker-should-know-about-gnu-readline)
 
-- [Emacs: A welcoming experiment](https://xenodium.com/emacs-a-welcoming-experiment/)
+- [Sidekiq 7.0](https://www.mikeperham.com/2022/10/27/introducing-sidekiq-7.0/)
