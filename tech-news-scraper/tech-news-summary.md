@@ -1,47 +1,49 @@
-- [Exploring intricate execution mysteries by reversing a crackme](http://blog.pkh.me/p/34-exploring-intricate-execution-mysteries-by-reversing-a-crackme.html)
+- [Does experience make you a better programmer?](https://austinhenley.com/blog/experienceversusskill.html)
 
-- [Remembering Professor Kathleen Booth, 1922-2022](http://blogs.bbk.ac.uk/bbkcomments/2022/10/06/remembering-professor-kathleen-booth-1922-2022/)
+- [Decker](https://beyondloom.com/decker/index.html)
 
-- [Real World Adversarial Attacks on Object Detectors](https://arxiv.org/abs/1910.14667)
+- [An Apple II Tale Told Complete by the Late Tony Diaz](https://bytecellar.com/2022/10/29/an-apple-ii-tale-told-complete-by-the-late-tony-diaz/)
 
-- [Open source sustainment and the future of Gitea](https://blog.gitea.io/2022/10/open-source-sustainment-and-the-future-of-gitea/)
+- [Télétel, the French Internet of the 80s — How did it work?](https://dmitryelj.medium.com/t%C3%A9l%C3%A9tel-the-french-internet-of-the-80s-how-did-it-work-f910666a80c1)
 
-- [Do we need a "Rust Standard"?](https://blog.m-ou.se/rust-standard/)
+- [Brewing Microservices | Serverless Redux](https://filibuster.transistor.fm/episodes/serverless-redux-halloween-edition)
 
-- [Safely renaming a table with no downtime in Postgres](https://brandur.org/fragments/postgres-table-rename)
+- [Jakt Programming Language](https://github.com/SerenityOS/jakt)
 
-- [Announcing the Haskell Error Index](https://discourse.haskell.org/t/announcing-the-haskell-error-index/5195)
+- [Shell Of A New Machine: Quickly configure new environments](https://github.com/benwr/soanm)
 
-- [Booting an M1 Mac from hardware to kexts](https://eclecticlight.co/2022/01/04/booting-an-m1-mac-from-hardware-to-kexts-1-hardware/)
+- [rbperf: A sampling profiler and tracer for Ruby which runs in BPF](https://github.com/javierhonduco/rbperf)
 
-- [What do we really mean by microservice configuration?](https://encore.dev/blog/designing-a-config-api)
+- [Kemal: Lightning fast, super simple web framework written in Crystal](https://kemalcr.com/)
 
-- [nes-nesume: A NES game based resume in ROM format](https://github.com/ronaldstoner/nes-nesume)
+- [Hunting kernel lock and interrupt latency](https://mail-index.netbsd.org/tech-kern/2022/10/30/msg028499.html)
 
-- [What if the team hates my functional code?](https://jrsinclair.com/articles/2022/what-if-the-team-hates-my-functional-code/)
+- [Ideal open source](https://nedbatchelder.com/blog/202210/ideal_open_source.html)
 
-- [Upcoming critical OpenSSL CVE](https://mta.openssl.org/pipermail/openssl-announce/2022-October/000238.html)
+- [A minimal RocksDB example with Zig](https://notes.eatonphil.com/zigrocks.html)
 
-- [How to speed up the Rust compiler in October 2022](https://nnethercote.github.io/2022/10/27/how-to-speed-up-the-rust-compiler-in-october-2022.html)
+- [If one GUI's not enough for your SPARC workstation, try four](https://oldvcr.blogspot.com/2022/10/if-one-guis-not-enough-for-your-sparc.html)
 
-- [specialist: Visualize CPython 3.11's specializing, adaptive interpreter](https://pypi.org/project/specialist/)
+- [Legacy Database Migration: What To Know Before You Start](https://redis.com/blog/legacy-database-migration/)
 
-- [How to leverage HTTP conditional requests to build robust REST APIs](https://quadratic.fm/p/how-meta-microsoft-google-github)
+- [The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/)
 
-- [Starting Services](https://quindarius.com/timeline/2022/10/27/starting-services.html)
+- [About the sqlite3 WASM/JS Subproject](https://sqlite.org/wasm/doc/tip/about.md)
 
-- [Towards the next generation of XNU memory safety: kalloc_type](https://security.apple.com/blog/towards-the-next-generation-of-xnu-memory-safety/)
+- [50 Useful Vim Commands](https://vimtricks.com/p/50-useful-vim-commands/)
 
-- [Shell Script Best Practices](https://sharats.me/posts/shell-script-best-practices/)
+- [Discerning the Dominant Out-of-Order Performance Advantage: Is it Speculation or Dynamism? (2013)](https://www.cs.cmu.edu/afs/cs/academic/class/15740-f18/www/papers/asplos13-mcfarlin-ooo.pdf)
 
-- [Beating Super Mario Bros 3 in 19 frames](https://tasvideos.org/7245S)
+- [Workarounds to Computer Access in Healthcare Organizations: You Want My Password or a Dead Patient?](https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf)
 
-- [The Linux Userspace API (UAPI) Group](https://uapi-group.org/)
+- [Plasma 5.26 review - Pretty reasonable](https://www.dedoimedo.com/computers/plasma-5-26-review.html)
 
-- [Our computer security problems are our own fault](https://utcc.utoronto.ca/~cks/space/blog/tech/SecurityItsOurOwnFault)
+- [Idris 2 version 0.6.0 Released](https://www.idris-lang.org/idris-2-version-060-released.html)
 
-- [Undecidability (1999)](https://www.cs.rochester.edu/u/nelson/courses/csc_173/computability/undecidable.html)
+- [A Tour of C++, 3rd edition (covering C++20 plus a few likely features of C++23)](https://www.stroustrup.com/tour3.html)
 
-- [Keyboard Shortcuts every Command Line Hacker should know about GNU Readline](https://www.masteringemacs.org/article/keyboard-shortcuts-every-command-line-hacker-should-know-about-gnu-readline)
+- [RIP: Kathleen Booth, the inventor of assembly language](https://www.telegraph.co.uk/obituaries/2022/10/25/kathleen-booth-computer-pioneer-who-made-major-breakthrough/)
 
-- [Sidekiq 7.0](https://www.mikeperham.com/2022/10/27/introducing-sidekiq-7.0/)
+- [Agon light - low cost open-source 8-bit microcomputer and microcontroller](https://www.thebyteattic.com/p/agon.html)
+
+- [Compatibility: How Go Programs Keep Working](https://www.youtube.com/watch?v=v24wrd3RwGo)
