@@ -1,49 +1,45 @@
 - [Does experience make you a better programmer?](https://austinhenley.com/blog/experienceversusskill.html)
 
+- [Lessons Learned from a Hardware Upgrade Gone Wrong](https://batsov.com/articles/2022/10/30/lessons-learned-from-a-hardware-upgrade-gone-wrong/)
+
 - [Decker](https://beyondloom.com/decker/index.html)
 
-- [An Apple II Tale Told Complete by the Late Tony Diaz](https://bytecellar.com/2022/10/29/an-apple-ii-tale-told-complete-by-the-late-tony-diaz/)
+- [Linux on Microsoft Dev Kit 2023](https://blog.alexellis.io/linux-on-microsoft-dev-kit-2023/)
 
-- [Télétel, the French Internet of the 80s — How did it work?](https://dmitryelj.medium.com/t%C3%A9l%C3%A9tel-the-french-internet-of-the-80s-how-did-it-work-f910666a80c1)
+- [Google explains why it's removing JPEG XL from the Chromium code base](https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c84)
 
-- [Brewing Microservices | Serverless Redux](https://filibuster.transistor.fm/episodes/serverless-redux-halloween-edition)
+- [Why does MS-DOS put an int 20h at byte 0 of the COM file program segment?](https://devblogs.microsoft.com/oldnewthing/20200309-00/?p=103547)
 
-- [Jakt Programming Language](https://github.com/SerenityOS/jakt)
-
-- [Shell Of A New Machine: Quickly configure new environments](https://github.com/benwr/soanm)
+- [A configuration management system for Pets, not Cattle](https://github.com/ema/pets)
 
 - [rbperf: A sampling profiler and tracer for Ruby which runs in BPF](https://github.com/javierhonduco/rbperf)
 
-- [Kemal: Lightning fast, super simple web framework written in Crystal](https://kemalcr.com/)
+- [Python 3.11 micro-benchmark](https://kracekumar.com/post/micro-benchmark-python-311/)
 
-- [Hunting kernel lock and interrupt latency](https://mail-index.netbsd.org/tech-kern/2022/10/30/msg028499.html)
+- [Elements Of a Great Markup Language](https://matklad.github.io/2022/10/28/elements-of-a-great-markup-language.html)
 
-- [Ideal open source](https://nedbatchelder.com/blog/202210/ideal_open_source.html)
+- [Approaches in Cloud Development Ergonomics](https://metalbear.co/blog/approaches-in-cloud-development-ergonomics/)
 
 - [A minimal RocksDB example with Zig](https://notes.eatonphil.com/zigrocks.html)
 
 - [If one GUI's not enough for your SPARC workstation, try four](https://oldvcr.blogspot.com/2022/10/if-one-guis-not-enough-for-your-sparc.html)
 
-- [Legacy Database Migration: What To Know Before You Start](https://redis.com/blog/legacy-database-migration/)
+- [The SAFe Delusion – Information for decision-makers considering the SAFe framework](https://safedelusion.com)
 
-- [The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/)
+- [SourceHut terms of service updates, cryptocurrency-related projects to be removed](https://sourcehut.org/blog/2022-10-31-tos-update-cryptocurrency/)
 
-- [About the sqlite3 WASM/JS Subproject](https://sqlite.org/wasm/doc/tip/about.md)
+- [Wiring my home with Fiber](https://sschueller.github.io/posts/wiring-a-home-with-fiber/)
 
-- [50 Useful Vim Commands](https://vimtricks.com/p/50-useful-vim-commands/)
+- [We Need a Replacement for TCP in the Datacenter](https://web.stanford.edu/~ouster/cgi-bin/papers/replaceTcp.pdf)
 
-- [Discerning the Dominant Out-of-Order Performance Advantage: Is it Speculation or Dynamism? (2013)](https://www.cs.cmu.edu/afs/cs/academic/class/15740-f18/www/papers/asplos13-mcfarlin-ooo.pdf)
+- [I made outlines for KDE Breeze window decoration](https://www.akselmo.dev/2022/10/31/I-made-outlines-for-KDE-Breeze.html)
 
-- [Workarounds to Computer Access in Healthcare Organizations: You Want My Password or a Dead Patient?](https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf)
+- [Using Go's runtime/cgo to pass values between C and Go](https://www.arsenm.dev/blog/runtime-cgo/)
 
-- [Plasma 5.26 review - Pretty reasonable](https://www.dedoimedo.com/computers/plasma-5-26-review.html)
-
-- [Idris 2 version 0.6.0 Released](https://www.idris-lang.org/idris-2-version-060-released.html)
-
-- [A Tour of C++, 3rd edition (covering C++20 plus a few likely features of C++23)](https://www.stroustrup.com/tour3.html)
+- [Data validation in Haskell with newtypes, smart constructors, and aeson](https://www.dylanamartin.com/2022/10/31/use-newtypes-for-typesafe-data-validation-with-aeson.html)
 
 - [RIP: Kathleen Booth, the inventor of assembly language](https://www.telegraph.co.uk/obituaries/2022/10/25/kathleen-booth-computer-pioneer-who-made-major-breakthrough/)
 
-- [Agon light - low cost open-source 8-bit microcomputer and microcontroller](https://www.thebyteattic.com/p/agon.html)
+- [Synit and SqueakPhone demo](https://www.youtube.com/watch?v=aEfssFQ1X1M)
 
-- [Compatibility: How Go Programs Keep Working](https://www.youtube.com/watch?v=v24wrd3RwGo)
+- [Zig 0.10.0 Release Notes](https://ziglang.org/download/0.10.0/release-notes.html)
