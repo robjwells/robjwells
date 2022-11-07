@@ -1,47 +1,45 @@
-- [GPT-3 Can Talk Like the Philosopher Daniel Dennett Without Parroting His Words](http://schwitzsplinters.blogspot.com/2022/11/gpt-3-can-talk-like-dennett-without.html)
+- [In defense of linked lists](http://antirez.com/news/138)
 
-- [Thoughts on Rust after six months (2019)](https://127.io/2019/02/22/rust-six-months-later/)
+- [The Peep of Lil](https://beyondloom.com/blog/peepoflil.html#fnref:1)
 
-- [Darklang Release 6](https://blog.darklang.com/darklang-release-6/)
+- [Performance Musings](https://blog.broulik.de/2022/11/performance-musings/)
 
-- [Announcing Rust 1.65.0](https://blog.rust-lang.org/2022/11/03/Rust-1.65.0.html)
+- [Reverse Branch Target Buffer Poisoning](https://cos.ufrj.br/uploadfile/publicacao/3061.pdf)
 
-- [The Case for JPEG XL](https://cloudinary.com/blog/the-case-for-jpeg-xl)
+- [janky twitter replacement using git](https://github.com/diracdeltas/tweets)
 
-- [Developing on Remote Machines using SSH and Visual Studio Code](https://code.visualstudio.com/docs/remote/ssh)
+- [clex is a simple lexer generator for C](https://github.com/jafarlihi/clex)
 
-- [The Lemon Sours Surges](https://computeradsfromthepast.substack.com/p/the-lemon-sours-surges)
+- [Making a DNS query in Ruby from scratch](https://jvns.ca/blog/2022/11/06/making-a-dns-query-in-ruby-from-scratch/)
 
-- [The New CSS Media Query Range Syntax](https://css-tricks.com/the-new-css-media-query-range-syntax/)
+- [lld linked musl on PowerPC64](https://maskray.me/blog/2022-11-05-lld-musl-powerpc64)
 
-- [Things I learned at PGConf.EU 2022](https://domm.plix.at/perl/2022_10_things_i_learned_at_pgconfeu.html)
+- [Haskell, Python, and Readability](https://mazzo.li/posts/haskell-readability.html)
 
-- [OKLCH in CSS: why we moved from RGB and HSL](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
+- [The essence of Reed-Solomon coding](https://mazzo.li/posts/reed-solomon.html)
 
-- [Reselling Kubernetes](https://garrit.xyz/posts/2022-11-03-reselling-managed-kubernetes)
+- [A case for Go code generation: testify](https://medium.com/@derfrb/a-case-for-go-code-generation-testify-73a4b0d46cb1)
 
-- [Why Lisp](https://github.com/naver/lispe/wiki/6.16-Why-Lisp)
+- [Running a pinball game from a disk image doesn't make me a pirate](https://oldvcr.blogspot.com/2022/11/running-pinball-game-from-disk-image.html)
 
-- [GitHub Copilot litigation](https://githubcopilotlitigation.com)
+- [MDN converted to Markdown](https://openwebdocs.org/content/posts/markdown-conversion/)
 
-- [Google Play will prevent VPN apps from interacting with and blocking ads](https://mezha.media/en/2022/08/31/google-play-will-prevent-vpn-apps-from-interacting-with-and-blocking-ads/)
+- [Vector text rendering in Unreal Engine](https://sasmaster.medium.com/vector-text-rendering-in-unreal-engine-a222897a3131)
 
-- [Binary Packet Parsing](https://mmhaskell.com/blog/2022/10/31/binary-packet-parsing)
+- [When Network is Faster than Cache](https://simonhearne.com/2020/network-faster-than-cache/)
 
-- [mosh 1.4.0 released](https://mosh.org/mosh-1.4.0-released.html)
+- [What to blog about](https://simonwillison.net/2022/Nov/6/what-to-blog-about/)
 
-- [Nix.Camp 2021 to 2022](https://nix.how/blog/nixcamp-2021-to-2022)
+- [Making Tables Responsive With Minimal CSS (2019)](https://tdarb.org/blog/responsive-tables.html)
 
-- [FreeBSD optimizations used by Netflix to serve video at 800Gb/s from a single server](https://people.freebsd.org/~gallatin/talks/euro2022.pdf)
+- [How close is RISC-V to RISC-I?](https://web.archive.org/web/20220331041830/https://aspire.eecs.berkeley.edu/2017/06/how-close-is-risc-v-to-risc-i/)
 
-- [Good old-fashioned code optimization never goes out of style](https://pythonspeed.com/articles/old-fashioned-software-optimized/)
+- [5 Reasons Why Fortran is Still Used](https://www.matecdev.com/posts/why-fortran-still-used.html)
 
-- [Spinrite 6.0 on UEFI and an NVMe SSD drive](https://raymii.org/s/blog/Spinrite_6.0_on_UEFI_and_NVMe_ssd_drives.html)
+- [How To Corrupt An SQLite Database File](https://www.sqlite.org/howtocorrupt.html)
 
-- [Robb Oat is a robot software engineer](https://robboat.com)
+- [Stack Overflow CEO on how it became the world's most popular programming site](https://www.zdnet.com/article/stack-overflow-ceo-on-how-it-became-the-worlds-most-popular-programming-site/)
 
-- [Experiment: Improving the Rust book](https://rust-book.cs.brown.edu/)
+- [Xess 2: CSS variable edition](https://xeiaso.net/blog/xess-css-variables)
 
-- [mmap(1Tb): A Rust arena allocator (ab)using Linux overcommit](https://vgel.me/posts/mmap-arena-alloc/)
-
-- [Notes on Every Strangeloop 2022 Talk I Attended](https://www.hillelwayne.com/post/strangeloop-22/)
+- [Hey Emacs, where did I take that photo?](https://xenodium.com/hey-emacs-where-did-i-take-that-photo/)
