@@ -1,45 +1,45 @@
-- [In defense of linked lists](http://antirez.com/news/138)
+- [Redditor discovers legendary 1956 computer in grandparents’ basement](https://arstechnica.com/information-technology/2022/11/redditor-discovers-legendary-1956-computer-in-grandparents-basement/)
 
-- [The Peep of Lil](https://beyondloom.com/blog/peepoflil.html#fnref:1)
+- [Do Users Write More Insecure Code with AI Assistants?](https://arxiv.org/pdf/2211.03622.pdf)
 
-- [Performance Musings](https://blog.broulik.de/2022/11/performance-musings/)
+- [DOS Debugging Quirk (2014)](https://blog.danieljanus.pl/2014/04/06/dos-debugging-quirk/)
 
-- [Reverse Branch Target Buffer Poisoning](https://cos.ufrj.br/uploadfile/publicacao/3061.pdf)
+- [Announcing: Rescript-tea - the Elm Architecture for Rescript](https://blog.darklang.com/rescript-tea/)
 
-- [janky twitter replacement using git](https://github.com/diracdeltas/tweets)
+- [Forms should be postable without JavaScript](https://blog.jim-nielsen.com/2022/browsers-json-formdata/)
 
-- [clex is a simple lexer generator for C](https://github.com/jafarlihi/clex)
+- [We sign code now](https://blog.trailofbits.com/2022/11/08/sigstore-code-signing-verification-software-supply-chain/)
 
-- [Making a DNS query in Ruby from scratch](https://jvns.ca/blog/2022/11/06/making-a-dns-query-in-ruby-from-scratch/)
+- [.NET 7 is Available Today](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7/)
 
-- [lld linked musl on PowerPC64](https://maskray.me/blog/2022-11-05-lld-musl-powerpc64)
+- [Why is Rosetta 2 fast?](https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/)
 
-- [Haskell, Python, and Readability](https://mazzo.li/posts/haskell-readability.html)
+- [Containers are chroot with a Marketing Budget](https://earthly.dev/blog/chroot/)
 
-- [The essence of Reed-Solomon coding](https://mazzo.li/posts/reed-solomon.html)
+- [Public domain POSIX make](https://frippery.org/make/)
 
-- [A case for Go code generation: testify](https://medium.com/@derfrb/a-case-for-go-code-generation-testify-73a4b0d46cb1)
+- [Cozo – new Graph DB with Datalog, embedded like SQLite, written in Rust](https://github.com/cozodb/cozo)
 
-- [Running a pinball game from a disk image doesn't make me a pirate](https://oldvcr.blogspot.com/2022/11/running-pinball-game-from-disk-image.html)
+- [GitHub code search [Beta]](https://github.com/features/code-search)
 
-- [MDN converted to Markdown](https://openwebdocs.org/content/posts/markdown-conversion/)
+- [Squint is an experimental ClojureScript syntax to JavaScript compiler](https://github.com/squint-cljs/squint)
 
-- [Vector text rendering in Unreal Engine](https://sasmaster.medium.com/vector-text-rendering-in-unreal-engine-a222897a3131)
+- [Stretch iPhone to its Limit, a 2GiB Model that can Draw Everything in Your Pocket](https://liuliu.me/eyes/stretch-iphone-to-its-limit-a-2gib-model-that-can-draw-everything-in-your-pocket/)
 
-- [When Network is Faster than Cache](https://simonhearne.com/2020/network-faster-than-cache/)
+- [Three new utility functions in C++23](https://mariusbancila.ro/blog/2022/11/08/three-new-utility-functions-in-cpp23/)
 
-- [What to blog about](https://simonwillison.net/2022/Nov/6/what-to-blog-about/)
+- [Error Handling in Rust](https://nrc.github.io/error-docs/)
 
-- [Making Tables Responsive With Minimal CSS (2019)](https://tdarb.org/blog/responsive-tables.html)
+- [Dissecting Reolink RLC-810A Hardware: A Detailed View](https://serhack.me/articles/dissecting-reolink-rlc810a-hardware-detailed-view/)
 
-- [How close is RISC-V to RISC-I?](https://web.archive.org/web/20220331041830/https://aspire.eecs.berkeley.edu/2017/06/how-close-is-risc-v-to-risc-i/)
+- [Hash Codes, Non-Determinism, and Other Eldritch Horrors](https://verdagon.dev/blog/generics-hash-codes-horrors)
 
-- [5 Reasons Why Fortran is Still Used](https://www.matecdev.com/posts/why-fortran-still-used.html)
+- [A GC-Friendly Go Interning Cache](https://words.filippo.io/dispatches/certificate-interning/)
 
-- [How To Corrupt An SQLite Database File](https://www.sqlite.org/howtocorrupt.html)
+- [PyScript developments](https://www.anaconda.com/blog/pyscript-updates-bytecode-alliance-pyodide-and-micropython)
 
-- [Stack Overflow CEO on how it became the world's most popular programming site](https://www.zdnet.com/article/stack-overflow-ceo-on-how-it-became-the-worlds-most-popular-programming-site/)
+- [A Python 3.11 "gotcha"](https://www.b-list.org/weblog/2022/nov/08/python-311-gotcha/)
 
-- [Xess 2: CSS variable edition](https://xeiaso.net/blog/xess-css-variables)
+- [Improving the experience of JSON in Haskell with autodocodec and bifunctors](https://www.dylanamartin.com/2022/11/08/improving-the-aeson-experience.html)
 
-- [Hey Emacs, where did I take that photo?](https://xenodium.com/hey-emacs-where-did-i-take-that-photo/)
+- [Pairing on Open Source](https://www.schneems.com/2022/11/09/pairing-on-open-source/)
