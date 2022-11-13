@@ -1,45 +1,45 @@
-- [Redditor discovers legendary 1956 computer in grandparents’ basement](https://arstechnica.com/information-technology/2022/11/redditor-discovers-legendary-1956-computer-in-grandparents-basement/)
+- [The one about Lisp interactivity](http://blog.fogus.me/2022/11/10/the-one-about-lisp-interactivity/)
 
-- [Do Users Write More Insecure Code with AI Assistants?](https://arxiv.org/pdf/2211.03622.pdf)
+- [GZIP exceptions, but only on hot or rainy days](https://alexyorke.github.io/2022/11/11/gzip-exceptions-but-only-on-hot-or-rainy-days/)
 
-- [DOS Debugging Quirk (2014)](https://blog.danieljanus.pl/2014/04/06/dos-debugging-quirk/)
+- [Blessed.rs — an unofficial guide to the Rust ecosystem](https://blessed.rs/crates)
 
-- [Announcing: Rescript-tea - the Elm Architecture for Rescript](https://blog.darklang.com/rescript-tea/)
+- [Surviving and thriving through the 2022-11-05 meltdown](https://blog.freeradical.zone/post/surviving-thriving-through-2022-11-05-meltdown/)
 
-- [Forms should be postable without JavaScript](https://blog.jim-nielsen.com/2022/browsers-json-formdata/)
+- [B2G OS fork: Capyloon](https://capyloon.org/)
 
-- [We sign code now](https://blog.trailofbits.com/2022/11/08/sigstore-code-signing-verification-software-supply-chain/)
+- [#lang lua](https://defn.io/2022/11/12/ann-racket-lua/)
 
-- [.NET 7 is Available Today](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7/)
+- [Cap'n Proto v0.15: GATs, CapabilityServerSet, and async packing](https://dwrensha.github.io/capnproto-rust/2022/11/03/0.15-release.html)
 
-- [Why is Rosetta 2 fast?](https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/)
+- [Array short-circuiting in Futhark](https://futhark-lang.org/blog/2022-11-03-short-circuiting.html)
 
-- [Containers are chroot with a Marketing Budget](https://earthly.dev/blog/chroot/)
+- [zig-dns: Experimental DNS library implemented in zig](https://github.com/dantecatalfamo/zig-dns)
 
-- [Public domain POSIX make](https://frippery.org/make/)
+- [wInd3x: iPod Classic and Nano 3/4/5G bootrom exploit](https://github.com/freemyipod/wInd3x)
 
-- [Cozo – new Graph DB with Datalog, embedded like SQLite, written in Rust](https://github.com/cozodb/cozo)
+- [LeanQt - now with cross-platform windows and 2d graphics - on the way to the widgets](https://github.com/rochus-keller/LeanQt/releases/tag/2022-11-11)
 
-- [GitHub code search [Beta]](https://github.com/features/code-search)
+- [How stdbuf works](https://hmarr.com/blog/how-stdbuf-works/)
 
-- [Squint is an experimental ClojureScript syntax to JavaScript compiler](https://github.com/squint-cljs/squint)
+- [A cost model for Nim](https://nim-lang.org/blog/2022/11/11/a-cost-model-for-nim.html)
 
-- [Stretch iPhone to its Limit, a 2GiB Model that can Draw Everything in Your Pocket](https://liuliu.me/eyes/stretch-iphone-to-its-limit-a-2gib-model-that-can-draw-everything-in-your-pocket/)
+- [Meet your new two-factor authenticator: your Commodore 64](https://oldvcr.blogspot.com/2022/11/meet-your-new-two-factor-authenticator.html)
 
-- [Three new utility functions in C++23](https://mariusbancila.ro/blog/2022/11/08/three-new-utility-functions-in-cpp23/)
+- [Another Markdown implementation in Go (src.elv.sh/pkg/md)](https://pkg.go.dev/src.elv.sh/pkg/md@master)
 
-- [Error Handling in Rust](https://nrc.github.io/error-docs/)
+- [Refactoring with =delete](https://quuxplusone.github.io/blog/2022/11/11/refactoring-with-delete/)
 
-- [Dissecting Reolink RLC-810A Hardware: A Detailed View](https://serhack.me/articles/dissecting-reolink-rlc810a-hardware-detailed-view/)
+- [Announcing Rome v10 - A fast linter and formatter for JavaScript and TypeScript](https://rome.tools/blog/2022/11/08/rome-10/)
 
-- [Hash Codes, Non-Determinism, and Other Eldritch Horrors](https://verdagon.dev/blog/generics-hash-codes-horrors)
+- [Shufflecake: plausible deniability for multiple hidden filesystems on Linux](https://shufflecake.net/)
 
-- [A GC-Friendly Go Interning Cache](https://words.filippo.io/dispatches/certificate-interning/)
+- [Out of the Software Crisis: Systems-Thinking for Software Projects](https://softwarecrisis.baldurbjarnason.com/)
 
-- [PyScript developments](https://www.anaconda.com/blog/pyscript-updates-bytecode-alliance-pyodide-and-micropython)
+- [Thoughts on my first machine learning project](https://www.holovaty.com/writing/machine-learning-thoughts/)
 
-- [A Python 3.11 "gotcha"](https://www.b-list.org/weblog/2022/nov/08/python-311-gotcha/)
+- [Analyzing Carbon Dioxide levels while attending IETF-115 in London, UK](https://www.isi.edu/~hardaker/news/20221106-ietf-c02-analysis/)
 
-- [Improving the experience of JSON in Haskell with autodocodec and bifunctors](https://www.dylanamartin.com/2022/11/08/improving-the-aeson-experience.html)
+- [Why TypeScript Should Replace JavaScript in Your Tech Stack](https://www.typescriptcourse.com/why-typescript)
 
-- [Pairing on Open Source](https://www.schneems.com/2022/11/09/pairing-on-open-source/)
+- [Emacs: quickly killing processes](https://xenodium.com/emacs-quick-kill-process/)
