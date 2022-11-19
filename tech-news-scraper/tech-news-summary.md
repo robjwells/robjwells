@@ -1,49 +1,47 @@
-- [Digital Books wear out faster than Physical Books](http://blog.archive.org/2022/11/15/digital-books-wear-out-faster-than-physical-books/)
+- [Investigating why Steam started picking a random font](http://blog.pkh.me/p/35-investigating-why-steam-started-picking-a-random-font.html)
 
-- [Racket v8.7](https://blog.racket-lang.org/2022/11/racket-v8-7.html)
+- [Inside boost::unordered_flat_map](https://bannalia.blogspot.com/2022/11/inside-boostunorderedflatmap.html?m=1)
 
-- [ABI compatibility in Python: how hard could it be?](https://blog.trailofbits.com/2022/11/15/python-wheels-abi-abi3audit/)
+- [Letting mu4e reply from a catchall address](https://bascht.com/tech/2022/11/09/letting-mu4e-reply-from-a-catchall-address/)
 
-- [Why do we call it "boilerplate code?"](https://buttondown.email/hillelwayne/archive/why-do-we-call-it-boilerplate-code/)
+- [MicroPython officially becomes part of the Arduino ecosystem](https://blog.arduino.cc/2022/11/10/micropython-officially-becomes-part-of-the-arduino-ecosystem/)
 
-- [Perl is Actually Portable](https://computoid.com/posts/Perl-is-Actually-Portable.html)
+- [Is Everything Is A File?](https://blog.sunfishcode.online/is-everything-is-a-file/)
 
-- [How fast is ASP.NET Core?](https://dusted.codes/how-fast-is-really-aspnet-core)
+- [Bringing revsets to Git](https://blog.waleedkhan.name/bringing-revsets-to-git/)
 
-- [Sapling: Source control that’s user-friendly and scalable](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/)
+- [target_clones is a trap](https://cohost.org/zeux/post/321642-target-clones-is-a-t)
 
-- [Stacked Area Graphs Are Not Your Friend](https://everydayanalytics.ca/2014/08/stacked-area-graphs-are-not-your-friend.html)
+- [Considering C99 for curl](https://daniel.haxx.se/blog/2022/11/17/considering-c99-for-curl/)
 
-- [Announcing Fedora Linux 37](https://fedoramagazine.org/announcing-fedora-37/)
+- [Faster DNS name decompression](https://dotat.at/@/2022-11-17-dns-decompress.html)
 
-- [cparse is an LR(1) parser generator for C](https://github.com/jafarlihi/cparse)
+- [Solving puzzles with hypothesis](https://edoput.it/2022/11/18/hypothesis.html)
 
-- [Making a Go program 42% faster with a one character change](https://hmarr.com/blog/go-allocation-hunting/)
+- [bluewhalesystems/sold: The sold linker](https://github.com/bluewhalesystems/sold)
 
-- [.io domains considered harmful](https://j3s.sh/thought/.io-domains-considered-harmful.html)
+- [Launchpad: All in one Kubernetes deployments](https://github.com/jetpack-io/launchpad)
 
-- [Why I enjoy using the Nim programming language at Reddit](https://old.reddit.com/r/RedditEng/comments/yvbt4h/why_i_enjoy_using_the_nim_programming_language_at/.compact)
+- [SPARK by Example is an adaptation of ACSL by Example for SPARK 2014, a programming language which is](https://github.com/tofgarion/spark-by-example/tree/Community2019)
 
-- [How PlanetScale Boost serves your SQL queries instantly](https://planetscale.com/blog/how-planetscale-boost-serves-your-sql-queries-instantly)
+- [Google's go styleguide](https://google.github.io/styleguide/go/guide)
 
-- [Stealing passwords from infosec Mastodon - without bypassing CSP](https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp)
+- [Kindelia Foundation](https://kindelia.org/)
 
-- [When to hold ’em and when to fold ’em: Adding a hinge to a Game Boy that God never intended](https://posts.decontextualize.com/pocket-sp/)
+- [Rust in the 6.2 kernel](https://lwn.net/SubscriberLink/914458/a6d5816bad1890e4/)
 
-- [Adventures in making my website: static site generation](https://prefetch.eu/blog/2022/website-adventures-generators/)
+- [The Rails Foundation kicks off with one million dollars](https://rubyonrails.org/2022/11/14/the-rails-foundation)
 
-- [Who controls parallelism? A disagreement that leads to slower code](https://pythonspeed.com/articles/concurrency-control/)
+- [RIP: Fred P. Brooks, computer scientist and author of "The Mythical Man-Month"](https://twitter.com/SteveBellovin/status/1593414068634734592)
 
-- [Split Your Overwhelmed Teams](https://queue.acm.org/detail.cfm?id=3570920)
+- [New SI prefixes just dropped](https://www.bipm.org/documents/20126/77765681/Resolutions-2022.pdf/281f3160-fc56-3e63-dbf7-77b76500990f)
 
-- [More Evidence for Problems in VM Warmup](https://tratt.net/laurie/blog/2022/more_evidence_for_problems_in_vm_warmup.html)
+- [The Fediverse Could Be Awesome (if we don’t screw it up)](https://www.eff.org/deeplinks/2022/11/fediverse-could-be-awesome-if-we-dont-screw-it)
 
-- [Paxos, Raft, EPaxos: How Has Distributed Consensus Technology Evolved?](https://www.alibabacloud.com/blog/paxos-raft-epaxos-how-has-distributed-consensus-technology-evolved_597127)
+- [Unauthenticated Remote Code Execution in Spotify’s Backstage](https://www.oxeye.io/blog/remote-code-execution-in-spotifys-backstage)
 
-- [Filespooler](https://www.complete.org/filespooler/)
+- [Resize a video with FFmpeg for Mastodon](https://www.paulox.net/2022/11/17/resize-a-video-with-ffmpeg-for-mastodon/)
 
-- [Rewriting as a Computational Paradigm](https://www.freefour.com/rewriting-as-a-computational-paradigm/)
+- [How to use a Raspberry Pi in kiosk mode](https://www.raspberrypi.com/tutorials/how-to-use-a-raspberry-pi-in-kiosk-mode/)
 
-- [Haiku Activity & Contract Report, October 2022](https://www.haiku-os.org/blog/waddlesplash/2022-11-14_haiku_activity_contract_report_october_2022/)
-
-- [TinyCPM - CP/M on a Tiny 2040](https://www.kianryan.co.uk/2022-11-14-tiny-cpm/)
+- [Swift project in 2023](https://www.swift.org/blog/focus-areas-2023/)
