@@ -1,47 +1,47 @@
-- [Investigating why Steam started picking a random font](http://blog.pkh.me/p/35-investigating-why-steam-started-picking-a-random-font.html)
+- [Are we stack-efficient yet?](https://arewestackefficientyet.com/)
 
-- [Inside boost::unordered_flat_map](https://bannalia.blogspot.com/2022/11/inside-boostunorderedflatmap.html?m=1)
+- [A history of ARM, part 2: Everything starts to come together](https://arstechnica.com/?p=1896053)
 
-- [Letting mu4e reply from a catchall address](https://bascht.com/tech/2022/11/09/letting-mu4e-reply-from-a-catchall-address/)
+- [Applications of Quantum Annealing in Cryptography](https://arxiv.org/pdf/2211.10076.pdf)
 
-- [MicroPython officially becomes part of the Arduino ecosystem](https://blog.arduino.cc/2022/11/10/micropython-officially-becomes-part-of-the-arduino-ecosystem/)
+- [Intel 8080 CPU Chip Development (2007)](https://baltazarstudios.com/webshare/A-Z80/Library/Intel%208080%20CPU%20Chip%20Development%20(IEEE).pdf)
 
-- [Is Everything Is A File?](https://blog.sunfishcode.online/is-everything-is-a-file/)
+- [Little Languages Are The Future Of Programming](https://chreke.com/little-languages.html)
 
-- [Bringing revsets to Git](https://blog.waleedkhan.name/bringing-revsets-to-git/)
+- [Deploying Nix-built containers to Kubernetes](https://determinate.systems/posts/nix-to-kubernetes)
 
-- [target_clones is a trap](https://cohost.org/zeux/post/321642-target-clones-is-a-t)
+- [CVE-2022-41924 - RCE in Tailscale, DNS Rebinding, and You](https://emily.id.au/tailscale)
 
-- [Considering C99 for curl](https://daniel.haxx.se/blog/2022/11/17/considering-c99-for-curl/)
+- [How Precision Time Protocol is being deployed at Meta](https://engineering.fb.com/2022/11/21/production-engineering/precision-time-protocol-at-meta/)
 
-- [Faster DNS name decompression](https://dotat.at/@/2022-11-17-dns-decompress.html)
+- [Always use [closed, open) intervals](https://fhur.me/posts/always-use-closed-open-intervals)
 
-- [Solving puzzles with hypothesis](https://edoput.it/2022/11/18/hypothesis.html)
+- [Buzz, a small/lightweight typed scripting language written in Zig](https://github.com/buzz-language/buzz)
 
-- [bluewhalesystems/sold: The sold linker](https://github.com/bluewhalesystems/sold)
+- [connmap is an X11 desktop widget that shows location of your current network peers on a world map (tested only with i3wm). Made with C and libcairo](https://github.com/jafarlihi/connmap)
 
-- [Launchpad: All in one Kubernetes deployments](https://github.com/jetpack-io/launchpad)
+- [chalk.ahk: An AutoHotkey library for colorizing terminal output](https://github.com/joshuacc/chalk.ahk)
 
-- [SPARK by Example is an adaptation of ACSL by Example for SPARK 2014, a programming language which is](https://github.com/tofgarion/spark-by-example/tree/Community2019)
+- [Building a BFT JSON CRDT](https://jzhao.xyz/posts/bft-json-crdt/)
 
-- [Google's go styleguide](https://google.github.io/styleguide/go/guide)
+- [Python Type Hints: case study on Parsy](https://lukeplant.me.uk/blog/posts/python-type-hints-parsy-case-study/)
 
-- [Kindelia Foundation](https://kindelia.org/)
+- [Exploiting Protocols for Fun](https://matt-rickard.com/exploiting-protocols-for-fun)
 
-- [Rust in the 6.2 kernel](https://lwn.net/SubscriberLink/914458/a6d5816bad1890e4/)
+- [VMAF FTW: How Vimeo turned a metric for video quality into better adaptive streaming](https://medium.com/vimeo-engineering-blog/vmaf-ftw-67c154424c0c)
 
-- [The Rails Foundation kicks off with one million dollars](https://rubyonrails.org/2022/11/14/the-rails-foundation)
+- [Self-hosting GoToSocial on NixOS](https://notes.abhinavsarkar.net/2022/gotosocial-on-nixos)
 
-- [RIP: Fred P. Brooks, computer scientist and author of "The Mythical Man-Month"](https://twitter.com/SteveBellovin/status/1593414068634734592)
+- [A jq255 Elliptic Curve Specification, and a Retrospective](https://research.nccgroup.com/2022/11/21/a-jq255-elliptic-curve-specification-and-a-retrospective/)
 
-- [New SI prefixes just dropped](https://www.bipm.org/documents/20126/77765681/Resolutions-2022.pdf/281f3160-fc56-3e63-dbf7-77b76500990f)
+- [kmem_guard_t](https://saaramar.github.io/kmem_guard_t_blogpost/)
 
-- [The Fediverse Could Be Awesome (if we don’t screw it up)](https://www.eff.org/deeplinks/2022/11/fediverse-could-be-awesome-if-we-dont-screw-it)
+- [Programming is a Pop Culture](https://www.baldurbjarnason.com/2022/programming-is-a-pop-culture/)
 
-- [Unauthenticated Remote Code Execution in Spotify’s Backstage](https://www.oxeye.io/blog/remote-code-execution-in-spotifys-backstage)
+- [Rust enum-match code generation](https://www.eventhelix.com/rust/rust-to-assembly-enum-match/)
 
-- [Resize a video with FFmpeg for Mastodon](https://www.paulox.net/2022/11/17/resize-a-video-with-ffmpeg-for-mastodon/)
+- [Rethinking the Library OS from the Top Down (2011)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/asplos2011-drawbridge.pdf)
 
-- [How to use a Raspberry Pi in kiosk mode](https://www.raspberrypi.com/tutorials/how-to-use-a-raspberry-pi-in-kiosk-mode/)
+- [C++ Move Semantics Considered Harmful (Rust is better) (2021)](https://www.thecodedmessage.com/posts/cpp-move/)
 
-- [Swift project in 2023](https://www.swift.org/blog/focus-areas-2023/)
+- [Taming the fox](https://www.youtube.com/watch?v=JbawVeKFLMc)
