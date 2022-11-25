@@ -1,47 +1,47 @@
-- [Are we stack-efficient yet?](https://arewestackefficientyet.com/)
+- [The night of 1000 alerts (but only on the Linux boxes)](http://rachelbythebay.com/w/2022/11/23/alerts/)
 
-- [A history of ARM, part 2: Everything starts to come together](https://arstechnica.com/?p=1896053)
+- [Takahē 0.3.0 - Aeracode](https://aeracode.org/2022/11/24/takahe-030/)
 
-- [Applications of Quantum Annealing in Cryptography](https://arxiv.org/pdf/2211.10076.pdf)
+- [Ruby adds a new core class called Data to represent simple immutable value objects](https://blog.saeloun.com/2022/11/22/data-immutable-object)
 
-- [Intel 8080 CPU Chip Development (2007)](https://baltazarstudios.com/webshare/A-Z80/Library/Intel%208080%20CPU%20Chip%20Development%20(IEEE).pdf)
+- [Ignore RuboCop changes in Git Blame](https://blog.testdouble.com/posts/2022-11-21-rubocop-git-blame/)
 
-- [Little Languages Are The Future Of Programming](https://chreke.com/little-languages.html)
+- [Database optimisation, analytics and burnout](https://blog.zm.is/database-optimisation-analytics-burnout/)
 
-- [Deploying Nix-built containers to Kubernetes](https://determinate.systems/posts/nix-to-kubernetes)
+- [You'll Never Do Agile Right](https://danschnau.com/blog/agile_is_meaningless)
 
-- [CVE-2022-41924 - RCE in Tailscale, DNS Rebinding, and You](https://emily.id.au/tailscale)
+- [Diátaxis](https://diataxis.fr/)
 
-- [How Precision Time Protocol is being deployed at Meta](https://engineering.fb.com/2022/11/21/production-engineering/precision-time-protocol-at-meta/)
+- [2 years at Twitter](https://eed3si9n.com/2years-at-twitter/)
 
-- [Always use [closed, open) intervals](https://fhur.me/posts/always-use-closed-open-intervals)
+- [Compiler Errors for Humans (2015)](https://elm-lang.org/news/compiler-errors-for-humans)
 
-- [Buzz, a small/lightweight typed scripting language written in Zig](https://github.com/buzz-language/buzz)
+- [Smart Move, Google](https://garrit.xyz/posts/2022-11-24-smart-move-google)
 
-- [connmap is an X11 desktop widget that shows location of your current network peers on a world map (tested only with i3wm). Made with C and libcairo](https://github.com/jafarlihi/connmap)
+- [Jessie, simple universal safe mobile code](https://github.com/endojs/Jessie)
 
-- [chalk.ahk: An AutoHotkey library for colorizing terminal output](https://github.com/joshuacc/chalk.ahk)
+- [Bookmark: gather information on a Linux process' physical memory pages' status](https://github.com/javierhonduco/bookmark)
 
-- [Building a BFT JSON CRDT](https://jzhao.xyz/posts/bft-json-crdt/)
+- [Gleam v0.25 - Introducing use expressions](https://gleam.run/news/v0.25-introducing-use-expressions/)
 
-- [Python Type Hints: case study on Parsy](https://lukeplant.me.uk/blog/posts/python-type-hints-parsy-case-study/)
+- [Installing OpenBSD on Oracle Cloud](https://icyphox.sh/blog/openbsd-oci/)
 
-- [Exploiting Protocols for Fun](https://matt-rickard.com/exploiting-protocols-for-fun)
+- [An efficient ActivityPub Server, for small installs with multiple domains](https://jointakahe.org/)
 
-- [VMAF FTW: How Vimeo turned a metric for video quality into better adaptive streaming](https://medium.com/vimeo-engineering-blog/vmaf-ftw-67c154424c0c)
+- [OCI stack ported to FreeBSD](https://mastodon.world/@dfr/109398481906495685)
 
-- [Self-hosting GoToSocial on NixOS](https://notes.abhinavsarkar.net/2022/gotosocial-on-nixos)
+- [Using Rust at a startup: A cautionary tale](https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454)
 
-- [A jq255 Elliptic Curve Specification, and a Retrospective](https://research.nccgroup.com/2022/11/21/a-jq255-elliptic-curve-specification-and-a-retrospective/)
+- [You Must Be 64-Bit to Ride This Ferry](https://medium.com/@joey.watts/you-must-be-64-bit-to-ride-this-ferry-61ed45c57a93)
 
-- [kmem_guard_t](https://saaramar.github.io/kmem_guard_t_blogpost/)
+- [Writing docs well: why should a software engineer care?](https://surfingcomplexity.blog/2022/11/24/writing-docs-well-why-should-a-software-engineer-care/)
 
-- [Programming is a Pop Culture](https://www.baldurbjarnason.com/2022/programming-is-a-pop-culture/)
+- [An End to KASLR Bypasses?](https://windows-internals.com/an-end-to-kaslr-bypasses/)
 
-- [Rust enum-match code generation](https://www.eventhelix.com/rust/rust-to-assembly-enum-match/)
+- [Federico Mena-Quintero talks about the Document-Centric Desktop (2011)](https://www.derstandard.at/story/1318461320472/federico-mena-quintero-talks-about-the-document-centric-desktop)
 
-- [Rethinking the Library OS from the Top Down (2011)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/asplos2011-drawbridge.pdf)
+- [The Great Renaming FAQ 1985 - 1988](https://www.livinginternet.com/u/ui_modern_renamingfaq.htm)
 
-- [C++ Move Semantics Considered Harmful (Rust is better) (2021)](https://www.thecodedmessage.com/posts/cpp-move/)
+- [Honk into ActivityPub](https://x61.sh/log/2022/10/20221015T145211-honk.html)
 
-- [Taming the fox](https://www.youtube.com/watch?v=JbawVeKFLMc)
+- [Dendrite (Matrix) over OpenBSD](https://x61.sh/log/2022/10/20221021T153746-dendrite.html)
