@@ -1,47 +1,49 @@
-- [The night of 1000 alerts (but only on the Linux boxes)](http://rachelbythebay.com/w/2022/11/23/alerts/)
+- [GCC undefined behaviors are getting wild](http://blog.pkh.me/p/37-gcc-undefined-behaviors-are-getting-wild.html)
 
-- [Takahē 0.3.0 - Aeracode](https://aeracode.org/2022/11/24/takahe-030/)
+- [A bug fix in the 8086 microprocessor, revealed in the die's silicon](http://www.righto.com/2022/11/a-bug-fix-in-8086-microprocessor.html)
 
-- [Ruby adds a new core class called Data to represent simple immutable value objects](https://blog.saeloun.com/2022/11/22/data-immutable-object)
+- [Simple Refinement of Anonymous Sum Types in Pattern Matches](https://ayazhafiz.com/articles/22/simple-flow-refinement-of-anonymous-sum-types)
 
-- [Ignore RuboCop changes in Git Blame](https://blog.testdouble.com/posts/2022-11-21-rubocop-git-blame/)
+- [I/O is no longer the bottleneck](https://benhoyt.com/writings/io-is-no-longer-the-bottleneck/)
 
-- [Database optimisation, analytics and burnout](https://blog.zm.is/database-optimisation-analytics-burnout/)
+- [Taking a good picture of a PCB](https://blog.brixit.nl/taking-a-good-picture-from-a-pcb/)
 
-- [You'll Never Do Agile Right](https://danschnau.com/blog/agile_is_meaningless)
+- [LLVM's New Pass Manager (2021)](https://blog.llvm.org/posts/2021-03-26-the-new-pass-manager/)
 
-- [Diátaxis](https://diataxis.fr/)
+- [The Impossible Port: MacOS](https://blog.ryujinx.org/the-impossible-port-macos/)
 
-- [2 years at Twitter](https://eed3si9n.com/2years-at-twitter/)
+- [A pragmatic approach to shell completion](https://dev.to/rsteube/a-pragmatic-approach-to-shell-completion-4gp0)
 
-- [Compiler Errors for Humans (2015)](https://elm-lang.org/news/compiler-errors-for-humans)
+- [devenv 0.4 - Fast, Declarative, Reproducible, and Composable Developer Environments](https://devenv.sh/blog/2022/11/27/devenv-04)
 
-- [Smart Move, Google](https://garrit.xyz/posts/2022-11-24-smart-move-google)
+- [The Derby of Static Software Testing: Joern vs. CodeQl](https://elmanto.github.io/posts/sast_derby_joern_vs_codeql)
 
-- [Jessie, simple universal safe mobile code](https://github.com/endojs/Jessie)
+- [Meet the Library of Babel: Every Possible Combination of Letters That has Been (or could be) Written](https://futurism.com/meet-the-digital-library-of-babel-a-complete-combination-of-every-possible-combination-of-letters-ever)
 
-- [Bookmark: gather information on a Linux process' physical memory pages' status](https://github.com/javierhonduco/bookmark)
+- [KeenWrite 2.10.0: R meets TeX](https://github.com/DaveJarvis/keenwrite/releases/tag/2.10.0)
 
-- [Gleam v0.25 - Introducing use expressions](https://gleam.run/news/v0.25-introducing-use-expressions/)
+- [Git hook to automatically and safely sync .env variables with env.sample](https://github.com/acaloiaro/pre-commit-env-sample-sync)
 
-- [Installing OpenBSD on Oracle Cloud](https://icyphox.sh/blog/openbsd-oci/)
+- [Rune is a programming language developed to test ideas for improving security and efficiency](https://github.com/google/rune)
 
-- [An efficient ActivityPub Server, for small installs with multiple domains](https://jointakahe.org/)
+- [osquery: SQL powered operating system instrumentation, monitoring, and analytics](https://github.com/osquery/osquery)
 
-- [OCI stack ported to FreeBSD](https://mastodon.world/@dfr/109398481906495685)
+- [SuperMemo2 implementation in Zig](https://len.falken.directory/code/sm2.git/)
 
-- [Using Rust at a startup: A cautionary tale](https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454)
+- [SwiftUI is convenient, but slow](https://notes.alinpanaitiu.com/SwiftUI%20is%20convenient,%20but%20slow)
 
-- [You Must Be 64-Bit to Ride This Ferry](https://medium.com/@joey.watts/you-must-be-64-bit-to-ride-this-ferry-61ed45c57a93)
+- [Coping strategies for the serial project hoarder](https://simonwillison.net/2022/Nov/26/productivity/)
 
-- [Writing docs well: why should a software engineer care?](https://surfingcomplexity.blog/2022/11/24/writing-docs-well-why-should-a-software-engineer-care/)
+- [The inner workings of ZigSelf's actor model](https://sin-ack.github.io/posts/zigself-actor/)
 
-- [An End to KASLR Bypasses?](https://windows-internals.com/an-end-to-kaslr-bypasses/)
+- [Index Merges vs Composite Indexes in Postgres and MySQL](https://sirupsen.com/index-merges)
 
-- [Federico Mena-Quintero talks about the Document-Centric Desktop (2011)](https://www.derstandard.at/story/1318461320472/federico-mena-quintero-talks-about-the-document-centric-desktop)
+- [Computers are for Girls](https://www.datagubbe.se/girls/)
 
-- [The Great Renaming FAQ 1985 - 1988](https://www.livinginternet.com/u/ui_modern_renamingfaq.htm)
+- [Understand the Assembly Generated for Arrays, Tuples, Box, and Option](https://www.eventhelix.com/rust/rust-to-assembly-arrays-option-box/)
 
-- [Honk into ActivityPub](https://x61.sh/log/2022/10/20221015T145211-honk.html)
+- [WhatsApp data breach sees nearly 500 million user records up for sale](https://www.techradar.com/news/whatsapp-data-breach-sees-nearly-500-million-user-records-up-for-sale)
 
-- [Dendrite (Matrix) over OpenBSD](https://x61.sh/log/2022/10/20221021T153746-dendrite.html)
+- [Using nREPL as System Interface](https://yogthos.net/posts/2022-11-26-nREPL-system-interaction.html)
+
+- [[Pure C] Clang is better than GCC](https://yurichev.org/clang/)
