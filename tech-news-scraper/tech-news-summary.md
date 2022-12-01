@@ -1,49 +1,49 @@
-- [GCC undefined behaviors are getting wild](http://blog.pkh.me/p/37-gcc-undefined-behaviors-are-getting-wild.html)
+- [Writing a Chat Client from Scratch](http://blog.jmp.chat/b/2022-chat-client-from-scratch)
 
-- [A bug fix in the 8086 microprocessor, revealed in the die's silicon](http://www.righto.com/2022/11/a-bug-fix-in-8086-microprocessor.html)
+- [‘Let It Crash’ under attack](http://blog.syncpup.com/posts/let-it-crash-under-attack.html)
 
-- [Simple Refinement of Anonymous Sum Types in Pattern Matches](https://ayazhafiz.com/articles/22/simple-flow-refinement-of-anonymous-sum-types)
+- [Firefox Translations – Translate websites in your browser without using the cloud](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/)
 
-- [I/O is no longer the bottleneck](https://benhoyt.com/writings/io-is-no-longer-the-bottleneck/)
+- [Advent of Code 2022](https://adventofcode.com/2022)
 
-- [Taking a good picture of a PCB](https://blog.brixit.nl/taking-a-good-picture-from-a-pcb/)
+- [Tales of the M1 GPU - Asahi Linux](https://asahilinux.org/2022/11/tales-of-the-m1-gpu/)
 
-- [LLVM's New Pass Manager (2021)](https://blog.llvm.org/posts/2021-03-26-the-new-pass-manager/)
+- [New details on commercial spyware vendor Variston](https://blog.google/threat-analysis-group/new-details-on-commercial-spyware-vendor-variston/)
 
-- [The Impossible Port: MacOS](https://blog.ryujinx.org/the-impossible-port-macos/)
+- [Emacs 29 is nigh! What can we expect?](https://blog.phundrak.com/emacs-29-what-can-we-expect/)
 
-- [A pragmatic approach to shell completion](https://dev.to/rsteube/a-pragmatic-approach-to-shell-completion-4gp0)
+- [How much does Rust's bounds checking actually cost?](https://blog.readyset.io/bounds-checks/)
 
-- [devenv 0.4 - Fast, Declarative, Reproducible, and Composable Developer Environments](https://devenv.sh/blog/2022/11/27/devenv-04)
+- [I am disappointed by dynamic typing](https://buttondown.email/hillelwayne/archive/i-am-disappointed-by-dynamic-typing/)
 
-- [The Derby of Static Software Testing: Joern vs. CodeQl](https://elmanto.github.io/posts/sast_derby_joern_vs_codeql)
+- [An Inverse Turing Test](https://calmcode.io/blog/inverse-turing-test.html)
 
-- [Meet the Library of Babel: Every Possible Combination of Letters That has Been (or could be) Written](https://futurism.com/meet-the-digital-library-of-babel-a-complete-combination-of-every-possible-combination-of-letters-ever)
+- [How to JIT](https://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction)
 
-- [KeenWrite 2.10.0: R meets TeX](https://github.com/DaveJarvis/keenwrite/releases/tag/2.10.0)
+- [Release 22.11 · NixOS/nixpkgs](https://github.com/NixOS/nixpkgs/releases/tag/22.11)
 
-- [Git hook to automatically and safely sync .env variables with env.sample](https://github.com/acaloiaro/pre-commit-env-sample-sync)
+- [WasmEdge, a high-performance WebAssembly runtime in C++  (Wasm on the serve side)](https://github.com/WasmEdge/WasmEdge)
 
-- [Rune is a programming language developed to test ideas for improving security and efficiency](https://github.com/google/rune)
+- [Python Random Graph Generator - Version 1.3](https://github.com/sepandhaghighi/pyrgg)
 
-- [osquery: SQL powered operating system instrumentation, monitoring, and analytics](https://github.com/osquery/osquery)
+- [Tandem – maliciously secure two-party computation engine written in Rust](https://github.com/sine-fdn/tandem)
 
-- [SuperMemo2 implementation in Zig](https://len.falken.directory/code/sm2.git/)
+- [Optimizing AWS F1 DMA](https://hackmd.io/RBnMLnVUR3O9_TkqCvHfRg)
 
-- [SwiftUI is convenient, but slow](https://notes.alinpanaitiu.com/SwiftUI%20is%20convenient,%20but%20slow)
+- [Behind the Pretty Frames: Death Stranding](https://mamoniem.com/behind-the-pretty-frames-death-stranding/)
 
-- [Coping strategies for the serial project hoarder](https://simonwillison.net/2022/Nov/26/productivity/)
+- [Speeding up the JavaScript ecosystem - one library at a time](https://marvinh.dev/blog/speeding-up-javascript-ecosystem/)
 
-- [The inner workings of ZigSelf's actor model](https://sin-ack.github.io/posts/zigself-actor/)
+- [Making unphishable 2FA phishable](https://mjg59.dreamwidth.org/62175.html)
 
-- [Index Merges vs Composite Indexes in Postgres and MySQL](https://sirupsen.com/index-merges)
+- [natto.dev - write JavaScript on a 2D canvas](https://natto.dev/@paul/f33b7f5924634fb687a90d85ed03f289)
 
-- [Computers are for Girls](https://www.datagubbe.se/girls/)
+- [Solving a Murder Mystery](https://paulosman.me/2022/11/29/solving-a-murder-mystery/)
 
-- [Understand the Assembly Generated for Arrays, Tuples, Box, and Option](https://www.eventhelix.com/rust/rust-to-assembly-arrays-option-box/)
+- [Simple Go link shortener for Tailscale](https://tailscale.com/blog/golink/)
 
-- [WhatsApp data breach sees nearly 500 million user records up for sale](https://www.techradar.com/news/whatsapp-data-breach-sees-nearly-500-million-user-records-up-for-sale)
+- [Implementing a New Memory Safety Approach, Part 1](https://verdagon.dev/blog/making-regions-part-1-human-factor)
 
-- [Using nREPL as System Interface](https://yogthos.net/posts/2022-11-26-nREPL-system-interaction.html)
+- [FreeBSD: Stack overflow in ping(8)](https://www.freebsd.org/security/advisories/FreeBSD-SA-22:15.ping.asc)
 
-- [[Pure C] Clang is better than GCC](https://yurichev.org/clang/)
+- [ACID: A Debugger Built from a Language](https://www.usenix.org/conference/usenix-winter-1994-technical-conference/acid-debugger-built-language)
