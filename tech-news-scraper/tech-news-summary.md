@@ -1,49 +1,49 @@
-- [Writing a Chat Client from Scratch](http://blog.jmp.chat/b/2022-chat-client-from-scratch)
+- [Twenty five thousand dollars of funny money](http://rachelbythebay.com/w/2022/12/02/25k/)
 
-- [‘Let It Crash’ under attack](http://blog.syncpup.com/posts/let-it-crash-under-attack.html)
+- [Refurbishing an HP C1400A Keyboard from an HP 700/96 Terminal](https://bigdanzblog.wordpress.com/2022/12/01/refurbishing-an-hp-c1400a-keyboard-from-an-hp-700-96-terminal/)
 
-- [Firefox Translations – Translate websites in your browser without using the cloud](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/)
+- [Adventures in Advent of Code](https://davedelong.com/blog/2022/12/03/adventures-in-advent-of-code/)
 
-- [Advent of Code 2022](https://adventofcode.com/2022)
+- [Super Charging Fine-Grained Reactive Performance](https://dev.to/modderme123/super-charging-fine-grained-reactive-performance-47ph)
 
-- [Tales of the M1 GPU - Asahi Linux](https://asahilinux.org/2022/11/tales-of-the-m1-gpu/)
+- [EmacsConf -  2022](https://emacsconf.org/2022/)
 
-- [New details on commercial spyware vendor Variston](https://blog.google/threat-analysis-group/new-details-on-commercial-spyware-vendor-variston/)
+- [The Trusted Platform Module Key Hierarchy](https://ericchiang.github.io/post/tpm-keys/)
 
-- [Emacs 29 is nigh! What can we expect?](https://blog.phundrak.com/emacs-29-what-can-we-expect/)
+- [Clerk Garden: a simple publishing space for Clerk notebooks](https://github.clerk.garden/)
 
-- [How much does Rust's bounds checking actually cost?](https://blog.readyset.io/bounds-checks/)
+- [buck2: Build system, successor to Buck](https://github.com/facebookincubator/buck2)
 
-- [I am disappointed by dynamic typing](https://buttondown.email/hillelwayne/archive/i-am-disappointed-by-dynamic-typing/)
+- [Go will add support for wrapping multiple errors in 1.20](https://github.com/golang/go/issues/53435)
 
-- [An Inverse Turing Test](https://calmcode.io/blog/inverse-turing-test.html)
+- [VimWiki release v2022.12.02](https://github.com/vimwiki/vimwiki/releases/tag/v2022.12.02)
 
-- [How to JIT](https://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction)
+- [I tried ChatGPT from OpenAI and my mind was blown](https://hackernoon.com/i-tried-chatgpt-from-openai-and-my-mind-was-blown)
 
-- [Release 22.11 · NixOS/nixpkgs](https://github.com/NixOS/nixpkgs/releases/tag/22.11)
+- [Scaling Mastodon: The Compendium](https://hazelweakly.me/blog/scaling-mastodon)
 
-- [WasmEdge, a high-performance WebAssembly runtime in C++  (Wasm on the serve side)](https://github.com/WasmEdge/WasmEdge)
+- [Getting Started with PDQ Deploy & Inventory](https://lazyadmin.nl/it/pdq-deploy-inventory/)
 
-- [Python Random Graph Generator - Version 1.3](https://github.com/sepandhaghighi/pyrgg)
+- [Solving Rock-Paper-Scissors in Type-level Haskell](https://notes.abhinavsarkar.net/2022/type-level-rps)
 
-- [Tandem – maliciously secure two-party computation engine written in Rust](https://github.com/sine-fdn/tandem)
+- [Is it worth writing about?](https://notes.eatonphil.com/is-it-worth-writing-about.html)
 
-- [Optimizing AWS F1 DMA](https://hackmd.io/RBnMLnVUR3O9_TkqCvHfRg)
+- [Magic Cap, from the Magic Link to the DataRover and the stuff in-between](https://oldvcr.blogspot.com/2022/12/magic-cap-from-magic-link-to-datarover.html)
 
-- [Behind the Pretty Frames: Death Stranding](https://mamoniem.com/behind-the-pretty-frames-death-stranding/)
+- [Racket meet-up Saturday 3 December at 18:00 UTC :racket](https://racket.discourse.group/t/racket-meet-up-saturday-3-december-at-18-00-utc/1460?u=spdegabrielle)
 
-- [Speeding up the JavaScript ecosystem - one library at a time](https://marvinh.dev/blog/speeding-up-javascript-ecosystem/)
+- [Gameboy Doctor: debug and fix your gameboy emulator](https://robertheaton.com/gameboy-doctor/)
 
-- [Making unphishable 2FA phishable](https://mjg59.dreamwidth.org/62175.html)
+- [Datasette’s new JSON write API: The first alpha of Datasette 1.0](https://simonwillison.net/2022/Dec/2/datasette-write-api/)
 
-- [natto.dev - write JavaScript on a 2D canvas](https://natto.dev/@paul/f33b7f5924634fb687a90d85ed03f289)
+- [Building an ASCII Particle Engine in Janet](https://tilde.team/~kiedtl/blog/particles/)
 
-- [Solving a Murder Mystery](https://paulosman.me/2022/11/29/solving-a-murder-mystery/)
+- [Looking at the Python documentation can be dangerous](https://twitter.com/marekgibney/status/1598706464583028736)
 
-- [Simple Go link shortener for Tailscale](https://tailscale.com/blog/golink/)
+- [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
 
-- [Implementing a New Memory Safety Approach, Part 1](https://verdagon.dev/blog/making-regions-part-1-human-factor)
+- [How the 8086 processor's microcode engine works](https://www.righto.com/2022/11/how-8086-processors-microcode-engine.html)
 
-- [FreeBSD: Stack overflow in ping(8)](https://www.freebsd.org/security/advisories/FreeBSD-SA-22:15.ping.asc)
+- [James Mickens Keynote, USENIX Security 2018](https://www.usenix.org/conference/usenixsecurity18/presentation/mickens)
 
-- [ACID: A Debugger Built from a Language](https://www.usenix.org/conference/usenix-winter-1994-technical-conference/acid-debugger-built-language)
+- [Origins of the ASCII Smiley Character (2011)](https://www.vintagecomputing.com/index.php/archives/790/the-ibm-smiley-character-turns-30)
