@@ -1,49 +1,49 @@
-- [Twenty five thousand dollars of funny money](http://rachelbythebay.com/w/2022/12/02/25k/)
+- [Algorithmic symphonies from one line of code -- how and why? [2011]](http://countercomplex.blogspot.com/2011/10/algorithmic-symphonies-from-one-line-of.html)
 
-- [Refurbishing an HP C1400A Keyboard from an HP 700/96 Terminal](https://bigdanzblog.wordpress.com/2022/12/01/refurbishing-an-hp-c1400a-keyboard-from-an-hp-700-96-terminal/)
+- [ChatGPT and the viability of replacing humans with circus tricks](https://adamshaylor.svbtle.com/chatgpt-and-the-viability-of-replacing-humans)
 
-- [Adventures in Advent of Code](https://davedelong.com/blog/2022/12/03/adventures-in-advent-of-code/)
+- [Loopr: A Loop/Reduction Macro for Clojure](https://aphyr.com/posts/360-loopr-a-loop-reduction-macro-for-clojure)
 
-- [Super Charging Fine-Grained Reactive Performance](https://dev.to/modderme123/super-charging-fine-grained-reactive-performance-47ph)
+- [Bauble](https://bauble.studio/)
 
-- [EmacsConf -  2022](https://emacsconf.org/2022/)
+- [Thunderbird For Android Preview: Modern Message Redesign](https://blog.thunderbird.net/2022/12/thunderbird-for-android-preview-modern-message-redesign/)
 
-- [The Trusted Platform Module Key Hierarchy](https://ericchiang.github.io/post/tpm-keys/)
+- [Windows and Root CA Certificates](https://cohost.org/ecn/post/498568-windows-and-root-ca)
 
-- [Clerk Garden: a simple publishing space for Clerk notebooks](https://github.clerk.garden/)
+- [Mini: Connectix Color QuickCam](https://computeradsfromthepast.substack.com/p/mini-connectix-color-quickcam)
 
-- [buck2: Build system, successor to Buck](https://github.com/facebookincubator/buck2)
+- [Faster base64 in curl](https://daniel.haxx.se/blog/2022/12/06/faster-base64-in-curl/)
 
-- [Go will add support for wrapping multiple errors in 1.20](https://github.com/golang/go/issues/53435)
+- [An update on leap seconds](https://dotat.at/@/2022-12-04-leap-seconds.html)
 
-- [VimWiki release v2022.12.02](https://github.com/vimwiki/vimwiki/releases/tag/v2022.12.02)
+- [Helix Release 22.12 Highlights](https://helix-editor.com/news/release-22-12-highlights/)
 
-- [I tried ChatGPT from OpenAI and my mind was blown](https://hackernoon.com/i-tried-chatgpt-from-openai-and-my-mind-was-blown)
+- [Why Zero Trust is a Misnomer: the Fallacy of Absolute Trust in Zero Trust Providers](https://invisv.com/articles/zerotrust.html)
 
-- [Scaling Mastodon: The Compendium](https://hazelweakly.me/blog/scaling-mastodon)
+- [Debugging Lisp: in CL we can resume a program from any point in the stack](https://lisp-journey.gitlab.io/blog/debugging-lisp-fix-and-resume-a-program-from-any-point-in-stack/)
 
-- [Getting Started with PDQ Deploy & Inventory](https://lazyadmin.nl/it/pdq-deploy-inventory/)
+- [Losing the magic](https://lwn.net/SubscriberLink/915163/ba83480903b82cb8/)
 
-- [Solving Rock-Paper-Scissors in Type-level Haskell](https://notes.abhinavsarkar.net/2022/type-level-rps)
+- [Exploring Docker Hub’s WASM technical preview](https://medium.com/@shyamsundarb/exploring-docker-hubs-wasm-technical-preview-76de28c3b1b4)
 
-- [Is it worth writing about?](https://notes.eatonphil.com/is-it-worth-writing-about.html)
+- [Announcing Lottie 4.0 for iOS](https://medium.com/airbnb-engineering/announcing-lottie-4-0-for-ios-d4d226862a54)
 
-- [Magic Cap, from the Magic Link to the DataRover and the stuff in-between](https://oldvcr.blogspot.com/2022/12/magic-cap-from-magic-link-to-datarover.html)
+- [Reinventing How We Use Computers](https://ploum.net/2022-12-03-reinventing-how-we-use-computers.html)
 
-- [Racket meet-up Saturday 3 December at 18:00 UTC :racket](https://racket.discourse.group/t/racket-meet-up-saturday-3-december-at-18-00-utc/1460?u=spdegabrielle)
+- [Silver Bullet - markdown-based extensible open source personal knowledge platform](https://silverbullet.md/)
 
-- [Gameboy Doctor: debug and fix your gameboy emulator](https://robertheaton.com/gameboy-doctor/)
+- [The Inside Story of Texas Instruments’ Biggest Blunder: The TMS9900 Microprocessor](https://spectrum.ieee.org/the-inside-story-of-texas-instruments-biggest-blunder-the-tms9900-microprocessor)
 
-- [Datasette’s new JSON write API: The first alpha of Datasette 1.0](https://simonwillison.net/2022/Dec/2/datasette-write-api/)
+- [TheHole New World - how a small leak will sink a great browser (CVE-2021-38003)](https://starlabs.sg/blog/2022/12-the-hole-new-world-how-a-small-leak-will-sink-a-great-browser-cve-2021-38003/)
 
-- [Building an ASCII Particle Engine in Janet](https://tilde.team/~kiedtl/blog/particles/)
+- [Linux Certificate Authority root stores have a too simple view of 'trust'](https://utcc.utoronto.ca/~cks/space/blog/linux/CARootStoreTrustProblem)
 
-- [Looking at the Python documentation can be dangerous](https://twitter.com/marekgibney/status/1598706464583028736)
+- [The cloudy layers of modern-day programming](https://vickiboykis.com/2022/12/05/the-cloudy-layers-of-modern-day-programming/)
 
-- [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
+- [KernelCI now testing Linux Rust code](https://www.collabora.com/news-and-blog/news-and-events/kernelci-now-testing-linux-rust-code.html)
 
-- [How the 8086 processor's microcode engine works](https://www.righto.com/2022/11/how-8086-processors-microcode-engine.html)
+- [Find anything you need with fzf, the Linux fuzzy finder tool](https://www.redhat.com/sysadmin/fzf-linux-fuzzy-finder)
 
-- [James Mickens Keynote, USENIX Security 2018](https://www.usenix.org/conference/usenixsecurity18/presentation/mickens)
+- [New Desktop Synth, Prismatic Spray, Offers Knobby Control Of Bytebeat Synthesis](https://www.synthtopia.com/content/2022/12/05/new-desktop-synth-prismatic-spray-offers-knobby-control-of-bytebeat-synthesis/)
 
-- [Origins of the ASCII Smiley Character (2011)](https://www.vintagecomputing.com/index.php/archives/790/the-ibm-smiley-character-turns-30)
+- [honking from the console like a real honker](https://x61.sh/log/2022/12/20221205T205745-honk-cli.html)
