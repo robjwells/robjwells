@@ -1,49 +1,47 @@
-- [Algorithmic symphonies from one line of code -- how and why? [2011]](http://countercomplex.blogspot.com/2011/10/algorithmic-symphonies-from-one-line-of.html)
+- [Delimiter-first code](https://arogozhnikov.github.io/2022/11/29/delimiter-comes-first.html)
 
-- [ChatGPT and the viability of replacing humans with circus tricks](https://adamshaylor.svbtle.com/chatgpt-and-the-viability-of-replacing-humans)
+- [Functional table-driven tests in Go](https://arslan.io/2022/12/04/functional-table-driven-tests-in-go)
 
-- [Loopr: A Loop/Reduction Macro for Clojure](https://aphyr.com/posts/360-loopr-a-loop-reduction-macro-for-clojure)
+- [Code coverage for your AWK programs](https://benhoyt.com/writings/goawk-coverage/)
 
-- [Bauble](https://bauble.studio/)
+- [Wayland native interface in Qt 6.5](https://blog.david-redondo.de/qt/kde/2022/12/09/wayland-native-interface.html)
 
-- [Thunderbird For Android Preview: Modern Message Redesign](https://blog.thunderbird.net/2022/12/thunderbird-for-android-preview-modern-message-redesign/)
+- [Twelve Days of Chapel: Advent of Code 2022](https://chapel-lang.org/blog/posts/aoc2022-day00-intro/)
 
-- [Windows and Root CA Certificates](https://cohost.org/ecn/post/498568-windows-and-root-ca)
+- [PostScript: A Digital Printing Press](https://computerhistory.org/blog/postscript-a-digital-printing-press/)
 
-- [Mini: Connectix Color QuickCam](https://computeradsfromthepast.substack.com/p/mini-connectix-color-quickcam)
+- [A simple, opinionated, struct-based argument parser in Zig](https://github.com/jiacai2050/simargs)
 
-- [Faster base64 in curl](https://daniel.haxx.se/blog/2022/12/06/faster-base64-in-curl/)
+- [Creating a handwritten TrueType font in Linux](https://gordonlesti.com/creating-a-handwritten-truetype-font-in-linux/)
 
-- [An update on leap seconds](https://dotat.at/@/2022-12-04-leap-seconds.html)
+- [RFC 3339 vs ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/)
 
-- [Helix Release 22.12 Highlights](https://helix-editor.com/news/release-22-12-highlights/)
+- [A debugging manifesto](https://jvns.ca/blog/2022/12/08/a-debugging-manifesto/)
 
-- [Why Zero Trust is a Misnomer: the Fallacy of Absolute Trust in Zero Trust Providers](https://invisv.com/articles/zerotrust.html)
+- [mimmutable() for OpenBSD](https://lwn.net/SubscriberLink/915640/53bc300d11179c62/)
 
-- [Debugging Lisp: in CL we can resume a program from any point in the stack](https://lisp-journey.gitlab.io/blog/debugging-lisp-fix-and-resume-a-program-from-any-point-in-stack/)
+- [Playing with ActivityPub](https://macwright.com/2022/12/09/activitypub.html)
 
-- [Losing the magic](https://lwn.net/SubscriberLink/915163/ba83480903b82cb8/)
+- [How to grow as a database developer?](https://minimalmodeling.substack.com/p/how-to-grow-as-a-database-developer)
 
-- [Exploring Docker Hub’s WASM technical preview](https://medium.com/@shyamsundarb/exploring-docker-hubs-wasm-technical-preview-76de28c3b1b4)
+- [End-to-end encrypted messages need more than libsignal](https://mjg59.dreamwidth.org/62598.html)
 
-- [Announcing Lottie 4.0 for iOS](https://medium.com/airbnb-engineering/announcing-lottie-4-0-for-ios-d4d226862a54)
+- [Chrome, 10 years later](https://neugierig.org/software/blog/2022/12/chrome.html)
 
-- [Reinventing How We Use Computers](https://ploum.net/2022-12-03-reinventing-how-we-use-computers.html)
+- [noclip -  A digital museum of video game levels](https://noclip.website/)
 
-- [Silver Bullet - markdown-based extensible open source personal knowledge platform](https://silverbullet.md/)
+- [Solving Advent of Code Day 7 with Parsers, Zippers and Interpreters](https://notes.abhinavsarkar.net/2022/aoc-7)
 
-- [The Inside Story of Texas Instruments’ Biggest Blunder: The TMS9900 Microprocessor](https://spectrum.ieee.org/the-inside-story-of-texas-instruments-biggest-blunder-the-tms9900-microprocessor)
+- [Try Tauri](https://philidor.dev/blog/tauri-solidjs-macos/)
 
-- [TheHole New World - how a small leak will sink a great browser (CVE-2021-38003)](https://starlabs.sg/blog/2022/12-the-hole-new-world-how-a-small-leak-will-sink-a-great-browser-cve-2021-38003/)
+- [It’s time to stop using Python 3.7](https://pythonspeed.com/articles/stop-using-python-3.7/)
 
-- [Linux Certificate Authority root stores have a too simple view of 'trust'](https://utcc.utoronto.ca/~cks/space/blog/linux/CARootStoreTrustProblem)
+- [Racket meet-up Saturday 7 January at 18:00 UTC](https://racket.discourse.group/t/racket-meet-up-saturday-7-january-at-18-00-utc/1547?u=spdegabrielle)
 
-- [The cloudy layers of modern-day programming](https://vickiboykis.com/2022/12/05/the-cloudy-layers-of-modern-day-programming/)
+- [Programming Languages: Application and Interpretation (PLAI) Version 3.2](https://www.plai.org/3/2/PLAI%20Version%203.2.0%20electronic.pdf)
 
-- [KernelCI now testing Linux Rust code](https://www.collabora.com/news-and-blog/news-and-events/kernelci-now-testing-linux-rust-code.html)
+- [Swift.org - The Future of Foundation](https://www.swift.org/blog/future-of-foundation/)
 
-- [Find anything you need with fzf, the Linux fuzzy finder tool](https://www.redhat.com/sysadmin/fzf-linux-fuzzy-finder)
+- [The Strang Decomposition A = CR](https://www.youtube.com/watch?v=NJKe2MQxa9k)
 
-- [New Desktop Synth, Prismatic Spray, Offers Knobby Control Of Bytebeat Synthesis](https://www.synthtopia.com/content/2022/12/05/new-desktop-synth-prismatic-spray-offers-knobby-control-of-bytebeat-synthesis/)
-
-- [honking from the console like a real honker](https://x61.sh/log/2022/12/20221205T205745-honk-cli.html)
+- [Goodbye to the C++ Implementation of Zig](https://ziglang.org/news/goodbye-cpp/)
