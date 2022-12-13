@@ -1,47 +1,47 @@
-- [Delimiter-first code](https://arogozhnikov.github.io/2022/11/29/delimiter-comes-first.html)
+- [Porting OkLab colorspace to integer arithmetic](http://blog.pkh.me/p/38-porting-oklab-colorspace-to-integer-arithmetic.html)
 
-- [Functional table-driven tests in Go](https://arslan.io/2022/12/04/functional-table-driven-tests-in-go)
+- [Migrating My Blog to a New Host with no Downtime](https://aggressivelyparaphrasing.me/2022/12/04/migrating-my-blog-to-a-new-host-with-no-downtime/)
 
-- [Code coverage for your AWK programs](https://benhoyt.com/writings/goawk-coverage/)
+- [Aurae Runtime](https://aurae.io/)
 
-- [Wayland native interface in Qt 6.5](https://blog.david-redondo.de/qt/kde/2022/12/09/wayland-native-interface.html)
+- [Potato Programming](https://blog.glyph.im/2022/12/potato-programming.html)
 
-- [Twelve Days of Chapel: Advent of Code 2022](https://chapel-lang.org/blog/posts/aoc2022-day00-intro/)
+- [What is in a modern code editor?](https://blog.meain.io/2022/modern-text-editor/)
 
-- [PostScript: A Digital Printing Press](https://computerhistory.org/blog/postscript-a-digital-printing-press/)
+- [A Look at dyn* Code Generation](https://blog.theincredibleholk.org/blog/2022/12/12/dyn-star-codegen/)
 
-- [A simple, opinionated, struct-based argument parser in Zig](https://github.com/jiacai2050/simargs)
+- [The Case for Models](https://concerningquality.com/models/)
 
-- [Creating a handwritten TrueType font in Linux](https://gordonlesti.com/creating-a-handwritten-truetype-font-in-linux/)
+- [Make your own TEA (The Elm Architecture)](https://derw.substack.com/p/make-your-own-tea-the-elm-architecture?sd=pf)
 
-- [RFC 3339 vs ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/)
+- [How to steal a website and how to prevent it](https://dev.to/saashub/how-to-steal-a-website-12p7)
 
-- [A debugging manifesto](https://jvns.ca/blog/2022/12/08/a-debugging-manifesto/)
+- [C23 implications for C libraries](https://gustedt.gitlabpages.inria.fr/c23-library/)
 
-- [mimmutable() for OpenBSD](https://lwn.net/SubscriberLink/915640/53bc300d11179c62/)
+- [The 6.1 kernel is out, including initial support for Rust](https://lwn.net/Articles/917504/)
 
-- [Playing with ActivityPub](https://macwright.com/2022/12/09/activitypub.html)
+- [Add moc includes to speed up Qt compilation](https://raymii.org/s/blog/Qt_add_moc_includes_to_speed_up_compilation.html)
 
-- [How to grow as a database developer?](https://minimalmodeling.substack.com/p/how-to-grow-as-a-database-developer)
+- [The Verse Calculus: a Core Calculus for Functional Logic Programming](https://simon.peytonjones.org/assets/pdfs/verse-conf.pdf)
 
-- [End-to-end encrypted messages need more than libsignal](https://mjg59.dreamwidth.org/62598.html)
+- [The Zig programming language has been ported to SerenityOS](https://twitter.com/awesomekling/status/1602315728320880640)
 
-- [Chrome, 10 years later](https://neugierig.org/software/blog/2022/12/chrome.html)
+- [a simple semi-space collector](https://wingolog.org/archives/2022/12/10/a-simple-semi-space-collector)
 
-- [noclip -  A digital museum of video game levels](https://noclip.website/)
+- [Wine on Wayland 2022 update: more games, more apps, more fun](https://www.collabora.com/news-and-blog/news-and-events/wine-on-wayland-2022-updatye-more-games-more-apps-more-fun.html)
 
-- [Solving Advent of Code Day 7 with Parsers, Zippers and Interpreters](https://notes.abhinavsarkar.net/2022/aoc-7)
+- [Elixir-style Pipelines in 9 Lines of Ruby](https://www.gregnavis.com/articles/elixir-style-pipelines-in-9-lines-of-ruby.html)
 
-- [Try Tauri](https://philidor.dev/blog/tauri-solidjs-macos/)
+- [DOM Clobbering](https://www.htmhell.dev/adventcalendar/2022/12/)
 
-- [It’s time to stop using Python 3.7](https://pythonspeed.com/articles/stop-using-python-3.7/)
+- [Using Zig for Advent of Code](https://www.huy.rocks/everyday/12-11-2022-zig-using-zig-for-advent-of-code)
 
-- [Racket meet-up Saturday 7 January at 18:00 UTC](https://racket.discourse.group/t/racket-meet-up-saturday-7-january-at-18-00-utc/1547?u=spdegabrielle)
+- [A neat XOR trick](https://www.mattkeeter.com/blog/2022-12-10-xor/)
 
-- [Programming Languages: Application and Interpretation (PLAI) Version 3.2](https://www.plai.org/3/2/PLAI%20Version%203.2.0%20electronic.pdf)
+- [Rust in 2023](https://www.ncameron.org/blog/rust-in-2023/)
 
-- [Swift.org - The Future of Foundation](https://www.swift.org/blog/future-of-foundation/)
+- [How I found a bug in SQLite](https://www.philipotoole.com/how-i-found-a-bug-in-sqlite/)
 
-- [The Strang Decomposition A = CR](https://www.youtube.com/watch?v=NJKe2MQxa9k)
+- [Two's Complement - A Programming Podcast by the Compiler Explorer's Creator](https://www.twoscomplement.org/)
 
-- [Goodbye to the C++ Implementation of Zig](https://ziglang.org/news/goodbye-cpp/)
+- [Emacs: Context-aware yasnippets](https://xenodium.com/emacs-generate-a-swift-initializer/)
