@@ -1,49 +1,47 @@
-- [Zero-initialize objects of automatic storage duration](http://wg21.link/P2723)
+- [Challenging algorithms and data structures every programmer should try](https://austinhenley.com/blog/challengingalgorithms.html)
 
-- [Epigrams in Programming (1982)](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
+- [A free Twitter-like app for iOS that uses S3-compatible services as the backend](https://beluga.social)
 
-- [TAOS Operating System](http://www.uruk.org/emu/Taos.html)
+- [Unit test this](https://boston.conman.org/2022/12/21.1)
 
-- [Bolin Programming Language](https://bolinlang.com/)
+- [Bugs that literally cost money](https://buttondown.email/hillelwayne/archive/bugs-that-literally-cost-money/)
 
-- [Technical details on the Musicstore, per one of the engineers](https://cohost.org/cathoderaydude/post/647905-technical-details-on)
+- [The Queues down in Queueville](https://community.hachyderm.io/blog/2022/12/20/the-queues-%EF%B8%8F-down-in-queueville/)
 
-- [Converting my PhD thesis into HTML](https://desfontain.es/privacy/latex-to-html.html)
+- [Oral history interview with Martin Hellman (2004)](https://conservancy.umn.edu/bitstream/handle/11299/107353/oh375mh.pdf?sequence=1&isAllowed=y)
 
-- [Implementing the Perceus reference counting GC](https://dev.to/raviqqe/implementing-the-perceus-reference-counting-gc-5662)
+- [Nix on the Steam Deck](https://determinate.systems/posts/nix-on-the-steam-deck)
 
-- [Why doesn't Windows use the 64-bit virtual address space below 0x00000000`7ffe0000?](https://devblogs.microsoft.com/oldnewthing/20221216-00/?p=107598)
+- [Dolphin Progress Report: September, October, and November 2022](https://dolphin-emu.org/blog/2022/12/21/dolphin-progress-report-september-october-november-2022/)
 
-- [Emacs User Survey - 2022 - Results](https://emacssurvey.org/results/3425413930)
+- [Kindelia/Kind: A next-gen functional language](https://github.com/Kindelia/Kind)
 
-- [HTML5 Canvas on Rails? Part 1](https://fogel.dev/software/canvas_on_rails_1/)
+- [Moving emails accounts to a new host, but with actual encryption](https://halestrom.net/darksleep/blog/049_imapcopy/)
 
-- [rodauth-oauth 1.0.0 - an OpenID certified toolkit for building OAuth and OpenID Connect providers](https://honeyryderchuck.gitlab.io/rodauth-oauth/rdoc/files/doc/release_notes/1_0_0_md.html)
+- [How to visualize the database using Minimal Modeling](https://minimalmodeling.substack.com/p/how-to-visualize-your-database-using)
 
-- [Ethernet transceiver](https://imihajlov.tk/blog/posts/eth-to-spi/)
+- [How to Do Things With Babashka](https://presumably.de/how-to-do-things-with-babashka.html)
 
-- [The Koka Programming Language](https://koka-lang.github.io/koka/doc/book.html)
+- [Systems design and being bitten by edge-triggering](https://rachelbythebay.com/w/2022/12/21/boot/)
 
-- [Thoughts on user interfaces for theorem provers](https://lawrencecpaulson.github.io//2022/12/14/User_interfaces.html)
+- [Sigils are an underappreciated programming technology](https://raku-advent.blog/2022/12/20/sigils/)
 
-- [QOI is now my favorite asset format](https://nullprogram.com/blog/2022/12/18/)
+- [Extending the AES-GCM Nonce Without Nightmare Fuel](https://soatok.blog/2022/12/21/extending-the-aes-gcm-nonce-without-nightmare-fuel/)
 
-- [A minor memorial for Leo Laporte on terrestrial AM radio](https://oldvcr.blogspot.com/2022/12/a-minor-memorial-for-leo-laporte-on.html)
+- [Userspace isn't slow, some kernel interfaces are](https://tailscale.com/blog/throughput-improvements/)
 
-- [Replacing std::lock_guard with a factory function](https://quuxplusone.github.io/blog/2022/12/14/my-lock-guard/)
+- [There oughta be a Game Boy capture cartridge](https://there.oughta.be/a/game-boy-capture-cartridge)
 
-- [Copy semantics, per Plato’s Sophist](https://quuxplusone.github.io/blog/2022/12/15/sophist/)
+- [Signed distance functions in 46 lines of Python](https://vgel.me/posts/donut/)
 
-- [Copilot Internals](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
+- [How to share terminal demos as razor-sharp animated SVG](https://wasimlorgat.com/tils/how-to-share-terminal-demos-as-razor-sharp-animated-svg.html)
 
-- [Get root on macOS 13.0.1 with CVE-2022-46689, the macOS Dirty Cow bug](https://worthdoingbadly.com/macdirtycow/)
+- [WebAssembly: Docker without containers](https://wasmlabs.dev/articles/docker-without-containers/)
 
-- [I tricked m3.euagendas.org, the Twitter analysis website, with adversarial inputs (2019)](https://worthdoingbadly.com/nn-adversarial/)
+- [Okta's source code stolen after GitHub repositories hacked](https://www.bleepingcomputer.com/news/security/oktas-source-code-stolen-after-github-repositories-hacked/)
 
-- [Let's Encrypt now supports ACME-CAA: closing the DV loophole](https://www.devever.net/~hl/acme-caa-live)
+- [This year in LLVM (2022)](https://www.npopov.com/2022/12/20/This-year-in-LLVM-2022.html)
 
-- [Lockfile trick: Package an npm project with Nix in 20 lines](https://www.nmattia.com/posts/2022-12-18-lockfile-trick-package-npm-project-with-nix.html)
+- [Saving power on an ESP8266 web server using delays](https://www.tablix.org/~avian/blog/archives/2022/08/saving_power_on_an_esp8266_web_server_using_delays/)
 
-- [Emacs: ffmpeg and macOS aliasing commands](https://xenodium.com/emacs-ffmpeg-and-macos-alias-commands/)
-
-- [Structuring Clojure Applications](https://yogthos.net/posts/2022-12-18-StructuringClojureApplications.html)
+- [What not to forget when implementing a pattern-matching in Ruby for custom objects](https://zverok.space/blog/2022-12-20-pattern-matching.html)
