@@ -1,47 +1,47 @@
-- [Challenging algorithms and data structures every programmer should try](https://austinhenley.com/blog/challengingalgorithms.html)
+- [Notice of Recent Security Incident](https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/)
 
-- [A free Twitter-like app for iOS that uses S3-compatible services as the backend](https://beluga.social)
+- [Open Source Grindset Explained](https://blog.orhun.dev/open-source-grindset/)
 
-- [Unit test this](https://boston.conman.org/2022/12/21.1)
+- [The smallest inter-frame gap in Fast Ethernet](https://blog.trends.tf/the-smallest-inter-frame-gap-in-fast-ethernet.html)
 
-- [Bugs that literally cost money](https://buttondown.email/hillelwayne/archive/bugs-that-literally-cost-money/)
+- [Setting up my new laptop: nix style](https://bmcgee.ie/posts/2022/12/setting-up-my-new-laptop-nix-style/)
 
-- [The Queues down in Queueville](https://community.hachyderm.io/blog/2022/12/20/the-queues-%EF%B8%8F-down-in-queueville/)
+- [The Automatic #plotloop Machine](https://bylr.info/articles/2022/12/22/automatic-plotloop-machine/)
 
-- [Oral history interview with Martin Hellman (2004)](https://conservancy.umn.edu/bitstream/handle/11299/107353/oh375mh.pdf?sequence=1&isAllowed=y)
+- [Using Coalton to Implement a Quantum Compiler](https://coalton-lang.github.io/20220906-quantum-compiler/)
 
-- [Nix on the Steam Deck](https://determinate.systems/posts/nix-on-the-steam-deck)
+- [Google Privacy Policy updated to recognize Virginia Consumer Data Protection Act (VCDPA)](https://deagle.cloud/versions/3207066f-6b3f-4142-8142-154f58b4f8b9)
 
-- [Dolphin Progress Report: September, October, and November 2022](https://dolphin-emu.org/blog/2022/12/21/dolphin-progress-report-september-october-november-2022/)
+- [News for Ruby 3.2.0](https://docs.ruby-lang.org/en/master/NEWS_md.html#label-NEWS+for+Ruby+3.2.0)
 
-- [Kindelia/Kind: A next-gen functional language](https://github.com/Kindelia/Kind)
+- [9th International Workshop on Plan 9](https://iwp9.org/)
 
-- [Moving emails accounts to a new host, but with actual encryption](https://halestrom.net/darksleep/blog/049_imapcopy/)
+- [Let's build a browser engine](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 
-- [How to visualize the database using Minimal Modeling](https://minimalmodeling.substack.com/p/how-to-visualize-your-database-using)
+- [The End of Programming](https://m-cacm.acm.org/magazines/2023/1/267976-the-end-of-programming/fulltext)
 
-- [How to Do Things With Babashka](https://presumably.de/how-to-do-things-with-babashka.html)
+- [Meson 1.0.0](https://mesonbuild.com/Release-notes-for-1-0-0.html)
 
-- [Systems design and being bitten by edge-triggering](https://rachelbythebay.com/w/2022/12/21/boot/)
+- [Reverse Engineering Tiktok's VM Obfuscation](https://nullpt.rs/reverse-engineering-tiktok-vm-1)
 
-- [Sigils are an underappreciated programming technology](https://raku-advent.blog/2022/12/20/sigils/)
+- [Improving Language Model Behavior by Training on a Curated Dataset](https://openai.com/blog/improving-language-model-behavior/)
 
-- [Extending the AES-GCM Nonce Without Nightmare Fuel](https://soatok.blog/2022/12/21/extending-the-aes-gcm-nonce-without-nightmare-fuel/)
+- [WPA3: no go on Raspberry Pi (plus some Mac gotchas)](https://rachelbythebay.com/w/2022/12/22/wpa3/)
 
-- [Userspace isn't slow, some kernel interfaces are](https://tailscale.com/blog/throughput-improvements/)
+- [Rotary Keyboard](https://squidgeefish.com/projects/rotary-keyboard/)
 
-- [There oughta be a Game Boy capture cartridge](https://there.oughta.be/a/game-boy-capture-cartridge)
+- [Mastering Emacs Book Club](https://susam.net/club/mastering-emacs/)
 
-- [Signed distance functions in 46 lines of Python](https://vgel.me/posts/donut/)
+- [Regular Expression Matching: the Virtual Machine Approach (2009)](https://swtch.com/~rsc/regexp/regexp2.html)
 
-- [How to share terminal demos as razor-sharp animated SVG](https://wasimlorgat.com/tils/how-to-share-terminal-demos-as-razor-sharp-animated-svg.html)
+- [A bottle of light](https://tomscii.sig7.se/2022/12/A-bottle-of-light)
 
-- [WebAssembly: Docker without containers](https://wasmlabs.dev/articles/docker-without-containers/)
+- [Escaping the Algorithms](https://www.commonwealmagazine.org/artificial-intelligence-AI-social-media-Heidegger)
 
-- [Okta's source code stolen after GitHub repositories hacked](https://www.bleepingcomputer.com/news/security/oktas-source-code-stolen-after-github-repositories-hacked/)
+- [Haiku R1/beta4 has been released](https://www.haiku-os.org/news/2022-12-23_haiku_r1_beta4/)
 
-- [This year in LLVM (2022)](https://www.npopov.com/2022/12/20/This-year-in-LLVM-2022.html)
+- [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks)
 
-- [Saving power on an ESP8266 web server using delays](https://www.tablix.org/~avian/blog/archives/2022/08/saving_power_on_an_esp8266_web_server_using_delays/)
+- [Fully-homomorphic encryption, zero-knowledge proofs, and multiparty computation](https://www.notamonadtutorial.com/fully-homomorphic-encryption-zero-knowledge-proofs-and-multiparty-computation/)
 
-- [What not to forget when implementing a pattern-matching in Ruby for custom objects](https://zverok.space/blog/2022-12-20-pattern-matching.html)
+- [Win16 Retro Development](https://www.os2museum.com/wp/win16-retro-development/)
