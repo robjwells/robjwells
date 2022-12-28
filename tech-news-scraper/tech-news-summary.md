@@ -1,47 +1,49 @@
-- [Notice of Recent Security Incident](https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/)
+- [Unintentionally BREAKing a serial console](http://rachelbythebay.com/w/2022/12/25/tty/)
 
-- [Open Source Grindset Explained](https://blog.orhun.dev/open-source-grindset/)
+- [Novell NetWare: The King Returns from the Dead (2001)](http://web.archive.org/web/20200217014004/https://www.aaxnet.com/design/novell.html)
 
-- [The smallest inter-frame gap in Fast Ethernet](https://blog.trends.tf/the-smallest-inter-frame-gap-in-fast-ethernet.html)
+- [Mainlining Nexus 9: First Boot](https://ansari.sh/posts/mainline-nexus-9-p1/)
 
-- [Setting up my new laptop: nix style](https://bmcgee.ie/posts/2022/12/setting-up-my-new-laptop-nix-style/)
+- [How blocklists prevent the internet to be decentralized – and safe](https://blog.codeberg.org/how-blocklists-prevent-the-internet-to-be-decentralized-and-safe.html)
 
-- [The Automatic #plotloop Machine](https://bylr.info/articles/2022/12/22/automatic-plotloop-machine/)
+- [Lessons Learnt From Solving AoC in One Second](https://blog.sulami.xyz/posts/aoc-in-one-second/)
 
-- [Using Coalton to Implement a Quantum Compiler](https://coalton-lang.github.io/20220906-quantum-compiler/)
+- [What’s the deal with Cisco devices in `file` output, anyway?](https://catfox.life/2022/12/27/whats-the-deal-with-cisco-devices-in-file-output-anyway/)
 
-- [Google Privacy Policy updated to recognize Virginia Consumer Data Protection Act (VCDPA)](https://deagle.cloud/versions/3207066f-6b3f-4142-8142-154f58b4f8b9)
+- [How RISC-V Timer Interrupts Work](https://danielmangum.com/posts/risc-v-bytes-timer-interrupts/)
 
-- [News for Ruby 3.2.0](https://docs.ruby-lang.org/en/master/NEWS_md.html#label-NEWS+for+Ruby+3.2.0)
+- [From resource forks to quarantine, ResEdit to Gatekeeper](https://eclecticlight.co/2022/12/27/from-resource-forks-to-quarantine-resedit-to-gatekeeper/)
 
-- [9th International Workshop on Plan 9](https://iwp9.org/)
+- [View of A practical model for analyzing long tails](https://firstmonday.org/ojs/index.php/fm/article/view/1832/1716)
 
-- [Let's build a browser engine](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
+- [BLAKE3: One Function, Fast Everywhere](https://github.com/BLAKE3-team/BLAKE3-specs/raw/master/blake3.pdf)
 
-- [The End of Programming](https://m-cacm.acm.org/magazines/2023/1/267976-the-end-of-programming/fulltext)
+- [NTSC encoding/decoding in C89 using only integers and fixed point math](https://github.com/LMP88959/NTSC-CRT)
 
-- [Meson 1.0.0](https://mesonbuild.com/Release-notes-for-1-0-0.html)
+- [leandromoreira/cdn-up-and-running: CDN Up and Running - Building a CDN from Scratch](https://github.com/leandromoreira/cdn-up-and-running)
 
-- [Reverse Engineering Tiktok's VM Obfuscation](https://nullpt.rs/reverse-engineering-tiktok-vm-1)
+- [Experimental feature gate proposal `interoperable_abi`](https://github.com/rust-lang/rust/pull/105586)
 
-- [Improving Language Model Behavior by Training on a Curated Dataset](https://openai.com/blog/improving-language-model-behavior/)
+- [Lichen](https://lichen.sensorstation.co/)
 
-- [WPA3: no go on Raspberry Pi (plus some Mac gotchas)](https://rachelbythebay.com/w/2022/12/22/wpa3/)
+- [Lite XL](https://lite-xl.com/)
 
-- [Rotary Keyboard](https://squidgeefish.com/projects/rotary-keyboard/)
+- [Code Coverage for GoAWK](https://maximullaris.com/goawk_cover.html)
 
-- [Mastering Emacs Book Club](https://susam.net/club/mastering-emacs/)
+- [What’s in a PR statement: LastPass breach explained](https://palant.info/2022/12/26/whats-in-a-pr-statement-lastpass-breach-explained/)
 
-- [Regular Expression Matching: the Virtual Machine Approach (2009)](https://swtch.com/~rsc/regexp/regexp2.html)
+- [2022 Slint UI toolkit in review](https://slint-ui.com/blog/2022-in-review.html)
 
-- [A bottle of light](https://tomscii.sig7.se/2022/12/A-bottle-of-light)
+- [A Guide to the Terminal, Console, and Shell](https://thevaluable.dev/guide-terminal-shell-console/)
 
-- [Escaping the Algorithms](https://www.commonwealmagazine.org/artificial-intelligence-AI-social-media-Heidegger)
+- [More use of Rust is inevitable in open source software](https://utcc.utoronto.ca/~cks/space/blog/programming/RustIsInevitable)
 
-- [Haiku R1/beta4 has been released](https://www.haiku-os.org/news/2022-12-23_haiku_r1_beta4/)
+- [Managing infrastructure with Terraform, CDKTF, and NixOS](https://vincent.bernat.ch/en/blog/2022-cdktf-nixos)
 
-- [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks)
+- [2022 was the year of Linux on the Desktop](https://www.justingarrison.com/blog/year-of-linux-desktop/)
 
-- [Fully-homomorphic encryption, zero-knowledge proofs, and multiparty computation](https://www.notamonadtutorial.com/fully-homomorphic-encryption-zero-knowledge-proofs-and-multiparty-computation/)
+- [Fast memcpy, A System Design](https://www.sigarch.org/fast-memcpy-a-system-design/)
 
-- [Win16 Retro Development](https://www.os2museum.com/wp/win16-retro-development/)
+- [Critical Program Reading (1975)](https://www.youtube.com/watch?v=7hdJQkn8rtA)
+
+- [A New HOPE (2022): CHERI: A Modern Capability Architecture](https://www.youtube.com/watch?v=dH7QUdXeVrI)
