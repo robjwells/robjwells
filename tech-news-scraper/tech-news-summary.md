@@ -1,49 +1,47 @@
-- [Unintentionally BREAKing a serial console](http://rachelbythebay.com/w/2022/12/25/tty/)
+- [A House of Cards](http://www.os2museum.com/wp/a-house-of-cards/)
 
-- [Novell NetWare: The King Returns from the Dead (2001)](http://web.archive.org/web/20200217014004/https://www.aaxnet.com/design/novell.html)
+- [The state of HTTP in 2022](https://blog.cloudflare.com/the-state-of-http-in-2022/)
 
-- [Mainlining Nexus 9: First Boot](https://ansari.sh/posts/mainline-nexus-9-p1/)
+- [Materialized View: SQL Queries on Steroids](https://dinesh.wiki/posts/materialized_view_sql_queries_on_steroids/)
 
-- [How blocklists prevent the internet to be decentralized – and safe](https://blog.codeberg.org/how-blocklists-prevent-the-internet-to-be-decentralized-and-safe.html)
+- [Turning Google smart speakers into wiretaps for $100k](https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html)
 
-- [Lessons Learnt From Solving AoC in One Second](https://blog.sulami.xyz/posts/aoc-in-one-second/)
+- [sup](https://drew.shoes/posts/sup/)
 
-- [What’s the deal with Cisco devices in `file` output, anyway?](https://catfox.life/2022/12/27/whats-the-deal-with-cisco-devices-in-file-output-anyway/)
+- [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
 
-- [How RISC-V Timer Interrupts Work](https://danielmangum.com/posts/risc-v-bytes-timer-interrupts/)
+- [Beyond coding. We forge: The Forgejo project is now live](https://forgejo.org/2022-12-15-hello-forgejo/)
 
-- [From resource forks to quarantine, ResEdit to Gatekeeper](https://eclecticlight.co/2022/12/27/from-resource-forks-to-quarantine-resedit-to-gatekeeper/)
+- [Why I wrote a SQL engine in (only) Python](https://github.com/marsupialtail/quokka/blob/master/blog/why.md)
 
-- [View of A practical model for analyzing long tails](https://firstmonday.org/ojs/index.php/fm/article/view/1832/1716)
+- [ocaml-multicore/eio: Effects-based direct-style IO for multicore OCaml](https://github.com/ocaml-multicore/eio)
 
-- [BLAKE3: One Function, Fast Everywhere](https://github.com/BLAKE3-team/BLAKE3-specs/raw/master/blake3.pdf)
+- [NixVim: Configure Neovim with Nix](https://github.com/pta2002/nixvim)
 
-- [NTSC encoding/decoding in C89 using only integers and fixed point math](https://github.com/LMP88959/NTSC-CRT)
+- [You don't always need a queue](https://jaywhy13.hashnode.dev/you-dont-always-need-a-queue)
 
-- [leandromoreira/cdn-up-and-running: CDN Up and Running - Building a CDN from Scratch](https://github.com/leandromoreira/cdn-up-and-running)
+- [Remember when the IE 11 User-Agent forced Mozilla to freeze part of its User-Agent string (last week)](https://miketaylr.com/posts/2022/12/how-the-IE-11-ua-string-broke-sites-in-firefox.html)
 
-- [Experimental feature gate proposal `interoperable_abi`](https://github.com/rust-lang/rust/pull/105586)
+- [Learning Rust in 2023: A Call For Discussion](https://naiveai.hashnode.dev/learning-rust-in-2023-a-call-for-discussion)
 
-- [Lichen](https://lichen.sensorstation.co/)
+- [Another weird MOS Pong console: 1976 Allied Leisure Name of the Game II](https://oldvcr.blogspot.com/2022/12/another-weird-mos-pong-console-1976.html)
 
-- [Lite XL](https://lite-xl.com/)
+- [Aligning Language Models to Follow Instructions](https://openai.com/blog/instruction-following/)
 
-- [Code Coverage for GoAWK](https://maximullaris.com/goawk_cover.html)
+- [Pomsky - portable, modern regular expression language](https://pomsky-lang.org/)
 
-- [What’s in a PR statement: LastPass breach explained](https://palant.info/2022/12/26/whats-in-a-pr-statement-lastpass-breach-explained/)
+- [What We Do in the /etc/shadow – Cryptography with Passwords](https://soatok.blog/2022/12/29/what-we-do-in-the-etc-shadow-cryptography-with-passwords/)
 
-- [2022 Slint UI toolkit in review](https://slint-ui.com/blog/2022-in-review.html)
+- [HTTP/2 performance revisited on the Wikimedia CDN](https://techblog.wikimedia.org/2022/11/04/http-2-performance-revisited/)
 
-- [A Guide to the Terminal, Console, and Shell](https://thevaluable.dev/guide-terminal-shell-console/)
+- [Golang is evil on shitty networks](https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/)
 
-- [More use of Rust is inevitable in open source software](https://utcc.utoronto.ca/~cks/space/blog/programming/RustIsInevitable)
+- [Digital Security Coach](https://www.digitalsecuritycoach.com/)
 
-- [Managing infrastructure with Terraform, CDKTF, and NixOS](https://vincent.bernat.ch/en/blog/2022-cdktf-nixos)
+- [Phoenix 1.7 is View-less](https://www.germanvelasco.com/blog/phoenix-1-7-is-view-less)
 
-- [2022 was the year of Linux on the Desktop](https://www.justingarrison.com/blog/year-of-linux-desktop/)
+- [HTTP Network Services Preview in R1 Beta 4](https://www.haiku-os.org/blog/nielx/2022-12-30_http_network_services_preview_in_r1_beta_4/)
 
-- [Fast memcpy, A System Design](https://www.sigarch.org/fast-memcpy-a-system-design/)
+- [Nixpkgs support for Linux builders running on macOS](https://www.haskellforall.com/2022/12/nixpkgs-support-for-linux-builders.html)
 
-- [Critical Program Reading (1975)](https://www.youtube.com/watch?v=7hdJQkn8rtA)
-
-- [A New HOPE (2022): CHERI: A Modern Capability Architecture](https://www.youtube.com/watch?v=dH7QUdXeVrI)
+- [A taste of pavex, an upcoming Rust web framework](https://www.lpalmieri.com/posts/a-taste-of-pavex-rust-web-framework/)
