@@ -1,49 +1,47 @@
-- [Improving color quantization heuristics](http://blog.pkh.me/p/39-improving-color-quantization-heuristics.html)
+- [The Fallacies of Enterprise Computing (2016)](http://blogs.newardassociates.com/blog/2016/enterprise-computing-fallacies.html)
 
-- [HelenOS 0.12.1 released](http://www.helenos.org/wiki/ReleaseNotes/0.12.1)
+- [weathering software winter](https://100r.co/site/weathering_software_winter.html)
 
-- [The state of HTTP in 2022](https://blog.cloudflare.com/the-state-of-http-in-2022/)
+- [Parallelizing C++ using Execution Policies](https://azeemba.com/posts/cpp17-execution-policy.html)
 
-- [I did Advent of Code on a PlayStation](https://bvisness.me/advent-of-dreams/)
+- [Zero-dependency random number generation in Rust](https://blog.orhun.dev/zero-deps-random-in-rust/)
 
-- [Zippy](https://codetapper.com/atari-st/st-interviews/zippy/)
+- [You Want Modules, Not Microservices](https://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html)
 
-- [sprite animation toolkit (1992-1999)](https://dev-nonsense.com/posts/sprite-animation-toolkit/)
+- [Introducing Austral: A Systems Language with Linear Types and Capabilities](https://borretti.me/article/introducing-austral)
 
-- [Materialized View: SQL Queries on Steroids](https://dinesh.wiki/posts/materialized_view_sql_queries_on_steroids/)
+- [Complexity Zoo](https://complexityzoo.net/Complexity_Zoo)
 
-- [sup](https://drew.shoes/posts/sup/)
+- [Incremental compilation for Crystal - Part 1](https://dev.to/asterite/incremental-compilation-for-crystal-part-1-414k)
 
-- [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
+- [bflat - C# as you know it but with Go-inspired tooling](https://flattened.net/)
 
-- [gwipt: Automatically commit every edit to a shadow branch, with GPT-3-generated commit messages](https://github.com/benwr/gwipt)
+- [Burn: Deep Learning Framework in Rust](https://github.com/burn-rs/burn)
 
-- [Why I wrote a SQL engine in (only) Python](https://github.com/marsupialtail/quokka/blob/master/blog/why.md)
+- [Releasing cargo-sandbox, a sandboxed wrapper around cargo](https://github.com/insanitybit/cargo-sandbox/)
 
-- [ocaml-multicore/eio: Effects-based direct-style IO for multicore OCaml](https://github.com/ocaml-multicore/eio)
+- [Writing a Python SQL engine from scratch](https://github.com/tobymao/sqlglot/blob/main/posts/python_sql_engine.md)
 
-- [Draw SVG rope using JavaScript](https://muffinman.io/blog/draw-svg-rope-using-javascript/)
+- [x86 is Turing-complete with no registers](https://mainisusuallyafunction.blogspot.com/2014/02/x86-is-turing-complete-with-no-registers.html)
 
-- [Learning Rust in 2023: A Call For Discussion](https://naiveai.hashnode.dev/learning-rust-in-2023-a-call-for-discussion)
+- [26 programming languages in 25 days, Part 2: Reflections on language design](https://matt.might.net/articles/26-languages-part2/)
 
-- [Pomsky - portable, modern regular expression language](https://pomsky-lang.org/)
+- [Don't do this: creating useless indexes](https://mydbanotebook.org/post/too-many-indexes/)
 
-- [Compromised PyTorch-nightly dependency chain between December 25th and December 30th, 2022](https://pytorch.org/blog/compromised-nightly-dependency/)
+- [How many layers of UI inconsistencies are in Windows 11?](https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/)
 
-- [Survey of security mitigations and architectures](https://saaramar.github.io/memory_safety_blogpost_2022/)
+- [A confusing lifetime error related to Rust's lifetime elision](https://ntietz.com/blog/confusing-rust-lifetime-elision/)
 
-- [How I Got Xfinity Stream to Work on Linux (a Tale of Widevine, Chrome OS, and a Patched glibc)](https://thebrokenrail.com/2022/12/31/xfinity-stream-on-linux.html)
+- [The MOS 6502 is (mostly) Turing-complete without registers](https://oldvcr.blogspot.com/2023/01/the-mos-6502-is-mostly-turing-complete.html)
 
-- [Golang is evil on shitty networks](https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/)
+- [Web Hackers vs. The Auto Industry: Critical Vulnerabilities in Ferrari, BMW, Rolls Royce, Porsche, and More](https://samcurry.net/web-hackers-vs-the-auto-industry/)
 
-- [Should small Rust structs be passed by-copy or by-borrow? (2019)](https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/)
+- [Debian has removed Python 2 from its next version](https://utcc.utoronto.ca/~cks/space/blog/python/DebianNoMorePython2)
 
-- [Phoenix 1.7 is View-less](https://www.germanvelasco.com/blog/phoenix-1-7-is-view-less)
+- [The infrastructure behind ATMs](https://www.bitsaboutmoney.com/archive/the-infrastructure-behind-atms/)
 
-- [Nixpkgs support for Linux builders running on macOS](https://www.haskellforall.com/2022/12/nixpkgs-support-for-linux-builders.html)
+- [Some people say 2048-bit RSA is vulnerable to a combo of conventional and current quantum computers](https://www.schneier.com/blog/archives/2023/01/breaking-rsa-with-a-quantum-computer.html)
 
-- [I am not a supplier](https://www.softwaremaxims.com/blog/not-a-supplier)
+- [The faker's guide to reading (x86) assembly language](https://www.timdbg.com/posts/fakers-guide-to-assembly/)
 
-- [Emacs: Macro me some SF Symbols](https://xenodium.com/emacs-macro-me-some-sf-symbols/)
-
-- [Let’s try ChatGPT. Is it any good? (Bisqwit)](https://youtu.be/q2A-MkGjvmI)
+- [It is not what you expect, but it is what you want: how Data#initialize is designed](https://zverok.space/blog/2023-01-03-data-initialize.html)
