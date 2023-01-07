@@ -1,47 +1,47 @@
-- [The Fallacies of Enterprise Computing (2016)](http://blogs.newardassociates.com/blog/2016/enterprise-computing-fallacies.html)
+- [Code Riffs](http://blog.fogus.me/2023/01/06/code-riffs/)
 
-- [weathering software winter](https://100r.co/site/weathering_software_winter.html)
+- [CGI WTF](http://blog.syncpup.com/posts/cgi-wtf.html)
 
-- [Parallelizing C++ using Execution Policies](https://azeemba.com/posts/cpp17-execution-policy.html)
+- [X servers no longer allow byte-swapped clients](http://who-t.blogspot.com/2023/01/x-servers-no-longer-allow-byte-swapped.html)
 
-- [Zero-dependency random number generation in Rust](https://blog.orhun.dev/zero-deps-random-in-rust/)
+- [barf - an extremely minimal blog generator](https://barf.bt.ht/)
 
-- [You Want Modules, Not Microservices](https://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html)
+- [ChatGPT in DR SBAITSO](https://bert.org/2023/01/06/chatgpt-in-dr-sbaitso/)
 
-- [Introducing Austral: A Systems Language with Linear Types and Capabilities](https://borretti.me/article/introducing-austral)
+- [Microfeatures I'd like to see in more languages](https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/)
 
-- [Complexity Zoo](https://complexityzoo.net/Complexity_Zoo)
+- [KmCaster – Screencasting software to display keyboard and mouse status](https://github.com/DaveJarvis/kmcaster)
 
-- [Incremental compilation for Crystal - Part 1](https://dev.to/asterite/incremental-compilation-for-crystal-part-1-414k)
+- [Go proposal: sum types based on general interfaces](https://github.com/golang/go/issues/57644)
 
-- [bflat - C# as you know it but with Go-inspired tooling](https://flattened.net/)
+- [z-tokens -- random tokens generation and related tools](https://github.com/volution/z-tokens)
 
-- [Burn: Deep Learning Framework in Rust](https://github.com/burn-rs/burn)
+- [A Curious Integral](https://golem.ph.utexas.edu/category/2023/01/a_curious_integral.html)
 
-- [Releasing cargo-sandbox, a sandboxed wrapper around cargo](https://github.com/insanitybit/cargo-sandbox/)
+- [Dissecting Guix, Part 1: Derivations](https://guix.gnu.org/en/blog/2023/dissecting-guix-part-1-derivations/)
 
-- [Writing a Python SQL engine from scratch](https://github.com/tobymao/sqlglot/blob/main/posts/python_sql_engine.md)
+- [A physics simulator toy inside Emacs](https://hg.sr.ht/~zck/sand.el)
 
-- [x86 is Turing-complete with no registers](https://mainisusuallyafunction.blogspot.com/2014/02/x86-is-turing-complete-with-no-registers.html)
+- [Eon – Amiga Soundtrack Hacks (2019)](https://hoffman.home.blog/2019/04/27/eon/)
 
-- [26 programming languages in 25 days, Part 2: Reflections on language design](https://matt.might.net/articles/26-languages-part2/)
+- [Git packaging sources: state of the art](https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/YKKYBXQL62U5RTYIRI2NT2I3EG7V63HT/)
 
-- [Don't do this: creating useless indexes](https://mydbanotebook.org/post/too-many-indexes/)
+- [Favorite compiler and interpreter resources](https://lists.eatonphil.com/compilers-and-interpreters.html)
 
-- [How many layers of UI inconsistencies are in Windows 11?](https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/)
+- [Rainbow Sort (sorting algorithm visualisation)](https://ljs.io/rainbow/)
 
-- [A confusing lifetime error related to Rust's lifetime elision](https://ntietz.com/blog/confusing-rust-lifetime-elision/)
+- [Rust Atomics and Locks](https://marabos.nl/atomics/)
 
-- [The MOS 6502 is (mostly) Turing-complete without registers](https://oldvcr.blogspot.com/2023/01/the-mos-6502-is-mostly-turing-complete.html)
+- [Vanilla OS and the next-generation Linux desktop](https://memoryfile.codeberg.page/posts/Vanilla-OS-and-the-next-generation-Linux-desktop/)
 
-- [Web Hackers vs. The Auto Industry: Critical Vulnerabilities in Ferrari, BMW, Rolls Royce, Porsche, and More](https://samcurry.net/web-hackers-vs-the-auto-industry/)
+- [ChaCha20 Encryption Performance on DEC PDP-11 (2021)](https://niconiconi.neocities.org/posts/chacha20-performance-on-pdp-11/)
 
-- [Debian has removed Python 2 from its next version](https://utcc.utoronto.ca/~cks/space/blog/python/DebianNoMorePython2)
+- [Is coding in Rust as bad as in C++?](https://quick-lint-js.com/blog/cpp-vs-rust-build-times/)
 
-- [The infrastructure behind ATMs](https://www.bitsaboutmoney.com/archive/the-infrastructure-behind-atms/)
+- [Rosalind: Learn Bioinformatics though Problems](https://rosalind.info/)
 
-- [Some people say 2048-bit RSA is vulnerable to a combo of conventional and current quantum computers](https://www.schneier.com/blog/archives/2023/01/breaking-rsa-with-a-quantum-computer.html)
+- [[Proposal] Analysis of Speedup Gain of Undefined Behavior Optimizations in OpenBSD](https://tildegit.org/lucic71/dissertation/src/branch/master/TSW/tsw.pdf)
 
-- [The faker's guide to reading (x86) assembly language](https://www.timdbg.com/posts/fakers-guide-to-assembly/)
+- [Parallel streaming in Haskell: Part 1 - Fast efficient fun](https://www.channable.com/tech/parallel-streaming-in-haskell-part-1-fast-efficient-fun)
 
-- [It is not what you expect, but it is what you want: how Data#initialize is designed](https://zverok.space/blog/2023-01-03-data-initialize.html)
+- [Compiling QML to C++: A 4x speedup](https://www.qt.io/blog/compiling-qml-to-c-a-4x-speedup)
