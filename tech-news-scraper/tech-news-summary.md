@@ -1,47 +1,43 @@
-- [Code Riffs](http://blog.fogus.me/2023/01/06/code-riffs/)
+- [What’s New in Go 1.20, Part I: Language Changes](https://blog.carlmjohnson.net/post/2023/golang-120-language-changes/)
 
-- [CGI WTF](http://blog.syncpup.com/posts/cgi-wtf.html)
+- [Making Sorbet more incremental](https://blog.jez.io/making-sorbet-more-incremental/)
 
-- [X servers no longer allow byte-swapped clients](http://who-t.blogspot.com/2023/01/x-servers-no-longer-allow-byte-swapped.html)
+- [Taking over a Dead IoT Company](https://blog.kchung.co/taking-over-a-dead-iot-company/)
 
-- [barf - an extremely minimal blog generator](https://barf.bt.ht/)
+- [Three Lessons from Threema: Analysis of a Secure Messenger](https://breakingthe3ma.app/)
 
-- [ChatGPT in DR SBAITSO](https://bert.org/2023/01/06/chatgpt-in-dr-sbaitso/)
+- [In Defense of Testing Mocks](https://buttondown.email/hillelwayne/archive/in-defense-of-testing-mocks/)
 
-- [Microfeatures I'd like to see in more languages](https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/)
+- [Building a location to time zone API with SpatiaLite and Datasette](https://datasette.io/tutorials/spatialite)
 
-- [KmCaster – Screencasting software to display keyboard and mouse status](https://github.com/DaveJarvis/kmcaster)
+- [implement "find definition" in 77 lines of go](https://dev-nonsense.com/posts/find-definition-in-go/)
 
-- [Go proposal: sum types based on general interfaces](https://github.com/golang/go/issues/57644)
+- [Safari is released to the world](https://donmelton.com/2013/01/10/safari-is-released-to-the-world/)
 
-- [z-tokens -- random tokens generation and related tools](https://github.com/volution/z-tokens)
+- [Feeds: The Only Civilised Way to Read Online](https://felixcrux.com/blog/feeds-the-only-civilised-way-to-read-online)
 
-- [A Curious Integral](https://golem.ph.utexas.edu/category/2023/01/a_curious_integral.html)
+- [A clean interface for org files (Emacs)](https://github.com/rougier/book-mode)
 
-- [Dissecting Guix, Part 1: Derivations](https://guix.gnu.org/en/blog/2023/dissecting-guix-part-1-derivations/)
+- [OpenZFS - The Final Word in File Systems](https://jro.io/truenas/openzfs/)
 
-- [A physics simulator toy inside Emacs](https://hg.sr.ht/~zck/sand.el)
+- [Vulkan Video decoding](https://lynne.ee/vulkan-video-decoding.html)
 
-- [Eon – Amiga Soundtrack Hacks (2019)](https://hoffman.home.blog/2019/04/27/eon/)
+- [On PBKDF2 iterations](https://neilmadden.blog/2023/01/09/on-pbkdf2-iterations/)
 
-- [Git packaging sources: state of the art](https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/YKKYBXQL62U5RTYIRI2NT2I3EG7V63HT/)
+- [Introducing Content Defined Chunking (CDC)](https://restic.net/blog/2015-09-12/restic-foundation1-cdc/)
 
-- [Favorite compiler and interpreter resources](https://lists.eatonphil.com/compilers-and-interpreters.html)
+- [When is a PC not a PC? The PC-98](https://scalibq.wordpress.com/2023/01/07/when-is-a-pc-not-a-pc-the-pc-98/)
 
-- [Rainbow Sort (sorting algorithm visualisation)](https://ljs.io/rainbow/)
+- [Man page as a curriculum vitae](https://skiqqy.xyz/)
 
-- [Rust Atomics and Locks](https://marabos.nl/atomics/)
+- [SourceHut will blacklist the Go module mirror](https://sourcehut.org/blog/2023-01-09-gomodulemirror/)
 
-- [Vanilla OS and the next-generation Linux desktop](https://memoryfile.codeberg.page/posts/Vanilla-OS-and-the-next-generation-Linux-desktop/)
+- [Verifiable Software Development Estimations](https://two-wrongs.com/verifiable-software-development-estimations)
 
-- [ChaCha20 Encryption Performance on DEC PDP-11 (2021)](https://niconiconi.neocities.org/posts/chacha20-performance-on-pdp-11/)
+- [Argon ONE NVMe Board Slower than SATA (for the Raspberry Pi)](https://www.martinrowan.co.uk/2023/01/argon-one-nvme-board-slower-than-sata/)
 
-- [Is coding in Rust as bad as in C++?](https://quick-lint-js.com/blog/cpp-vs-rust-build-times/)
+- [Intro to building GCC and some other GNU projects (focus on macOS & Apple Silicon)](https://www.nmattia.com/posts/2023-01-09-introduction-build-gcc-gnu.html)
 
-- [Rosalind: Learn Bioinformatics though Problems](https://rosalind.info/)
+- [Intro to Redis Scripting with Lua](https://www.novus.com/tech-blog/intro-to-redis-scripting-with-lua)
 
-- [[Proposal] Analysis of Speedup Gain of Undefined Behavior Optimizations in OpenBSD](https://tildegit.org/lucic71/dissertation/src/branch/master/TSW/tsw.pdf)
-
-- [Parallel streaming in Haskell: Part 1 - Fast efficient fun](https://www.channable.com/tech/parallel-streaming-in-haskell-part-1-fast-efficient-fun)
-
-- [Compiling QML to C++: A 4x speedup](https://www.qt.io/blog/compiling-qml-to-c-a-4x-speedup)
+- [Declarative UI with mogwai 0.6 and mogwai-dom 0.1](https://zyghost.com/blog/mogwai-0.6.html)
