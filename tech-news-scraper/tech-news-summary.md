@@ -1,43 +1,49 @@
-- [What’s New in Go 1.20, Part I: Language Changes](https://blog.carlmjohnson.net/post/2023/golang-120-language-changes/)
+- [Reverse-engineering an airspeed/Mach indicator from 1977](http://www.righto.com/2023/01/reverse-engineering-airspeedmach.html)
 
-- [Making Sorbet more incremental](https://blog.jez.io/making-sorbet-more-incremental/)
+- [Writing a TLA⁺ tree-sitter grammar: my foray into free software](https://ahelwer.ca/post/2023-01-11-tree-sitter-tlaplus/)
 
-- [Taking over a Dead IoT Company](https://blog.kchung.co/taking-over-a-dead-iot-company/)
+- [What if writing tests was a joyful experience?](https://blog.janestreet.com/the-joy-of-expect-tests/)
 
-- [Three Lessons from Threema: Analysis of a Secure Messenger](https://breakingthe3ma.app/)
+- [Introducing OkayWAL: A write-ahead log for Rust](https://bonsaidb.io/blog/introducing-okaywal/)
 
-- [In Defense of Testing Mocks](https://buttondown.email/hillelwayne/archive/in-defense-of-testing-mocks/)
+- [Copyright without years](https://daniel.haxx.se/blog/2023/01/08/copyright-without-years/)
 
-- [Building a location to time zone API with SpatiaLite and Datasette](https://datasette.io/tutorials/spatialite)
+- [Run Obsidian Clojure(Script) codeblocks in Babashka](https://github.com/filipesilva/obsidian-babashka)
 
-- [implement "find definition" in 77 lines of go](https://dev-nonsense.com/posts/find-definition-in-go/)
+- [Turn-based strategy card game Duelyst open-sourced](https://github.com/open-duelyst/duelyst)
 
-- [Safari is released to the world](https://donmelton.com/2013/01/10/safari-is-released-to-the-world/)
+- [Conc: Better structured concurrency for Go](https://github.com/sourcegraph/conc)
 
-- [Feeds: The Only Civilised Way to Read Online](https://felixcrux.com/blog/feeds-the-only-civilised-way-to-read-online)
+- [mongovi v2.0.0 - command line interface for MongoDB](https://github.com/timkuijsten/mongovi/releases/tag/v2.0.0)
 
-- [A clean interface for org files (Emacs)](https://github.com/rougier/book-mode)
+- [Code Brushes](https://githubnext.com/projects/code-brushes)
 
-- [OpenZFS - The Final Word in File Systems](https://jro.io/truenas/openzfs/)
+- [My org-roam workflows for taking notes and writing articles](https://honnef.co/articles/my-org-roam-workflows-for-taking-notes-and-writing-articles/)
 
-- [Vulkan Video decoding](https://lynne.ee/vulkan-video-decoding.html)
+- [Maemo Leste - New Year update: May 2022 - January 2023](https://maemo-leste.github.io/maemo-leste-new-year-update-may-2022-january-2023.html)
 
-- [On PBKDF2 iterations](https://neilmadden.blog/2023/01/09/on-pbkdf2-iterations/)
+- [Why Polars uses less memory than Pandas](https://pythonspeed.com/articles/polars-memory-pandas/)
 
-- [Introducing Content Defined Chunking (CDC)](https://restic.net/blog/2015-09-12/restic-foundation1-cdc/)
+- [Makefiles for Web Work](https://rosszurowski.com/log/2022/makefiles)
 
-- [When is a PC not a PC? The PC-98](https://scalibq.wordpress.com/2023/01/07/when-is-a-pc-not-a-pc-the-pc-98/)
+- [The yaml document from hell](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell)
 
-- [Man page as a curriculum vitae](https://skiqqy.xyz/)
+- [Supporting the Use of Rust in the Chromium Project](https://security.googleblog.com/2023/01/supporting-use-of-rust-in-chromium.html)
 
-- [SourceHut will blacklist the Go module mirror](https://sourcehut.org/blog/2023-01-09-gomodulemirror/)
+- [From Ruby to Node: Overhauling Shopify’s CLI for a Better Developer Experience](https://shopify.engineering/overhauling-shopify-cli-for-a-better-developer-experience)
 
-- [Verifiable Software Development Estimations](https://two-wrongs.com/verifiable-software-development-estimations)
+- [Sometimes it actually is a kernel bug: bind() in Linux 6.0.16](https://utcc.utoronto.ca/~cks/space/blog/linux/KernelBindBugIn6016)
 
-- [Argon ONE NVMe Board Slower than SATA (for the Raspberry Pi)](https://www.martinrowan.co.uk/2023/01/argon-one-nvme-board-slower-than-sata/)
+- [The Go runtime isn't aware of CFS quotas](https://vladimir.varank.in/notes/2023/01/go-runtime-vs-cfs-quota/)
 
-- [Intro to building GCC and some other GNU projects (focus on macOS & Apple Silicon)](https://www.nmattia.com/posts/2023-01-09-introduction-build-gcc-gnu.html)
+- [NetBSD ASCII flag for the bootloader](https://www.cambus.net/netbsd-ascii-flag-for-the-bootloader/)
 
-- [Intro to Redis Scripting with Lua](https://www.novus.com/tech-blog/intro-to-redis-scripting-with-lua)
+- [C-- (2008)](https://www.cs.tufts.edu/~nr/c--/)
 
-- [Declarative UI with mogwai 0.6 and mogwai-dom 0.1](https://zyghost.com/blog/mogwai-0.6.html)
+- [The Power of Prolog](https://www.metalevel.at/prolog)
+
+- [Nintendo 64 Java](https://www.mikekohn.net/micro/nintendo64_java.php)
+
+- [Pictures of a Working Garbage Collector](https://www.oilshell.org/blog/2023/01/garbage-collector.html)
+
+- [Grayscale on 1-bit LCDs (2022)](https://www.zephray.me/post/grayscale_lcd/)
