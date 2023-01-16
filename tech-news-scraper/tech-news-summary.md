@@ -1,49 +1,47 @@
-- [Reverse-engineering an airspeed/Mach indicator from 1977](http://www.righto.com/2023/01/reverse-engineering-airspeedmach.html)
+- [Inbox Zero Hack: Achieving productivity bliss in the New Year with mu4e](https://200ok.ch/posts/2023-01-05_inbox_zero_hack:_achieving_productivity_bliss_in_the_new_year_with_mue.html)
 
-- [Writing a TLA⁺ tree-sitter grammar: my foray into free software](https://ahelwer.ca/post/2023-01-11-tree-sitter-tlaplus/)
+- [Use.GPU Goes Trad](https://acko.net/blog/use-gpu-goes-trad/)
 
-- [What if writing tests was a joyful experience?](https://blog.janestreet.com/the-joy-of-expect-tests/)
+- [Containerised Mastodon server on NixOS](https://blog.cyplo.dev/posts/2023/01/mastodon-nixos/)
 
-- [Introducing OkayWAL: A write-ahead log for Rust](https://bonsaidb.io/blog/introducing-okaywal/)
+- [The Fourier Transform, explained in one sentence](https://blog.revolutionanalytics.com/2014/01/the-fourier-transform-explained-in-one-sentence.html)
 
-- [Copyright without years](https://daniel.haxx.se/blog/2023/01/08/copyright-without-years/)
+- [How to improve Python packaging, or why 14 tools are at least 12 too many](https://chriswarrick.com/blog/2023/01/15/how-to-improve-python-packaging/)
 
-- [Run Obsidian Clojure(Script) codeblocks in Babashka](https://github.com/filipesilva/obsidian-babashka)
+- [Running KDE Plasma on the RISC-V VisionFive-2](https://cordlandwehr.wordpress.com/2023/01/14/running-plasma-on-visionfive-2/)
 
-- [Turn-based strategy card game Duelyst open-sourced](https://github.com/open-duelyst/duelyst)
+- [MSI's (in)Secure Boot](https://dawidpotocki.com/en/2023/01/13/msi-insecure-boot/)
 
-- [Conc: Better structured concurrency for Go](https://github.com/sourcegraph/conc)
+- [sysm is a Linux program that lets you play custom sounds on specified events](https://github.com/jafarlihi/sysm)
 
-- [mongovi v2.0.0 - command line interface for MongoDB](https://github.com/timkuijsten/mongovi/releases/tag/v2.0.0)
+- [Project: Reviving an HP e-Vectra SFF Desktop PC](https://goughlui.com/2023/01/14/project-reviving-an-hp-e-vectra-sff-desktop-pc/)
 
-- [Code Brushes](https://githubnext.com/projects/code-brushes)
+- [Your tech stack is not the product](https://hoho.com/posts/your-stack-is-not-the-product/)
 
-- [My org-roam workflows for taking notes and writing articles](https://honnef.co/articles/my-org-roam-workflows-for-taking-notes-and-writing-articles/)
+- [Revisiting KDE](https://jackevansevo.github.io/revisiting-kde.html)
 
-- [Maemo Leste - New Year update: May 2022 - January 2023](https://maemo-leste.github.io/maemo-leste-new-year-update-may-2022-january-2023.html)
+- [Type Checking If Expressions](https://journal.stuffwithstuff.com/2023/01/03/type-checking-if-expressions/)
 
-- [Why Polars uses less memory than Pandas](https://pythonspeed.com/articles/polars-memory-pandas/)
+- [gokrazy: instance-centric configuration released](https://michael.stapelberg.ch/posts/2023-01-15-gokrazy-instance-centric-config/)
 
-- [Makefiles for Web Work](https://rosszurowski.com/log/2022/makefiles)
+- [Nomz Meal Planner - Skip the life story](https://mo-nomz.herokuapp.com/)
 
-- [The yaml document from hell](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell)
+- [Faster virtual machines: Speeding up programming language execution](https://mort.coffee/home/fast-interpreters/)
 
-- [Supporting the Use of Rust in the Chromium Project](https://security.googleblog.com/2023/01/supporting-use-of-rust-in-chromium.html)
+- [How to simulate a broken database connection for testing in Django](https://neilkakkar.com/test-database-connection-django.html)
 
-- [From Ruby to Node: Overhauling Shopify’s CLI for a Better Developer Experience](https://shopify.engineering/overhauling-shopify-cli-for-a-better-developer-experience)
+- [SAIC Galaxy 1100: a pre-CDE VUE of the PA-RISC with a security clearance](https://oldvcr.blogspot.com/2023/01/saic-galaxy-1100-pre-cde-vue-of-pa-risc.html)
 
-- [Sometimes it actually is a kernel bug: bind() in Linux 6.0.16](https://utcc.utoronto.ca/~cks/space/blog/linux/KernelBindBugIn6016)
+- [Over-engineering Your Thesis with Nix, Pandoc and make](https://pascal.jungblut.me/posts/overengineering-thesis-template/)
 
-- [The Go runtime isn't aware of CFS quotas](https://vladimir.varank.in/notes/2023/01/go-runtime-vs-cfs-quota/)
+- [x86-64-v3: Mixed Bag of Performance](https://sunnyflunk.github.io/2023/01/15/x86-64-v3-Mixed-Bag-of-Performance.html)
 
-- [NetBSD ASCII flag for the bootloader](https://www.cambus.net/netbsd-ascii-flag-for-the-bootloader/)
+- [terranix - terraform in nix](https://terranix.org/)
 
-- [C-- (2008)](https://www.cs.tufts.edu/~nr/c--/)
+- [Peeking into HTTPS Traffic with a Proxy](https://www.appsmith.com/blog/peeking-into-https-traffic-with-a-proxy)
 
-- [The Power of Prolog](https://www.metalevel.at/prolog)
+- [Producing HTML using string templates has always been the wrong solution](https://www.devever.net/~hl/stringtemplates)
 
-- [Nintendo 64 Java](https://www.mikekohn.net/micro/nintendo64_java.php)
+- [My Bookmarklet Editor](https://www.gibney.org/bookmarklet_editor)
 
-- [Pictures of a Working Garbage Collector](https://www.oilshell.org/blog/2023/01/garbage-collector.html)
-
-- [Grayscale on 1-bit LCDs (2022)](https://www.zephray.me/post/grayscale_lcd/)
+- [Thoughts on Zig](https://www.youtube.com/watch?v=zlWqpRTgXBg)
