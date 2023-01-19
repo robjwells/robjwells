@@ -1,47 +1,49 @@
-- [Inbox Zero Hack: Achieving productivity bliss in the New Year with mu4e](https://200ok.ch/posts/2023-01-05_inbox_zero_hack:_achieving_productivity_bliss_in_the_new_year_with_mue.html)
+- [Functional Classes](http://blog.cleancoder.com/uncle-bob/2023/01/18/functional-classes.html)
 
-- [Use.GPU Goes Trad](https://acko.net/blog/use-gpu-goes-trad/)
+- [Tail recursion in REBOL (2001)](http://ll1.ai.mit.edu/marshall.html)
 
-- [Containerised Mastodon server on NixOS](https://blog.cyplo.dev/posts/2023/01/mastodon-nixos/)
+- [Take your pragmatism for a unicycle ride](http://twitchard.github.io/posts/2023-01-18-unicycles.html)
 
-- [The Fourier Transform, explained in one sentence](https://blog.revolutionanalytics.com/2014/01/the-fourier-transform-explained-in-one-sentence.html)
+- [Can Logic Programming Execute as Fast as Imperative Programming? (1990)](http://www2.eecs.berkeley.edu/Pubs/TechRpts/1990/CSD-90-600.pdf)
 
-- [How to improve Python packaging, or why 14 tools are at least 12 too many](https://chriswarrick.com/blog/2023/01/15/how-to-improve-python-packaging/)
+- [Small VMs & Coroutines](https://blog.dziban.net/coroutines/)
 
-- [Running KDE Plasma on the RISC-V VisionFive-2](https://cordlandwehr.wordpress.com/2023/01/14/running-plasma-on-visionfive-2/)
+- [An open source Python project CI pipeline](https://brntn.me/blog/open-source-python-ci/)
 
-- [MSI's (in)Secure Boot](https://dawidpotocki.com/en/2023/01/13/msi-insecure-boot/)
+- [The Biggest Problem In Real-World Computer Programming](https://danielbmarkham.com/the-biggest-problem-in-real-world-computer-programming/)
 
-- [sysm is a Linux program that lets you play custom sounds on specified events](https://github.com/jafarlihi/sysm)
+- [tar creator+extractor in ~100 lines of prolog](https://github.com/SuperDisk/tar.pl)
 
-- [Project: Reviving an HP e-Vectra SFF Desktop PC](https://goughlui.com/2023/01/14/project-reviving-an-hp-e-vectra-sff-desktop-pc/)
+- [Why I Like Nox](https://hynek.me/articles/why-i-like-nox/)
 
-- [Your tech stack is not the product](https://hoho.com/posts/your-stack-is-not-the-product/)
+- [Examples of problems with integers](https://jvns.ca/blog/2023/01/18/examples-of-problems-with-integers/)
 
-- [Revisiting KDE](https://jackevansevo.github.io/revisiting-kde.html)
+- [Why is Rust's build system uniquely hard to use?](https://jyn.dev/2023/01/12/Bootstrapping-Rust-in-2023.html)
 
-- [Type Checking If Expressions](https://journal.stuffwithstuff.com/2023/01/03/type-checking-if-expressions/)
+- [Ezno in '23](https://kaleidawave.github.io/posts/ezno-23/)
 
-- [gokrazy: instance-centric configuration released](https://michael.stapelberg.ch/posts/2023-01-15-gokrazy-instance-centric-config/)
+- [How to setup a local or private Ubuntu Mirror](https://louwrentius.com/how-to-setup-a-local-or-private-ubuntu-mirror.html)
 
-- [Nomz Meal Planner - Skip the life story](https://mo-nomz.herokuapp.com/)
+- [u-config: a new, lean pkg-config clone](https://nullprogram.com/blog/2023/01/18/)
 
-- [Faster virtual machines: Speeding up programming language execution](https://mort.coffee/home/fast-interpreters/)
+- [Working from a narrowboat - Internet connectivity](https://qmacro.org/blog/posts/2023/01/09/working-from-a-narrowboat-internet-connectivity/)
 
-- [How to simulate a broken database connection for testing in Django](https://neilkakkar.com/test-database-connection-django.html)
+- [No Start Menu for You](https://randomascii.wordpress.com/2023/01/17/no-start-menu-for-you/)
 
-- [SAIC Galaxy 1100: a pre-CDE VUE of the PA-RISC with a security clearance](https://oldvcr.blogspot.com/2023/01/saic-galaxy-1100-pre-cde-vue-of-pa-risc.html)
+- [Rust concepts I wish I learned earlier](https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/)
 
-- [Over-engineering Your Thesis with Nix, Pandoc and make](https://pascal.jungblut.me/posts/overengineering-thesis-template/)
+- [The Metapict Blog](https://soegaard.github.io/blog/metapict/)
 
-- [x86-64-v3: Mixed Bag of Performance](https://sunnyflunk.github.io/2023/01/15/x86-64-v3-Mixed-Bag-of-Performance.html)
+- [Generating diagrams programmatically](https://terrastruct.com/blog/post/generate-diagrams-programmatically/)
 
-- [terranix - terraform in nix](https://terranix.org/)
+- [Thonny, Python IDE for beginners](https://thonny.org/)
 
-- [Peeking into HTTPS Traffic with a Proxy](https://www.appsmith.com/blog/peeking-into-https-traffic-with-a-proxy)
+- [Hello, PNG](https://www.da.vidbuchanan.co.uk/blog/hello-png.html)
 
-- [Producing HTML using string templates has always been the wrong solution](https://www.devever.net/~hl/stringtemplates)
+- [I made ChatGPT answer 50,000 trivia questions. Are we doomed?](https://www.sliceofexperiments.com/p/chatgpt-vs-50000-trivia-questions)
 
-- [My Bookmarklet Editor](https://www.gibney.org/bookmarklet_editor)
+- [iTLB multihit](https://www.tacitosecurity.com/multihit.html)
 
-- [Thoughts on Zig](https://www.youtube.com/watch?v=zlWqpRTgXBg)
+- [Typst: A Programmable Markup Language for Typesetting](https://www.user.tu-berlin.de/laurmaedje/programmable-markup-language-for-typesetting.pdf)
+
+- [Benchmarking Gone Wrong](https://www.youtube.com/watch?v=vm1GJMp0QN4&t=1069s)
