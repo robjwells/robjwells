@@ -1,49 +1,49 @@
-- [Functional Classes](http://blog.cleancoder.com/uncle-bob/2023/01/18/functional-classes.html)
+- [Inside the Globus INK: a mechanical navigation computer for Soviet spaceflight](http://www.righto.com/2023/01/inside-globus-ink-mechanical-navigation.html)
 
-- [Tail recursion in REBOL (2001)](http://ll1.ai.mit.edu/marshall.html)
+- [Reverse engineering the MacBook clamshell mode](https://alinpanaitiu.com/blog/turn-off-macbook-display-clamshell/)
 
-- [Take your pragmatism for a unicycle ride](http://twitchard.github.io/posts/2023-01-18-unicycles.html)
+- [Myths and Legends in High-Performance Computing](https://arxiv.org/pdf/2301.02432.pdf)
 
-- [Can Logic Programming Execute as Fast as Imperative Programming? (1990)](http://www2.eecs.berkeley.edu/Pubs/TechRpts/1990/CSD-90-600.pdf)
+- [Rust should own its debugger experience](https://blog.yoshuawuyts.com/rust-should-own-its-debugger-experience/)
 
-- [Small VMs & Coroutines](https://blog.dziban.net/coroutines/)
+- [What Do ChatGPT and AI-based Automatic Program Generation Mean for the Future of Software](https://cacm.acm.org/blogs/blog-cacm/268103-what-do-chatgpt-and-ai-based-automatic-program-generation-mean-for-the-future-of-software/fulltext)
 
-- [An open source Python project CI pipeline](https://brntn.me/blog/open-source-python-ci/)
+- [sunny computers, part 3](https://cohost.org/delan/post/852798-sunny-computers-par)
 
-- [The Biggest Problem In Real-World Computer Programming](https://danielbmarkham.com/the-biggest-problem-in-real-world-computer-programming/)
+- [The Page With No Code](https://danq.me/2023/01/11/nocode/)
 
-- [tar creator+extractor in ~100 lines of prolog](https://github.com/SuperDisk/tar.pl)
+- [doas - dedicated openbsd application subexecutor (2015)](https://flak.tedunangst.com/post/doas)
 
-- [Why I Like Nox](https://hynek.me/articles/why-i-like-nox/)
+- [open-heart-element: A button to POST an emoji to an endpoint](https://github.com/dddddddddzzzz/open-heart-element)
 
-- [Examples of problems with integers](https://jvns.ca/blog/2023/01/18/examples-of-problems-with-integers/)
+- [Pipe Operator for JavaScript](https://github.com/tc39/proposal-pipeline-operator)
 
-- [Why is Rust's build system uniquely hard to use?](https://jyn.dev/2023/01/12/Bootstrapping-Rust-in-2023.html)
+- [Raspberry Pi Pico Priority Inversion](https://kentindell.github.io/2021/03/05/pico-priority-inversion/)
 
-- [Ezno in '23](https://kaleidawave.github.io/posts/ezno-23/)
+- [Trees Too Large to Count](https://lewiscarson.com/posts/willow)
 
-- [How to setup a local or private Ubuntu Mirror](https://louwrentius.com/how-to-setup-a-local-or-private-ubuntu-mirror.html)
+- [Encoding variable-length instructions in LLVM](https://m680x0.github.io/blog/2022/02/varlen-encoder.html)
 
-- [u-config: a new, lean pkg-config clone](https://nullprogram.com/blog/2023/01/18/)
+- [Thoughts on the Python packaging ecosystem](https://pradyunsg.me/blog/2023/01/21/thoughts-on-python-packaging/)
 
-- [Working from a narrowboat - Internet connectivity](https://qmacro.org/blog/posts/2023/01/09/working-from-a-narrowboat-internet-connectivity/)
+- [Always read the first error message first](https://quuxplusone.github.io/blog/2023/01/21/did-you-mean-bool/)
 
-- [No Start Menu for You](https://randomascii.wordpress.com/2023/01/17/no-start-menu-for-you/)
+- [Five Questions](https://re-factor.blogspot.com/2020/02/five-questions.html)
 
-- [Rust concepts I wish I learned earlier](https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/)
+- [Scala Puzzlers](https://scalapuzzlers.com)
 
-- [The Metapict Blog](https://soegaard.github.io/blog/metapict/)
+- [How You Respond to Security Researchers Says Everything About You](https://soatok.blog/2023/01/21/how-you-respond-to-security-researchers-says-everything-about-you/)
 
-- [Generating diagrams programmatically](https://terrastruct.com/blog/post/generate-diagrams-programmatically/)
+- [SCO Xenix on the Apple Lisa](https://tinkerdifferent.com/threads/surprise.2308/)
 
-- [Thonny, Python IDE for beginners](https://thonny.org/)
+- [The importance of licenses, and how they affect community trust  and your product](https://www.linkedin.com/pulse/importance-licenses-how-affect-community-trust-your-product-wildner/)
 
-- [Hello, PNG](https://www.da.vidbuchanan.co.uk/blog/hello-png.html)
+- [Hacking myself to prove a point](https://www.macchaffee.com/blog/2023/hacking-myself/)
 
-- [I made ChatGPT answer 50,000 trivia questions. Are we doomed?](https://www.sliceofexperiments.com/p/chatgpt-vs-50000-trivia-questions)
+- [Self-Soldering Circuits](https://www.youtube.com/watch?v=r0csHZveVvY)
 
-- [iTLB multihit](https://www.tacitosecurity.com/multihit.html)
+- [nice sites](https://www2.bearblog.dev/non-annoying/)
 
-- [Typst: A Programmable Markup Language for Typesetting](https://www.user.tu-berlin.de/laurmaedje/programmable-markup-language-for-typesetting.pdf)
+- [the best sudo replacement](https://xeiaso.net/blog/%F0%9F%A5%BA)
 
-- [Benchmarking Gone Wrong](https://www.youtube.com/watch?v=vm1GJMp0QN4&t=1069s)
+- [The NixOS “settings” option: when and how to use it](https://zimbatm.com/notes/the-nixos-settings-option-when-and-how-to-use-it)
