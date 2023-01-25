@@ -1,49 +1,49 @@
-- [Inside the Globus INK: a mechanical navigation computer for Soviet spaceflight](http://www.righto.com/2023/01/inside-globus-ink-mechanical-navigation.html)
+- [pkgconf, CVE-2023-24056 and disinformation](https://ariadne.space/2023/01/24/pkgconf-cve-2023-24056-and-disinformation/)
 
-- [Reverse engineering the MacBook clamshell mode](https://alinpanaitiu.com/blog/turn-off-macbook-display-clamshell/)
+- [Attempt This Online](https://ato.pxeger.com/about)
 
-- [Myths and Legends in High-Performance Computing](https://arxiv.org/pdf/2301.02432.pdf)
+- [We invested 10% to pay back tech debt; Here's what happened](https://blog.alexewerlof.com/p/tech-debt-day)
 
-- [Rust should own its debugger experience](https://blog.yoshuawuyts.com/rust-should-own-its-debugger-experience/)
+- [Encrypting Data in the Browser Using WebAuthn](https://blog.millerti.me/2023/01/22/encrypting-data-in-the-browser-using-webauthn/)
 
-- [What Do ChatGPT and AI-based Automatic Program Generation Mean for the Future of Software](https://cacm.acm.org/blogs/blog-cacm/268103-what-do-chatgpt-and-ai-based-automatic-program-generation-mean-for-the-future-of-software/fulltext)
+- [Packaging Rust Applications for the NPM Registry](https://blog.orhun.dev/packaging-rust-for-npm/)
 
-- [sunny computers, part 3](https://cohost.org/delan/post/852798-sunny-computers-par)
+- [Agilean](https://blog.ploeh.dk/2023/01/23/agilean/)
 
-- [The Page With No Code](https://danq.me/2023/01/11/nocode/)
+- [Making sense of TypeScript using set theory](https://blog.thoughtspile.tech/2023/01/23/typescript-sets/)
 
-- [doas - dedicated openbsd application subexecutor (2015)](https://flak.tedunangst.com/post/doas)
+- [Bleach 6.0.0 release and deprecation](https://bluesock.org/~willkg/blog/dev/bleach_6_0_0_deprecation.html)
 
-- [open-heart-element: A button to POST an emoji to an endpoint](https://github.com/dddddddddzzzz/open-heart-element)
+- [Introducing: Zero to Nix](https://determinate.systems/posts/zero-to-nix)
 
-- [Pipe Operator for JavaScript](https://github.com/tc39/proposal-pipeline-operator)
+- [How the Xbox 360 knows if your hard-drive is genuine](https://eaton-works.com/2023/01/24/how-the-xbox-360-knows-if-your-hard-drive-is-genuine/)
 
-- [Raspberry Pi Pico Priority Inversion](https://kentindell.github.io/2021/03/05/pico-priority-inversion/)
+- [9 years maintaining a sorta-popular open source package: lessons learned](https://evanhahn.com/lessons-learned-maintaining-a-sorta-popular-open-source-package/)
 
-- [Trees Too Large to Count](https://lewiscarson.com/posts/willow)
+- [I don't know what to write on my blog - developer](https://fromdevtodev.com/what-to-blog-developer)
 
-- [Encoding variable-length instructions in LLVM](https://m680x0.github.io/blog/2022/02/varlen-encoder.html)
+- [Font regional variants are hard](https://github.com/FrostKiwi/treasurechest#regional-variants)
 
-- [Thoughts on the Python packaging ecosystem](https://pradyunsg.me/blog/2023/01/21/thoughts-on-python-packaging/)
+- [Why the infosec community is ahead of the curve and rationalists and nihilists are wrong](https://ioc.exchange/@invisv/109740474201888576)
 
-- [Always read the first error message first](https://quuxplusone.github.io/blog/2023/01/21/did-you-mean-bool/)
+- [Pentiment (Font Design)](https://lettermatic.com/custom/pentiment)
 
-- [Five Questions](https://re-factor.blogspot.com/2020/02/five-questions.html)
+- [The Git source code audit, viewed as a Rust programmer](https://litchipi.github.io/infosec/2023/01/24/git-code-audit-viewed-as-rust-programmer.html)
 
-- [Scala Puzzlers](https://scalapuzzlers.com)
+- [An Ideal CI/CD System](https://matt-rickard.com/an-ideal-ci-cd-system)
 
-- [How You Respond to Security Researchers Says Everything About You](https://soatok.blog/2023/01/21/how-you-respond-to-security-researchers-says-everything-about-you/)
+- [Fun with macOS's SIP](https://metalbear.co/blog/fun-with-macoss-sip/)
 
-- [SCO Xenix on the Apple Lisa](https://tinkerdifferent.com/threads/surprise.2308/)
+- [Bitwarden design flaw: Server side iterations](https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations/)
 
-- [The importance of licenses, and how they affect community trust  and your product](https://www.linkedin.com/pulse/importance-licenses-how-affect-community-trust-your-product-wildner/)
+- [Making a passphrase word list uniquely decodable with minimal cuts (2022)](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html)
 
-- [Hacking myself to prove a point](https://www.macchaffee.com/blog/2023/hacking-myself/)
+- [modular bash profile scripting with shellswain](https://t-ravis.com/post/shell/modular_bash_profile_scripting_with_shellswain/)
 
-- [Self-Soldering Circuits](https://www.youtube.com/watch?v=r0csHZveVvY)
+- [Build vs. Buy](https://two-wrongs.com/build-vs-buy)
 
-- [nice sites](https://www2.bearblog.dev/non-annoying/)
+- [TerraMaster F4-423 review - A low-power 4-bay NAS tested with Unraid](https://www.cnx-software.com/2023/01/24/terramaster-f4-423-review-low-power-4-bay-nas-tested-with-unraid/)
 
-- [the best sudo replacement](https://xeiaso.net/blog/%F0%9F%A5%BA)
+- [Hyperscale in your Homelab: The Compute Blade arrives](https://www.jeffgeerling.com/blog/2023/hyperscale-your-homelab-compute-blade-arrives)
 
-- [The NixOS “settings” option: when and how to use it](https://zimbatm.com/notes/the-nixos-settings-option-when-and-how-to-use-it)
+- [JSX is quasi-quoting](https://xeiaso.net/blog/jsx-quasi-quoting)
