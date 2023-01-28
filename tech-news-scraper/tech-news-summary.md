@@ -1,49 +1,47 @@
-- [pkgconf, CVE-2023-24056 and disinformation](https://ariadne.space/2023/01/24/pkgconf-cve-2023-24056-and-disinformation/)
+- [Natural language is the lazy user interface](https://austinhenley.com/blog/naturallanguageui.html)
 
-- [Attempt This Online](https://ato.pxeger.com/about)
+- [Darklang Release 9](https://blog.darklang.com/darklang-release-9/)
 
-- [We invested 10% to pay back tech debt; Here's what happened](https://blog.alexewerlof.com/p/tech-debt-day)
+- [Problems typing equality in Ruby](https://blog.jez.io/problems-typing-ruby-equality/)
 
-- [Encrypting Data in the Browser Using WebAuthn](https://blog.millerti.me/2023/01/22/encrypting-data-in-the-browser-using-webauthn/)
+- [Announcing Rust 1.67.0](https://blog.rust-lang.org/2023/01/26/Rust-1.67.0.html)
 
-- [Packaging Rust Applications for the NPM Registry](https://blog.orhun.dev/packaging-rust-for-npm/)
+- [Using `tracing` with Rust CLI applications](https://blog.waleedkhan.name/tracing-rust-cli-apps/)
 
-- [Agilean](https://blog.ploeh.dk/2023/01/23/agilean/)
+- [This Gem is Mentionable](https://calebhearth.com/l/this-gem-is-mentionable)
 
-- [Making sense of TypeScript using set theory](https://blog.thoughtspile.tech/2023/01/23/typescript-sets/)
+- [Cyber is a new language for fast, efficient, and concurrent scripting](https://cyberscript.dev/)
 
-- [Bleach 6.0.0 release and deprecation](https://bluesock.org/~willkg/blog/dev/bleach_6_0_0_deprecation.html)
+- [Announcing TypeScript 5.0 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0-beta/)
 
-- [Introducing: Zero to Nix](https://determinate.systems/posts/zero-to-nix)
+- [Forking Chrome to render in a terminal](https://fathy.fr/carbonyl)
 
-- [How the Xbox 360 knows if your hard-drive is genuine](https://eaton-works.com/2023/01/24/how-the-xbox-360-knows-if-your-hard-drive-is-genuine/)
+- [Documenting reverse engineering of the original Lytro lightfield camera](https://github.com/ea/lytro_unlock)
 
-- [9 years maintaining a sorta-popular open source package: lessons learned](https://evanhahn.com/lessons-learned-maintaining-a-sorta-popular-open-source-package/)
+- [GitHub - leptos-rs/leptos: Build fast web applications with Rust](https://github.com/leptos-rs/leptos)
 
-- [I don't know what to write on my blog - developer](https://fromdevtodev.com/what-to-blog-developer)
+- [Erlang's not about lightweight processes and message passing](https://github.com/stevana/armstrong-distributed-systems/blob/main/docs/erlang-is-not-about.md)
 
-- [Font regional variants are hard](https://github.com/FrostKiwi/treasurechest#regional-variants)
+- [I made a multi-language programmable linter](https://github.com/sylver-dev/sylver-cli)
 
-- [Why the infosec community is ahead of the curve and rationalists and nihilists are wrong](https://ioc.exchange/@invisv/109740474201888576)
+- [A nice round ball](https://jfmengels.net/a-nice-round-ball/)
 
-- [Pentiment (Font Design)](https://lettermatic.com/custom/pentiment)
+- [Rust's Ugly Syntax](https://matklad.github.io/2023/01/26/rusts-ugly-syntax.html)
 
-- [The Git source code audit, viewed as a Rust programmer](https://litchipi.github.io/infosec/2023/01/24/git-code-audit-viewed-as-rust-programmer.html)
+- [Ordering Numbers, How Hard Can It Be?](https://orlp.net/blog/ordering-numbers/)
 
-- [An Ideal CI/CD System](https://matt-rickard.com/an-ideal-ci-cd-system)
+- [An exceedingly cute protocol for biased locking with transactions](https://outerproduct.net/boring/2023-01-27_trans-locks.html)
 
-- [Fun with macOS's SIP](https://metalbear.co/blog/fun-with-macoss-sip/)
+- [Some Rust breaking changes don't require a major version](https://predr.ag/blog/some-rust-breaking-changes-do-not-require-major-version/)
 
-- [Bitwarden design flaw: Server side iterations](https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations/)
+- [float64 to float32: Saving memory without losing precision](https://pythonspeed.com/articles/float64-float32-precision/)
 
-- [Making a passphrase word list uniquely decodable with minimal cuts (2022)](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html)
+- [Too many words about Rust's function syntax](https://steveklabnik.com/writing/too-many-words-about-rusts-function-syntax)
 
-- [modular bash profile scripting with shellswain](https://t-ravis.com/post/shell/modular_bash_profile_scripting_with_shellswain/)
+- [Netheads vs. bellheads redux: the strange victory of SIP over the telephone network](https://www.devever.net/~hl/sip-victory)
 
-- [Build vs. Buy](https://two-wrongs.com/build-vs-buy)
+- [Elite for Emacs](https://www.salkosuo.net/2015/10/22/elite-for-emacs.html)
 
-- [TerraMaster F4-423 review - A low-power 4-bay NAS tested with Unraid](https://www.cnx-software.com/2023/01/24/terramaster-f4-423-review-low-power-4-bay-nas-tested-with-unraid/)
+- [Use the dialog element (reasonably)](https://www.scottohara.me/blog/2023/01/26/use-the-dialog-element.html)
 
-- [Hyperscale in your Homelab: The Compute Blade arrives](https://www.jeffgeerling.com/blog/2023/hyperscale-your-homelab-compute-blade-arrives)
-
-- [JSX is quasi-quoting](https://xeiaso.net/blog/jsx-quasi-quoting)
+- [Using Sourcegraph to discover non-NPM JS projects](https://www.stackaid.us/blog/using-sourcegraph-to-discovery-non-npm-js-projects)
