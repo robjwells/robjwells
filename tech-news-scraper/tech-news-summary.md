@@ -1,47 +1,47 @@
-- [Natural language is the lazy user interface](https://austinhenley.com/blog/naturallanguageui.html)
+- [Monoids in the Category of](http://jackkelly.name/blog/archives/2023/01/28/monoids_in_the_category_of___/)
 
-- [Darklang Release 9](https://blog.darklang.com/darklang-release-9/)
+- [Spritely's Goblins and How They're Gonna Steal the Future](https://arcades.agency/goblins.html)
 
-- [Problems typing equality in Ruby](https://blog.jez.io/problems-typing-ruby-equality/)
+- [The generative AI revolution has begun—how did we get here?](https://arstechnica.com/gadgets/2023/01/the-generative-ai-revolution-has-begun-how-did-we-get-here/)
 
-- [Announcing Rust 1.67.0](https://blog.rust-lang.org/2023/01/26/Rust-1.67.0.html)
+- [Abusing Exceptions for Code Execution, Part 2](https://billdemirkapi.me/abusing-exceptions-for-code-execution-part-2/)
 
-- [Using `tracing` with Rust CLI applications](https://blog.waleedkhan.name/tracing-rust-cli-apps/)
+- [Capability-Safety I: Prelude](https://blog.yoshuawuyts.com/capabilities-1/)
 
-- [This Gem is Mentionable](https://calebhearth.com/l/this-gem-is-mentionable)
+- [Tag Systems](https://buttondown.email/hillelwayne/archive/tag-systems/)
 
-- [Cyber is a new language for fast, efficient, and concurrent scripting](https://cyberscript.dev/)
+- [How to use HKDF to derive new keys](https://cendyne.dev/posts/2023-01-30-how-to-use-hkdf.html)
 
-- [Announcing TypeScript 5.0 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0-beta/)
+- [Intercepting t.co links using DNS rewrites](https://djharper.dev/post/2023/01/29/intercepting-t.co-links-using-dns-rewrites/)
 
-- [Forking Chrome to render in a terminal](https://fathy.fr/carbonyl)
+- [Will Wright on Designing User Interfaces to Simulation Games (1996)](https://donhopkins.medium.com/designing-user-interfaces-to-simulation-games-bd7a9d81e62d)
 
-- [Documenting reverse engineering of the original Lytro lightfield camera](https://github.com/ea/lytro_unlock)
+- [Git archive checksums may change | GitHub Changelog](https://github.blog/changelog/2023-01-30-git-archive-checksums-may-change/)
 
-- [GitHub - leptos-rs/leptos: Build fast web applications with Rust](https://github.com/leptos-rs/leptos)
+- [Fish shell to be rewritten in Rust](https://github.com/fish-shell/fish-shell/pull/9512)
 
-- [Erlang's not about lightweight processes and message passing](https://github.com/stevana/armstrong-distributed-systems/blob/main/docs/erlang-is-not-about.md)
+- [gracy: handle failures, logging, retries, throttling, and tracking for all your HTTP interactions](https://github.com/guilatrova/gracy)
 
-- [I made a multi-language programmable linter](https://github.com/sylver-dev/sylver-cli)
+- [SSH Troubleshooting Guide](https://ittavern.com/ssh-troubleshooting-guide/)
 
-- [A nice round ball](https://jfmengels.net/a-nice-round-ball/)
+- [Why Go and not Rust? (2019)](https://kristoff.it/blog/why-go-and-not-rust/)
 
-- [Rust's Ugly Syntax](https://matklad.github.io/2023/01/26/rusts-ugly-syntax.html)
+- [All about UndefinedBehaviorSanitizer](https://maskray.me/blog/2023-01-29-all-about-undefined-behavior-sanitizer)
 
-- [Ordering Numbers, How Hard Can It Be?](https://orlp.net/blog/ordering-numbers/)
+- [Prompt Engineering Shouldn't Exist](https://matt-rickard.com/prompt-engineering-shouldnt-exist)
 
-- [An exceedingly cute protocol for biased locking with transactions](https://outerproduct.net/boring/2023-01-27_trans-locks.html)
+- [Spritely Goblins 0.10 released, distributed programming environment for Guile and Racket](https://spritely.institute/news/spritely-goblins-v010-for-guile-and-racket.html)
 
-- [Some Rust breaking changes don't require a major version](https://predr.ag/blog/some-rust-breaking-changes-do-not-require-major-version/)
+- [The CPU architectural question of what is a (reserved) NOP](https://utcc.utoronto.ca/~cks/space/blog/tech/WhatIsAModernNOP)
 
-- [float64 to float32: Saving memory without losing precision](https://pythonspeed.com/articles/float64-float32-precision/)
+- [Working with Effect Handlers](https://vimeo.com/794219638)
 
-- [Too many words about Rust's function syntax](https://steveklabnik.com/writing/too-many-words-about-rusts-function-syntax)
+- [terraform-nixos-ng: Modern terraform support for NixOS](https://www.haskellforall.com/2023/01/terraform-nixos-ng-modern-terraform.html)
 
-- [Netheads vs. bellheads redux: the strange victory of SIP over the telephone network](https://www.devever.net/~hl/sip-victory)
+- [100 Days Of More Or Less Modern CSS](https://www.matuzo.at/blog/2022/100-days-of-more-or-less-modern-css/)
 
-- [Elite for Emacs](https://www.salkosuo.net/2015/10/22/elite-for-emacs.html)
+- [Think seriously about “safety”; then do something sensible about it](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2739r0.pdf)
 
-- [Use the dialog element (reasonably)](https://www.scottohara.me/blog/2023/01/26/use-the-dialog-element.html)
+- [Commodore 64 KERNAL API Reference](https://www.pagetable.com/c64ref/kernal/)
 
-- [Using Sourcegraph to discover non-NPM JS projects](https://www.stackaid.us/blog/using-sourcegraph-to-discovery-non-npm-js-projects)
+- [Diagram layout engines: Minimizing hierarchical edge crossings](https://www.terrastruct.com/blog/post/diagram-layout-engines-crossing-minimization/)
