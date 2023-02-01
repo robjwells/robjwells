@@ -1,47 +1,49 @@
-- [Monoids in the Category of](http://jackkelly.name/blog/archives/2023/01/28/monoids_in_the_category_of___/)
+- [Automerge 2.0](https://automerge.org/blog/automerge-2/)
 
-- [Spritely's Goblins and How They're Gonna Steal the Future](https://arcades.agency/goblins.html)
+- [Various Ways of Sending Mail via SMTP](https://blog.bityard.net/articles/2023/January/various-ways-of-sending-mail-via-smtp)
 
-- [The generative AI revolution has begun—how did we get here?](https://arstechnica.com/gadgets/2023/01/the-generative-ai-revolution-has-begun-how-did-we-get-here/)
-
-- [Abusing Exceptions for Code Execution, Part 2](https://billdemirkapi.me/abusing-exceptions-for-code-execution-part-2/)
-
-- [Capability-Safety I: Prelude](https://blog.yoshuawuyts.com/capabilities-1/)
+- [elementary OS 7 Available Now](https://blog.elementary.io/os-7-available-now/)
 
 - [Tag Systems](https://buttondown.email/hillelwayne/archive/tag-systems/)
 
-- [How to use HKDF to derive new keys](https://cendyne.dev/posts/2023-01-30-how-to-use-hkdf.html)
+- [Apple //c Scene From '80s Bond Film "A View to a Kill" Perfectly Re-Created With Applesoft BASIC](https://bytecellar.com/2020/04/29/apple-c-scene-from-80s-bond-film-a-view-to-a-kill-perfectly-re-created-with-applesoft-basic/)
 
-- [Intercepting t.co links using DNS rewrites](https://djharper.dev/post/2023/01/29/intercepting-t.co-links-using-dns-rewrites/)
+- [Meanwhile, Over in Androidtown](https://daringfireball.net/2023/01/meanwhile_over_in_androidtown)
 
-- [Will Wright on Designing User Interfaces to Simulation Games (1996)](https://donhopkins.medium.com/designing-user-interfaces-to-simulation-games-bd7a9d81e62d)
+- [Future of Memory Safety: Challenges and Recommendations](https://digital-lab-wp.consumerreports.org/wp-content/uploads/2023/01/Memory-Safety-Convening-Report-.pdf)
 
-- [Git archive checksums may change | GitHub Changelog](https://github.blog/changelog/2023-01-30-git-archive-checksums-may-change/)
+- [Git archive checksums may change](https://github.blog/changelog/2023-01-30-git-archive-checksums-may-change/)
 
 - [Fish shell to be rewritten in Rust](https://github.com/fish-shell/fish-shell/pull/9512)
 
-- [gracy: handle failures, logging, retries, throttling, and tracking for all your HTTP interactions](https://github.com/guilatrova/gracy)
+- [my simple todo script shell solution](https://github.com/norayr/todo_script)
 
-- [SSH Troubleshooting Guide](https://ittavern.com/ssh-troubleshooting-guide/)
+- [A parser and browser for the recently published Lisa Source Code (Pascal & Clascal)](https://github.com/rochus-keller/LisaPascal)
 
-- [Why Go and not Rust? (2019)](https://kristoff.it/blog/why-go-and-not-rust/)
+- [Validity of Values In Programming Languages](https://jerf.org/iri/post/2023/value_validity/)
 
-- [All about UndefinedBehaviorSanitizer](https://maskray.me/blog/2023-01-29-all-about-undefined-behavior-sanitizer)
+- [Amiga C/C++ Compile, Debug & Profile for Visual Studio](https://marketplace.visualstudio.com/items?itemName=BartmanAbyss.amiga-debug)
 
-- [Prompt Engineering Shouldn't Exist](https://matt-rickard.com/prompt-engineering-shouldnt-exist)
+- [The benefits of everything being a buffer](https://mbork.pl/2023-01-30_The_benefits_of_everything_being_a_buffer)
 
 - [Spritely Goblins 0.10 released, distributed programming environment for Guile and Racket](https://spritely.institute/news/spritely-goblins-v010-for-guile-and-racket.html)
 
-- [The CPU architectural question of what is a (reserved) NOP](https://utcc.utoronto.ca/~cks/space/blog/tech/WhatIsAModernNOP)
+- [GCC’s -O3 Can Transform Performance](https://sunnyflunk.github.io/2023/01/29/GCCs-O3-Can-Transform-Performance.html)
 
-- [Working with Effect Handlers](https://vimeo.com/794219638)
+- [What is consensus](https://twitter.com/AlexMillerDB/status/1592470377284112385)
 
-- [terraform-nixos-ng: Modern terraform support for NixOS](https://www.haskellforall.com/2023/01/terraform-nixos-ng-modern-terraform.html)
+- [Frequentism And False Dichotomies](https://two-wrongs.com/frequentism-and-false-dichotomies.html)
 
-- [100 Days Of More Or Less Modern CSS](https://www.matuzo.at/blog/2022/100-days-of-more-or-less-modern-css/)
+- [Type Inference](https://veera.app/type_inference.html)
+
+- [Comparing Compiler Errors in Go, Rust, Scala, Java, Kotlin, Python, Typescript, and Elm](https://www.amazingcto.com/developer-productivity-compiler-errors/)
+
+- [Three Sins of Authors in Computer Science and Math](https://www.cs.cmu.edu/~jrs/sins.html)
 
 - [Think seriously about “safety”; then do something sensible about it](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2739r0.pdf)
 
-- [Commodore 64 KERNAL API Reference](https://www.pagetable.com/c64ref/kernal/)
+- [Understanding the x86's Decimal Adjust after Addition (DAA) instruction](https://www.righto.com/2023/01/understanding-x86s-decimal-adjust-after.html)
 
-- [Diagram layout engines: Minimizing hierarchical edge crossings](https://www.terrastruct.com/blog/post/diagram-layout-engines-crossing-minimization/)
+- [Scala News](https://www.scalanews.net)
+
+- [W3C re-launched as a public-interest non-profit organization](https://www.w3.org/2023/01/pressrelease-w3c-le-launched.html.en)
