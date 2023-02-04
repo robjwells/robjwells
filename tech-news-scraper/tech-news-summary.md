@@ -1,49 +1,47 @@
-- [Automerge 2.0](https://automerge.org/blog/automerge-2/)
+- [Minor Standard Library Changes in Go 1.20](https://blog.carlmjohnson.net/post/2023/golang-120-minor-features/)
 
-- [Various Ways of Sending Mail via SMTP](https://blog.bityard.net/articles/2023/January/various-ways-of-sending-mail-via-smtp)
+- [Math Breakdown: Anime Homing Missiles](https://blog.littlepolygon.com/posts/missile/)
 
-- [elementary OS 7 Available Now](https://blog.elementary.io/os-7-available-now/)
+- [The Decree Design Pattern](https://calebhearth.com/l/decree)
 
-- [Tag Systems](https://buttondown.email/hillelwayne/archive/tag-systems/)
+- [The Future (and the Past) of the Web is Server Side Rendering](https://deno.com/blog/the-future-and-past-is-server-side-rendering)
 
-- [Apple //c Scene From '80s Bond Film "A View to a Kill" Perfectly Re-Created With Applesoft BASIC](https://bytecellar.com/2020/04/29/apple-c-scene-from-80s-bond-film-a-view-to-a-kill-perfectly-re-created-with-applesoft-basic/)
+- [Reversing UK mobile rail tickets](https://eta.st/2023/01/31/rail-tickets.html)
 
-- [Meanwhile, Over in Androidtown](https://daringfireball.net/2023/01/meanwhile_over_in_androidtown)
+- [Carving The Scheduler Out Of Our Orchestrator](https://fly.io/blog/carving-the-scheduler-out-of-our-orchestrator/)
 
-- [Future of Memory Safety: Challenges and Recommendations](https://digital-lab-wp.consumerreports.org/wp-content/uploads/2023/01/Memory-Safety-Convening-Report-.pdf)
+- [Happy Groundhog Day, The AI Edition](https://garymarcus.substack.com/p/happy-groundhog-day-the-ai-edition)
 
-- [Git archive checksums may change](https://github.blog/changelog/2023-01-30-git-archive-checksums-may-change/)
+- [Scaphandre: Your tech stack doesn't need so much energy](https://github.com/hubblo-org/scaphandre/tree/5c8d63c09c1f2e6a934adef469d0bc7a06e694ea)
 
-- [Fish shell to be rewritten in Rust](https://github.com/fish-shell/fish-shell/pull/9512)
+- [A simple, retro-style, invaders-like game written using HTML5, Canvas, and Web Audio](https://github.com/susam/invaders)
 
-- [my simple todo script shell solution](https://github.com/norayr/todo_script)
+- [New macOS Dropbox client moves files from ~/ to ~/Library](https://help.dropbox.com/installs/macos-support-for-expected-changes)
 
-- [A parser and browser for the recently published Lisa Source Code (Pascal & Clascal)](https://github.com/rochus-keller/LisaPascal)
+- [Hypermedia Clients](https://htmx.org/essays/hypermedia-clients/)
 
-- [Validity of Values In Programming Languages](https://jerf.org/iri/post/2023/value_validity/)
+- [LibColony (library for task scheduling, for simulation games like Dwarf Fortress)](https://mrogalski.eu/libcolony/)
 
-- [Amiga C/C++ Compile, Debug & Profile for Visual Studio](https://marketplace.visualstudio.com/items?itemName=BartmanAbyss.amiga-debug)
+- [Polymorphic, Recursive Interfaces Using Go Generics](https://multithreaded.stitchfix.com/blog/2023/02/01/go-polymorphic-interfaces/)
 
-- [The benefits of everything being a buffer](https://mbork.pl/2023-01-30_The_benefits_of_everything_being_a_buffer)
+- [Nostr: A social network for the decentralized era](https://nostr-how.vercel.app/)
 
-- [Spritely Goblins 0.10 released, distributed programming environment for Guile and Racket](https://spritely.institute/news/spritely-goblins-v010-for-guile-and-racket.html)
+- [Serious Security Hole Plugged in Infosec Tool "binwalk"](https://portswigger.net/daily-swig/serious-security-hole-plugged-in-infosec-tool-binwalk)
 
-- [GCC’s -O3 Can Transform Performance](https://sunnyflunk.github.io/2023/01/29/GCCs-O3-Can-Transform-Performance.html)
+- [How I added C-style for-loops to Python](https://sadh.life/post/cursed-for/)
 
-- [What is consensus](https://twitter.com/AlexMillerDB/status/1592470377284112385)
+- [Spritely Institute launches Guile Scheme -> WASM direct compilation project](https://spritely.institute/news/guile-on-web-assembly-project-underway.html)
 
-- [Frequentism And False Dichotomies](https://two-wrongs.com/frequentism-and-false-dichotomies.html)
+- [Undefined behavior, and the Sledgehammer Principle](https://thephd.dev/c-undefined-behavior-and-the-sledgehammer-guideline)
 
-- [Type Inference](https://veera.app/type_inference.html)
+- [I’m Now a Full-Time Professional Open Source Maintainer](https://words.filippo.io/full-time-maintainer/)
 
-- [Comparing Compiler Errors in Go, Rust, Scala, Java, Kotlin, Python, Typescript, and Elm](https://www.amazingcto.com/developer-productivity-compiler-errors/)
+- [The optimal amount of fraud is non-zero](https://www.bitsaboutmoney.com/archive/optimal-amount-of-fraud/)
 
-- [Three Sins of Authors in Computer Science and Math](https://www.cs.cmu.edu/~jrs/sins.html)
+- [Against risk-based authentication (or, why I wouldn't trust Google Cloud)](https://www.devever.net/~hl/logindenial)
 
-- [Think seriously about “safety”; then do something sensible about it](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2739r0.pdf)
+- [Improving Rust compile times to enable adoption of memory safety](https://www.memorysafety.org/blog/remy-rakic-compile-times/)
 
-- [Understanding the x86's Decimal Adjust after Addition (DAA) instruction](https://www.righto.com/2023/01/understanding-x86s-decimal-adjust-after.html)
+- [Scryer Prolog](https://www.scryer.pl)
 
-- [Scala News](https://www.scalanews.net)
-
-- [W3C re-launched as a public-interest non-profit organization](https://www.w3.org/2023/01/pressrelease-w3c-le-launched.html.en)
+- [How to almost build an E2EE local-first app](https://www.zaynetro.com/post/how-to-build-e2ee-local-first-app/)
