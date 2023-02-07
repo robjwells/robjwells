@@ -1,47 +1,45 @@
-- [Minor Standard Library Changes in Go 1.20](https://blog.carlmjohnson.net/post/2023/golang-120-minor-features/)
+- [It’s imperative](http://blog.syncpup.com/posts/its-imperative.html)
 
-- [Math Breakdown: Anime Homing Missiles](https://blog.littlepolygon.com/posts/missile/)
+- [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
 
-- [The Decree Design Pattern](https://calebhearth.com/l/decree)
+- [It is becoming difficult for me to be productive in Python](https://avi.im/blag/2023/refactoring-python/)
 
-- [The Future (and the Past) of the Web is Server Side Rendering](https://deno.com/blog/the-future-and-past-is-server-side-rendering)
+- [A Historical Look at the VAX: The Economics of Microprocessors](https://bitsavers.org/pdf/dec/vax/VAX_Retrospective_20060124.pdf)
 
-- [Reversing UK mobile rail tickets](https://eta.st/2023/01/31/rail-tickets.html)
+- [Hacking into Toyota’s global supplier management network](https://eaton-works.com/2023/02/06/toyota-gspims-hack/)
 
-- [Carving The Scheduler Out Of Our Orchestrator](https://fly.io/blog/carving-the-scheduler-out-of-our-orchestrator/)
+- [The evolution of Facebook’s iOS app architecture](https://engineering.fb.com/2023/02/06/ios/facebook-ios-app-architecture/)
 
-- [Happy Groundhog Day, The AI Edition](https://garymarcus.substack.com/p/happy-groundhog-day-the-ai-edition)
+- [The technology behind GitHub’s new code search](https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/)
 
-- [Scaphandre: Your tech stack doesn't need so much energy](https://github.com/hubblo-org/scaphandre/tree/5c8d63c09c1f2e6a934adef469d0bc7a06e694ea)
+- [proposal: log/slog: structured, leveled logging · Issue #56345 · golang/go](https://github.com/golang/go/issues/56345)
 
-- [A simple, retro-style, invaders-like game written using HTML5, Canvas, and Web Audio](https://github.com/susam/invaders)
+- [Netdata v1.38.0](https://github.com/netdata/netdata/releases/tag/v1.38.0)
 
-- [New macOS Dropbox client moves files from ~/ to ~/Library](https://help.dropbox.com/installs/macos-support-for-expected-changes)
+- [smol_world: Compact garbage-collected heap and JSON-like object model](https://github.com/snej/smol_world)
 
-- [Hypermedia Clients](https://htmx.org/essays/hypermedia-clients/)
+- [Of regrets](https://laanwj.github.io/2023/02/06/regrets.html)
 
-- [LibColony (library for task scheduling, for simulation games like Dwarf Fortress)](https://mrogalski.eu/libcolony/)
+- [Data is Rectangular and other Limiting Misconceptions](https://lloydtabb.substack.com/p/data-is-rectangular-and-other-limiting)
 
-- [Polymorphic, Recursive Interfaces Using Go Generics](https://multithreaded.stitchfix.com/blog/2023/02/01/go-polymorphic-interfaces/)
+- [Mypy 1.0 Released](https://mypy-lang.blogspot.com/2023/02/mypy-10-released.html)
 
-- [Nostr: A social network for the decentralized era](https://nostr-how.vercel.app/)
+- [Curious undisclosed Skylake bug](https://outerproduct.net/trivial/2023-02-05_comp-dep.html)
 
-- [Serious Security Hole Plugged in Infosec Tool "binwalk"](https://portswigger.net/daily-swig/serious-security-hole-plugged-in-infosec-tool-binwalk)
+- [I wish Asciidoc was more popular](https://pdx.su/blog/2023-02-05-asciidoc-and-markdown/)
 
-- [How I added C-style for-loops to Python](https://sadh.life/post/cursed-for/)
+- [Netflix wants to chop down your family tree](https://pluralistic.net/2023/02/02/nonbinary-families/)
 
-- [Spritely Institute launches Guile Scheme -> WASM direct compilation project](https://spritely.institute/news/guile-on-web-assembly-project-underway.html)
+- [Announcing Masonry 0.1, and my vision for Rust UI](https://poignardazur.github.io//2023/02/02/masonry-01-and-my-vision-for-rust-ui/)
 
-- [Undefined behavior, and the Sledgehammer Principle](https://thephd.dev/c-undefined-behavior-and-the-sledgehammer-guideline)
+- [Print on FreeBSD](https://vermaden.wordpress.com/2023/02/07/print-on-freebsd/)
 
-- [I’m Now a Full-Time Professional Open Source Maintainer](https://words.filippo.io/full-time-maintainer/)
+- [Fast and dynamic encoding of Protocol Buffers in Go](https://vincent.bernat.ch/en/blog/2023-dynamic-protobuf-golang)
 
-- [The optimal amount of fraud is non-zero](https://www.bitsaboutmoney.com/archive/optimal-amount-of-fraud/)
+- [Self-hosting Mastodon on AWS using Nomad](https://www.carrot.blog/posts/2023/01/self-hosting-mastodon-aws-nomad/)
 
-- [Against risk-based authentication (or, why I wouldn't trust Google Cloud)](https://www.devever.net/~hl/logindenial)
+- [You’re making me buy a new phone](https://www.kooslooijesteijn.net/blog/you-are-making-me-buy-a-new-phone)
 
-- [Improving Rust compile times to enable adoption of memory safety](https://www.memorysafety.org/blog/remy-rakic-compile-times/)
+- [CHERIoT: Rethinking security for low-cost embedded systems](https://www.microsoft.com/en-us/research/publication/cheriot-rethinking-security-for-low-cost-embedded-systems/)
 
-- [Scryer Prolog](https://www.scryer.pl)
-
-- [How to almost build an E2EE local-first app](https://www.zaynetro.com/post/how-to-build-e2ee-local-first-app/)
+- [OpenTTD 13.0 released](https://www.openttd.org/news/2023/02/05/openttd-13-0)
