@@ -1,49 +1,49 @@
-- [PALLOC: DRAM Bank-Aware Memory Allocator for Performance Isolation on Multicore Platforms](http://www.ittc.ku.edu/~heechul/papers/palloc-rtas2014.pdf)
+- [More Joy with CSH](http://blog.syncpup.com/posts/more-joy-with-csh.html)
 
-- [How to use Matrix](https://akselmo.dev/2022/12/29/How-To-Use-Matrix.html)
+- [JupyterLab Desktop](https://blog.jupyter.org/introducing-the-new-jupyterlab-desktop-bca1982bdb23)
 
-- [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
+- [Behind the magic of magic_enum](https://blog.rink.nu/2023/02/12/behind-the-magic-of-magic_enum/)
 
-- [Why We're Rebuilding The Thunderbird Interface From Scratch](https://blog.thunderbird.net/2023/02/the-future-of-thunderbird-why-were-rebuilding-from-the-ground-up/)
+- [The unsafe language doom principle](https://blog.yossarian.net/2023/02/11/The-unsafe-language-doom-principle)
 
-- [Shells are Two Things](https://borretti.me/article/shells-are-two-things)
+- [Solving Jigsaw Puzzle with bare Rust](https://bminaiev.github.io/jigsaw-puzzle-solver)
 
-- [External Garbage Collection — How To Clean Up Your Trash](https://census.dev/blog/external-garbage-collection)
+- [Adventures in password hashing + migrating to Argon2id](https://brandur.org/fragments/password-hashing)
 
-- [FOSDEM 2023 - Game of Trees Daemon](https://fosdem.org/2023/schedule/event/game_of_trees_daemon/)
+- [Including screenshots to git commit messages to show visual changes of features / bug fixes](https://chaos.social/@epilys/109848156900317663)
 
-- [Pull request merge queue (public beta)](https://github.blog/changelog/2023-02-08-pull-request-merge-queue-public-beta/)
+- [I’m an introvert – made an app to help maintain connections with people](https://cq.mtc.dev)
 
-- [Build something productive in less than 100 Lines of Code](https://github.com/josharsh/100LinesOfCode)
+- [Technology Has Lost Its Pragmatism](https://danielbmarkham.com/technology-has-lost-its-pragmatism/)
 
-- [R65: Code and emulator of a 1978 homebrew 6502 computer](https://github.com/rricharz/R65)
+- [Dolphin Progress Report: December 2022 and January 2023](https://dolphin-emu.org/blog/2023/02/12/dolphin-progress-report-december-2022-january-2023/)
 
-- [Using ClickHouse with Clojure](https://github.com/tomekw/hikari-cp#clickhouse-example)
+- [Introducing AdaCore, a Rust Foundation Silver Member](https://foundation.rust-lang.org/news/member-spotlight-adacore/)
 
-- [How GitHub's upgrade broke Bazel builds](https://jayconrod.com/posts/127/how-github-s-upgrade-broke-bazel-builds)
+- [Get up to speed with partial clone and shallow clone (2020)](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/)
 
-- [Cascading failures and the impossibility of scheduling team lunches](https://jaywhy13.hashnode.dev/cascading-failures-and-the-impossibility-of-scheduling-team-lunches)
+- [Sunsetting Subversion support](https://github.blog/2023-01-20-sunsetting-subversion-support/)
 
-- [Fearless CORS: a design philosophy for CORS middleware libraries (and a Go implementation)](https://jub0bs.com/posts/2023-02-08-fearless-cors/)
+- [All about LeakSanitizer](https://maskray.me/blog/2023-02-12-all-about-leak-sanitizer)
 
-- [Why does 0.1 + 0.2 = 0.30000000000000004?](https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004/)
+- [A love letter to Deno](https://matklad.github.io/2023/02/12/a-love-letter-to-deno.html)
 
-- [Create bilingual books yourself](https://maximullaris.com/bilingual_books.html)
+- [A review of the C standard library in practice](https://nullprogram.com/blog/2023/02/11/)
 
-- [Oxide and the Chamber of Mysteries](https://oxide-and-friends.transistor.fm/episodes/oxide-and-the-chamber-of-mysteries)
+- [Let's write a setjmp](https://nullprogram.com/blog/2023/02/12/)
 
-- [We need programming mentors](https://paperless.blog/we-need-programming-mentors)
+- [Free Variables and Free Effects](https://okmij.org/ftp/Computation/variables-effects.html)
 
-- [Derek Sivers on OpenBSD](https://rubenerd.com/derek-sivers-on-openbsd/)
+- [Coping with nontermination: some thoughts on stopping loops](https://outerproduct.net/boring/2023-02-11_term-loop.html)
 
-- [Debugging Notes a la Mystery Novella](https://thelinell.com/Debugging-Notes-a-la-Mystery-Novella-54bd5c5b94eb484194ab5bd312dd64fb)
+- [Protohackers Server Programming Challenge](https://protohackers.com/)
 
-- [Scaled Numbers](https://www.crockford.com/scaled.html)
+- [Nix Based C++ Workflow From Scratch (2021)](https://www.breakds.org/post/nix-based-c++-workflow/)
 
-- [Running a NixOS VM on macOS](https://www.tweag.io/blog/2023-02-09-nixos-vm-on-macos/)
+- [Hands-on experience with StarFive VisionFive 2 RISC-V SBC using Debian 12](https://www.cnx-software.com/2023/02/12/starfive-visionfive-2-sbc-review-debian-12/)
 
-- [The continuous amnesia issue](https://www.ufried.com/blog/continuous_amnesia_issue/)
+- [Physics-based flight simulation with C++](https://www.jakobmaier.at/posts/flight-simulation/)
 
-- [Video Compression for Mere Mortals](https://xeiaso.net/blog/video-compression)
+- [Is Deno Ready for Primetime?](https://www.maxcountryman.com/articles/is-deno-ready-for-primetime)
 
-- [Participating in programming language's evolution during interesting times](https://zverok.space/blog/2023-02-07-changelog2023.html)
+- [Efficient Data Structures for Tamper-Evident Logging (2009)](https://www.usenix.org/legacy/events/sec09/tech/full_papers/crosby.pdf)
