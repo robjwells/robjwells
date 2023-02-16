@@ -1,49 +1,47 @@
-- [More Joy with CSH](http://blog.syncpup.com/posts/more-joy-with-csh.html)
+- [CMS/TSO Pipelines](http://vm.marist.edu/~pipeline/pipeline.pdf)
 
-- [JupyterLab Desktop](https://blog.jupyter.org/introducing-the-new-jupyterlab-desktop-bca1982bdb23)
+- [Does Python still have a need for class without @dataclass?](https://blog.glyph.im/2023/02/data-classification.html)
 
-- [Behind the magic of magic_enum](https://blog.rink.nu/2023/02/12/behind-the-magic-of-magic_enum/)
+- [Would Rust secure cURL? (2021)](https://blog.timhutt.co.uk/curl-vulnerabilities-rust/)
 
-- [The unsafe language doom principle](https://blog.yossarian.net/2023/02/11/The-unsafe-language-doom-principle)
+- [Maybe people do care about performance and reliability](https://buttondown.email/hillelwayne/archive/maybe-people-do-care-about-performance-and/)
 
-- [Solving Jigsaw Puzzle with bare Rust](https://bminaiev.github.io/jigsaw-puzzle-solver)
+- [Cranelift's Instruction Selector DSL, ISLE: Term-Rewriting Made Practical](https://cfallin.org/blog/2023/01/20/cranelift-isle/)
 
-- [Adventures in password hashing + migrating to Argon2id](https://brandur.org/fragments/password-hashing)
+- [ChatGPT passes the Turing Test — now what?](https://codepengu.in/chat_gpt/)
 
-- [Including screenshots to git commit messages to show visual changes of features / bug fixes](https://chaos.social/@epilys/109848156900317663)
+- [What happens if you put HTTP server inside Postgres?](https://dev.to/omnigres/what-happens-if-you-put-http-server-inside-postgres-33kd)
 
-- [I’m an introvert – made an app to help maintain connections with people](https://cq.mtc.dev)
+- [Packing Unit Squares in Squares: A Survey and New Results (2009)](https://erich-friedman.github.io/papers/squares/squares.html)
 
-- [Technology Has Lost Its Pragmatism](https://danielbmarkham.com/technology-has-lost-its-pragmatism/)
+- [Miscompilation: Equal pointers comparing as unequal · Issue #107975 · rust-lang/rust](https://github.com/rust-lang/rust/issues/107975)
 
-- [Dolphin Progress Report: December 2022 and January 2023](https://dolphin-emu.org/blog/2023/02/12/dolphin-progress-report-december-2022-january-2023/)
+- [Himalaya, the CLI email client: v0.7.0 released](https://github.com/soywod/himalaya/releases/tag/v0.7.0)
 
-- [Introducing AdaCore, a Rust Foundation Silver Member](https://foundation.rust-lang.org/news/member-spotlight-adacore/)
+- [core-js: So, what's next?](https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md)
 
-- [Get up to speed with partial clone and shallow clone (2020)](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/)
+- [The Real C++ Killers (Not You, Rust)](https://hackernoon.com/the-real-c-killers-not-you-rust)
 
-- [Sunsetting Subversion support](https://github.blog/2023-01-20-sunsetting-subversion-support/)
+- [KDE Plasma 5.27 release, including better multi monitor support and a  tiling system](https://kde.org/announcements/plasma/5/5.27.0/)
 
-- [All about LeakSanitizer](https://maskray.me/blog/2023-02-12-all-about-leak-sanitizer)
+- [What's new in Matplotlib 3.7.0 (Feb 13, 2023)](https://matplotlib.org/stable/users/prev_whats_new/whats_new_3.7.0.html)
 
-- [A love letter to Deno](https://matklad.github.io/2023/02/12/a-love-letter-to-deno.html)
+- [When Rust hurts](https://mmapped.blog/posts/15-when-rust-hurts.html)
 
-- [A review of the C standard library in practice](https://nullprogram.com/blog/2023/02/11/)
+- [Structured logging in Go with slog](https://mrkaran.dev/posts/structured-logging-in-go-with-slog/)
 
-- [Let's write a setjmp](https://nullprogram.com/blog/2023/02/12/)
+- [Shrinkflation, SanDisk style](https://ounapuu.ee/posts/2023/02/15/shrinkflation/)
 
-- [Free Variables and Free Effects](https://okmij.org/ftp/Computation/variables-effects.html)
+- [A promising mess](https://pierre.equoy.fr/blog/posts/2023/02/a-promising-mess/)
 
-- [Coping with nontermination: some thoughts on stopping loops](https://outerproduct.net/boring/2023-02-11_term-loop.html)
+- [The Scientific Case for P != NP (2014)](https://scottaaronson.blog/?p=1720)
 
-- [Protohackers Server Programming Challenge](https://protohackers.com/)
+- [double-free vulnerability in OpenSSH server 9.1 (CVE-2023-25136)](https://seclists.org/oss-sec/2023/q1/92)
 
-- [Nix Based C++ Workflow From Scratch (2021)](https://www.breakds.org/post/nix-based-c++-workflow/)
+- [React is popular for rational reasons despite being bad for performance](https://seldo.com/posts/the_case_for_frameworks)
 
-- [Hands-on experience with StarFive VisionFive 2 RISC-V SBC using Debian 12](https://www.cnx-software.com/2023/02/12/starfive-visionfive-2-sbc-review-debian-12/)
+- [WebGPU](https://whynowtech.substack.com/p/webgpu)
 
-- [Physics-based flight simulation with C++](https://www.jakobmaier.at/posts/flight-simulation/)
+- [Rerun OSS beta is released](https://www.rerun.io/blog/oss-beta)
 
-- [Is Deno Ready for Primetime?](https://www.maxcountryman.com/articles/is-deno-ready-for-primetime)
-
-- [Efficient Data Structures for Tamper-Evident Logging (2009)](https://www.usenix.org/legacy/events/sec09/tech/full_papers/crosby.pdf)
+- [Why is building a UI in Rust so hard?](https://www.warp.dev/blog/why-is-building-a-ui-in-rust-so-hard)
