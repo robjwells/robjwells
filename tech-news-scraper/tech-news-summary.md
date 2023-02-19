@@ -1,47 +1,49 @@
-- [CMS/TSO Pipelines](http://vm.marist.edu/~pipeline/pipeline.pdf)
+- [C-rusted: The Advantages of Rust, in C, without the Disadvantages](https://arxiv.org/abs/2302.05331)
 
-- [Does Python still have a need for class without @dataclass?](https://blog.glyph.im/2023/02/data-classification.html)
+- [On Prompt Engineering](https://benjamincongdon.me/blog/2023/02/18/On-Prompt-Engineering/)
 
-- [Would Rust secure cURL? (2021)](https://blog.timhutt.co.uk/curl-vulnerabilities-rust/)
+- [Buildless JavaScript](https://blog.6nok.org/buildless-javascript/)
 
-- [Maybe people do care about performance and reliability](https://buttondown.email/hillelwayne/archive/maybe-people-do-care-about-performance-and/)
+- [This is not a Drill, this is just Tuesday](https://blog.koehntopp.info/2023/02/18/this-is-not-a-drill.html)
 
-- [Cranelift's Instruction Selector DSL, ISLE: Term-Rewriting Made Practical](https://cfallin.org/blog/2023/01/20/cranelift-isle/)
+- [Manifest v3 signing available November 21 on Firefox Nightly](https://blog.mozilla.org/addons/2022/11/17/manifest-v3-signing-available-november-21-on-firefox-nightly/)
 
-- [ChatGPT passes the Turing Test — now what?](https://codepengu.in/chat_gpt/)
+- [Zig Bits 0x1 - Returning slices from functions](https://blog.orhun.dev/zig-bits-01/)
 
-- [What happens if you put HTTP server inside Postgres?](https://dev.to/omnigres/what-happens-if-you-put-http-server-inside-postgres-33kd)
+- [What utilities should be a standard part of a distro and why?](https://exple.tive.org/blarg/2023/02/17/modern-problems-require-modern-solutions/)
 
-- [Packing Unit Squares in Squares: A Survey and New Results (2009)](https://erich-friedman.github.io/papers/squares/squares.html)
+- [mox - modern full-featured open source secure mail server for low-maintenance self-hosted email](https://github.com/mjl-/mox)
 
-- [Miscompilation: Equal pointers comparing as unequal · Issue #107975 · rust-lang/rust](https://github.com/rust-lang/rust/issues/107975)
+- [An incremental approach to compiler construction](https://github.com/namin/inc)
 
-- [Himalaya, the CLI email client: v0.7.0 released](https://github.com/soywod/himalaya/releases/tag/v0.7.0)
+- [Ractor: Rust actor framework](https://github.com/slawlor/ractor)
 
-- [core-js: So, what's next?](https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md)
+- [PC Face: Bitmap arrays for rendering CP437 glyphs using IBM PC OEM fonts](https://github.com/susam/pcface)
 
-- [The Real C++ Killers (Not You, Rust)](https://hackernoon.com/the-real-c-killers-not-you-rust)
+- [Tidying up your $HOME with Nix](https://juliu.is/tidying-your-home-with-nix)
 
-- [KDE Plasma 5.27 release, including better multi monitor support and a  tiling system](https://kde.org/announcements/plasma/5/5.27.0/)
+- [Low-Level Software Security for Compiler Developers](https://llsoftsec.github.io/llsoftsecbook/)
 
-- [What's new in Matplotlib 3.7.0 (Feb 13, 2023)](https://matplotlib.org/stable/users/prev_whats_new/whats_new_3.7.0.html)
+- [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
 
-- [When Rust hurts](https://mmapped.blog/posts/15-when-rust-hurts.html)
+- [I learned 7 different programming languages so you don't have to](https://mode80.github.io/7-langs-in-12-months.html)
 
-- [Structured logging in Go with slog](https://mrkaran.dev/posts/structured-logging-in-go-with-slog/)
+- [Beautiful Binary Search in D](https://muscar.eu/shar-binary-search-meta.html)
 
-- [Shrinkflation, SanDisk style](https://ounapuu.ee/posts/2023/02/15/shrinkflation/)
+- [The Rust Performance Book](https://nnethercote.github.io/perf-book/)
 
-- [A promising mess](https://pierre.equoy.fr/blog/posts/2023/02/a-promising-mess/)
+- [Python’s multiprocessing performance problem](https://pythonspeed.com/articles/faster-multiprocessing-pickle/)
 
-- [The Scientific Case for P != NP (2014)](https://scottaaronson.blog/?p=1720)
+- [Named Booleans prevent C++ bugs and save you time](https://raymii.org/s/blog/Named_Booleans_prevent_bugs.html)
 
-- [double-free vulnerability in OpenSSH server 9.1 (CVE-2023-25136)](https://seclists.org/oss-sec/2023/q1/92)
+- [Poor schemas, poor cataloguing: why music tagging sucks](https://sporks.space/2023/02/18/poor-schemas-poor-cataloguing-why-music-tagging-sucks/)
 
-- [React is popular for rational reasons despite being bad for performance](https://seldo.com/posts/the_case_for_frameworks)
+- [sips: Scriptable image processing system](https://til.simonwillison.net/macos/sips)
 
-- [WebGPU](https://whynowtech.substack.com/p/webgpu)
+- [FOSS communities: You don’t need to yell](https://www.akselmo.dev/2023/02/17/You-dont-need-to-yell.html)
 
-- [Rerun OSS beta is released](https://www.rerun.io/blog/oss-beta)
+- [Taming AWS Costs](https://www.maxcountryman.com/articles/taming-aws-costs)
 
-- [Why is building a UI in Rust so hard?](https://www.warp.dev/blog/why-is-building-a-ui-in-rust-so-hard)
+- [RFC 1925:  The Twelve Networking Truths (1996)](https://www.rfc-editor.org/rfc/rfc1925)
+
+- [zxcvbn: Low-Budget Password Strength Estimation](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/wheeler)
