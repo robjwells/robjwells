@@ -1,49 +1,47 @@
-- [C-rusted: The Advantages of Rust, in C, without the Disadvantages](https://arxiv.org/abs/2302.05331)
+- [Queues should be empty](http://joshvoigts.com/articles/queues-should-be-empty/)
 
-- [On Prompt Engineering](https://benjamincongdon.me/blog/2023/02/18/On-Prompt-Engineering/)
+- [Reverse-engineering the interrupt circuitry in the Intel 8086 processor](http://www.righto.com/2023/02/8086-interrupt.html)
 
-- [Buildless JavaScript](https://blog.6nok.org/buildless-javascript/)
+- [Poisoning Web-Scale Training Datasets is Practical](https://arxiv.org/abs/2302.10149)
 
-- [This is not a Drill, this is just Tuesday](https://blog.koehntopp.info/2023/02/18/this-is-not-a-drill.html)
+- [A Lambda Calculus With Coroutines and Heapless, Directly-Called Closures](https://ayazhafiz.com/articles/23/a-lambda-calculus-with-coroutines-and-heapless-closures)
 
-- [Manifest v3 signing available November 21 on Firefox Nightly](https://blog.mozilla.org/addons/2022/11/17/manifest-v3-signing-available-november-21-on-firefox-nightly/)
+- [Digital Ocean has shut down two technical sites](https://build.typogram.co/p/dont-sell-your-indie-business-to)
 
-- [Zig Bits 0x1 - Returning slices from functions](https://blog.orhun.dev/zig-bits-01/)
+- [what is the randomart image for?](https://bytes.zone/posts/what-is-the-randomart-image-for/)
 
-- [What utilities should be a standard part of a distro and why?](https://exple.tive.org/blarg/2023/02/17/modern-problems-require-modern-solutions/)
+- [How I organize my digital music collection](https://felixcrux.com/blog/how-i-organize-my-digital-music-collection)
 
-- [mox - modern full-featured open source secure mail server for low-maintenance self-hosted email](https://github.com/mjl-/mox)
+- [Shipping Logs](https://fly.io/blog/shipping-logs/)
 
-- [An incremental approach to compiler construction](https://github.com/namin/inc)
+- [What's next for modern infrastructure?](https://garrit.xyz/posts/2023-02-21-what's-next-for-modern-infrastructure)
 
-- [Ractor: Rust actor framework](https://github.com/slawlor/ractor)
+- [How NetNewsWire Handles Threading](https://inessential.com/2021/03/20/how_netnewswire_handles_threading)
 
-- [PC Face: Bitmap arrays for rendering CP437 glyphs using IBM PC OEM fonts](https://github.com/susam/pcface)
+- [io_uring and networking in 2023](https://lwn.net/Articles/923369/)
 
-- [Tidying up your $HOME with Nix](https://juliu.is/tidying-your-home-with-nix)
+- [Large language models will change programming… a little](https://medium.com/bits-and-behavior/large-language-models-will-change-programming-a-little-81445778d957)
 
-- [Low-Level Software Security for Compiler Developers](https://llsoftsec.github.io/llsoftsecbook/)
+- [Numen Voice Control](https://numenvoice.com/)
 
-- [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
+- [I created a stack machine in Apple Shortcuts](https://old.reddit.com/r/ProgrammingLanguages/comments/1185cxo/i_created_a_stack_machine_in_apple_shortcuts_d/)
 
-- [I learned 7 different programming languages so you don't have to](https://mode80.github.io/7-langs-in-12-months.html)
+- [The Philosophy of Computer Science](https://plato.stanford.edu/entries/computer-science/)
 
-- [Beautiful Binary Search in D](https://muscar.eu/shar-binary-search-meta.html)
+- [OWASP Kubernetes top 10 tools and techniques](https://sysdig.com/blog/top-owasp-kubernetes/)
 
-- [The Rust Performance Book](https://nnethercote.github.io/perf-book/)
+- [In praise of Alpine and apk](https://whynothugo.nl/journal/2023/02/18/in-praise-of-alpine-and-apk/)
 
-- [Python’s multiprocessing performance problem](https://pythonspeed.com/articles/faster-multiprocessing-pickle/)
+- [We stand to save $7m over five years from our cloud exit](https://world.hey.com/dhh/we-stand-to-save-7m-over-five-years-from-our-cloud-exit-53996caa)
 
-- [Named Booleans prevent C++ bugs and save you time](https://raymii.org/s/blog/Named_Booleans_prevent_bugs.html)
+- [Monitoring an Aquarium with InfluxDB and Grafana](https://www.bentasker.co.uk/posts/blog/house-stuff/monitoring-a-fishtank-with-influxdb-and-grafana.html)
 
-- [Poor schemas, poor cataloguing: why music tagging sucks](https://sporks.space/2023/02/18/poor-schemas-poor-cataloguing-why-music-tagging-sucks/)
+- [NP-Complete isn't (always) Hard](https://www.hillelwayne.com/post/np-hard/)
 
-- [sips: Scriptable image processing system](https://til.simonwillison.net/macos/sips)
+- [import CMake; C++20 Modules](https://www.kitware.com/import-cmake-c20-modules/)
 
-- [FOSS communities: You don’t need to yell](https://www.akselmo.dev/2023/02/17/You-dont-need-to-yell.html)
+- [Trellix Advanced Research Center Discovers a New Privilege Escalation Bug Class on macOS and iOS](https://www.trellix.com/en-us/about/newsroom/stories/research/trellix-advanced-research-center-discovers-a-new-privilege-escalation-bug-class-on-macos-and-ios.html)
 
-- [Taming AWS Costs](https://www.maxcountryman.com/articles/taming-aws-costs)
+- [Interview and AMA with Louis Pilfold - Creator of Gleam](https://www.youtube.com/watch?v=IlPOUuIZnec)
 
-- [RFC 1925:  The Twelve Networking Truths (1996)](https://www.rfc-editor.org/rfc/rfc1925)
-
-- [zxcvbn: Low-Budget Password Strength Estimation](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/wheeler)
+- [Why You Don't Trust Your Linter](https://www.youtube.com/watch?v=XjwJeHRa53A)
