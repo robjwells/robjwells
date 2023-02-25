@@ -1,47 +1,47 @@
-- [Queues should be empty](http://joshvoigts.com/articles/queues-should-be-empty/)
+- [Makefile > websh*tconfig.json.js](http://len.falken.directory/web/makefile.txt)
 
-- [Reverse-engineering the interrupt circuitry in the Intel 8086 processor](http://www.righto.com/2023/02/8086-interrupt.html)
+- [Carrying Is a 2-Cocycle (1994)](http://timothychow.net/mathstuff/jdolan.pdf)
 
-- [Poisoning Web-Scale Training Datasets is Practical](https://arxiv.org/abs/2302.10149)
+- [Checking Firewall Equivalence with Z3 (2018)](https://ahelwer.ca/post/2018-02-13-z3-firewall/)
 
-- [A Lambda Calculus With Coroutines and Heapless, Directly-Called Closures](https://ayazhafiz.com/articles/23/a-lambda-calculus-with-coroutines-and-heapless-closures)
+- [A Brief Comparison of 10+ Best Google Analytics Alternatives](https://algustionesa.com/google-analytics-alternatives/)
 
-- [Digital Ocean has shut down two technical sites](https://build.typogram.co/p/dont-sell-your-indie-business-to)
+- [What is the Best Book to Learn Go in 2023?](https://boldlygo.tech/posts/2023-02-24-best-book-to-learn-go-in-2023/)
 
-- [what is the randomart image for?](https://bytes.zone/posts/what-is-the-randomart-image-for/)
+- [A breakdown of the triple-star pointer](https://boston.conman.org/2023/02/23.1)
 
-- [How I organize my digital music collection](https://felixcrux.com/blog/how-i-organize-my-digital-music-collection)
+- [go test and parallelism](https://bryce.is/writing/code/go-test-and-parallelism.html)
 
-- [Shipping Logs](https://fly.io/blog/shipping-logs/)
+- [Programming Is Easier Than You Think](https://easylang.online/easyprogramming/)
 
-- [What's next for modern infrastructure?](https://garrit.xyz/posts/2023-02-21-what's-next-for-modern-infrastructure)
+- [Rust Coreutils: Fixing Low-Hanging Performance Fruit](https://jackson.dev/post/rust-coreutils-dd/)
 
-- [How NetNewsWire Handles Threading](https://inessential.com/2021/03/20/how_netnewswire_handles_threading)
+- [Blogging about Midori (2015)](https://joeduffyblog.com/2015/11/03/blogging-about-midori/)
 
-- [io_uring and networking in 2023](https://lwn.net/Articles/923369/)
+- [Rust on Espressif chips - 2023 Roadmap](https://mabez.dev/blog/posts/esp-rust-24-02-2023/)
 
-- [Large language models will change programming… a little](https://medium.com/bits-and-behavior/large-language-models-will-change-programming-a-little-81445778d957)
+- [Large language models will change programming … a lot](https://medium.com/bits-and-behavior/large-language-models-will-change-programming-a-lot-5cfe13afa46c)
 
-- [Numen Voice Control](https://numenvoice.com/)
+- [The Fediverse is Already Dead](https://nora.codes/post/the-fediverse-is-already-dead/)
 
-- [I created a stack machine in Apple Shortcuts](https://old.reddit.com/r/ProgrammingLanguages/comments/1185cxo/i_created_a_stack_machine_in_apple_shortcuts_d/)
+- [The Elephant in the Room - It's time to get the POSIX elephant off our necks](https://queue.acm.org/detail.cfm?id=3570921)
 
-- [The Philosophy of Computer Science](https://plato.stanford.edu/entries/computer-science/)
+- [research!rsc: Opting In to Transparent Telemetry](https://research.swtch.com/telemetry-opt-in)
 
-- [OWASP Kubernetes top 10 tools and techniques](https://sysdig.com/blog/top-owasp-kubernetes/)
+- [Consistent caching with PostgreSQL and a Redis API](https://shortishly.com/blog/streaming-replication-redis-api/)
 
-- [In praise of Alpine and apk](https://whynothugo.nl/journal/2023/02/18/in-praise-of-alpine-and-apk/)
+- [Techniques for Scaling Applications with a Database](https://thenewstack.io/techniques-for-scaling-applications-with-a-database/)
 
-- [We stand to save $7m over five years from our cloud exit](https://world.hey.com/dhh/we-stand-to-save-7m-over-five-years-from-our-cloud-exit-53996caa)
+- [Swarm Testing](https://users.cs.utah.edu/~regehr/papers/swarm12.pdf)
 
-- [Monitoring an Aquarium with InfluxDB and Grafana](https://www.bentasker.co.uk/posts/blog/house-stuff/monitoring-a-fishtank-with-influxdb-and-grafana.html)
+- [Pretty Rust backtraces in raw terminal mode](https://werat.dev/blog/pretty-rust-backtraces-in-raw-terminal-mode/)
 
-- [NP-Complete isn't (always) Hard](https://www.hillelwayne.com/post/np-hard/)
+- [87% of Container Images in Production Have Critical or High-Severity Vulnerabilities](https://www.darkreading.com/dr-tech/87-of-container-images-in-production-have-critical-or-high-severity-vulnerabilities)
 
-- [import CMake; C++20 Modules](https://www.kitware.com/import-cmake-c20-modules/)
+- [Let It Fail](https://www.maxcountryman.com/articles/let-it-fail)
 
-- [Trellix Advanced Research Center Discovers a New Privilege Escalation Bug Class on macOS and iOS](https://www.trellix.com/en-us/about/newsroom/stories/research/trellix-advanced-research-center-discovers-a-new-privilege-escalation-bug-class-on-macos-and-ios.html)
+- [The End of Localhost  All the Cloud's A Staging Env, and All the Laptops Merely Clients](https://www.swyx.io/the-end-of-localhost)
 
-- [Interview and AMA with Louis Pilfold - Creator of Gleam](https://www.youtube.com/watch?v=IlPOUuIZnec)
+- [Tomorrow Corporation Tech Demo](https://www.youtube.com/watch?v=72y2EC5fkcE)
 
-- [Why You Don't Trust Your Linter](https://www.youtube.com/watch?v=XjwJeHRa53A)
+- [Using Flutter Rust bridge in 2023](https://www.zaynetro.com/post/flutter-rust-bridge-2023/)
