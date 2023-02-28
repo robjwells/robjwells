@@ -1,47 +1,45 @@
-- [Makefile > websh*tconfig.json.js](http://len.falken.directory/web/makefile.txt)
+- [Rosenpass — Build post-quantum-secure VPNs with WireGuard](http://rosenpass.eu/)
 
-- [Carrying Is a 2-Cocycle (1994)](http://timothychow.net/mathstuff/jdolan.pdf)
+- [Reverse-engineering the ModR/M addressing microcode in the Intel 8086 processor](http://www.righto.com/2023/02/8086-modrm-addressing.html)
 
-- [Checking Firewall Equivalence with Z3 (2018)](https://ahelwer.ca/post/2018-02-13-z3-firewall/)
+- [How Shadow DOM and accessibility are in conflict](https://alice.pages.igalia.com/blog/how-shadow-dom-and-accessibility-are-in-conflict/)
 
-- [A Brief Comparison of 10+ Best Google Analytics Alternatives](https://algustionesa.com/google-analytics-alternatives/)
+- [Recreating ANSI Art from a screenshot](https://bert.org/2023/02/27/recreating-ansi-art-from-a-screenshot/)
 
-- [What is the Best Book to Learn Go in 2023?](https://boldlygo.tech/posts/2023-02-24-best-book-to-learn-go-in-2023/)
+- [Indicators in Splatoon 3 Clam Blitz](https://blog.brycekerley.net/2023/02/27/clam-blitz-ui.html)
 
-- [A breakdown of the triple-star pointer](https://boston.conman.org/2023/02/23.1)
+- [Civet - The Modern Way to Write TypeScript](https://civet.dev/)
 
-- [go test and parallelism](https://bryce.is/writing/code/go-test-and-parallelism.html)
+- [On Container Queries, Responsive Images, and JPEG-XL](https://cloudfour.com/thinks/on-container-queries-responsive-images-and-jpeg-xl/)
 
-- [Programming Is Easier Than You Think](https://easylang.online/easyprogramming/)
+- [Introducing the Determinate Nix Installer](https://determinate.systems/posts/determinate-nix-installer)
 
-- [Rust Coreutils: Fixing Low-Hanging Performance Fruit](https://jackson.dev/post/rust-coreutils-dd/)
+- [10 Things We Learned In Full Stack GraphQL Book Club](https://dev.to/lyonwj/10-things-we-learned-in-full-stack-graphql-book-club-56le)
 
-- [Blogging about Midori (2015)](https://joeduffyblog.com/2015/11/03/blogging-about-midori/)
+- [Directory of Mathematical Headaches](https://docs.google.com/document/d/1JZmjIiqJikVD69y5ZY8w0V8MI47lBdH1DrhLiBeKQh8/edit)
 
-- [Rust on Espressif chips - 2023 Roadmap](https://mabez.dev/blog/posts/esp-rust-24-02-2023/)
+- [Stdout Buffering (2016)](https://eklitzke.org/stdout-buffering)
 
-- [Large language models will change programming … a lot](https://medium.com/bits-and-behavior/large-language-models-will-change-programming-a-lot-5cfe13afa46c)
+- [The lone developer problem](https://evanhahn.com/the-lone-developer-problem/)
 
-- [The Fediverse is Already Dead](https://nora.codes/post/the-fediverse-is-already-dead/)
+- [Never Work In Theory, Spring 2023](https://exple.tive.org/blarg/2023/02/27/never-work-in-theory-spring-2023/)
 
-- [The Elephant in the Room - It's time to get the POSIX elephant off our necks](https://queue.acm.org/detail.cfm?id=3570921)
+- [Nothing in Rust](https://geeklaunch.io/blog/nothing-in-rust/)
 
-- [research!rsc: Opting In to Transparent Telemetry](https://research.swtch.com/telemetry-opt-in)
+- [pcre2 support zig build](https://github.com/PCRE2Project/pcre2/pull/206)
 
-- [Consistent caching with PostgreSQL and a Redis API](https://shortishly.com/blog/streaming-replication-redis-api/)
+- [hotscript: Type-level madness](https://github.com/gvergnaud/hotscript)
 
-- [Techniques for Scaling Applications with a Database](https://thenewstack.io/techniques-for-scaling-applications-with-a-database/)
+- [Zig's Curious Multi-Sequence For Loops](https://kristoff.it/blog/zig-multi-sequence-for-loops/)
 
-- [Swarm Testing](https://users.cs.utah.edu/~regehr/papers/swarm12.pdf)
+- [The cursed universes of Dana Sibera](https://newsletter.shifthappens.site/archive/the-cursed-universes-of-dana-sibera/)
 
-- [Pretty Rust backtraces in raw terminal mode](https://werat.dev/blog/pretty-rust-backtraces-in-raw-terminal-mode/)
+- [Vanity RSA public key](https://ondergetekende.nl/vanity-rsa-public-key.html)
 
-- [87% of Container Images in Production Have Critical or High-Severity Vulnerabilities](https://www.darkreading.com/dr-tech/87-of-container-images-in-production-have-critical-or-high-severity-vulnerabilities)
+- [LLMs are compilers](https://vivekhaldar.com/articles/llms-are-compilers/)
 
-- [Let It Fail](https://www.maxcountryman.com/articles/let-it-fail)
+- [Helix Notes](https://wiki.alopex.li/HelixNotes)
 
-- [The End of Localhost  All the Cloud's A Staging Env, and All the Laptops Merely Clients](https://www.swyx.io/the-end-of-localhost)
+- [Rental bike usage patterns](https://www.extua.pw/blog/2023/02/25/rental_bike_usage_patterns/)
 
-- [Tomorrow Corporation Tech Demo](https://www.youtube.com/watch?v=72y2EC5fkcE)
-
-- [Using Flutter Rust bridge in 2023](https://www.zaynetro.com/post/flutter-rust-bridge-2023/)
+- [FMA Woes](https://www.kdab.com/fma-woes/)
