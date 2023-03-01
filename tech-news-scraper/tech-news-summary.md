@@ -1,45 +1,49 @@
-- [Rosenpass — Build post-quantum-secure VPNs with WireGuard](http://rosenpass.eu/)
+- [ArkType: The first isomorphic type system for TS/JS](https://arktype.io/)
 
-- [Reverse-engineering the ModR/M addressing microcode in the Intel 8086 processor](http://www.righto.com/2023/02/8086-modrm-addressing.html)
+- [Why the Sorbet typechecker is fast](https://blog.nelhage.com/post/why-sorbet-is-fast/)
 
-- [How Shadow DOM and accessibility are in conflict](https://alice.pages.igalia.com/blog/how-shadow-dom-and-accessibility-are-in-conflict/)
+- [I wish people would stop insisting that Git branches are nothing but refs](https://blog.plover.com/2023/02/27/)
 
-- [Recreating ANSI Art from a screenshot](https://bert.org/2023/02/27/recreating-ansi-art-from-a-screenshot/)
+- [Teaching Implication Better](https://buttondown.email/hillelwayne/archive/teaching-implication-better/)
 
-- [Indicators in Splatoon 3 Clam Blitz](https://blog.brycekerley.net/2023/02/27/clam-blitz-ui.html)
-
-- [Civet - The Modern Way to Write TypeScript](https://civet.dev/)
-
-- [On Container Queries, Responsive Images, and JPEG-XL](https://cloudfour.com/thinks/on-container-queries-responsive-images-and-jpeg-xl/)
+- [The E-Ink Badge: The Coolest Badge You Didn't Know You Needed](https://census.dev/blog/diy-e-ink-badge)
 
 - [Introducing the Determinate Nix Installer](https://determinate.systems/posts/determinate-nix-installer)
 
-- [10 Things We Learned In Full Stack GraphQL Book Club](https://dev.to/lyonwj/10-things-we-learned-in-full-stack-graphql-book-club-56le)
+- [A qp-trie for BIND](https://dotat.at/@/2023-02-28-qp-bind.html)
 
-- [Directory of Mathematical Headaches](https://docs.google.com/document/d/1JZmjIiqJikVD69y5ZY8w0V8MI47lBdH1DrhLiBeKQh8/edit)
-
-- [Stdout Buffering (2016)](https://eklitzke.org/stdout-buffering)
+- [A Review of The Art of the Metaobject Protocol, by Richard P. Gabriel (2010)](https://dreamsongs.com/Files/amop-review.pdf)
 
 - [The lone developer problem](https://evanhahn.com/the-lone-developer-problem/)
 
-- [Never Work In Theory, Spring 2023](https://exple.tive.org/blarg/2023/02/27/never-work-in-theory-spring-2023/)
+- [LiveView Streams](https://fly.io/phoenix-files/phoenix-dev-blog-streams/)
 
-- [Nothing in Rust](https://geeklaunch.io/blog/nothing-in-rust/)
+- [komorebi: A tiling window manager for Windows](https://github.com/LGUG2Z/komorebi)
 
-- [pcre2 support zig build](https://github.com/PCRE2Project/pcre2/pull/206)
+- [testc: A new sample driver for A/UX](https://github.com/SolraBizna/testc)
 
-- [hotscript: Type-level madness](https://github.com/gvergnaud/hotscript)
+- [A better alternative to snapshot testing](https://github.com/trytouca/trytouca)
+
+- [World Building With GPT](https://ianbicking.org/blog/2023/02/world-building-with-gpt.html)
+
+- [Python .capitialize oddness AKA little j issue](https://jjasghar.github.io/blog/2023/02/28/python-.capitialize-oddness-aka-little-j-issue/)
 
 - [Zig's Curious Multi-Sequence For Loops](https://kristoff.it/blog/zig-multi-sequence-for-loops/)
 
-- [The cursed universes of Dana Sibera](https://newsletter.shifthappens.site/archive/the-cursed-universes-of-dana-sibera/)
+- [Linker notes on Power ISA](https://maskray.me/blog/2023-02-26-linker-notes-on-power-isa)
 
-- [Vanity RSA public key](https://ondergetekende.nl/vanity-rsa-public-key.html)
+- [First steps in CHERIoT Security Research](https://msrc.microsoft.com/blog/2023/02/first-steps-in-cheriot-security-research/)
 
-- [LLMs are compilers](https://vivekhaldar.com/articles/llms-are-compilers/)
+- [The Most Useful Command Line Tools](https://new.pythonforengineers.com/blog/best-command-line-tools-ive-played-with/)
 
-- [Helix Notes](https://wiki.alopex.li/HelixNotes)
+- [Stop saying “technical debt”](https://stackoverflow.blog/2023/02/27/stop-saying-technical-debt/)
 
-- [Rental bike usage patterns](https://www.extua.pw/blog/2023/02/25/rental_bike_usage_patterns/)
+- [Nix journey part 0: Learning and reference materials](https://tinkering.xyz/nix-docs/)
 
-- [FMA Woes](https://www.kdab.com/fma-woes/)
+- [A Compendium of Access Control on Unix-Like OSes](https://venam.nixers.net/blog/unix/2023/02/28/access_control.html)
+
+- ["Clean" Code, Horrible Performance](https://www.computerenhance.com/p/clean-code-horrible-performance)
+
+- [How the 8086 processor determines the length of an instruction](https://www.righto.com/2023/02/how-8086-processor-determines-length-of.html)
+
+- [Banning TikTok](https://www.schneier.com/blog/archives/2023/02/banning-tiktok.html)
