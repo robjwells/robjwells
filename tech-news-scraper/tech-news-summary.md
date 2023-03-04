@@ -1,49 +1,47 @@
-- [ArkType: The first isomorphic type system for TS/JS](https://arktype.io/)
+- [Papercraft Models](http://rockybergen.com/papercraft)
 
-- [Why the Sorbet typechecker is fast](https://blog.nelhage.com/post/why-sorbet-is-fast/)
+- [Writing The World's Most Boring Quine](http://rtpg.co/2023/03/02/quines-for-dummies.html)
 
-- [I wish people would stop insisting that Git branches are nothing but refs](https://blog.plover.com/2023/02/27/)
+- [The EU's new Cyber Resilience Act is about to tell us how to code](https://berthub.eu/articles/posts/eu-cra-secure-coding-solution/)
 
-- [Teaching Implication Better](https://buttondown.email/hillelwayne/archive/teaching-implication-better/)
+- [Introducing Updates and Deletes on Columnar Postgres](https://blog.hydra.so/blog/2023-03-02-columnar-updates-and-deletes)
 
-- [The E-Ink Badge: The Coolest Badge You Didn't Know You Needed](https://census.dev/blog/diy-e-ink-badge)
+- [NVMe emulation in QEMU – adding custom admin and IO commands (2022)](https://blog.reds.ch/?p=1597)
 
-- [Introducing the Determinate Nix Installer](https://determinate.systems/posts/determinate-nix-installer)
+- [Myers Diff Algorithm - Code & Interactive Visualization](https://blog.robertelder.org/diff-algorithm/)
 
-- [A qp-trie for BIND](https://dotat.at/@/2023-02-28-qp-bind.html)
+- [The (Almost) Definitive PC Sound Card Article (Pre-1990)](https://brassicgamer.blogspot.com/2023/03/the-almost-definitive-pc-sound-card.html)
 
-- [A Review of The Art of the Metaobject Protocol, by Richard P. Gabriel (2010)](https://dreamsongs.com/Files/amop-review.pdf)
+- [Why I Stopped Using an External Monitor](https://bt.ht/monitor/)
 
-- [The lone developer problem](https://evanhahn.com/the-lone-developer-problem/)
+- [devenv 0.6: Generating containers and instant shell activation using Nix](https://devenv.sh/blog/2023/03/02/devenv-06-generating-containers-and-instant-shell-activation/)
 
-- [LiveView Streams](https://fly.io/phoenix-files/phoenix-dev-blog-streams/)
+- [Never use git submodules](https://diziet.dreamwidth.org/14666.html)
 
-- [komorebi: A tiling window manager for Windows](https://github.com/LGUG2Z/komorebi)
+- [Linux “simplif[ies] and clarif[ies] DCO contribution example language”](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=d4563201f33a022fc0353033d9dfeb1606a88330)
 
-- [testc: A new sample driver for A/UX](https://github.com/SolraBizna/testc)
+- [Bootstrapping a Hare development environment with Nix](https://honza.pokorny.ca/2023/03/bootstrapping-a-hare-development-environment-with-nix/)
 
-- [A better alternative to snapshot testing](https://github.com/trytouca/trytouca)
+- [Initial V: A BMW shifter converted to a Bluetooth Keyboard that you use with Vim](https://initial-v.com)
 
-- [World Building With GPT](https://ianbicking.org/blog/2023/02/world-building-with-gpt.html)
+- [How do Nix builds work?](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/)
 
-- [Python .capitialize oddness AKA little j issue](https://jjasghar.github.io/blog/2023/02/28/python-.capitialize-oddness-aka-little-j-issue/)
+- [Could we make the web more immersive using a simple optical illusion?](https://shopify.github.io/spatial-commerce-projects/WonkaVision/)
 
-- [Zig's Curious Multi-Sequence For Loops](https://kristoff.it/blog/zig-multi-sequence-for-loops/)
+- [Architecting Asynchronous Schedulers](https://slightknack.dev/passerine/schedule/)
 
-- [Linker notes on Power ISA](https://maskray.me/blog/2023-02-26-linker-notes-on-power-isa)
+- [Reducing code size in librsvg by removing an unnecessary generic struct](https://viruta.org/reducing-binary-size-generics.html)
 
-- [First steps in CHERIoT Security Research](https://msrc.microsoft.com/blog/2023/02/first-steps-in-cheriot-security-research/)
+- [Avoid The Randomness From The Sky](https://words.filippo.io/dispatches/avoid-the-randomness-from-the-sky/)
 
-- [The Most Useful Command Line Tools](https://new.pythonforengineers.com/blog/best-command-line-tools-ive-played-with/)
+- [Demystifying bitwise operations, a gentle C tutorial](https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops)
 
-- [Stop saying “technical debt”](https://stackoverflow.blog/2023/02/27/stop-saying-technical-debt/)
+- [Oxidizing bmap-tools: rewriting a Python project in Rust](https://www.collabora.com/news-and-blog/blog/2023/03/03/oxidizing-bmap-tools-rewriting-a-python-project-in-rust/)
 
-- [Nix journey part 0: Learning and reference materials](https://tinkering.xyz/nix-docs/)
+- [Dak Language](https://www.daklang.com/)
 
-- [A Compendium of Access Control on Unix-Like OSes](https://venam.nixers.net/blog/unix/2023/02/28/access_control.html)
+- [Styling External Links](https://www.paritybit.ca/blog/styling-external-links.html)
 
-- ["Clean" Code, Horrible Performance](https://www.computerenhance.com/p/clean-code-horrible-performance)
+- [How Cosmic Rays Affect Super Mario Speed Runners](https://www.youtube.com/watch?v=o3Cx2wmFyQQ)
 
-- [How the 8086 processor determines the length of an instruction](https://www.righto.com/2023/02/how-8086-processor-determines-length-of.html)
-
-- [Banning TikTok](https://www.schneier.com/blog/archives/2023/02/banning-tiktok.html)
+- [Switching to Fedora Silverblue](https://yorickpeterse.com/articles/switching-to-fedora-silverblue/)
