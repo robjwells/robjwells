@@ -1,47 +1,45 @@
-- [Papercraft Models](http://rockybergen.com/papercraft)
+- [Discord, or the Death of Lore](http://ascii.textfiles.com/archives/5509)
 
-- [Writing The World's Most Boring Quine](http://rtpg.co/2023/03/02/quines-for-dummies.html)
+- [Stop using ridiculously low DNS TTLs (2019)](https://blog.apnic.net/2019/11/12/stop-using-ridiculously-low-dns-ttls/)
 
-- [The EU's new Cyber Resilience Act is about to tell us how to code](https://berthub.eu/articles/posts/eu-cra-secure-coding-solution/)
+- [FlameScope for Go](https://blog.felixge.de/flamescope-for-go/)
 
-- [Introducing Updates and Deletes on Columnar Postgres](https://blog.hydra.so/blog/2023-03-02-columnar-updates-and-deletes)
+- [Slightly Intelligent Home](https://blog.gabrielsimmer.com/posts/slightly-intelligent-home/)
 
-- [NVMe emulation in QEMU – adding custom admin and IO commands (2022)](https://blog.reds.ch/?p=1597)
+- [CSS System Colors (2021)](https://blog.jim-nielsen.com/2021/css-system-colors/)
 
-- [Myers Diff Algorithm - Code & Interactive Visualization](https://blog.robertelder.org/diff-algorithm/)
+- [Fixing the Next 10,000 Aliasing Bugs](https://blog.polybdenum.com/2023/03/05/fixing-the-next-10-000-aliasing-bugs.html)
 
-- [The (Almost) Definitive PC Sound Card Article (Pre-1990)](https://brassicgamer.blogspot.com/2023/03/the-almost-definitive-pc-sound-card.html)
+- [Another attempt at a “unit test”](https://boston.conman.org/2023/03/06.1)
 
-- [Why I Stopped Using an External Monitor](https://bt.ht/monitor/)
+- [On the hunt for a bug with a hump and a long tail](https://cohost.org/mononcqc/post/1128460-on-the-hunt-for-a-bu)
 
-- [devenv 0.6: Generating containers and instant shell activation using Nix](https://devenv.sh/blog/2023/03/02/devenv-06-generating-containers-and-instant-shell-activation/)
+- [Reliability: It's Not Great](https://community.fly.io/t/reliability-its-not-great/11253)
 
-- [Never use git submodules](https://diziet.dreamwidth.org/14666.html)
+- [std::string now supports Address Sanitizer](https://devblogs.microsoft.com/cppblog/stdstring-now-supports-address-sanitizer/)
 
-- [Linux “simplif[ies] and clarif[ies] DCO contribution example language”](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=d4563201f33a022fc0353033d9dfeb1606a88330)
+- [Responsibly mid-size: What Matters, Suffers](https://engineering.ramp.com/what-matters-suffers)
 
-- [Bootstrapping a Hare development environment with Nix](https://honza.pokorny.ca/2023/03/bootstrapping-a-hare-development-environment-with-nix/)
+- [Write a First Person Game in 2KB With Rust](https://grantshandy.github.io/posts/raycasting/)
 
-- [Initial V: A BMW shifter converted to a Bluetooth Keyboard that you use with Vim](https://initial-v.com)
+- [Safety and Soundness in Rust](https://jacko.io/safety_and_soundness.html)
 
-- [How do Nix builds work?](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/)
+- [The SCO lawsuit, 20 years later](https://lwn.net/SubscriberLink/924577/75ae0a1538029fcc/)
 
-- [Could we make the web more immersive using a simple optical illusion?](https://shopify.github.io/spatial-commerce-projects/WonkaVision/)
+- [noogle - nix function exploring](https://noogle.dev/)
 
-- [Architecting Asynchronous Schedulers](https://slightknack.dev/passerine/schedule/)
+- [The World's Smallest Hash Table](https://orlp.net/blog/worlds-smallest-hash-table/)
 
-- [Reducing code size in librsvg by removing an unnecessary generic struct](https://viruta.org/reducing-binary-size-generics.html)
+- [I made JSON.parse() 2x faster](https://radex.io/react-native/json-parse/)
 
-- [Avoid The Randomness From The Sky](https://words.filippo.io/dispatches/avoid-the-randomness-from-the-sky/)
+- [Polynonce: A Tale of a Novel ECDSA Attack and Bitcoin Tears](https://research.kudelskisecurity.com/2023/03/06/polynonce-a-tale-of-a-novel-ecdsa-attack-and-bitcoin-tears/)
 
-- [Demystifying bitwise operations, a gentle C tutorial](https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops)
+- [Nix journey part 1: My grand unified theory of Nix documentation](https://tinkering.xyz/nix-docs-unified-theory/)
 
-- [Oxidizing bmap-tools: rewriting a Python project in Rust](https://www.collabora.com/news-and-blog/blog/2023/03/03/oxidizing-bmap-tools-rewriting-a-python-project-in-rust/)
+- [GPT-3 will ignore tools when it disagrees with them](https://vgel.me/posts/tools-not-needed/)
 
-- [Dak Language](https://www.daklang.com/)
+- [Customizing the startup chime on a 1999 G3 iMac](https://www.downtowndougbrown.com/2023/03/customizing-the-startup-chime-on-a-1999-g3-imac/)
 
-- [Styling External Links](https://www.paritybit.ca/blog/styling-external-links.html)
+- [The "open source native" principle for software design](https://www.haskellforall.com/2023/03/the-open-source-native-principle-for.html)
 
-- [How Cosmic Rays Affect Super Mario Speed Runners](https://www.youtube.com/watch?v=o3Cx2wmFyQQ)
-
-- [Switching to Fedora Silverblue](https://yorickpeterse.com/articles/switching-to-fedora-silverblue/)
+- [Quick Rust Test Runner for VSCode](https://www.youtube.com/watch?v=A1QqdmQ6aPM)
