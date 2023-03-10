@@ -1,45 +1,47 @@
-- [Discord, or the Death of Lore](http://ascii.textfiles.com/archives/5509)
+- [Which is worse when working on production databases?  Being drunk or tired?](http://ledgersmbdev.blogspot.com/2023/03/which-is-worse-when-working-on.html)
 
-- [Stop using ridiculously low DNS TTLs (2019)](https://blog.apnic.net/2019/11/12/stop-using-ridiculously-low-dns-ttls/)
+- [Type Systems (2004)](http://lucacardelli.name/papers/typesystems.pdf)
 
-- [FlameScope for Go](https://blog.felixge.de/flamescope-for-go/)
+- [Google Groups has been left to die](https://ahelwer.ca/post/2023-03-08-google-groups/)
 
-- [Slightly Intelligent Home](https://blog.gabrielsimmer.com/posts/slightly-intelligent-home/)
+- [Introducing ngrok-go: Ingress to Your Go Apps as a `net.Listener`](https://blog.ngrok.com/posts/ngrok-go)
 
-- [CSS System Colors (2021)](https://blog.jim-nielsen.com/2021/css-system-colors/)
+- [Help test Cargo's new index protocol](https://blog.rust-lang.org/inside-rust/2023/01/30/cargo-sparse-protocol.html)
 
-- [Fixing the Next 10,000 Aliasing Bugs](https://blog.polybdenum.com/2023/03/05/fixing-the-next-10-000-aliasing-bugs.html)
+- [Design of the Austral Compiler](https://borretti.me/article/design-austral-compiler)
 
-- [Another attempt at a “unit test”](https://boston.conman.org/2023/03/06.1)
+- [Replacing My Eero Mesh Network with Two Mangos](https://bt.ht/mango/)
 
-- [On the hunt for a bug with a hump and a long tail](https://cohost.org/mononcqc/post/1128460-on-the-hunt-for-a-bu)
+- [Formalizing Stability and Resilience Properties](https://buttondown.email/hillelwayne/archive/formalizing-stability-and-resilience-properties/)
 
-- [Reliability: It's Not Great](https://community.fly.io/t/reliability-its-not-great/11253)
+- [Getting Past “Ampersand-Driven Development” in Rust - A mental model for ownership and borrowing](https://fiberplane.com/blog/getting-past-ampersand-driven-development-in-rust)
 
-- [std::string now supports Address Sanitizer](https://devblogs.microsoft.com/cppblog/stdstring-now-supports-address-sanitizer/)
+- [PotatoP - A LISP-programmable laptop with battery life measured in years](https://hackaday.io/project/184340-potatop)
 
-- [Responsibly mid-size: What Matters, Suffers](https://engineering.ramp.com/what-matters-suffers)
+- [Were React Hooks a Mistake?](https://jakelazaroff.com/words/were-react-hooks-a-mistake/)
 
-- [Write a First Person Game in 2KB With Rust](https://grantshandy.github.io/posts/raycasting/)
+- [Gear Hashing for Content Defined Chunking](https://joshleeb.com/posts/gear-hashing.html)
 
-- [Safety and Soundness in Rust](https://jacko.io/safety_and_soundness.html)
+- [GigaGAN: Scaling up GANs for Text-to-Image Synthesis](https://mingukkang.github.io/GigaGAN/)
 
-- [The SCO lawsuit, 20 years later](https://lwn.net/SubscriberLink/924577/75ae0a1538029fcc/)
+- [Privatizing our digital identities](https://notes.volution.ro/v1/2023/03/remarks/6d51f70e/)
 
-- [noogle - nix function exploring](https://noogle.dev/)
+- [\Device\Afd, or, the Deal with the Devil that makes async Rust work on Windows](https://notgull.github.io/device-afd/)
 
-- [The World's Smallest Hash Table](https://orlp.net/blog/worlds-smallest-hash-table/)
+- [Losing Signal](https://ploum.net/2023-03-09-losing-signal.html)
 
-- [I made JSON.parse() 2x faster](https://radex.io/react-native/json-parse/)
+- [The Quest for Netflix on Asahi Linux](https://www.da.vidbuchanan.co.uk/blog/netflix-on-asahi.html)
 
-- [Polynonce: A Tale of a Novel ECDSA Attack and Bitcoin Tears](https://research.kudelskisecurity.com/2023/03/06/polynonce-a-tale-of-a-novel-ecdsa-attack-and-bitcoin-tears/)
+- [Free The Game Boy](https://www.freethegameboy.info/)
 
-- [Nix journey part 1: My grand unified theory of Nix documentation](https://tinkering.xyz/nix-docs-unified-theory/)
+- [Upwelling: Combining real-time collaboration with version control for writers](https://www.inkandswitch.com/upwelling/)
 
-- [GPT-3 will ignore tools when it disagrees with them](https://vgel.me/posts/tools-not-needed/)
+- [A Safer High Performance AV1 Decoder](https://www.memorysafety.org/blog/safer-av1-decoder/)
 
-- [Customizing the startup chime on a 1999 G3 iMac](https://www.downtowndougbrown.com/2023/03/customizing-the-startup-chime-on-a-1999-g3-imac/)
+- [OpenNIC Project](https://www.opennic.org/)
 
-- [The "open source native" principle for software design](https://www.haskellforall.com/2023/03/the-open-source-native-principle-for.html)
+- [9 years of open-source database development: reviewing rqlite design choices](https://www.philipotoole.com/9-years-of-open-source-database-development-the-design-docs/)
 
-- [Quick Rust Test Runner for VSCode](https://www.youtube.com/watch?v=A1QqdmQ6aPM)
+- [The GraphicalEmoji hack](https://xeiaso.net/blog/GraphicalEmoji)
+
+- [Leveraging Rust and the GPU to render user interfaces at 120 FPS](https://zed.dev/blog/videogame)
