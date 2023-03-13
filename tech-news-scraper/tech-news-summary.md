@@ -1,47 +1,47 @@
-- [Which is worse when working on production databases?  Being drunk or tired?](http://ledgersmbdev.blogspot.com/2023/03/which-is-worse-when-working-on.html)
+- [How not to design a UI library](http://lisyarus.github.io/blog/programming/2023/03/11/how-not-to-ui.html)
 
-- [Type Systems (2004)](http://lucacardelli.name/papers/typesystems.pdf)
+- [Weird – Websites as the atomic matter of the internet](https://blog.erlend.sh/weird-web-pages)
 
-- [Google Groups has been left to die](https://ahelwer.ca/post/2023-03-08-google-groups/)
+- [Building a Privacy-First Newsletter](https://blog.kjamistan.com/building-a-privacy-first-newsletter.html)
 
-- [Introducing ngrok-go: Ingress to Your Go Apps as a `net.Listener`](https://blog.ngrok.com/posts/ngrok-go)
+- [Scrcpy 2.0, with audio](https://blog.rom1v.com/2023/03/scrcpy-2-0-with-audio/)
 
-- [Help test Cargo's new index protocol](https://blog.rust-lang.org/inside-rust/2023/01/30/cargo-sparse-protocol.html)
+- [Policy on util packages](https://brandur.org/fragments/policy-on-util-packages)
 
-- [Design of the Austral Compiler](https://borretti.me/article/design-austral-compiler)
+- [Generative Artistry Tutorials](https://generativeartistry.com/tutorials/)
 
-- [Replacing My Eero Mesh Network with Two Mangos](https://bt.ht/mango/)
+- [GC Extension for WebAssembly](https://github.com/WebAssembly/gc/blob/master/proposals/gc/Overview.md)
 
-- [Formalizing Stability and Resilience Properties](https://buttondown.email/hillelwayne/archive/formalizing-stability-and-resilience-properties/)
+- [halp: A CLI tool to get help with CLI tools](https://github.com/orhun/halp)
 
-- [Getting Past “Ampersand-Driven Development” in Rust - A mental model for ownership and borrowing](https://fiberplane.com/blog/getting-past-ampersand-driven-development-in-rust)
+- [Macige - CI workflow generator for mobile app development](https://github.com/tramlinehq/macige)
 
-- [PotatoP - A LISP-programmable laptop with battery life measured in years](https://hackaday.io/project/184340-potatop)
+- [write posix shell](https://j3s.sh/thought/write-posix-shell.html)
 
-- [Were React Hooks a Mistake?](https://jakelazaroff.com/words/were-react-hooks-a-mistake/)
+- [How To Set Default Fonts and Font Aliases on Linux](https://jichu4n.com/posts/how-to-set-default-fonts-and-font-aliases-on-linux/)
 
-- [Gear Hashing for Content Defined Chunking](https://joshleeb.com/posts/gear-hashing.html)
+- [Shell-free scripts with Execa 7](https://medium.com/@ehmicky/shell-free-scripts-with-execa-7-885fb3b42f83)
 
-- [GigaGAN: Scaling up GANs for Text-to-Image Synthesis](https://mingukkang.github.io/GigaGAN/)
+- [Disambiguating Arm, Arm ARM, Armv9, ARM9, ARM64, Aarch64, A64, A78](https://nickdesaulniers.github.io/blog/2023/03/10/disambiguating-arm/)
 
-- [Privatizing our digital identities](https://notes.volution.ro/v1/2023/03/remarks/6d51f70e/)
+- [How virtual environments work](https://snarky.ca/how-virtual-environments-work/)
 
-- [\Device\Afd, or, the Deal with the Devil that makes async Rust work on Windows](https://notgull.github.io/device-afd/)
+- [Running LLaMA 7B on a 64GB M2 MacBook Pro with llama.cpp](https://til.simonwillison.net/llms/llama-7b-m2)
 
-- [Losing Signal](https://ploum.net/2023-03-09-losing-signal.html)
+- [Fact Check: the UK and its Online Safety Bill](https://untidy.substack.com/p/fact-check-the-uk-and-its-online)
 
-- [The Quest for Netflix on Asahi Linux](https://www.da.vidbuchanan.co.uk/blog/netflix-on-asahi.html)
+- [Why Are There No Relational DBMSs? (2015)](https://www.dcs.warwick.ac.uk/~hugh/TTM/Why-Are-There-No-Relational-DBMSs.pdf)
 
-- [Free The Game Boy](https://www.freethegameboy.info/)
+- [Augmenting Human Intellect: A Conceptual Framework](https://www.dougengelbart.org/pubs/papers/scanned/Doug_Engelbart-AugmentingHumanIntellect.pdf)
 
-- [Upwelling: Combining real-time collaboration with version control for writers](https://www.inkandswitch.com/upwelling/)
+- [The oldest privesc: injecting careless administrators’ terminals using TTY pushback](https://www.errno.fr/TTYPushback.html)
 
-- [A Safer High Performance AV1 Decoder](https://www.memorysafety.org/blog/safer-av1-decoder/)
+- [Haiku Activity & Contract Report, February 2023](https://www.haiku-os.org/blog/waddlesplash/2023-03-11_haiku_activity_contract_report_feburary_2023/)
 
-- [OpenNIC Project](https://www.opennic.org/)
+- [GHC 9.6.1 is now available](https://www.haskell.org/ghc/blog/20230310-ghc-9.6.1-released.html)
 
-- [9 years of open-source database development: reviewing rqlite design choices](https://www.philipotoole.com/9-years-of-open-source-database-development-the-design-docs/)
+- [Cobalt RaQ:  This Web Server Changed The Internet](https://www.youtube.com/watch?v=PJ6AvtV3Ya4)
 
-- [The GraphicalEmoji hack](https://xeiaso.net/blog/GraphicalEmoji)
+- [[PADL'23] Modern Macros](https://youtu.be/YMUCpx6vhZM)
 
-- [Leveraging Rust and the GPU to render user interfaces at 120 FPS](https://zed.dev/blog/videogame)
+- [Stack Machines and Where To Find Them](https://zdimension.fr/stack-machines-and-where-to-find-them/)
