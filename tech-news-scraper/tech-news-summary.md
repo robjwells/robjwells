@@ -1,47 +1,49 @@
-- [How not to design a UI library](http://lisyarus.github.io/blog/programming/2023/03/11/how-not-to-ui.html)
+- [Reverse-engineering the multiplication algorithm in the Intel 8086 processor](http://www.righto.com/2023/03/8086-multiplication-microcode.html)
 
-- [Weird – Websites as the atomic matter of the internet](https://blog.erlend.sh/weird-web-pages)
+- [Category Theory Illustrated - Functors](https://abuseofnotation.github.io/category-theory-illustrated/06_functors/)
 
-- [Building a Privacy-First Newsletter](https://blog.kjamistan.com/building-a-privacy-first-newsletter.html)
+- [Docker is deleting Open Source organisations - what you need to know](https://blog.alexellis.io/docker-is-deleting-open-source-images/)
 
-- [Scrcpy 2.0, with audio](https://blog.rom1v.com/2023/03/scrcpy-2-0-with-audio/)
+- [e69de29bb2d1d6434b8b29ae775ad8c2e48c5391](https://blog.waleedkhan.name/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391/)
 
-- [Policy on util packages](https://brandur.org/fragments/policy-on-util-packages)
+- [Stop Using Custom Web Fonts](https://bt.ht/webfonts/)
 
-- [Generative Artistry Tutorials](https://generativeartistry.com/tutorials/)
+- [I could do that in a weekend](https://danluu.com/sounds-easy/)
 
-- [GC Extension for WebAssembly](https://github.com/WebAssembly/gc/blob/master/proposals/gc/Overview.md)
+- [Tunneling network traffic over DNS with Iodine and a SSH SOCKS proxy](https://davidhamann.de/2019/05/12/tunnel-traffic-over-dns-ssh/)
 
-- [halp: A CLI tool to get help with CLI tools](https://github.com/orhun/halp)
+- [Text Rendering Hates You](https://faultlore.com/blah/text-hates-you/)
 
-- [Macige - CI workflow generator for mobile app development](https://github.com/tramlinehq/macige)
+- [Why some GitHub labels are illegible](https://firsching.ch/github_labels.html)
 
-- [write posix shell](https://j3s.sh/thought/write-posix-shell.html)
+- [Way more information than you wanted to know about NES Tetris' playfield](https://generic-tetromino-game.sebsite.pw/docs/nes-playfield/)
 
-- [How To Set Default Fonts and Font Aliases on Linux](https://jichu4n.com/posts/how-to-set-default-fonts-and-font-aliases-on-linux/)
+- [gerb: a new greenfield FOSS graphical font editor / IDE](https://github.com/epilys/gerb#readme)
 
-- [Shell-free scripts with Execa 7](https://medium.com/@ehmicky/shell-free-scripts-with-execa-7-885fb3b42f83)
+- [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch)
 
-- [Disambiguating Arm, Arm ARM, Armv9, ARM9, ARM64, Aarch64, A64, A78](https://nickdesaulniers.github.io/blog/2023/03/10/disambiguating-arm/)
+- [Precision, recall and why you shouldn’t crank up the warnings to 11](https://lemire.me/blog/2023/03/15/precision-recall-and-why-you-shouldnt-crank-up-the-warnings-to-11/)
 
-- [How virtual environments work](https://snarky.ca/how-virtual-environments-work/)
+- [Modern Font Stacks](https://modernfontstacks.com/)
 
-- [Running LLaMA 7B on a 64GB M2 MacBook Pro with llama.cpp](https://til.simonwillison.net/llms/llama-7b-m2)
+- [fastGPT: Faster than PyTorch in 300 lines of Fortran](https://ondrejcertik.com/blog/2023/03/fastgpt-faster-than-pytorch-in-300-lines-of-fortran/)
 
-- [Fact Check: the UK and its Online Safety Bill](https://untidy.substack.com/p/fact-check-the-uk-and-its-online)
+- [Using a Raspberry Pi to add a second HDMI port to a laptop](https://pierre-couy.dev/tinkering/2023/03/turning-rpi-into-external-monitor-driver.html)
 
-- [Why Are There No Relational DBMSs? (2015)](https://www.dcs.warwick.ac.uk/~hugh/TTM/Why-Are-There-No-Relational-DBMSs.pdf)
+- [AI Q&A for huggingface/diffusers](https://quick-question.fly.dev/huggingface/diffusers)
 
-- [Augmenting Human Intellect: A Conceptual Framework](https://www.dougengelbart.org/pubs/papers/scanned/Doug_Engelbart-AugmentingHumanIntellect.pdf)
+- [Unicode Roman Numerals and Screen Readers](https://shkspr.mobi/blog/2023/03/unicode-roman-numerals-and-screen-readers/)
 
-- [The oldest privesc: injecting careless administrators’ terminals using TTY pushback](https://www.errno.fr/TTYPushback.html)
+- [GCD Grid](https://susam.net/blog/gcd-grid.html)
 
-- [Haiku Activity & Contract Report, February 2023](https://www.haiku-os.org/blog/waddlesplash/2023-03-11_haiku_activity_contract_report_feburary_2023/)
+- [MNT Pocket Reform Campaign is Now Live on Crowd Supply](https://www.crowdsupply.com/mnt/pocket-reform/updates/our-campaign-is-now-live-on-crowd-supply)
 
-- [GHC 9.6.1 is now available](https://www.haskell.org/ghc/blog/20230310-ghc-9.6.1-released.html)
+- [Exactly-Once Ingestion and Multi-Tenancy at Scale](https://www.datadoghq.com/blog/engineering/husky-deep-dive/)
 
-- [Cobalt RaQ:  This Web Server Changed The Internet](https://www.youtube.com/watch?v=PJ6AvtV3Ya4)
+- [Correctness of Two Sorting Algorithms](https://www.hansdieterhiep.nl/two-sorting-algorithms/)
 
-- [[PADL'23] Modern Macros](https://youtu.be/YMUCpx6vhZM)
+- [Winget shipped without PowerShell support](https://www.lkhrs.com/blog/2023/03/winget-powershell/)
 
-- [Stack Machines and Where To Find Them](https://zdimension.fr/stack-machines-and-where-to-find-them/)
+- [Ken Thompson reveals his surprising operating system preference](https://www.youtube.com/live/kaandEt_pKw?feature=share&t=3468)
+
+- [In Defense of Crusty Old Swiss Army Knives - An Exploration of Django & HTMX](https://zachgoldstein.engineering/posts/crusty-knives/crusty-knives/)
