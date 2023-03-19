@@ -1,49 +1,49 @@
-- [Reverse-engineering the multiplication algorithm in the Intel 8086 processor](http://www.righto.com/2023/03/8086-multiplication-microcode.html)
+- [The Command Line Is the GUI's Future](http://ignorethecode.net/blog/2023/03/18/the_command_line_is_the_guis_future/)
 
-- [Category Theory Illustrated - Functors](https://abuseofnotation.github.io/category-theory-illustrated/06_functors/)
+- [Oil 0.14.2 - Interactive Shell, and Conceding to autoconf](http://www.oilshell.org/blog/2023/03/release-0.14.2.html)
 
-- [Docker is deleting Open Source organisations - what you need to know](https://blog.alexellis.io/docker-is-deleting-open-source-images/)
+- [20 Years of Nix](https://20th.nixos.org/)
 
-- [e69de29bb2d1d6434b8b29ae775ad8c2e48c5391](https://blog.waleedkhan.name/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391/)
+- [PLATO: How an educational computer system from the ’60s shaped the future](https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/)
 
-- [Stop Using Custom Web Fonts](https://bt.ht/webfonts/)
+- [Building And Distributing A macOS Application Written in Python](https://blog.glyph.im/2023/03/py-mac-app-for-real.html)
 
-- [I could do that in a weekend](https://danluu.com/sounds-easy/)
+- [I built a startup in Rust, I would do it again](https://cloak.software/blog/i-built-startup-in-rust/)
 
-- [Tunneling network traffic over DNS with Iodine and a SSH SOCKS proxy](https://davidhamann.de/2019/05/12/tunnel-traffic-over-dns-ssh/)
+- [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? (2021)](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
 
-- [Text Rendering Hates You](https://faultlore.com/blah/text-hates-you/)
+- [Learning Structural Descriptions from Examples (1970)](https://dspace.mit.edu/bitstream/handle/1721.1/6884/AITR-231.pdf?sequence=2&isAllowed=y)
 
-- [Why some GitHub labels are illegible](https://firsching.ch/github_labels.html)
+- [Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
 
-- [Way more information than you wanted to know about NES Tetris' playfield](https://generic-tetromino-game.sebsite.pw/docs/nes-playfield/)
+- [Go slow to move fast](https://jordankaye.dev/posts/go-slow-move-fast/)
 
-- [gerb: a new greenfield FOSS graphical font editor / IDE](https://github.com/epilys/gerb#readme)
+- [What's new for RISC-V in LLVM 16](https://muxup.com/2023q1/whats-new-for-risc-v-in-llvm-16)
 
-- [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch)
+- [A different approach to fuzzy finding](https://nathancraddock.com/blog/2023/a-different-approach-to-fuzzy-finding/)
 
-- [Precision, recall and why you shouldn’t crank up the warnings to 11](https://lemire.me/blog/2023/03/15/precision-recall-and-why-you-shouldnt-crank-up-the-warnings-to-11/)
+- [Something Pretty Right: A History of Visual Basic](https://retool.com/visual-basic/)
 
-- [Modern Font Stacks](https://modernfontstacks.com/)
+- [Python and SLSA](https://sethmlarson.dev/python-and-slsa)
 
-- [fastGPT: Faster than PyTorch in 300 lines of Fortran](https://ondrejcertik.com/blog/2023/03/fastgpt-faster-than-pytorch-in-300-lines-of-fortran/)
+- [Teaching language models to support answers with verified quotes](https://storage.googleapis.com/deepmind-media/Teaching%20language%20models%20to%20support%20answers%20with%20verified%20quotes/Teaching%20language%20models%20to%20support%20answers%20with%20verified%20quotes.pdf)
 
-- [Using a Raspberry Pi to add a second HDMI port to a laptop](https://pierre-couy.dev/tinkering/2023/03/turning-rpi-into-external-monitor-driver.html)
+- [Acropalypse: a serious privacy vulnerability in the Google Pixel's inbuilt screenshot editing tool](https://twitter.com/ItsSimonTime/status/1636857478263750656)
 
-- [AI Q&A for huggingface/diffusers](https://quick-question.fly.dev/huggingface/diffusers)
+- [Sidescrolling Flight Simulator](https://two-wrongs.com/sidescrolling-flight-simulator)
 
-- [Unicode Roman Numerals and Screen Readers](https://shkspr.mobi/blog/2023/03/unicode-roman-numerals-and-screen-readers/)
+- [New React docs pretend SPAs don't exist anymore](https://wasp-lang.dev/blog/2023/03/17/new-react-docs-pretend-spas-dont-exist)
 
-- [GCD Grid](https://susam.net/blog/gcd-grid.html)
+- [AI Generations: ChatGPT-3 vs ChatGPT-4 on Sol LeWitt’s Wall Drawings](https://www.amygoodchild.com/blog/ai-generations-chatgpt-4-sol-lewitt-wall-drawings)
 
-- [MNT Pocket Reform Campaign is Now Live on Crowd Supply](https://www.crowdsupply.com/mnt/pocket-reform/updates/our-campaign-is-now-live-on-crowd-supply)
+- [How did Dennis Ritchie Produce his PhD Thesis? A Typographical Mystery](https://www.cs.princeton.edu/~bwk/dmr/doceng22.pdf)
 
-- [Exactly-Once Ingestion and Multi-Tenancy at Scale](https://www.datadoghq.com/blog/engineering/husky-deep-dive/)
+- [Exploiting aCropalypse: Recovering Truncated PNGs](https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html)
 
-- [Correctness of Two Sorting Algorithms](https://www.hansdieterhiep.nl/two-sorting-algorithms/)
+- [Github Archive](https://www.gharchive.org/)
 
-- [Winget shipped without PowerShell support](https://www.lkhrs.com/blog/2023/03/winget-powershell/)
+- [Typescripting the technical interview](https://www.richard-towers.com/2023/03/11/typescripting-the-technical-interview.html)
 
-- [Ken Thompson reveals his surprising operating system preference](https://www.youtube.com/live/kaandEt_pKw?feature=share&t=3468)
+- [Bringing Rust to the Xen Project](https://xcp-ng.org/blog/2023/03/17/bringing-rust-to-the-xen-project/)
 
-- [In Defense of Crusty Old Swiss Army Knives - An Exploration of Django & HTMX](https://zachgoldstein.engineering/posts/crusty-knives/crusty-knives/)
+- [InterApocalypse  - Lee Hughes](https://youtube.com/watch?v=x2i9_iQOp08)
