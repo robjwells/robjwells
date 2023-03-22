@@ -1,49 +1,49 @@
-- [The Command Line Is the GUI's Future](http://ignorethecode.net/blog/2023/03/18/the_command_line_is_the_guis_future/)
+- [An aperiodic monotile](https://arxiv.org/pdf/2303.10798.pdf)
 
-- [Oil 0.14.2 - Interactive Shell, and Conceding to autoconf](http://www.oilshell.org/blog/2023/03/release-0.14.2.html)
+- [Gitea 1.19.0 is released](https://blog.gitea.io/2023/03/gitea-1.19.0-is-released/)
 
-- [20 Years of Nix](https://20th.nixos.org/)
+- [Zig Bits 0x2: Using defer to defeat memory leaks](https://blog.orhun.dev/zig-bits-02/)
 
-- [PLATO: How an educational computer system from the ’60s shaped the future](https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/)
+- [Twenty-five years of curl](https://daniel.haxx.se/blog/2023/03/20/twenty-five-years-of-curl/)
 
-- [Building And Distributing A macOS Application Written in Python](https://blog.glyph.im/2023/03/py-mac-app-for-real.html)
+- [I’ve been employed in tech for years, but I’ve almost never worked](https://emaggiori.com/employed-in-tech-for-years-but-almost-never-worked/)
 
-- [I built a startup in Rust, I would do it again](https://cloak.software/blog/i-built-startup-in-rust/)
+- [It’s worth putting in the effort to regularly update dependencies](https://felixcrux.com/blog/it-is-worth-regularly-updating-dependencies)
 
-- [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? (2021)](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
+- [Latency numbers every programmer should know, scaled to human terms](https://gist.github.com/hellerbarde/2843375)
 
-- [Learning Structural Descriptions from Examples (1970)](https://dspace.mit.edu/bitstream/handle/1721.1/6884/AITR-231.pdf?sequence=2&isAllowed=y)
+- [Modern C++ OpenSSL Examples](https://github.com/RaymiiOrg/openssl-modern-cpp)
 
-- [Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
+- [uBlock Release 1.48.0 - Readiness status, code viewer](https://github.com/gorhill/uBlock/releases/tag/1.48.0)
 
-- [Go slow to move fast](https://jordankaye.dev/posts/go-slow-move-fast/)
+- [letloop.cloud: A cloud for the parenthetical leaning doers](https://github.com/letloop/letloop.cloud)
 
-- [What's new for RISC-V in LLVM 16](https://muxup.com/2023q1/whats-new-for-risc-v-in-llvm-16)
+- [Tutorial for extracting the GameBoy ROM from photographs of the die](https://github.com/travisgoodspeed/gbrom-tutorial)
 
-- [A different approach to fuzzy finding](https://nathancraddock.com/blog/2023/a-different-approach-to-fuzzy-finding/)
+- [typst: A new markup-based typesetting system that is powerful and easy to learn](https://github.com/typst/typst)
 
-- [Something Pretty Right: A History of Visual Basic](https://retool.com/visual-basic/)
+- [Navigating the Complexities of File Watching](https://github.com/vercel/turbo/issues/986#issuecomment-1477360394)
 
-- [Python and SLSA](https://sethmlarson.dev/python-and-slsa)
+- [Java 20 / JDK 20: General Availability](https://mail.openjdk.org/pipermail/jdk-dev/2023-March/007517.html)
 
-- [Teaching language models to support answers with verified quotes](https://storage.googleapis.com/deepmind-media/Teaching%20language%20models%20to%20support%20answers%20with%20verified%20quotes/Teaching%20language%20models%20to%20support%20answers%20with%20verified%20quotes.pdf)
+- [Why I Will Never Use Alpine Linux Ever Again](https://martinheinz.dev/blog/92)
 
-- [Acropalypse: a serious privacy vulnerability in the Google Pixel's inbuilt screenshot editing tool](https://twitter.com/ItsSimonTime/status/1636857478263750656)
+- [Errors and Zig](https://notes.eatonphil.com/errors-and-zig.html)
 
-- [Sidescrolling Flight Simulator](https://two-wrongs.com/sidescrolling-flight-simulator)
+- [Printing real headline news on the Commodore 64 with The Newsroom's Wire Service](https://oldvcr.blogspot.com/2023/03/printing-real-headline-news-on.html)
 
-- [New React docs pretend SPAs don't exist anymore](https://wasp-lang.dev/blog/2023/03/17/new-react-docs-pretend-spas-dont-exist)
+- [Github Actions and Go](https://olegk.dev/github-actions-and-go)
 
-- [AI Generations: ChatGPT-3 vs ChatGPT-4 on Sol LeWitt’s Wall Drawings](https://www.amygoodchild.com/blog/ai-generations-chatgpt-4-sol-lewitt-wall-drawings)
+- [Write Predictable software, not Ergonomic](https://serce.me/posts/21-03-2023-write-predictable-software-not-ergonomic)
 
-- [How did Dennis Ritchie Produce his PhD Thesis? A Typographical Mystery](https://www.cs.princeton.edu/~bwk/dmr/doceng22.pdf)
+- [vore - a simple rss/atom feed reader](https://vore.website)
 
-- [Exploiting aCropalypse: Recovering Truncated PNGs](https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html)
+- [Web fingerprinting is worse than I thought](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)
 
-- [Github Archive](https://www.gharchive.org/)
+- [The 3 AI search engines I use to refactor my code](https://www.gnod.com/search/ai)
 
-- [Typescripting the technical interview](https://www.richard-towers.com/2023/03/11/typescripting-the-technical-interview.html)
+- [Why I returned the Mac Mini M2 Pro](https://www.jeremymorgan.com/blog/tech/why-i-returned-mac-mini-m2/)
 
-- [Bringing Rust to the Xen Project](https://xcp-ng.org/blog/2023/03/17/bringing-rust-to-the-xen-project/)
+- [Programming Languages for Verifying Compilers](https://www.youtube.com/watch?v=fWSGhxyTG-4)
 
-- [InterApocalypse  - Lee Hughes](https://youtube.com/watch?v=x2i9_iQOp08)
+- [A ChatGPT Emacs shell](https://xenodium.com/a-chatgpt-emacs-shell)
