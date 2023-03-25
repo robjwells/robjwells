@@ -1,49 +1,47 @@
-- [An aperiodic monotile](https://arxiv.org/pdf/2303.10798.pdf)
+- [InjectGPT: the most polite exploit ever](https://blog.luitjes.it/posts/injectgpt-most-polite-exploit-ever/)
 
-- [Gitea 1.19.0 is released](https://blog.gitea.io/2023/03/gitea-1.19.0-is-released/)
+- [When root on ZFS breaks on Arch Linux…](https://blog.mnus.de/2023/03/archlinux-zfs/)
 
-- [Zig Bits 0x2: Using defer to defeat memory leaks](https://blog.orhun.dev/zig-bits-02/)
+- [The Evolution of LeanStore](https://dl.gi.de/bitstream/handle/20.500.12116/40317/B3-2.pdf?sequence=1&isAllowed=y)
 
-- [Twenty-five years of curl](https://daniel.haxx.se/blog/2023/03/20/twenty-five-years-of-curl/)
+- [Introducing the Framework Laptop 16 and both Intel and AMD-powered Framework Laptop 13](https://frame.work/blog/introducing-the-framework-laptop-16-and-both-intel-and-amd-powered-framework-laptop-13)
 
-- [I’ve been employed in tech for years, but I’ve almost never worked](https://emaggiori.com/employed-in-tech-for-years-but-almost-never-worked/)
+- [GitHub unexpectedly rotates its RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
 
-- [It’s worth putting in the effort to regularly update dependencies](https://felixcrux.com/blog/it-is-worth-regularly-updating-dependencies)
+- [webpage-sampler: chrome extension to sample audio from web page into wav file](https://github.com/chaosprint/webpage-sampler)
 
-- [Latency numbers every programmer should know, scaled to human terms](https://gist.github.com/hellerbarde/2843375)
+- [sequencegenius - Generate sequence diagrams from your idea](https://github.com/huytd/sequencegenius)
 
-- [Modern C++ OpenSSL Examples](https://github.com/RaymiiOrg/openssl-modern-cpp)
+- [scrapeghost is an experimental library for scraping websites using OpenAI's GPT](https://jamesturk.github.io/scrapeghost/)
 
-- [uBlock Release 1.48.0 - Readiness status, code viewer](https://github.com/gorhill/uBlock/releases/tag/1.48.0)
+- [Implementing multi-file analysis for linters](https://jfmengels.net/multi-file-analysis/)
 
-- [letloop.cloud: A cloud for the parenthetical leaning doers](https://github.com/letloop/letloop.cloud)
+- [Free software during wartime](https://lwn.net/SubscriberLink/926798/b8f7d5df1ee91de7/)
 
-- [Tutorial for extracting the GameBoy ROM from photographs of the die](https://github.com/travisgoodspeed/gbrom-tutorial)
+- [Fascination of AWK](https://maximullaris.com/awk.html)
 
-- [typst: A new markup-based typesetting system that is powerful and easy to learn](https://github.com/typst/typst)
+- [We need better support for SSH host certificates](https://mjg59.dreamwidth.org/65874.html)
 
-- [Navigating the Complexities of File Watching](https://github.com/vercel/turbo/issues/986#issuecomment-1477360394)
+- [Internet of Skull](https://mle-online.com/projects/internet_skull/index.html)
 
-- [Java 20 / JDK 20: General Availability](https://mail.openjdk.org/pipermail/jdk-dev/2023-March/007517.html)
+- [Smalltalk Type: A restoration project of the typefaces used Smalltalk-80](https://moritzfuerst.net/projects/smalltalk-type)
 
-- [Why I Will Never Use Alpine Linux Ever Again](https://martinheinz.dev/blog/92)
+- [SparseGPT: Remove 100B Parameters For Free](https://neuralmagic.com/blog/sparsegpt-remove-100-billion-parameters-for-free/)
 
-- [Errors and Zig](https://notes.eatonphil.com/errors-and-zig.html)
+- [Explaining my fast 6502 code generator](https://pubby.games/codegen.html)
 
-- [Printing real headline news on the Commodore 64 with The Newsroom's Wire Service](https://oldvcr.blogspot.com/2023/03/printing-real-headline-news-on.html)
+- [Must move types [Linear types proposed for Rust]](https://smallcultfollowing.com/babysteps/blog/2023/03/16/must-move-types/)
 
-- [Github Actions and Go](https://olegk.dev/github-actions-and-go)
+- [Library patterns: Why frameworks are evil (2015)](https://tomasp.net/blog/2015/library-frameworks/)
 
-- [Write Predictable software, not Ergonomic](https://serce.me/posts/21-03-2023-write-predictable-software-not-ergonomic)
+- [How Big Should a Programming Language Be?](https://tratt.net/laurie/blog/2023/how_big_should_a_programming_language_be.html)
 
-- [vore - a simple rss/atom feed reader](https://vore.website)
+- [Internet archive (archive.org) looses it battle to Hachette in court case](https://twitter.com/internetarchive/status/1639424778862829569)
 
-- [Web fingerprinting is worse than I thought](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)
+- [$30 Lenovo N42 Chromebook converted into a full fledged Nix/OS machine](https://twitter.com/mikecodemonkey/status/1638635840355311616)
 
-- [The 3 AI search engines I use to refactor my code](https://www.gnod.com/search/ai)
+- [We're no longer sunsetting the Free Team plan](https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/)
 
-- [Why I returned the Mac Mini M2 Pro](https://www.jeremymorgan.com/blog/tech/why-i-returned-mac-mini-m2/)
+- [Gordon Moore, Intel Co-Founder, Dies at 94](https://www.intel.com/content/www/us/en/newsroom/news/gordon-moore-obituary.html)
 
-- [Programming Languages for Verifying Compilers](https://www.youtube.com/watch?v=fWSGhxyTG-4)
-
-- [A ChatGPT Emacs shell](https://xenodium.com/a-chatgpt-emacs-shell)
+- [A fork() in the road](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/fork-hotos19.pdf)
