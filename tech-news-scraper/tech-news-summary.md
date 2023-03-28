@@ -1,47 +1,43 @@
-- [InjectGPT: the most polite exploit ever](https://blog.luitjes.it/posts/injectgpt-most-polite-exploit-ever/)
+- [How to run a shadow library: operations at Anna’s Archive](https://annas-blog.org/how-to-run-a-shadow-library.html)
 
-- [When root on ZFS breaks on Arch Linux…](https://blog.mnus.de/2023/03/archlinux-zfs/)
+- [British PCs of the 1980s](https://arstechnica.com/gadgets/2023/03/egad-7-key-british-pcs-of-the-1980s-americans-might-have-missed/)
 
-- [The Evolution of LeanStore](https://dl.gi.de/bitstream/handle/20.500.12116/40317/B3-2.pdf?sequence=1&isAllowed=y)
+- [Common pitfalls of GitHub Actions](https://ashishb.net/tech/common-pitfalls-of-github-actions/)
 
-- [Introducing the Framework Laptop 16 and both Intel and AMD-powered Framework Laptop 13](https://frame.work/blog/introducing-the-framework-laptop-16-and-both-intel-and-amd-powered-framework-laptop-13)
+- [Telemetry Is Not Your Enemy](https://blog.glyph.im/2023/03/telemetry-is-not-your-enemy.html)
 
-- [GitHub unexpectedly rotates its RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
+- [Generating Configs with Nix + Cue](https://blog.jmgilman.com/generate-configs-with-nix-cue/)
 
-- [webpage-sampler: chrome extension to sample audio from web page into wav file](https://github.com/chaosprint/webpage-sampler)
+- [Getting NixOS to keep a secret](https://bmcgee.ie/posts/2022/11/getting-nixos-to-keep-a-secret/)
 
-- [sequencegenius - Generate sequence diagrams from your idea](https://github.com/huytd/sequencegenius)
+- [You Should Write Bad Code](https://davidamos.dev/write-bad-code/)
 
-- [scrapeghost is an experimental library for scraping websites using OpenAI's GPT](https://jamesturk.github.io/scrapeghost/)
+- [Fighting inter-component HTML bloat](https://elisehe.in/2023/03/27/minimal-html-in-design-systems)
 
-- [Implementing multi-file analysis for linters](https://jfmengels.net/multi-file-analysis/)
+- [Janet Curl - A libcurl easy API wrapper for Janet](https://github.com/CosmicToast/jurl)
 
-- [Free software during wartime](https://lwn.net/SubscriberLink/926798/b8f7d5df1ee91de7/)
+- [Coze: A cryptographic JSON messaging specification designed for human readability](https://github.com/Cyphrme/Coze)
 
-- [Fascination of AWK](https://maximullaris.com/awk.html)
+- [Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
 
-- [We need better support for SSH host certificates](https://mjg59.dreamwidth.org/65874.html)
+- [Bad nREPL: 10 Things You Hate About nREPL](https://metaredux.com/posts/2023/03/26/bad-nrepl.html)
 
-- [Internet of Skull](https://mle-online.com/projects/internet_skull/index.html)
+- [The chat control proposal does not belong in democratic societies](https://mullvad.net/en/chatcontrol)
 
-- [Smalltalk Type: A restoration project of the typefaces used Smalltalk-80](https://moritzfuerst.net/projects/smalltalk-type)
+- [Speeding Up Linux Kernel Builds With ccache (2018)](https://nickdesaulniers.github.io/blog/2018/06/02/speeding-up-linux-kernel-builds-with-ccache/)
 
-- [SparseGPT: Remove 100B Parameters For Free](https://neuralmagic.com/blog/sparsegpt-remove-100-billion-parameters-for-free/)
+- [Tree Borrows: A new aliasing model for Rust](https://perso.crans.org/vanille/treebor/)
 
-- [Explaining my fast 6502 code generator](https://pubby.games/codegen.html)
+- [AI-enhanced development makes me more ambitious with my projects](https://simonwillison.net/2023/Mar/27/ai-enhanced-development/)
 
-- [Must move types [Linear types proposed for Rust]](https://smallcultfollowing.com/babysteps/blog/2023/03/16/must-move-types/)
+- [Unravelling `global`](https://snarky.ca/unravelling-global/)
 
-- [Library patterns: Why frameworks are evil (2015)](https://tomasp.net/blog/2015/library-frameworks/)
+- [The craziest thing I ever used SQLite for: partial file deduplication](https://sqlite.org/forum/forumpost/7fecf11e42c71a91?raw)
 
-- [How Big Should a Programming Language Be?](https://tratt.net/laurie/blog/2023/how_big_should_a_programming_language_be.html)
+- [Biscuit authorization](https://www.biscuitsec.org/)
 
-- [Internet archive (archive.org) looses it battle to Hachette in court case](https://twitter.com/internetarchive/status/1639424778862829569)
+- [Just update rules between neurons](https://www.jtolio.com/2023/03/just-update-rules-between-neurons/)
 
-- [$30 Lenovo N42 Chromebook converted into a full fledged Nix/OS machine](https://twitter.com/mikecodemonkey/status/1638635840355311616)
+- [Zig Quirks](https://www.openmymind.net/Zig-Quirks/)
 
-- [We're no longer sunsetting the Free Team plan](https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/)
-
-- [Gordon Moore, Intel Co-Founder, Dies at 94](https://www.intel.com/content/www/us/en/newsroom/news/gordon-moore-obituary.html)
-
-- [A fork() in the road](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/fork-hotos19.pdf)
+- [2600? How Phreaking Really Worked](https://www.youtube.com/watch?v=8PmkUPBhL4U)
