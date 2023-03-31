@@ -1,43 +1,45 @@
-- [How to run a shadow library: operations at Anna’s Archive](https://annas-blog.org/how-to-run-a-shadow-library.html)
+- [Source code archives of several video games for classic consoles](http://shrigley.com/source_code_archive/#comments)
 
-- [British PCs of the 1980s](https://arstechnica.com/gadgets/2023/03/egad-7-key-british-pcs-of-the-1980s-americans-might-have-missed/)
+- [Pseudocode Showdown: Python vs. PlusCal & TLA+](https://ahelwer.ca/post/2023-03-30-pseudocode/)
 
-- [Common pitfalls of GitHub Actions](https://ashishb.net/tech/common-pitfalls-of-github-actions/)
+- [My quest to re-create Street Fighter’s long-lost pneumatic controls](https://arstechnica.com/gaming/2023/03/my-quest-to-recreate-street-fighters-long-lost-pneumatic-controls/)
 
-- [Telemetry Is Not Your Enemy](https://blog.glyph.im/2023/03/telemetry-is-not-your-enemy.html)
+- [A Practical Look at PIO on the Raspberry Pi Pico](https://blues.io/blog/raspberry-pi-pico-pio/)
 
-- [Generating Configs with Nix + Cue](https://blog.jmgilman.com/generate-configs-with-nix-cue/)
+- [Type system of Fortnite's Verse language](https://brianmckenna.org/blog/verse_types)
 
-- [Getting NixOS to keep a secret](https://bmcgee.ie/posts/2022/11/getting-nixos-to-keep-a-secret/)
+- [Charts.css](https://chartscss.org/)
 
-- [You Should Write Bad Code](https://davidamos.dev/write-bad-code/)
+- [Asking the Right Questions to ChatGPT](https://davi.sh/blog/2023/03/gpt-right-questions/)
 
-- [Fighting inter-component HTML bloat](https://elisehe.in/2023/03/27/minimal-html-in-design-systems)
+- [Introducing neuro-lingo, a LLM powered comment language](https://derw.substack.com/p/introducing-neuro-lingo-a-llm-powered)
 
-- [Janet Curl - A libcurl easy API wrapper for Janet](https://github.com/CosmicToast/jurl)
+- [Nix Turns 20. What the Hell Is It?](https://earthly.dev/blog/what-is-nix/)
 
-- [Coze: A cryptographic JSON messaging specification designed for human readability](https://github.com/Cyphrme/Coze)
+- [Switching to Fedora from Ubuntu](https://evertpot.com/switching-to-fedora/)
 
-- [Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
+- [gotraceui: the efficient frontend for go execution traces](https://github.com/dominikh/gotraceui)
 
-- [Bad nREPL: 10 Things You Hate About nREPL](https://metaredux.com/posts/2023/03/26/bad-nrepl.html)
+- [So, You Want To Build A DBaaS](https://matt.blwt.io/post/so-you-want-to-build-a-dbaas/)
 
-- [The chat control proposal does not belong in democratic societies](https://mullvad.net/en/chatcontrol)
+- [GIF-TV](https://mle-online.com/projects/GIFTV/index.html)
 
-- [Speeding Up Linux Kernel Builds With ccache (2018)](https://nickdesaulniers.github.io/blog/2018/06/02/speeding-up-linux-kernel-builds-with-ccache/)
+- [I hacked into a Bing CMS, altered search results and took over millions of O365 accounts](https://nitter.net/hillai/status/1641146508639600646#m)
 
-- [Tree Borrows: A new aliasing model for Rust](https://perso.crans.org/vanille/treebor/)
+- [Can we hide the orange dot without disabling SIP?](https://notes.alinpanaitiu.com/Can%20we%20hide%20the%20orange%20dot%20without%20disabling%20SIP)
 
-- [AI-enhanced development makes me more ambitious with my projects](https://simonwillison.net/2023/Mar/27/ai-enhanced-development/)
+- [Thousands of conductance levels in memristors integrated on CMOS](https://rdcu.be/c8GWo)
 
-- [Unravelling `global`](https://snarky.ca/unravelling-global/)
+- [Rust on Nails - Ruby on Rails-style suggestions for the Rust ecosystem](https://rust-on-nails.com/docs/ide-setup/introduction/)
 
-- [The craziest thing I ever used SQLite for: partial file deduplication](https://sqlite.org/forum/forumpost/7fecf11e42c71a91?raw)
+- [Efficient coroutines by rewriting bytecode](https://squiddev.cc/2023/03/29/coroutines-and-bytecode.html)
 
-- [Biscuit authorization](https://www.biscuitsec.org/)
+- [Tailscale Funnel now available in beta](https://tailscale.com/blog/tailscale-funnel-beta/)
 
-- [Just update rules between neurons](https://www.jtolio.com/2023/03/just-update-rules-between-neurons/)
+- ['Modules Matter' Most for the Masses](https://www.pathsensitive.com/2023/03/modules-matter-most-for-masses.html)
 
-- [Zig Quirks](https://www.openmymind.net/Zig-Quirks/)
+- [How Roc Compiles Closures](https://www.rwx.com/blog/how-roc-compiles-closures)
 
-- [2600? How Phreaking Really Worked](https://www.youtube.com/watch?v=8PmkUPBhL4U)
+- [Emacs as an AI assistant with org-ai](https://www.youtube.com/watch?v=fvBDxiFPG6I)
+
+- [Stop Using AI as a Service  - (KoboldAI, InvokeAI, Nixified.AI)](https://www.youtube.com/watch?v=wJ0D7MrPNOw)
