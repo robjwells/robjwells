@@ -1,45 +1,47 @@
-- [Source code archives of several video games for classic consoles](http://shrigley.com/source_code_archive/#comments)
+- [A Game of Life on Penrose Tilings [2009]](http://pi.math.cornell.edu/~klindsey/presentations/PenroseLifePresentation.pdf)
 
-- [Pseudocode Showdown: Python vs. PlusCal & TLA+](https://ahelwer.ca/post/2023-03-30-pseudocode/)
+- [PonyDOS - A real-mode OS for everypony](https://ahti.space/git/offtopia/ponydos)
 
-- [My quest to re-create Street Fighter’s long-lost pneumatic controls](https://arstechnica.com/gaming/2023/03/my-quest-to-recreate-street-fighters-long-lost-pneumatic-controls/)
-
-- [A Practical Look at PIO on the Raspberry Pi Pico](https://blues.io/blog/raspberry-pi-pico-pio/)
-
-- [Type system of Fortnite's Verse language](https://brianmckenna.org/blog/verse_types)
-
-- [Charts.css](https://chartscss.org/)
-
-- [Asking the Right Questions to ChatGPT](https://davi.sh/blog/2023/03/gpt-right-questions/)
-
-- [Introducing neuro-lingo, a LLM powered comment language](https://derw.substack.com/p/introducing-neuro-lingo-a-llm-powered)
-
-- [Nix Turns 20. What the Hell Is It?](https://earthly.dev/blog/what-is-nix/)
+- [Hacking on Gitea Actions](https://blog.gitea.io/2023/03/hacking-on-gitea-actions/)
 
 - [Switching to Fedora from Ubuntu](https://evertpot.com/switching-to-fedora/)
 
-- [gotraceui: the efficient frontend for go execution traces](https://github.com/dominikh/gotraceui)
+- [urler: command line tool for URL parsing and manipulation](https://github.com/curl/urler)
 
-- [So, You Want To Build A DBaaS](https://matt.blwt.io/post/so-you-want-to-build-a-dbaas/)
+- [robotnix: Build Android (AOSP) using Nix](https://github.com/danielfullmer/robotnix)
 
-- [GIF-TV](https://mle-online.com/projects/GIFTV/index.html)
+- [kickass-crypto: Contemporary PHP cryptography library circa 2023](https://github.com/jj5/kickass-crypto)
 
-- [I hacked into a Bing CMS, altered search results and took over millions of O365 accounts](https://nitter.net/hillai/status/1641146508639600646#m)
+- [Extending JavaScript with Lisp: The WASM implementation of LispE](https://github.com/naver/lispe/wiki/6.17-A-WebAssembly-version-of-LispE)
+
+- [gpt4all: gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue](https://github.com/nomic-ai/gpt4all)
+
+- [the-algorithm: Source code for Twitter's Recommendation Algorithm](https://github.com/twitter/the-algorithm/)
+
+- [Letting users block injected third-party DLLs in Firefox](https://hacks.mozilla.org/2023/03/letting-users-block-injected-third-party-dlls-in-firefox/)
+
+- [Helix 23.03](https://helix-editor.com/news/release-23-03-highlights/)
+
+- [Janet for Mortals](https://janet.guide/)
+
+- [OpenAI's GPT-3 Language Model: A Technical Overview](https://lambdalabs.com/blog/demystifying-gpt-3)
+
+- [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
+
+- [How Kani helped find bugs in Hifitime](https://model-checking.github.io/kani-verifier-blog/2023/03/31/how-kani-helped-find-bugs-in-hifitime.html)
+
+- [Nim Version 2.0.0 RC2](https://nim-lang.org//blog/2023/03/31/version-20-rc2.html)
 
 - [Can we hide the orange dot without disabling SIP?](https://notes.alinpanaitiu.com/Can%20we%20hide%20the%20orange%20dot%20without%20disabling%20SIP)
 
-- [Thousands of conductance levels in memristors integrated on CMOS](https://rdcu.be/c8GWo)
-
-- [Rust on Nails - Ruby on Rails-style suggestions for the Rust ecosystem](https://rust-on-nails.com/docs/ide-setup/introduction/)
-
-- [Efficient coroutines by rewriting bytecode](https://squiddev.cc/2023/03/29/coroutines-and-bytecode.html)
-
 - [Tailscale Funnel now available in beta](https://tailscale.com/blog/tailscale-funnel-beta/)
+
+- [Toolchains adventures - Q1 2023](https://www.cambus.net/toolchains-adventures-q1-2023/)
+
+- [Value Modes and Mud Balls](https://www.maxcountryman.com/articles/value-modes-and-mud-balls)
 
 - ['Modules Matter' Most for the Masses](https://www.pathsensitive.com/2023/03/modules-matter-most-for-masses.html)
 
 - [How Roc Compiles Closures](https://www.rwx.com/blog/how-roc-compiles-closures)
 
-- [Emacs as an AI assistant with org-ai](https://www.youtube.com/watch?v=fvBDxiFPG6I)
-
-- [Stop Using AI as a Service  - (KoboldAI, InvokeAI, Nixified.AI)](https://www.youtube.com/watch?v=wJ0D7MrPNOw)
+- [Swift 5.8 released](https://www.swift.org/blog/swift-5.8-released/)
