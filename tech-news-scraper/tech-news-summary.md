@@ -1,47 +1,49 @@
-- [Atuin v14 - Deletions, NuShell, Windows and more](https://atuin.sh/blog/release-v14)
+- [tracking changes between pypi package releases](https://abbbi.github.io/pypidiff/)
 
-- [GraphQL: From Excitement to Deception](https://betterprogramming.pub/graphql-from-excitement-to-deception-f81f7c95b7cf)
+- [Using TLA⁺ at Work: Designing a Snapshot Coordination System](https://ahelwer.ca/post/2023-04-05-checkpoint-coordination/)
 
-- [Never Staff to the Peak](https://blog.testdouble.com/posts/2023-04-03-never-staff-to-the-peak/)
+- [Inlining SVGs for Dark Mode](https://ahelwer.ca/post/2023-04-06-dark-mode/)
 
-- [A Tor Browser without Tor](https://blog.torproject.org/releasing-mullvad-browser/)
+- [A Proposal for Proquints: Identifiers that are Readable, Spellable, and Pronounceable](https://arxiv.org/html/0901.4016)
 
-- [Bypassing the WiFi Hardware Switch on the Lenovo X201](https://bt.ht/x201/)
+- [MutexProtected: A C++ Pattern for Easier Concurrency](https://awesomekling.github.io/MutexProtected-A-C++-Pattern-for-Easier-Concurrency/)
 
-- [Modeling Git Internals in Alloy, Part 1: Blobs and Trees](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-1-blobs-and-trees/)
+- [Some language design lessons learned](https://c3.handmade.network/blog/p/8682-some_language_design_lessons_learned)
 
-- [Eight Things to Know about Large Language Models](https://cims.nyu.edu/~sbowman/eightthings.pdf)
+- [The little things in programming languages #1: Access control](https://chandlerc.blog/posts/little_things_1_access/)
 
-- [trurl manipulates URLs](https://daniel.haxx.se/blog/2023/04/03/introducing-trurl/)
+- [Introducing vmdiff: a tool to find everything that changes on your computer](https://community.atlassian.com/t5/Trust-Security-articles/Introducing-vmdiff-a-tool-to-find-everything-that-changes-on/ba-p/2321969)
 
-- [C++17 creates a practical use of the backward array index operator](https://devblogs.microsoft.com/oldnewthing/20230403-00/?p=108005)
+- [Chrome ships WebGPU](https://developer.chrome.com/blog/webgpu-release/)
 
-- [Saying Goodbye to GitHub](https://ersei.net/en/blog/bye-bye-github)
+- [System design and the cost of architectural complexity (2013)](https://dspace.mit.edu/handle/1721.1/79551)
 
-- [gcassert: Assert your Go code is inlined and bounds-check eliminated](https://github.com/jordanlewis/gcassert)
+- [Build faster with Buck2: Our open source build system](https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/)
 
-- [Orbiton: a slim configuration-free text editor for VT100](https://github.com/xyproto/orbiton)
+- [EdenFS Overview](https://github.com/facebook/sapling/blob/main/eden/fs/docs/Overview.md)
 
-- [v0.28 released of Gleam, a type safe Erlang-family language](https://gleam.run/news/v0.28-monorepos-fast-maps-and-more/)
+- [GitHub's employee intellectual property agreement, open sourced and reusable](https://github.com/github/balanced-employee-ip-agreement)
 
-- [Stopping evaluation from blocking in Nix](https://jade.fyi/blog/nix-evaluation-blocking/)
+- [Amazon EC2 Instance Comparison](https://instances.vantage.sh/)
 
-- [All you need is data and functions](https://mckayla.blog/posts/all-you-need-is-data-and-functions.html)
+- [Writing a Fast C# Code-Search Tool in Rust](https://johnaustin.io/articles/2022/blazing-fast-structural-search-for-c-sharp-in-rust)
 
-- [Making a Bloom Filter Keyboard](https://mclare.blog/posts/making-a-bloom-filter-keyboard/)
+- [The different uses of Python type hints](https://lukeplant.me.uk/blog/posts/the-different-uses-of-python-type-hints/)
 
-- [Mullvad Browser](https://mullvad.net/en/browser)
+- [This Month with Nim: March 2023](https://nim-lang.org/blog/2023/04/01/this-month-with-nim.html)
 
-- [Rust on the CH32V003](https://noxim.xyz/blog/rust-ch32v003/)
+- [Polars for initial data analysis, Polars for production](https://pythonspeed.com/articles/polars-exploratory-data-analysis-vs-production/)
 
-- [How HyperCard got its Color Back](https://orangejuiceliberationfront.com/how-hypercard-got-its-color-back/)
+- [Professor Eliot Moss on the Design and Implementation of CLU](https://veera.app/clu.html)
 
-- [Slint 1.0: The Next-Generation Native GUI Toolkit Matures](https://slint-ui.com/blog/announcing-slint-1.0.html)
+- [Yo, I heard you like decorators](https://www.bbayles.com/index/decorator_factory)
 
-- [Asymmetric Cryptographic Commitments](https://soatok.blog/2023/04/03/asymmetric-cryptographic-commitments/)
+- [Levelling up Pull Requests](https://www.brautaset.org/posts/levelling-up-pull-requests.html)
 
-- [Yack: Return to Monkey Island dialogs](https://www.grumpygamer.com/loom)
+- [C Strings and my slow descent to madness](https://www.deusinmachina.net/p/c-strings-and-my-slow-descent-to)
 
-- [RFC 1178:  Choosing a name for your computer](https://www.rfc-editor.org/rfc/rfc1178)
+- [HPC is dying, and MPI is killing it (2015)](https://www.dursi.ca/post/hpc-is-dying-and-mpi-is-killing-it)
 
-- [Building a Classic Mac OS App in Rust](https://www.wezm.net/v2/posts/2023/rust-classic-mac-os-app/)
+- [Haiku Activity & Contract Report, March 2023](https://www.haiku-os.org/blog/waddlesplash/2023-04-06_haiku_activity_contract_report_march_2023/)
+
+- [Sponsored ISO standards for PDF technology](https://www.pdfa.org/sponsored-standards/)
