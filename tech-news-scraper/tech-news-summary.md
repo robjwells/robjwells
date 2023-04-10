@@ -1,49 +1,49 @@
-- [tracking changes between pypi package releases](https://abbbi.github.io/pypidiff/)
+- [SIMD-ized faster parse of IPv4 addresses](http://0x80.pl/notesen/2023-04-09-faster-parse-ipv4.html)
 
-- [Using TLA⁺ at Work: Designing a Snapshot Coordination System](https://ahelwer.ca/post/2023-04-05-checkpoint-coordination/)
+- [Using RP2040 PIO to drive a poorly-designed display](http://dmitry.gr/?r=06.%20Thoughts&proj=09.ComplexPioMachines)
 
-- [Inlining SVGs for Dark Mode](https://ahelwer.ca/post/2023-04-06-dark-mode/)
+- [AgentGPT: Autonomous AI in your browser](https://agentgpt.reworkd.ai/)
 
-- [A Proposal for Proquints: Identifiers that are Readable, Spellable, and Pronounceable](https://arxiv.org/html/0901.4016)
+- [a 1.5GB string](https://blog.backslasher.net/1.5GB-string.html)
 
-- [MutexProtected: A C++ Pattern for Easier Concurrency](https://awesomekling.github.io/MutexProtected-A-C++-Pattern-for-Easier-Concurrency/)
+- [Hell Never Ends On x86: The Hyperspace Story, Continued, Sort Of](https://cohost.org/cathoderaydude/post/1311259-hell-never-ends-on-x)
 
-- [Some language design lessons learned](https://c3.handmade.network/blog/p/8682-some_language_design_lessons_learned)
+- [Who invented vector clocks?](https://decomposition.al/blog/2023/04/08/who-invented-vector-clocks/)
 
-- [The little things in programming languages #1: Access control](https://chandlerc.blog/posts/little_things_1_access/)
+- [Streaming lexical scope – Electric Clojure](https://electric-examples-app.fly.dev/)
 
-- [Introducing vmdiff: a tool to find everything that changes on your computer](https://community.atlassian.com/t5/Trust-Security-articles/Introducing-vmdiff-a-tool-to-find-everything-that-changes-on/ba-p/2321969)
+- [Chased by One’s Own Tail](https://gbracha.blogspot.com/2009/12/chased-by-ones-own-tail.html)
 
-- [Chrome ships WebGPU](https://developer.chrome.com/blog/webgpu-release/)
+- [cargo-cut-diagnostics: Cargo subcommand to display only the first page of diagnostics](https://github.com/SabrinaJewson/cargo-cut-diagnostics)
 
-- [System design and the cost of architectural complexity (2013)](https://dspace.mit.edu/handle/1721.1/79551)
+- [swift-evolution/0382: Expression Macros](https://github.com/apple/swift-evolution/blob/main/proposals/0382-expression-macros.md)
 
-- [Build faster with Buck2: Our open source build system](https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/)
+- [Golang package with slog.Handler implementations for uber/zap, Sentry and OpenTelemetry trace events](https://github.com/galecore/xslog)
 
-- [EdenFS Overview](https://github.com/facebook/sapling/blob/main/eden/fs/docs/Overview.md)
+- [botany: command line virtual plant buddy](https://github.com/jifunks/botany)
 
-- [GitHub's employee intellectual property agreement, open sourced and reusable](https://github.com/github/balanced-employee-ip-agreement)
+- [Namaka - Snapshot testing tool for Nix](https://github.com/nix-community/namaka)
 
-- [Amazon EC2 Instance Comparison](https://instances.vantage.sh/)
+- [IRB’s Built-in Measure (2021)](https://jemma.dev/blog/irb-measure)
 
-- [Writing a Fast C# Code-Search Tool in Rust](https://johnaustin.io/articles/2022/blazing-fast-structural-search-for-c-sharp-in-rust)
+- [On Endings: Why & How We Retired Elm at Culture Amp](https://kevinyank.com/posts/on-endings-why-how-we-retired-elm-at-culture-amp/)
 
-- [The different uses of Python type hints](https://lukeplant.me.uk/blog/posts/the-different-uses-of-python-type-hints/)
+- [Can You Trust a Compiler to Optimize Your Code?](https://matklad.github.io/2023/04/09/can-you-trust-a-compiler-to-optimize-your-code.html)
 
-- [This Month with Nim: March 2023](https://nim-lang.org/blog/2023/04/01/this-month-with-nim.html)
+- [Getting the ^D](https://owengage.com/writing/2023-04-08-getting-the-ctrl-d/)
 
-- [Polars for initial data analysis, Polars for production](https://pythonspeed.com/articles/polars-exploratory-data-analysis-vs-production/)
+- [Escalating via post-it note just to get some health checks](https://rachelbythebay.com/w/2023/04/09/note/)
 
-- [Professor Eliot Moss on the Design and Implementation of CLU](https://veera.app/clu.html)
+- [OpenVMS 9.2 for x86 is finally available for hobbyists](https://raymii.org/s/blog/OpenVMS_9.2_for_x86_is_finally_available_for_hobbyists.html)
 
-- [Yo, I heard you like decorators](https://www.bbayles.com/index/decorator_factory)
+- [Two types of software engineers](https://registerspill.thorstenball.com/p/two-types-of-software-engineers)
 
-- [Levelling up Pull Requests](https://www.brautaset.org/posts/levelling-up-pull-requests.html)
+- [Modular Errors in Rust](https://sabrinajewson.org/blog/errors)
 
-- [C Strings and my slow descent to madness](https://www.deusinmachina.net/p/c-strings-and-my-slow-descent-to)
+- [Silent Fanless Dell Wyse 3030 LT FreeBSD Server](https://vermaden.wordpress.com/2023/04/10/silent-fanless-dell-wyse-3030-lt-freebsd-server/)
 
-- [HPC is dying, and MPI is killing it (2015)](https://www.dursi.ca/post/hpc-is-dying-and-mpi-is-killing-it)
+- [We Need To Talk About Vercel](https://www.maxcountryman.com/articles/we-need-to-talk-about-vercel)
 
-- [Haiku Activity & Contract Report, March 2023](https://www.haiku-os.org/blog/waddlesplash/2023-04-06_haiku_activity_contract_report_march_2023/)
+- [Debugging: A guide to troubleshooting (2014)](https://www.robotsforroboticists.com/debugging-guide/)
 
-- [Sponsored ISO standards for PDF technology](https://www.pdfa.org/sponsored-standards/)
+- [shell-maker, a maker of Emacs shells](https://xenodium.com/a-shell-maker/)
