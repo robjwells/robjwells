@@ -1,49 +1,49 @@
-- [SIMD-ized faster parse of IPv4 addresses](http://0x80.pl/notesen/2023-04-09-faster-parse-ipv4.html)
+- [How we're building a browser when it's supposed to be impossible](https://awesomekling.substack.com/p/how-were-building-a-browser-when)
 
-- [Using RP2040 PIO to drive a poorly-designed display](http://dmitry.gr/?r=06.%20Thoughts&proj=09.ComplexPioMachines)
+- [KDE Plasma is NOT a Desktop Environment](https://blog.nicco.love/kde-plasma-is-not-a-desktop-environment/)
 
-- [AgentGPT: Autonomous AI in your browser](https://agentgpt.reworkd.ai/)
+- [Quickly formatting a stack of commits](https://blog.waleedkhan.name/formatting-a-commit-stack/)
 
-- [a 1.5GB string](https://blog.backslasher.net/1.5GB-string.html)
+- [I really like powershell](https://buttondown.email/hillelwayne/archive/i-really-like-powershell/)
 
-- [Hell Never Ends On x86: The Hyperspace Story, Continued, Sort Of](https://cohost.org/cathoderaydude/post/1311259-hell-never-ends-on-x)
+- [Passkeys: What the Heck and Why?](https://css-tricks.com/passkeys-what-the-heck-and-why/)
 
-- [Who invented vector clocks?](https://decomposition.al/blog/2023/04/08/who-invented-vector-clocks/)
+- [The Case for Function-Level Metrics: An observability sweet spot balancing debuggability, cost, ease](https://fiberplane.com/blog/the-case-for-function-level-metrics)
 
-- [Streaming lexical scope – Electric Clojure](https://electric-examples-app.fly.dev/)
+- [Fleek: A human-friendly Nix wrapper](https://getfleek.dev)
 
-- [Chased by One’s Own Tail](https://gbracha.blogspot.com/2009/12/chased-by-ones-own-tail.html)
+- [My project has been selected for the GitHub Accelerator Program and I’ll be working on it full-time](https://github.com/GyulyVGC/sniffnet/discussions/133)
 
-- [cargo-cut-diagnostics: Cargo subcommand to display only the first page of diagnostics](https://github.com/SabrinaJewson/cargo-cut-diagnostics)
+- [Preview WASI support merged into Go compiler](https://github.com/golang/go/issues/58141)
 
-- [swift-evolution/0382: Expression Macros](https://github.com/apple/swift-evolution/blob/main/proposals/0382-expression-macros.md)
+- [Differentiable Finite State Machines](https://google-research.github.io/self-organising-systems/2022/diff-fsm/)
 
-- [Golang package with slog.Handler implementations for uber/zap, Sentry and OpenTelemetry trace events](https://github.com/galecore/xslog)
+- [Running SunOS 4 in QEMU (SPARC)](https://john-millikin.com/running-sunos-4-in-qemu-sparc)
 
-- [botany: command line virtual plant buddy](https://github.com/jifunks/botany)
+- [ELF hash function may overflow](https://maskray.me/blog/2023-04-12-elf-hash-function)
 
-- [Namaka - Snapshot testing tool for Nix](https://github.com/nix-community/namaka)
+- [Reasonable Bootstrap](https://matklad.github.io/2023/04/13/reasonable-bootstrap.html)
 
-- [IRB’s Built-in Measure (2021)](https://jemma.dev/blog/irb-measure)
+- [Sega 3-D Glasses: How did they work?](https://nicole.express/2023/the-third-dimension-and-the-eight-bits.html)
 
-- [On Endings: Why & How We Retired Elm at Culture Amp](https://kevinyank.com/posts/on-endings-why-how-we-retired-elm-at-culture-amp/)
+- [Fullscreen apps above the MacBook notch](https://notes.alinpanaitiu.com/Fullscreen%20apps%20above%20the%20MacBook%20notch)
 
-- [Can You Trust a Compiler to Optimize Your Code?](https://matklad.github.io/2023/04/09/can-you-trust-a-compiler-to-optimize-your-code.html)
+- [Announcing Masonry 0.1, and my vision for Rust UI](https://poignardazur.github.io/2023/02/02/masonry-01-and-my-vision-for-rust-ui/)
 
-- [Getting the ^D](https://owengage.com/writing/2023-04-08-getting-the-ctrl-d/)
+- [Debugging an x86 application in Rosetta for Linux](https://sporks.space/2023/04/12/debugging-an-x86-application-in-rosetta-for-linux/)
 
-- [Escalating via post-it note just to get some health checks](https://rachelbythebay.com/w/2023/04/09/note/)
+- [A distributed time-traveling debugger for Spritely Goblins](https://spritely.institute/news/introducing-a-distributed-debugger-for-goblins-with-time-travel.html)
 
-- [OpenVMS 9.2 for x86 is finally available for hobbyists](https://raymii.org/s/blog/OpenVMS_9.2_for_x86_is_finally_available_for_hobbyists.html)
+- [Baking Images with Nix for Robust Private Networks at Bowtie](https://www.bowtie.works/blog/baking-images-with-nix-for-robust-private-networks-at-bowtie)
 
-- [Two types of software engineers](https://registerspill.thorstenball.com/p/two-types-of-software-engineers)
+- [Free Dolly: Introducing the World's First Truly Open Instruction-Tuned LLM](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
 
-- [Modular Errors in Rust](https://sabrinajewson.org/blog/errors)
+- [Do you actually need a vector database?](https://www.ethanrosenthal.com/2023/04/10/nn-vs-ann/)
 
-- [Silent Fanless Dell Wyse 3030 LT FreeBSD Server](https://vermaden.wordpress.com/2023/04/10/silent-fanless-dell-wyse-3030-lt-freebsd-server/)
+- [High-Level Synthesis Made Easy](https://www.hlsbook.com/)
 
-- [We Need To Talk About Vercel](https://www.maxcountryman.com/articles/we-need-to-talk-about-vercel)
+- [Setting up Git Bash / MINGW / MSYS2 on Windows](https://www.pascallandau.com/blog/setting-up-git-bash-mingw-msys2-on-windows/)
 
-- [Debugging: A guide to troubleshooting (2014)](https://www.robotsforroboticists.com/debugging-guide/)
+- [Why We Ditched RabbitMQ And Replaced It With A Postgres Queue](https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue)
 
-- [shell-maker, a maker of Emacs shells](https://xenodium.com/a-shell-maker/)
+- [Why Nushell?](https://www.reillywood.com/blog/why-nu/)
