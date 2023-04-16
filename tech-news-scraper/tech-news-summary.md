@@ -1,49 +1,49 @@
-- [How we're building a browser when it's supposed to be impossible](https://awesomekling.substack.com/p/how-were-building-a-browser-when)
+- [Beyond automatic differentiation](https://ai.googleblog.com/2023/04/beyond-automatic-differentiation.html)
 
-- [KDE Plasma is NOT a Desktop Environment](https://blog.nicco.love/kde-plasma-is-not-a-desktop-environment/)
+- [Optional If Expressions](https://animaomnium.github.io/optional-if-expressions/)
 
-- [Quickly formatting a stack of commits](https://blog.waleedkhan.name/formatting-a-commit-stack/)
+- [Systems design 2: What we hope we know](https://apenwarr.ca/log/20230415)
 
-- [I really like powershell](https://buttondown.email/hillelwayne/archive/i-really-like-powershell/)
+- [The Soul of an Old Machine](https://benjamincongdon.me/blog/2023/04/15/The-Soul-of-an-Old-Machine/)
 
-- [Passkeys: What the Heck and Why?](https://css-tricks.com/passkeys-what-the-heck-and-why/)
+- [Building 15-year-old software with Nix](https://blinry.org/nix-time-travel/)
 
-- [The Case for Function-Level Metrics: An observability sweet spot balancing debuggability, cost, ease](https://fiberplane.com/blog/the-case-for-function-level-metrics)
+- [Reverse engineering iMessages database to create a better search interface](https://blog.jonlu.ca/posts/mimessage?ref=ls)
 
-- [Fleek: A human-friendly Nix wrapper](https://getfleek.dev)
+- [Efficiency trades off against resiliency](https://blog.nelhage.com/post/efficiency-vs-resiliency/)
 
-- [My project has been selected for the GitHub Accelerator Program and I’ll be working on it full-time](https://github.com/GyulyVGC/sniffnet/discussions/133)
+- [Stop building closed ecosystems](https://buttondown.email/whatever_jamie/archive/stop-building-closed-ecosystems/)
 
-- [Preview WASI support merged into Go compiler](https://github.com/golang/go/issues/58141)
+- [hexagony: A two-dimensional, hexagonal programming language](https://github.com/m-ender/hexagony)
 
-- [Differentiable Finite State Machines](https://google-research.github.io/self-organising-systems/2022/diff-fsm/)
+- [gpt.sh: get bash commands written for you](https://github.com/rain-1/gpt.sh)
 
-- [Running SunOS 4 in QEMU (SPARC)](https://john-millikin.com/running-sunos-4-in-qemu-sparc)
+- [Kalyn: a self-hosting compiler for x86-64](https://intuitiveexplanations.com/tech/kalyn)
 
-- [ELF hash function may overflow](https://maskray.me/blog/2023-04-12-elf-hash-function)
+- [Low Code Software Development Is A Lie](https://jaylittle.com/post/view/2023/4/low-code-software-development-is-a-lie)
 
-- [Reasonable Bootstrap](https://matklad.github.io/2023/04/13/reasonable-bootstrap.html)
+- [Horrible Code, Clean Performance](https://johnnysswlab.com/horrible-code-clean-performance/)
 
-- [Sega 3-D Glasses: How did they work?](https://nicole.express/2023/the-third-dimension-and-the-eight-bits.html)
+- [KeePassXC Audit Report](https://keepassxc.org/blog/2023-04-15-audit-report/)
 
-- [Fullscreen apps above the MacBook notch](https://notes.alinpanaitiu.com/Fullscreen%20apps%20above%20the%20MacBook%20notch)
+- [IPFS-tiny: attempting to take IPFS to Space](https://libre.space/2023/04/12/ipfs-tiny/)
 
-- [Announcing Masonry 0.1, and my vision for Rust UI](https://poignardazur.github.io/2023/02/02/masonry-01-and-my-vision-for-rust-ui/)
+- [Korean as a Concatenative, Stack-Oriented Language](https://m.post.naver.com/viewer/postView.nhn?volumeNo=8912179&memberNo=33582594)
 
-- [Debugging an x86 application in Rosetta for Linux](https://sporks.space/2023/04/12/debugging-an-x86-application-in-rosetta-for-linux/)
+- [Hypervisor Development in Rust Part 1](https://memn0ps.github.io/hypervisor-development-in-rust-part-1/)
 
-- [A distributed time-traveling debugger for Spritely Goblins](https://spritely.institute/news/introducing-a-distributed-debugger-for-goblins-with-time-travel.html)
+- [Call for Papers: Perl and Koha Conference in Helsinki, 2023](https://perlkohacon.fi/Call-For-Talks-Perl-Koha-Helsinki-August-2023.html)
 
-- [Baking Images with Nix for Robust Private Networks at Bowtie](https://www.bowtie.works/blog/baking-images-with-nix-for-robust-private-networks-at-bowtie)
+- [Grappling With C: Part 1](https://pulsar17.me/2023/03/grappling-with-c)
 
-- [Free Dolly: Introducing the World's First Truly Open Instruction-Tuned LLM](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
+- [Google Assured OSS](https://sethmlarson.dev/google-assured-oss)
 
-- [Do you actually need a vector database?](https://www.ethanrosenthal.com/2023/04/10/nn-vs-ann/)
+- [Italian SA to lift temporary limitation if OpenAI implements measures by 30/April](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9874751#english)
 
-- [High-Level Synthesis Made Easy](https://www.hlsbook.com/)
+- [Three Years to Shake Your Head](https://www.maxcountryman.com/articles/three-years-to-shake-your-head)
 
-- [Setting up Git Bash / MINGW / MSYS2 on Windows](https://www.pascallandau.com/blog/setting-up-git-bash-mingw-msys2-on-windows/)
+- [Mixing Different Framerates - The Ultimate Guide](https://www.youtube.com/watch?v=p3Jb3UPAw-w)
 
-- [Why We Ditched RabbitMQ And Replaced It With A Postgres Queue](https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue)
+- [Automuse: A System for Generating Fiction Novels](https://xeiaso.net/blog/automuse)
 
-- [Why Nushell?](https://www.reillywood.com/blog/why-nu/)
+- [My Emacs eye candy](https://xenodium.com/my-emacs-eye-candy/)
