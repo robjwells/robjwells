@@ -1,49 +1,49 @@
-- [Beyond automatic differentiation](https://ai.googleblog.com/2023/04/beyond-automatic-differentiation.html)
+- [Emacs standing alone on a Linux Kernel](http://informatimago.free.fr/i/linux/emacs-on-user-mode-linux.html)
 
-- [Optional If Expressions](https://animaomnium.github.io/optional-if-expressions/)
+- [Stack Exchange Programming Language Design and Implementation is ready for launch](https://area51.stackexchange.com/proposals/127456)
 
-- [Systems design 2: What we hope we know](https://apenwarr.ca/log/20230415)
+- [Better Together: Unifying Datalog and Equality Saturation](https://arxiv.org/abs/2304.04332)
 
-- [The Soul of an Old Machine](https://benjamincongdon.me/blog/2023/04/15/The-Soul-of-an-Old-Machine/)
+- [Offline Is Just Online With Extreme Latency](https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency/)
 
-- [Building 15-year-old software with Nix](https://blinry.org/nix-time-travel/)
+- [Reasons to avoid Javascript CDNs](https://blog.wesleyac.com/posts/why-not-javascript-cdn)
 
-- [Reverse engineering iMessages database to create a better search interface](https://blog.jonlu.ca/posts/mimessage?ref=ls)
+- [The New XOR Problem](https://blog.wtf.sg/posts/2023-02-03-the-new-xor-problem/)
 
-- [Efficiency trades off against resiliency](https://blog.nelhage.com/post/efficiency-vs-resiliency/)
+- [Triple Threat: NSO Group’s Pegasus Spyware Returns in 2022 with a Trio of iOS 15 and iOS 16 Zero-Click Exploit Chains](https://citizenlab.ca/2023/04/nso-groups-pegasus-spyware-returns-in-2022/)
 
-- [Stop building closed ecosystems](https://buttondown.email/whatever_jamie/archive/stop-building-closed-ecosystems/)
+- [Functional exception-less error handling with C++23's optional and expected](https://devblogs.microsoft.com/cppblog/cpp23s-optional-and-expected/)
 
-- [hexagony: A two-dimensional, hexagonal programming language](https://github.com/m-ender/hexagony)
+- [Announcing Fedora Linux 38 (a week early!)](https://fedoramagazine.org/announcing-fedora-38/)
 
-- [gpt.sh: get bash commands written for you](https://github.com/rain-1/gpt.sh)
+- [Component driven development on Rails with Phlex](https://fly.io/ruby-dispatch/component-driven-development-on-rails-with-phlex/)
 
-- [Kalyn: a self-hosting compiler for x86-64](https://intuitiveexplanations.com/tech/kalyn)
+- [IAMSpy](https://github.com/WithSecureLabs/IAMSpy)
 
-- [Low Code Software Development Is A Lie](https://jaylittle.com/post/view/2023/4/low-code-software-development-is-a-lie)
+- [Wang Tiles and Turing Machines](https://grahamshawcross.com/2012/10/12/wang-tiles-and-turing-machines/)
 
-- [Horrible Code, Clean Performance](https://johnnysswlab.com/horrible-code-clean-performance/)
+- [Generalized Macros](https://ianthehenry.com/posts/generalized-macros/)
 
-- [KeePassXC Audit Report](https://keepassxc.org/blog/2023-04-15-audit-report/)
+- [(2022) The Evolution of Marginalia's crawling](https://memex.marginalia.nu/log/63-marginalia-crawler.gmi)
 
-- [IPFS-tiny: attempting to take IPFS to Space](https://libre.space/2023/04/12/ipfs-tiny/)
+- [PSA: upgrade your LUKS key derivation function](https://mjg59.dreamwidth.org/66429.html)
 
-- [Korean as a Concatenative, Stack-Oriented Language](https://m.post.naver.com/viewer/postView.nhn?volumeNo=8912179&memberNo=33582594)
+- [Load Balancing](https://samwho.dev/load-balancing/)
 
-- [Hypervisor Development in Rust Part 1](https://memn0ps.github.io/hypervisor-development-in-rust-part-1/)
+- [Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha](https://simonwillison.net/2023/Apr/12/code-interpreter/)
 
-- [Call for Papers: Perl and Koha Conference in Helsinki, 2023](https://perlkohacon.fi/Call-For-Talks-Perl-Koha-Helsinki-August-2023.html)
+- [Why Developers Never Use State Machines](https://skorks.com/2011/09/why-developers-never-use-state-machines/)
 
-- [Grappling With C: Part 1](https://pulsar17.me/2023/03/grappling-with-c)
+- [sourcehut pages](https://srht.site/)
 
-- [Google Assured OSS](https://sethmlarson.dev/google-assured-oss)
+- [Learning (visual) programming in the context of music](https://www.ableton.com/en/blog/learn-to-build-your-own-max-for-live-devices-with-our-new-free-pack/)
 
-- [Italian SA to lift temporary limitation if OpenAI implements measures by 30/April](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9874751#english)
+- [PC Engines apu platform EOL](https://www.pcengines.ch/eol.htm)
 
-- [Three Years to Shake Your Head](https://www.maxcountryman.com/articles/three-years-to-shake-your-head)
+- [Reimagining the microservice: an early preview](https://www.unison-lang.org/whats-new/unison-services-preview/)
 
-- [Mixing Different Framerates - The Ultimate Guide](https://www.youtube.com/watch?v=p3Jb3UPAw-w)
+- [How I Created a Personalized Map with R, JavaScript, and more](https://www.visualcinnamon.com/2023/04/personal-map-norway-with-javascript/)
 
-- [Automuse: A System for Generating Fiction Novels](https://xeiaso.net/blog/automuse)
+- [The strange code morphing CPU inside the Sony VAIO U1](https://www.youtube.com/watch?v=K6xbDiDuFU0)
 
-- [My Emacs eye candy](https://xenodium.com/my-emacs-eye-candy/)
+- [Which embedded OLAP database to pick?](https://www.zaynetro.com/post/2023-playing-with-olap/)
