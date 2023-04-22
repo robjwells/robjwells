@@ -1,49 +1,45 @@
-- [Emacs standing alone on a Linux Kernel](http://informatimago.free.fr/i/linux/emacs-on-user-mode-linux.html)
+- [Windows NT on Bull Estrella](http://vivapowerpc.eu/20230130-1800_Windows_NT_on_Bull_Estrella)
 
-- [Stack Exchange Programming Language Design and Implementation is ready for launch](https://area51.stackexchange.com/proposals/127456)
+- [The Performance of Open Source Software: Ninja](https://aosabook.org/en/posa/ninja.html)
 
-- [Better Together: Unifying Datalog and Equality Saturation](https://arxiv.org/abs/2304.04332)
+- [PyPI: Introducing 'Trusted Publishers'](https://blog.pypi.org/posts/2023-04-20-introducing-trusted-publishers/)
 
-- [Offline Is Just Online With Extreme Latency](https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency/)
+- [How to run your own LLM (GPT)](https://blog.rfox.eu/en/Programming/How_to_run_your_own_LLM_GPT.html)
 
-- [Reasons to avoid Javascript CDNs](https://blog.wesleyac.com/posts/why-not-javascript-cdn)
+- [In defense of simple architectures](https://danluu.com/simple-architectures/)
 
-- [The New XOR Problem](https://blog.wtf.sg/posts/2023-02-03-the-new-xor-problem/)
+- [From Deep to Long Learning?](https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning)
 
-- [Triple Threat: NSO Group’s Pegasus Spyware Returns in 2022 with a Trio of iOS 15 and iOS 16 Zero-Click Exploit Chains](https://citizenlab.ca/2023/04/nso-groups-pegasus-spyware-returns-in-2022/)
+- [Emacs Comes to Android](https://irreal.org/blog/?p=11144)
 
-- [Functional exception-less error handling with C++23's optional and expected](https://devblogs.microsoft.com/cppblog/cpp23s-optional-and-expected/)
+- [Bytebeating with GAWK](https://maximullaris.com/bytebeat_gawk.html)
 
-- [Announcing Fedora Linux 38 (a week early!)](https://fedoramagazine.org/announcing-fedora-38/)
+- [Asynchronous Programming in Python with asyncio](https://muhammadraza.me/2023/Asynchronous-Programming-in-Python/)
 
-- [Component driven development on Rails with Phlex](https://fly.io/ruby-dispatch/component-driven-development-on-rails-with-phlex/)
+- [Keyboard tricks from a macOS app dev](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev)
 
-- [IAMSpy](https://github.com/WithSecureLabs/IAMSpy)
+- [Mass editing memory in a transformer](https://quuxplusone.github.io/blog/feed.xml)
 
-- [Wang Tiles and Turing Machines](https://grahamshawcross.com/2012/10/12/wang-tiles-and-turing-machines/)
+- [Why Perl?](https://two-wrongs.com/why-perl)
 
-- [Generalized Macros](https://ianthehenry.com/posts/generalized-macros/)
+- [Keep Calm And Panic](https://www.dolthub.com/blog/2023-04-14-keep-calm-and-panic/)
 
-- [(2022) The Evolution of Marginalia's crawling](https://memex.marginalia.nu/log/63-marginalia-crawler.gmi)
+- [The weird world of Windows file paths](https://www.fileside.app/blog/2023-03-17_windows-file-paths/)
 
-- [PSA: upgrade your LUKS key derivation function](https://mjg59.dreamwidth.org/66429.html)
+- [Firefox may soon reject Cookie prompts automatically](https://www.ghacks.net/2023/04/17/firefox-may-interact-with-cookie-prompts-automatically-soon/)
 
-- [Load Balancing](https://samwho.dev/load-balancing/)
+- [A Gradual Gradual Type System for Elixir [pdf]](https://www.irif.fr/_media/users/gduboc/elixir-types.pdf)
 
-- [Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha](https://simonwillison.net/2023/Apr/12/code-interpreter/)
+- [Installing Windows and Linux on the Same Partition](https://www.lilysthings.org/blog/windows-on-btrfs/)
 
-- [Why Developers Never Use State Machines](https://skorks.com/2011/09/why-developers-never-use-state-machines/)
+- [Linux Foundation Announces Launch of TLA+ Foundation](https://www.linuxfoundation.org/press/linux-foundation-launches-tlafoundation)
 
-- [sourcehut pages](https://srht.site/)
+- [Elegant Memoization with Ruby’s .tap Method](https://www.macarthur.me/posts/memoization-with-tap-in-ruby)
 
-- [Learning (visual) programming in the context of music](https://www.ableton.com/en/blog/learn-to-build-your-own-max-for-live-devices-with-our-new-free-pack/)
+- [Zero-Downtime Deployments with Docker Compose](https://www.maxcountryman.com/articles/zero-downtime-deployments-with-docker-compose)
 
-- [PC Engines apu platform EOL](https://www.pcengines.ch/eol.htm)
+- [Applelink: chiseling an API middleware away from a Rails monolith](https://www.tramline.app/blog/applelink-chiseling-an-api-middleware-away-from-a-rails-monolith)
 
-- [Reimagining the microservice: an early preview](https://www.unison-lang.org/whats-new/unison-services-preview/)
+- [An Overview of the NetWare Operating System (1994)](https://www.usenix.net/legacy/publications/library/proceedings/sf94/full_papers/minshall.pdf)
 
-- [How I Created a Personalized Map with R, JavaScript, and more](https://www.visualcinnamon.com/2023/04/personal-map-norway-with-javascript/)
-
-- [The strange code morphing CPU inside the Sony VAIO U1](https://www.youtube.com/watch?v=K6xbDiDuFU0)
-
-- [Which embedded OLAP database to pick?](https://www.zaynetro.com/post/2023-playing-with-olap/)
+- [Recording and screenshotting windows: the lazy way](https://xenodium.com/recordscreenshot-windows-the-lazy-way/)
