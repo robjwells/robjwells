@@ -1,45 +1,45 @@
-- [Windows NT on Bull Estrella](http://vivapowerpc.eu/20230130-1800_Windows_NT_on_Bull_Estrella)
+- [OpenBSD: Managing an inverter/converter with NUT](http://doc.huc.fr.eu.org/en/sys/openbsd/nut/)
 
-- [The Performance of Open Source Software: Ninja](https://aosabook.org/en/posa/ninja.html)
+- [1Password is adding telemetry](https://blog.1password.com/privacy-preserving-app-telemetry/)
 
-- [PyPI: Introducing 'Trusted Publishers'](https://blog.pypi.org/posts/2023-04-20-introducing-trusted-publishers/)
+- [Every type is defined by its intro and elim forms](https://blog.jez.io/intro-elim/)
 
-- [How to run your own LLM (GPT)](https://blog.rfox.eu/en/Programming/How_to_run_your_own_LLM_GPT.html)
+- [Modeling Git Internals in Alloy, Part 3: Operations on Blobs and Trees](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-3-operations-on-blobs-and-trees/)
 
-- [In defense of simple architectures](https://danluu.com/simple-architectures/)
+- [deleting system32\curl.exe](https://daniel.haxx.se/blog/2023/04/24/deleting-system32curl-exe/)
 
-- [From Deep to Long Learning?](https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning)
+- [Fill in the ISO C++ Developer Survey](https://devblogs.microsoft.com/cppblog/fill-in-the-iso-c-developer-survey/)
 
-- [Emacs Comes to Android](https://irreal.org/blog/?p=11144)
+- [pair programming experience with Bard](https://gist.github.com/rain-1/9c948a5931d9b0a15a985d5b11921e9e)
 
-- [Bytebeating with GAWK](https://maximullaris.com/bytebeat_gawk.html)
+- [rye: Flask author's new project for Python bootstrapping](https://github.com/mitsuhiko/rye)
 
-- [Asynchronous Programming in Python with asyncio](https://muhammadraza.me/2023/Asynchronous-Programming-in-Python/)
+- [Why I use Nix and make(1) to develop](https://glorifiedgluer.com/blog/2023/developing-with-nix-and-make/)
 
-- [Keyboard tricks from a macOS app dev](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev)
+- [Golang crypto/ecdh and the TPM](https://linderud.dev/blog/golang-crypto/ecdh-and-the-tpm/)
 
-- [Mass editing memory in a transformer](https://quuxplusone.github.io/blog/feed.xml)
+- [The shrinking role of semaphores](https://lwn.net/Articles/928026/)
 
-- [Why Perl?](https://two-wrongs.com/why-perl)
+- [Using Nix with Dockerfiles](https://mitchellh.com/writing/nix-with-dockerfiles)
 
-- [Keep Calm And Panic](https://www.dolthub.com/blog/2023-04-14-keep-calm-and-panic/)
+- [Distractions Cause Bad Code](https://ntietz.com/blog/distractions-cause-bad-code/)
 
-- [The weird world of Windows file paths](https://www.fileside.app/blog/2023-03-17_windows-file-paths/)
+- [Rust allows redeclaring local variables to great benefit](https://ntietz.com/blog/rust-shadowing-idiomatic/)
 
-- [Firefox may soon reject Cookie prompts automatically](https://www.ghacks.net/2023/04/17/firefox-may-interact-with-cookie-prompts-automatically-soon/)
+- [The World's Simplest Lock-Free Hash Table (2013)](https://preshing.com/20130605/the-worlds-simplest-lock-free-hash-table/)
 
-- [A Gradual Gradual Type System for Elixir [pdf]](https://www.irif.fr/_media/users/gduboc/elixir-types.pdf)
+- [A CTF Challenge using the Nintendo 3DS' unique features](https://reswitched-weekly-reboot.github.io/posts/3ds-ctf/)
 
-- [Installing Windows and Linux on the Same Partition](https://www.lilysthings.org/blog/windows-on-btrfs/)
+- [GCC 13 and the state of gccrs](https://rust-gcc.github.io/2023/04/24/gccrs-and-gcc13-release.html)
 
-- [Linux Foundation Announces Launch of TLA+ Foundation](https://www.linuxfoundation.org/press/linux-foundation-launches-tlafoundation)
+- [Parallel Agile: Interesting Idea – Does It Work?](https://two-wrongs.com/book-review-parallel-agile.html)
 
-- [Elegant Memoization with Ruby’s .tap Method](https://www.macarthur.me/posts/memoization-with-tap-in-ruby)
+- [Our Journey from SaaS to OSS: Monoliths vs. Microservices](https://www.appsmith.com/blog/monoliths-vs-microservices-1)
 
-- [Zero-Downtime Deployments with Docker Compose](https://www.maxcountryman.com/articles/zero-downtime-deployments-with-docker-compose)
+- [Diagnosing and repairing a Brother fax/printer USB failure](https://www.downtowndougbrown.com/2023/04/diagnosing-and-repairing-a-brother-fax-printer-usb-failure/)
 
-- [Applelink: chiseling an API middleware away from a Rails monolith](https://www.tramline.app/blog/applelink-chiseling-an-api-middleware-away-from-a-rails-monolith)
+- [Haiku's (Kernel) Condition Variables API: Design & Implementation](https://www.haiku-os.org/blog/waddlesplash/2023-04-24_condition_variables/)
 
-- [An Overview of the NetWare Operating System (1994)](https://www.usenix.net/legacy/publications/library/proceedings/sf94/full_papers/minshall.pdf)
+- [QEMU version 8.0.0 released](https://www.qemu.org/2023/04/20/qemu-8-0-0/)
 
-- [Recording and screenshotting windows: the lazy way](https://xenodium.com/recordscreenshot-windows-the-lazy-way/)
+- [A sculk-sensor calculator (and why it demos quantum uncertainty)](https://www.youtube.com/watch?v=B0OuIi2YADc)
