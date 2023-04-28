@@ -1,45 +1,49 @@
-- [OpenBSD: Managing an inverter/converter with NUT](http://doc.huc.fr.eu.org/en/sys/openbsd/nut/)
+- [The 2-MAXSAT Problem Can Be Solved in Polynomial Time](https://arxiv.org/abs/2304.12517)
 
-- [1Password is adding telemetry](https://blog.1password.com/privacy-preserving-app-telemetry/)
+- [The future of programming: Research at CHI 2023](https://austinhenley.com/blog/futureofprogramming2023.html)
 
-- [Every type is defined by its intro and elim forms](https://blog.jez.io/intro-elim/)
+- [Datomic is Free (as in beer)](https://blog.datomic.com/2023/04/datomic-is-free.html)
 
-- [Modeling Git Internals in Alloy, Part 3: Operations on Blobs and Trees](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-3-operations-on-blobs-and-trees/)
+- [cra.tw - a link shortener for crates.io](https://cra.tw)
 
-- [deleting system32\curl.exe](https://daniel.haxx.se/blog/2023/04/24/deleting-system32curl-exe/)
+- [sudo-rs: A memory safe implementation of sudo and su](https://github.com/memorysafety/sudo-rs)
 
-- [Fill in the ISO C++ Developer Survey](https://devblogs.microsoft.com/cppblog/fill-in-the-iso-c-developer-survey/)
+- [Nix start](https://gitlab.com/engmark/nix-start/-/blob/main/README.md#nix-start)
 
-- [pair programming experience with Bard](https://gist.github.com/rain-1/9c948a5931d9b0a15a985d5b11921e9e)
+- [The Full-Source Bootstrap: Building from source all the way down](https://guix.gnu.org/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
 
-- [rye: Flask author's new project for Python bootstrapping](https://github.com/mitsuhiko/rye)
+- [VVD: an open source Real 3D Volumetric Display](https://hackaday.io/project/180304-vvd-an-open-source-real-3d-volumetric-display)
 
-- [Why I use Nix and make(1) to develop](https://glorifiedgluer.com/blog/2023/developing-with-nix-and-make/)
+- [Learnings from integrating JMX based metrics from Java applications into time series databases](https://last9.io/blog/learnings-integrating-jmxtrans/)
 
-- [Golang crypto/ecdh and the TPM](https://linderud.dev/blog/golang-crypto/ecdh-and-the-tpm/)
+- [50 Shades of Rust, or emerging Rust GUIs in a WASM world](https://monadical.com/posts/shades-of-rust-gui-library-list.html)
 
-- [The shrinking role of semaphores](https://lwn.net/Articles/928026/)
+- [Of Sun Ray laptops, MIPS and getting root on them](https://oldvcr.blogspot.com/2023/04/of-sun-ray-laptops-mips-and-getting.html)
 
-- [Using Nix with Dockerfiles](https://mitchellh.com/writing/nix-with-dockerfiles)
+- [New Product Preview: RP2040-PICO30 Raspberry Pico with 30 GPIO available](https://olimex.wordpress.com/2023/04/27/new-product-preview-rp2040-pico30-raspberry-pico-with-30-gpio-available/)
 
-- [Distractions Cause Bad Code](https://ntietz.com/blog/distractions-cause-bad-code/)
+- [The Part of PostgreSQL We Hate the Most](https://ottertune.com/blog/the-part-of-postgresql-we-hate-the-most/)
 
-- [Rust allows redeclaring local variables to great benefit](https://ntietz.com/blog/rust-shadowing-idiomatic/)
+- [Setting Up A Cloud Server For Multiple Sites](https://sdubinsky.com/blog/16)
 
-- [The World's Simplest Lock-Free Hash Table (2013)](https://preshing.com/20130605/the-worlds-simplest-lock-free-hash-table/)
+- [urllib3 v2.0.0 is now generally available](https://sethmlarson.dev/urllib3-2.0.0)
 
-- [A CTF Challenge using the Nintendo 3DS' unique features](https://reswitched-weekly-reboot.github.io/posts/3ds-ctf/)
+- [Call For Testers: Spatial Shell](https://soap.coffee/~lthms/news/CFTSpatialShell.html)
 
-- [GCC 13 and the state of gccrs](https://rust-gcc.github.io/2023/04/24/gccrs-and-gcc13-release.html)
+- [The Power of Ten – Rules for Developing Safety Critical Code](https://spinroot.com/gerard/pdf/P10.pdf)
 
-- [Parallel Agile: Interesting Idea – Does It Work?](https://two-wrongs.com/book-review-parallel-agile.html)
+- [CVE-2022-0329 and the problems with automated vulnerability management (2022)](https://tomforb.es/cve-2022-0329-and-the-problems-with-automated-vulnerability-management/)
 
-- [Our Journey from SaaS to OSS: Monoliths vs. Microservices](https://www.appsmith.com/blog/monoliths-vs-microservices-1)
+- [Hacking the original xbox controller for fun and no profit](https://wheybags.com/blog/xbox.html)
 
-- [Diagnosing and repairing a Brother fax/printer USB failure](https://www.downtowndougbrown.com/2023/04/diagnosing-and-repairing-a-brother-fax-printer-usb-failure/)
+- [Performance Excuses Debunked](https://www.computerenhance.com/p/performance-excuses-debunked)
 
-- [Haiku's (Kernel) Condition Variables API: Design & Implementation](https://www.haiku-os.org/blog/waddlesplash/2023-04-24_condition_variables/)
+- [Why is OAuth still hard in 2023?](https://www.nango.dev/blog/why-is-oauth-still-hard)
 
-- [QEMU version 8.0.0 released](https://www.qemu.org/2023/04/20/qemu-8-0-0/)
+- [Hardest Question on Ruby Arrays Quiz](https://www.vector-logic.com/blog/posts/hardest-question-on-ruby-arrays-quiz)
 
-- [A sculk-sensor calculator (and why it demos quantum uncertainty)](https://www.youtube.com/watch?v=B0OuIi2YADc)
+- [Announcing XTDB 2.x Early Access ·](https://www.xtdb.com/blog/2x-early-access)
+
+- [Mahmoud Hashemi edits system libraries](https://www.youtube.com/watch?v=GeSM4zSc8-A)
+
+- [TigerStyle! (Or How To Design Safer Systems in Less Time)](https://www.youtube.com/watch?v=w3WYdYyjek4)
