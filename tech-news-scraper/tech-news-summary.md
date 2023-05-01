@@ -1,49 +1,49 @@
-- [The 2-MAXSAT Problem Can Be Solved in Polynomial Time](https://arxiv.org/abs/2304.12517)
+- [Image vector quantization is just like creating a tilemap](https://30fps.net/notebooks/image-vq/)
 
-- [The future of programming: Research at CHI 2023](https://austinhenley.com/blog/futureofprogramming2023.html)
+- [What Is a URL: Dangers of inconsistent parsing of URLs](https://azeemba.com/posts/what-is-a-url.html)
 
-- [Datomic is Free (as in beer)](https://blog.datomic.com/2023/04/datomic-is-free.html)
+- [Agile! The Good, the Hype and the Ugly (review)](https://beza1e1.tuxen.de/agile_good_hype_ugly.html)
 
-- [cra.tw - a link shortener for crates.io](https://cra.tw)
+- [KDE Dev tries XFCE](https://blog.nicco.love/kde-dev-tries-xfce/)
 
-- [sudo-rs: A memory safe implementation of sudo and su](https://github.com/memorysafety/sudo-rs)
+- [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
 
-- [Nix start](https://gitlab.com/engmark/nix-start/-/blob/main/README.md#nix-start)
+- [loxcraft: a compiler, language server, and online playground for the Lox programming language](https://github.com/ajeetdsouza/loxcraft)
 
-- [The Full-Source Bootstrap: Building from source all the way down](https://guix.gnu.org/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
+- [Introducing the Gleam package index](https://gleam.run/news/introducing-the-gleam-package-index/)
 
-- [VVD: an open source Real 3D Volumetric Display](https://hackaday.io/project/180304-vvd-an-open-source-real-3d-volumetric-display)
+- [Browser-based robot simulator with three.js & rapier.js](https://grgv.xyz/blog/simulator/)
 
-- [Learnings from integrating JMX based metrics from Java applications into time series databases](https://last9.io/blog/learnings-integrating-jmxtrans/)
+- [Declarative GNOME configuration with NixOS](https://hoverbear.org/blog/declarative-gnome-configuration-in-nixos/)
 
-- [50 Shades of Rust, or emerging Rust GUIs in a WASM world](https://monadical.com/posts/shades-of-rust-gui-library-list.html)
+- [My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29/)
 
-- [Of Sun Ray laptops, MIPS and getting root on them](https://oldvcr.blogspot.com/2023/04/of-sun-ray-laptops-mips-and-getting.html)
+- [PEP 647 – User-Defined Type Guards (2020)](https://peps.python.org/pep-0647)
 
-- [New Product Preview: RP2040-PICO30 Raspberry Pico with 30 GPIO available](https://olimex.wordpress.com/2023/04/27/new-product-preview-rp2040-pico30-raspberry-pico-with-30-gpio-available/)
+- [Duplicacy: A New Generation of Cloud Backup Tool Based on Lock-Free Deduplication](https://raw.githubusercontent.com/gilbertchen/duplicacy/master/duplicacy_paper.pdf)
 
-- [The Part of PostgreSQL We Hate the Most](https://ottertune.com/blog/the-part-of-postgresql-we-hate-the-most/)
+- [Debian-based distros have adopted PEP 668](https://salsa.debian.org/python-team/packages/python-pip/-/blob/master/debian/NEWS)
 
-- [Setting Up A Cloud Server For Multiple Sites](https://sdubinsky.com/blog/16)
+- [A Mirror for Rust: Compile-Time Reflection Report](https://soasis.org/posts/a-mirror-for-rust-a-plan-for-generic-compile-time-introspection-in-rust/)
 
-- [urllib3 v2.0.0 is now generally available](https://sethmlarson.dev/urllib3-2.0.0)
+- [The web's most important decision](https://thehistoryoftheweb.com/postscript/the-webs-most-important-decision/)
 
-- [Call For Testers: Spatial Shell](https://soap.coffee/~lthms/news/CFTSpatialShell.html)
+- [Waterloo Style](https://theprogrammersparadox.blogspot.com/2023/04/waterloo-style.html)
 
-- [The Power of Ten – Rules for Developing Safety Critical Code](https://spinroot.com/gerard/pdf/P10.pdf)
+- [Humble Chronicles: State Management](https://tonsky.me/blog/humble-state/)
 
-- [CVE-2022-0329 and the problems with automated vulnerability management (2022)](https://tomforb.es/cve-2022-0329-and-the-problems-with-automated-vulnerability-management/)
+- [Writing an OS in Go: The Bootloader](https://totallygamerjet.hashnode.dev/writing-an-os-in-go-the-bootloader)
 
-- [Hacking the original xbox controller for fun and no profit](https://wheybags.com/blog/xbox.html)
+- [First-Class Modules and Modular Implicits in OCaml (2017)](https://tycon.github.io/modular-implicits.html)
 
-- [Performance Excuses Debunked](https://www.computerenhance.com/p/performance-excuses-debunked)
+- [Simple FreeBSD Poudriere Harvester Guide](https://vermaden.wordpress.com/2023/04/30/simple-freebsd-poudriere-harvester-guide/)
 
-- [Why is OAuth still hard in 2023?](https://www.nango.dev/blog/why-is-oauth-still-hard)
+- [Memoirs from the old web: The KEYGEN element](https://www.devever.net/~hl/web-keygen)
 
-- [Hardest Question on Ruby Arrays Quiz](https://www.vector-logic.com/blog/posts/hardest-question-on-ruby-arrays-quiz)
+- [137 emergent abilities of large language models](https://www.jasonwei.net/blog/emergence)
 
-- [Announcing XTDB 2.x Early Access ·](https://www.xtdb.com/blog/2x-early-access)
+- [Mysteries of the Griffin iMate](https://www.projectgus.com/2023/04/griffin-imate/)
 
-- [Mahmoud Hashemi edits system libraries](https://www.youtube.com/watch?v=GeSM4zSc8-A)
+- [8BBS: A Forgotten Primary Source (2017)](https://www.wrestlinggnon.com/hacking/2017/09/25/8bbs-a-forgotten-primary-source.html)
 
-- [TigerStyle! (Or How To Design Safer Systems in Less Time)](https://www.youtube.com/watch?v=w3WYdYyjek4)
+- [UART Driver From Scratch: Bare Metal Programming Series](https://www.youtube.com/watch?v=qSUbe_a54gY)
