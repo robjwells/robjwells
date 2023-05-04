@@ -1,49 +1,49 @@
-- [Image vector quantization is just like creating a tilemap](https://30fps.net/notebooks/image-vq/)
+- [AT Protocol (aka BlueSky) Overview](https://atproto.com/guides/overview)
 
-- [What Is a URL: Dangers of inconsistent parsing of URLs](https://azeemba.com/posts/what-is-a-url.html)
+- [An Update on the Lock Icon](https://blog.chromium.org/2023/05/an-update-on-lock-icon.html?m=1)
 
-- [Agile! The Good, the Hype and the Ugly (review)](https://beza1e1.tuxen.de/agile_good_hype_ugly.html)
+- [Let's Make Sure Github Doesn't Become the only Option](https://blog.edwardloveall.com/lets-make-sure-github-doesnt-become-the-only-option)
 
-- [KDE Dev tries XFCE](https://blog.nicco.love/kde-dev-tries-xfce/)
+- [Passkeys: The beginning of the end of the password](https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/)
 
-- [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
+- [I want to talk about WebGPU](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu)
 
-- [loxcraft: a compiler, language server, and online playground for the Lox programming language](https://github.com/ajeetdsouza/loxcraft)
+- [Driving Compilers](https://fabiensanglard.net/dc/)
 
-- [Introducing the Gleam package index](https://gleam.run/news/introducing-the-gleam-package-index/)
+- [Two Approaches To Decoupling](https://htmx.org/essays/two-approaches-to-decoupling/)
 
-- [Browser-based robot simulator with three.js & rapier.js](https://grgv.xyz/blog/simulator/)
+- [Value Oriented Programming Needs Implicits?](https://matklad.github.io/2023/05/02/implicits-for-mvs.html)
 
-- [Declarative GNOME configuration with NixOS](https://hoverbear.org/blog/declarative-gnome-configuration-in-nixos/)
+- [Game development in Go: Ebitengine shaders](https://quasilyte.dev/blog/post/ebitengine-shaders/)
 
-- [My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29/)
+- [Simulating Turing Machines with Wang tiles](https://seriot.ch/projects/simulating_turing_machines_with_wang_tiles.html)
 
-- [PEP 647 – User-Defined Type Guards (2020)](https://peps.python.org/pep-0647)
+- [Haskell in Production: Standard Chartered](https://serokell.io/blog/haskell-in-production-standard-chartered)
 
-- [Duplicacy: A New Generation of Cloud Backup Tool Based on Lock-Free Deduplication](https://raw.githubusercontent.com/gilbertchen/duplicacy/master/duplicacy_paper.pdf)
+- [How to make a CSS-only hamburger menu](https://threkk.medium.com/how-to-make-a-css-only-hamburger-menu-f7ad41e13399?source=friends_link)
 
-- [Debian-based distros have adopted PEP 668](https://salsa.debian.org/python-team/packages/python-pip/-/blob/master/debian/NEWS)
+- [Why Split Lexing and Parsing Into Two Separate Phases?](https://tratt.net/laurie/blog/2023/why_split_lexing_and_parsing_into_two_separate_phases.html)
 
-- [A Mirror for Rust: Compile-Time Reflection Report](https://soasis.org/posts/a-mirror-for-rust-a-plan-for-generic-compile-time-introspection-in-rust/)
+- [Does GPT-4 think better in Javascript?](https://vgel.me/posts/gpt4-javascript/)
 
-- [The web's most important decision](https://thehistoryoftheweb.com/postscript/the-webs-most-important-decision/)
+- [Cloud exit pays off in performance too](https://world.hey.com/dhh/cloud-exit-pays-off-in-performance-too-4c53b697)
 
-- [Waterloo Style](https://theprogrammersparadox.blogspot.com/2023/04/waterloo-style.html)
+- [Sovereign clouds](https://world.hey.com/dhh/sovereign-clouds-661eb5e4)
 
-- [Humble Chronicles: State Management](https://tonsky.me/blog/humble-state/)
+- [Client certificates aren't universally more secure](https://www.devever.net/~hl/clientcert)
 
-- [Writing an OS in Go: The Bootloader](https://totallygamerjet.hashnode.dev/writing-an-os-in-go-the-bootloader)
+- [Somehow AutoHotKey is kinda good now](https://www.hillelwayne.com/post/ahk-v2/)
 
-- [First-Class Modules and Modular Implicits in OCaml (2017)](https://tycon.github.io/modular-implicits.html)
+- [Mojo — a new programming language for all AI developers](https://www.modular.com/mojo)
 
-- [Simple FreeBSD Poudriere Harvester Guide](https://vermaden.wordpress.com/2023/04/30/simple-freebsd-poudriere-harvester-guide/)
+- [Unlocking North Korean songs on a karaoke machine (2020)](https://www.northkoreatech.org/2020/06/02/unlocking-north-korean-songs-on-a-karaoke-machine/)
 
-- [Memoirs from the old web: The KEYGEN element](https://www.devever.net/~hl/web-keygen)
+- [Variadic functions vs variadic templates](https://www.sandordargo.com/blog/2023/05/03/variadic-functions-vs-variadic-templates)
 
-- [137 emergent abilities of large language models](https://www.jasonwei.net/blog/emergence)
+- [Microsoft is forcing Outlook and Teams to open links in Edge, and IT admins are angry](https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open)
 
-- [Mysteries of the Griffin iMate](https://www.projectgus.com/2023/04/griffin-imate/)
+- [Python Monorepo: an Example. Part 1: Structure and Tooling](https://www.tweag.io/blog/2023-04-04-python-monorepo-1/)
 
-- [8BBS: A Forgotten Primary Source (2017)](https://www.wrestlinggnon.com/hacking/2017/09/25/8bbs-a-forgotten-primary-source.html)
+- [Bootstrapping Uber’s Infrastructure on arm64 with Zig](https://www.uber.com/en-US/blog/bootstrapping-ubers-infrastructure-on-arm64-with-zig/)
 
-- [UART Driver From Scratch: Bare Metal Programming Series](https://www.youtube.com/watch?v=qSUbe_a54gY)
+- [PHP 8.2: Honest Trailer](https://www.youtube.com/watch?v=nB419rY_-iQ)
