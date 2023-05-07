@@ -1,49 +1,47 @@
-- [AT Protocol (aka BlueSky) Overview](https://atproto.com/guides/overview)
+- [Petri Net Theory and the Modeling of Systems](http://jklp.org/profession/books/pn/index.html)
 
-- [An Update on the Lock Icon](https://blog.chromium.org/2023/05/an-update-on-lock-icon.html?m=1)
+- [I checked if browsers could cache all bookmarked pages locally](https://bitecode.substack.com/p/i-checked-if-browsers-could-cache?sd=pf)
 
-- [Let's Make Sure Github Doesn't Become the only Option](https://blog.edwardloveall.com/lets-make-sure-github-doesnt-become-the-only-option)
+- [Exploiting an Order of Operations Bug to Achieve RCE in Oracle Opera](https://blog.assetnote.io/2023/04/30/rce-oracle-opera/)
 
-- [Passkeys: The beginning of the end of the password](https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/)
+- [Stop Using Hamburger Menus](https://bt.ht/hamburgers/)
 
-- [I want to talk about WebGPU](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu)
+- [Constructing human-grade parsers](https://duriansoftware.com/joe/constructing-human-grade-parsers)
 
-- [Driving Compilers](https://fabiensanglard.net/dc/)
+- [On the security of the Linux disk encryption LUKS](https://dys2p.com/en/2023-05-luks-security.html)
 
-- [Two Approaches To Decoupling](https://htmx.org/essays/two-approaches-to-decoupling/)
+- [Functions as a Service in Go with WASM, WASI and Rust](https://eli.thegreenplace.net/2023/faas-in-go-with-wasm-wasi-and-rust/)
 
-- [Value Oriented Programming Needs Implicits?](https://matklad.github.io/2023/05/02/implicits-for-mvs.html)
+- [constexpr auto ymd {year(2021)/January/day(23)};  (std::chrono::operator/)](https://en.cppreference.com/w/cpp/chrono/operator_slash)
 
-- [Game development in Go: Ebitengine shaders](https://quasilyte.dev/blog/post/ebitengine-shaders/)
+- [Creating Custom Rails Generators](https://garrettdimon.com/journal/posts/creating-custom-rails-generators)
 
-- [Simulating Turing Machines with Wang tiles](https://seriot.ch/projects/simulating_turing_machines_with_wang_tiles.html)
+- [Nintendo reportedly issues DMCA takedown for Switch homebrew projects, Skyline Switch emulator development ceased](https://gbatemp.net/threads/nintendo-reportedly-issues-dmca-takedown-for-switch-homebrew-projects-skyline-switch-emulator-development-ceased.632406/)
 
-- [Haskell in Production: Standard Chartered](https://serokell.io/blog/haskell-in-production-standard-chartered)
+- [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
 
-- [How to make a CSS-only hamburger menu](https://threkk.medium.com/how-to-make-a-css-only-hamburger-menu-f7ad41e13399?source=friends_link)
+- [Prompt Injection and AutoGPT](https://gist.github.com/rain-1/a1ed1116c6da4d2b195e562c8d3f9482)
 
-- [Why Split Lexing and Parsing Into Two Separate Phases?](https://tratt.net/laurie/blog/2023/why_split_lexing_and_parsing_into_two_separate_phases.html)
+- [Merklizing the key/value store for fun and profit](https://joelgustafson.com/posts/2023-05-04/merklizing-the-key-value-store-for-fun-and-profit)
 
-- [Does GPT-4 think better in Javascript?](https://vgel.me/posts/gpt4-javascript/)
+- [WebGPU: Rotating Cube](https://john-millikin.com/static/webgpu-rotating-cube.html)
 
-- [Cloud exit pays off in performance too](https://world.hey.com/dhh/cloud-exit-pays-off-in-performance-too-4c53b697)
+- [Hostnames and usernames to reserve (2015)](https://ldpreload.com/blog/names-to-reserve)
 
-- [Sovereign clouds](https://world.hey.com/dhh/sovereign-clouds-661eb5e4)
+- [A kernel without buffer heads](https://lwn.net/SubscriberLink/930173/c1a1f68dc4e20191/)
 
-- [Client certificates aren't universally more secure](https://www.devever.net/~hl/clientcert)
+- [Farewell to the Era of Cheap EC2 Spot Instances](https://pauley.me/post/2023/spot-price-trends/)
 
-- [Somehow AutoHotKey is kinda good now](https://www.hillelwayne.com/post/ahk-v2/)
+- [HTMX is the Future](https://quii.dev/HTMX_is_the_Future)
 
-- [Mojo — a new programming language for all AI developers](https://www.modular.com/mojo)
+- [How unity builds lurked into the Firefox Build System](https://serge-sans-paille.github.io/pythran-stories/how-unity-builds-lurked-into-the-firefox-build-system.html)
 
-- [Unlocking North Korean songs on a karaoke machine (2020)](https://www.northkoreatech.org/2020/06/02/unlocking-north-korean-songs-on-a-karaoke-machine/)
+- [Solid is a specification that lets people store their data securely in decentralized data stores](https://solidproject.org/)
 
-- [Variadic functions vs variadic templates](https://www.sandordargo.com/blog/2023/05/03/variadic-functions-vs-variadic-templates)
+- [Crystal the language for humans](https://www.deusinmachina.net/p/a-look-at-the-crystal-programming)
 
-- [Microsoft is forcing Outlook and Teams to open links in Edge, and IT admins are angry](https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open)
+- [Memoirs from the old web: IE's crazy content rating system](https://www.devever.net/~hl/pics)
 
-- [Python Monorepo: an Example. Part 1: Structure and Tooling](https://www.tweag.io/blog/2023-04-04-python-monorepo-1/)
+- [Classification of the principal programming paradigms](https://www.info.ucl.ac.be/~pvr/paradigms.html)
 
-- [Bootstrapping Uber’s Infrastructure on arm64 with Zig](https://www.uber.com/en-US/blog/bootstrapping-ubers-infrastructure-on-arm64-with-zig/)
-
-- [PHP 8.2: Honest Trailer](https://www.youtube.com/watch?v=nB419rY_-iQ)
+- [A few words on Ruby's type annotations state](https://zverok.space/blog/2023-05-05-ruby-types.html)
