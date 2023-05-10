@@ -1,47 +1,49 @@
-- [Petri Net Theory and the Modeling of Systems](http://jklp.org/profession/books/pn/index.html)
+- [On Custom-Width Integer Types](https://alic.dev/blog/custom-bitwidth.html)
 
-- [I checked if browsers could cache all bookmarked pages locally](https://bitecode.substack.com/p/i-checked-if-browsers-could-cache?sd=pf)
+- [Alpine 3.18.0 released](https://alpinelinux.org/posts/Alpine-3.18.0-released.html)
 
-- [Exploiting an Order of Operations Bug to Achieve RCE in Oracle Opera](https://blog.assetnote.io/2023/04/30/rce-oracle-opera/)
+- [Story: Redis and its creator antirez](https://blog.brachiosoft.com/redis-en)
 
-- [Stop Using Hamburger Menus](https://bt.ht/hamburgers/)
+- [Why your TCP-based VPN stutters (and how to fix it)](https://blog.carldong.me/2023/05/03/why-do-vpns.html)
 
-- [Constructing human-grade parsers](https://duriansoftware.com/joe/constructing-human-grade-parsers)
+- [How we built Network Analytics v2](https://blog.cloudflare.com/building-network-analytics-v2/)
 
-- [On the security of the Linux disk encryption LUKS](https://dys2p.com/en/2023-05-luks-security.html)
+- [Fitting millions of documents in 128 TB of virtual memory](https://blog.meilisearch.com/dynamic-virtual-address-management/)
 
-- [Functions as a Service in Go with WASM, WASI and Rust](https://eli.thegreenplace.net/2023/faas-in-go-with-wasm-wasi-and-rust/)
+- [The seven specification ur-languages](https://buttondown.email/hillelwayne/archive/the-seven-specification-ur-languages/)
 
-- [constexpr auto ymd {year(2021)/January/day(23)};  (std::chrono::operator/)](https://en.cppreference.com/w/cpp/chrono/operator_slash)
+- [SSH quick and easy login setup](https://cap5.nl/ssh-quick-and-easy-login-setup/)
 
-- [Creating Custom Rails Generators](https://garrettdimon.com/journal/posts/creating-custom-rails-generators)
+- [Cover Craft Dust Covers - Disaster Insurance. Protect your hardware from the unexpected](https://computeradsfromthepast.substack.com/p/cover-craft-dust-covers)
 
-- [Nintendo reportedly issues DMCA takedown for Switch homebrew projects, Skyline Switch emulator development ceased](https://gbatemp.net/threads/nintendo-reportedly-issues-dmca-takedown-for-switch-homebrew-projects-skyline-switch-emulator-development-ceased.632406/)
+- [How to Succeed in Open Source Without Really Trying (Really)](https://dev.to/tigt/how-to-succeed-in-open-source-without-really-trying-really-55pj)
 
-- [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
+- [In Erlang/OTP 27, +0.0 will no longer be exactly equal to -0.0](https://erlangforums.com/t/in-erlang-otp-27-0-0-will-no-longer-be-exactly-equal-to-0-0/2586)
 
-- [Prompt Injection and AutoGPT](https://gist.github.com/rain-1/a1ed1116c6da4d2b195e562c8d3f9482)
+- [Chaos Communication Camp 2023 - Call for Participation](https://events.ccc.de/2023/05/09/camp23-call-for-participation/)
 
-- [Merklizing the key/value store for fun and profit](https://joelgustafson.com/posts/2023-05-04/merklizing-the-key-value-store-for-fun-and-profit)
+- [Inpla: Interaction nets as a programming language](https://github.com/inpla/inpla)
 
-- [WebGPU: Rotating Cube](https://john-millikin.com/static/webgpu-rotating-cube.html)
+- [Is sequential IO dead in the era of the NVMe drive?](https://jack-vanlightly.com/blog/2023/5/9/is-sequential-io-dead-in-the-era-of-the-nvme-drive)
 
-- [Hostnames and usernames to reserve (2015)](https://ldpreload.com/blog/names-to-reserve)
+- [Python's Missing Batteries: More Libraries](https://martinheinz.dev/blog/96)
 
-- [A kernel without buffer heads](https://lwn.net/SubscriberLink/930173/c1a1f68dc4e20191/)
+- [Assemblers](https://maskray.me/blog/2023-05-08-assemblers)
 
-- [Farewell to the Era of Cheap EC2 Spot Instances](https://pauley.me/post/2023/spot-price-trends/)
+- [Odin Programming Language](https://odin-lang.org/)
 
-- [HTMX is the Future](https://quii.dev/HTMX_is_the_Future)
+- [Language models can explain neurons in language models](https://openai.com/research/language-models-can-explain-neurons-in-language-models)
 
-- [How unity builds lurked into the Firefox Build System](https://serge-sans-paille.github.io/pythran-stories/how-unity-builds-lurked-into-the-firefox-build-system.html)
+- [Understanding ActivityPub](https://seb.jambor.dev/posts/understanding-activitypub/)
 
-- [Solid is a specification that lets people store their data securely in decentralized data stores](https://solidproject.org/)
+- [Spritely Goblins v0.11.0 released, contains time travel distributed debugger](https://spritely.institute/news/spritely-goblins-v0110-released-time-travel-distributed-debugging-and-more.html)
 
-- [Crystal the language for humans](https://www.deusinmachina.net/p/a-look-at-the-crystal-programming)
+- [Implementing Vale's Region Borrowing, and its Unexpected Quest](https://verdagon.dev/blog/making-regions-part-2-generics)
 
-- [Memoirs from the old web: IE's crazy content rating system](https://www.devever.net/~hl/pics)
+- [Which Go router should I use? (with flowchart)](https://www.alexedwards.net/blog/which-go-router-should-i-use)
 
-- [Classification of the principal programming paradigms](https://www.info.ucl.ac.be/~pvr/paradigms.html)
+- [An Introduction to TLA+ and Its Use in Parties](https://www.innoq.com/en/articles/2023/04/an-introduction-to-tla/)
 
-- [A few words on Ruby's type annotations state](https://zverok.space/blog/2023-05-05-ruby-types.html)
+- [Firefox  113.0](https://www.mozilla.org/en-US/firefox/113.0/releasenotes/)
+
+- [Interrupt Safe Ring Buffer: Bare Metal Programming Series](https://www.youtube.com/watch?v=uIJnATS9j_0)
