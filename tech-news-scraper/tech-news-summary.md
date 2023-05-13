@@ -1,49 +1,47 @@
-- [On Custom-Width Integer Types](https://alic.dev/blog/custom-bitwidth.html)
+- [Understanding Modern Storage APIs: A systematic study of libaio, SPDK, and io_uring](https://atlarge-research.com/pdfs/2022-systor-apis.pdf)
 
-- [Alpine 3.18.0 released](https://alpinelinux.org/posts/Alpine-3.18.0-released.html)
+- [pytz: The Fastest Footgun in the West (2018)](https://blog.ganssle.io/articles/2018/03/pytz-fastest-footgun.html)
 
-- [Story: Redis and its creator antirez](https://blog.brachiosoft.com/redis-en)
+- [8 new top-level domains for dads, grads and techies](https://blog.google/products/registry/8-new-top-level-domains-for-dads-grads-tech/)
 
-- [Why your TCP-based VPN stutters (and how to fix it)](https://blog.carldong.me/2023/05/03/why-do-vpns.html)
+- [Announcing Durin: a New Mobile App for the IPFS Network](https://blog.ipfs.tech/announcing-durin/)
 
-- [How we built Network Analytics v2](https://blog.cloudflare.com/building-network-analytics-v2/)
+- [50 years in filesystems: 1994](https://blog.koehntopp.info/2023/05/12/50-years-in-filesystems-1994.html)
 
-- [Fitting millions of documents in 128 TB of virtual memory](https://blog.meilisearch.com/dynamic-virtual-address-management/)
+- [Testing a new encrypted messaging app's extraordinary claims](https://crnkovic.dev/testing-converso/)
 
-- [The seven specification ur-languages](https://buttondown.email/hillelwayne/archive/the-seven-specification-ur-languages/)
+- [vmtest: Run your tests in virtual machines](https://dxuuu.xyz/vmtest.html)
 
-- [SSH quick and easy login setup](https://cap5.nl/ssh-quick-and-easy-login-setup/)
+- [fq: jq for binary formats - tool, language and decoders for working with binary and text formats](https://github.com/wader/fq)
 
-- [Cover Craft Dust Covers - Disaster Insurance. Protect your hardware from the unexpected](https://computeradsfromthepast.substack.com/p/cover-craft-dust-covers)
+- [Introducing "Implement DNS in a Weekend"](https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/)
 
-- [How to Succeed in Open Source Without Really Trying (Really)](https://dev.to/tigt/how-to-succeed-in-open-source-without-really-trying-really-55pj)
+- [bcachefs - a new COW filesystem](https://lore.kernel.org/lkml/20230509165657.1735798-1-kent.overstreet@linux.dev/T/#mf171fd06ffa420fe1bcf0f49a2b44a361ca6ac44)
 
-- [In Erlang/OTP 27, +0.0 will no longer be exactly equal to -0.0](https://erlangforums.com/t/in-erlang-otp-27-0-0-will-no-longer-be-exactly-equal-to-0-0/2586)
+- [Experimenting with multi-factor encryption](https://notes.volution.ro/v1/2023/05/remarks/e175b2ef/)
 
-- [Chaos Communication Camp 2023 - Call for Participation](https://events.ccc.de/2023/05/09/camp23-call-for-participation/)
+- [Racket version 8.9 is now available](https://racket.discourse.group/t/racket-version-8-9-is-now-available-from-https-download-racket-lang-org/1941)
 
-- [Inpla: Interaction nets as a programming language](https://github.com/inpla/inpla)
+- [The Age of a Software Project](https://registerspill.thorstenball.com/p/the-age-of-a-software-project)
 
-- [Is sequential IO dead in the era of the NVMe drive?](https://jack-vanlightly.com/blog/2023/5/9/is-sequential-io-dead-in-the-era-of-the-nvme-drive)
+- [Building a baseline JIT for Lua automatically](https://sillycross.github.io/2023/05/12/2023-05-12/)
 
-- [Python's Missing Batteries: More Libraries](https://martinheinz.dev/blog/96)
+- [Delimiters won’t save you from prompt injection](https://simonwillison.net/2023/May/11/delimiters-wont-save-you/)
 
-- [Assemblers](https://maskray.me/blog/2023-05-08-assemblers)
+- [A guide to test parametrization in Rust](https://unterwaditzer.net/2023/rust-test-parametrization.html)
 
-- [Odin Programming Language](https://odin-lang.org/)
+- [The Surprisingly Elegant Javascript Type Model  (2012)](https://web.archive.org/web/20140205182624/http://vijayan.ca/blog/2012/02/21/javascript-type-model)
 
-- [Language models can explain neurons in language models](https://openai.com/research/language-models-can-explain-neurons-in-language-models)
+- [Iterator, Generator](https://without.boats/blog/iterator-generator/)
 
-- [Understanding ActivityPub](https://seb.jambor.dev/posts/understanding-activitypub/)
+- [How I made Tracy 30× faster](https://wolf.nereid.pl/posts/how-tracy-faster/)
 
-- [Spritely Goblins v0.11.0 released, contains time travel distributed debugger](https://spritely.institute/news/spritely-goblins-v0110-released-time-travel-distributed-debugging-and-more.html)
+- [Ruby 3.3.0-preview1 Released](https://www.ruby-lang.org/en/news/2023/05/12/ruby-3-3-0-preview1-released/)
 
-- [Implementing Vale's Region Borrowing, and its Unexpected Quest](https://verdagon.dev/blog/making-regions-part-2-generics)
+- [First Rust Code Shows Up in the Windows 11 Kernel](https://www.thurrott.com/windows/windows-11/282995/first-rust-code-shows-up-in-the-windows-11-kernel)
 
-- [Which Go router should I use? (with flowchart)](https://www.alexedwards.net/blog/which-go-router-should-i-use)
+- [Real-life fractal zoom](https://www.youtube.com/watch?v=S1kpqOqSttA)
 
-- [An Introduction to TLA+ and Its Use in Parties](https://www.innoq.com/en/articles/2023/04/an-introduction-to-tla/)
+- [Yaksha Programming Language](https://yakshalang.github.io/)
 
-- [Firefox  113.0](https://www.mozilla.org/en-US/firefox/113.0/releasenotes/)
-
-- [Interrupt Safe Ring Buffer: Bare Metal Programming Series](https://www.youtube.com/watch?v=uIJnATS9j_0)
+- [Thea Flowers doesn't use package managers](https://youtu.be/TISCCy4H4PI)
