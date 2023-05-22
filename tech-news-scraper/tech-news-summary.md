@@ -1,49 +1,49 @@
-- [SIGBOVIK 0x2023](http://sigbovik.org/2023/proceedings.pdf)
+- [Nibbling Around the Sound Blaster's Lunch - Digital Sound in DOS Games without a Sound Blaster](http://nerdlypleasures.blogspot.com/2023/05/nibbling-around-sound-blasters-lunch.html)
 
-- [An Introduction to Bε -trees and Write-Optimization](http://supertech.csail.mit.edu/papers/BenderFaJa15.pdf)
+- [ПП-BESM - a Soviet PL](http://xav.io/posts/besm/)
 
-- [Expand Contract for Databases and Services](https://andydote.co.uk/2023/05/18/expand-contract/)
+- [Experimenting with graph databases with Memgraph and Elixir](https://0x7f.dev/post/elixir_memgraph/)
 
-- [TinyStories: How Small Can Language Models Be and Still Speak Coherent English?](https://arxiv.org/abs/2305.07759)
+- [axle OS](https://axleos.com/)
 
-- [Organize Business Logic in Your Ruby on Rails Application](https://blog.appsignal.com/2023/05/10/organize-business-logic-in-your-ruby-on-rails-application.html)
+- [Go networking framework using io_uring](https://betterprogramming.pub/an-introduction-to-gain-part-1-writing-high-performance-tcp-application-df5f7253e54a)
 
-- [Taking Rust to the Cloud: Blazingly Fast File Sharing](https://blog.orhun.dev/blazingly-fast-file-sharing/)
+- [Build a web server with Rust and tokio](https://blog.sylver.dev/build-a-web-server-with-rust-and-tokio-part-0-a-simple-get-handler)
 
-- [PROCOMM PLUS for Windows - One World. One Communications Software](https://computeradsfromthepast.substack.com/p/procomm-plus-for-windows)
+- [PGP signatures on PyPI: worse than useless](https://blog.yossarian.net/2023/05/21/PGP-signatures-on-PyPI-worse-than-useless)
 
-- [People want products, not projects](https://friendshipcastle.zip/blog/product-vs-project)
+- [My Robotic Mower Woes](https://bt.ht/luba/)
 
-- [LMDB - the first version of Redis written in Tcl](https://gist.github.com/antirez/6ca04dd191bdb82aad9fb241013e88a8)
+- [Mojo: The Future of AI Programming](https://codeconfessions.substack.com/p/mojo-the-future-of-ai-programming)
 
-- [Deco: Delimiter Collision Free Format](https://github.com/Enhex/Deco)
+- [Building a Signal Analyzer with Modern Web Tech](https://cprimozic.net/blog/building-a-signal-analyzer-with-modern-web-tech/)
 
-- [Wyvern: A Language for Usable Design Driven Assurance (2017)](https://github.com/wyvernlang/wyvern/wiki/Wyvern:-A-Language-for-Usable-Design-Driven-Assurance/6b99464b4609dfba2d81157da175bf30b71e925f)
+- [Honing Your Craft](https://davi.sh/blog/2023/05/craft/)
 
-- [Pixar technical library](https://graphics.pixar.com/library/)
+- [Beyond Relooper: recursive translation of unstructured control flow to structured control flow](https://dl.acm.org/doi/10.1145/3547621)
 
-- [Making a Multi-User ChatGPT as an April Fools Joke](https://izzy.sh/blog/00002-lunai-beginnings/)
+- [Dolphin Progress Report: February, March, and April 2023](https://dolphin-emu.org/blog/2023/05/21/dolphin-progress-report-february-march-april-2023/)
 
-- [Teaching ChatGPT the Art of Lottie Animations](https://medium.com/@animishmish/teaching-chatgpt-to-create-lottie-animations-5cba189b1227)
+- [Trogon – An automatic TUI for command-line apps](https://github.com/Textualize/trogon)
 
-- [The Dangers of Google’s .zip TLD](https://medium.com/@bobbyrsec/the-dangers-of-googles-zip-tld-5e1e675e59a5)
+- [egos-2000: A minimal (2K LOC) operating system](https://github.com/yhzhang0128/egos-2000)
 
-- ["Where have all the hackers gone?" + a way to discuss programming languages](https://morepablo.com/2023/05/where-have-all-the-hackers-gone.html)
+- [Writing Python like it’s Rust](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html)
 
-- [The Simple Joys of Scaling Up](https://motherduck.com/blog/the-simple-joys-of-scaling-up/)
+- [Using a Golang package in Python using Gopy](https://last9.io/blog/using-golang-package-in-python-using-gopy/)
 
-- [Nickel language](https://nickel-lang.org/)
+- [Resilient LL Parsing Tutorial](https://matklad.github.io/2023/05/21/resilient-ll-parsing-tutorial.html)
 
-- [Security implications of HTTP response headers](https://snyk.io/blog/security-implications-of-http-response-headers/)
+- [What Makes Rust/C++ Compilation Slow?](https://mojodojo.dev/mojo_team_answers.html#what-makes-rust-c-compilation-slow)
 
-- [Optimizing Mastodon Performance with Sidekiq and Redis Enterprise](https://thenewstack.io/optimizing-mastodon-performance-with-sidekiq-and-redis-enterprise/)
+- [Toaster: 3D Editor that models in pure HTML and CSS](https://petertyliu.github.io/toaster/)
 
-- [Radxa Rock-5B PCIe and RTL8125B networking in U-boot](https://www.collabora.com/news-and-blog/blog/2023/05/18/radxa-rock-5b-pcie-rtl8125b-networking-uboot/)
+- [Swapping the Engine out of a Moving Race Car](https://signalsandthreads.com/swapping-the-engine-out-of-a-moving-race-car/)
 
-- [How Are Nullables Different From Mocks?](https://www.jamesshore.com/v2/projects/nullables/how-are-nullables-different-from-mocks)
+- [Detect Solar Flares and Gamma-Ray Bursts for Less Than $100](https://spectrum.ieee.org/detect-solar-flares-and-gamma-ray-bursts-for-less-than-100)
 
-- [Read Every Single Error](https://www.pulumi.com/blog/reducing-our-error-rate/)
+- [Some notes on the cost of Go finalizers](https://utcc.utoronto.ca/~cks/space/blog/programming/GoFinalizerCostsNotes)
 
-- [RFC 6920: Naming Things with Hashes (2013)](https://www.rfc-editor.org/rfc/rfc6920.html)
+- [Approaching CPS soup](https://wingolog.org/archives/2023/05/20/approaching-cps-soup)
 
-- [HDR and color management in KWin](https://zamundaaa.github.io/wayland/2023/05/18/hdr-and-color-management-in-kwin)
+- [Hash Functions for GPU Rendering](https://www.shadertoy.com/view/XlGcRh)
