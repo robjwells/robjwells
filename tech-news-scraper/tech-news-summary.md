@@ -1,49 +1,49 @@
-- [Nibbling Around the Sound Blaster's Lunch - Digital Sound in DOS Games without a Sound Blaster](http://nerdlypleasures.blogspot.com/2023/05/nibbling-around-sound-blasters-lunch.html)
+- [How to include Git version information in Go](https://blog.carlmjohnson.net/post/2023/golang-git-hash-how-to/)
 
-- [ПП-BESM - a Soviet PL](http://xav.io/posts/besm/)
+- [Why doesn’t CSS have single line comments?](https://blog.jim-nielsen.com/2023/single-line-comments-in-css/)
 
-- [Experimenting with graph databases with Memgraph and Elixir](https://0x7f.dev/post/elixir_memgraph/)
+- [PyPI was subpoenaed](https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/)
 
-- [axle OS](https://axleos.com/)
+- [Infecting SSH Public Keys with backdoors](https://blog.thc.org/infecting-ssh-public-keys-with-backdoors)
 
-- [Go networking framework using io_uring](https://betterprogramming.pub/an-introduction-to-gain-part-1-writing-high-performance-tcp-application-df5f7253e54a)
+- [There's still no silver bullet](https://changelog.com/posts/still-no-silver-bullet)
 
-- [Build a web server with Rust and tokio](https://blog.sylver.dev/build-a-web-server-with-rust-and-tokio-part-0-a-simple-get-handler)
+- [God-mode for Emacs](https://chrisdone.com/posts/god-mode/)
 
-- [PGP signatures on PyPI: worse than useless](https://blog.yossarian.net/2023/05/21/PGP-signatures-on-PyPI-worse-than-useless)
+- [Half&Half: Demystifying Intel’s Directional Branch Predictors for Fast, Secure Partitioned Execution](https://cseweb.ucsd.edu/~tullsen/halfandhalf.pdf)
 
-- [My Robotic Mower Woes](https://bt.ht/luba/)
+- [Introducing the popover API](https://developer.chrome.com/blog/introducing-popover-api/)
 
-- [Mojo: The Future of AI Programming](https://codeconfessions.substack.com/p/mojo-the-future-of-ai-programming)
+- [RFC: Enforcing Bounds Safety in C (-fbounds-safety)](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854)
 
-- [Building a Signal Analyzer with Modern Web Tech](https://cprimozic.net/blog/building-a-signal-analyzer-with-modern-web-tech/)
+- [Sudo and signal propagation](https://dxuuu.xyz/sudo.html)
 
-- [Honing Your Craft](https://davi.sh/blog/2023/05/craft/)
+- [Fish Folk – Tactical 2D shooter made with Rust-lang and Bevy](https://github.com/fishfolk/jumpy)
 
-- [Beyond Relooper: recursive translation of unstructured control flow to structured control flow](https://dl.acm.org/doi/10.1145/3547621)
+- [``Rewrite it in Rust'' Considered Harmful?](https://goto.ucsd.edu/~rjhala/hotos-ffi.pdf)
 
-- [Dolphin Progress Report: February, March, and April 2023](https://dolphin-emu.org/blog/2023/05/21/dolphin-progress-report-february-march-april-2023/)
+- [Scryer Prolog Meetup 2023](https://hsd-pbsa.de/veranstaltung/scryer-prolog-meetup-2023/)
 
-- [Trogon – An automatic TUI for command-line apps](https://github.com/Textualize/trogon)
+- [Breaking SHA256: length extension attacks in practice (with Go)](https://kerkour.com/sha256-length-extension-attacks)
 
-- [egos-2000: A minimal (2K LOC) operating system](https://github.com/yhzhang0128/egos-2000)
+- [Line Rendering Deep Overview](https://panthavma.com/articles/lines/deep-overview-extraction/)
 
-- [Writing Python like it’s Rust](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html)
+- [A new direction for Pijul's hosting service](https://pijul.org/posts/2023-05-23-nest-a-new-hope/)
 
-- [Using a Golang package in Python using Gopy](https://last9.io/blog/using-golang-package-in-python-using-gopy/)
+- [Choosing a good file format for Pandas](https://pythonspeed.com/articles/best-file-format-for-pandas/)
 
-- [Resilient LL Parsing Tutorial](https://matklad.github.io/2023/05/21/resilient-ll-parsing-tutorial.html)
+- [A Trick for Reflection in C++](https://sillycross.github.io/2021/08/23/2021-08-23/)
 
-- [What Makes Rust/C++ Compilation Slow?](https://mojodojo.dev/mojo_team_answers.html#what-makes-rust-c-compilation-slow)
+- [Optimise the Expensive First](https://two-wrongs.com/optimise-the-expensive-first.html)
 
-- [Toaster: 3D Editor that models in pure HTML and CSS](https://petertyliu.github.io/toaster/)
+- [The State Of Garnet, 2023](https://wiki.alopex.li/TheStateOfGarnet2023)
 
-- [Swapping the Engine out of a Moving Race Car](https://signalsandthreads.com/swapping-the-engine-out-of-a-moving-race-car/)
+- [Introducing Cellulose - a tool to improve inference performance of ML models](https://www.cellulose.ai)
 
-- [Detect Solar Flares and Gamma-Ray Bursts for Less Than $100](https://spectrum.ieee.org/detect-solar-flares-and-gamma-ray-bursts-for-less-than-100)
+- [fart-init small provisioning script for openbsd cloud infrastructure](https://x61.sh/log/2023/05/23052023153621-fart-init.html)
 
-- [Some notes on the cost of Go finalizers](https://utcc.utoronto.ca/~cks/space/blog/programming/GoFinalizerCostsNotes)
+- [xorvoid](https://xorvoid.com/sectorc.html)
 
-- [Approaching CPS soup](https://wingolog.org/archives/2023/05/20/approaching-cps-soup)
+- [You don't need a modal window](https://youdontneedamodalwindow.dev/)
 
-- [Hash Functions for GPU Rendering](https://www.shadertoy.com/view/XlGcRh)
+- [The Fastest Maze-Solving Competition On Earth](https://youtu.be/ZMQbHMgK2rw)
