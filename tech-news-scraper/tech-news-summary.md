@@ -1,49 +1,45 @@
-- [How to include Git version information in Go](https://blog.carlmjohnson.net/post/2023/golang-git-hash-how-to/)
+- [What's up in the Python community? - May 2023](http://bitecode.substack.com/p/whats-up-in-the-python-community-790)
 
-- [Why doesn’t CSS have single line comments?](https://blog.jim-nielsen.com/2023/single-line-comments-in-css/)
+- [Finding The Best Go Project Structure - Part 1](https://avivcarmi.com//finding-the-best-go-project-structure-part-1/)
 
-- [PyPI was subpoenaed](https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/)
+- [Oxidizing OCaml: Locality](https://blog.janestreet.com/oxidizing-ocaml-locality/)
 
-- [Infecting SSH Public Keys with backdoors](https://blog.thc.org/infecting-ssh-public-keys-with-backdoors)
+- [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html)
 
-- [There's still no silver bullet](https://changelog.com/posts/still-no-silver-bullet)
+- [Why does the farmer emoji have a length of 7 in JavaScript?](https://evanhahn.com/javascript-string-lengths/)
 
-- [God-mode for Emacs](https://chrisdone.com/posts/god-mode/)
+- [HTTP Status Codes with Haikus for messages](https://github.com/3digitdev/Haiku-TTP-Codes)
 
-- [Half&Half: Demystifying Intel’s Directional Branch Predictors for Fast, Secure Partitioned Execution](https://cseweb.ucsd.edu/~tullsen/halfandhalf.pdf)
+- [KryptEY: Android keyboard for E2EE communication through the signal protocol in any messenger](https://github.com/amnesica/KryptEY)
 
-- [Introducing the popover API](https://developer.chrome.com/blog/introducing-popover-api/)
+- [Writing shell scripts in Nushell](https://jpospisil.com/2023/05/25/writing-shell-scripts-in-nushell)
 
-- [RFC: Enforcing Bounds Safety in C (-fbounds-safety)](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854)
+- [CoreOS as a pet](https://major.io/p/coreos-as-pet/)
 
-- [Sudo and signal propagation](https://dxuuu.xyz/sudo.html)
+- [A story about one refactoring of the parser grammar in IntelliJ-AWK](https://maximullaris.com/intellij-awk_grammar_refactoring.html)
 
-- [Fish Folk – Tactical 2D shooter made with Rust-lang and Bevy](https://github.com/fishfolk/jumpy)
+- [Emulating an obscure platform: Gemei A330](https://minexew.github.io/2023/05/24/ga330emu.html)
 
-- [``Rewrite it in Rust'' Considered Harmful?](https://goto.ucsd.edu/~rjhala/hotos-ffi.pdf)
+- [Writing to the macOS clipboard the hard way](https://nathancraddock.com/blog/2023/writing-to-the-clipboard-the-hard-way/)
 
-- [Scryer Prolog Meetup 2023](https://hsd-pbsa.de/veranstaltung/scryer-prolog-meetup-2023/)
+- [Makefile tricks for Python projects](https://ricardoanderegg.com/posts/makefile-python-project-tricks/)
 
-- [Breaking SHA256: length extension attacks in practice (with Go)](https://kerkour.com/sha256-length-extension-attacks)
+- [Lawyer cites fake cases invented by ChatGPT, judge is not amused](https://simonwillison.net/2023/May/27/lawyer-chatgpt/)
 
-- [Line Rendering Deep Overview](https://panthavma.com/articles/lines/deep-overview-extraction/)
+- [The poisoning of ChatGPT](https://softwarecrisis.dev/letters/the-poisoning-of-chatgpt/)
 
-- [A new direction for Pijul's hosting service](https://pijul.org/posts/2023-05-23-nest-a-new-hope/)
+- [Devil Mode Manual](https://susam.github.io/devil/)
 
-- [Choosing a good file format for Pandas](https://pythonspeed.com/articles/best-file-format-for-pandas/)
+- [Avoid Putting Logic in Map Blocks](https://thoughtbot.com/blog/avoid-putting-logic-in-map-blocks)
 
-- [A Trick for Reflection in C++](https://sillycross.github.io/2021/08/23/2021-08-23/)
+- [Linear feeds are a dark pattern](https://tilde.town/~dzwdz/blog/feeds.html)
 
-- [Optimise the Expensive First](https://two-wrongs.com/optimise-the-expensive-first.html)
+- [Fontemon: Video Game in a Font](https://www.coderelay.io/fontemon.html)
 
-- [The State Of Garnet, 2023](https://wiki.alopex.li/TheStateOfGarnet2023)
+- [13 Sheep](https://www.neeldhara.com/blog/13sheep/)
 
-- [Introducing Cellulose - a tool to improve inference performance of ML models](https://www.cellulose.ai)
+- [Building a Personal VoIP System](https://www.sacredheartsc.com/blog/building-a-personal-voip-system/)
 
-- [fart-init small provisioning script for openbsd cloud infrastructure](https://x61.sh/log/2023/05/23052023153621-fart-init.html)
+- [The Fastest Maze-Solving Competition On Earth](https://www.youtube.com/watch?v=ZMQbHMgK2rw)
 
-- [xorvoid](https://xorvoid.com/sectorc.html)
-
-- [You don't need a modal window](https://youdontneedamodalwindow.dev/)
-
-- [The Fastest Maze-Solving Competition On Earth](https://youtu.be/ZMQbHMgK2rw)
+- [Pamela Fox won't quit vi](https://youtu.be/XL4XTr23b8U)
