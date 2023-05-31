@@ -1,45 +1,49 @@
-- [What's up in the Python community? - May 2023](http://bitecode.substack.com/p/whats-up-in-the-python-community-790)
+- [WASM-4 Fantasy Console](http://wasm4.org)
 
-- [Finding The Best Go Project Structure - Part 1](https://avivcarmi.com//finding-the-best-go-project-structure-part-1/)
+- [How to Add Security Headers Using Cloudflare](https://algustionesa.com/security-headers/)
 
-- [Oxidizing OCaml: Locality](https://blog.janestreet.com/oxidizing-ocaml-locality/)
+- [My first superoptimizer](https://austinhenley.com/blog/superoptimizer.html)
 
-- [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html)
+- [Ratatui: Build rich terminal user interfaces using Rust](https://blog.orhun.dev/ratatui-0-21-0/)
 
-- [Why does the farmer emoji have a length of 7 in JavaScript?](https://evanhahn.com/javascript-string-lengths/)
+- [35 Million Hot Dogs: Benchmarking Caddy vs. Nginx (2022)](https://blog.tjll.net/reverse-proxy-hot-dog-eating-contest-caddy-vs-nginx/)
 
-- [HTTP Status Codes with Haikus for messages](https://github.com/3digitdev/Haiku-TTP-Codes)
+- [CrabLang:  A community fork of a language named after a plant fungus](https://crablang.org/)
 
-- [KryptEY: Android keyboard for E2EE communication through the signal protocol in any messenger](https://github.com/amnesica/KryptEY)
+- [A chiral aperiodic monotile](https://cs.uwaterloo.ca/~csk/spectre/)
 
-- [Writing shell scripts in Nushell](https://jpospisil.com/2023/05/25/writing-shell-scripts-in-nushell)
+- [We've learned nothing from the SolarWinds hack](https://cyrnel.net/solarwinds-hack-lessons-learned/)
 
-- [CoreOS as a pet](https://major.io/p/coreos-as-pet/)
+- [I think I finally “get” JS objects](https://dev.to/tigt/i-think-i-finally-get-js-objects-o6f)
 
-- [A story about one refactoring of the parser grammar in IntelliJ-AWK](https://maximullaris.com/intellij-awk_grammar_refactoring.html)
+- [Kernel string overcopying](https://dxuuu.xyz/string-overcopy.html)
 
-- [Emulating an obscure platform: Gemei A330](https://minexew.github.io/2023/05/24/ga330emu.html)
+- [Memory Disks](https://euroquis.nl//freebsd/2023/05/30/memory.html)
 
-- [Writing to the macOS clipboard the hard way](https://nathancraddock.com/blog/2023/writing-to-the-clipboard-the-hard-way/)
+- [Makefile basics](https://gist.github.com/isaacs/62a2d1825d04437c6f08)
 
-- [Makefile tricks for Python projects](https://ricardoanderegg.com/posts/makefile-python-project-tricks/)
+- [systemshock: Shockolate - A minimalist and cross platform System Shock source port](https://github.com/Interrupt/systemshock)
 
-- [Lawyer cites fake cases invented by ChatGPT, judge is not amused](https://simonwillison.net/2023/May/27/lawyer-chatgpt/)
+- [WebAssembly System Interface (WASI) with sockets for Go](https://github.com/stealthrocket/wasi-go)
 
-- [The poisoning of ChatGPT](https://softwarecrisis.dev/letters/the-poisoning-of-chatgpt/)
+- [The Gateway Pattern](https://mattbrictson.com/blog/gateway-pattern)
 
-- [Devil Mode Manual](https://susam.github.io/devil/)
+- [SHA-3 Buffer Overflow (Part 2)](https://mouha.be/sha-3-buffer-overflow-part-2/)
 
-- [Avoid Putting Logic in Map Blocks](https://thoughtbot.com/blog/avoid-putting-logic-in-map-blocks)
+- [Turds](https://novalis.org/blog/2023-05-30-turds.html)
 
-- [Linear feeds are a dark pattern](https://tilde.town/~dzwdz/blog/feeds.html)
+- [Email addresses are not primary user identities](https://ntietz.com/blog/email-address-not-identifier/)
 
-- [Fontemon: Video Game in a Font](https://www.coderelay.io/fontemon.html)
+- [The Python Language Summit 2023: What is the Standard Library for?](https://pyfound.blogspot.com/2023/05/the-python-language-summit-2023-what-is.html)
 
-- [13 Sheep](https://www.neeldhara.com/blog/13sheep/)
+- [Directly compiling Scheme to WebAssembly: lambdas, recursion, iteration](https://spritely.institute/news/scheme-to-wasm-lambdas-recursion.html)
 
-- [Building a Personal VoIP System](https://www.sacredheartsc.com/blog/building-a-personal-voip-system/)
+- [Using UPX for compression might work against you](https://usrme.xyz/posts/using-upx-for-compression-might-work-against-you/)
 
-- [The Fastest Maze-Solving Competition On Earth](https://www.youtube.com/watch?v=ZMQbHMgK2rw)
+- [WASIX, the Superset of WASI Supporting Threads, Processes and Sockets](https://wasmer.io/posts/announcing-wasix)
 
-- [Pamela Fox won't quit vi](https://youtu.be/XL4XTr23b8U)
+- [Understanding Phase Changes in Machine Learning](https://www.alignmentforum.org/posts/N6WM6hs7RQMKDhYjB/a-mechanistic-interpretability-analysis-of-grokking)
+
+- [SVG Images from Postgres](https://www.crunchydata.com/blog/svg-images-from-postgis)
+
+- [Modern CPUs have a backstage cast](https://www.devever.net/~hl/backstage-cast)
