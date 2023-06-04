@@ -1,47 +1,45 @@
-- [I think Zig is hard...but worth it](http://ratfactor.com/zig/hard)
+- [RCE via LDAP truncation on hg.mozilla.org](https://0day.click/recipe/pash/)
 
-- [Transformer Math 101](https://blog.eleuther.ai/transformer-math/)
+- [Implementing Co, a Small Language With Coroutines #4: Adding Channels](https://abhinavsarkar.net/posts/implementing-co-4/)
 
-- [Process Engineering at a Furry Convention](https://cendyne.dev/posts/2023-04-16-process-engineering-at-a-furry-convention.html)
+- [Why and how to hide the Python stack trace](https://bitecode.substack.com/p/why-and-how-to-hide-the-python-stack)
 
-- [A chiral aperiodic monotile](https://cs.uwaterloo.ca/~csk/spectre/)
+- [NixOS for the Impatient](https://borretti.me/article/nixos-for-the-impatient)
 
-- [We've learned nothing from the SolarWinds hack](https://cyrnel.net/solarwinds-hack-lessons-learned/)
+- [Git is simply too hard](https://changelog.com/posts/git-is-simply-too-hard)
 
-- [Makefile basics](https://gist.github.com/isaacs/62a2d1825d04437c6f08)
+- [The NixOS Foundation's Call to Action: S3 Costs Require Community Support](https://discourse.nixos.org/t/the-nixos-foundations-call-to-action-s3-costs-require-community-support/28672)
 
-- [ko: Easy Go Containers](https://ko.build/)
+- [Plugins case study: Envoy WASM extensions](https://eli.thegreenplace.net/2023/plugins-case-study-envoy-wasm-extensions/)
 
-- [Hacking my “smart” toothbrush](https://kuenzi.dev/toothbrush/)
+- [All Python versions, kept up-to-date on hourly basis using Nix](https://github.com/cachix/nixpkgs-python)
 
-- [Dev Home for Windows Developers](https://learn.microsoft.com/en-us/windows/dev-home/)
+- [rsh - Ruby SHell (a shell written in pure Ruby)](https://github.com/isene/rsh)
 
-- [How s2n-quic uses Kani to inspire confidence](https://model-checking.github.io/kani-verifier-blog/2023/05/30/how-s2n-quic-uses-kani-to-inspire-confidence.html)
+- [Nice looking GUI for Common Lisp: nodgui now comes with a surprisingly nice looking theme](https://lisp-journey.gitlab.io/blog/nodgui-now-has-a-nice-looking-theme-by-default/)
 
-- [Against generality (2016)](https://novalis.org/blog/2016-09-27-against-generality.html)
+- [Important change for the .ga TLD 6th june 2023](https://lists.dns-oarc.net/pipermail/dns-operations/2023-June/022045.html)
 
-- [Turds](https://novalis.org/blog/2023-05-30-turds.html)
+- [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects)
 
-- [Inside ChatGPT's Brain](https://serokell.io/blog/language-models-behind-chatgpt)
+- [PEP 695 – Type Parameter Syntax](https://peps.python.org/pep-0695/)
 
-- [Introducing Iguana: extremely fast SIMD-optimized decompression](https://sneller.io/blog/decompressing-at-over-10-gigabytes-per-second/)
+- [Peeking under the hood of GCC's `__builtin_expect`](https://tbrindus.ca/how-builtin-expect-works/)
 
-- [Does a programming language with ML-style modules need packages?](https://softwareengineering.stackexchange.com/q/445747/398052)
+- [The Expressivity Limitations of Object-Oriented Programming](https://two-wrongs.com/expressive-limitations-of-oop)
 
-- [Directly compiling Scheme to WebAssembly: lambdas, recursion, iteration](https://spritely.institute/news/scheme-to-wasm-lambdas-recursion.html)
+- [Typst: Compose papers faster](https://typst.app/)
 
-- [Using UPX for compression might work against you](https://usrme.xyz/posts/using-upx-for-compression-might-work-against-you/)
+- [GNU Grep versus the (Linux) open source ecology](https://utcc.utoronto.ca/~cks/space/blog/linux/GNUGrepVersusEcology)
 
-- [WASIX, the Superset of WASI Supporting Threads, Processes and Sockets](https://wasmer.io/posts/announcing-wasix)
+- [Using Fossil](https://wholesomedonut.prose.sh/using-fossil-not-git)
 
-- [Spleen 2.0.0 released with full CP437 support](https://www.cambus.net/spleen-2.0.0-released-with-full-cp437-support/)
+- [This Site is no longer Solar Powered... For Now](https://www.andrewjvpowell.com/articles/this-site-is-no-longer-solar-powered-for-now/)
 
-- [Modern CPUs have a backstage cast](https://www.devever.net/~hl/backstage-cast)
+- [I Hacked Magic the Gathering: Arena for a 100% Winrate](https://www.mayer.cool/writings/I-Hacked-Magic-the-Gathering/)
 
-- [How's about Git?](https://www.flipt.io/blog/gitops-announcement)
+- [New macOS vulnerability, Migraine, could bypass System Integrity Protection](https://www.microsoft.com/en-us/security/blog/2023/05/30/new-macos-vulnerability-migraine-could-bypass-system-integrity-protection/)
 
-- [How Lossless Data Compression Works](https://www.quantamagazine.org/how-lossless-data-compression-works-20230531/)
+- [From Stacks to Trees: A new aliasing model for Rust](https://www.ralfj.de/blog/2023/06/02/tree-borrows.html)
 
-- [Nezha: Deployable and High-Performance Consensus Using Synchronized Clocks](https://www.vldb.org/pvldb/vol16/p629-geng.pdf)
-
-- [Testing the Packet Protocol: Bare Metal Programming Series](https://youtu.be/rG1Faau2QuM)
+- [Sean Taylor's notebooks are a mess](https://youtu.be/02rkpTou3fs)
