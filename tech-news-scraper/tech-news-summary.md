@@ -1,45 +1,49 @@
-- [RCE via LDAP truncation on hg.mozilla.org](https://0day.click/recipe/pash/)
+- [Tech debt metaphor maximalism](https://apenwarr.ca/log/20230605)
 
-- [Implementing Co, a Small Language With Coroutines #4: Adding Channels](https://abhinavsarkar.net/posts/implementing-co-4/)
+- [OpenGL 3.1 on Asahi Linux](https://asahilinux.org/2023/06/opengl-3-1-on-asahi-linux/)
 
-- [Why and how to hide the Python stack trace](https://bitecode.substack.com/p/why-and-how-to-hide-the-python-stack)
+- [Three-way handshake bypassing Little Snitch](https://blog.obdev.at/three-way-handshake-bypassing-little-snitch/)
 
-- [NixOS for the Impatient](https://borretti.me/article/nixos-for-the-impatient)
+- [Hacking window titles to help OBS](https://blog.pkh.me/p/40-hacking-window-titles-to-help-obs.html)
 
-- [Git is simply too hard](https://changelog.com/posts/git-is-simply-too-hard)
+- [Why Lisp Syntax Works](https://borretti.me/article/why-lisp-syntax-works)
 
-- [The NixOS Foundation's Call to Action: S3 Costs Require Community Support](https://discourse.nixos.org/t/the-nixos-foundations-call-to-action-s3-costs-require-community-support/28672)
+- [Running VSCode in Chromium on OpenBSD](https://bt.ht/vscode/)
 
-- [Plugins case study: Envoy WASM extensions](https://eli.thegreenplace.net/2023/plugins-case-study-envoy-wasm-extensions/)
+- [Limited Success Generating a Binary Search](https://cacm.acm.org/blogs/blog-cacm/273577-ai-does-not-help-programmers/fulltext)
 
-- [All Python versions, kept up-to-date on hourly basis using Nix](https://github.com/cachix/nixpkgs-python)
+- [Easy question – hard answer, how to I convert a hex string to hex byte string in C?](https://colinpaice.blog/2023/06/06/easy-question-hard-answer-how-to-i-convert-a-hex-string-to-hex-byte-string-in-c/)
 
-- [rsh - Ruby SHell (a shell written in pure Ruby)](https://github.com/isene/rsh)
+- [OCaml Programming: Correct + Efficient + Beautiful [a textbook]](https://cs3110.github.io/textbook/cover.html)
 
-- [Nice looking GUI for Common Lisp: nodgui now comes with a surprisingly nice looking theme](https://lisp-journey.gitlab.io/blog/nodgui-now-has-a-nice-looking-theme-by-default/)
+- [SRE in the Real World: for Xooglers](https://docs.google.com/document/d/1HB9CUfavNbeP1cU8QPl9kjYuiME2_90P5DDRjqxYyIo/edit#heading=h.j54phqvh6ubj)
 
-- [Important change for the .ga TLD 6th june 2023](https://lists.dns-oarc.net/pipermail/dns-operations/2023-June/022045.html)
+- [Compromising Honda’s power equipment / marine / lawn & garden dealer eCommerce platform through a vulnerable password reset API](https://eaton-works.com/2023/06/06/honda-ecommerce-hack/)
 
-- [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects)
+- [Developing Nix Libraries with Subflakes](https://figsoda.github.io/posts/2023/developing-nix-libraries-with-subflakes/)
 
-- [PEP 695 – Type Parameter Syntax](https://peps.python.org/pep-0695/)
+- [The Rust I Wanted Had No Future](https://graydon2.dreamwidth.org/307291.html)
 
-- [Peeking under the hood of GCC's `__builtin_expect`](https://tbrindus.ca/how-builtin-expect-works/)
+- [That Handheld 386SX Gets A Teardown](https://hackaday.com/2023/06/06/that-handheld-386sx-gets-a-teardown/)
 
-- [The Expressivity Limitations of Object-Oriented Programming](https://two-wrongs.com/expressive-limitations-of-oop)
+- [Teaching and Learning Compilers Incrementally](https://iucompilercourse.github.io/tutorial-web-page/)
 
-- [Typst: Compose papers faster](https://typst.app/)
+- [i will never participate in weird internet caste systems](https://j3s.sh/thought/i-will-never-participate-in-weird-internet-caste-systems.html)
 
-- [GNU Grep versus the (Linux) open source ecology](https://utcc.utoronto.ca/~cks/space/blog/linux/GNUGrepVersusEcology)
+- [Rust Binary Analysis, Feature by Feature](https://research.checkpoint.com/2023/rust-binary-analysis-feature-by-feature/)
 
-- [Using Fossil](https://wholesomedonut.prose.sh/using-fossil-not-git)
+- [OpenGL 3.1 on Asahi Linux](https://rosenzweig.io/blog/opengl3-on-asahi-linux.html)
 
-- [This Site is no longer Solar Powered... For Now](https://www.andrewjvpowell.com/articles/this-site-is-no-longer-solar-powered-for-now/)
+- [Modern Image Processing Algorithms Implementation in C](https://sod.pixlab.io/articles/modern-image-processing-algorithms-implementation.html)
 
-- [I Hacked Magic the Gathering: Arena for a 100% Winrate](https://www.mayer.cool/writings/I-Hacked-Magic-the-Gathering/)
+- [Debugging AWS CloudFront issues live with SSH](https://vlad.git.ht/1bc082adfb910fb622ed6fe8d40ea654)
 
-- [New macOS vulnerability, Migraine, could bypass System Integrity Protection](https://www.microsoft.com/en-us/security/blog/2023/05/30/new-macos-vulnerability-migraine-could-bypass-system-integrity-protection/)
+- [WebKit Features in Safari 17 beta](https://webkit.org/blog/14205/news-from-wwdc23-webkit-features-in-safari-17-beta/)
 
-- [From Stacks to Trees: A new aliasing model for Rust](https://www.ralfj.de/blog/2023/06/02/tree-borrows.html)
+- [WWDC 2023](https://www.apple.com/apple-events/)
 
-- [Sean Taylor's notebooks are a mess](https://youtu.be/02rkpTou3fs)
+- [The C Standard Library Function isspace() Depends on Locale](https://www.evanjones.ca/isspace_locale.html)
+
+- [Criminalization of encryption : the 8 december case](https://www.laquadrature.net/en/2023/06/05/criminalization-of-encryption-the-8-december-case/)
+
+- [Lynn Conway and The Chip Design Revolution](https://www.sparkfun.com/news/7203)
