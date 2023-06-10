@@ -1,49 +1,45 @@
-- [Tech debt metaphor maximalism](https://apenwarr.ca/log/20230605)
+- [The Austral Programming Language](https://austral-lang.org/)
 
-- [OpenGL 3.1 on Asahi Linux](https://asahilinux.org/2023/06/opengl-3-1-on-asahi-linux/)
+- [Developers are lazy, thus Flatpak](https://blog.brixit.nl/developers-are-lazy-thus-flatpak/)
 
-- [Three-way handshake bypassing Little Snitch](https://blog.obdev.at/three-way-handshake-bypassing-little-snitch/)
+- [Turbo Boost](https://blog.cr.yp.to/20230609-turboboost.html)
 
-- [Hacking window titles to help OBS](https://blog.pkh.me/p/40-hacking-window-titles-to-help-obs.html)
+- [how did dial-up ISPs work?](https://blog.randomstring.org/2023/06/09/how-did-dial-up-isps-work-/)
 
-- [Why Lisp Syntax Works](https://borretti.me/article/why-lisp-syntax-works)
+- [Building arbitrary Life patterns in 15 gliders](https://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/)
 
-- [Running VSCode in Chromium on OpenBSD](https://bt.ht/vscode/)
+- [Douglas Crockford: “We should stop using JavaScript”](https://digest.browsertech.com/archive/browsertech-digest-9801/)
 
-- [Limited Success Generating a Binary Search](https://cacm.acm.org/blogs/blog-cacm/273577-ai-does-not-help-programmers/fulltext)
+- [The Fallacy of AI Functionality](https://dl.acm.org/doi/10.1145/3531146.3533158)
 
-- [Easy question – hard answer, how to I convert a hex string to hex byte string in C?](https://colinpaice.blog/2023/06/06/easy-question-hard-answer-how-to-i-convert-a-hex-string-to-hex-byte-string-in-c/)
+- [Scrubbing sensitive data at 180MiB/sec/core](https://encore.dev/blog/scrubbing-sensitive-data)
 
-- [OCaml Programming: Correct + Efficient + Beautiful [a textbook]](https://cs3110.github.io/textbook/cover.html)
+- [acme.sh runs arbitrary commands from a remote server](https://github.com/acmesh-official/acme.sh/issues/4659)
 
-- [SRE in the Real World: for Xooglers](https://docs.google.com/document/d/1HB9CUfavNbeP1cU8QPl9kjYuiME2_90P5DDRjqxYyIo/edit#heading=h.j54phqvh6ubj)
+- [cube.sed](https://github.com/izabera/cube.sed/)
 
-- [Compromising Honda’s power equipment / marine / lawn & garden dealer eCommerce platform through a vulnerable password reset API](https://eaton-works.com/2023/06/06/honda-ecommerce-hack/)
+- [Hands-Free Binary Deobfuscation with gooMBA](https://hex-rays.com/blog/deobfuscation-with-goomba/)
 
-- [Developing Nix Libraries with Subflakes](https://figsoda.github.io/posts/2023/developing-nix-libraries-with-subflakes/)
+- [Monitoring is a Pain](https://matduggan.com/were-all-doing-metrics-wrong/)
 
-- [The Rust I Wanted Had No Future](https://graydon2.dreamwidth.org/307291.html)
+- [Adventures in Debian's Qt land](https://perezmeyer.com.ar/blog/2023/06/08/adventures_in_debian_s_qt_land/)
 
-- [That Handheld 386SX Gets A Teardown](https://hackaday.com/2023/06/06/that-handheld-386sx-gets-a-teardown/)
+- [Understanding CPUs can help speed up Numba and NumPy code](https://pythonspeed.com/articles/speeding-up-numba/)
 
-- [Teaching and Learning Compilers Incrementally](https://iucompilercourse.github.io/tutorial-web-page/)
+- [Understanding GPT tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers/)
 
-- [i will never participate in weird internet caste systems](https://j3s.sh/thought/i-will-never-participate-in-weird-internet-caste-systems.html)
+- [A thread on the deterioration of accessibility in GTK4 and Wayland](https://tech.lgbt/@xogium/110507457689374019)
 
-- [Rust Binary Analysis, Feature by Feature](https://research.checkpoint.com/2023/rust-binary-analysis-feature-by-feature/)
+- [Why do ML on the Erlang VM?](https://underjord.io/why-ml-on-erlang.html)
 
-- [OpenGL 3.1 on Asahi Linux](https://rosenzweig.io/blog/opengl3-on-asahi-linux.html)
+- [Monongahela: A Balanced Ternary Computer](https://wiki.alopex.li/TernaryComputer)
 
-- [Modern Image Processing Algorithms Implementation in C](https://sod.pixlab.io/articles/modern-image-processing-algorithms-implementation.html)
+- [Trees and Graphs](https://www.crockford.com/graphs.html)
 
-- [Debugging AWS CloudFront issues live with SSH](https://vlad.git.ht/1bc082adfb910fb622ed6fe8d40ea654)
+- [Haiku Activity & Contract Report, May 2023](https://www.haiku-os.org/blog/waddlesplash/2023-06-09_haiku_activity_contract_report_may_2023/)
 
-- [WebKit Features in Safari 17 beta](https://webkit.org/blog/14205/news-from-wwdc23-webkit-features-in-safari-17-beta/)
+- [dark matter is not a theory](https://www.youtube.com/watch?v=PbmJkMhmrVI)
 
-- [WWDC 2023](https://www.apple.com/apple-events/)
+- [wasmati: You should write your WebAssembly in TypeScript](https://www.zksecurity.xyz/blog/posts/wasmati/)
 
-- [The C Standard Library Function isspace() Depends on Locale](https://www.evanjones.ca/isspace_locale.html)
-
-- [Criminalization of encryption : the 8 december case](https://www.laquadrature.net/en/2023/06/05/criminalization-of-encryption-the-8-december-case/)
-
-- [Lynn Conway and The Chip Design Revolution](https://www.sparkfun.com/news/7203)
+- [How the PIX Firewall and NAT Saved the Internet](https://youtu.be/GLrfqtf4txw)
