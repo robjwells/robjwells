@@ -1,45 +1,45 @@
-- [The Austral Programming Language](https://austral-lang.org/)
+- [The Adventures of Writing a CHIP8 Emulator - Part 2](https://benjcal.space/posts/the-adventures-of-writing-a-chip8-emulator-part-2/)
 
-- [Developers are lazy, thus Flatpak](https://blog.brixit.nl/developers-are-lazy-thus-flatpak/)
+- [Why not tell people to "simply" use pyenv, poetry or anaconda](https://bitecode.substack.com/p/why-not-tell-people-to-simply-use)
 
-- [Turbo Boost](https://blog.cr.yp.to/20230609-turboboost.html)
+- [JMP is Launched and Out of Beta](https://blog.jmp.chat/b/launch-2023)
 
-- [how did dial-up ISPs work?](https://blog.randomstring.org/2023/06/09/how-did-dial-up-isps-work-/)
+- [WWDC23: Passkeys](https://blog.millerti.me/2023/06/10/wwdc23-passkeys/)
 
-- [Building arbitrary Life patterns in 15 gliders](https://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/)
+- [Second-Class References](https://borretti.me/article/second-class-references)
 
-- [Douglas Crockford: “We should stop using JavaScript”](https://digest.browsertech.com/archive/browsertech-digest-9801/)
+- [Firefox on Android crash due to Samsung CPU bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1833315)
 
-- [The Fallacy of AI Functionality](https://dl.acm.org/doi/10.1145/3531146.3533158)
+- [Chimera Linux is entering alpha stage](https://chimera-linux.org/news/2023/06/entering-alpha.html)
 
-- [Scrubbing sensitive data at 180MiB/sec/core](https://encore.dev/blog/scrubbing-sensitive-data)
+- [Modern CSS in Real Life](https://chriscoyier.net/2023/06/06/modern-css-in-real-life/)
 
-- [acme.sh runs arbitrary commands from a remote server](https://github.com/acmesh-official/acme.sh/issues/4659)
+- [5NF: The Missing Use Case](https://datademythed.com/posts/5nf_missing_use_case/)
 
-- [cube.sed](https://github.com/izabera/cube.sed/)
+- [Meet Swift OpenAPI Generator](https://developer.apple.com/wwdc23/10171)
 
-- [Hands-Free Binary Deobfuscation with gooMBA](https://hex-rays.com/blog/deobfuscation-with-goomba/)
+- [Rust Module System Encourages Poor Practices (Comparing to Go)](https://dmitryfrank.com/articles/rust_module_system_encourages_bad_practices)
 
-- [Monitoring is a Pain](https://matduggan.com/were-all-doing-metrics-wrong/)
+- [Fractal software for fractal futures](https://fossil-milk-962.notion.site/Fractal-software-for-fractal-futures-71e515597d6b424c994cae74f3341521?pvs=4)
 
-- [Adventures in Debian's Qt land](https://perezmeyer.com.ar/blog/2023/06/08/adventures_in_debian_s_qt_land/)
+- [Go team discusses creating math/rand/v2](https://github.com/golang/go/discussions/60751)
 
-- [Understanding CPUs can help speed up Numba and NumPy code](https://pythonspeed.com/articles/speeding-up-numba/)
+- [spacer: CLI tool to insert spacers in command output to provide visual markers of when things happened](https://github.com/samwho/spacer)
 
-- [Understanding GPT tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers/)
+- [A note on Metal shader converter](https://raphlinus.github.io/gpu/2023/06/12/shader-converter.html)
 
-- [A thread on the deterioration of accessibility in GTK4 and Wayland](https://tech.lgbt/@xogium/110507457689374019)
+- [Minimal Linux VM cross compiledwith Clang and Zig](https://richiejp.com/zig-cross-compile-ltp-ltx-linux)
 
-- [Why do ML on the Erlang VM?](https://underjord.io/why-ml-on-erlang.html)
+- [Lisp Game Jam - "Wireworld" in WebAssembly using Spritely's Hoot project](https://spritely.institute/news/hoot-wireworld-live-in-browser.html)
 
-- [Monongahela: A Balanced Ternary Computer](https://wiki.alopex.li/TernaryComputer)
+- [How to make a QR code with Stable Diffusion](https://stable-diffusion-art.com/qr-code/)
 
-- [Trees and Graphs](https://www.crockford.com/graphs.html)
+- [A simple hash table in C](https://theleo.zone/posts/hashmap-in-c/)
 
-- [Haiku Activity & Contract Report, May 2023](https://www.haiku-os.org/blog/waddlesplash/2023-06-09_haiku_activity_contract_report_may_2023/)
+- [Scripting with Elixir](https://underjord.io/scripting-with-elixir.html)
 
-- [dark matter is not a theory](https://www.youtube.com/watch?v=PbmJkMhmrVI)
+- [An America-less Internet](https://www.nthbrock.com/posts/americaless-internet/)
 
-- [wasmati: You should write your WebAssembly in TypeScript](https://www.zksecurity.xyz/blog/posts/wasmati/)
+- [Monad Transformers 101](https://www.williamyaoh.com/posts/2023-06-10-monad-transformers-101.html)
 
-- [How the PIX Firewall and NAT Saved the Internet](https://youtu.be/GLrfqtf4txw)
+- [Trading at light speed: designing low latency systems in C++(2022)](https://www.youtube.com/watch?v=8uAW5FQtcvE)
