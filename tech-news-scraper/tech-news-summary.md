@@ -1,45 +1,45 @@
-- [The Adventures of Writing a CHIP8 Emulator - Part 2](https://benjcal.space/posts/the-adventures-of-writing-a-chip8-emulator-part-2/)
+- [trsvid, a video player for TRS-80 Model 1, 3 and 4](http://48k.ca/trsvid.html)
 
-- [Why not tell people to "simply" use pyenv, poetry or anaconda](https://bitecode.substack.com/p/why-not-tell-people-to-simply-use)
+- [The 88 Hats Puzzle](http://archive.vector.org.uk/art10500850)
 
-- [JMP is Launched and Out of Beta](https://blog.jmp.chat/b/launch-2023)
+- [Google Domains shutting down, sold to Squarespace](https://9to5google.com/2023/06/15/google-domains-squarespace/)
 
-- [WWDC23: Passkeys](https://blog.millerti.me/2023/06/10/wwdc23-passkeys/)
+- [Exploring Dataflow Analysis in the Rust Compiler](https://aneksteind.github.io/posts/2023-06-12.html)
 
-- [Second-Class References](https://borretti.me/article/second-class-references)
+- [The quest for a Secure and Accessible Desktop](https://arcan-fe.com/2023/06/15/the-quest-for-a-secure-and-accessible-desktop/)
 
-- [Firefox on Android crash due to Samsung CPU bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1833315)
+- [Progressively Optimized Local Radiance Fields for Robust View Synthesis](https://arxiv.org/abs/2303.13791)
 
-- [Chimera Linux is entering alpha stage](https://chimera-linux.org/news/2023/06/entering-alpha.html)
+- [JavaScript Imports Under The Hood](https://blog.jim-nielsen.com/2023/imports-under-the-hood/)
 
-- [Modern CSS in Real Life](https://chriscoyier.net/2023/06/06/modern-css-in-real-life/)
+- [Some tests are stronger than others](https://buttondown.email/hillelwayne/archive/some-tests-are-stronger-than-others/)
 
-- [5NF: The Missing Use Case](https://datademythed.com/posts/5nf_missing_use_case/)
+- [Evaluating OpenAI’s Whisper on Community Conversations](https://cortico.ai/news/insights/evaluating-openai-s-whisper-on-community-conversations/)
 
-- [Meet Swift OpenAPI Generator](https://developer.apple.com/wwdc23/10171)
+- [Programming book recommendations and anti-recommendations (2016)](https://danluu.com/programming-books/)
 
-- [Rust Module System Encourages Poor Practices (Comparing to Go)](https://dmitryfrank.com/articles/rust_module_system_encourages_bad_practices)
+- [Bias in the .NET random number generator (2017)](https://fuglede.dk/en/blog/bias-in-net-rng/)
 
-- [Fractal software for fractal futures](https://fossil-milk-962.notion.site/Fractal-software-for-fractal-futures-71e515597d6b424c994cae74f3341521?pvs=4)
+- [YABin: Yet another pastebin, simple but feature-rich](https://github.com/Yureien/YABin)
 
-- [Go team discusses creating math/rand/v2](https://github.com/golang/go/discussions/60751)
+- [diskonaut: Terminal disk space navigator](https://github.com/imsnif/diskonaut)
 
-- [spacer: CLI tool to insert spacers in command output to provide visual markers of when things happened](https://github.com/samwho/spacer)
+- [Meilisearch across the Semantic Verse](https://github.com/meilisearch/meilisearch/issues/3838)
 
-- [A note on Metal shader converter](https://raphlinus.github.io/gpu/2023/06/12/shader-converter.html)
+- [Digg's v4 launch: an optimism born of necessity (2018)](https://lethain.com/digg-v4/)
 
-- [Minimal Linux VM cross compiledwith Clang and Zig](https://richiejp.com/zig-cross-compile-ltp-ltx-linux)
+- [The case of the supersized shebang [2019]](https://lwn.net/Articles/779997/)
 
-- [Lisp Game Jam - "Wireworld" in WebAssembly using Spritely's Hoot project](https://spritely.institute/news/hoot-wireworld-live-in-browser.html)
+- [MLC LLM](https://mlc.ai/mlc-llm/)
 
-- [How to make a QR code with Stable Diffusion](https://stable-diffusion-art.com/qr-code/)
+- [My 24 year old HP Jornada can do things your modern iPhone still can't do](https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html)
 
-- [A simple hash table in C](https://theleo.zone/posts/hashmap-in-c/)
+- [Microservices and Containers Explained… Using LEGOs](https://redis.com/blog/microservices-and-containers/)
 
-- [Scripting with Elixir](https://underjord.io/scripting-with-elixir.html)
+- [I booted Linux 292,612 times](https://rwmj.wordpress.com/2023/06/14/i-booted-linux-292612-times/)
 
-- [An America-less Internet](https://www.nthbrock.com/posts/americaless-internet/)
+- [Tindall On Software Delays](https://two-wrongs.com/tindall-on-software-delays.html)
 
-- [Monad Transformers 101](https://www.williamyaoh.com/posts/2023-06-10-monad-transformers-101.html)
+- [WirePlumber's Event Dispatcher: a new, simplified way of handling PipeWire events](https://www.collabora.com/news-and-blog/blog/2023/06/15/wireplumber-event-dispatcher-new-simplified-way-handling-pipewire-events/)
 
-- [Trading at light speed: designing low latency systems in C++(2022)](https://www.youtube.com/watch?v=8uAW5FQtcvE)
+- [Zed: Building a platform that open sources itself](https://zed.dev/blog/open-sourcing-zed-on-zed)
