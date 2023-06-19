@@ -1,45 +1,49 @@
-- [trsvid, a video player for TRS-80 Model 1, 3 and 4](http://48k.ca/trsvid.html)
+- [Building a Networked Key-Value-Store on an FPGA](https://adamwalker.github.io/Building-FPGA-KVS/)
 
-- [The 88 Hats Puzzle](http://archive.vector.org.uk/art10500850)
+- [Building solutions to problems that no one knows exist yet](https://austinhenley.com/blog/solvingunknownproblems.html)
 
-- [Google Domains shutting down, sold to Squarespace](https://9to5google.com/2023/06/15/google-domains-squarespace/)
+- [Designing Pythonic library APIs](https://benhoyt.com/writings/python-api-design/)
 
-- [Exploring Dataflow Analysis in the Rust Compiler](https://aneksteind.github.io/posts/2023-06-12.html)
+- [Encoding ML-style modules in Rust](https://blog.waleedkhan.name/encoding-ml-style-modules-in-rust/)
 
-- [The quest for a Secure and Accessible Desktop](https://arcan-fe.com/2023/06/15/the-quest-for-a-secure-and-accessible-desktop/)
+- [Building Search DSLs with Django](https://danlamanna.com/posts/building-search-dsls-with-django/)
 
-- [Progressively Optimized Local Radiance Fields for Robust View Synthesis](https://arxiv.org/abs/2303.13791)
+- [A history of NVidia Stream Multiprocessor (2020)](https://fabiensanglard.net/cuda/index.html)
 
-- [JavaScript Imports Under The Hood](https://blog.jim-nielsen.com/2023/imports-under-the-hood/)
+- [The legend of "x86 CPUs decode instructions into RISC form internally"](https://fanael.github.io/is-x86-risc-internally.html)
 
-- [Some tests are stronger than others](https://buttondown.email/hillelwayne/archive/some-tests-are-stronger-than-others/)
+- [FlowPilot: Open-Source Mobile App adds Self-Driving Capabilities to your Car](https://flowdrive.ai)
 
-- [Evaluating OpenAI’s Whisper on Community Conversations](https://cortico.ai/news/insights/evaluating-openai-s-whisper-on-community-conversations/)
+- [Shuhari](https://frantic.im/shuhari)
 
-- [Programming book recommendations and anti-recommendations (2016)](https://danluu.com/programming-books/)
+- [Compressor in Rust; compresses as good as "zstd -19", while being 10 times faster](https://github.com/richox/orz)
 
-- [Bias in the .NET random number generator (2017)](https://fuglede.dk/en/blog/bias-in-net-rng/)
+- [Go: Execution Tracer Overhaul](https://go.googlesource.com/proposal/+/ac09a140c3d26f8bb62cbad8969c8b154f93ead6/design/60773-execution-tracer-overhaul.md)
 
-- [YABin: Yet another pastebin, simple but feature-rich](https://github.com/Yureien/YABin)
+- [Introduction - Exploiting the PS4 and PS5 through a game save](https://mccaulay.co.uk/mast1c0re-introduction-exploiting-the-ps4-and-ps5-through-a-gamesave/)
 
-- [diskonaut: Terminal disk space navigator](https://github.com/imsnif/diskonaut)
+- [My First Impressions of Nix](https://mtlynch.io/notes/nix-first-impressions/)
 
-- [Meilisearch across the Semantic Verse](https://github.com/meilisearch/meilisearch/issues/3838)
+- [On the road to KDE Plasma 6](https://pointieststick.com/2023/06/18/on-the-road-to-plasma-6/)
 
-- [Digg's v4 launch: an optimism born of necessity (2018)](https://lethain.com/digg-v4/)
+- [Redbean Systems](https://redbean.systems/)
 
-- [The case of the supersized shebang [2019]](https://lwn.net/Articles/779997/)
+- [symbex: search Python code then pipe it into an LLM](https://simonwillison.net/2023/Jun/18/symbex/)
 
-- [MLC LLM](https://mlc.ai/mlc-llm/)
+- [Squeezing a Little More Performance Out of Bytecode Interpreters](https://stefan-marr.de/2023/06/squeezing-a-little-more-performance-out-of-bytecode-interpreters/)
 
-- [My 24 year old HP Jornada can do things your modern iPhone still can't do](https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html)
+- [Ikea-Oriented Development](https://taylor.town/ikea-oriented-development)
 
-- [Microservices and Containers Explained… Using LEGOs](https://redis.com/blog/microservices-and-containers/)
+- [HDR QR codes using video tags](https://twitter.com/dtinth/status/1670438696871501825/photo/1)
 
-- [I booted Linux 292,612 times](https://rwmj.wordpress.com/2023/06/14/i-booted-linux-292612-times/)
+- [ZFS Notes](https://wiki.alopex.li/ZfsNotes)
 
-- [Tindall On Software Delays](https://two-wrongs.com/tindall-on-software-delays.html)
+- [The Difference Between Root Certificate Authorities, Intermediates, and Resellers](https://www.agwa.name/blog/post/roots_intermediates_and_resellers)
 
-- [WirePlumber's Event Dispatcher: a new, simplified way of handling PipeWire events](https://www.collabora.com/news-and-blog/blog/2023/06/15/wireplumber-event-dispatcher-new-simplified-way-handling-pipewire-events/)
+- [The best Python feature you cannot use](https://www.bitecode.dev/p/the-best-python-feature-you-cannot)
 
-- [Zed: Building a platform that open sources itself](https://zed.dev/blog/open-sourcing-zed-on-zed)
+- [Data Abstraction: Theory And Practice (2020)](https://www.bkase.io/posts/data-abstraction)
+
+- [Narrow Waists Can Be Interior or Exterior: PyObject vs. Unix Files](https://www.oilshell.org/blog/2023/06/narrow-waist.html)
+
+- [noweb: the lesser known org babel glue](https://xenodium.com/noweb-more-glue-for-your-org-toolbox/)
