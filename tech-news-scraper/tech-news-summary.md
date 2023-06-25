@@ -1,49 +1,49 @@
-- [Windows 98 Icons are Great (2015)](https://alexmeub.com/old-windows-icons/)
+- [What happens when a Matrix server disappears?](https://blog.erethon.com/blog/2023/06/21/what-happens-when-a-matrix-server-disappears/)
 
-- [Oxidizing OCaml: Rust-Style Ownership](https://blog.janestreet.com/oxidizing-ocaml-ownership/)
+- [WeeChat Version 4.0.0](https://blog.weechat.org/post/2023/06/24/Version-4.0.0)
 
-- [Introducing the Rust Leadership Council](https://blog.rust-lang.org/2023/06/20/introducing-leadership-council.html)
+- [Restoring Dyld Memory Loading](https://blog.xpnsec.com/restoring-dyld-memory-loading/)
 
-- [Rust vs C++ Formatting](https://brevzin.github.io/c++/2023/01/02/rust-cpp-format/)
+- [Random floating point numbers](https://dotat.at/@/2023-06-23-random-double.html)
 
-- [Navigating Sharp Edges in OpenAI's Function Call Feature](https://codeconfessions.substack.com/p/navigating-sharp-edges-in-openais)
+- [Why and How to Add Home Manager to NixOS](https://drakerossman.com/blog/how-to-add-home-manager-to-nixos)
 
-- [AMD openSIL – Open-Source Silicon Initialization Library](https://community.amd.com/t5/business/empowering-the-industry-with-open-system-firmware-amd-opensil/ba-p/599644)
+- [The E-graph extraction problem is NP-complete](https://effect.systems/blog/egraph-extraction.html)
 
-- [The PCG64 DXSM random number generator](https://dotat.at/@/2023-06-21-pcg64-dxsm.html)
+- [Mozilla noticed a Google javascript and Linux kernel bug](https://fosstodon.org/@gabrielesvelto/110592904713090347)
 
-- [Adding Delimiters Between String Elements in C++](https://embeddedartistry.com/blog/2023/01/19/adding-delimiters-between-string-elements-in-c/)
+- [Allow 0.0.0.0/8 as a valid address range (2019)](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=96125bf9985a)
 
-- [People Are Using AI to Automate Responses to Site That Pays Them to Train AI](https://futurism.com/the-byte/people-automating-responses-train-ai)
+- [keyberon: A rust crate to create a pure rust keyboard firmware](https://github.com/TeXitoi/keyberon)
 
-- [Crafting a better, faster code view](https://github.blog/2023-06-21-crafting-a-better-faster-code-view/)
+- [binpash/try](https://github.com/binpash/try)
 
-- [GitUI 0.23 adds more fuzzy finding and rewording commits](https://github.com/extrawurst/gitui/releases/tag/v0.23.0)
+- [My deduplication solution written in Rust beats everything else, i. e. casync, borg](https://github.com/borgbackup/borg/issues/7674)
 
-- [TIL: Don’t forget your Web Manifest file](https://goodenough.us/blog/2023-06-16-til-don-t-forget-your-web-manifest-file/)
+- [intel-one-mono: A font aiming for clarity and low-vision developers](https://github.com/intel/intel-one-mono)
 
-- [Jird: A little language for music in just intonation](https://jird.readthedocs.io/en/latest/)
+- [What is Semantic Kernel?](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
 
-- [Flexible systems](https://jordankaye.dev/posts/flexible-systems/)
+- [O Brother GeoBook, Let's Get Thou back on the Internet?](https://oldvcr.blogspot.com/2023/06/o-brother-geobook-lets-get-thou-back-on.html)
 
-- [Cyclic Dependency Space Toggles](https://kizu.dev/cyclic-toggles/)
+- [How to Kill a Decentralised Network (such as the Fediverse)](https://ploum.net/2023-06-23-how-to-kill-decentralised-networks.html)
 
-- [Red Hat cutting back RHEL source availability](https://lwn.net/Articles/935592/)
+- [Real-time Messaging](https://slack.engineering/real-time-messaging/)
 
-- [OpenBSD kernel relinking is not transactional and a local exploit exists](https://marc.info/?l=full-disclosure&m=168718134305683&w=2)
+- [Game of Trees 0.90 released](https://undeadly.org/cgi?action=article;sid=20230624054334)
 
-- [Port LLVM XRay to Apple systems](https://maskray.me/blog/2023-06-18-port-llvm-xray-to-apple-systems)
+- [On Ember’s New Major Version Cadence : and why I hope it will be useful to other projects as well](https://v5.chriskrycho.com/journal/on-embers-new-major-version-cadence/)
 
-- [Custom giraffe caret](https://muffinman.io/blog/custom-giraffe-caret/)
+- [XML is the future](https://www.bitecode.dev/p/hype-cycles)
 
-- [Making Python 100x faster with less than 100 lines of Rust](https://ohadravid.github.io/posts/2023-03-rusty-python/)
+- [INTERCAL: Practically Impossible](https://www.muppetlabs.com/~breadbox/intercal/pgpi.html)
 
-- [Hashing](https://samwho.dev/hashing)
+- [Ingesting historical data into InfluxDB](https://www.subrat.info/operating-influxdb-historical-data/)
 
-- [Go 1.21 Release Notes (draft)](https://tip.golang.org/doc/go1.21)
+- [The Type Checker](https://www.youtube.com/watch?v=F8KXb0gy2-k)
 
-- [Lehman's SPE-classfication (2017)](https://www.expressionsofchange.org/lehman-spe-classification/)
+- [Time is not a synchronization primitive](https://xeiaso.net/blog/nosleep)
 
-- [Why Rust is bad, actually(*)](https://www.youtube.com/watch?v=4pOd7Fk84VA)
+- [David Fowler has trouble with code templates](https://youtu.be/2xC-d4rXT0k)
 
-- [Linux Namespaces Are a Poor Man's Plan 9 Namespaces](https://yotam.net/posts/linux-namespaces-are-a-poor-mans-plan9-namespaces/)
+- [Bootloader Firmware Update Mechanism: Bare Metal Programming Series](https://youtu.be/_hd6FITV_Hw)
