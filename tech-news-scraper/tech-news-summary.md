@@ -1,47 +1,45 @@
-- [Lost in transit: debugging dropped packets from negative header lengths](https://blog.cloudflare.com/lost-in-transit-debugging-dropped-packets-from-negative-header-lengths/)
+- [Training Transformers with 4-bit Integers](https://arxiv.org/abs/2306.11987)
 
-- [GCC --enable-languages=all on OpenBSD](https://briancallahan.net/blog/20230626.html)
+- [For Python packages, file structure != API](https://benhoyt.com/writings/python-api-file-structure/)
 
-- [how (not) to write a pipeline](https://cohost.org/tef/post/1764930-how-not-to-write-a)
+- [Waiting for go1.21: Execution Tracing with < 1% Overhead](https://blog.felixge.de/waiting-for-go1-21-execution-tracing-with-less-than-one-percent-overhead/)
 
-- [Property-Based Testing Against a Model of a Web Application](https://concerningquality.com/model-based-testing/)
+- [Three pitfalls in I2C](https://blog.trends.tf/three-pitfalls-in-i2c.html)
 
-- [Use `.config` to store your project configs](https://dot-config.github.io)
+- [Racket frustrates me](https://blog.winny.tech/posts/racket-frustrates-me/)
 
-- [Source code for the Dragon 64 version of the Microsoft 16K BASIC Interpreter](https://github.com/davidlinsley/DragonBasic)
+- [Programming Language Perversity](https://buttondown.email/hillelwayne/archive/programming-language-perversity/)
 
-- [Is ORM still an 'anti pattern'?](https://github.com/getlago/lago/wiki/Is-ORM-still-an-%27anti-pattern%27%3F)
+- [What's between a set and a sequence?](https://buttondown.email/hillelwayne/archive/whats-lives-between-a-set-and-a-sequence/)
 
-- [tailer: a rewrite of the CLI tool "spacer" in Go](https://github.com/hionay/tailer)
+- [bliss-fulldepends](https://bvnf.space/blog/009-fulldeps.html)
 
-- [Tildes](https://gitlab.com/tildes/tildes/)
+- [CommonJS is hurting JavaScript](https://deno.com/blog/commonjs-is-hurting-javascript)
 
-- [The Grug Brained Developer](https://grugbrain.dev/)
+- [Bayesian Learning](https://ermongroup.github.io/cs228-notes/learning/bayesian/)
 
-- [Fast machines, slow machines](https://jmmv.dev/2023/06/fast-machines-slow-machines.html)
+- [NixOS and my Descent into Insanity](https://ersei.net/en/blog/its-nixin-time)
 
-- [The Spatial Cypher Cheat Sheet: A Resource For Working With Geospatial Data In Neo4j](https://lyonwj.com/blog/spatial-cypher-cheat-sheet)
+- [JavaScript Gom Jabbar](https://frantic.im/javascript-gom-jabbar/)
 
-- [The Password Game](https://neal.fun/password-game/)
+- [Python and the Legend of Zelda](https://gazj.substack.com/p/python-and-the-legend-of-zelda)
 
-- [Running Linux with kernel 6.3 on Open Source Hardware board with ESP32-S3](https://olimex.wordpress.com/2023/06/27/running-linux-with-kernel-6-3-on-open-source-hardware-board-with-esp32-s3/)
+- [Software runtimes are hot again](https://github.com/stealthrocket/timecraft)
 
-- [Rust fact vs. fiction: 5 Insights from Google's Rust journey in 2022](https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html)
+- [Divorce from LLVM](https://github.com/ziglang/zig/issues/16270)
 
-- [When NumPy is too slow](https://pythonspeed.com/articles/numpy-is-slow/)
+- [Programming On an iPad](https://juliette.page/blog/ipad.html)
 
-- [FreeBSD Jails Containers](https://vermaden.wordpress.com/2023/06/28/freebsd-jails-containers/)
+- [Wayland is pretty good, actually](https://serebit.com/posts/wayland-is-pretty-good/)
 
-- [What's the deal with CPython, Pypy, MicroPython, Jython...?](https://www.bitecode.dev/p/whats-the-deal-with-cpython-pypy)
+- [The simplest package manager (for Typst)](https://typst.app/blog/2023/package-manager)
 
-- [Performance Benefits of NOT NULL Constraints on Foreign Key Reference Columns](https://www.cockroachlabs.com/blog/performance-benefits-of-not-null-constraints/)
+- [Boba Devlog #0: Compiling Pseudo-Rust Code to x86 Assembly](https://veera.app/codegen.html)
 
-- [The Slimbook is dead, long live the Slimbook](https://www.dedoimedo.com/computers/slimbook-executive-coming.html)
+- [NFSv4 Server Inside FreeBSD VNET Jail](https://vermaden.wordpress.com/2023/07/01/nfsv4-server-inside-freebsd-vnet-jail/)
 
-- [FP^2: Fully in-Place Functional Programming](https://www.microsoft.com/en-us/research/publication/fp2-fully-in-place-functional-programming/)
+- [Quadratic C.I. Cost Growth](https://www.softwareatscale.dev/p/quadratic-ci-cost-growth)
 
-- [Red Hat’s commitment to open source: A response to the git.centos.org changes](https://www.redhat.com/en/blog/red-hats-commitment-open-source-response-gitcentosorg-changes)
+- [Of course the network can be a filesystem](https://xeiaso.net/blog/gophercon-eu-demo)
 
-- [You should break the Law of Demeter](https://www.tedinski.com/2018/12/18/the-law-of-demeter.html)
-
-- [Finding the BEST sine function for Nintendo 64](https://www.youtube.com/watch?v=xFKFoGiGlXQ)
+- [Efficient jagged arrays](https://zeux.io/2023/06/30/efficient-jagged-arrays/)
