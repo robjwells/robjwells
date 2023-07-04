@@ -1,45 +1,45 @@
-- [Training Transformers with 4-bit Integers](https://arxiv.org/abs/2306.11987)
+- [How to think about async/await in Rust](http://cliffle.com/blog/async-inversion/)
 
-- [For Python packages, file structure != API](https://benhoyt.com/writings/python-api-file-structure/)
+- [Any Deep ReLU Network is Shallow](https://arxiv.org/pdf/2306.11827.pdf)
 
-- [Waiting for go1.21: Execution Tracing with < 1% Overhead](https://blog.felixge.de/waiting-for-go1-21-execution-tracing-with-less-than-one-percent-overhead/)
+- [Problems of C, and how Zig addresses them](https://avestura.dev/blog/problems-of-c-and-how-zig-addresses-them)
 
-- [Three pitfalls in I2C](https://blog.trends.tf/three-pitfalls-in-i2c.html)
+- [Names should be as short as possible while still being clear](https://benhoyt.com/writings/short-names/)
 
-- [Racket frustrates me](https://blog.winny.tech/posts/racket-frustrates-me/)
+- [Not every developer wants to be a web developer: Hello oranda](https://blog.axo.dev/2023/06/oranda)
 
-- [Programming Language Perversity](https://buttondown.email/hillelwayne/archive/programming-language-perversity/)
+- [Rustfmt support for let-else statements](https://blog.rust-lang.org/2023/07/01/rustfmt-supports-let-else-statements.html)
 
-- [What's between a set and a sequence?](https://buttondown.email/hillelwayne/archive/whats-lives-between-a-set-and-a-sequence/)
+- [The smallest Pride contribution](https://blog.sesse.net/blog/tech/2023-07-01-15-47_the_smallest_pride_contribution.html)
 
-- [bliss-fulldepends](https://bvnf.space/blog/009-fulldeps.html)
+- [FoundationDB: A Distributed Key-Value Store](https://cacm.acm.org/magazines/2023/6/273229-foundationdb-a-distributed-key-value-store/fulltext)
 
-- [CommonJS is hurting JavaScript](https://deno.com/blog/commonjs-is-hurting-javascript)
+- [The Xerox Smalltalk-80 GUI Was Weird](https://collindonnell.com/the-xerox-smalltalk-80-gui-was-weird)
 
-- [Bayesian Learning](https://ermongroup.github.io/cs228-notes/learning/bayesian/)
+- [Elixir type system updates moving from research into development](https://elixir-lang.org/blog/2023/06/22/type-system-updates-research-dev/)
 
-- [NixOS and my Descent into Insanity](https://ersei.net/en/blog/its-nixin-time)
+- [Joins 13 Ways](https://justinjaffray.com/joins-13-ways/)
 
-- [JavaScript Gom Jabbar](https://frantic.im/javascript-gom-jabbar/)
+- [Demystifying Pratt Parsers](https://martin.janiczek.cz/2023/07/03/demystifying-pratt-parsers.html)
 
-- [Python and the Legend of Zelda](https://gazj.substack.com/p/python-and-the-legend-of-zelda)
+- [Transparent Comparisons](https://medium.com/factset/modern-c-in-depth-transparent-comparisons-afef5900535b)
 
-- [Software runtimes are hot again](https://github.com/stealthrocket/timecraft)
+- [Can Dell’s 6K monitor beat their 8K monitor?](https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/)
 
-- [Divorce from LLVM](https://github.com/ziglang/zig/issues/16270)
+- [Git is my buddy: Effective Git as a solo developer](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/)
 
-- [Programming On an iPad](https://juliette.page/blog/ipad.html)
+- [Using git mailmap when names change (or you mess up your email)](https://ntietz.com/blog/git-mailmap-for-name-changes/)
 
-- [Wayland is pretty good, actually](https://serebit.com/posts/wayland-is-pretty-good/)
+- [Perl 5.38.0 has been released](https://perldoc.perl.org/perl5380delta)
 
-- [The simplest package manager (for Typst)](https://typst.app/blog/2023/package-manager)
+- [What AMD Learned from Its Big Chiplet Push](https://spectrum.ieee.org/chiplet)
 
-- [Boba Devlog #0: Compiling Pseudo-Rust Code to x86 Assembly](https://veera.app/codegen.html)
+- [The construction of high-performance virtual machines for dynamic languages (2011)](https://theses.gla.ac.uk/2975/1/2011shannonphd.pdf)
 
-- [NFSv4 Server Inside FreeBSD VNET Jail](https://vermaden.wordpress.com/2023/07/01/nfsv4-server-inside-freebsd-vnet-jail/)
+- [Draggable objects](https://www.redblobgames.com/making-of/draggable/)
 
-- [Quadratic C.I. Cost Growth](https://www.softwareatscale.dev/p/quadratic-ci-cost-growth)
+- [Setting Up Dynamic and Static IPv6 Addresses on FreeBSD](https://www.subnetspider.com/freebsd/ipv6/2023/07/02/setting-up-dynamic-and-static-ipv6-addresses-on-freebsd.html)
 
-- [Of course the network can be a filesystem](https://xeiaso.net/blog/gophercon-eu-demo)
+- [FreeBSD: Successful Failure - Linux: Failing Success](https://www.youtube.com/watch?v=f2e4FNMzyto)
 
-- [Efficient jagged arrays](https://zeux.io/2023/06/30/efficient-jagged-arrays/)
+- [Make Your Renders Unnecessarily Complicated](https://youtu.be/YE9rEQAGpLw)
