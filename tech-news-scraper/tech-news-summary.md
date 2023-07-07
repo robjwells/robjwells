@@ -1,45 +1,47 @@
-- [How to think about async/await in Rust](http://cliffle.com/blog/async-inversion/)
+- [Observability Driven CI](https://andydote.co.uk/2023/07/06/observability-driven-ci/)
 
-- [Any Deep ReLU Network is Shallow](https://arxiv.org/pdf/2306.11827.pdf)
+- [An opinion on what's a good general-purpose programming language](https://avestura.dev/blog/ideal-programming-language)
 
-- [Problems of C, and how Zig addresses them](https://avestura.dev/blog/problems-of-c-and-how-zig-addresses-them)
+- [Learning to learn Rust](https://blog.danieljanus.pl/2023/07/06/learning-to-learn-rust/)
 
-- [Names should be as short as possible while still being clear](https://benhoyt.com/writings/short-names/)
+- [TySON: TypeScript Object Notation. Use TS as an embeddable config language](https://github.com/jetpack-io/tyson)
 
-- [Not every developer wants to be a web developer: Hello oranda](https://blog.axo.dev/2023/06/oranda)
+- [Formal Software Design with Alloy 6](https://haslab.github.io/formal-software-design/)
 
-- [Rustfmt support for let-else statements](https://blog.rust-lang.org/2023/07/01/rustfmt-supports-let-else-statements.html)
+- [The case against self-closing tags in HTML](https://jakearchibald.com/2023/against-self-closing-tags-in-html/)
 
-- [The smallest Pride contribution](https://blog.sesse.net/blog/tech/2023-07-01-15-47_the_smallest_pride_contribution.html)
+- [Tweaking Emacs for Ruby Development](https://johnhame.link/posts/tweaking-emacs-for-ruby-development-in-2023/)
 
-- [FoundationDB: A Distributed Key-Value Store](https://cacm.acm.org/magazines/2023/6/273229-foundationdb-a-distributed-key-value-store/fulltext)
+- [Firefox 115 can silently remotely disable my extension on any site](https://lapcatsoftware.com/articles/2023/7/1.html)
 
-- [The Xerox Smalltalk-80 GUI Was Weird](https://collindonnell.com/the-xerox-smalltalk-80-gui-was-weird)
+- [Improving the performance of a Windows Guest on KVM/QEMU](https://leduccc.medium.com/improving-the-performance-of-a-windows-10-guest-on-qemu-a5b3f54d9cf5)
 
-- [Elixir type system updates moving from research into development](https://elixir-lang.org/blog/2023/06/22/type-system-updates-research-dev/)
+- [The Many Ways that Digital Minds Can Know](https://moultano.wordpress.com/2023/06/28/the-many-ways-that-digital-minds-can-know/)
 
-- [Joins 13 Ways](https://justinjaffray.com/joins-13-ways/)
+- [Impact of remote-code execution vulnerability in LangChain](https://ntietz.com/blog/langchain-rce/)
 
-- [Demystifying Pratt Parsers](https://martin.janiczek.cz/2023/07/03/demystifying-pratt-parsers.html)
+- [6.33 times faster than C - part one](https://owen.cafe/posts/six-times-faster-than-c/)
 
-- [Transparent Comparisons](https://medium.com/factset/modern-c-in-depth-transparent-comparisons-afef5900535b)
+- [Soufflé: A Datalog Synthesis Tool for Static Analysis](https://souffle-lang.github.io/docs.html)
 
-- [Can Dell’s 6K monitor beat their 8K monitor?](https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/)
+- [Nix Community Survey 2023](https://survey.nixos.org/2023)
 
-- [Git is my buddy: Effective Git as a solo developer](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/)
+- [Terminal Click: A new terminal bringing dead text to life](https://terminal.click)
 
-- [Using git mailmap when names change (or you mess up your email)](https://ntietz.com/blog/git-mailmap-for-name-changes/)
+- [Rust Doesn't Have Named Arguments. So What?](https://thoughtbot.com/blog/rust-doesn-t-have-named-arguments-so-what)
 
-- [Perl 5.38.0 has been released](https://perldoc.perl.org/perl5380delta)
+- [Simulation Testing For Liveness](https://tigerbeetle.com/blog/2023-07-06-simulation-testing-for-liveness/)
 
-- [What AMD Learned from Its Big Chiplet Push](https://spectrum.ieee.org/chiplet)
+- [Be Open to Black: A Digital Design Tip](https://toast.al/posts/visuallayout/2023-07-06_be-open-to-black)
 
-- [The construction of high-performance virtual machines for dynamic languages (2011)](https://theses.gla.ac.uk/2975/1/2011shannonphd.pdf)
+- [I want XAES-256-GCM/11](https://words.filippo.io/dispatches/xaes-256-gcm-11/)
 
-- [Draggable objects](https://www.redblobgames.com/making-of/draggable/)
+- [Sierra Creative Interpreter – Scripts](https://www.benshoof.org/blog/sci-scripts)
 
-- [Setting Up Dynamic and Static IPv6 Addresses on FreeBSD](https://www.subnetspider.com/freebsd/ipv6/2023/07/02/setting-up-dynamic-and-static-ipv6-addresses-on-freebsd.html)
+- [Zink brings conformant OpenGL on Imagination GPUs](https://www.collabora.com/news-and-blog/news-and-events/zink-on-imagination-gpus.html)
 
-- [FreeBSD: Successful Failure - Linux: Failing Success](https://www.youtube.com/watch?v=f2e4FNMzyto)
+- [Why I Switched From Neovim To VSCode](https://www.nexxel.dev/blog/neovim-to-vscode)
 
-- [Make Your Renders Unnecessarily Complicated](https://youtu.be/YE9rEQAGpLw)
+- [Oils Is Exterior-First (Code, Text, and Structured Data)](https://www.oilshell.org/blog/2023/06/ysh-design.html)
+
+- [Implementing a system call for OpenBSD](https://www.poolp.org/posts/2023-07-05/implementing-a-system-call-for-openbsd/)
