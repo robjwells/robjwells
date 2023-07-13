@@ -1,49 +1,49 @@
-- [Old Computer Challenge (2023)](http://occ.deadnet.se)
+- [The day my ping took countermeasures](https://blog.cloudflare.com/the-day-my-ping-took-countermeasures/)
 
-- [PoisonGPT: How we hid a lobotomized LLM on Hugging Face to spread fake news](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)
+- [Escaping CMS hell into CMS heaven](https://blog.oat.zone/cohost-blogger/)
 
-- [Beware the Integrated Tests Scam (was Integrated Tests Are a Scam)](https://blog.thecodewhisperer.com/permalink/integrated-tests-are-a-scam)
+- [Announcing Windows 11 Insider Preview Build 25905](https://blogs.windows.com/windows-insider/2023/07/12/announcing-windows-11-insider-preview-build-25905/)
 
-- [How small is the smallest .NET Hello World binary?](https://blog.washi.dev/posts/tinysharp/)
+- [dt: duck tape for your unix pipes](https://dt.plumbing/)
 
-- [Test Against Reality](https://borretti.me/article/test-against-reality)
+- [Why it’s necessary to shoot yourself in the foot](https://g-w1.github.io/blog/observation/2023/07/08/shoot-yourself-in-the-foot.html)
 
-- [Three.js Development in 2023](https://brettkromkamp.com/posts/three-js-development-in-2023/)
+- [Principles of DevOps: Flow](https://garrit.xyz/posts/2023-07-12-principles-of-devops--flow)
 
-- [Toot toot! Mastodon-powered Blog Comments](https://cassidyjames.com/blog/fediverse-blog-comments-mastodon/)
+- [Gleam v0.30 - Local dependencies and enhanced externals](https://gleam.run/news/v0.30-local-dependencies-and-enhanced-externals/)
 
-- [Comparing Queuing Strategies in Distributed Systems](https://fsck.ai/labs/queuing)
+- [Advice for Operating a Public-Facing API](https://jcs.org/2023/07/12/api)
 
-- [effects-bibliography: A collaborative bibliography of work related to the theory and practice of computational effects](https://github.com/yallop/effects-bibliography)
+- [Tech Notes: The dominator tree of a dependency graph](https://neugierig.org/software/blog/2023/07/dominator.html)
 
-- [Irmin - A distributed database built on the same principles as Git](https://irmin.org/)
+- [newpipe.net removed from Google search results due to DMCA take down request](https://newpipe.net/blog/pinned/announcement/newpipe-net-dmca-google-search/)
 
-- [jank development update - A faster object model](https://jank-lang.org/blog/2023-07-08-object-model/)
+- [Serverless Semantic Search, Free tier only](https://qdrant.tech/articles/serverless/)
 
-- [Tiny ELF Files: Revisited in 2021](https://nathanotterness.com/2021/10/tiny_elf_modernized.html)
+- [Storing Data in Control Flow](https://research.swtch.com/pcdata)
 
-- [The Most Powerful Law in Software](https://registerspill.thorstenball.com/p/the-most-powerful-law-in-software)
+- [Plans are just vibes on a spreadsheet. But they are invaluable](https://rexm.substack.com/p/plans-are-just-vibes-on-a-spreadsheet)
 
-- [The 90s Developer Starter Pack](https://retrocoding.net/the-90s-developer-starter-pack)
+- [Fruit Of The Poisonous LLaMA?](https://shkspr.mobi/blog/2023/07/fruit-of-the-poisonous-llama/)
 
-- [RISC-V Assembly Programming](https://riscv-programming.org/)
+- [LLM CLI tool now supports self-hosted language models via plugins](https://simonwillison.net/2023/Jul/12/llm/)
 
-- [An eInk, Wrist-Mounted, TOTP Generator](https://shkspr.mobi/blog/2023/07/an-eink-wrist-mounted-totp-generator/)
+- [We Put a Distributed Database In the Browser – And Made a Game of It](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser/)
 
-- [Why is pgloader so much faster? (2014)](https://tapoueh.org/blog/2014/05/why-is-pgloader-so-much-faster/)
+- [Regex Isn't Hard](https://timkellogg.me/blog/2023/07/11/regex)
 
-- [Making OCaml 5 Succeed for Developers and Organisations](https://tarides.com/blog/2023-07-07-making-ocaml-5-succeed-for-developers-and-organisations/)
+- [Vale's First Prototype for Immutable Region Borrowing](https://verdagon.dev/blog/first-regions-prototype)
 
-- [Polynomial Functors: A Mathematical Theory of Interaction](https://topos.site/poly-book.pdf)
+- [Wokwi - Online ESP32, STM32, Arduino Simulator](https://wokwi.com)
 
-- [This will be easy](https://www.bitecode.dev/p/this-will-be-easy)
+- [Designing a Weather app for visionOS](https://www.david-smith.org/blog/2023/07/12/design-notes-40/)
 
-- [A 286 running like a 386? (2021)](https://www.dosdays.co.uk/topics/get_a_286_running_like_a_386_pt1.php)
+- [Hardening Emulated Devices in OpenBSD's vmd(8) Hypervisor](https://www.openbsd.org/papers/asiabsdcon2023-hardening_vmd_devices.pdf)
 
-- [Programming with Implicit Values, Functions, and Control (2019)](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/implicits-tr-v2.pdf)
+- [Computer Science Major Arcana](https://www.tumblr.com/eyepool/722652304002678784/computer-science-major-arcana)
 
-- [Can a Rubik's Cube be brute-forced?](https://www.stylewarning.com/posts/brute-force-rubiks-cube/)
+- [Creating an advanced search engine with PostgreSQL](https://xata.io/blog/postgres-full-text-search-engine)
 
-- [What UNIX Cost Us](https://www.youtube.com/watch?v=9-IWMbJXoLM)
+- [ChatGPT visits the Emacs doctor](https://xenodium.com/chatgpt-visits-the-emacs-doctor/)
 
-- [Wayland on OpenBSD](https://xenocara.org/Wayland_on_OpenBSD.html)
+- [QMK USB to USB Keyboard Protocol Converter](https://yaowei.dev/posts/usb-to-usb-converter/)
