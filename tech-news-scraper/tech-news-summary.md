@@ -1,49 +1,47 @@
-- [The day my ping took countermeasures](https://blog.cloudflare.com/the-day-my-ping-took-countermeasures/)
+- [A Month on Chimera Linux](https://bitcannon.net/post/a-month-with-chimera-linux/)
 
-- [Escaping CMS hell into CMS heaven](https://blog.oat.zone/cohost-blogger/)
+- [Goodbye Debian GNU/kFreeBSD](https://blog.aurel32.net/goodbye-kfreebsd.html)
 
-- [Announcing Windows 11 Insider Preview Build 25905](https://blogs.windows.com/windows-insider/2023/07/12/announcing-windows-11-insider-preview-build-25905/)
+- [The Perfect Laptop](https://blog.brossia.com/posts/the_perfect_laptop/)
 
-- [dt: duck tape for your unix pipes](https://dt.plumbing/)
+- [RRUST: A reversible embedded language](https://blog.erk.dev/posts/rrust)
 
-- [Why it’s necessary to shoot yourself in the foot](https://g-w1.github.io/blog/observation/2023/07/08/shoot-yourself-in-the-foot.html)
+- [Improving the Heroku Postgres Extension Experience](https://blog.heroku.com/improving-the-heroku-postgres-extension-experience)
 
-- [Principles of DevOps: Flow](https://garrit.xyz/posts/2023-07-12-principles-of-devops--flow)
+- [The looming demise of the 10x developer](https://blog.testdouble.com/posts/2023-07-12-the-looming-demise-of-the-10x-developer/)
 
-- [Gleam v0.30 - Local dependencies and enhanced externals](https://gleam.run/news/v0.30-local-dependencies-and-enhanced-externals/)
+- [DuckyZip: Provably Honest Global Linking Service](https://eprint.iacr.org/2023/1069)
 
-- [Advice for Operating a Public-Facing API](https://jcs.org/2023/07/12/api)
+- [dmodman: TUI downloader & update checker for nexusmods.com](https://github.com/dandels/dmodman/)
 
-- [Tech Notes: The dominator tree of a dependency graph](https://neugierig.org/software/blog/2023/07/dominator.html)
+- [unchecked: Say goodbye to checked exceptions forever](https://github.com/rogerkeays/unchecked)
 
-- [newpipe.net removed from Google search results due to DMCA take down request](https://newpipe.net/blog/pinned/announcement/newpipe-net-dmca-google-search/)
+- [a5k: Another World on a chip](https://github.com/sylefeb/a5k)
 
-- [Serverless Semantic Search, Free tier only](https://qdrant.tech/articles/serverless/)
+- [{n} times faster than C, where n = 128](https://ipthomas.com/blog/2023/07/n-times-faster-than-c-where-n-128/)
 
-- [Storing Data in Control Flow](https://research.swtch.com/pcdata)
+- [libxo: The Easy Way to Generate text, XML, JSON, and HTML output](https://juniper.github.io/libxo/libxo-manual.html)
 
-- [Plans are just vibes on a spreadsheet. But they are invaluable](https://rexm.substack.com/p/plans-are-just-vibes-on-a-spreadsheet)
+- [Ghostty Devlog 001](https://mitchellh.com/writing/ghostty-devlog-001)
 
-- [Fruit Of The Poisonous LLaMA?](https://shkspr.mobi/blog/2023/07/fruit-of-the-poisonous-llama/)
+- [brismu: a relational interpretation of Lojban](https://mostawesomedude.github.io/brismu/)
 
-- [LLM CLI tool now supports self-hosted language models via plugins](https://simonwillison.net/2023/Jul/12/llm/)
+- [keyboards and web apps, my post/rant for the year](https://pb.co.za/keyboards-and-web-apps-my-post-slash-rant-for-the-year)
 
-- [We Put a Distributed Database In the Browser – And Made a Game of It](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser/)
+- [Podman Desktop 1.2](https://podman-desktop.io/blog/podman-desktop-release-1.2)
 
-- [Regex Isn't Hard](https://timkellogg.me/blog/2023/07/11/regex)
+- [The path to implementing a programming language](https://rainingcomputers.blog/dist/the_path_to_implementing_a_programming_language.md)
 
-- [Vale's First Prototype for Immutable Region Borrowing](https://verdagon.dev/blog/first-regions-prototype)
+- [Recursive COW pages in userspace](https://wheybags.com/blog/cow.html)
 
-- [Wokwi - Online ESP32, STM32, Arduino Simulator](https://wokwi.com)
+- [The Trouble with Checked Exceptions (2003)](https://www.artima.com/articles/the-trouble-with-checked-exceptions)
 
-- [Designing a Weather app for visionOS](https://www.david-smith.org/blog/2023/07/12/design-notes-40/)
+- [Managing LLM Context Is a Knapsack Problem](https://www.awelm.com/posts/knapsack/)
 
-- [Hardening Emulated Devices in OpenBSD's vmd(8) Hypervisor](https://www.openbsd.org/papers/asiabsdcon2023-hardening_vmd_devices.pdf)
+- [What is the difference between Turbo and Stimulus, and what exactly is Hotwire?](https://www.ducktypelabs.com/turbo-vs-stimulus/)
 
-- [Computer Science Major Arcana](https://www.tumblr.com/eyepool/722652304002678784/computer-science-major-arcana)
+- [The Principles of the Flix Programming Language](https://www.youtube.com/watch?v=RNZeAmp1EaA)
 
-- [Creating an advanced search engine with PostgreSQL](https://xata.io/blog/postgres-full-text-search-engine)
+- [Ada Outperforms Assembly: A Case Study](https://www2.seas.gwu.edu/~adagroup/sigada-website/lawlis.html)
 
-- [ChatGPT visits the Emacs doctor](https://xenodium.com/chatgpt-visits-the-emacs-doctor/)
-
-- [QMK USB to USB Keyboard Protocol Converter](https://yaowei.dev/posts/usb-to-usb-converter/)
+- [How Wozniak’s code for the Apple 1 works](https://youtu.be/SpG8rgI7Hec)
