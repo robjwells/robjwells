@@ -1,47 +1,49 @@
-- [A Month on Chimera Linux](https://bitcannon.net/post/a-month-with-chimera-linux/)
+- [Search over 400k historical versions of nix packages at nixhub.io](http://nixhub.io/)
 
-- [Goodbye Debian GNU/kFreeBSD](https://blog.aurel32.net/goodbye-kfreebsd.html)
+- [Ten Years of “Go: The Good, the Bad, and the Meh”](https://blog.carlmjohnson.net/post/2023/ten-years-of-go-good-bad-meh/)
 
-- [The Perfect Laptop](https://blog.brossia.com/posts/the_perfect_laptop/)
+- [Reverse engineering Tesla 2-bus protocol](https://blog.danman.eu/reverse-engineering-tesla-2-bus-protocol/)
 
-- [RRUST: A reversible embedded language](https://blog.erk.dev/posts/rrust)
+- [Analyzing Go Build Times](https://blog.howardjohn.info/posts/go-build-times/)
 
-- [Improving the Heroku Postgres Extension Experience](https://blog.heroku.com/improving-the-heroku-postgres-extension-experience)
+- [The Weaknesses of Smalltalk are the Strengths of Erlang (2011)](https://eighty-twenty.org/2011/05/08/weaknesses-of-smalltalk-strengths-of-erlang#comments)
 
-- [The looming demise of the 10x developer](https://blog.testdouble.com/posts/2023-07-12-the-looming-demise-of-the-10x-developer/)
+- [10NES](https://fabiensanglard.net/10nes/index.html)
 
-- [DuckyZip: Provably Honest Global Linking Service](https://eprint.iacr.org/2023/1069)
+- [SHOW-1 and Showrunner Agents in Multi-Agent Simulations](https://fablestudio.github.io/showrunner-agents/)
 
-- [dmodman: TUI downloader & update checker for nexusmods.com](https://github.com/dandels/dmodman/)
+- [Using emoji on the web](https://fullystacked.net/posts/using-emoji-on-the-web/)
 
-- [unchecked: Say goodbye to checked exceptions forever](https://github.com/rogerkeays/unchecked)
+- [Moonpool: commodity thread pools for OCaml 5](https://github.com/c-cube/moonpool/)
 
-- [a5k: Another World on a chip](https://github.com/sylefeb/a5k)
+- [Generate static sites for reading subreddit archives](https://github.com/raffomania/aharc)
 
-- [{n} times faster than C, where n = 128](https://ipthomas.com/blog/2023/07/n-times-faster-than-c-where-n-128/)
+- [Nix Package Versions](https://lazamar.co.uk/nix-versions/)
 
-- [libxo: The Easy Way to Generate text, XML, JSON, and HTML output](https://juniper.github.io/libxo/libxo-manual.html)
+- [Store age identities inside the TPM: age-plugin-tpm](https://linderud.dev/blog/store-age-identities-inside-the-tpm-age-plugin-tpm/)
 
-- [Ghostty Devlog 001](https://mitchellh.com/writing/ghostty-devlog-001)
+- [I'm moving my projects off GitHub (2022)](https://ntietz.com/blog/moving-off-github/)
 
-- [brismu: a relational interpretation of Lojban](https://mostawesomedude.github.io/brismu/)
+- [Pointers in Far Memory](https://queue.acm.org/detail.cfm?id=3606029)
 
-- [keyboards and web apps, my post/rant for the year](https://pb.co.za/keyboards-and-web-apps-my-post-slash-rant-for-the-year)
+- [Coroutines for Go](https://research.swtch.com/coro)
 
-- [Podman Desktop 1.2](https://podman-desktop.io/blog/podman-desktop-release-1.2)
+- [Implementing smart pointers for the C programming language](https://snai.pe/posts/c-smart-pointers)
 
-- [The path to implementing a programming language](https://rainingcomputers.blog/dist/the_path_to_implementing_a_programming_language.md)
+- [Announcing Stalwart Mail Server](https://stalw.art/blog/announcing-mail-server/)
 
-- [Recursive COW pages in userspace](https://wheybags.com/blog/cow.html)
+- [bfs 3.0: the fastest find yet](https://tavianator.com/2023/bfs_3.0.html)
 
-- [The Trouble with Checked Exceptions (2003)](https://www.artima.com/articles/the-trouble-with-checked-exceptions)
+- [Forwarding container traffic via a VPN in Kubernetes](https://tech.j4m3s.eu/posts/vpn-forwarding-on-k8s/)
 
-- [Managing LLM Context Is a Knapsack Problem](https://www.awelm.com/posts/knapsack/)
+- [Firefox has surpassed Chrome on Speedometer](https://treeherder.mozilla.org/perfherder/graphs?timerange=31536000&series=mozilla-central,3735773,1,13&series=mozilla-central,3412459,1,13)
 
-- [What is the difference between Turbo and Stimulus, and what exactly is Hotwire?](https://www.ducktypelabs.com/turbo-vs-stimulus/)
+- [FAQ on the 500-mile email](https://www.ibiblio.org/harris/500milemail-faq.html)
 
-- [The Principles of the Flix Programming Language](https://www.youtube.com/watch?v=RNZeAmp1EaA)
+- [Postgres Partition Pains - LockManager Waits](https://www.kylehailey.com/post/postgres-partition-pains-lockmanager-waits)
 
-- [Ada Outperforms Assembly: A Case Study](https://www2.seas.gwu.edu/~adagroup/sigada-website/lawlis.html)
+- [The 11 Aspects of Good Code](https://www.pathsensitive.com/2023/07/the-11-aspects-of-good-code.html)
 
-- [How Wozniak’s code for the Apple 1 works](https://youtu.be/SpG8rgI7Hec)
+- [How Deno works](https://www.zaynetro.com/post/2023-how-deno-works)
+
+- [strlcpy and strlcat added to glibc](https://zine.dev/2023/07/strlcpy-and-strlcat-added-to-glibc/)
