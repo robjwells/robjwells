@@ -1,49 +1,45 @@
-- [Search over 400k historical versions of nix packages at nixhub.io](http://nixhub.io/)
+- [The Six Dumbest Ideas in Computer Security (2005)](http://www.ranum.com/security/computer_security/editorials/dumb/)
 
-- [Ten Years of “Go: The Good, the Bad, and the Meh”](https://blog.carlmjohnson.net/post/2023/ten-years-of-go-good-bad-meh/)
+- [Small joys of programming in Odin](http://www.zannzen.com/blog/small_joys_with_odin_1/)
 
-- [Reverse engineering Tesla 2-bus protocol](https://blog.danman.eu/reverse-engineering-tesla-2-bus-protocol/)
+- [A Novice’s Intro to XSLT (2016)](https://acrl.ala.org/techconnect/post/a-novices-intro-to-xslt/)
 
-- [Analyzing Go Build Times](https://blog.howardjohn.info/posts/go-build-times/)
+- [My Infrastructure Megaupdate](https://blog.gabrielsimmer.com/posts/infrastructure-megaupdate/)
 
-- [The Weaknesses of Smalltalk are the Strengths of Erlang (2011)](https://eighty-twenty.org/2011/05/08/weaknesses-of-smalltalk-strengths-of-erlang#comments)
+- [tsnsrv, or easily accessing services on your tailscale network](https://boinkor.net/2023/07/tsnsrv-or-easily-accessing-services-on-your-tailscale-network/)
 
-- [10NES](https://fabiensanglard.net/10nes/index.html)
+- [Queryability and the Sublime Mediocrity of SQL](https://buttondown.email/hillelwayne/archive/queryability-and-the-sublime-mediocrity-of-sql/)
 
-- [SHOW-1 and Showrunner Agents in Multi-Agent Simulations](https://fablestudio.github.io/showrunner-agents/)
+- [Async cancel safety in lilos: Mutex without lock, Queue without push](https://cliffle.com/blog/lilos-cancel-safety/)
 
-- [Using emoji on the web](https://fullystacked.net/posts/using-emoji-on-the-web/)
+- [What Happened to Dolphin on Steam?](https://dolphin-emu.org/blog/2023/07/20/what-happened-to-dolphin-on-steam/)
 
-- [Moonpool: commodity thread pools for OCaml 5](https://github.com/c-cube/moonpool/)
+- [Preview: ranging over functions in Go](https://eli.thegreenplace.net/2023/preview-ranging-over-functions-in-go/)
 
-- [Generate static sites for reading subreddit archives](https://github.com/raffomania/aharc)
+- [Linewise translating unit-tested Python to Haskell to compare defects caught and expressivity (2012)](https://evanfarrer.blogspot.com/2012/06/unit-testing-isnt-enough-you-need.html)
 
-- [Nix Package Versions](https://lazamar.co.uk/nix-versions/)
+- [Computational complexity of texture encoding](https://fgiesen.wordpress.com/2023/07/21/computational-complexity-of-texture-encoding/)
 
-- [Store age identities inside the TPM: age-plugin-tpm](https://linderud.dev/blog/store-age-identities-inside-the-tpm-age-plugin-tpm/)
+- [Web Environment Integrity Explainer](https://github.com/RupertBenWiser/Web-Environment-Integrity/blob/main/explainer.md)
 
-- [I'm moving my projects off GitHub (2022)](https://ntietz.com/blog/moving-off-github/)
+- [IHP v1.1 has been released](https://github.com/digitallyinduced/ihp/releases/tag/v1.1.0)
 
-- [Pointers in Far Memory](https://queue.acm.org/detail.cfm?id=3606029)
+- [Rethinking infrastructure as code from scratch](https://nathanpeck.com/rethinking-infrastructure-as-code-from-scratch/)
 
-- [Coroutines for Go](https://research.swtch.com/coro)
+- [Implementing Tic Tac Toe with 170mb of HTML - no JS or CSS](https://portswigger.net/blog/tic-tac-toe-in-html)
 
-- [Implementing smart pointers for the C programming language](https://snai.pe/posts/c-smart-pointers)
+- [HP-1973, an emulator for the HP-35, HP-45, and HP-80 calculators](https://sarahkmarr.com/retrohp1973.html)
 
-- [Announcing Stalwart Mail Server](https://stalw.art/blog/announcing-mail-server/)
+- [Threads and Goroutines](https://shane.ai/posts/threads-and-goroutines/)
 
-- [bfs 3.0: the fastest find yet](https://tavianator.com/2023/bfs_3.0.html)
+- [Updating FreeBSD on armv6 board (RPI-B)](https://smallhacks.wordpress.com/2023/07/20/updating-freebsd-on-armv6-board-rpi-b/)
 
-- [Forwarding container traffic via a VPN in Kubernetes](https://tech.j4m3s.eu/posts/vpn-forwarding-on-k8s/)
+- [A love letter to Objective-C](https://thoughtbot.com/blog/a-love-letter-to-objective-c)
 
-- [Firefox has surpassed Chrome on Speedometer](https://treeherder.mozilla.org/perfherder/graphs?timerange=31536000&series=mozilla-central,3735773,1,13&series=mozilla-central,3412459,1,13)
+- [HTTP has become the default, universal communication protocol](https://utcc.utoronto.ca/~cks/space/blog/tech/HTTPUniversalDefaultProtocol)
 
-- [FAQ on the 500-mile email](https://www.ibiblio.org/harris/500milemail-faq.html)
+- [Using Prolog in Windows NT Network Configuration (1996)](https://web.archive.org/web/20030224104712/http://research.microsoft.com/research/dtg/davidhov/pap.htm)
 
-- [Postgres Partition Pains - LockManager Waits](https://www.kylehailey.com/post/postgres-partition-pains-lockmanager-waits)
+- [Nanosecond timestamp collisions are common](https://www.evanjones.ca/nanosecond-collisions.html)
 
-- [The 11 Aspects of Good Code](https://www.pathsensitive.com/2023/07/the-11-aspects-of-good-code.html)
-
-- [How Deno works](https://www.zaynetro.com/post/2023-how-deno-works)
-
-- [strlcpy and strlcat added to glibc](https://zine.dev/2023/07/strlcpy-and-strlcat-added-to-glibc/)
+- [A 17th-century font in a 21st-century thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
