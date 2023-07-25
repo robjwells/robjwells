@@ -1,45 +1,47 @@
-- [The Six Dumbest Ideas in Computer Security (2005)](http://www.ranum.com/security/computer_security/editorials/dumb/)
+- [A Breakdown of HTTP Clients in Elixir](https://andrealeopardi.com/posts/breakdown-of-http-clients-in-elixir/)
 
-- [Small joys of programming in Odin](http://www.zannzen.com/blog/small_joys_with_odin_1/)
+- [The IBM mainframe: How it runs and why it survives](https://arstechnica.com/information-technology/2023/07/the-ibm-mainframe-how-it-runs-and-why-it-survives/)
 
-- [A Novice’s Intro to XSLT (2016)](https://acrl.ala.org/techconnect/post/a-novices-intro-to-xslt/)
+- [BasicBlocker: ISA Redesign to Make Spectre-Immune CPUs Faster (2021)](https://arxiv.org/abs/2007.15919)
 
-- [My Infrastructure Megaupdate](https://blog.gabrielsimmer.com/posts/infrastructure-megaupdate/)
+- [Common pitfalls in Go benchmarking](https://eli.thegreenplace.net/2023/common-pitfalls-in-go-benchmarking/)
 
-- [tsnsrv, or easily accessing services on your tailscale network](https://boinkor.net/2023/07/tsnsrv-or-easily-accessing-services-on-your-tailscale-network/)
+- [Go iterator experiment](https://gist.github.com/carlmjohnson/f04f8a9ba2293854cdb4e3b742fc1fe0)
 
-- [Queryability and the Sublime Mediocrity of SQL](https://buttondown.email/hillelwayne/archive/queryability-and-the-sublime-mediocrity-of-sql/)
+- [Compressed Chunk Image Format](https://github.com/ghoomy/universe/blob/main/computer%20science/compressed%20chunk%20image%20format.md)
 
-- [Async cancel safety in lilos: Mutex without lock, Queue without push](https://cliffle.com/blog/lilos-cancel-safety/)
+- [Package manager for SQLite](https://github.com/nalgeon/sqlpkg-cli#readme)
 
-- [What Happened to Dolphin on Steam?](https://dolphin-emu.org/blog/2023/07/20/what-happened-to-dolphin-on-steam/)
+- [Better code highlighting on the web: rehype-tree-sitter](https://haz.ee/technical/rehype-tree-sitter/)
 
-- [Preview: ranging over functions in Go](https://eli.thegreenplace.net/2023/preview-ranging-over-functions-in-go/)
+- [100K+ Open Source SVG Icons, Fully Customizable](https://iconbuddy.app/)
 
-- [Linewise translating unit-tested Python to Haskell to compare defects caught and expressivity (2012)](https://evanfarrer.blogspot.com/2012/06/unit-testing-isnt-enough-you-need.html)
+- [Inkscape launches version 1.3 with a focus on organizing work efficiently](https://inkscape.org/news/2023/07/23/inkscape-launches-version-13-focus-organizing-work/)
 
-- [Computational complexity of texture encoding](https://fgiesen.wordpress.com/2023/07/21/computational-complexity-of-texture-encoding/)
+- [Announcing Clipper: TLS-transparent HTTP debugging for native apps](https://jade.fyi/blog/announcing-clipper/)
 
-- [Web Environment Integrity Explainer](https://github.com/RupertBenWiser/Web-Environment-Integrity/blob/main/explainer.md)
+- [The Original Sin of Free Software (2019)](https://lipu.dgold.eu/original-sin)
 
-- [IHP v1.1 has been released](https://github.com/digitallyinduced/ihp/releases/tag/v1.1.0)
+- [riscv64 is now an official Debian architecture](https://lists.debian.org/debian-riscv/2023/07/msg00053.html)
 
-- [Rethinking infrastructure as code from scratch](https://nathanpeck.com/rethinking-infrastructure-as-code-from-scratch/)
+- [Zenbleed](https://lock.cmpxchg8b.com/zenbleed.html)
 
-- [Implementing Tic Tac Toe with 170mb of HTML - no JS or CSS](https://portswigger.net/blog/tic-tac-toe-in-html)
+- [Seriously, you should be having fun writing software at work](https://medium.com/leboncoin-engineering-blog/seriously-you-should-be-having-fun-writing-software-at-work-fa92c7cd008c)
 
-- [HP-1973, an emulator for the HP-35, HP-45, and HP-80 calculators](https://sarahkmarr.com/retrohp1973.html)
+- [Durable Incrementality](https://rust-analyzer.github.io/blog/2023/07/24/durable-incrementality.html)
 
-- [Threads and Goroutines](https://shane.ai/posts/threads-and-goroutines/)
+- [sqlite-utils now supports plugins](https://simonwillison.net/2023/Jul/24/sqlite-utils-plugins/)
 
-- [Updating FreeBSD on armv6 board (RPI-B)](https://smallhacks.wordpress.com/2023/07/20/updating-freebsd-on-armv6-board-rpi-b/)
+- [The single most impor­tant factor that dif­fer­enti­ates front-end frame­works](https://themer.dev/blog/the-single-most-important-factor-that-differentiates-front-end-frameworks)
 
-- [A love letter to Objective-C](https://thoughtbot.com/blog/a-love-letter-to-objective-c)
+- [Theo de Raadt on Zenbleed](https://undeadly.org/cgi?action=article;sid=20230724224011)
 
-- [HTTP has become the default, universal communication protocol](https://utcc.utoronto.ca/~cks/space/blog/tech/HTTPUniversalDefaultProtocol)
+- [The e-graph data structure: a gradual introduction](https://www.cole-k.com/2023/07/24/e-graphs-primer/)
 
-- [Using Prolog in Windows NT Network Configuration (1996)](https://web.archive.org/web/20030224104712/http://research.microsoft.com/research/dtg/davidhov/pap.htm)
+- [Attention Is Off By One](https://www.evanmiller.org/attention-is-off-by-one.html)
 
-- [Nanosecond timestamp collisions are common](https://www.evanjones.ca/nanosecond-collisions.html)
+- [From U2F to passkeys](https://www.imperialviolet.org/2023/07/23/u2f-to-passkeys.html)
 
-- [A 17th-century font in a 21st-century thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
+- [Introducing Intel® Advanced Performance Extensions (Intel® APX)](https://www.intel.com/content/www/us/en/developer/articles/technical/advanced-performance-extensions-apx.html)
+
+- [What’s new in QML Language Server (qmlls) shipped with Qt 6.6](https://www.qt.io/blog/whats-new-in-qml-language-server-qmlls-shipped-with-qt-6.6)
