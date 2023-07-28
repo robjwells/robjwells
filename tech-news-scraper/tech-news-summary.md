@@ -1,47 +1,49 @@
-- [A Breakdown of HTTP Clients in Elixir](https://andrealeopardi.com/posts/breakdown-of-http-clients-in-elixir/)
+- [Soldering a Micro USB Socket to a PCB](https://bigdanzblog.wordpress.com/2023/07/26/soldering-a-micro-usb-socket-to-a-pcb/)
 
-- [The IBM mainframe: How it runs and why it survives](https://arstechnica.com/information-technology/2023/07/the-ibm-mainframe-how-it-runs-and-why-it-survives/)
+- [crates.io Postmortem: Broken Crate Downloads](https://blog.rust-lang.org/inside-rust/2023/07/21/crates-io-postmortem.html)
 
-- [BasicBlocker: ISA Redesign to Make Spectre-Immune CPUs Faster (2021)](https://arxiv.org/abs/2007.15919)
+- [Rethinking Window Management in GNOME](https://blogs.gnome.org/tbernard/2023/07/26/rethinking-window-management/)
 
-- [Common pitfalls in Go benchmarking](https://eli.thegreenplace.net/2023/common-pitfalls-in-go-benchmarking/)
+- [BlazingMQ: High-performance open source message queuing system](https://bloomberg.github.io/blazingmq/)
 
-- [Go iterator experiment](https://gist.github.com/carlmjohnson/f04f8a9ba2293854cdb4e3b742fc1fe0)
+- [Automated Data Quality at Scale](https://cleanlab.ai/blog/automated-data-quality-at-scale/)
 
-- [Compressed Chunk Image Format](https://github.com/ghoomy/universe/blob/main/computer%20science/compressed%20chunk%20image%20format.md)
+- [Surviving the night in Conways Game of Life](https://davidhampgonsalves.com/solar-powered-conways-game-of-life/)
 
-- [Package manager for SQLite](https://github.com/nalgeon/sqlpkg-cli#readme)
+- [A Long Journey to Cross Platform Developer Tooling Utopia (For Now)](https://eng.d2iq.com/blog/a-long-journey-to-cross-platform-developer-tooling-utopia-for-now/)
 
-- [Better code highlighting on the web: rehype-tree-sitter](https://haz.ee/technical/rehype-tree-sitter/)
+- [Commander Keen's Adaptive Tile Refresh](https://fabiensanglard.net/ega/)
 
-- [100K+ Open Source SVG Icons, Fully Customizable](https://iconbuddy.app/)
+- [Object as a Morphism (2015)](https://fumieval.github.io/papers/en/2015-Haskell-objects.pdf)
 
-- [Inkscape launches version 1.3 with a focus on organizing work efficiently](https://inkscape.org/news/2023/07/23/inkscape-launches-version-13-focus-organizing-work/)
+- [buzz 0.2.0 release](https://github.com/buzz-language/buzz/releases/tag/0.2.0)
 
-- [Announcing Clipper: TLS-transparent HTTP debugging for native apps](https://jade.fyi/blog/announcing-clipper/)
+- [relocation: 2d puzzle involving moving groups of tiles around under a certain ruleset](https://github.com/heav-4/relocation)
 
-- [The Original Sin of Free Software (2019)](https://lipu.dgold.eu/original-sin)
+- [LispE isn't exactly your granny's Lisp](https://github.com/naver/lispe/wiki/6.19-LispE-isn't-exactly-your-granny's-Lisp)
 
-- [riscv64 is now an official Debian architecture](https://lists.debian.org/debian-riscv/2023/07/msg00053.html)
+- [mold 2.0.0](https://github.com/rui314/mold/releases/tag/v2.0.0)
 
-- [Zenbleed](https://lock.cmpxchg8b.com/zenbleed.html)
+- [Tarsnap outage post-mortem](https://mail.tarsnap.com/tarsnap-announce/msg00050.html)
 
-- [Seriously, you should be having fun writing software at work](https://medium.com/leboncoin-engineering-blog/seriously-you-should-be-having-fun-writing-software-at-work-fa92c7cd008c)
+- [Unicode is harder than you think](https://mcilloni.ovh/2023/07/23/unicode-is-hard/)
 
-- [Durable Incrementality](https://rust-analyzer.github.io/blog/2023/07/24/durable-incrementality.html)
+- [Numbr – notepad + calculator/ currencies](https://numbr.dev)
 
-- [sqlite-utils now supports plugins](https://simonwillison.net/2023/Jul/24/sqlite-utils-plugins/)
+- [How to create your own SEO tool](https://onebite.dev/how-to-create-your-own-seo-tool)
 
-- [The single most impor­tant factor that dif­fer­enti­ates front-end frame­works](https://themer.dev/blog/the-single-most-important-factor-that-differentiates-front-end-frameworks)
+- [What we plan to remove in KDE Plasma 6](https://pointieststick.com/2023/07/26/what-we-plan-to-remove-in-plasma-6/)
 
-- [Theo de Raadt on Zenbleed](https://undeadly.org/cgi?action=article;sid=20230724224011)
+- [Android app in Haskell, six months, no previous Android experience](https://shapr.github.io/posts/2023-07-25-android-app-in-haskell.html)
 
-- [The e-graph data structure: a gradual introduction](https://www.cole-k.com/2023/07/24/e-graphs-primer/)
+- [Is this an emoji?](https://spiffy.tech/is-this-an-emoji)
 
-- [Attention Is Off By One](https://www.evanmiller.org/attention-is-off-by-one.html)
+- [Is highlight.js Harmful for Your Site?](https://toast.al/posts/softwarecraft/2023-07-28_client-side-syntax-highlighting-must-stop)
 
-- [From U2F to passkeys](https://www.imperialviolet.org/2023/07/23/u2f-to-passkeys.html)
+- [Introducing TiddlyPWA: putting TiddlyWiki on modern web app steroids](https://val.packett.cool/blog/tiddlypwa/)
 
-- [Introducing Intel® Advanced Performance Extensions (Intel® APX)](https://www.intel.com/content/www/us/en/developer/articles/technical/advanced-performance-extensions-apx.html)
+- [Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html)
 
-- [What’s new in QML Language Server (qmlls) shipped with Qt 6.6](https://www.qt.io/blog/whats-new-in-qml-language-server-qmlls-shipped-with-qt-6.6)
+- [FreeBSD Status Report 2023 Q2](https://www.freebsd.org/status/report-2023-04-2023-06/)
+
+- [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)
