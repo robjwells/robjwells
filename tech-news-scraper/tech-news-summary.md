@@ -1,49 +1,49 @@
-- [Soldering a Micro USB Socket to a PCB](https://bigdanzblog.wordpress.com/2023/07/26/soldering-a-micro-usb-socket-to-a-pcb/)
+- [The proposal to enhance Go's HTTP router](https://benhoyt.com/writings/go-servemux-enhancements/)
 
-- [crates.io Postmortem: Broken Crate Downloads](https://blog.rust-lang.org/inside-rust/2023/07/21/crates-io-postmortem.html)
+- [The shell and its crappy handling of whitespace](https://blog.plover.com/Unix/whitespace.html)
 
-- [Rethinking Window Management in GNOME](https://blogs.gnome.org/tbernard/2023/07/26/rethinking-window-management/)
+- [Cap'n Proto 1.0](https://capnproto.org/news/2023-07-28-capnproto-1.0.html)
 
-- [BlazingMQ: High-performance open source message queuing system](https://bloomberg.github.io/blazingmq/)
+- [The Worst API Ever Made (2014)](https://caseymuratori.com/blog_0025)
 
-- [Automated Data Quality at Scale](https://cleanlab.ai/blog/automated-data-quality-at-scale/)
+- [Fork Routing Protocol](https://github.com/ghoomy/universe/blob/main/computer%20science/fork%20routing%20protocol.md)
 
-- [Surviving the night in Conways Game of Life](https://davidhampgonsalves.com/solar-powered-conways-game-of-life/)
+- [SoftVC VITS Singing Voice Conversion](https://github.com/svc-develop-team/so-vits-svc)
 
-- [A Long Journey to Cross Platform Developer Tooling Utopia (For Now)](https://eng.d2iq.com/blog/a-long-journey-to-cross-platform-developer-tooling-utopia-for-now/)
+- [Rectangular Micro QR Code (rMQR)](https://hackaday.io/project/192082-rectangular-micro-qr-code-rmqr/)
 
-- [Commander Keen's Adaptive Tile Refresh](https://fabiensanglard.net/ega/)
+- [jless - A Command-Line JSON (and YAML) Viewer](https://jless.io/)
 
-- [Object as a Morphism (2015)](https://fumieval.github.io/papers/en/2015-Haskell-objects.pdf)
+- ["Gzip beats BERT?" Part 2: dataset issues, improved speed, and results](https://kenschutte.com/gzip-knn-paper2/)
 
-- [buzz 0.2.0 release](https://github.com/buzz-language/buzz/releases/tag/0.2.0)
+- [Ingest OpenTelemetry metrics with Prometheus natively](https://last9.io/blog/native-support-for-opentelemetry-metrics-in-prometheus/)
 
-- [relocation: 2d puzzle involving moving groups of tiles around under a certain ruleset](https://github.com/heav-4/relocation)
+- [Emacs 29.1 Released](https://lists.gnu.org/archive/html/emacs-devel/2023-07/msg00879.html)
 
-- [LispE isn't exactly your granny's Lisp](https://github.com/naver/lispe/wiki/6.19-LispE-isn't-exactly-your-granny's-Lisp)
+- [Making the ReScript type system work for you (Part I)](https://practicalrescript.com/making-the-rescript-type-system-work-for-you-part-i/)
 
-- [mold 2.0.0](https://github.com/rui314/mold/releases/tag/v2.0.0)
+- [Why the “Null” Lifetime Does Not Exist](https://sabrinajewson.org/blog/null-lifetime)
 
-- [Tarsnap outage post-mortem](https://mail.tarsnap.com/tarsnap-announce/msg00050.html)
+- [Run property tests until coverage stops increasing](https://shapr.github.io/posts/2023-07-30-goldilocks-property-tests.html)
 
-- [Unicode is harder than you think](https://mcilloni.ovh/2023/07/23/unicode-is-hard/)
+- [Spectrum, a step towards usable secure computing](https://spectrum-os.org/)
 
-- [Numbr – notepad + calculator/ currencies](https://numbr.dev)
+- [Functions are Vectors](https://thenumb.at/Functions-are-Vectors/)
 
-- [How to create your own SEO tool](https://onebite.dev/how-to-create-your-own-seo-tool)
+- [SwiftUI Data Flow 2023](https://troz.net/post/2023/swiftui-data-flow-2023/)
 
-- [What we plan to remove in KDE Plasma 6](https://pointieststick.com/2023/07/26/what-we-plan-to-remove-in-plasma-6/)
+- [Data transmission over mud](https://twitter.com/patio11/status/1685460287129063424)
 
-- [Android app in Haskell, six months, no previous Android experience](https://shapr.github.io/posts/2023-07-25-android-app-in-haskell.html)
+- [Retrospective Prompts](https://two-wrongs.com/retro-prompts.html)
 
-- [Is this an emoji?](https://spiffy.tech/is-this-an-emoji)
+- [AMD Based FreeBSD Desktop](https://vermaden.wordpress.com/2023/07/30/amd-based-freebsd-desktop/)
 
-- [Is highlight.js Harmful for Your Site?](https://toast.al/posts/softwarecraft/2023-07-28_client-side-syntax-highlighting-must-stop)
+- [Logging in Ruby: (Almost) Everything You Need to Know](https://www.akshaykhot.com/logging-in-ruby/)
 
-- [Introducing TiddlyPWA: putting TiddlyWiki on modern web app steroids](https://val.packett.cool/blog/tiddlypwa/)
+- [Workarounds for C11 _Generic](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/c11-generic/)
 
-- [Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html)
+- [QubesOS: Silos of Isolation](https://www.sevarg.net/2023/07/29/qubes-os-silos-of-isolation/)
 
-- [FreeBSD Status Report 2023 Q2](https://www.freebsd.org/status/report-2023-04-2023-06/)
+- [Faster than Rust and C++: the PERFECT hash table](https://www.youtube.com/watch?v=DMQ_HcNSOAI)
 
-- [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)
+- [Repeating Yourself Thrice Doesn’t Turn You Into a 3x Developer](https://yrashk.medium.com/repeating-yourself-thrice-doesnt-turn-you-into-a-3x-developer-a778495229c0)
