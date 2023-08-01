@@ -1,49 +1,45 @@
+- [Relay-style GraphQL](https://alan.norbauer.com/articles/relay-style-graphql)
+
+- [Generalising the Fast Reciprocal Square Root Algorithm](https://arxiv.org/pdf/2307.15600.pdf)
+
 - [The proposal to enhance Go's HTTP router](https://benhoyt.com/writings/go-servemux-enhancements/)
+
+- [The Legacy of Stagefright](https://blog.isosceles.com/the-legacy-of-stagefright/)
 
 - [The shell and its crappy handling of whitespace](https://blog.plover.com/Unix/whitespace.html)
 
-- [Cap'n Proto 1.0](https://capnproto.org/news/2023-07-28-capnproto-1.0.html)
+- [Free Public WiFi](https://computer.rip/2023-07-29-Free-Public-WiFi.html)
 
-- [The Worst API Ever Made (2014)](https://caseymuratori.com/blog_0025)
+- [File distribution over DNS: (ab)using DNS as a CDN](https://eighty-twenty.org/2023/07/31/dns-as-a-cdn)
 
-- [Fork Routing Protocol](https://github.com/ghoomy/universe/blob/main/computer%20science/fork%20routing%20protocol.md)
+- [List of software bugs](https://en.wikipedia.org/wiki/List_of_software_bugs)
 
-- [SoftVC VITS Singing Voice Conversion](https://github.com/svc-develop-team/so-vits-svc)
+- [It's Nix All The Way Down](https://ersei.net/en/blog/nix-all-the-way-down)
 
-- [Rectangular Micro QR Code (rMQR)](https://hackaday.io/project/192082-rectangular-micro-qr-code-rmqr/)
+- [MS Paint in your terminal](https://github.com/1j01/textual-paint)
 
-- [jless - A Command-Line JSON (and YAML) Viewer](https://jless.io/)
+- [The Fibonacci Matrix](https://ianthehenry.com/posts/fibonacci/)
 
-- ["Gzip beats BERT?" Part 2: dataset issues, improved speed, and results](https://kenschutte.com/gzip-knn-paper2/)
+- [IRC is the Only Viable Chat Protocol (2022)](https://koshka.love/babel/irc-forever.html)
 
-- [Ingest OpenTelemetry metrics with Prometheus natively](https://last9.io/blog/native-support-for-opentelemetry-metrics-in-prometheus/)
+- [GNU/Hurd strikes back](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
 
-- [Emacs 29.1 Released](https://lists.gnu.org/archive/html/emacs-devel/2023-07/msg00879.html)
+- [Throw away your first draft of your code](https://ntietz.com/blog/throw-away-your-first-draft/)
 
-- [Making the ReScript type system work for you (Part I)](https://practicalrescript.com/making-the-rescript-type-system-work-for-you-part-i/)
-
-- [Why the “Null” Lifetime Does Not Exist](https://sabrinajewson.org/blog/null-lifetime)
+- ["Once" one-time concurrent initialization with an integer](https://nullprogram.com/blog/2023/07/31/)
 
 - [Run property tests until coverage stops increasing](https://shapr.github.io/posts/2023-07-30-goldilocks-property-tests.html)
 
-- [Spectrum, a step towards usable secure computing](https://spectrum-os.org/)
+- [True Keyless CDN](https://true-keyless.thejh.net/)
 
-- [Functions are Vectors](https://thenumb.at/Functions-are-Vectors/)
+- [Reflections on a Month with BBEdit and Nova](https://v5.chriskrycho.com/journal/reflections-on-a-month-with-bbedit-and-nova/)
 
-- [SwiftUI Data Flow 2023](https://troz.net/post/2023/swiftui-data-flow-2023/)
+- [Sliding in a Type Checker](https://veera.app/type_checking.html)
 
-- [Data transmission over mud](https://twitter.com/patio11/status/1685460287129063424)
+- [LL(1) Parsing: Write your own context-free grammar and see an LL(1) parser in action! (2022)](https://www.cs.princeton.edu/courses/archive/spring22/cos320/LL1/index.html)
 
-- [Retrospective Prompts](https://two-wrongs.com/retro-prompts.html)
+- [Comparison XMPP/Matrix](https://www.freie-messenger.de/en/systemvergleich/xmpp-matrix/)
 
-- [AMD Based FreeBSD Desktop](https://vermaden.wordpress.com/2023/07/30/amd-based-freebsd-desktop/)
+- [Video resizer in browser locally with ffprobe / ffmpeg wasm](https://www.resizemp4.com/)
 
-- [Logging in Ruby: (Almost) Everything You Need to Know](https://www.akshaykhot.com/logging-in-ruby/)
-
-- [Workarounds for C11 _Generic](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/c11-generic/)
-
-- [QubesOS: Silos of Isolation](https://www.sevarg.net/2023/07/29/qubes-os-silos-of-isolation/)
-
-- [Faster than Rust and C++: the PERFECT hash table](https://www.youtube.com/watch?v=DMQ_HcNSOAI)
-
-- [Repeating Yourself Thrice Doesn’t Turn You Into a 3x Developer](https://yrashk.medium.com/repeating-yourself-thrice-doesnt-turn-you-into-a-3x-developer-a778495229c0)
+- [Microsoft Comic Chat [1996]](https://www.youtube.com/watch?v=goEqyQgWIe4)
