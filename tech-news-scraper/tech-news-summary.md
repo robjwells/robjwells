@@ -1,45 +1,49 @@
-- [Relay-style GraphQL](https://alan.norbauer.com/articles/relay-style-graphql)
+- [Going Beyond an Incident Report with TLA+](http://muratbuffalo.blogspot.com/2023/08/going-beyond-incident-report-with-tla.html)
 
-- [Generalising the Fast Reciprocal Square Root Algorithm](https://arxiv.org/pdf/2307.15600.pdf)
+- [Classic GNU/Linux desktop screenshots (2001-2004)](http://www.danielsoft.cz/galerie/index.html)
 
-- [The proposal to enhance Go's HTTP router](https://benhoyt.com/writings/go-servemux-enhancements/)
+- [Asahi Linux has new flagship distro: Fedora Asahi Remix](https://asahilinux.org/2023/08/fedora-asahi-remix/)
 
-- [The Legacy of Stagefright](https://blog.isosceles.com/the-legacy-of-stagefright/)
+- [If Web Components are so great, why am I not using them?](https://daverupert.com/2023/07/why-not-webcomponents/)
 
-- [The shell and its crappy handling of whitespace](https://blog.plover.com/Unix/whitespace.html)
+- [Don’t Configure Control Flow](https://earthly.dev/blog/dont-configure-control-flow/)
 
-- [Free Public WiFi](https://computer.rip/2023-07-29-Free-Public-WiFi.html)
+- [System settings that aren’t in System Settings](https://eclecticlight.co/2023/07/29/system-settings-that-arent-in-system-settings/)
 
-- [File distribution over DNS: (ab)using DNS as a CDN](https://eighty-twenty.org/2023/07/31/dns-as-a-cdn)
+- [The PaaS Dilemma: Balancing Trust, Vendor Lock-in, and Open Source Solutions](https://encore.dev/blog/the-paas-dilemma)
 
-- [List of software bugs](https://en.wikipedia.org/wiki/List_of_software_bugs)
+- [MTE As Implemented, Part 1: Implementation Testing](https://googleprojectzero.blogspot.com/2023/08/mte-as-implemented-part-1.html)
 
-- [It's Nix All The Way Down](https://ersei.net/en/blog/nix-all-the-way-down)
+- [Simple networking (2020)](https://insanity.industries/post/simple-networking/)
 
-- [MS Paint in your terminal](https://github.com/1j01/textual-paint)
+- [What if service objects were just Procs?](https://jardo.dev/what-if-service-objects-were-just-procs)
 
-- [The Fibonacci Matrix](https://ianthehenry.com/posts/fibonacci/)
+- [Flutter Pros and Cons 2023 - Summary and Recommendations](https://leancode.co/blog/flutter-pros-and-cons-2023-summary)
 
-- [IRC is the Only Viable Chat Protocol (2022)](https://koshka.love/babel/irc-forever.html)
+- [kick.com sucks - a brief security overview](https://maia.crimew.gay/posts/kick.com-sucks/)
 
-- [GNU/Hurd strikes back](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
+- [A Gentle Introduction to LLVM IR](https://mcyoung.xyz/2023/08/01/llvm-ir/)
 
-- [Throw away your first draft of your code](https://ntietz.com/blog/throw-away-your-first-draft/)
+- [My Favorite Vim Oneliners For Text Manipulation](https://muhammadraza.me/2023/vim-onliners/)
 
-- ["Once" one-time concurrent initialization with an integer](https://nullprogram.com/blog/2023/07/31/)
+- [Does capability design force a re-eximantion of anonymity?](https://philosophy.stackexchange.com/a/101260/48431)
 
-- [Run property tests until coverage stops increasing](https://shapr.github.io/posts/2023-07-30-goldilocks-property-tests.html)
+- [PicoLisp ecosystem explored](https://picolisp-explored.com/)
 
-- [True Keyless CDN](https://true-keyless.thejh.net/)
+- [Quirks of Python package versioning](https://sethmlarson.dev/pep-440)
 
-- [Reflections on a Month with BBEdit and Nova](https://v5.chriskrycho.com/journal/reflections-on-a-month-with-bbedit-and-nova/)
+- [We need to tell people ChatGPT will lie to them, not debate linguistics](https://simonwillison.net/2023/Apr/7/chatgpt-lies/)
 
-- [Sliding in a Type Checker](https://veera.app/type_checking.html)
+- [Man Spends Entire Career Mastering Crappy Codebase](https://taylor.town/entire-career)
 
-- [LL(1) Parsing: Write your own context-free grammar and see an LL(1) parser in action! (2022)](https://www.cs.princeton.edu/courses/archive/spring22/cos320/LL1/index.html)
+- [Elixir For Cynical Curmudgeons](https://wiki.alopex.li/ElixirForCynicalCurmudgeons)
 
-- [Comparison XMPP/Matrix](https://www.freie-messenger.de/en/systemvergleich/xmpp-matrix/)
+- [Postgres log_statement='all' should be your default (2012)](https://www.endpointdev.com/blog/2012/06/logstatement-postgres-all-full-logging/)
 
-- [Video resizer in browser locally with ffprobe / ffmpeg wasm](https://www.resizemp4.com/)
+- [Oils 0.17.0 - YSH Is Becoming Real](https://www.oilshell.org/blog/2023/08/release-0.17.0.html)
 
-- [Microsoft Comic Chat [1996]](https://www.youtube.com/watch?v=goEqyQgWIe4)
+- [A Blog Post With Every HTML Element](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/)
+
+- [Things I'm excited for in Go 1.21](https://www.sethvargo.com/things-im-excited-for-in-go-1-21/)
+
+- [The Azul Hardware Transactional Memory experience (2019)](https://www.youtube.com/watch?v=GEkeOHw87Sg)
