@@ -1,49 +1,49 @@
-- [falsify: Internal Shrinking Reimagined for Haskell](http://www.edsko.net/pubs/falsify.pdf)
+- [The UNIX- HATERS Handbook (1994)](http://web.mit.edu/~simsong/www/ugh.pdf)
 
-- [Breaking Changes in Distributed Systems](https://azeemba.com/posts/breaking-changes-in-distributed-systems.html)
+- [Writing a package manager](https://antonz.org/writing-package-manager/)
 
-- [Name before type: why 'age int' is better than 'int age'](https://benhoyt.com/writings/name-before-type/)
+- [Because I can't ever remember SDL](https://benjcal.space/posts/because-I-cant-ever-remember-sdl/)
 
-- [Better-than-Cubic Complexity for Matrix Multiplication in Rust](https://betterprogramming.pub/better-than-cubic-complexity-for-matrix-multiplication-in-rust-cf8dfb6299f6)
+- [What I worked on for Go 1.21](https://blog.carlmjohnson.net/post/2023/go-121-flag-boolfunc-constraints/)
 
-- [Removing Randomness with LLDB](https://bryce.co/lldb-remove-randomness/)
+- [Instrumenting Axum projects](https://determinate.systems/posts/instrumenting-axum)
 
-- [5 Things I’ve Learned in 20 Years of Programming](https://daedtech.com/5-things-ive-learned-in-20-years-of-programming/)
+- [Downfall Attacks](https://downfall.page/)
 
-- [Why does libvirt support only 14 hot-plugged PCIe devices on x86-64?](https://dottedmag.net/blog/libvirt-14-pcie-devices/)
+- [Understanding Go 1.21 generics type inference](https://encore.dev/blog/go1.21-generics)
 
-- [Go internals: invariance and memory layout of slices (2021)](https://eli.thegreenplace.net/2021/go-internals-invariance-and-memory-layout-of-slices/)
+- [Proposals for iterator-related functions in the Go standard library](https://github.com/golang/go/issues/61897)
 
-- [MicrogradTS - a TypeScript version of karpathy/micrograd - a tiny autograd engine](https://github.com/trekhleb/micrograd-ts)
+- [How I came to use Emacs and other things](https://github.com/summeremacs/public/blob/main/20230629T180135--how-i-came-to-use-emacs-and-other-things__emacs_explanation_linux_origin_raspberrypi_story_terminal.org)
 
-- [Message from the family of Bram Moolenaar (he passed away)](https://groups.google.com/g/vim_announce/c/tWahca9zkt4)
+- [Typograms](https://google.github.io/typograms/)
 
-- [Compiler Development: Rust or OCaml?](https://hirrolot.github.io/posts/compiler-development-rust-or-ocaml.html#appendix-getting-started-with-ocaml)
+- [I found Kubernetes too complicated for my simple needs, so I wrote a tiny container orchestrator](https://harbormaster.readthedocs.io)
 
-- [A Lock-Free Vector](https://ibraheem.ca/posts/a-lock-free-vector/)
+- [Why Static Languages Suffer From Complexity (and type-safe printf implementation without macros)](https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity.html)
 
-- [A failed experiment with Rust static dispatch](https://jmmv.dev/2023/08/rust-static-dispatch-failed-experiment.html)
+- [Our current FOSS dystopia](https://idiomdrottning.org/foss-dystopia)
 
-- [A Look at RapidCDC and QuickCDC](https://joshleeb.com/posts/quickcdc-rapidcdc.html)
+- [What helps people get comfortable on the command line?](https://jvns.ca/blog/2023/08/08/what-helps-people-get-comfortable-on-the-command-line-/)
 
-- [Four levels of time handling in a database](https://korban.net/posts/postgres/2017-09-29-four-levels-of-time-handling-in-database/)
+- [Building a Transport Protocol on ARP](https://kognise.dev/writing/arp)
 
-- [CBOR is Greener than JSON](https://raw.githubusercontent.com/intarchboard/e-impact-workshop-public/main/papers/Moran-Birkholz-Bormann_Sustainability-considerations-for-networking-equipment.pdf.pdf)
+- [When is a computer proof a proof?](https://lawrencecpaulson.github.io/2023/08/09/computer_proof.html)
 
-- [Reverse Z (and why it’s so awesome)](https://tomhultonharrop.com/mathematics/graphics/2023/08/06/reverse-z.html)
+- [PlantUML](https://plantuml.com/)
 
-- [Energy efficiency in modern programming languages](https://umu.diva-portal.org/smash/get/diva2:1772067/FULLTEXT01.pdf)
+- [Uninstall the Nightowl App, now](https://robins.one/notes/uninstall-the-nightowl-app-now.html)
 
-- [How the rc shell handles whitespace](https://utcc.utoronto.ca/~cks/space/blog/unix/RcShellWhitespaceHandling)
+- [A RISC-V Capability Architecture Orchestrating Compiler, Architecture, And System Designs For Full Memory Safety (Georgia Tech, Arm Research)](https://semiengineering.com/a-risc-v-capability-architecture-orchestrating-compiler-architecture-and-system-designs-for-full-memory-safety/)
 
-- [Error Handling In Zig](https://www.aolium.com/karlseguin/4013ac14-2457-479b-e59b-e603c04673c8)
+- [Sorting Lines in Emacs](https://susam.net/blog/sorting-in-emacs.html)
 
-- [Evaluating the Break Even Period of Our Solar Battery](https://www.bentasker.co.uk/posts/blog/house-stuff/calculating-the-break-even-period-of-our-solar-battery.html)
+- [TunnelCrack: Widespread design flaws in VPN clients](https://tunnelcrack.mathyvanhoef.com/)
 
-- [Python cocktail: mix a context manager and an iterator in equal parts](https://www.bitecode.dev/p/python-cocktail-mix-a-context-manager)
+- [Is ChatGPT a bit unsporting?](https://www.kmjn.org/notes/chatgpt_unsporting.html)
 
-- [This Code Smells of Desperation](https://www.os2museum.com/wp/this-code-smells-of-desperation/)
+- [Java 21: what’s new?](https://www.loicmathieu.fr/wordpress/en/informatique/java-21-quoi-de-neuf/)
 
-- [The Taming of the B-Trees](https://www.scylladb.com/2021/11/23/the-taming-of-the-b-trees/)
+- [How we achieved NAT traversal with vanilla WireGuard](https://www.reddit.com/r/nordvpn/comments/15mfivc/nordvpn_expert_series_how_we_achieved_nat/)
 
-- [The History of Superconductors (Before LK-99)](https://www.youtube.com/watch?v=wUczYHyOhLM)
+- [Plan 9 and Inferno Go to School](https://youtu.be/BTxzsz6_4I0)
