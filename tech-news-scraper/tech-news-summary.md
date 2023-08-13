@@ -1,49 +1,49 @@
-- [The UNIX- HATERS Handbook (1994)](http://web.mit.edu/~simsong/www/ugh.pdf)
+- [Tracing the roots of the 8086 instruction set to the Datapoint 2200 minicomputer](http://www.righto.com/2023/08/datapoint-to-8086.html)
 
-- [Writing a package manager](https://antonz.org/writing-package-manager/)
+- [The complex simplicity of my static websites](https://alinpanaitiu.com/blog/complex-simplicity-of-static-websites/)
 
-- [Because I can't ever remember SDL](https://benjcal.space/posts/because-I-cant-ever-remember-sdl/)
+- [Squeeze the hell out of the system you have](https://blog.danslimmon.com/2023/08/11/squeeze-the-hell-out-of-the-system-you-have/)
 
-- [What I worked on for Go 1.21](https://blog.carlmjohnson.net/post/2023/go-121-flag-boolfunc-constraints/)
+- [Extracting sounds from Macromedia Director files](https://blog.gingerbeardman.com/2023/08/12/extracting-sounds-from-macromedia-director-files/)
 
-- [Instrumenting Axum projects](https://determinate.systems/posts/instrumenting-axum)
+- [Prepare your Firefox desktop extension for the upcoming Android release](https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/)
 
-- [Downfall Attacks](https://downfall.page/)
+- [STIRred AND SHAKEN](https://computer.rip/2023-08-07-STIRred-AND-SHAKEN.html)
 
-- [Understanding Go 1.21 generics type inference](https://encore.dev/blog/go1.21-generics)
+- [CLOS: Integrating Object-Oriented and Functional Programming (2004)](https://dreamsongs.com/Files/clos-cacm.pdf)
 
-- [Proposals for iterator-related functions in the Go standard library](https://github.com/golang/go/issues/61897)
+- [Virtualizing uxn](https://eighty-twenty.org/2023/08/11/virtualizing-uxn)
 
-- [How I came to use Emacs and other things](https://github.com/summeremacs/public/blob/main/20230629T180135--how-i-came-to-use-emacs-and-other-things__emacs_explanation_linux_origin_raspberrypi_story_terminal.org)
+- [mDNS Primer](https://fabiensanglard.net/mdns/index.html)
 
-- [Typograms](https://google.github.io/typograms/)
+- [[RFC 0136] A plan to stabilize the new nix CLI and Flakes incrementally](https://github.com/NixOS/rfcs/pull/136)
 
-- [I found Kubernetes too complicated for my simple needs, so I wrote a tiny container orchestrator](https://harbormaster.readthedocs.io)
+- [finite-wasm: Cheating a little to solve the halting problem at scale](https://github.com/near/finite-wasm)
 
-- [Why Static Languages Suffer From Complexity (and type-safe printf implementation without macros)](https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity.html)
+- [Running a Mainstream Linux Distro Natively on Apple Silicon: Fedora Asahi Remix First Impressions](https://jasoneckert.github.io/myblog/fedora-asahi-remix/)
 
-- [Our current FOSS dystopia](https://idiomdrottning.org/foss-dystopia)
+- [Optimizing the Point-in-Polygon Calculation for Geospatial Applications](https://nextbillion.ai/blog/optimizing-point-in-polygon-calculations-for-geospatial-applications)
 
-- [What helps people get comfortable on the command line?](https://jvns.ca/blog/2023/08/08/what-helps-people-get-comfortable-on-the-command-line-/)
+- [Cracking DesignWare's The Grammar Examiner on the C64](https://oldvcr.blogspot.com/2023/08/cracking-designwares-grammar-examiner.html)
 
-- [Building a Transport Protocol on ARP](https://kognise.dev/writing/arp)
+- [Rewriting wipEout](https://phoboslab.org/log/2023/08/rewriting-wipeout)
 
-- [When is a computer proof a proof?](https://lawrencecpaulson.github.io/2023/08/09/computer_proof.html)
+- [The downsides of C++ Coroutines](https://reductor.dev/cpp/2023/08/10/the-downsides-of-coroutines.html)
 
-- [PlantUML](https://plantuml.com/)
+- [Exploring the internals of Linux v0.01](https://seiya.me/blog/reading-linux-v0.01)
 
-- [Uninstall the Nightowl App, now](https://robins.one/notes/uninstall-the-nightowl-app-now.html)
+- [The importance of verifying webhook signatures](https://snyk.io/blog/verifying-webhook-signatures/)
 
-- [A RISC-V Capability Architecture Orchestrating Compiler, Architecture, And System Designs For Full Memory Safety (Georgia Tech, Arm Research)](https://semiengineering.com/a-risc-v-capability-architecture-orchestrating-compiler-architecture-and-system-designs-for-full-memory-safety/)
+- [Scaling Postgres to 1 Million Connections](https://supabase.com/blog/supavisor-1-million)
 
-- [Sorting Lines in Emacs](https://susam.net/blog/sorting-in-emacs.html)
+- [Counting non-intersecting double-diagonals in polygons](https://wsdookadr.github.io/posts/p10/)
 
-- [TunnelCrack: Widespread design flaws in VPN clients](https://tunnelcrack.mathyvanhoef.com/)
+- [Solving a simple puzzle using SymPy](https://wsdookadr.github.io/posts/p9/)
 
-- [Is ChatGPT a bit unsporting?](https://www.kmjn.org/notes/chatgpt_unsporting.html)
+- [Upgrading my Chumby 8 kernel part 6: PWM backlight](https://www.downtowndougbrown.com/2023/08/upgrading-my-chumby-8-kernel-part-6-pwm-backlight/)
 
-- [Java 21: what’s new?](https://www.loicmathieu.fr/wordpress/en/informatique/java-21-quoi-de-neuf/)
+- [Lingering Mac Office 2008 workaround – GeekLAN](https://www.geeklan.co.uk/?p=3209)
 
-- [How we achieved NAT traversal with vanilla WireGuard](https://www.reddit.com/r/nordvpn/comments/15mfivc/nordvpn_expert_series_how_we_achieved_nat/)
+- [Simple Haskell](https://www.simplehaskell.org/)
 
-- [Plan 9 and Inferno Go to School](https://youtu.be/BTxzsz6_4I0)
+- [Pijul: Version-Control Post-Git](https://youtu.be/7MpdZkGj5AI)
