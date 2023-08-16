@@ -1,49 +1,47 @@
-- [Tracing the roots of the 8086 instruction set to the Datapoint 2200 minicomputer](http://www.righto.com/2023/08/datapoint-to-8086.html)
+- [Anna’s Archive Containers (AAC): standardizing releases from the world’s largest shadow library](https://annas-blog.org/annas-archive-containers.html)
 
-- [The complex simplicity of my static websites](https://alinpanaitiu.com/blog/complex-simplicity-of-static-websites/)
+- [An XML DOM with just 8 bytes per node (2020)](https://blog.grijjy.com/2020/10/07/an-xml-dom-with-just-8-bytes-per-node/)
 
-- [Squeeze the hell out of the system you have](https://blog.danslimmon.com/2023/08/11/squeeze-the-hell-out-of-the-system-you-have/)
+- [Wine's PE -> UNIX Interface](https://blog.hiler.eu/wine-pe-to-unix/)
 
-- [Extracting sounds from Macromedia Director files](https://blog.gingerbeardman.com/2023/08/12/extracting-sounds-from-macromedia-director-files/)
+- [A normal week (in tech)](https://blog.ignaciobrasca.com/work/2023/05/01/a-normal-week.html)
 
-- [Prepare your Firefox desktop extension for the upcoming Android release](https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/)
+- [Secure Your Django site with a Zero Trust overlay](https://blog.openziti.io/got-5-minutes-secure-your-python-website-with-zero-trust)
 
-- [STIRred AND SHAKEN](https://computer.rip/2023-08-07-STIRred-AND-SHAKEN.html)
+- [How we reduced the cost of building Twitter at Twitter-scale by 100x](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
 
-- [CLOS: Integrating Object-Oriented and Functional Programming (2004)](https://dreamsongs.com/Files/clos-cacm.pdf)
+- [Security in Plan 9](https://doc.cat-v.org/plan_9/4th_edition/papers/auth)
 
-- [Virtualizing uxn](https://eighty-twenty.org/2023/08/11/virtualizing-uxn)
+- [libbpf-rs: eBPF for the Rust ecosystem](https://dxuuu.xyz/libbpf-rs.html)
 
-- [mDNS Primer](https://fabiensanglard.net/mdns/index.html)
+- [AI-town: Run your own custom AI world sim with JavaScript](https://github.com/a16z-infra/ai-town)
 
-- [[RFC 0136] A plan to stabilize the new nix CLI and Flakes incrementally](https://github.com/NixOS/rfcs/pull/136)
+- [monch: Inspired by nom, but specifically for strings](https://github.com/denoland/monch)
 
-- [finite-wasm: Cheating a little to solve the halting problem at scale](https://github.com/near/finite-wasm)
+- [vimwiki-server: Sinatra server that creates a web server from a vimwiki directory](https://github.com/mattrose/vimwiki-server)
 
-- [Running a Mainstream Linux Distro Natively on Apple Silicon: Fedora Asahi Remix First Impressions](https://jasoneckert.github.io/myblog/fedora-asahi-remix/)
+- [Backward Compatibility, Go 1.21, and Go 2](https://go.dev/blog/compat)
 
-- [Optimizing the Point-in-Polygon Calculation for Geospatial Applications](https://nextbillion.ai/blog/optimizing-point-in-polygon-calculations-for-geospatial-applications)
+- [The art of the (sub-)pixel](https://hugodaniel.com/posts/sub-problems-sub-pixels/)
 
-- [Cracking DesignWare's The Grammar Examiner on the C64](https://oldvcr.blogspot.com/2023/08/cracking-designwares-grammar-examiner.html)
+- [You don't hate JIRA, you hate your manager](https://jarvispowered.com/you-dont-hate-jira-you-hate-your-manager/)
 
-- [Rewriting wipEout](https://phoboslab.org/log/2023/08/rewriting-wipeout)
+- [How should I read type system notation?](https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation)
 
-- [The downsides of C++ Coroutines](https://reductor.dev/cpp/2023/08/10/the-downsides-of-coroutines.html)
+- [Goals and Failure Modes for RFCs and Technical Design Documents](https://medium.com/@mikecvet/goals-and-failure-modes-for-rfcs-and-technical-design-documents-c4ee1d1da6ff)
 
-- [Exploring the internals of Linux v0.01](https://seiya.me/blog/reading-linux-v0.01)
+- [Thinking about functional programming](https://notes.eatonphil.com/2023-08-15-thinking-about-functional-programming.html)
 
-- [The importance of verifying webhook signatures](https://snyk.io/blog/verifying-webhook-signatures/)
+- [Transpiler, a meaningless word](https://rachit.pl/post/transpiler/)
 
-- [Scaling Postgres to 1 Million Connections](https://supabase.com/blog/supavisor-1-million)
+- [Don't be clever](https://stitcher.io/blog/dont-be-clever)
 
-- [Counting non-intersecting double-diagonals in polygons](https://wsdookadr.github.io/posts/p10/)
+- [datasette-write-ui: a Datasette plugin for editing, inserting, and deleting rows](https://www.datasette.cloud/blog/2023/datasette-write-ui/)
 
-- [Solving a simple puzzle using SymPy](https://wsdookadr.github.io/posts/p9/)
+- [Haiku Activity & Contract Report, July 2023](https://www.haiku-os.org/blog/waddlesplash/2023-08-15_haiku_activity_contract_report_july_2023/)
 
-- [Upgrading my Chumby 8 kernel part 6: PWM backlight](https://www.downtowndougbrown.com/2023/08/upgrading-my-chumby-8-kernel-part-6-pwm-backlight/)
+- [Forging Leptos Query](https://www.nicoburniske.com/thoughts/forging_leptos_query)
 
-- [Lingering Mac Office 2008 workaround – GeekLAN](https://www.geeklan.co.uk/?p=3209)
+- [Pine 64: August Update](https://www.pine64.org/2023/08/15/august-update-kept-you-waiting-huh/)
 
-- [Simple Haskell](https://www.simplehaskell.org/)
-
-- [Pijul: Version-Control Post-Git](https://youtu.be/7MpdZkGj5AI)
+- [Using z3 To Solve Logic Puzzles](https://www.wdj-consulting.com/blog/logicpuzzle-z3/)
