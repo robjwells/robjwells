@@ -1,47 +1,47 @@
-- [Anna’s Archive Containers (AAC): standardizing releases from the world’s largest shadow library](https://annas-blog.org/annas-archive-containers.html)
+- [WTF is going on with R7RS Large?](http://dpk.io/r7rswtf)
 
-- [An XML DOM with just 8 bytes per node (2020)](https://blog.grijjy.com/2020/10/07/an-xml-dom-with-just-8-bytes-per-node/)
+- [WordTsar – A Wordstar clone for the 21st Century](http://wordtsar.ca/)
 
-- [Wine's PE -> UNIX Interface](https://blog.hiler.eu/wine-pe-to-unix/)
+- [Using the WordStar diamond in 2023](https://benhoyt.com/writings/wordstar-diamond/)
 
-- [A normal week (in tech)](https://blog.ignaciobrasca.com/work/2023/05/01/a-normal-week.html)
+- [The One Thing I'd Change About Go](https://blog.boot.dev/golang/one-thing-id-change-about-go/)
 
-- [Secure Your Django site with a Zero Trust overlay](https://blog.openziti.io/got-5-minutes-secure-your-python-website-with-zero-trust)
+- [fp-go: functional programming library for golang](https://github.com/IBM/fp-go)
 
-- [How we reduced the cost of building Twitter at Twitter-scale by 100x](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
+- [qutebrowser v3.0.0](https://github.com/qutebrowser/qutebrowser/releases/tag/v3.0.0)
 
-- [Security in Plan 9](https://doc.cat-v.org/plan_9/4th_edition/papers/auth)
+- [My resignation letter as R7RS-large chair](https://groups.google.com/g/scheme-reports-wg2/c/xGd0_eeKmGI/m/q-xM5fbuAQAJ)
 
-- [libbpf-rs: eBPF for the Rust ecosystem](https://dxuuu.xyz/libbpf-rs.html)
+- [Porting Boolrule To Rust](https://healeycodes.com/porting-boolrule-to-rust)
 
-- [AI-town: Run your own custom AI world sim with JavaScript](https://github.com/a16z-infra/ai-town)
+- [Fixing the TPM: Hardware Security Modules Done Right](https://loup-vaillant.fr/articles/hsm-done-right)
 
-- [monch: Inspired by nom, but specifically for strings](https://github.com/denoland/monch)
+- [GIL removal and the Faster CPython project](https://lwn.net/Articles/939981/)
 
-- [vimwiki-server: Sinatra server that creates a web server from a vimwiki directory](https://github.com/mattrose/vimwiki-server)
+- [Terraform is dead; Long live Pulumi?](https://matduggan.com/terraform-is-dead-long-live-pulumi/)
 
-- [Backward Compatibility, Go 1.21, and Go 2](https://go.dev/blog/compat)
+- [TypeScript is Surprisingly OK for Compilers](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
 
-- [The art of the (sub-)pixel](https://hugodaniel.com/posts/sub-problems-sub-pixels/)
+- [The curious case of the disappearing Polish S (2015)](https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df)
 
-- [You don't hate JIRA, you hate your manager](https://jarvispowered.com/you-dont-hate-jira-you-hate-your-manager/)
+- [Algebraic data types in Lua (Almost)](https://mrcjkb.dev/posts/2023-08-17-lua-adts.html)
 
-- [How should I read type system notation?](https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation)
+- [C and C++ Prioritize Performance over Correctness](https://research.swtch.com/ub)
 
-- [Goals and Failure Modes for RFCs and Technical Design Documents](https://medium.com/@mikecvet/goals-and-failure-modes-for-rfcs-and-technical-design-documents-c4ee1d1da6ff)
+- [tclip: A pastebin for your tailnet](https://tailscale.dev/blog/tclip)
 
-- [Thinking about functional programming](https://notes.eatonphil.com/2023-08-15-thinking-about-functional-programming.html)
+- [I Don't Use Exceptions in C++ Anymore](https://thelig.ht/no-more-exceptions)
 
-- [Transpiler, a meaningless word](https://rachit.pl/post/transpiler/)
+- [FreeBSD Bhyve Virtualization](https://vermaden.wordpress.com/2023/08/18/freebsd-bhyve-virtualization/)
 
-- [Don't be clever](https://stitcher.io/blog/dont-be-clever)
+- [Breaking the rules: I threw away 10 months of work after 2 months on the job](https://www.dancowell.com/breaking-the-rules/)
 
-- [datasette-write-ui: a Datasette plugin for editing, inserting, and deleting rows](https://www.datasette.cloud/blog/2023/datasette-write-ui/)
+- [Get Going with GitOps and Feature Flags using Flipt](https://www.flipt.io/docs/guides/get-going-with-gitops)
 
-- [Haiku Activity & Contract Report, July 2023](https://www.haiku-os.org/blog/waddlesplash/2023-08-15_haiku_activity_contract_report_july_2023/)
+- [Moonbit: the fast, compact & user friendly language for WebAssembly](https://www.moonbitlang.com/blog/first-announce/)
 
-- [Forging Leptos Query](https://www.nicoburniske.com/thoughts/forging_leptos_query)
+- [How Speedrunners Broke My Game](https://www.youtube.com/watch?v=XZuKakxAQ9o)
 
-- [Pine 64: August Update](https://www.pine64.org/2023/08/15/august-update-kept-you-waiting-huh/)
+- [Mathematical Magic Mirrorball](https://youtu.be/rJPKTCdk-WI)
 
-- [Using z3 To Solve Logic Puzzles](https://www.wdj-consulting.com/blog/logicpuzzle-z3/)
+- [Modernizing Compiler Design for Carbon Toolchain](https://youtube.com/watch?v=ZI198eFghJk)
