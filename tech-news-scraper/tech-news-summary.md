@@ -1,47 +1,47 @@
-- [WTF is going on with R7RS Large?](http://dpk.io/r7rswtf)
+- [The Ares Operating System](https://ares-os.org/)
 
-- [WordTsar – A Wordstar clone for the 21st Century](http://wordtsar.ca/)
+- [Software Component Names Should Be Whimsical And Cryptic](https://betterprogramming.pub/software-component-names-should-be-whimsical-and-cryptic-ca260b013de0)
 
-- [Using the WordStar diamond in 2023](https://benhoyt.com/writings/wordstar-diamond/)
+- [Darling Progress Report Q2 2023](https://blog.darlinghq.org/2023/08/21/progress-report-q2-2023/)
 
-- [The One Thing I'd Change About Go](https://blog.boot.dev/golang/one-thing-id-change-about-go/)
+- [Compile-time type-checked truth tables](https://blog.ploeh.dk/2023/08/21/compile-time-type-checked-truth-tables/)
 
-- [fp-go: functional programming library for golang](https://github.com/IBM/fp-go)
+- [Three months with the System76 Pangolin](https://blog.zero.lgbt/blog/three-month-pangolin)
 
-- [qutebrowser v3.0.0](https://github.com/qutebrowser/qutebrowser/releases/tag/v3.0.0)
+- [Educational Codebases](https://buttondown.email/hillelwayne/archive/educational-codebases/)
 
-- [My resignation letter as R7RS-large chair](https://groups.google.com/g/scheme-reports-wg2/c/xGd0_eeKmGI/m/q-xM5fbuAQAJ)
+- [Franz (macOS Apache Kafka client) now Source Available](https://defn.io/2023/08/10/ann-franz-source-available/)
 
-- [Porting Boolrule To Rust](https://healeycodes.com/porting-boolrule-to-rust)
+- [FreeBSD Journal - 2023 07-08 - Containers and Cloud](https://freebsdfoundation.org/past-issues/containers-and-cloud/)
 
-- [Fixing the TPM: Hardware Security Modules Done Right](https://loup-vaillant.fr/articles/hsm-done-right)
+- [Walk: Terminal file manager](https://github.com/antonmedv/walk)
 
-- [GIL removal and the Faster CPython project](https://lwn.net/Articles/939981/)
+- [16-bit Serial Homebrew CPU](https://jiristepanovsky.cz/project.php?p=23cpu)
 
-- [Terraform is dead; Long live Pulumi?](https://matduggan.com/terraform-is-dead-long-live-pulumi/)
+- [Inspecting rustc LLVM optimization remarks using cargo-remark](https://kobzol.github.io/rust/cargo/2023/08/12/rust-llvm-optimization-remarks.html)
 
-- [TypeScript is Surprisingly OK for Compilers](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
+- [Kernighan and Pike were right: Do one thing, and do it well](https://medium.com/source-and-buggy/do-one-thing-and-do-it-well-886b11a5d21)
 
-- [The curious case of the disappearing Polish S (2015)](https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df)
+- [An announcement regarding Kris Nóva](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/)
 
-- [Algebraic data types in Lua (Almost)](https://mrcjkb.dev/posts/2023-08-17-lua-adts.html)
+- [MacLynx beta 5: UTF-8, pull-down menus and more dialogue boxes, oh my](https://oldvcr.blogspot.com/2023/08/maclynx-beta-5-utf-8-pull-down-menus.html)
 
-- [C and C++ Prioritize Performance over Correctness](https://research.swtch.com/ub)
+- [p2panda is a protocol for local-first applications](https://p2panda.org/about/)
 
-- [tclip: A pastebin for your tailnet](https://tailscale.dev/blog/tclip)
+- [blog-cells: Interactive code cells for static sites](https://rameshvarun.github.io/blog-cells/)
 
-- [I Don't Use Exceptions in C++ Anymore](https://thelig.ht/no-more-exceptions)
+- [Don't Fire Your Illustrator](https://sambleckley.com/writing/dont-fire-your-illustrator.html)
 
-- [FreeBSD Bhyve Virtualization](https://vermaden.wordpress.com/2023/08/18/freebsd-bhyve-virtualization/)
+- [Buffer Overflows in Notepad++](https://securitylab.github.com/advisories/GHSL-2023-092_Notepad__/)
 
-- [Breaking the rules: I threw away 10 months of work after 2 months on the job](https://www.dancowell.com/breaking-the-rules/)
+- [The ideal viewport doesn’t exist](https://viewports.fyi/)
 
-- [Get Going with GitOps and Feature Flags using Flipt](https://www.flipt.io/docs/guides/get-going-with-gitops)
+- [The History of Windows 2.0](https://www.abortretry.fail/p/the-history-of-windows-20)
 
-- [Moonbit: the fast, compact & user friendly language for WebAssembly](https://www.moonbitlang.com/blog/first-announce/)
+- [Learn AutoHotKey by stealing my scripts](https://www.hillelwayne.com/post/ahk-scripts-project/)
 
-- [How Speedrunners Broke My Game](https://www.youtube.com/watch?v=XZuKakxAQ9o)
+- [The Story of Reflection Mapping [2006]](https://www.pauldebevec.com/ReflectionMapping/)
 
-- [Mathematical Magic Mirrorball](https://youtu.be/rJPKTCdk-WI)
+- [FiascoLang – new wonderful programming language](https://www.reddit.com/r/ProgrammingLanguages/comments/15xgt8b/im_working_on_a_new_promising_fiascolang/)
 
-- [Modernizing Compiler Design for Carbon Toolchain](https://youtube.com/watch?v=ZI198eFghJk)
+- [NVIDIA BIOS Signature Lock Broken, vBIOS Modding and Crossflash Enabled by Groundbreaking New Tools](https://www.techpowerup.com/312631/nvidia-bios-signature-lock-broken-vbios-modding-and-crossflash-enabled-by-groundbreaking-new-tools)
