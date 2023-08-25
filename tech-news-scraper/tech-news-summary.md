@@ -1,47 +1,47 @@
-- [The Ares Operating System](https://ares-os.org/)
+- [Foreach derp with Csh](http://blog.syncpup.com/posts/foreach-derp-with-csh.html)
 
-- [Software Component Names Should Be Whimsical And Cryptic](https://betterprogramming.pub/software-component-names-should-be-whimsical-and-cryptic-ca260b013de0)
+- [Microsoft's Revocation of the Verisign Class 3 Public Primary Certification Authority - G5 Root Certificate](https://airlockdigital.com/microsofts-revocation-of-the-verisign-class-3-public-primary-certification-authority-g5-root-certificate/)
 
-- [Darling Progress Report Q2 2023](https://blog.darlinghq.org/2023/08/21/progress-report-q2-2023/)
+- [The Tao of Go](https://bitfieldconsulting.com/golang/tao-of-go)
 
-- [Compile-time type-checked truth tables](https://blog.ploeh.dk/2023/08/21/compile-time-type-checked-truth-tables/)
+- [Announcing Rust 1.72.0](https://blog.rust-lang.org/2023/08/24/Rust-1.72.0.html)
 
-- [Three months with the System76 Pangolin](https://blog.zero.lgbt/blog/three-month-pangolin)
+- [Evaluating Algebraic Expressions using Parser Combinators](https://blog.varunramesh.net/posts/algebraic-expressions-using-parser-combinators/)
 
-- [Educational Codebases](https://buttondown.email/hillelwayne/archive/educational-codebases/)
+- [CVE-2023-4273: a vulnerability in the Linux exFAT driver](https://dfir.ru/2023/08/23/cve-2023-4273-a-vulnerability-in-the-linux-exfat-driver/)
 
-- [Franz (macOS Apache Kafka client) now Source Available](https://defn.io/2023/08/10/ann-franz-source-available/)
+- [Adding Wi-Fi to the Macintosh Portable](https://jcs.org/2023/08/23/scsiwifi)
 
-- [FreeBSD Journal - 2023 07-08 - Containers and Cloud](https://freebsdfoundation.org/past-issues/containers-and-cloud/)
+- [Making NetBSD Multiboot-Compatible (2007)](https://jmmv.dev/2007/03/making-netbsd-multiboot-compatible.html)
 
-- [Walk: Terminal file manager](https://github.com/antonmedv/walk)
+- [Celebrating Daemontools](https://journal.infinitenegativeutility.com/celebrating-daemontools)
 
-- [16-bit Serial Homebrew CPU](https://jiristepanovsky.cz/project.php?p=23cpu)
+- [Leaving Haskell behind](https://journal.infinitenegativeutility.com/leaving-haskell-behind)
 
-- [Inspecting rustc LLVM optimization remarks using cargo-remark](https://kobzol.github.io/rust/cargo/2023/08/12/rust-llvm-optimization-remarks.html)
+- [Earning the privilege to work on unoriginal problems](https://landmines.substack.com/p/earning-the-privilege-to-work-on)
 
-- [Kernighan and Pike were right: Do one thing, and do it well](https://medium.com/source-and-buggy/do-one-thing-and-do-it-well-886b11a5d21)
+- [Propositions as types: explained (and debunked)](https://lawrencecpaulson.github.io/2023/08/23/Propositions_as_Types.html)
 
-- [An announcement regarding Kris Nóva](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/)
+- [HashiCorp, Terraform, and OpenTF](https://lwn.net/SubscriberLink/942346/014f407d03f4cd03/)
 
-- [MacLynx beta 5: UTF-8, pull-down menus and more dialogue boxes, oh my](https://oldvcr.blogspot.com/2023/08/maclynx-beta-5-utf-8-pull-down-menus.html)
+- [print(“lol”) doubled the speed of my Go function](https://medium.com/@ludirehak/printing-lol-doubled-the-speed-of-my-go-code-e32e02fc3f92)
 
-- [p2panda is a protocol for local-first applications](https://p2panda.org/about/)
+- [PSA: Add dir="auto" to your inputs and textareas](https://mough.xyz/312/psa-add-dir-auto-to-your-inputs-and-textareas)
 
-- [blog-cells: Interactive code cells for static sites](https://rameshvarun.github.io/blog-cells/)
+- [Use web components for what they’re good at](https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at/)
 
-- [Don't Fire Your Illustrator](https://sambleckley.com/writing/dont-fire-your-illustrator.html)
+- [Everything you never wanted to know about Win32 environment blocks](https://nullprogram.com/blog/2023/08/23/)
 
-- [Buffer Overflows in Notepad++](https://securitylab.github.com/advisories/GHSL-2023-092_Notepad__/)
+- [Factor 0.99 now available](https://re.factorcode.org/2023/08/factor-0-99-now-available.html)
 
-- [The ideal viewport doesn’t exist](https://viewports.fyi/)
+- [Bypassing Bitlocker using a cheap logic analyzer on a Lenovo laptop](https://www.errno.fr/BypassingBitlocker.html)
 
-- [The History of Windows 2.0](https://www.abortretry.fail/p/the-history-of-windows-20)
+- [Flipper 1.0.0](https://www.johnnunemaker.com/flipper-1-0/)
 
-- [Learn AutoHotKey by stealing my scripts](https://www.hillelwayne.com/post/ahk-scripts-project/)
+- ["A philosophy of software design" summarized](https://www.mattduck.com/2021-04-a-philosophy-of-software-design.html)
 
-- [The Story of Reflection Mapping [2006]](https://www.pauldebevec.com/ReflectionMapping/)
+- [FreeBSD on Firecracker](https://www.usenix.org/publications/loginonline/freebsd-firecracker)
 
-- [FiascoLang – new wonderful programming language](https://www.reddit.com/r/ProgrammingLanguages/comments/15xgt8b/im_working_on_a_new_promising_fiascolang/)
+- [Laziness in Haskell — Part 2: Why not Strict Haskell?](https://www.youtube.com/watch?v=NCM8pRiLtAc)
 
-- [NVIDIA BIOS Signature Lock Broken, vBIOS Modding and Crossflash Enabled by Groundbreaking New Tools](https://www.techpowerup.com/312631/nvidia-bios-signature-lock-broken-vbios-modding-and-crossflash-enabled-by-groundbreaking-new-tools)
+- [Making FreeBSD QUIC](https://www.youtube.com/watch?v=QEKyBr1LS3s)
