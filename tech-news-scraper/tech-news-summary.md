@@ -1,47 +1,49 @@
-- [Foreach derp with Csh](http://blog.syncpup.com/posts/foreach-derp-with-csh.html)
+- [Debugging compilers with optimization fuel](http://blog.ezyang.com/2011/06/debugging-compilers-with-optimization-fuel/)
 
-- [Microsoft's Revocation of the Verisign Class 3 Public Primary Certification Authority - G5 Root Certificate](https://airlockdigital.com/microsofts-revocation-of-the-verisign-class-3-public-primary-certification-authority-g5-root-certificate/)
+- [Two Erlang patterns I love](http://blog.syncpup.com/posts/two-erlang-patterns-i-love.html)
 
-- [The Tao of Go](https://bitfieldconsulting.com/golang/tao-of-go)
+- [Web Scraping for Me, But Not for Thee](https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm)
 
-- [Announcing Rust 1.72.0](https://blog.rust-lang.org/2023/08/24/Rust-1.72.0.html)
+- [FIFO queues are all you need for cache eviction](https://blog.jasony.me/system/cache/2023/08/01/s3fifo)
 
-- [Evaluating Algebraic Expressions using Parser Combinators](https://blog.varunramesh.net/posts/algebraic-expressions-using-parser-combinators/)
+- [The Missing Performance in std::vector](https://codingnest.com/the-little-things-the-missing-performance-in-std-vector/)
 
-- [CVE-2023-4273: a vulnerability in the Linux exFAT driver](https://dfir.ru/2023/08/23/cve-2023-4273-a-vulnerability-in-the-linux-exfat-driver/)
+- [CVE-2020-19909 is everything that is wrong with CVEs](https://daniel.haxx.se/blog/2023/08/26/cve-2020-19909-is-everything-that-is-wrong-with-cves/)
 
-- [Adding Wi-Fi to the Macintosh Portable](https://jcs.org/2023/08/23/scsiwifi)
+- [Block YouTube Ads on AppleTV by Decrypting and Stripping Ads from Profobuf](https://ericdraken.com/pfsense-decrypt-ad-traffic/)
 
-- [Making NetBSD Multiboot-Compatible (2007)](https://jmmv.dev/2007/03/making-netbsd-multiboot-compatible.html)
+- [php-tokio: Use any async Rust library from PHP](https://github.com/danog/php-tokio)
 
-- [Celebrating Daemontools](https://journal.infinitenegativeutility.com/celebrating-daemontools)
+- [isle: A work-in-progress decompilation of LEGO Island (1997)](https://github.com/isledecomp/isle)
 
-- [Leaving Haskell behind](https://journal.infinitenegativeutility.com/leaving-haskell-behind)
+- [Bounded Bikeshed - Focus on the comments you find most interesting](https://github.com/timkuijsten/BoundedBikeshed)
 
-- [Earning the privilege to work on unoriginal problems](https://landmines.substack.com/p/earning-the-privilege-to-work-on)
+- [Support for ActivityPub on GitLab](https://gitlab.com/groups/gitlab-org/-/epics/11247)
 
-- [Propositions as types: explained (and debunked)](https://lawrencecpaulson.github.io/2023/08/23/Propositions_as_Types.html)
+- [5 Laws of Software Estimates - Explored, Explained and Debunked](https://hygger.io/blog/software-estimates-explored-explained-and-debunked/)
 
-- [HashiCorp, Terraform, and OpenTF](https://lwn.net/SubscriberLink/942346/014f407d03f4cd03/)
+- [Ichido: an independent search engine inspired by 90s-2000s search](https://ichi.do/)
 
-- [print(“lol”) doubled the speed of my Go function](https://medium.com/@ludirehak/printing-lol-doubled-the-speed-of-my-go-code-e32e02fc3f92)
+- [That Old NetBSD Server, Running Since 2010](https://it-notes.dragas.net/2023/08/27/that-old-netbsd-server-running-since-2010/)
 
-- [PSA: Add dir="auto" to your inputs and textareas](https://mough.xyz/312/psa-add-dir-auto-to-your-inputs-and-textareas)
+- [jank development update - Object model results](https://jank-lang.org/blog/2023-08-26-object-model/)
 
-- [Use web components for what they’re good at](https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at/)
+- [Visualizing the Impossible](https://liam-ilan.github.io/time-dependent-schrodinger-equation/)
 
-- [Everything you never wanted to know about Win32 environment blocks](https://nullprogram.com/blog/2023/08/23/)
+- [ubus (OpenWrt micro bus architecture)](https://openwrt.org/docs/techref/ubus)
 
-- [Factor 0.99 now available](https://re.factorcode.org/2023/08/factor-0-99-now-available.html)
+- [UX Design Patterns for Loading](https://pencilandpaper.io/articles/ux-pattern-analysis-loading-feedback/)
 
-- [Bypassing Bitlocker using a cheap logic analyzer on a Lenovo laptop](https://www.errno.fr/BypassingBitlocker.html)
+- [Higher-Order Typed Functional Coreographic Programming](https://people.mpi-sws.org/~dg/papers/popl22-choreographies.pdf)
 
-- [Flipper 1.0.0](https://www.johnnunemaker.com/flipper-1-0/)
+- [i386 in Ubuntu won't die](https://popey.com/blog/2023/08/i386-in-ubuntu-wont-die/)
 
-- ["A philosophy of software design" summarized](https://www.mattduck.com/2021-04-a-philosophy-of-software-design.html)
+- [E-ink is so Retropunk](https://rmkit.dev/eink-is-so-retropunk/)
 
-- [FreeBSD on Firecracker](https://www.usenix.org/publications/loginonline/freebsd-firecracker)
+- [It's All Just Debian](https://rtpg.co/2023/08/27/its-all-just-debian/)
 
-- [Laziness in Haskell — Part 2: Why not Strict Haskell?](https://www.youtube.com/watch?v=NCM8pRiLtAc)
+- [Static TypeScript: An Implementation of a Static Compiler for the TypeScript Language](https://www.microsoft.com/en-us/research/publication/static-typescript/)
 
-- [Making FreeBSD QUIC](https://www.youtube.com/watch?v=QEKyBr1LS3s)
+- [C++ Papercuts](https://www.thecodedmessage.com/posts/c++-papercuts/)
+
+- [Reaching the Unix Philosophy's Logical Extreme with Webassembly](https://xeiaso.net/talks/unix-philosophy-logical-extreme-wasm)
