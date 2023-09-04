@@ -1,45 +1,47 @@
-- [What is a "good" Linux Kernel bug?](https://blog.isosceles.com/what-is-a-good-linux-kernel-bug/)
+- [IBM Analog Hardware Acceleration Kit](https://aihwkit.readthedocs.io/)
 
-- [Flake schemas: making Nix flake outputs extensible](https://determinate.systems/posts/flake-schemas)
+- [Extensions in GNOME 45](https://blogs.gnome.org/shell-dev/2023/09/02/extensions-in-gnome-45/)
 
-- [Embedded Swift](https://forums.swift.org/t/embedded-swift/67057)
+- [10 years of rio](https://chainsawriot.com/postmannheim/2023/08/28/rio10.html)
 
-- [Functional Data Structures and Algorithms. A Proof Assistant Approach](https://functional-algorithms-verified.org/)
+- [Review: Glove80 Ergonomic Keyboard](https://danieldk.eu/Posts/2023-09-03-Glove80.html)
 
-- [git-cliff 1.3.0 is released - a highly customizable changelog generator](https://git-cliff.org/blog/1.3.0)
+- [The "Is Something" Pattern in Agda](https://danilafe.com/blog/agda_is_pattern/)
 
-- [Expr release v1.15](https://github.com/antonmedv/expr/releases/tag/v1.15.0)
+- [The Worst Programmer](https://dannorth.net/2023/09/02/the-worst-programmer/)
 
-- [net/http: enhanced ServeMux routing (accepted proposal)](https://github.com/golang/go/issues/61410)
+- [Textbook Review - Performance Modeling and Design of Computer Systems: Queueing Theory in Action](https://emptysqua.re/blog/review-queue-theory-book/)
 
-- [Multiplix: An operating system kernel for RISC-V and AArch64 SBCs](https://github.com/zyedidia/multiplix)
+- [Mastodon is easy and fun except when it isn’t](https://erinkissane.com/mastodon-is-easy-and-fun-except-when-it-isnt)
 
-- [Sparse sets](https://manenko.com/2021/05/23/sparse-sets.html)
+- [The boiling frog of digital freedom](https://gazoche.xyz/posts/boiling-frog/)
 
-- [Grep and Log Analysis](https://muhammadraza.me/2023/grep-log-analysis/)
+- [thl-export: export The Hit List lists](https://github.com/taoeffect/thl-export)
 
-- [Comparing request handlers in Scotty, Yesod, and Servant](https://nicolashery.com/comparing-scotty-yesod-servant/)
+- [Apple already shipped attestation on the web, and we barely noticed](https://httptoolkit.com/blog/apple-private-access-tokens-attestation/)
 
-- [Wayland breaks your bad software](https://orowith2os.gitlab.io/posts/wayland-breaks-your-bad-software/)
+- [Hacking the Timex m851](https://lock.cmpxchg8b.com/timex.html)
 
-- [So You Want To Abolish Time Zones (2015)](https://qntm.org/abolish)
+- [Exploring Lesser-Known Commands and Advanced Features of Homebrew](https://muhammadraza.me/2023/exploring-homebrew/)
 
-- [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
+- [Refurb weekend: PowerBook Duo 2300c](https://oldvcr.blogspot.com/2023/09/refurb-weekend-powerbook-duo-2300c.html)
 
-- [Android Goes All-in on Fuzzing](https://security.googleblog.com/2023/08/android-goes-all-in-on-fuzzing.html)
+- [Mashing Enter to bypass full disk encryption with TPM, Clevis, dracut and systemd](https://pulsesecurity.co.nz/advisories/tpm-luks-bypass)
 
-- [Misconceptions About Immutable Distributions](https://theevilskeleton.gitlab.io/2023/08/29/misconceptions-about-immutable-distributions.html)
+- [GameRoy: JIT compilation in High-Accuracy Game Boy Emulation](https://rodrigodd.github.io/2023/09/02/gameroy-jit.html)
 
-- [How to Backup Ghost on Fly.io with Rsync](https://www.autodidacts.io/backup-ghost-on-fly-with-rsync/)
+- [Apple letter to Heat Initiative](https://s3.documentcloud.org/documents/23933180/apple-letter-to-heat-initiative.pdf)
 
-- [Design Principles Behind Smalltalk](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
+- [Why are functional programming languages so popular in the programming languages community? (2018)](https://statmodeling.stat.columbia.edu/2018/10/11/functional-programming-languages-popular-programming-languages-community/)
 
-- [Integrating a large Tokio-based Rust library with Haskell](https://www.iankduncan.com/articles/2023-08-30-integrating-haskell-and-tokio)
+- [How I joined the bug 323 community](https://studios.ptilouk.net/superfluous-returnz/blog/2023-08-11_bug323.html)
 
-- [The case for Nushell](https://www.jntrnr.com/case-for-nushell/)
+- [Everything I know about floppy disks](https://thejpster.org.uk/blog/blog-2023-08-28/)
 
-- [AMD Open-Source GPU Kernel Driver Above 5 Million Lines, Entire Linux Kernel At 34.8 Million - Phoronix](https://www.phoronix.com/news/AMD-5-Million-Lines)
+- [A Tale of Two Forwarded Headers](https://www.appsmith.com/blog/forwarded-header)
 
-- [Building Circuit Abominations in Factorio](https://www.youtube.com/watch?v=etxV4pqVRm8)
+- [Explaining The Postgres Meme](https://www.avestura.dev/blog/explaining-the-postgres-meme)
 
-- [Nanoscale Instruments for Visualizing Small Proteins & Dynamicland](https://youtu.be/_gXiVOmaVSo?t=864)
+- [What's up Python? New packaging proposal, Python in Excel, a piano in the shell](https://www.bitecode.dev/p/whats-up-python-new-packaging-proposal)
+
+- [The Advantages Of Flexible Typing](https://www.sqlite.org/flextypegood.html)
