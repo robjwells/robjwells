@@ -1,49 +1,45 @@
-- [XCOM, a "crossplatform graphics user interface"](http://xcom.infora.hu/index.html)
+- [There is plenty of room at the bottom (2021)](http://muratbuffalo.blogspot.com/2021/08/there-is-plenty-of-room-at-bottom.html)
 
-- [Gaussian Splatting is pretty cool](https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/)
+- [Async Rust Is A Bad Language](https://bitbashing.io/async-rust.html)
 
-- [Why to prefer `t.Cleanup` to `defer`](https://brandur.org/fragments/go-prefer-t-cleanup-with-parallel-subtests)
+- [My mental model of Clojure transducers](https://blog.danieljanus.pl/2023/09/09/transducers/)
 
-- ["Waterfall" doesn't mean what you think it means](https://changelog.com/posts/waterfall-doesnt-mean-what-you-think-it-means)
+- [Just for fun: What happens when you shift a register by more than the register size?](https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704)
 
-- [Compressing a single-color image in various formats (2016)](https://cloudinary.com/blog/a_one_color_image_is_worth_two_thousand_words)
+- [Design and Implementation of an Object-Oriented Functional Language](https://discovery.ucl.ac.uk/id/eprint/10107565/1/Design_and_implementation_of_a.pdf)
 
-- [Bloom Filters and Beyond: An Illustrated Introduction and Implementation](https://codeconfessions.substack.com/p/bloom-filters-and-beyond)
+- [How big is a kilobyte?](https://evanhahn.com/how-big-is-a-kilobyte/)
 
-- [ZX Origins 8x8 Bitmap Fonts](https://damieng.com/typography/zx-origins/)
+- [Release jq 1.7](https://github.com/jqlang/jq/releases/tag/jq-1.7)
 
-- [Bogus CVE follow-ups](https://daniel.haxx.se/blog/2023/09/05/bogus-cve-follow-ups/)
+- [An SVG viewer / browser / "slideshow" which itself is a self-contained SVG](https://github.com/stevana/svg-viewer-in-svg#svg-viewer-written-in-svg)
 
-- [Experimental does not mean unstable, DetSys' perspective on Nix flakes](https://determinate.systems/posts/experimental-does-not-mean-unstable)
+- [Good performance is not just big O](https://jmmv.dev/2023/09/performance-is-not-big-o.html)
 
-- [Revamping bpftrace’s CI with Nix](https://dxuuu.xyz/bpftrace-nix.html)
+- [The Definitive PHP 7.2, 7.3, 7.4, 8.0, and 8.1 Benchmarks (2023)](https://kinsta.com/blog/php-benchmarks/)
 
-- [It’s Official: Cars Are the Worst Product Category We Have Ever Reviewed for Privacy](https://foundation.mozilla.org/en/privacynotincluded/articles/its-official-cars-are-the-worst-product-category-we-have-ever-reviewed-for-privacy/)
+- [What if... someone made a Plan 9 that could run Linux apps?](https://liam-on-linux.dreamwidth.org/89039.html)
 
-- [FreeBSD containers on macOS](https://github.com/davidchisnall/container-vm-scripts)
+- [Prerequisites for large anonymous folios](https://lwn.net/SubscriberLink/943758/9abed6231b52be96/)
 
-- [Learn where some of the network sysctl variables fit into the Linux/Kernel network flow](https://github.com/leandromoreira/linux-network-performance-parameters)
+- [Reflections on LLVM's switch to GitHub pull requests](https://maskray.me/blog/2023-09-09-reflections-on-llvm-switch-to-github-pull-requests)
 
-- [Results of Major Technical Investigations for Storm-0558 Key Acquisition](https://msrc.microsoft.com/blog/2023/09/results-of-major-technical-investigations-for-storm-0558-key-acquisition/)
+- [I Wrote A String Type](https://mcyoung.xyz/2023/08/09/yarns/)
 
-- [Now it's PostgreSQL's turn to have a bogus CVE](https://opensourcewatch.beehiiv.com/p/now-postgresqls-turn-bogus-cve)
+- [Swift.org new homepage](https://swift.org/)
 
-- [A year after the disastrous breach, LastPass has not improved](https://palant.info/2023/09/05/a-year-after-the-disastrous-breach-lastpass-has-not-improved/)
+- [Examples of TiddlyWiki being used in the wild](https://tiddlywiki.com/static/Examples.html)
 
-- [Why React re-renders & when do we need to worry about it?](https://punits.dev/jargon-free-intros/why-react-rerenders-and-when-to-worry-about-it/)
+- [Response Time Is the System Talking](https://two-wrongs.com/response-time-is-the-system-talking.html)
 
-- [New EU Rules: Smartphones and Tablets will follow new ecodesign requirements by June 2025](https://repair.eu/news/new-eu-rules-smartphones-and-tablets-will-follow-new-ecodesign-requirements-by-june-2025/)
+- [Computer Science from the Bottom Up](https://www.bottomupcs.com/)
 
-- [Nix Flakes is an experiment that did too much at once…](https://samuel.dionne-riel.com/blog/2023/09/06/flakes-is-an-experiment-that-did-too-much-at-once.html)
+- [Is POPL Mathematics or Science?](https://www.cs.princeton.edu/~appel/papers/science.pdf)
 
-- [How to Write a Secure JWT Library If You Absolutely Must](https://scottarc.blog/2023/09/06/how-to-write-a-secure-jwt-library-if-you-absolutely-must/)
+- [Much Ado About Nil Things: More Go Pitfalls](https://www.dolthub.com/blog/2023-09-08-much-ado-about-nil-things/)
 
-- [Why I Two-Space](https://stevelosh.com/blog/2012/10/why-i-two-space/)
+- [Learning Zig](https://www.openmymind.net/learning_zig/)
 
-- [An Internet of PHP](https://timotijhof.net/posts/2023/an-internet-of-php/)
+- [Countering string bloat](https://www.volkerkrause.eu/2023/09/09/qt-string-bloat.html)
 
-- [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
-
-- [Code Vulnerabilities Leak Emails in Proton Mail](https://www.sonarsource.com/blog/code-vulnerabilities-leak-emails-in-proton-mail/)
-
-- [From the Editor -- Web Apps, Issue 2 Mar/Apr 1997](https://www.w3.org/People/Connolly/9703-web-apps-essay.html)
+- [Ziggy Pydust](https://zig.news/gatesn/ziggy-pydust-36d5)
