@@ -1,45 +1,49 @@
-- [There is plenty of room at the bottom (2021)](http://muratbuffalo.blogspot.com/2021/08/there-is-plenty-of-room-at-bottom.html)
+- [The spawn of AtariLab and the Universal Laboratory Interface](http://oldvcr.blogspot.com/2023/09/the-spawn-of-atarilab-and-universal.html)
 
-- [Async Rust Is A Bad Language](https://bitbashing.io/async-rust.html)
+- [chasing memory corruptions in firefox](http://undeadly.org/cgi?action=article;sid=20230912094727)
 
-- [My mental model of Clojure transducers](https://blog.danieljanus.pl/2023/09/09/transducers/)
+- [Microsoft will stop accepting new third-party print drivers in Windows](https://arstechnica.com/gadgets/2023/09/microsoft-will-stop-accepting-new-third-party-print-drivers-in-windows/)
 
-- [Just for fun: What happens when you shift a register by more than the register size?](https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704)
+- [Rails: Client-side feature flags](https://blog.flippercloud.io/client-side-feature-flags/)
 
-- [Design and Implementation of an Object-Oriented Functional Language](https://discovery.ucl.ac.uk/id/eprint/10107565/1/Design_and_implementation_of_a.pdf)
+- [What the interns have wrought, 2023 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2023/)
 
-- [How big is a kilobyte?](https://evanhahn.com/how-big-is-a-kilobyte/)
+- [Thunderbird 115 "Supernova" Is Here](https://blog.thunderbird.net/2023/07/our-fastest-most-beautiful-release-ever-thunderbird-115-supernova-is-here/)
 
-- [Release jq 1.7](https://github.com/jqlang/jq/releases/tag/jq-1.7)
+- [Hidden features in Firefox (2020)](https://exple.tive.org/blarg/2020/10/25/navigational-instruments/)
 
-- [An SVG viewer / browser / "slideshow" which itself is a self-contained SVG](https://github.com/stevana/svg-viewer-in-svg#svg-viewer-written-in-svg)
+- [Enhancing your Rails app with SQLite](https://fractaledmind.github.io/2023/09/06/enhancing-rails-sqlite-branch-databases/)
 
-- [Good performance is not just big O](https://jmmv.dev/2023/09/performance-is-not-big-o.html)
+- [Do CONTRIBUTING Files Provide Information about OSS Newcomers’ Onboarding Barriers?](https://fron.ch/preprint_fse.pdf)
 
-- [The Definitive PHP 7.2, 7.3, 7.4, 8.0, and 8.1 Benchmarks (2023)](https://kinsta.com/blog/php-benchmarks/)
+- [antimirov: algebraic manipulation of regular expressions](https://github.com/non/antimirov)
 
-- [What if... someone made a Plan 9 that could run Linux apps?](https://liam-on-linux.dreamwidth.org/89039.html)
+- [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)
 
-- [Prerequisites for large anonymous folios](https://lwn.net/SubscriberLink/943758/9abed6231b52be96/)
+- [Hacking the Book8088 for Better Accuracy](https://martypc.blogspot.com/2023/09/hacking-book8088-for-better-accuracy.html)
 
-- [Reflections on LLVM's switch to GitHub pull requests](https://maskray.me/blog/2023-09-09-reflections-on-llvm-switch-to-github-pull-requests)
+- [Node-RED](https://nodered.org/)
 
-- [I Wrote A String Type](https://mcyoung.xyz/2023/08/09/yarns/)
+- [We need deterministic installs, not just immutable OS's](https://notes.volution.ro/v1/2023/09/remarks/423b80cc/)
 
-- [Swift.org new homepage](https://swift.org/)
+- [How many ways can you slice a URL and name the pieces? (2011)](https://tantek.com/2011/238/b1/many-ways-slice-url-name-pieces)
 
-- [Examples of TiddlyWiki being used in the wild](https://tiddlywiki.com/static/Examples.html)
+- [The roots of an obscure Bourne shell error message](https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellObscureErrorRoots)
 
-- [Response Time Is the System Talking](https://two-wrongs.com/response-time-is-the-system-talking.html)
+- [Veilid - peer-to-peer framework](https://veilid.com/)
 
-- [Computer Science from the Bottom Up](https://www.bottomupcs.com/)
+- [Apple Event for September 12th, 2023](https://www.apple.com/apple-events/)
 
-- [Is POPL Mathematics or Science?](https://www.cs.princeton.edu/~appel/papers/science.pdf)
+- [Conditional foreign keys and polymorphism in SQL: 4 Methods](https://www.cybertec-postgresql.com/en/conditional-foreign-keys-polymorphism-in-sql/)
 
-- [Much Ado About Nil Things: More Go Pitfalls](https://www.dolthub.com/blog/2023-09-08-much-ado-about-nil-things/)
+- [EndBASIC](https://www.endbasic.dev/)
 
-- [Learning Zig](https://www.openmymind.net/learning_zig/)
+- [Haiku Activity & Contract Report, August 2023](https://www.haiku-os.org/blog/waddlesplash/2023-09-12_haiku_activity_contract_report_august_2023/)
 
-- [Countering string bloat](https://www.volkerkrause.eu/2023/09/09/qt-string-bloat.html)
+- [Intro to C++ Coroutines: Concept](https://www.kdab.com/intro-to-c-coroutines-concept/)
 
-- [Ziggy Pydust](https://zig.news/gatesn/ziggy-pydust-36d5)
+- [The power of prolog](https://www.metalevel.at/prolog/facets)
+
+- [Bcachefs Merged Into Linux-Next](https://www.phoronix.com/news/Bcachefs-In-Linux-Next)
+
+- [Riffle - Reactive Relational State](https://youtu.be/zjl7CpG9h3w?si=93Ih3xlL7fGurs2Y)
