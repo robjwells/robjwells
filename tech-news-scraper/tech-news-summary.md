@@ -1,49 +1,47 @@
-- [The spawn of AtariLab and the Universal Laboratory Interface](http://oldvcr.blogspot.com/2023/09/the-spawn-of-atarilab-and-universal.html)
+- [Modern Authorization Systems](https://authzed.com/blog/authz-primer)
 
-- [chasing memory corruptions in firefox](http://undeadly.org/cgi?action=article;sid=20230912094727)
+- [Linear code is more readable](https://blog.separateconcerns.com/2023-09-11-linear-code.html)
 
-- [Microsoft will stop accepting new third-party print drivers in Windows](https://arstechnica.com/gadgets/2023/09/microsoft-will-stop-accepting-new-third-party-print-drivers-in-windows/)
+- [Holy Macroni! A recipe for progressive language enhancement](https://blog.trailofbits.com/2023/09/11/holy-macroni-a-recipe-for-progressive-language-enhancement/)
 
-- [Rails: Client-side feature flags](https://blog.flippercloud.io/client-side-feature-flags/)
+- [Strange Loop's greatest hits](https://changelog.com/posts/strange-loops-greatest-hits)
 
-- [What the interns have wrought, 2023 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2023/)
+- [Why and How Does CPython Use Bloom Filters in String Processing?](https://codeconfessions.substack.com/p/cpython-bloom-filter-usage)
 
-- [Thunderbird 115 "Supernova" Is Here](https://blog.thunderbird.net/2023/07/our-fastest-most-beautiful-release-ever-thunderbird-115-supernova-is-here/)
+- [Truthiness in C](https://dxuuu.xyz/casts.html)
 
-- [Hidden features in Firefox (2020)](https://exple.tive.org/blarg/2020/10/25/navigational-instruments/)
+- [FindMyCat - The Open-Source Pet Tracker](https://findmycat.io)
 
-- [Enhancing your Rails app with SQLite](https://fractaledmind.github.io/2023/09/06/enhancing-rails-sqlite-branch-databases/)
+- [Go-perf meetup #1](https://go-perf.dev/go-perf-meetup-1)
 
-- [Do CONTRIBUTING Files Provide Information about OSS Newcomers’ Onboarding Barriers?](https://fron.ch/preprint_fse.pdf)
+- [Mastodon instance with 6 files](https://justingarrison.com/blog/2022-12-06-mastodon-files-instance/)
 
-- [antimirov: algebraic manipulation of regular expressions](https://github.com/non/antimirov)
+- [Notes on using a single-person Mastodon server](https://jvns.ca/blog/2023/08/11/some-notes-on-mastodon/)
 
-- [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)
+- [Should I Rust or should I go?](https://kerkour.com/should-i-rust-or-should-i-go)
 
-- [Hacking the Book8088 for Better Accuracy](https://martypc.blogspot.com/2023/09/hacking-book8088-for-better-accuracy.html)
+- [My little MillionDollarHomepage garden](https://matthieu.io/blog/2023/09/13/million-dollar-homepage-garden/)
 
-- [Node-RED](https://nodered.org/)
+- [OCaml 5.1.0 Release Notes](https://ocaml.org/releases/5.1.0)
 
-- [We need deterministic installs, not just immutable OS's](https://notes.volution.ro/v1/2023/09/remarks/423b80cc/)
+- [Understanding the Origins and the Evolution of Vi & Vim](https://pikuma.com/blog/origins-of-vim-text-editor)
 
-- [How many ways can you slice a URL and name the pieces? (2011)](https://tantek.com/2011/238/b1/many-ways-slice-url-name-pieces)
+- [We Turned Lobste.rs into a Rails Benchmark for YJIT](https://railsatscale.com/2023-08-25-we-turned-lobsters-into-a-rails-benchmark-for-yjit/)
 
-- [The roots of an obscure Bourne shell error message](https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellObscureErrorRoots)
+- [This month in Servo: upcoming events, new browser UI, and more](https://servo.org/blog/2023/09/15/upcoming-events-and-new-browser-ui/)
 
-- [Veilid - peer-to-peer framework](https://veilid.com/)
+- [Getting Used To Microservices](https://two-wrongs.com/getting-used-to-microservices.html)
 
-- [Apple Event for September 12th, 2023](https://www.apple.com/apple-events/)
+- [Using Janet as Database](https://www.1a-insec.net/blog/18-janet-as-database/)
 
-- [Conditional foreign keys and polymorphism in SQL: 4 Methods](https://www.cybertec-postgresql.com/en/conditional-foreign-keys-polymorphism-in-sql/)
+- [Marginalia Search receives FUTO Grant](https://www.marginalia.nu/log/88-futo-grant/)
 
-- [EndBASIC](https://www.endbasic.dev/)
+- [On the Impending Crypto Monoculture (2016)](https://www.metzdowd.com/pipermail/cryptography/2016-March/028824.html)
 
-- [Haiku Activity & Contract Report, August 2023](https://www.haiku-os.org/blog/waddlesplash/2023-09-12_haiku_activity_contract_report_august_2023/)
+- [PostgreSQL 16 Released](https://www.postgresql.org/about/news/postgresql-16-released-2715/)
 
-- [Intro to C++ Coroutines: Concept](https://www.kdab.com/intro-to-c-coroutines-concept/)
+- [Making NixOS modules for fun and (hopefully) profit](https://xeiaso.net/talks/asg-2023-nixos)
 
-- [The power of prolog](https://www.metalevel.at/prolog/facets)
+- [Send note to Kindle](https://xenodium.com/emacs-send-to-kindle/)
 
-- [Bcachefs Merged Into Linux-Next](https://www.phoronix.com/news/Bcachefs-In-Linux-Next)
-
-- [Riffle - Reactive Relational State](https://youtu.be/zjl7CpG9h3w?si=93Ih3xlL7fGurs2Y)
+- [Bounties Damage Open Source Projects](https://ziglang.org/news/bounties-damage-open-source-projects/)
