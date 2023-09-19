@@ -1,47 +1,47 @@
-- [Modern Authorization Systems](https://authzed.com/blog/authz-primer)
+- [When Zig Outshines Rust - Memory Efficient Enum Arrays](https://alic.dev/blog/dense-enums)
 
-- [Linear code is more readable](https://blog.separateconcerns.com/2023-09-11-linear-code.html)
+- [Tracing: structured logging, but better in every way](https://andydote.co.uk/2023/09/19/tracing-is-better/)
 
-- [Holy Macroni! A recipe for progressive language enhancement](https://blog.trailofbits.com/2023/09/11/holy-macroni-a-recipe-for-progressive-language-enhancement/)
+- [SQL join flavors](https://antonz.org/sql-join/)
 
-- [Strange Loop's greatest hits](https://changelog.com/posts/strange-loops-greatest-hits)
+- [I hacked macOS! (CVE-2022-32947)](https://asahilina.net/agx-exploit/)
 
-- [Why and How Does CPython Use Bloom Filters in String Processing?](https://codeconfessions.substack.com/p/cpython-bloom-filter-usage)
+- [Creating a base OCI image for Nix flake builds within Gitea/Forgejo](https://blog.cyplo.dev/posts/2023/09/act-runner-image/)
 
-- [Truthiness in C](https://dxuuu.xyz/casts.html)
+- [Security flaws in an SSO plugin for Caddy](https://blog.trailofbits.com/2023/09/18/security-flaws-in-an-sso-plugin-for-caddy/)
 
-- [FindMyCat - The Open-Source Pet Tracker](https://findmycat.io)
+- [“Immutable” - reprovisionable, anti-hysteresis](https://blog.verbum.org/2020/08/22/immutable-→-reprovisionable-anti-hysteresis/)
 
-- [Go-perf meetup #1](https://go-perf.dev/go-perf-meetup-1)
+- [what's the deal with flag emoji?](https://cohost.org/BerryPi/post/451056-what-s-the-deal-with)
 
-- [Mastodon instance with 6 files](https://justingarrison.com/blog/2022-12-06-mastodon-files-instance/)
+- [Hamlib: Ham radio control library for rigs, rotators, tuners, and amplifiers](https://github.com/Hamlib/Hamlib)
 
-- [Notes on using a single-person Mastodon server](https://jvns.ca/blog/2023/08/11/some-notes-on-mastodon/)
+- [Inside New Query Engine of MongoDB](https://laplab.me/posts/inside-new-query-engine-of-mongodb/)
 
-- [Should I Rust or should I go?](https://kerkour.com/should-i-rust-or-should-i-go)
+- [backlight-auto - the missing Linux automatic backlight adjuster](https://len.falken.directory/backlight-auto.html)
 
-- [My little MillionDollarHomepage garden](https://matthieu.io/blog/2023/09/13/million-dollar-homepage-garden/)
+- [Comments On Comments](https://noncombatant.org/2023/08/27/comments/)
 
-- [OCaml 5.1.0 Release Notes](https://ocaml.org/releases/5.1.0)
+- ["Help, iterators made my Rust program slower!"](https://ntietz.com/blog/rust-iterators-and-threads/)
 
-- [Understanding the Origins and the Evolution of Vi & Vim](https://pikuma.com/blog/origins-of-vim-text-editor)
+- [Low latency logging in Rust](https://ochagavia.nl/blog/low-latency-logging-in-rust/)
 
-- [We Turned Lobste.rs into a Rails Benchmark for YJIT](https://railsatscale.com/2023-08-25-we-turned-lobsters-into-a-rails-benchmark-for-yjit/)
+- [Petals – Run LLMs at home, BitTorrent-style](https://petals.dev/)
 
-- [This month in Servo: upcoming events, new browser UI, and more](https://servo.org/blog/2023/09/15/upcoming-events-and-new-browser-ui/)
+- [So let’s talk about this Wayland thing](https://pointieststick.com/2023/09/17/so-lets-talk-about-this-wayland-thing/)
 
-- [Getting Used To Microservices](https://two-wrongs.com/getting-used-to-microservices.html)
+- [Godot is not the new Unity - The anatomy of a Godot API call](https://sampruden.github.io/posts/godot-is-not-the-new-unity/)
 
-- [Using Janet as Database](https://www.1a-insec.net/blog/18-janet-as-database/)
+- [We Need A Standard Layered Image Format (2013)](https://shapeof.com/archives/2013/4/we_need_a_standard_layered_image_format.html)
 
-- [Marginalia Search receives FUTO Grant](https://www.marginalia.nu/log/88-futo-grant/)
+- [Stability without stressing the !@#! out](https://smallcultfollowing.com/babysteps/blog/2023/09/18/stability-without-stressing-the-out/)
 
-- [On the Impending Crypto Monoculture (2016)](https://www.metzdowd.com/pipermail/cryptography/2016-March/028824.html)
+- [How Hard is it to Adapt a Memory Allocator to CHERI?](https://tratt.net/laurie/blog/2023/how_hard_is_it_to_adapt_a_memory_allocator_to_cheri.html)
 
-- [PostgreSQL 16 Released](https://www.postgresql.org/about/news/postgresql-16-released-2715/)
+- [WebKit Features in Safari 17.0](https://webkit.org/blog/14445/webkit-features-in-safari-17-0/)
 
-- [Making NixOS modules for fun and (hopefully) profit](https://xeiaso.net/talks/asg-2023-nixos)
+- [So, What's So Special About The Mill Scala Build Tool?](https://www.lihaoyi.com/post/SoWhatsSoSpecialAboutTheMillScalaBuildTool.html)
 
-- [Send note to Kindle](https://xenodium.com/emacs-send-to-kindle/)
+- [What If OpenDocument Used SQLite](https://www.sqlite.org/affcase1.html)
 
-- [Bounties Damage Open Source Projects](https://ziglang.org/news/bounties-damage-open-source-projects/)
+- [38TB of data accidentally exposed by Microsoft AI researchers](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
