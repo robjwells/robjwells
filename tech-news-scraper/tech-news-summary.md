@@ -1,47 +1,49 @@
-- [When Zig Outshines Rust - Memory Efficient Enum Arrays](https://alic.dev/blog/dense-enums)
+- [rePalm](http://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
 
-- [Tracing: structured logging, but better in every way](https://andydote.co.uk/2023/09/19/tracing-is-better/)
+- [Why Kakoune](https://andreyor.st/posts/2023-09-20-why-kakoune/)
 
-- [SQL join flavors](https://antonz.org/sql-join/)
+- [AWK for Exploratory Data Analysis of Humanities Data](https://awk.dev/eda.html)
 
-- [I hacked macOS! (CVE-2022-32947)](https://asahilina.net/agx-exploit/)
+- [The WebP 0day](https://blog.isosceles.com/the-webp-0day/)
 
-- [Creating a base OCI image for Nix flake builds within Gitea/Forgejo](https://blog.cyplo.dev/posts/2023/09/act-runner-image/)
+- [Mastodon 4.2](https://blog.joinmastodon.org/2023/09/mastodon-4.2/)
 
-- [Security flaws in an SSO plugin for Caddy](https://blog.trailofbits.com/2023/09/18/security-flaws-in-an-sso-plugin-for-caddy/)
+- [buzz - A small/lightweight statically typed scripting language](https://buzz-lang.dev)
 
-- [“Immutable” - reprovisionable, anti-hysteresis](https://blog.verbum.org/2020/08/22/immutable-→-reprovisionable-anti-hysteresis/)
+- [XML is better than YAML](https://changelog.com/posts/xml-better-than-yaml)
 
-- [what's the deal with flag emoji?](https://cohost.org/BerryPi/post/451056-what-s-the-deal-with)
+- [The State of Async Rust](https://corrode.dev/blog/async/)
 
-- [Hamlib: Ham radio control library for rigs, rotators, tuners, and amplifiers](https://github.com/Hamlib/Hamlib)
+- [Data Contract Specification](https://datacontract.com)
 
-- [Inside New Query Engine of MongoDB](https://laplab.me/posts/inside-new-query-engine-of-mongodb/)
+- [Introducing the Azure Quantum Development Kit Preview](https://devblogs.microsoft.com/qsharp/introducing-the-azure-quantum-development-kit-preview/)
 
-- [backlight-auto - the missing Linux automatic backlight adjuster](https://len.falken.directory/backlight-auto.html)
+- [The first arm64 CPU launch](https://ioc.exchange/@shac/111099766302290499)
 
-- [Comments On Comments](https://noncombatant.org/2023/08/27/comments/)
+- [Taming the OOM killer](https://lwn.net/Articles/317814/)
 
-- ["Help, iterators made my Rust program slower!"](https://ntietz.com/blog/rust-iterators-and-threads/)
+- [Matrix 2.0: The Future of Matrix](https://matrix.org/blog/2023/09/matrix-2-0/)
 
-- [Low latency logging in Rust](https://ochagavia.nl/blog/low-latency-logging-in-rust/)
+- [fzf - The Command-Line Fuzzy Finder](https://muhammadraza.me/2023/fzf/)
 
-- [Petals – Run LLMs at home, BitTorrent-style](https://petals.dev/)
+- [How do databases execute expressions?](https://notes.eatonphil.com/2023-09-21-how-do-databases-execute-expressions.html)
 
-- [So let’s talk about this Wayland thing](https://pointieststick.com/2023/09/17/so-lets-talk-about-this-wayland-thing/)
+- [Why Are There So Many Python Dataframes?](https://ponder.io/why-are-there-so-many-python-dataframes/)
 
-- [Godot is not the new Unity - The anatomy of a Godot API call](https://sampruden.github.io/posts/godot-is-not-the-new-unity/)
+- [Memories of a really goofy phone from the late 80s](https://rachelbythebay.com/w/2023/09/20/fv1000/)
 
-- [We Need A Standard Layered Image Format (2013)](https://shapeof.com/archives/2013/4/we_need_a_standard_layered_image_format.html)
+- [Supply Chain Issues in PyPI](https://stiankri.substack.com/p/supply-chain-issues-in-pypi)
 
-- [Stability without stressing the !@#! out](https://smallcultfollowing.com/babysteps/blog/2023/09/18/stability-without-stressing-the-out/)
+- [Most UI Applications are Broken Real-time Applications](https://thelig.ht/ui-apps-are-broken/)
 
-- [How Hard is it to Adapt a Memory Allocator to CHERI?](https://tratt.net/laurie/blog/2023/how_hard_is_it_to_adapt_a_memory_allocator_to_cheri.html)
+- [The CHERI Instruction-Set Architecture, Version 9](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-987.html)
 
-- [WebKit Features in Safari 17.0](https://webkit.org/blog/14445/webkit-features-in-safari-17-0/)
+- [Nintendo 3DS architecture](https://www.copetti.org/writings/consoles/nintendo-3ds/)
 
-- [So, What's So Special About The Mill Scala Build Tool?](https://www.lihaoyi.com/post/SoWhatsSoSpecialAboutTheMillScalaBuildTool.html)
+- [Behind the scenes with FawltyDeps v0.13.0: Matching imports with dependencies](https://www.tweag.io/blog/2023-09-21-fawltydeps-mapping-strategy/)
 
-- [What If OpenDocument Used SQLite](https://www.sqlite.org/affcase1.html)
+- [Long-term support for Linux kernel to be cut as maintainence remains under strain](https://www.zdnet.com/article/long-term-support-for-linux-kernel-to-be-cut-as-maintainence-remains-under-strain/)
 
-- [38TB of data accidentally exposed by Microsoft AI researchers](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
+- [gokrazy is really cool](https://xeiaso.net/blog/gokrazy)
+
+- [I'm Re-Imagining the Command Line Interpreter](https://youtu.be/NxsaHxON350?si=e178BNvF7N8zUuiF)
