@@ -1,49 +1,49 @@
-- [rePalm](http://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
+- [Why do we need modules at all?](http://erlang.org/pipermail/erlang-questions/2011-May/058768.html)
 
-- [Why Kakoune](https://andreyor.st/posts/2023-09-20-why-kakoune/)
+- [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
 
-- [AWK for Exploratory Data Analysis of Humanities Data](https://awk.dev/eda.html)
+- [Implementing smooth Plymouth ⟶ X transition (2009)](https://blogs.gnome.org/halfline/2009/11/28/plymouth-%E2%9F%B6-x-transition/)
 
-- [The WebP 0day](https://blog.isosceles.com/the-webp-0day/)
+- [Software Packaging Is A Nightmare](https://cohost.org/PolyWolf/post/2613009-software-packaging-a)
 
-- [Mastodon 4.2](https://blog.joinmastodon.org/2023/09/mastodon-4.2/)
+- [Recent advances in computer science since 2010?](https://cstheory.stackexchange.com/questions/53343/recent-advances-in-computer-science-since-2010)
 
-- [buzz - A small/lightweight statically typed scripting language](https://buzz-lang.dev)
+- [You Can Be a Lumberjack (and that's okay)](https://danielbmarkham.com/you-can-be-a-lumberjack-and-thats-okay/)
 
-- [XML is better than YAML](https://changelog.com/posts/xml-better-than-yaml)
+- [GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/foreword)
 
-- [The State of Async Rust](https://corrode.dev/blog/async/)
+- [LuaJIT v3.0 Tracking Issue](https://github.com/LuaJIT/LuaJIT/issues/1092)
 
-- [Data Contract Specification](https://datacontract.com)
+- [Announcing Comfy - a new fun 2d game engine in Rust/wgpu](https://github.com/darthdeus/comfy)
 
-- [Introducing the Azure Quantum Development Kit Preview](https://devblogs.microsoft.com/qsharp/introducing-the-azure-quantum-development-kit-preview/)
+- [flameshow: A terminal Flamegraph viewer](https://github.com/laixintao/flameshow)
 
-- [The first arm64 CPU launch](https://ioc.exchange/@shac/111099766302290499)
+- [Platform that enables Windows driver development in Rust. Developed by Surface](https://github.com/microsoft/windows-drivers-rs)
 
-- [Taming the OOM killer](https://lwn.net/Articles/317814/)
+- [Contributing to OCaml: Collective maintenance](https://github.com/ocaml/ocaml/blob/trunk/CONTRIBUTING.md#collective-maintenance)
 
-- [Matrix 2.0: The Future of Matrix](https://matrix.org/blog/2023/09/matrix-2-0/)
+- [Blocking Visual Studio Code embedded reverse shell before it's too late](https://ipfyx.fr/post/visual-studio-code-tunnel/)
 
-- [fzf - The Command-Line Fuzzy Finder](https://muhammadraza.me/2023/fzf/)
+- [Solving the Engineering Strategy crisis](https://lethain.com/solving-the-engineering-strategy-crisis/)
 
-- [How do databases execute expressions?](https://notes.eatonphil.com/2023-09-21-how-do-databases-execute-expressions.html)
+- [No Stale Bots](https://nostalebots.xyz/)
 
-- [Why Are There So Many Python Dataframes?](https://ponder.io/why-are-there-so-many-python-dataframes/)
+- [Ditch That Else](https://preslav.me/2023/09/22/ditch-that-else)
 
-- [Memories of a really goofy phone from the late 80s](https://rachelbythebay.com/w/2023/09/20/fv1000/)
+- [PROJEKT:OVERFLOW - Assembler and C tabletop board game](https://punkx.org/overflow)
 
-- [Supply Chain Issues in PyPI](https://stiankri.substack.com/p/supply-chain-issues-in-pypi)
+- [Semgrep: a static analysis journey](https://semgrep.dev/blog/2021/semgrep-a-static-analysis-journey/)
 
-- [Most UI Applications are Broken Real-time Applications](https://thelig.ht/ui-apps-are-broken/)
+- [Digital pollution (2019)](https://sive.rs/polut)
 
-- [The CHERI Instruction-Set Architecture, Version 9](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-987.html)
+- [Knuth's 20 Questions for ChatGPT](https://www-cs-faculty.stanford.edu/~knuth/chatGPT20.txt)
 
-- [Nintendo 3DS architecture](https://www.copetti.org/writings/consoles/nintendo-3ds/)
+- [Prompt engineering for Claude's long context window](https://www.anthropic.com/index/prompting-long-context)
 
-- [Behind the scenes with FawltyDeps v0.13.0: Matching imports with dependencies](https://www.tweag.io/blog/2023-09-21-fawltydeps-mapping-strategy/)
+- [3 IRL use cases for Python and HTMX](https://www.bitecode.dev/p/3-irl-use-cases-for-python-and-htmx)
 
-- [Long-term support for Linux kernel to be cut as maintainence remains under strain](https://www.zdnet.com/article/long-term-support-for-linux-kernel-to-be-cut-as-maintainence-remains-under-strain/)
+- [GitOps Is a Means, Where Is the End?](https://www.flipt.io/blog/gitops-means-to-an-end)
 
-- [gokrazy is really cool](https://xeiaso.net/blog/gokrazy)
+- [Mythbusters: Wing Commander I Edition](https://www.wcnews.com/news/update/16279)
 
-- [I'm Re-Imagining the Command Line Interpreter](https://youtu.be/NxsaHxON350?si=e178BNvF7N8zUuiF)
+- [Free software, free society](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
