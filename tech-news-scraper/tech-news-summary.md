@@ -1,49 +1,49 @@
-- [Why do we need modules at all?](http://erlang.org/pipermail/erlang-questions/2011-May/058768.html)
+- [Champagne for my real friends](http://jeremybmerrill.com/documents/champagnerealpain.html)
 
-- [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
+- [Controlling Large Software Development In a Distributed Environment (1982)](http://www.bitsavers.org/pdf/xerox/parc/techReports/CSL-82-7_Controlling_Large_Software_Development_In_a_Distributed_Environment.pdf)
 
-- [Implementing smooth Plymouth ⟶ X transition (2009)](https://blogs.gnome.org/halfline/2009/11/28/plymouth-%E2%9F%B6-x-transition/)
+- [How to get started hacking NetBSD](https://2023.eurobsdcon.org/slides/eurobsdcon2023-taylor_campbell-getstarted.pdf)
 
-- [Software Packaging Is A Nightmare](https://cohost.org/PolyWolf/post/2613009-software-packaging-a)
+- [How my first kernel contribution wasn’t accepted](https://ariel-miculas.github.io/How-I-got-robbed-of-my-first-kernel-contribution/)
 
-- [Recent advances in computer science since 2010?](https://cstheory.stackexchange.com/questions/53343/recent-advances-in-computer-science-since-2010)
+- [Random walk in 2 lines of J](https://asindu.xyz/posts/random-walk-in-2-lines-of-j/)
 
-- [You Can Be a Lumberjack (and that's okay)](https://danielbmarkham.com/you-can-be-a-lumberjack-and-thats-okay/)
+- [Robots.txt](https://blog.jim-nielsen.com/2023/robots-txt/)
 
-- [GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/foreword)
+- [Casual Maintenance Intended](https://casuallymaintained.tech)
 
-- [LuaJIT v3.0 Tracking Issue](https://github.com/LuaJIT/LuaJIT/issues/1092)
+- [The lost language extensions of MetaWare's High C Compiler](https://cohost.org/jckarter/post/2955755-the-lost-language-ex)
 
-- [Announcing Comfy - a new fun 2d game engine in Rust/wgpu](https://github.com/darthdeus/comfy)
+- [Announcing Deno Queues](https://deno.com/blog/queues)
 
-- [flameshow: A terminal Flamegraph viewer](https://github.com/laixintao/flameshow)
+- [Dotfiles matter](https://dotfiles-matter.click/)
 
-- [Platform that enables Windows driver development in Rust. Developed by Surface](https://github.com/microsoft/windows-drivers-rs)
+- [Bloom filter calculator](https://hur.st/bloomfilter/)
 
-- [Contributing to OCaml: Collective maintenance](https://github.com/ocaml/ocaml/blob/trunk/CONTRIBUTING.md#collective-maintenance)
+- [Super-fast Sphinx docs, and SNOB driven development](https://lukeplant.me.uk/blog/posts/super-fast-sphinx-docs/)
 
-- [Blocking Visual Studio Code embedded reverse shell before it's too late](https://ipfyx.fr/post/visual-studio-code-tunnel/)
+- [Meet SwiftGodot](https://migueldeicaza.github.io/SwiftGodotDocs/tutorials/swiftgodot-tutorials/)
 
-- [Solving the Engineering Strategy crisis](https://lethain.com/solving-the-engineering-strategy-crisis/)
+- [Rethinking the `setup` convention in Neovim. Is it time for a paradigm shift?](https://mrcjkb.dev/posts/2023-08-22-setup.html)
 
-- [No Stale Bots](https://nostalebots.xyz/)
+- [Essence: A desktop OS built from scratch, for control and simplicity](https://nakst.gitlab.io/essence)
 
-- [Ditch That Else](https://preslav.me/2023/09/22/ditch-that-else)
+- [Eyra is an interesting Rust project](https://notgull.net/eyra/)
 
-- [PROJEKT:OVERFLOW - Assembler and C tabletop board game](https://punkx.org/overflow)
+- [Arena allocator tips and tricks](https://nullprogram.com/blog/2023/09/27/)
 
-- [Semgrep: a static analysis journey](https://semgrep.dev/blog/2021/semgrep-a-static-analysis-journey/)
+- [Playing with Caml Light on DOS](https://www.cambus.net/playing-with-caml-light-on-dos/)
 
-- [Digital pollution (2019)](https://sive.rs/polut)
+- [Finding Bathroom Faucets with Embeddings](https://www.dbreunig.com/2023/09/26/faucet-finder.html)
 
-- [Knuth's 20 Questions for ChatGPT](https://www-cs-faculty.stanford.edu/~knuth/chatGPT20.txt)
+- [GNU 40th anniversary](https://www.gnu.org/gnu40/)
 
-- [Prompt engineering for Claude's long context window](https://www.anthropic.com/index/prompting-long-context)
+- [GPU.zip: a new type of side channel exposing visual data processed on the GPU](https://www.hertzbleed.com/gpu.zip/)
 
-- [3 IRL use cases for Python and HTMX](https://www.bitecode.dev/p/3-irl-use-cases-for-python-and-htmx)
+- [How Many Days Has It Been Since a JWT alg=none Vulnerability?](https://www.howmanydayssinceajwtalgnonevuln.com/)
 
-- [GitOps Is a Means, Where Is the End?](https://www.flipt.io/blog/gitops-means-to-an-end)
+- [Water surface simulation on the NES](https://www.kickstarter.com/projects/morphcat-games/triple-jump-a-platformer-multi-cartridge-for-the-nes/posts/3918838)
 
-- [Mythbusters: Wing Commander I Edition](https://www.wcnews.com/news/update/16279)
+- [Rust Vs Go: A Hands-On Comparison](https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison)
 
-- [Free software, free society](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
+- [Uiua - a concatenative array programming language](https://www.uiua.org/)
