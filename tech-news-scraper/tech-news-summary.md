@@ -1,49 +1,49 @@
-- [Champagne for my real friends](http://jeremybmerrill.com/documents/champagnerealpain.html)
+- [50 years later, is Two-Phase Locking the best we can do?](http://concurrencyfreaks.blogspot.com/2023/09/50-years-later-is-two-phase-locking.html)
 
-- [Controlling Large Software Development In a Distributed Environment (1982)](http://www.bitsavers.org/pdf/xerox/parc/techReports/CSL-82-7_Controlling_Large_Software_Development_In_a_Distributed_Environment.pdf)
+- [How flip-flops are implemented in the Intel 8086 processor](http://www.righto.com/2023/09/8086-flip-flops.html)
 
-- [How to get started hacking NetBSD](https://2023.eurobsdcon.org/slides/eurobsdcon2023-taylor_campbell-getstarted.pdf)
+- [Encrypted Client Hello](https://blog.cloudflare.com/announcing-encrypted-client-hello/)
 
-- [How my first kernel contribution wasn’t accepted](https://ariel-miculas.github.io/How-I-got-robbed-of-my-first-kernel-contribution/)
+- [YAML config file? Pain? Try Lua](https://boston.conman.org/2023/09/29.1)
 
-- [Random walk in 2 lines of J](https://asindu.xyz/posts/random-walk-in-2-lines-of-j/)
+- [Error Messages Are Classifiers](https://cs.brown.edu/~sk/Publications/Papers/Published/wk-error-msg-classifier/paper.pdf)
 
-- [Robots.txt](https://blog.jim-nielsen.com/2023/robots-txt/)
+- [Optimization Techniques for GPU Programming](https://dl.acm.org/doi/pdf/10.1145/3570638)
 
-- [Casual Maintenance Intended](https://casuallymaintained.tech)
+- [-Werror is Not Your Friend](https://embeddedartistry.com/blog/2017/05/22/werror-is-not-your-friend/)
 
-- [The lost language extensions of MetaWare's High C Compiler](https://cohost.org/jckarter/post/2955755-the-lost-language-ex)
+- [dbg(…) -  A macro for printf-style debugging fans](https://github.com/sharkdp/dbg-macro)
 
-- [Announcing Deno Queues](https://deno.com/blog/queues)
+- [Orbiton 2.65.1 is out](https://github.com/xyproto/orbiton/releases/tag/v2.65.1)
 
-- [Dotfiles matter](https://dotfiles-matter.click/)
+- [The Oldest Living Torrent Is 20 Years Old](https://hackaday.com/2023/09/28/the-oldest-living-torrent-is-20-years-old/)
 
-- [Bloom filter calculator](https://hur.st/bloomfilter/)
+- [cppfront: Autumn update](https://herbsutter.com/2023/09/28/cppfront-autumn-update/)
 
-- [Super-fast Sphinx docs, and SNOB driven development](https://lukeplant.me.uk/blog/posts/super-fast-sphinx-docs/)
+- [Adding Icons for Go-built Windows Executable](https://hjr265.me/blog/adding-icons-for-go-built-windows-executable/)
 
-- [Meet SwiftGodot](https://migueldeicaza.github.io/SwiftGodotDocs/tutorials/swiftgodot-tutorials/)
+- [Faster hash maps, binary trees etc. through data layout modification](https://johnnysswlab.com/faster-hash-maps-binary-trees-etc-through-data-layout-modification/)
 
-- [Rethinking the `setup` convention in Neovim. Is it time for a paradigm shift?](https://mrcjkb.dev/posts/2023-08-22-setup.html)
+- [Hacking and upgrading the Korg Kronos](https://marcan.st/2016/06/hacking-and-upgrading-the-korg-kronos/)
 
-- [Essence: A desktop OS built from scratch, for control and simplicity](https://nakst.gitlab.io/essence)
+- [Reorient GitHub Pull Requests Around Changesets](https://mitchellh.com/writing/github-changesets)
 
-- [Eyra is an interesting Rust project](https://notgull.net/eyra/)
+- [The Pruning Radix Trie — a Radix Trie on steroids](https://seekstorm.com/blog/pruning-radix-trie/)
 
-- [Arena allocator tips and tricks](https://nullprogram.com/blog/2023/09/27/)
+- [Things I’ve learned about building CLI tools in Python](https://simonwillison.net/2023/Sep/30/cli-tools-python/)
 
-- [Playing with Caml Light on DOS](https://www.cambus.net/playing-with-caml-light-on-dos/)
+- [How SteamOS is contributing to the Linux ecosystem](https://static.sched.com/hosted_files/osseu2023/83/steamos-and-linux-oss-eu-2023.pdf)
 
-- [Finding Bathroom Faucets with Embeddings](https://www.dbreunig.com/2023/09/26/faucet-finder.html)
+- [Django Developers Survey 2023](https://surveys.jetbrains.com/s3/django-developers-survey-2023)
 
-- [GNU 40th anniversary](https://www.gnu.org/gnu40/)
+- [Hardening macOS (updated for macOS Sonoma 14.0)](https://www.bejarano.io/hardening-macos/)
 
-- [GPU.zip: a new type of side channel exposing visual data processed on the GPU](https://www.hertzbleed.com/gpu.zip/)
+- [Hijacking Bluesky Identities with a Malleable Deputy](https://www.da.vidbuchanan.co.uk/blog/hacking-bluesky.html)
 
-- [How Many Days Has It Been Since a JWT alg=none Vulnerability?](https://www.howmanydayssinceajwtalgnonevuln.com/)
+- [Just because it's old, doesn't make it tech debt](https://www.elliotcsmith.com/tech-debt/)
 
-- [Water surface simulation on the NES](https://www.kickstarter.com/projects/morphcat-games/triple-jump-a-platformer-multi-cartridge-for-the-nes/posts/3918838)
+- [60 terrible tips for a C++ developer](https://www.modernescpp.com/index.php/60-terrible-tips-for-a-c-developer/)
 
-- [Rust Vs Go: A Hands-On Comparison](https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison)
+- [bruno: a git-friendly Postman alternative](https://www.usebruno.com/)
 
-- [Uiua - a concatenative array programming language](https://www.uiua.org/)
+- [How does printf() work in the xv6 kernel?](https://www.youtube.com/watch?v=uNp4DElDQyY)
