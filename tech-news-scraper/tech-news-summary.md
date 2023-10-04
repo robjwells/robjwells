@@ -1,49 +1,49 @@
-- [50 years later, is Two-Phase Locking the best we can do?](http://concurrencyfreaks.blogspot.com/2023/09/50-years-later-is-two-phase-locking.html)
+- [GitShed: an idea for both a familiar and "low-tech" source forge](http://len.falken.directory/my-inner-conflict-with-github-and-what-i-plan-to-do-about-it.txt)
 
-- [How flip-flops are implemented in the Intel 8086 processor](http://www.righto.com/2023/09/8086-flip-flops.html)
+- [Exploiting the iPhone 4](https://axleos.com/exploiting-the-iphone-4-part-1-gaining-entry/)
 
-- [Encrypted Client Hello](https://blog.cloudflare.com/announcing-encrypted-client-hello/)
+- [The TLDR on Ruby's new TLDR testing framework](https://blog.testdouble.com/posts/2023-10-03-introducing-the-tldr-ruby-test-framework/)
 
-- [YAML config file? Pain? Try Lua](https://boston.conman.org/2023/09/29.1)
+- [Picat is my favorite new toolbox language](https://buttondown.email/hillelwayne/archive/picat-is-my-favorite-new-toolbox-language/)
 
-- [Error Messages Are Classifiers](https://cs.brown.edu/~sk/Publications/Papers/Published/wk-error-msg-classifier/paper.pdf)
+- [Conventional Comments](https://conventionalcomments.org/)
 
-- [Optimization Techniques for GPU Programming](https://dl.acm.org/doi/pdf/10.1145/3570638)
+- [Announcing TypeScript 5.3 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-3-beta/)
 
-- [-Werror is Not Your Friend](https://embeddedartistry.com/blog/2017/05/22/werror-is-not-your-friend/)
+- [ArchImage: Install software from the Arch User Repository on any distribution](https://github.com/ivan-hc/ArchImage)
 
-- [dbg(…) -  A macro for printf-style debugging fans](https://github.com/sharkdp/dbg-macro)
+- [Lectures on Applied Category Theory | The n-Category Café](https://golem.ph.utexas.edu/category/2023/09/lectures_on_applied_category_t.html)
 
-- [Orbiton 2.65.1 is out](https://github.com/xyproto/orbiton/releases/tag/v2.65.1)
+- [Writing Object Shape friendly code in Ruby](https://island94.org/2023/10/writing-object-shape-friendly-code-in-ruby)
 
-- [The Oldest Living Torrent Is 20 Years Old](https://hackaday.com/2023/09/28/the-oldest-living-torrent-is-20-years-old/)
+- [The 300% Production Problem](https://leebriggs.co.uk/blog/2023/09/28/300_percent_problem)
 
-- [cppfront: Autumn update](https://herbsutter.com/2023/09/28/cppfront-autumn-update/)
+- [Lessons From Debugging](https://matt-rickard.com/lessons-from-debugging)
 
-- [Adding Icons for Go-built Windows Executable](https://hjr265.me/blog/adding-icons-for-go-built-windows-executable/)
+- [Grapheme Clusters and Terminal Emulators](https://mitchellh.com/writing/grapheme-clusters-in-terminals)
 
-- [Faster hash maps, binary trees etc. through data layout modification](https://johnnysswlab.com/faster-hash-maps-binary-trees-etc-through-data-layout-modification/)
+- [Shift Happens](https://shifthappens.backerkit.com/hosted_preorders)
 
-- [Hacking and upgrading the Korg Kronos](https://marcan.st/2016/06/hacking-and-upgrading-the-korg-kronos/)
+- [Unicode Overview](https://tonsky.me/blog/unicode/)
 
-- [Reorient GitHub Pull Requests Around Changesets](https://mitchellh.com/writing/github-changesets)
+- [Windows NT 3.1 on DEC Alpha AXP](https://virtuallyfun.com/2023/10/02/windows-nt-3-1-on-dec-alpha-axp/)
 
-- [The Pruning Radix Trie — a Radix Trie on steroids](https://seekstorm.com/blog/pruning-radix-trie/)
+- [Why we're no longer using Core.typed (2016)](https://web.archive.org/web/20160304022108/https://blog.circleci.com/why-were-no-longer-using-core-typed/)
 
-- [Things I’ve learned about building CLI tools in Python](https://simonwillison.net/2023/Sep/30/cli-tools-python/)
+- [Functions as Methods in Dafny?](https://whileydave.com/2023/09/16/efficient-functions-in-dafny/)
 
-- [How SteamOS is contributing to the Linux ecosystem](https://static.sched.com/hosted_files/osseu2023/83/steamos-and-linux-oss-eu-2023.pdf)
+- [python 3.12: what didn't make the headlines](https://www.bitecode.dev/p/python-312-what-didnt-make-the-headlines)
 
-- [Django Developers Survey 2023](https://surveys.jetbrains.com/s3/django-developers-survey-2023)
+- [GitHub repos bombarded by info-stealing commits masked as Dependabot](https://www.bleepingcomputer.com/news/security/github-repos-bombarded-by-info-stealing-commits-masked-as-dependabot/)
 
-- [Hardening macOS (updated for macOS Sonoma 14.0)](https://www.bejarano.io/hardening-macos/)
+- [Windows Arm64EC ABI Notes](https://www.corsix.org/content/windows-arm64ec-notes)
 
-- [Hijacking Bluesky Identities with a Malleable Deputy](https://www.da.vidbuchanan.co.uk/blog/hacking-bluesky.html)
+- [My views on NeoHaskell](https://www.haskellforall.com/2023/10/my-views-on-neohaskell.html)
 
-- [Just because it's old, doesn't make it tech debt](https://www.elliotcsmith.com/tech-debt/)
+- [The Plan for InfluxDB 3.0 Open Source](https://www.influxdata.com/blog/the-plan-for-influxdb-3-0-open-source/)
 
-- [60 terrible tips for a C++ developer](https://www.modernescpp.com/index.php/60-terrible-tips-for-a-c-developer/)
+- [Python 3.12.0 released](https://www.python.org/downloads/release/python-3120/)
 
-- [bruno: a git-friendly Postman alternative](https://www.usebruno.com/)
+- [Looney Tunables: Local Privilege Escalation in the glibc's ld.so (CVE-2023-4911)](https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt)
 
-- [How does printf() work in the xv6 kernel?](https://www.youtube.com/watch?v=uNp4DElDQyY)
+- [Programming, language](https://www.sicpers.info/2023/10/programming-language/)
