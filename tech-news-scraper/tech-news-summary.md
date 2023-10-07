@@ -1,49 +1,47 @@
-- [GitShed: an idea for both a familiar and "low-tech" source forge](http://len.falken.directory/my-inner-conflict-with-github-and-what-i-plan-to-do-about-it.txt)
+- [Testing Distributed Systems for Linearizability (2017)](https://anishathalye.com/testing-distributed-systems-for-linearizability/)
 
-- [Exploiting the iPhone 4](https://axleos.com/exploiting-the-iphone-4-part-1-gaining-entry/)
+- [Why HTTP/3 is eating the world](https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/)
 
-- [The TLDR on Ruby's new TLDR testing framework](https://blog.testdouble.com/posts/2023-10-03-introducing-the-tldr-ruby-test-framework/)
+- [Virtual networking 101: Bridging the gap to understanding TAP](https://blog.cloudflare.com/virtual-networking-101-understanding-tap/)
 
-- [Picat is my favorite new toolbox language](https://buttondown.email/hillelwayne/archive/picat-is-my-favorite-new-toolbox-language/)
+- [What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
 
-- [Conventional Comments](https://conventionalcomments.org/)
+- [Rust 1.73.0](https://blog.rust-lang.org/2023/10/05/Rust-1.73.0.html)
 
-- [Announcing TypeScript 5.3 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-3-beta/)
+- [MacOS "DirtyNIB" Vulnerability](https://blog.xpnsec.com/dirtynib/)
 
-- [ArchImage: Install software from the Arch User Repository on any distribution](https://github.com/ivan-hc/ArchImage)
+- [Severity HIGH security problem to be announced with curl 8.4.0 on Oct 11](https://github.com/curl/curl/discussions/12026)
 
-- [Lectures on Applied Category Theory | The n-Category Café](https://golem.ph.utexas.edu/category/2023/09/lectures_on_applied_category_t.html)
+- [event_logger_rails: Rails gem weaving the fabric of logged events into tapestries for analytic reverie](https://github.com/dickdavis/event_logger_rails)
 
-- [Writing Object Shape friendly code in Ruby](https://island94.org/2023/10/writing-object-shape-friendly-code-in-ruby)
+- [Proposal for encoding/json/v2](https://github.com/golang/go/discussions/63397)
 
-- [The 300% Production Problem](https://leebriggs.co.uk/blog/2023/09/28/300_percent_problem)
+- [Fully documented and annotated source code for Elite on the NES](https://github.com/markmoxon/nes-elite-beebasm)
 
-- [Lessons From Debugging](https://matt-rickard.com/lessons-from-debugging)
+- [shell tip: print json with printf](https://j3s.sh/thought/shell-tip-print-json-with-printf.html)
 
-- [Grapheme Clusters and Terminal Emulators](https://mitchellh.com/writing/grapheme-clusters-in-terminals)
+- [Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)
 
-- [Shift Happens](https://shifthappens.backerkit.com/hosted_preorders)
+- [Meltdown-US / Meltdown 3a Remaining Leakage](https://marc.info/?l=oss-security&m=169658685531730&w=2)
 
-- [Unicode Overview](https://tonsky.me/blog/unicode/)
+- [Bus Sniffing the IBM 5150](https://martypc.blogspot.com/2023/10/bus-sniffing-ibm-5150.html)
 
-- [Windows NT 3.1 on DEC Alpha AXP](https://virtuallyfun.com/2023/10/02/windows-nt-3-1-on-dec-alpha-axp/)
+- [Why Kafka Is the New Data Lake?](https://medium.com/@RisingWave_Engineering/why-kafka-is-the-new-data-lake-dd6c1b6048e)
 
-- [Why we're no longer using Core.typed (2016)](https://web.archive.org/web/20160304022108/https://blog.circleci.com/why-were-no-longer-using-core-typed/)
+- [Go database driver overhead on insert-heavy workloads](https://notes.eatonphil.com/2023-10-05-go-database-sql-overhead-on-insert-heavy-workloads.html)
 
-- [Functions as Methods in Dafny?](https://whileydave.com/2023/09/16/efficient-functions-in-dafny/)
+- [Gaussian Splatting](https://poly.cam/gaussian-splatting)
 
-- [python 3.12: what didn't make the headlines](https://www.bitecode.dev/p/python-312-what-didnt-make-the-headlines)
+- [ASCII protocol buffers as config files](https://rachelbythebay.com/w/2023/10/05/config/)
 
-- [GitHub repos bombarded by info-stealing commits masked as Dependabot](https://www.bleepingcomputer.com/news/security/github-repos-bombarded-by-info-stealing-commits-masked-as-dependabot/)
+- [Why Git is hard](https://roadrunnertwice.dreamwidth.org/596185.html)
 
-- [Windows Arm64EC ABI Notes](https://www.corsix.org/content/windows-arm64ec-notes)
+- [Fine-grained Language Composition (2016)](https://tratt.net/laurie/blog/2016/fine_grained_language_composition.html#14462460)
 
-- [My views on NeoHaskell](https://www.haskellforall.com/2023/10/my-views-on-neohaskell.html)
+- [Announcing the $8,192 NIST Elliptic Curves Seeds Bounty](https://words.filippo.io/dispatches/seeds-bounty/)
 
-- [The Plan for InfluxDB 3.0 Open Source](https://www.influxdata.com/blog/the-plan-for-influxdb-3-0-open-source/)
+- [OpenStack 2023.2 Bobcat for Ubuntu 22.04 LTS](https://wrestlingpenguins.wordpress.com/2023/10/06/openstack-2023-2-bobcat-for-ubuntu-22-04-lts/)
 
-- [Python 3.12.0 released](https://www.python.org/downloads/release/python-3120/)
+- [Cloud Costs Every Programmer Should Know](https://www.vantage.sh/blog/cloud-costs-every-programmer-should-know)
 
-- [Looney Tunables: Local Privilege Escalation in the glibc's ld.so (CVE-2023-4911)](https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt)
-
-- [Programming, language](https://www.sicpers.info/2023/10/programming-language/)
+- [The Economics of Programming Languages](https://www.youtube.com/watch?v=XZ3w_jec1v8)
