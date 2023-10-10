@@ -1,47 +1,47 @@
-- [Testing Distributed Systems for Linearizability (2017)](https://anishathalye.com/testing-distributed-systems-for-linearizability/)
+- [Why is Debian the way it is?](https://blog.liw.fi/posts/2023/debian-reasons/)
 
-- [Why HTTP/3 is eating the world](https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/)
+- [modeling CRDTs in Alloy - the importance of idempotence](https://bytes.zone/posts/modeling-crdts-in-alloy-introduction-and-the-importance-of-idempotence/)
 
-- [Virtual networking 101: Bridging the gap to understanding TAP](https://blog.cloudflare.com/virtual-networking-101-understanding-tap/)
+- [Vim's useful lists](https://codeinthehole.com/tips/vim-lists/)
 
-- [What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
+- [things i just don't like about git](https://cohost.org/tef/post/3009746-things-i-just-don-t)
 
-- [Rust 1.73.0](https://blog.rust-lang.org/2023/10/05/Rust-1.73.0.html)
+- [Text showdown: Gap Buffers vs Ropes](https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/)
 
-- [MacOS "DirtyNIB" Vulnerability](https://blog.xpnsec.com/dirtynib/)
+- [An MIR-based JIT prototype for Ruby](https://developers.redhat.com/articles/2023/10/09/mir-based-jit-prototype-ruby)
 
-- [Severity HIGH security problem to be announced with curl 8.4.0 on Oct 11](https://github.com/curl/curl/discussions/12026)
+- [Incus 0.1 (independent fork of Canonical's LXD) has been released](https://discuss.linuxcontainers.org/t/incus-0-1-has-been-released/18036)
 
-- [event_logger_rails: Rails gem weaving the fabric of logged events into tapestries for analytic reverie](https://github.com/dickdavis/event_logger_rails)
+- [Flappy Dird: Flappy Bird implemented in MacOS Finder](https://eieio.games/nonsense/game-11-flappy-bird-finder/)
 
-- [Proposal for encoding/json/v2](https://github.com/golang/go/discussions/63397)
+- [Forty years of programming](https://fabiensanglard.net/40/index.html)
 
-- [Fully documented and annotated source code for Elite on the NES](https://github.com/markmoxon/nes-elite-beebasm)
+- [Coordinated Disclosure: 1-Click RCE on GNOME (CVE-2023-43641)](https://github.blog/2023-10-09-coordinated-disclosure-1-click-rce-on-gnome-cve-2023-43641/)
 
-- [shell tip: print json with printf](https://j3s.sh/thought/shell-tip-print-json-with-printf.html)
+- [Organizing system configs with NixOS](https://johns.codes/blog/organizing-system-configs-with-nixos)
 
-- [Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)
+- [Classic rock, Mario Kart, and why we can't agree on Tailwind](https://joshcollinsworth.com/blog/tailwind-is-smart-steering)
 
-- [Meltdown-US / Meltdown 3a Remaining Leakage](https://marc.info/?l=oss-security&m=169658685531730&w=2)
+- [Speeding up the JavaScript ecosystem - The barrel file debacle](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/)
 
-- [Bus Sniffing the IBM 5150](https://martypc.blogspot.com/2023/10/bus-sniffing-ibm-5150.html)
+- [NixOS & Flakes Book](https://nixos-and-flakes.thiscute.world)
 
-- [Why Kafka Is the New Data Lake?](https://medium.com/@RisingWave_Engineering/why-kafka-is-the-new-data-lake-dd6c1b6048e)
+- [A student asked how I keep us innovative. I don't](https://ntietz.com/blog/forefront-of-innovation/)
 
-- [Go database driver overhead on insert-heavy workloads](https://notes.eatonphil.com/2023-10-05-go-database-sql-overhead-on-insert-heavy-workloads.html)
+- [My personal C coding style as of late 2023](https://nullprogram.com/blog/2023/10/08/)
 
-- [Gaussian Splatting](https://poly.cam/gaussian-splatting)
+- [Zimaboard: the closest thing to my dream home server setup](https://ounapuu.ee/posts/2023/10/09/zimaboard/)
 
-- [ASCII protocol buffers as config files](https://rachelbythebay.com/w/2023/10/05/config/)
+- [When zfs was young](https://ptribble.blogspot.com/2023/10/when-zfs-was-young.html)
 
-- [Why Git is hard](https://roadrunnertwice.dreamwidth.org/596185.html)
+- [You (Probably) Shouldn't use a Lookup Table](https://specbranch.com/posts/lookup-tables/)
 
-- [Fine-grained Language Composition (2016)](https://tratt.net/laurie/blog/2016/fine_grained_language_composition.html#14462460)
+- [ECC RAM on AMD Ryzen 7000 desktop CPUs](https://sunshowers.io/posts/am5-ryzen-7000-ecc-ram/)
 
-- [Announcing the $8,192 NIST Elliptic Curves Seeds Bounty](https://words.filippo.io/dispatches/seeds-bounty/)
+- [Control-flow Integrity in V8](https://v8.dev/blog/control-flow-integrity)
 
-- [OpenStack 2023.2 Bobcat for Ubuntu 22.04 LTS](https://wrestlingpenguins.wordpress.com/2023/10/06/openstack-2023-2-bobcat-for-ubuntu-22-04-lts/)
+- [An attempt at visualizing the Go GC](https://www.aadhav.me/posts/visualizing-the-go-gc/)
 
-- [Cloud Costs Every Programmer Should Know](https://www.vantage.sh/blog/cloud-costs-every-programmer-should-know)
+- [OpenBSD 7.3 on ThinkPad X270 for Scholarly Work](https://www.coreystephan.com/openbsd-thinkpad/)
 
-- [The Economics of Programming Languages](https://www.youtube.com/watch?v=XZ3w_jec1v8)
+- [Have I Been Squatted? – Check if your domain has been typosquatted](https://www.haveibeensquatted.com/)
