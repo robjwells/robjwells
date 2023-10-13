@@ -1,47 +1,49 @@
-- [Why is Debian the way it is?](https://blog.liw.fi/posts/2023/debian-reasons/)
+- [Strange Intelligence, Strange Philosophy](http://schwitzsplinters.blogspot.com/2023/10/strange-intelligence-strange-philosophy.html)
 
-- [modeling CRDTs in Alloy - the importance of idempotence](https://bytes.zone/posts/modeling-crdts-in-alloy-introduction-and-the-importance-of-idempotence/)
+- [aqua: Declarative CLI Version Manager](https://aquaproj.github.io/)
 
-- [Vim's useful lists](https://codeinthehole.com/tips/vim-lists/)
+- [QBinDiff: A modular diffing toolkit](https://blog.quarkslab.com/qbindiff-a-modular-diffing-toolkit.html)
 
-- [things i just don't like about git](https://cohost.org/tef/post/3009746-things-i-just-don-t)
+- [Optimizing row storage in 8-byte chunks](https://brandur.org/fragments/postgres-row-optimization)
 
-- [Text showdown: Gap Buffers vs Ropes](https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/)
+- [Porting from MFC to wxWidgets](https://gist.github.com/LegalizeAdulthood/4ada76ae95f11fffab04dc7f81a20646#porting-from-mfc-to-wxwidgets)
 
-- [An MIR-based JIT prototype for Ruby](https://developers.redhat.com/articles/2023/10/09/mir-based-jit-prototype-ruby)
+- [Learn to use email with git](https://git-send-email.io/)
 
-- [Incus 0.1 (independent fork of Canonical's LXD) has been released](https://discuss.linuxcontainers.org/t/incus-0-1-has-been-released/18036)
+- [crouton: C++20 coroutine runtime and cross-platform I/O library](https://github.com/couchbaselabs/crouton)
 
-- [Flappy Dird: Flappy Bird implemented in MacOS Finder](https://eieio.games/nonsense/game-11-flappy-bird-finder/)
+- [snmalloc: Message passing based allocator](https://github.com/microsoft/snmalloc)
 
-- [Forty years of programming](https://fabiensanglard.net/40/index.html)
+- [Gerbil v0.18 Released](https://github.com/mighty-gerbils/gerbil/releases/tag/v0.18)
 
-- [Coordinated Disclosure: 1-Click RCE on GNOME (CVE-2023-43641)](https://github.blog/2023-10-09-coordinated-disclosure-1-click-rce-on-gnome-cve-2023-43641/)
+- [Can't Be F*cked: Underrated Cause of Tech Debt](https://jesseduffield.com/Can%27t-Be-Fcked/)
 
-- [Organizing system configs with NixOS](https://johns.codes/blog/organizing-system-configs-with-nixos)
+- [How to download and install Linux](https://learn.microsoft.com/en-us/linux/install)
 
-- [Classic rock, Mario Kart, and why we can't agree on Tailwind](https://joshcollinsworth.com/blog/tailwind-is-smart-steering)
+- [Using Prolog as the AST](https://marcellerusu.com/using_prolog_as_the_ast.html)
 
-- [Speeding up the JavaScript ecosystem - The barrel file debacle](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/)
+- [LSP could have been better](https://matklad.github.io/2023/10/12/lsp-could-have-been-better.html)
 
-- [NixOS & Flakes Book](https://nixos-and-flakes.thiscute.world)
+- [Deploying Go with Apache? (using FastCGI)](https://piperswe.me/2023/deploy-go-with-fastcgi/)
 
-- [A student asked how I keep us innovative. I don't](https://ntietz.com/blog/forefront-of-innovation/)
+- [What I wish I knew when I got my ASN](https://quantum5.ca/2023/10/10/what-i-wish-i-knew-when-i-got-my-asn/)
 
-- [My personal C coding style as of late 2023](https://nullprogram.com/blog/2023/10/08/)
+- [One Game, By One Man, On Six Platforms](https://ruoyusun.com/2023/10/12/one-game-six-platforms.html)
 
-- [Zimaboard: the closest thing to my dream home server setup](https://ounapuu.ee/posts/2023/10/09/zimaboard/)
+- [First word discovered in unopened Herculaneum scroll by 21yo computer science student](https://scrollprize.org/firstletters)
 
-- [When zfs was young](https://ptribble.blogspot.com/2023/10/when-zfs-was-young.html)
+- [Why I don't like HTTP as a frontend to backend transport mechanism (2014)](https://utcc.utoronto.ca/~cks/space/blog/web/WhyNotHTTPAsTransport)
 
-- [You (Probably) Shouldn't use a Lookup Table](https://specbranch.com/posts/lookup-tables/)
+- [On Importance of Naming in Programming](https://wasp-lang.dev/blog/2023/10/12/on-importance-of-naming-in-programming)
 
-- [ECC RAM on AMD Ryzen 7000 desktop CPUs](https://sunshowers.io/posts/am5-ryzen-7000-ecc-ram/)
+- [Engage a Wider Audience With ActivityPub on WordPress.com](https://wordpress.com/blog/2023/10/11/activitypub/)
 
-- [Control-flow Integrity in V8](https://v8.dev/blog/control-flow-integrity)
+- [HAProxy is not affected by the HTTP/2 Rapid Reset Attack (CVE-2023-44487)](https://www.haproxy.com/blog/haproxy-is-not-affected-by-the-http-2-rapid-reset-attack-cve-2023-44487)
 
-- [An attempt at visualizing the Go GC](https://www.aadhav.me/posts/visualizing-the-go-gc/)
+- [GNOME Merge Requests Opened That Would Drop X.Org Session Support](https://www.phoronix.com/news/GNOME-MR-Drop-X11-Session)
 
-- [OpenBSD 7.3 on ThinkPad X270 for Scholarly Work](https://www.coreystephan.com/openbsd-thinkpad/)
+- [Bookworm — the new version of Raspberry Pi OS](https://www.raspberrypi.com/news/bookworm-the-new-version-of-raspberry-pi-os/)
 
-- [Have I Been Squatted? – Check if your domain has been typosquatted](https://www.haveibeensquatted.com/)
+- [Okay, fine, I'm using a static site generator now](https://xeiaso.net/blog/xesite-v4/)
+
+- [TLA+ Made Simple with ChatGPT](https://zfhuang99.github.io/tla+/pluscal/chatgpt/2023/09/24/TLA-made-simple-with-chatgpt.html)
