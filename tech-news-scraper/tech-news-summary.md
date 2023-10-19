@@ -1,49 +1,49 @@
-- [QNX DEMO disk:  Extending possibilities and adding undocumented features](http://qnx.puslapiai.lt/qnxdemo/qnx_demo_disk.htm)
+- [SAT Requires Exhaustive Search](https://arxiv.org/abs/2302.09512)
 
-- [Examining the silicon dies of the Intel 386 processor](http://www.righto.com/2023/10/intel-386-die-versions.html)
+- [Llemma: An Open Language Model For Mathematics](https://blog.eleuther.ai/llemma/)
 
-- [Trying out C++20's modules with Clang and Make](https://0x1.pt/2023/10/15/trying-out-c++20s-modules-with-clang-and-make/)
+- [The Story of AI Graphics at JetBrains](https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/)
 
-- [Testing system updates using libvirts checkpoint feature](https://abbbi.github.io/changes/)
+- [Some concerns with OpenPubKey](https://blog.yossarian.net/2023/10/18/Some-concerns-with-OpenPubKey)
 
-- [Background job queues and priorities may be the wrong path](https://alexis.bernard.io/blog/2023-10-15-background-job-queues-and-priorities-may-be-the-wrong-path.html)
+- [Content Credentials](https://contentcredentials.org/)
 
-- [Strategies for deploying things on NixOS](https://asylum.madhouse-project.org/blog/2023/10/15/strategies-for-deploying-things-on-nixos/)
+- [Verifying Selection Sort: an Introduction to Program Verification in Dafny](https://dafny.org/blog/2023/10/11/insertion-sort/)
 
-- [Compile Times and Code Graphs](https://blog.danhhz.com/compile-times-and-code-graphs)
+- [When Concurrency Matters: Behaviour-Oriented Concurrency](https://dl.acm.org/doi/pdf/10.1145/3622852)
 
-- [Cordoku - multiplayer sudoku](https://cordoku.vercel.app)
+- [BPF tailcalls](https://engineering.aviatrix.com/bpf-tailcalls-8ef4273747a5)
 
-- [Distribution Release: Window Maker Live 0.96](https://distrowatch.com/index-mobile.php?newsid=11963)
+- [Browser-based simulator for Petoi Bittle robot dog](https://grgv.xyz/blog/bittle/)
 
-- [Organizing multiple Git identities](https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities)
+- [Racket fork of Chez Scheme merging with mainline Chez](https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU)
 
-- [Learn Wayland by writing a GUI from scratch](https://gaultier.github.io/blog/wayland_from_scratch.html)
+- [Software engineering is about thinking, not typing](https://jordankaye.dev/posts/thinking-not-typing/)
 
-- [OpenZFS 2.2.0 released](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.0)
+- [For processing strings, streams in C++ can be slow](https://lemire.me/blog/2023/10/19/for-processing-strings-streams-in-c-can-be-slow/)
 
-- [Bird-eye view visualization of LLM activations](https://grgv.xyz/blog/llama/)
+- [Maximizing your 24″ 2006 iMac with an eGPU, Yosemite, and a replacement screen](https://lowendmac.com/2023/maximizing-your-24-2006-imac-with-an-egpu-yosemite-and-a-replacement-screen/)
 
-- [FreeBSD 14.0-RC1 Now Available](https://lists.freebsd.org/archives/freebsd-stable/2023-October/001547.html)
+- [The road to hell is paved with good intentions and C++ modules](https://nibblestew.blogspot.com/2023/10/the-road-to-hell-is-paved-with-good.html)
 
-- [EuroRust 2023 Reflections: What's a Conference For?](https://lucumr.pocoo.org/2023/10/14/eurorust-whats-a-conference/)
+- [Write more "useless" software](https://ntietz.com/blog/write-more-useless-software/)
 
-- [Teaching Apple Cyberdog 1.0 new tricks (featuring OpenDoc)](https://oldvcr.blogspot.com/2023/10/teaching-apple-cyberdog-10-new-tricks.html)
+- [getaddrinfo() on glibc calls getenv(), oh boy](https://rachelbythebay.com/w/2023/10/16/env/)
 
-- [Expressive Text-to-Image Generation with Rich Text](https://rich-text-to-image.github.io/)
+- [Localization Failure: Temperature is Hard](https://randomascii.wordpress.com/2023/10/17/localization-failure-temperature-is-hard/)
 
-- [Multi-modal prompt injection image attacks against GPT-4V](https://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/)
+- [Introducing Ruvy](https://shopify.engineering/introducing-ruvy)
 
-- [Real Time Presence Platform](https://systemdesign.one/real-time-presence-platform-system-design/)
+- [Which Interpreters are Faster, AST or Bytecode?](https://stefan-marr.de/2023/10/ast-vs-bytecode-interpreters/)
 
-- [Introducing POSSUM, An Open Source Retail Peripheral Platform for All](https://tech.target.com/blog/introducing-POSSUM)
+- [The price of managed cloud services](https://world.hey.com/dhh/the-price-of-managed-cloud-services-4f33d67e)
 
-- [Two Stop Bits](https://twostopbits.com/news)
+- [Higher quality random floats](https://www.corsix.org/content/higher-quality-random-floats)
 
-- [OpenBSD PF-based firewalls suffer differently from denial of service attacks](https://utcc.utoronto.ca/~cks/space/blog/unix/OpenBSDPfStatesAndDoS)
+- [Chrome support for passkeys in iCloud Keychain](https://www.imperialviolet.org/2023/10/18/icloudkeychain.html)
 
-- [Why async Rust?](https://without.boats/blog/why-async-rust/)
+- [Google Proposes New mseal() Memory Sealing Syscall For Linux](https://www.phoronix.com/news/Linux-mseal-Memory-Sealing)
 
-- [We Were Wrong About the GPLs](https://writing.kemitchell.com/2023/10/13/Wrong-About-GPLs)
+- [Kona CAN Decoding](https://www.projectgus.com/2023/10/kona-can-decoding/)
 
-- [Sum Types in Postgres](https://yrashk.com/blog/2023/04/09/sum-types-in-postgres/)
+- [Surfacing request errors when using HTMX](https://xvello.net/blog/htmx-error-handling/)
