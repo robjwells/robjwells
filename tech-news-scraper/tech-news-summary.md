@@ -1,49 +1,49 @@
-- [SAT Requires Exhaustive Search](https://arxiv.org/abs/2302.09512)
+- [Gamedev in Lisp. Part 1: ECS and Metalinguistic Abstraction](https://awkravchuk.itch.io/cl-fast-ecs/devlog/622054/gamedev-in-lisp-part-1-ecs-and-metalinguistic-abstraction)
 
-- [Llemma: An Open Language Model For Mathematics](https://blog.eleuther.ai/llemma/)
+- ["[31m"?! ANSI Terminal security in 2023 and finding 10 CVEs](https://dgl.cx/2023/09/ansi-terminal-security)
 
-- [The Story of AI Graphics at JetBrains](https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/)
+- [SummonScript - Manifest manifold models with magical machinations](https://github.com/lf94/summonscript)
 
-- [Some concerns with OpenPubKey](https://blog.yossarian.net/2023/10/18/Some-concerns-with-OpenPubKey)
+- [Electromechanical refreshable Braille module](https://hackaday.io/project/191181-electromechanical-refreshable-braille-module)
 
-- [Content Credentials](https://contentcredentials.org/)
+- [recover lost text by coredumping firefox](https://j3s.sh/thought/recover-lost-text-by-coredumping-firefox.html)
 
-- [Verifying Selection Sort: an Introduction to Program Verification in Dafny](https://dafny.org/blog/2023/10/11/insertion-sort/)
+- [Some miscellaneous git facts](https://jvns.ca/blog/2023/10/20/some-miscellaneous-git-facts/)
 
-- [When Concurrency Matters: Behaviour-Oriented Concurrency](https://dl.acm.org/doi/pdf/10.1145/3622852)
+- [Kristall Small Internet Browser](https://kristall.random-projects.net/)
 
-- [BPF tailcalls](https://engineering.aviatrix.com/bpf-tailcalls-8ef4273747a5)
+- [Announce Seppo.Social v0.3 and invite thoughts](https://lists.w3.org/Archives/Public/public-swicg/2023Oct/0079.html)
 
-- [Browser-based simulator for Petoi Bittle robot dog](https://grgv.xyz/blog/bittle/)
+- [Can We Make Idiot-Proof Infrastructure pt1?](https://matduggan.com/idiot-proof-infrastructure/)
 
-- [Racket fork of Chez Scheme merging with mainline Chez](https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU)
+- [Integrating dynamic binaries in macOS apps](https://notes.alinpanaitiu.com/Integrating-dynamic-binaries-in-macOS-apps)
 
-- [Software engineering is about thinking, not typing](https://jordankaye.dev/posts/thinking-not-typing/)
+- [Encrypted traffic interception on Hetzner and Linode targeting the largest Russian Jabber server](https://notes.valdikss.org.ru/jabber.ru-mitm/)
 
-- [For processing strings, streams in C++ can be slow](https://lemire.me/blog/2023/10/19/for-processing-strings-streams-in-c-can-be-slow/)
+- [Flask, its ecosystem, and backwards compatibility](https://pgjones.dev/blog/flask-ecosystem-compatibility-2023/)
 
-- [Maximizing your 24″ 2006 iMac with an eGPU, Yosemite, and a replacement screen](https://lowendmac.com/2023/maximizing-your-24-2006-imac-with-an-egpu-yosemite-and-a-replacement-screen/)
+- [How To Build a User-Level CPU Profiler](https://research.swtch.com/pprof)
 
-- [The road to hell is paved with good intentions and C++ modules](https://nibblestew.blogspot.com/2023/10/the-road-to-hell-is-paved-with-good.html)
+- [Implementing #embed for C and C++](https://thephd.dev/implementing-embed-c-and-c++)
 
-- [Write more "useless" software](https://ntietz.com/blog/write-more-useless-software/)
+- [Re-visiting Red Ribbon Linux on the PS3](https://virtuallyfun.com/2023/10/20/re-visiting-red-ribbon-linux-on-the-ps3/)
 
-- [getaddrinfo() on glibc calls getenv(), oh boy](https://rachelbythebay.com/w/2023/10/16/env/)
+- [Analyzing Data 180,000x Faster with Rust](https://willcrichton.net/notes/k-corrset/)
 
-- [Localization Failure: Temperature is Hard](https://randomascii.wordpress.com/2023/10/17/localization-failure-temperature-is-hard/)
+- [Bullets of vaguely silvery hue](https://www.b-list.org/weblog/2023/oct/20/silver/)
 
-- [Introducing Ruvy](https://shopify.engineering/introducing-ruvy)
+- [OpenBSD's built-in memory leak detection](https://www.drijf.net/malloc/)
 
-- [Which Interpreters are Faster, AST or Bytecode?](https://stefan-marr.de/2023/10/ast-vs-bytecode-interpreters/)
+- [Refactoring has a price. Not refactoring has a cost. Either way, you pay](https://www.germanvelasco.com/blog/refactoring-is-a-habit)
 
-- [The price of managed cloud services](https://world.hey.com/dhh/the-price-of-managed-cloud-services-4f33d67e)
+- [Kyoto Statement on End-To-End Encryption](https://www.globalencryption.org/2023/10/kyoto-statement-on-end-to-end-encryption/)
 
-- [Higher quality random floats](https://www.corsix.org/content/higher-quality-random-floats)
+- [ValiDrive](https://www.grc.com/validrive.htm)
 
-- [Chrome support for passkeys in iCloud Keychain](https://www.imperialviolet.org/2023/10/18/icloudkeychain.html)
+- [Don't use DISTINCT as a "join-fixer"](https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/dont-use-distinct-as-a-join-fixer/)
 
-- [Google Proposes New mseal() Memory Sealing Syscall For Linux](https://www.phoronix.com/news/Linux-mseal-Memory-Sealing)
+- [Zig is now also a Windows resource compiler](https://www.ryanliptak.com/blog/zig-is-a-windows-resource-compiler/)
 
-- [Kona CAN Decoding](https://www.projectgus.com/2023/10/kona-can-decoding/)
+- [The next Raptor OpenPOWER systems are coming, but they won't be Power10](https://www.talospace.com/2023/10/the-next-raptor-openpower-systems-are.html)
 
-- [Surfacing request errors when using HTMX](https://xvello.net/blog/htmx-error-handling/)
+- [Programmers Aren't Productive Anymore (2019)](https://www.youtube.com/watch?v=bZ6pA--F3D4)
