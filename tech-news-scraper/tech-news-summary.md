@@ -1,49 +1,47 @@
-- [Update: OpenResty vs Lua 5.4: a benchmark](https://berwyn.hashnode.dev/update-openresty-vs-lua-54-a-benchmark)
+- [The Ruff Formatter: An extremely fast, Black-compatible Python formatter](https://astral.sh/blog/the-ruff-formatter)
 
-- [Okta Support System incident and 1Password](https://blog.1password.com/okta-incident/)
+- [Atuin v17 - secrets filters and more](https://atuin.sh/blog/release-v17)
 
-- [CertWatch](https://blog.jmp.chat/b/certwatch)
+- [A new accessibility architecture for modern free desktops](https://blogs.gnome.org/a11y/2023/10/27/a-new-accessibility-architecture-for-modern-free-desktops/)
 
-- [Fully Automated Releases for Rust Projects](https://blog.orhun.dev/automated-rust-releases/)
+- [Raku is surprisingly good for CLIs](https://buttondown.email/hillelwayne/archive/raku-is-surprisingly-good-for-clis/)
 
-- [Writing a Dynamic Array in C](https://blog.phundrak.com/writing-dynamic-vector-c/)
+- [daScript - The High Performance Programming Language](https://dascript.org/)
 
-- [The Case of a Curious SQL Query](https://buttondown.email/jaffray/archive/the-case-of-a-curious-sql-query/)
+- [So you’ve been publicly accessibility-shamed](https://daverupert.com/2023/10/accessiblity-shamed/)
 
-- [The OSI Deprogrammer](https://docs.google.com/document/d/1iL0fYmMmariFoSvLd9U5nPVH1uFKC7bvVasUcYq78So/edit)
+- [Automating dead code cleanup](https://engineering.fb.com/2023/10/24/data-infrastructure/automating-dead-code-cleanup/)
 
-- [feedi - a personal news reader and Mastodon client](https://github.com/facundoolano/feedi)
+- [Things I like about Gleam's Syntax](https://erikarow.land/notes/gleam-syntax)
 
-- [Arch Linux Compat on FreeBSD](https://github.com/mtrkss/arch-compat-tutorial/)
+- [dj-notebook: the REPL I've Always Wanted for Django](https://geoff.tuxpup.com/posts/dj-notebook-superpowers/)
 
-- [Migrating ZFS Pool to Smaller Disk on FreeBSD](https://imil.net/blog/posts/2022/migrating-zpool-to-a-smaller-disk/)
+- [Old Unix programs running on modern computers](https://github.com/rsc/unix)
 
-- [NetBSD as a Kubernetes Pod](https://imil.net/blog/posts/2023/netbsd-as-a-k8s-pod/)
+- [Introducing <shadow>, a new novel browser engine made almost entirely in JS](https://goose.icu/introducing-shadow/)
 
-- [Object Soup is Made of Indexes](https://jacko.io/object_soup.html)
+- [Get all your sources](https://linus.schreibt.jetzt/posts/include-build-dependencies.html)
 
-- [Unified Versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)
+- [Removing syscall(2) from libc and kernel](https://marc.info/?l=openbsd-tech&m=169841790407370&w=2)
 
-- [Live 2D Compositional Programming](https://michael.homer.nz/Publications/LIVE2022/article/)
+- [Help Everyone Do Better Security](https://matduggan.com/security-feels-pointless/)
 
-- [Unmasking a Go HTML Parser Bug with Differential Fuzzing](https://mionskowski.pl/posts/unmasking-go-html-parser-bug/)
+- [Kubernetes and Kernel Panics](https://netflixtechblog.com/kubernetes-and-kernel-panics-ed620b9c6225)
 
-- [Wait, is cloud bad?](https://newsletter.goodtechthings.com/p/wait-is-cloud-bad)
+- [The Cloud Computer / Oxide](https://oxide.computer/blog/the-cloud-computer)
 
-- [Unveiling the Power of the NixOS Integration Test Driver (Part 1)](https://nixcademy.com/2023/10/24/nixos-integration-tests/)
+- [Project Bluefin Linux](https://projectbluefin.io/)
 
-- [Tailwind vs. Semantic CSS](https://nuejs.org/blog/tailwind-vs-semantic-css/)
+- [Infinite Half-Life: Deathmatch Stream](https://rqsall.com/posts/infinite-half-life-deathmatch-stream)
 
-- [Review of "Practical ML Programming with SML#"](https://pzel.name/2023/07/23/Practical-ML-with-sml-sharp-review-chapter-2.html)
+- [Advancing iMessage security: iMessage Contact Key Verification](https://security.apple.com/blog/imessage-contact-key-verification/)
 
-- [Performance impact of the memoization idiom on modern Ruby](https://railsatscale.com/2023-10-24-memoization-pattern-and-object-shapes/)
+- [Now add a walrus: Prompt engineering in DALL-E 3](https://simonwillison.net/2023/Oct/26/add-a-walrus/)
 
-- [Under the hood of Rosette](https://rdivyanshu.github.io/rosette-internal.html)
+- [Welcome to the Offensive ML Framework](https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Framework)
 
-- [Serving a custom vector web map using PMTiles and maplibre-gl](https://til.simonwillison.net/gis/pmtiles)
+- [Everything I've learned building the fastest Arm desktop](https://www.jeffgeerling.com/blog/2023/everything-ive-learned-building-fastest-arm-desktop)
 
-- [Why We Don’t Generate Elliptic Curves Every Day](https://words.filippo.io/dispatches/parameters/)
+- [A Journey Into Shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders)
 
-- [On Learning Compilers and Creating Programming Languages](https://www.craigstuntz.com/posts/2023-10-13-learning-compilers-and-programming-languages.html)
-
-- [They're called Slices because they have Sharp Edges: Even More Go Pitfalls](https://www.dolthub.com/blog/2023-10-20-golang-pitfalls-3/)
+- [The UK’s controversial Online Safety Bill finally becomes law](https://www.theverge.com/2023/10/26/23922397/uk-online-safety-bill-law-passed-royal-assent-moderation-regulation)
