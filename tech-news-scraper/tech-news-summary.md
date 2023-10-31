@@ -1,47 +1,47 @@
-- [The Ruff Formatter: An extremely fast, Black-compatible Python formatter](https://astral.sh/blog/the-ruff-formatter)
+- [Avoid Load-bearing Shell Scripts](https://benjamincongdon.me/blog/2023/10/29/Avoid-Load-bearing-Shell-Scripts/)
 
-- [Atuin v17 - secrets filters and more](https://atuin.sh/blog/release-v17)
+- [Making an USB Ethernet adapter work](https://blog.brixit.nl/making-a-usb-ethernet-adapter-work-sr9700/)
 
-- [A new accessibility architecture for modern free desktops](https://blogs.gnome.org/a11y/2023/10/27/a-new-accessibility-architecture-for-modern-free-desktops/)
+- [Databases are not Compilers](https://buttondown.email/jaffray/archive/databases-are-not-compilers/)
 
-- [Raku is surprisingly good for CLIs](https://buttondown.email/hillelwayne/archive/raku-is-surprisingly-good-for-clis/)
+- [CHERIoT: Complete Memory Safety for Embedded Devices](https://cheriot.org/papers/2023-micro-cheriot-uarch.pdf)
 
-- [daScript - The High Performance Programming Language](https://dascript.org/)
+- [Grading on a Curve: How Rust can Facilitate New Contributors while Decreasing Vulnerabilities](https://cypherpunks.ca/~iang/pubs/gradingcurve-secdev23.pdf)
 
-- [So you’ve been publicly accessibility-shamed](https://daverupert.com/2023/10/accessiblity-shamed/)
+- [NixOS Reproducible Builds: minimal installation ISO successfully independently rebuilt](https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756)
 
-- [Automating dead code cleanup](https://engineering.fb.com/2023/10/24/data-infrastructure/automating-dead-code-cleanup/)
+- [Featurize your app](https://enginuity.dev/posts/featurize-your-app/)
 
-- [Things I like about Gleam's Syntax](https://erikarow.land/notes/gleam-syntax)
+- [Elixir and Phoenix can do it all](https://fly.io/phoenix-files/elixir-and-phoenix-can-do-it-all/)
 
-- [dj-notebook: the REPL I've Always Wanted for Django](https://geoff.tuxpup.com/posts/dj-notebook-superpowers/)
+- [My User Experience Porting Off setup.py](https://gregoryszorc.com/blog/2023/10/30/my-user-experience-porting-off-setup.py/)
 
-- [Old Unix programs running on modern computers](https://github.com/rsc/unix)
+- [Through the Ages: Apple CPU Architecture](https://jacobbartlett.substack.com/p/through-the-ages-apple-cpu-architecture)
 
-- [Introducing <shadow>, a new novel browser engine made almost entirely in JS](https://goose.icu/introducing-shadow/)
+- [All GB/s without FLOPS - Nvidia CMP 170HX Review, Performance Lockdown Workaround, Teardown, Watercooling, and Repair](https://niconiconi.neocities.org/tech-notes/nvidia-cmp-170hx-review/)
 
-- [Get all your sources](https://linus.schreibt.jetzt/posts/include-build-dependencies.html)
+- [How to Beg/Borrow/Steal Your Way to a Cross Platform Bluetooth LE Library](https://nonpolynomial.com/2023/10/30/how-to-beg-borrow-steal-your-way-to-a-cross-platform-bluetooth-le-library/)
 
-- [Removing syscall(2) from libc and kernel](https://marc.info/?l=openbsd-tech&m=169841790407370&w=2)
+- [A Personal History of Compilation Speed, Part 2](https://prog21.dadgum.com/47.html)
 
-- [Help Everyone Do Better Security](https://matduggan.com/security-feels-pointless/)
+- [Replacing WebRTC - Media over QUIC](https://quic.video/blog/replacing-webrtc/)
 
-- [Kubernetes and Kernel Panics](https://netflixtechblog.com/kubernetes-and-kernel-panics-ed620b9c6225)
+- [Analyzing Data 170,000x Faster with Python](https://sidsite.com/posts/python-corrset-optimization/)
 
-- [The Cloud Computer / Oxide](https://oxide.computer/blog/the-cloud-computer)
+- [Elixir Drops: Simplifying Data Validation in Elixir](https://solnic.dev/introducing-elixir-drops)
 
-- [Project Bluefin Linux](https://projectbluefin.io/)
+- [Swift, meet WinRT](https://speakinginswift.substack.com/p/swift-meet-winrt)
 
-- [Infinite Half-Life: Deathmatch Stream](https://rqsall.com/posts/infinite-half-life-deathmatch-stream)
+- [Bjarne Stroustrup's Plan for Bringing Safety to C++](https://thenewstack.io/bjarne-stroustrups-plan-for-bringing-safety-to-c/)
 
-- [Advancing iMessage security: iMessage Contact Key Verification](https://security.apple.com/blog/imessage-contact-key-verification/)
+- [The most ugly trick in Rust language](https://types.pl/@safinaskar/111325536022277867)
 
-- [Now add a walrus: Prompt engineering in DALL-E 3](https://simonwillison.net/2023/Oct/26/add-a-walrus/)
+- [Apple Event for October 30th, 2023](https://www.apple.com/apple-events/)
 
-- [Welcome to the Offensive ML Framework](https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Framework)
+- [WirePlumber: Exploring Lua scripts with Event Dispatcher](https://www.collabora.com/news-and-blog/blog/2023/10/30/wireplumber-exploring-lua-scripts-with-event-dispatcher/)
 
-- [Everything I've learned building the fastest Arm desktop](https://www.jeffgeerling.com/blog/2023/everything-ive-learned-building-fastest-arm-desktop)
+- [Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)
 
-- [A Journey Into Shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders)
+- [Makepad: Designing modern UIs with Rust - Rik Arends - RustNL 2023](https://youtu.be/rC4FCS-oMpg?si=QssNIop1sqZhTqLs)
 
-- [The UK’s controversial Online Safety Bill finally becomes law](https://www.theverge.com/2023/10/26/23922397/uk-online-safety-bill-law-passed-royal-assent-moderation-regulation)
+- [Approximate Nearest Neighbor Oh Yeah (Annoy)](https://zilliz.com/learn/approximate-nearest-neighbor-oh-yeah-ANNOY)
