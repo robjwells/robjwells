@@ -1,49 +1,47 @@
-- [Reverse-engineering Ethernet backoff on the Intel 82586 network chip's die](http://www.righto.com/2023/10/reverse-engineering-ethernet-backoff-on.html)
+- [Why You Should Write Your Own Static Site Generator](https://arne.me/articles/write-your-own-ssg)
 
-- [Youtube’s Anti-adblock and uBlock Origin](https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin)
+- [Avoiding fallback in distributed systems (2020)](https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/)
 
-- [Progress report on rustc_codegen_cranelift (Oct 2023)](https://bjorn3.github.io/2023/10/31/progress-report-oct-2023.html)
+- [Scanner-Driven Parser Development (2019)](https://depth-first.com/articles/2019/01/22/scanner-driven-parser-development/)
 
-- [Real-time Change Data Capture for Postgres Partitioned Tables](https://blog.peerdb.io/real-time-change-data-capture-for-postgres-partitioned-tables)
+- [Ungrammar in Go and resilient parsing](https://eli.thegreenplace.net/2023/ungrammar-in-go-and-resilient-parsing/)
 
-- [Databases are not Compilers](https://buttondown.email/jaffray/archive/databases-are-not-compilers/)
+- [When is an Erlang process a shell?](https://erikarow.land/notes/erlang-process-shell)
 
-- [Sequels And Lights](https://exple.tive.org/blarg/2023/10/31/sequels-and-lights/)
+- [sudo-rs' first security audit](https://ferrous-systems.com/blog/sudo-rs-audit/)
 
-- [Bcachefs Merged Into The Linux 6.7 Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=9e87705289667a6c5185c619ea32f3d39314eb1b)
+- [garn: a TypeScript-based Nix frontend](https://garnix.io/blog/announcing-garn)
 
-- [Conway Game of Life in LispE](https://github.com/naver/lispe/wiki/6.20-Conway-Game-of-Life-in-LispE)
+- [arch: Remove Itanium (IA-64) architecture](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=cf8e8658100d4eae80ce9b21f7a81cb024dd5057)
 
-- [Streamdal: An Open-source tail -f for Your Data](https://github.com/streamdal/streamdal)
+- [rsc-regexp: Translations of a simple C program to Rust](https://github.com/BurntSushi/rsc-regexp)
 
-- [My User Experience Porting Off setup.py](https://gregoryszorc.com/blog/2023/10/30/my-user-experience-porting-off-setup.py/)
+- [Destructing trees safely and cheaply](https://ismailmaj.github.io/destructing-trees-safely-and-cheaply)
 
-- [Down and to the Right: Firefox Got Faster for Real Users in 2023](https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/)
+- [Preserving comments when parsing and formatting code](https://jayconrod.com/posts/129/preserving-comments-when-parsing-and-formatting-code)
 
-- [Through the Ages: Apple CPU Architecture](https://jacobbartlett.substack.com/p/through-the-ages-apple-cpu-architecture)
+- [What is a Query Optimizer for?](https://justinjaffray.com/what-is-a-query-optimizer-for/)
 
-- [Raspberry PI OS: upgrading and cross-grading](https://k1024.org/posts/2023/2023-10-31-raspberry-pi-upgrade-crossgrade/)
+- [Confusing git terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/)
 
-- [Attempting to use bcachefs (unsuccessfully)](https://kevincox.ca/2023/06/10/bcachefs-attempt/)
+- [Secret EU law threatens Internet security](https://last-chance-for-eidas.org/)
 
-- [makesure v0.9.21 – what’s new?](https://maximullaris.com/revamp_define.html)
+- [Totally remdom, or How browsers zoom text](https://matuzo.at/blog/2023/how-browsers-zoom-text)
 
-- [How to Beg/Borrow/Steal Your Way to a Cross Platform Bluetooth LE Library](https://nonpolynomial.com/2023/10/30/how-to-beg-borrow-steal-your-way-to-a-cross-platform-bluetooth-le-library/)
+- [@fieldParentPtr](https://registerspill.thorstenball.com/p/zig-zaggin)
 
-- [That time I wrote malware and got caught](https://ntietz.com/blog/that-time-i-wrote-malware/)
+- [AI Entity Resolution: Bridging Records Across Human Languages](https://terminusdb.com/blog/ai-entity-resolution/)
 
-- [Do not use requirements.txt](https://quanttype.net/posts/2023-10-31-do-not-use-requirements.txt.html)
+- [Great Nickel configurations from little merges grow](https://tweag.io/blog/2023-11-02-nickel-merge-system/)
 
-- [Haskell Refactoring Step-Through](https://tech.freckle.com/2023/10/31/haskell-refactoring-step-through/)
+- [An Observation on Programming Pedagogy](https://v5.chriskrycho.com/journal/an-observation-on-programming-pedagogy/)
 
-- [Bjarne Stroustrup's Plan for Bringing Safety to C++](https://thenewstack.io/bjarne-stroustrups-plan-for-bringing-safety-to-c/)
+- [visionOS Friday: Tinting a Glassy Ornament](https://www.david-smith.org/blog/2023/11/03/design-notes-45/)
 
-- [The most ugly trick in Rust language](https://types.pl/@safinaskar/111325536022277867)
+- [Upgrading my Chumby 8 kernel part 7: touchscreen](https://www.downtowndougbrown.com/2023/11/upgrading-my-chumby-8-kernel-part-7-touchscreen/)
 
-- [Color gradients and my gradual descent into madness](https://typst.app/blog/2023/color-gradients)
+- [Edison bulb night mode](https://www.petemillspaugh.com/edison-bulb)
 
-- [Apple Event for October 30th, 2023](https://www.apple.com/apple-events/)
+- [A day with Zig](https://www.pierrebeaucamp.com/a-day-with-zig/)
 
-- [Why I Won't Use Next.js](https://www.epicweb.dev/why-i-wont-use-nextjs)
-
-- [Typed Dataspace Actors](https://youtu.be/4KXbY1T2neY)
+- [“Useless Ruby sugar”: Pattern matching](https://zverok.space/blog/2023-10-20-syntax-sugar2-pattern-matching.html)
