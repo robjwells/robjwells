@@ -1,47 +1,49 @@
-- [Tumble Forth](http://tumbleforth.hardcoded.net/)
+- [OOSys: An Object-Oriented Operating System](http://tigcc.ticalc.org/private/oosys/OOSys_1_02.html)
 
-- [Why Cities: Skylines 2 performs poorly](https://blog.paavo.me/cities-skylines-2-performance/)
+- [Reverse engineering the Intel 386 processor's register cell](http://www.righto.com/2023/11/reverse-engineering-intel-386.html)
 
-- [Adding build provenance to Homebrew](https://blog.trailofbits.com/2023/11/06/adding-build-provenance-to-homebrew/)
+- [Going up in color bit depth](https://30fps.net/pages/bit-depths/)
 
-- [See the History of a Method with git log -L](https://calebhearth.com/l/git-method-history)
+- [Django: Maybe disable PostgreSQL’s JIT to speed up many-joined queries](https://adamj.eu/tech/2023/11/09/django-disable-postgresql-jit/)
 
-- [A Linear Algebra Trick for Computing Fibonacci Numbers Fast](https://codeconfessions.substack.com/p/a-linear-algebra-trick-for-fibonacci-numbers)
+- [Early computer art by Barbara Nessim](https://blog.gingerbeardman.com/2023/11/09/early-computer-art-by-barbara-nessim/)
 
-- [Passive SSH Key Compromise via Lattices](https://eprint.iacr.org/2023/1711.pdf)
+- [Faster compilation with the parallel front-end in nightly](https://blog.rust-lang.org/2023/11/09/parallel-rustc.html)
 
-- [fixing the other go loop bug](https://flak.tedunangst.com/post/fixing-the-other-go-loop-bug)
+- [Delphi and C++ Builder 12 Athens released](https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-12-athens/)
 
-- [banning-e2ee-is-stupid: Do you think banning end-to-end encryption is plausible?  Think again](https://github.com/davidchisnall/banning-e2ee-is-stupid)
+- [Link-time optimisation (LTO)](https://convolv.es/guides/lto/)
 
-- [milliForth: A FORTH in 422 bytes — the smallest real programming language ever as of yet](https://github.com/fuzzballcat/milliForth)
+- [Review: ZSA Voyager Ergonomic Keyboard](https://danieldk.eu/Posts/2023-11-07-ZSA-Voyager)
 
-- [whisper v3: Robust Speech Recognition via Large-Scale Weak Supervision](https://github.com/openai/whisper)
+- [What we learned from installing Nix one million times](https://determinate.systems/posts/lessons-from-1-million-nix-installs)
 
-- [First handset with MTE on the market](https://googleprojectzero.blogspot.com/2023/11/first-handset-with-mte-on-market.html)
+- [From Capabilities to Regions: Enabling Efficient Compilation of Lexical Effect Handlers](https://dl.acm.org/doi/10.1145/3622831)
 
-- [Firefox Development Is Moving From Mercurial To Git](https://groups.google.com/a/mozilla.org/g/firefox-dev/c/QnfydsDj48o/m/8WadV0_dBQAJ?pli=1)
+- [What's new in Fedora Workstation 39](https://fedoramagazine.org/whats-new-fedora-workstation-39/)
 
-- [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
+- [ZFS: Raidz expansion merged](https://github.com/openzfs/zfs/pull/15022)
 
-- [Building Ubuntu images in Nix](https://linus.schreibt.jetzt/posts/ubuntu-images.html)
+- [GitHub Next | Realtime GitHub](https://githubnext.com/projects/rtgh/)
 
-- [Makefile Tutorial by Example](https://makefiletutorial.com/)
+- [Hare aims to become a 100-year programming language](https://harelang.org/blog/2023-11-08-100-year-language/)
 
-- [The future of Synapse and Dendrite](https://matrix.org/blog/2023/11/06/future-of-synapse-dendrite/)
+- [Tracking the current active process in Windows with Rust](https://hellocode.co/blog/post/tracking-active-process-windows-rust/)
 
-- [New models and developer products announced at DevDay](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)
+- [Interesting Bugs Caught by ESLint’s no-constant-binary-expression](https://jordaneldredge.com/blog/interesting-bugs-caught-by-eslints-no-constant-binary-expression/)
 
-- [Backtraces with strace](https://shane.ai/posts/backtraces-with-strace/)
+- [Speed up a program for the 50 years old processor by 180000%](https://mark.engineer/2023/11/speed-up-a-program-for-50-years-old-processor-by-180000/)
 
-- [Shoelace: framework agnostic web components](https://shoelace.style/ )
+- [Monaspace](https://monaspace.githubnext.com/)
 
-- [goguma: An IRC client for mobile devices](https://sr.ht/~emersion/goguma/)
+- [Variadic generics, again](https://poignardazur.github.io/2023/11/08/time-for-variadic-generics/)
 
-- [What's up Python? iOS support, ruff gets black, flask 3.0](https://www.bitecode.dev/p/whats-up-python-ios-support-ruff)
+- [RocksDB Java API Performance Improvements](https://rocksdb.org/blog/2023/11/06/java-jni-benchmarks.html)
 
-- [General Wine/Proton Developer (Open-Source Programmer)](https://www.codeweavers.com/about/jobs#job-dev)
+- [C++ Pitfall : shared_future](https://sheep.horse/2023/11/c++_pitfall_-_shared_future.html)
 
-- [What exactly was the point of [ “x$var” = “xval” ]?](https://www.vidarholen.net/contents/blog/?p=1035)
+- [Typing Fast Is About Latency, Not Throughput](https://two-wrongs.com/typing-fast-is-about-latency-not-throughput)
 
-- [Intel 80386, a revolutionary CPU](https://www.xtof.info/intel80386.html)
+- [Python errors as values: Comparing useful patterns from Go and Rust](https://www.inngest.com/blog/python-errors-as-values)
+
+- [Cursorless is alien magic from the future - Xe Iaso](https://xeiaso.net//notes/cursorless-alien-magic/)
