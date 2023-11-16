@@ -1,49 +1,47 @@
-- [Archive Your Old Projects](https://arne.me/articles/archive-your-old-projects)
+- [We Need to Bring Back Webrings](https://arne.me/articles/we-need-to-bring-back-webrings)
 
-- [A quick look at destination-driven code generation](https://bernsteinbear.com/blog/ddcg/)
+- [Signals vs. Servers](https://blog.adamchalmers.com/signals-vs-servers/)
 
-- [GeoDesk for Python: Analyze & Visualize OpenStreetMap Data](https://community.openstreetmap.org/t/geodesk-for-python-analyze-visualize-openstreetmap-data/105503)
+- [We don’t do DST at this company](https://blog.backslasher.net/no-dst.html)
 
-- [Effective Rust](https://effective-rust.com/cover.html)
+- [Our Vision for the Rust Specification](https://blog.rust-lang.org/inside-rust/2023/11/15/spec-vision.html)
 
-- [GitHub Actions are a Problem](https://felix-knorr.net/posts/2023-11-11-github-actions.html)
+- [CacheWarp](https://cachewarpattack.com/)
 
-- [Speaker support in Asahi Linux](https://github.com/AsahiLinux/docs/wiki/SW:Speakers)
+- [The Gulf Between Design and Engineering](https://designsystems.international/ideas/the-gulf-between-design-and-engineering/)
 
-- [superbol-studio-oss: Cobol LSP, VSCode extension & Emacs mode](https://github.com/OCamlPro/superbol-studio-oss)
+- [Announcing F# 8](https://devblogs.microsoft.com/dotnet/announcing-fsharp-8/)
 
-- [BinkyBox: Improved keyboard shortcuts for virtual desktops on Windows](https://github.com/nadimkobeissi/binkybox)
+- [Nix users, you can fearlessly start using Rust scripts already](https://dpc.pw/posts/nix-users-you-can-start-using-rust-scripts-already/)
 
-- [Trip report: Autumn ISO C++ standards meeting (Kona, HI, USA)](https://herbsutter.com/2023/11/11/trip-report-autumn-iso-c-standards-meeting-kona-hi-usa/)
+- [vertigo](https://flak.tedunangst.com/post/vertigo)
 
-- [HTML First](https://html-first.com/)
+- [A Theory of Compositional Tool-Assisted Speedrunning](https://gist.github.com/MostAwesomeDude/b42f266ac168e01a08f9c71fabe13432)
 
-- [URL explained - The Fundamentals](https://ittavern.com/url-explained-the-fundamentals/)
+- [Minimize global process](https://jordankaye.dev/posts/minimize-global-process/)
 
-- [Using the Ninja build system to generate this site](https://lu.sagebl.eu/notes/site-generator-ninja/)
+- [Some notes on nix flakes](https://jvns.ca/blog/2023/11/11/notes-on-nix-flakes/)
 
-- [Announcing NetBSD 10.0 RC1](https://netbsd.org/releases/formal-10/NetBSD-10.0.html)
+- [Push Ifs Up And Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 
-- [The Apple Network Server's all-too-secret weapon (featuring PPC Toolbox)](https://oldvcr.blogspot.com/2023/11/the-apple-network-servers-all-too.html)
+- [Edge of Emulation: Pokemon Mini](https://shonumi.github.io/articles/art25.html)
 
-- [PEP 733 – An Evaluation of Python’s Public C API](https://peps.python.org/pep-0733/)
+- [Exploring GPTs: ChatGPT in a trench coat?](https://simonwillison.net/2023/Nov/15/gpts/)
 
-- [Proposal: an HTML element for spoilers](https://seirdy.one/posts/2023/11/12/spoiler-element/)
+- [Fast Symbolic Computation for Robotics](https://symforce.org)
 
-- [Learn PostScript by Doing (2005)](https://staff.science.uva.nl/a.j.p.heck/Courses/Mastercourse2005/tutorial.pdf)
+- [Rust without crates.io](https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html)
 
-- [Go modules and the domain expiry problem](https://utcc.utoronto.ca/~cks/space/blog/programming/GoModulesAndDomainExpiry)
+- [Four Kinds of Optimisation](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html)
 
-- [Using Mastodon as a RSS Feed Reader](https://www.bentasker.co.uk/posts/blog/general/using-mastodon-to-improve-my-rss-feed-consumption.html)
+- [Let’s reinvent the wheel](https://vasilis.nl/nerd/lets-reinvent-the-wheel/)
 
-- [A little taste of HTMX (part 5/5)](https://www.bitecode.dev/p/a-little-taste-of-htmx-part-55)
+- [i accidentally a scheme](https://wingolog.org/archives/2023/11/13/i-accidentally-a-scheme)
 
-- [How a kernel developer made my styluses work again on newer kernels](https://www.davidrevoy.com/article1002/how-a-kernel-developer-made-my-styluses-work-again)
+- [Beginners should use Django, not Flask](https://www.bitecode.dev/p/beginners-should-use-django-not-flask)
 
-- [Stop deploying web application firewalls](https://www.macchaffee.com/blog/2023/wafs/)
+- [Daily Driving FreeBSD](https://www.lilysthings.org/blog/daily-driving-freebsd/)
 
-- [Bcachefs Lands Big Scalability Improvement, Disables Debug Option By Default](https://www.phoronix.com/news/Bcachefs-Updated-Linux-6.7)
+- [C++: The most important complexities](https://www.sandordargo.com/blog/2023/11/15/most-important-complexities)
 
-- [An overview of Nix in practice](https://www.slice.zone/blog/nix-in-practice)
-
-- [Linux like original Unix](https://www.youtube.com/watch?v=S0pXQVMC770)
+- [Svelte Flow – a library for rendering interactive node-based UIs](https://www.xyflow.com/blog/svelte-flow-launch)
