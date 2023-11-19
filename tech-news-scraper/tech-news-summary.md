@@ -1,47 +1,49 @@
-- [We Need to Bring Back Webrings](https://arne.me/articles/we-need-to-bring-back-webrings)
+- [Egison's Pattern-matching via Logic Programming](http://blog.vmchale.com/article/curry-egison)
 
-- [Signals vs. Servers](https://blog.adamchalmers.com/signals-vs-servers/)
+- [The Om Programming Language](http://www.om-language.org/)
 
-- [We don’t do DST at this company](https://blog.backslasher.net/no-dst.html)
+- [30 Bits of Advice for 30 Years](https://arne.me/articles/30-bits-of-advice-for-30-years)
 
-- [Our Vision for the Rust Specification](https://blog.rust-lang.org/inside-rust/2023/11/15/spec-vision.html)
+- [Wasm SpecTec: Engineering a Formal Language Standard](https://arxiv.org/abs/2311.07223)
 
-- [CacheWarp](https://cachewarpattack.com/)
+- [How I Improved My Rust Compile Times by 75%](https://benw.is/posts/how-i-improved-my-rust-compile-times-by-seventy-five-percent)
 
-- [The Gulf Between Design and Engineering](https://designsystems.international/ideas/the-gulf-between-design-and-engineering/)
+- [Introducing graphics offload in GTK](https://blog.gtk.org/2023/11/15/introducing-graphics-offload/)
 
-- [Announcing F# 8](https://devblogs.microsoft.com/dotnet/announcing-fsharp-8/)
+- [Navigating around in your shell](https://blog.meain.io/2023/navigating-around-in-shell/)
 
-- [Nix users, you can fearlessly start using Rust scripts already](https://dpc.pw/posts/nix-users-you-can-start-using-rust-scripts-already/)
+- [It's Time For A Change: datetime.utcnow() Is Now Deprecated](https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated)
 
-- [vertigo](https://flak.tedunangst.com/post/vertigo)
+- [Introducing the Functional Source License: Freedom without Free-riding](https://blog.sentry.io/introducing-the-functional-source-license-freedom-without-free-riding/)
 
-- [A Theory of Compositional Tool-Assisted Speedrunning](https://gist.github.com/MostAwesomeDude/b42f266ac168e01a08f9c71fabe13432)
+- [Security Vulnerabilities in AppsAnywhere](https://gaelan.me/appsanywhere-bug)
 
-- [Minimize global process](https://jordankaye.dev/posts/minimize-global-process/)
+- [Contextual CLIs](https://garnix.io/blog/contextual-cli)
 
-- [Some notes on nix flakes](https://jvns.ca/blog/2023/11/11/notes-on-nix-flakes/)
+- [Process Compose: a scheduler/orchestrator to manage non-containerized applications](https://github.com/F1bonacc1/process-compose)
 
-- [Push Ifs Up And Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
+- [The inherent fragility of seccomp() (2017)](https://lwn.net/Articles/738694/)
 
-- [Edge of Emulation: Pokemon Mini](https://shonumi.github.io/articles/art25.html)
+- [Kudzu, the Pigweed team's electronic badge for Maker Faire 2023](https://pigweed.dev/docs/blog/01-kudzu.html)
 
-- [Exploring GPTs: ChatGPT in a trench coat?](https://simonwillison.net/2023/Nov/15/gpts/)
+- [Checking semver in the presence of doc(hidden) items](https://predr.ag/blog/checking-semver-for-doc-hidden-items/)
 
-- [Fast Symbolic Computation for Robotics](https://symforce.org)
+- [Building a Better Foundation for Rocket's Future](https://rocket.rs/v0.5/news/2023-11-17-rwf2-prelaunch/)
 
-- [Rust without crates.io](https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html)
+- [Rocket v0.5: Stable, Async, Sentinels, Streams, SSE, Forms, WebSockets](https://rocket.rs/v0.5/news/2023-11-17-version-0.5/)
 
-- [Four Kinds of Optimisation](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html)
+- [ttl.sh | An anonymous & ephemeral (and free) Docker image registry](https://ttl.sh/)
 
-- [Let’s reinvent the wheel](https://vasilis.nl/nerd/lets-reinvent-the-wheel/)
+- [typehere.cc](https://typehere.cc/)
 
-- [i accidentally a scheme](https://wingolog.org/archives/2023/11/13/i-accidentally-a-scheme)
+- [I hacked the Magic Mouse](https://uplab.pro/2023/11/i-hacked-the-magic-mouse/)
 
-- [Beginners should use Django, not Flask](https://www.bitecode.dev/p/beginners-should-use-django-not-flask)
+- [Valuable FreeBSD 14.0-RELEASE Updates](https://vermaden.wordpress.com/2023/11/17/valuable-freebsd-14-0-release-updates/)
 
-- [Daily Driving FreeBSD](https://www.lilysthings.org/blog/daily-driving-freebsd/)
+- [Oops! We Automated Bullshit](https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit)
 
-- [C++: The most important complexities](https://www.sandordargo.com/blog/2023/11/15/most-important-complexities)
+- [Half-Life: 25th Anniversary Documentary](https://www.youtube.com/watch?v=TbZ3HzvFEto)
 
-- [Svelte Flow – a library for rendering interactive node-based UIs](https://www.xyflow.com/blog/svelte-flow-launch)
+- [Adding more ethernet ports to an MNT Reform](https://zeromips.org/posts/2023-11-17-reform2/)
+
+- [Language, perception, and empathy: Ukrainian's gaze (Notes to the talk rejected by RubyConf)](https://zverok.space/blog/2023-11-17-not-a-rubyconf.html)
