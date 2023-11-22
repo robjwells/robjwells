@@ -1,49 +1,49 @@
-- [Egison's Pattern-matching via Logic Programming](http://blog.vmchale.com/article/curry-egison)
+- [A Neighborhood of Infinity: The Three Projections of Doctor Futamura](http://blog.sigfpe.com/2009/05/three-projections-of-doctor-futamura.html)
 
-- [The Om Programming Language](http://www.om-language.org/)
+- [YOYOZO (or, how I made a Playdate game in 39KB)](https://blog.gingerbeardman.com/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/)
 
-- [30 Bits of Advice for 30 Years](https://arne.me/articles/30-bits-of-advice-for-30-years)
+- [Spreadsheets and Small Software](https://blog.nilenso.com/blog/2023/11/10/spreadsheets-and-small-software/)
 
-- [Wasm SpecTec: Engineering a Formal Language Standard](https://arxiv.org/abs/2311.07223)
+- [Fitting a Forth in 512 bytes (2021)](https://compilercrim.es/bootstrap/miniforth/)
 
-- [How I Improved My Rust Compile Times by 75%](https://benw.is/posts/how-i-improved-my-rust-compile-times-by-seventy-five-percent)
+- [URL parser performance](https://daniel.haxx.se/blog/2023/11/21/url-parser-performance/)
 
-- [Introducing graphics offload in GTK](https://blog.gtk.org/2023/11/15/introducing-graphics-offload/)
+- [C++ Guidelines](https://euroquis.nl//blabla/2023/11/21/guidelines.html)
 
-- [Navigating around in your shell](https://blog.meain.io/2023/navigating-around-in-shell/)
+- [Announcement of FreeBSD 14.0-RELEASE](https://freebsd.org/releases/14.0R/announce/)
 
-- [It's Time For A Change: datetime.utcnow() Is Now Deprecated](https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated)
+- [How I (kind of) killed Mercurial at Mozilla](https://glandium.org/blog/?p=4346)
 
-- [Introducing the Functional Source License: Freedom without Free-riding](https://blog.sentry.io/introducing-the-functional-source-license-freedom-without-free-riding/)
+- [Various things in MetaPost](https://habr.com/en/articles/454376/)
 
-- [Security Vulnerabilities in AppsAnywhere](https://gaelan.me/appsanywhere-bug)
+- [Stage: Text Adventure Game Engine](https://hellomouse.net/stage/)
 
-- [Contextual CLIs](https://garnix.io/blog/contextual-cli)
+- [Explicit Resource Management: Exploring JavaScript's and TypeScript's new feature](https://iliazeus.github.io/articles/js-explicit-resource-management-en/)
 
-- [Process Compose: a scheduler/orchestrator to manage non-containerized applications](https://github.com/F1bonacc1/process-compose)
+- [Attribution armored code](https://joeyh.name/blog/entry/attribution_armored_code/)
 
-- [The inherent fragility of seccomp() (2017)](https://lwn.net/Articles/738694/)
+- [RFC 9498: The GNU Name System](https://lists.gnu.org/archive/html/info-gnunet/2023-11/msg00000.html)
 
-- [Kudzu, the Pigweed team's electronic badge for Maker Faire 2023](https://pigweed.dev/docs/blog/01-kudzu.html)
+- [mess with dns](https://messwithdns.net/)
 
-- [Checking semver in the presence of doc(hidden) items](https://predr.ag/blog/checking-semver-for-doc-hidden-items/)
+- [Rubber duck debugging: "Thank you for holding my duck"](https://naml.us/post/thank-you-for-holding-my-duck/)
 
-- [Building a Better Foundation for Rocket's Future](https://rocket.rs/v0.5/news/2023-11-17-rwf2-prelaunch/)
+- [Two kinds of threads pools, and why you need both](https://pythonspeed.com/articles/two-thread-pools/)
 
-- [Rocket v0.5: Stable, Async, Sentinels, Streams, SSE, Forms, WebSockets](https://rocket.rs/v0.5/news/2023-11-17-version-0.5/)
+- [The Roc Programming Language](https://roc-lang.org)
 
-- [ttl.sh | An anonymous & ephemeral (and free) Docker image registry](https://ttl.sh/)
+- [I won't use SemVer patch versions anymore (2016)](https://staltz.com/i-wont-use-semver-patch-versions-anymore.html)
 
-- [typehere.cc](https://typehere.cc/)
+- [tmp.0ut magazine #003](https://tmpout.sh/3/)
 
-- [I hacked the Magic Mouse](https://uplab.pro/2023/11/i-hacked-the-magic-mouse/)
+- [Zig May Pass Everything By Reference](https://www.1a-insec.net/blog/25-zig-reference-semantics/)
 
-- [Valuable FreeBSD 14.0-RELEASE Updates](https://vermaden.wordpress.com/2023/11/17/valuable-freebsd-14-0-release-updates/)
+- [Anastasis](https://www.gnu.org/software/anastasis)
 
-- [Oops! We Automated Bullshit](https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit)
+- [Adding a new teller | queuing theory example (2008)](https://www.johndcook.com/blog/2008/10/21/what-happens-when-you-add-a-new-teller/)
 
-- [Half-Life: 25th Anniversary Documentary](https://www.youtube.com/watch?v=TbZ3HzvFEto)
+- [Red Programming Language](https://www.red-lang.org)
 
-- [Adding more ethernet ports to an MNT Reform](https://zeromips.org/posts/2023-11-17-reform2/)
+- [What's Zig got that C, Rust and Go don't have?](https://www.youtube.com/watch?v=5_oqWE9otaE)
 
-- [Language, perception, and empathy: Ukrainian's gaze (Notes to the talk rejected by RubyConf)](https://zverok.space/blog/2023-11-17-not-a-rubyconf.html)
+- [The Windows 95 team bought 1 of every retail PC program they could get](https://www.youtube.com/watch?v=6m_Im7J9Iaw)
