@@ -1,49 +1,47 @@
-- [A Neighborhood of Infinity: The Three Projections of Doctor Futamura](http://blog.sigfpe.com/2009/05/three-projections-of-doctor-futamura.html)
+- [Lua Carousel: create little programs on desktop or mobile devices](https://akkartik.itch.io/carousel)
 
-- [YOYOZO (or, how I made a Playdate game in 39KB)](https://blog.gingerbeardman.com/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/)
+- [Demystifying the GameBoy/SM83's DAA Instruction](https://blog.ollien.com/posts/gb-daa/)
 
-- [Spreadsheets and Small Software](https://blog.nilenso.com/blog/2023/11/10/spreadsheets-and-small-software/)
+- [Contrarian view on composition over inheritance](https://coady.github.io/posts/composition-vs-inheritance.html)
 
-- [Fitting a Forth in 512 bytes (2021)](https://compilercrim.es/bootstrap/miniforth/)
+- [CPython Object System Internals: Understanding the Role of PyObject](https://codeconfessions.substack.com/p/cpython-object-system-internals-understanding)
 
-- [URL parser performance](https://daniel.haxx.se/blog/2023/11/21/url-parser-performance/)
+- [Paper: You Want My Password or a Dead Patient?](https://cohost.org/mononcqc/post/3647311-paper-you-want-my-p)
 
-- [C++ Guidelines](https://euroquis.nl//blabla/2023/11/21/guidelines.html)
+- [Forgiveness as an engineer](https://dev.to/karelvandenbussche/forgiveness-as-an-engineer-4lbg)
 
-- [Announcement of FreeBSD 14.0-RELEASE](https://freebsd.org/releases/14.0R/announce/)
+- [On harmful overuse of std::move](https://devblogs.microsoft.com/oldnewthing/20231124-00/?p=109059)
 
-- [How I (kind of) killed Mercurial at Mozilla](https://glandium.org/blog/?p=4346)
+- [How Apple's Pro Display XDR takes Thunderbolt 3 to its limit](https://fabiensanglard.net/xdr/index.html)
 
-- [Various things in MetaPost](https://habr.com/en/articles/454376/)
+- [@fastify/vite: Titans Combined](https://fastify-vite.dev/)
 
-- [Stage: Text Adventure Game Engine](https://hellomouse.net/stage/)
+- [TinyTls TLS cryptography library in C/C++](https://github.com/Anthony-Mai/TinyTls)
 
-- [Explicit Resource Management: Exploring JavaScript's and TypeScript's new feature](https://iliazeus.github.io/articles/js-explicit-resource-management-en/)
+- [FlakeTools: A simpler and less bug-prone flake-utils alternative](https://github.com/RGBCube/FlakeTools)
 
-- [Attribution armored code](https://joeyh.name/blog/entry/attribution_armored_code/)
+- [A Positive-only Hacker News RSS Feed](https://github.com/garritfra/positive_hackernews)
 
-- [RFC 9498: The GNU Name System](https://lists.gnu.org/archive/html/info-gnunet/2023-11/msg00000.html)
+- [keylock: macOS utility to lock the keyboard for easy cleaning](https://github.com/kfv/keylock)
 
-- [mess with dns](https://messwithdns.net/)
+- [Deck-Month: A Decker Jam in December](https://itch.io/jam/deck-month)
 
-- [Rubber duck debugging: "Thank you for holding my duck"](https://naml.us/post/thank-you-for-holding-my-duck/)
+- [Dockerfile ARG footgun](https://jmtd.net/log/dockerfile_arg_footgun/)
 
-- [Two kinds of threads pools, and why you need both](https://pythonspeed.com/articles/two-thread-pools/)
+- [Making Games in Go for Absolute Beginners](https://threedots.tech/post/making-games-in-go/)
 
-- [The Roc Programming Language](https://roc-lang.org)
+- [TDD Outcomes](https://tidyfirst.substack.com/p/tdd-outcomes)
 
-- [I won't use SemVer patch versions anymore (2016)](https://staltz.com/i-wont-use-semver-patch-versions-anymore.html)
+- ["Change Data Capture Breaks Encapsulation". Does it, though?](https://www.decodable.co/blog/change-data-capture-breaks-encapsulation-does-it-though)
 
-- [tmp.0ut magazine #003](https://tmpout.sh/3/)
+- [Database generated columns⁽²⁾: Django & PostgreSQL](https://www.paulox.net/2023/11/24/database-generated-columns-part-2-django-and-postgresql/)
 
-- [Zig May Pass Everything By Reference](https://www.1a-insec.net/blog/25-zig-reference-semantics/)
+- [PHP 8.3.0 Release Announcement](https://www.php.net/releases/8.3/en.php)
 
-- [Anastasis](https://www.gnu.org/software/anastasis)
+- [Separating debug symbols from executables](https://www.tweag.io/blog/2023-11-23-debug-fission/)
 
-- [Adding a new teller | queuing theory example (2008)](https://www.johndcook.com/blog/2008/10/21/what-happens-when-you-add-a-new-teller/)
+- [quAPL – A Quantum Computing Library in APL](https://www.youtube.com/watch?v=GtAlrhhCd5A)
 
-- [Red Programming Language](https://www.red-lang.org)
+- [Intelligence is not Enough](https://www.youtube.com/watch?v=bQfJi7rjuEk)
 
-- [What's Zig got that C, Rust and Go don't have?](https://www.youtube.com/watch?v=5_oqWE9otaE)
-
-- [The Windows 95 team bought 1 of every retail PC program they could get](https://www.youtube.com/watch?v=6m_Im7J9Iaw)
+- [“Useless Ruby sugar”: Argument forwarding](https://zverok.space/blog/2023-11-24-syntax-sugar4-argument-forwarding.html)
