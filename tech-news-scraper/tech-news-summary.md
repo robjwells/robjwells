@@ -1,47 +1,45 @@
-- [Lua Carousel: create little programs on desktop or mobile devices](https://akkartik.itch.io/carousel)
+- [CSS Utility classes: from blasphemy to hype](https://adropincalm.com/blog/css-utility-classes-from-blasphemy-to-hype/)
 
-- [Demystifying the GameBoy/SM83's DAA Instruction](https://blog.ollien.com/posts/gb-daa/)
+- [Dependency rejection](https://amontalenti.com/2023/11/25/dependency-rejection)
 
-- [Contrarian view on composition over inheritance](https://coady.github.io/posts/composition-vs-inheritance.html)
+- [Ray Marching Fog With Blue Noise](https://blog.demofox.org/2020/05/10/ray-marching-fog-with-blue-noise/)
 
-- [CPython Object System Internals: Understanding the Role of PyObject](https://codeconfessions.substack.com/p/cpython-object-system-internals-understanding)
+- [Robot Dad](https://blog.untrod.com/2023/11/robot-dad.html)
 
-- [Paper: You Want My Password or a Dead Patient?](https://cohost.org/mononcqc/post/3647311-paper-you-want-my-p)
+- [It's About Time](https://brooker.co.za/blog/2023/11/27/about-time.html)
 
-- [Forgiveness as an engineer](https://dev.to/karelvandenbussche/forgiveness-as-an-engineer-4lbg)
+- [Simplifying Expressions Bottom-Up](https://buttondown.email/jaffray/archive/simplifying-expressions-bottom-up/)
 
-- [On harmful overuse of std::move](https://devblogs.microsoft.com/oldnewthing/20231124-00/?p=109059)
+- [modeling CRDTs in Alloy - counters](https://bytes.zone/posts/modeling-crdts-in-alloy-counters/)
 
-- [How Apple's Pro Display XDR takes Thunderbolt 3 to its limit](https://fabiensanglard.net/xdr/index.html)
+- [Friendship Ended with Obsidian/LaTeX, Now Typst is My Best Friend](https://ersei.net/en/blog/typst)
 
-- [@fastify/vite: Titans Combined](https://fastify-vite.dev/)
+- [Friends don't let friends make certain types of data visualization](https://github.com/cxli233/FriendsDontLetFriends)
 
-- [TinyTls TLS cryptography library in C/C++](https://github.com/Anthony-Mai/TinyTls)
+- [Migrating from VM to Hierarchical Jails in FreeBSD](https://it-notes.dragas.net/2023/11/27/migrating-from-vm-to-hierarchical-jails-freebsd/)
 
-- [FlakeTools: A simpler and less bug-prone flake-utils alternative](https://github.com/RGBCube/FlakeTools)
+- [Log-Structured Merge Tree](https://medium.com/@tomfran/log-structured-merge-tree-a79241c959e3)
 
-- [A Positive-only Hacker News RSS Feed](https://github.com/garritfra/positive_hackernews)
+- [Least effort self-destructing email addresses with Fastmail](https://mikejsavage.co.uk/fastmail-min-effort-tempomail/)
 
-- [keylock: macOS utility to lock the keyboard for easy cleaning](https://github.com/kfv/keylock)
+- [Many explanations of JOIN are wrong, and people get confused](https://minimalmodeling.substack.com/p/many-explanations-of-join-are-wrong)
 
-- [Deck-Month: A Decker Jam in December](https://itch.io/jam/deck-month)
+- [Storing data in pointers](https://muxup.com/2023q4/storing-data-in-pointers)
 
-- [Dockerfile ARG footgun](https://jmtd.net/log/dockerfile_arg_footgun/)
+- [RustDesk with Tailscale on Arch Linux](https://nocoffei.com/?p=81)
 
-- [Making Games in Go for Absolute Beginners](https://threedots.tech/post/making-games-in-go/)
+- [Where Is OpenCV 5?](https://opencv.org/blog/where-is-opencv-5/)
 
-- [TDD Outcomes](https://tidyfirst.substack.com/p/tdd-outcomes)
+- [Python is Easy. Go is Simple. Simple != Easy](https://preslav.me/2023/11/27/python-is-easy-golang-is-simple-simple-is-not-easy/)
 
-- ["Change Data Capture Breaks Encapsulation". Does it, though?](https://www.decodable.co/blog/change-data-capture-breaks-encapsulation-does-it-though)
+- [Prettier $20k bounty to rewrite in Rust was claimed](https://prettier.io/blog/2023/11/27/20k-bounty-was-claimed)
 
-- [Database generated columns⁽²⁾: Django & PostgreSQL](https://www.paulox.net/2023/11/24/database-generated-columns-part-2-django-and-postgresql/)
+- [Ethernet is Still Going Strong After 50 Years](https://spectrum.ieee.org/ethernet-ieee-milestone)
 
-- [PHP 8.3.0 Release Announcement](https://www.php.net/releases/8.3/en.php)
+- [Microsoft Contributes Azure RTOS to Eclipse Foundation](https://techcommunity.microsoft.com/t5/internet-of-things-blog/microsoft-contributes-azure-rtos-to-open-source/ba-p/3986318)
 
-- [Separating debug symbols from executables](https://www.tweag.io/blog/2023-11-23-debug-fission/)
+- [God Help Us, Let's Try To Understand The Paper On AI Monosemanticity](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand)
 
-- [quAPL – A Quantum Computing Library in APL](https://www.youtube.com/watch?v=GtAlrhhCd5A)
+- [Ready for embedded: PipeWire 1.0 released](https://www.collabora.com/news-and-blog/news-and-events/ready-for-embedded-pipewire-1-0-released.html)
 
-- [Intelligence is not Enough](https://www.youtube.com/watch?v=bQfJi7rjuEk)
-
-- [“Useless Ruby sugar”: Argument forwarding](https://zverok.space/blog/2023-11-24-syntax-sugar4-argument-forwarding.html)
+- [FreeBSD 14.0 Delivering Great Performance Uplift](https://www.phoronix.com/review/freebsd-14-epyc)
