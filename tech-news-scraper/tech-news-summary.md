@@ -1,45 +1,49 @@
-- [CSS Utility classes: from blasphemy to hype](https://adropincalm.com/blog/css-utility-classes-from-blasphemy-to-hype/)
+- [Computed Properties for Haskell Records](https://alt-romes.github.io/posts/2023-11-30-computed-properties-for-haskell-records.html)
 
-- [Dependency rejection](https://amontalenti.com/2023/11/25/dependency-rejection)
+- [My 1FA is Probably Better than Your MFA](https://clearops.substack.com/p/my-1fa-is-probably-better-than-your)
 
-- [Ray Marching Fog With Blue Noise](https://blog.demofox.org/2020/05/10/ray-marching-fog-with-blue-noise/)
+- [xCurl, a cut-down fork of libcurl for the Microsoft Game Development Kit](https://daniel.haxx.se/blog/2023/11/30/xcurl/)
 
-- [Robot Dad](https://blog.untrod.com/2023/11/robot-dad.html)
+- [Aesop: White-Box Best-First Proof Search for Lean](https://dl.acm.org/doi/pdf/10.1145/3573105.3575671)
 
-- [It's About Time](https://brooker.co.za/blog/2023/11/27/about-time.html)
+- [The Weirdest Bug I’ve Seen Yet](https://engineering.gusto.com/the-weirdest-bug-ive-seen-yet/)
 
-- [Simplifying Expressions Bottom-Up](https://buttondown.email/jaffray/archive/simplifying-expressions-bottom-up/)
+- [Why you can't divide by zero](https://garrit.xyz/posts/2023-11-30-why-you-can't-divide-by-zero)
 
-- [modeling CRDTs in Alloy - counters](https://bytes.zone/posts/modeling-crdts-in-alloy-counters/)
+- [NixOS/nixpkgs 23.11](https://github.com/NixOS/nixpkgs/tree/23.11)
 
-- [Friendship Ended with Obsidian/LaTeX, Now Typst is My Best Friend](https://ersei.net/en/blog/typst)
+- [libcluster_postgres: Postgres strategy for libcluster](https://github.com/supabase/libcluster_postgres)
 
-- [Friends don't let friends make certain types of data visualization](https://github.com/cxli233/FriendsDontLetFriends)
+- [Introducing llamafile](https://hacks.mozilla.org/2023/11/introducing-llamafile/)
 
-- [Migrating from VM to Hierarchical Jails in FreeBSD](https://it-notes.dragas.net/2023/11/27/migrating-from-vm-to-hierarchical-jails-freebsd/)
+- [Infinite Mac](https://infinitemac.org/)
 
-- [Log-Structured Merge Tree](https://medium.com/@tomfran/log-structured-merge-tree-a79241c959e3)
+- [First bits of a Haiku compatibility layer](https://mail-index.netbsd.org/netbsd-users/2023/11/27/msg030366.html)
 
-- [Least effort self-destructing email addresses with Fastmail](https://mikejsavage.co.uk/fastmail-min-effort-tempomail/)
+- [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
 
-- [Many explanations of JOIN are wrong, and people get confused](https://minimalmodeling.substack.com/p/many-explanations-of-join-are-wrong)
+- [Using Polars in a Pandas world](https://pythonspeed.com/articles/polars-pandas-interopability/)
 
-- [Storing data in pointers](https://muxup.com/2023q4/storing-data-in-pointers)
+- [Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
 
-- [RustDesk with Tailscale on Arch Linux](https://nocoffei.com/?p=81)
+- [An ode to the neo-grotesque web](https://rednafi.com/zephyr/an_ode_to_the_neo_grotesque_web/)
 
-- [Where Is OpenCV 5?](https://opencv.org/blog/where-is-opencv-5/)
+- [Open Source Supply Chain Security at Google](https://research.swtch.com/acmscored)
 
-- [Python is Easy. Go is Simple. Simple != Easy](https://preslav.me/2023/11/27/python-is-easy-golang-is-simple-simple-is-not-easy/)
+- [Building interactive web pages with Guile Hoot](https://spritely.institute/news/building-interactive-web-pages-with-guile-hoot.html)
 
-- [Prettier $20k bounty to rewrite in Rust was claimed](https://prettier.io/blog/2023/11/27/20k-bounty-was-claimed)
+- [Guile Hoot v0.2.0 released](https://spritely.institute/news/guile-hoot-v020-released.html)
 
-- [Ethernet is Still Going Strong After 50 Years](https://spectrum.ieee.org/ethernet-ieee-milestone)
+- [Three problems of pinning](https://without.boats/blog/three-problems-of-pinning/)
 
-- [Microsoft Contributes Azure RTOS to Eclipse Foundation](https://techcommunity.microsoft.com/t5/internet-of-things-blog/microsoft-contributes-azure-rtos-to-open-source/ba-p/3986318)
+- [My $500M Mars Rover Mistake: A Failure Story](https://www.chrislewicki.com/articles/failurestory)
 
-- [God Help Us, Let's Try To Understand The Paper On AI Monosemanticity](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand)
+- [A response to 'A decade of developing a programming language'](https://www.ncameron.org/blog/a-response-to-a-decade-of-developing-a-programming-language/)
 
-- [Ready for embedded: PipeWire 1.0 released](https://www.collabora.com/news-and-blog/news-and-events/ready-for-embedded-pipewire-1-0-released.html)
+- [After 8 Years: NetHSM is Available! Formally verified open source HSM](https://www.nitrokey.com/news/2023/after-8-years-development-nethsm-10-available-first-open-source-hardware-security-module)
 
-- [FreeBSD 14.0 Delivering Great Performance Uplift](https://www.phoronix.com/review/freebsd-14-epyc)
+- [Pelican 4.9: classless Simple theme with semantic HTML](https://www.paulox.net/2023/11/30/pelican-4.9-classless-simple-theme/)
+
+- [Another Look At The Bcachefs Performance on Linux 6.7](https://www.phoronix.com/review/bcachefs-benchmarks-linux67)
+
+- [Rust std fs slower than Python!? No, it's hardware](https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/)
