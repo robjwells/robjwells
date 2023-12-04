@@ -1,49 +1,49 @@
-- [Computed Properties for Haskell Records](https://alt-romes.github.io/posts/2023-11-30-computed-properties-for-haskell-records.html)
+- [Random SwiftUI Complaint #123](https://andadinosaur.com/random-swiftui-complaint-123)
 
-- [My 1FA is Probably Better than Your MFA](https://clearops.substack.com/p/my-1fa-is-probably-better-than-your)
+- [That's FAR-out, Man](https://blog.dfsec.com/ios/2023/11/19/thats-far-out-man/)
 
-- [xCurl, a cut-down fork of libcurl for the Microsoft Game Development Kit](https://daniel.haxx.se/blog/2023/11/30/xcurl/)
+- [Nerd Snipe: Small Integer Parsing](https://blog.loadzero.com/blog/parse-int-nerdsnipe/)
 
-- [Aesop: White-Box Best-First Proof Search for Lean](https://dl.acm.org/doi/pdf/10.1145/3573105.3575671)
+- [reaction, in replacement of fail2ban](https://blog.ppom.me/en-reaction/)
 
-- [The Weirdest Bug I’ve Seen Yet](https://engineering.gusto.com/the-weirdest-bug-ive-seen-yet/)
+- [Build Stupid Tools](https://blog.stulta.dev/posts/stupid_tools/)
 
-- [Why you can't divide by zero](https://garrit.xyz/posts/2023-11-30-why-you-can't-divide-by-zero)
+- [Sharing my experience giving a tech talk at a conference "Getting Started w Blazor" this weekend](https://danschnau.com/blog/blazor_midevfest_2023)
 
-- [NixOS/nixpkgs 23.11](https://github.com/NixOS/nixpkgs/tree/23.11)
+- [Announcing - First NixCon North America](https://discourse.nixos.org/t/announcing-first-nixcon-north-america/35874?u=zmitchell)
 
-- [libcluster_postgres: Postgres strategy for libcluster](https://github.com/supabase/libcluster_postgres)
+- [A wigwam is a small-but-mighty project that reduces public reliance on battleships](https://github.com/surprisetalk/wigwams)
 
-- [Introducing llamafile](https://hacks.mozilla.org/2023/11/introducing-llamafile/)
+- [Inkscape 1.3.2 solves data loss bug in previous release](https://inkscape.org/news/2023/12/01/Inkscape-1-3-2-solves-data-loss-bug/)
 
-- [Infinite Mac](https://infinitemac.org/)
+- [Serving a vector database from GitHub Pages](https://jasonjmcghee.github.io/portable-hnsw/)
 
-- [First bits of a Haiku compatibility layer](https://mail-index.netbsd.org/netbsd-users/2023/11/27/msg030366.html)
+- [Efficient Nix Derivations with File Sets](https://johns.codes/blog/efficient-nix-derivations-with-file-sets)
 
-- [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
+- [RetSpill: Igniting User-Controlled Data to Burn Away Linux Kernel Protections](https://kylebot.net/papers/retspill.pdf)
 
-- [Using Polars in a Pandas world](https://pythonspeed.com/articles/polars-pandas-interopability/)
+- [POV Candle](https://mitxela.com/projects/candle)
 
-- [Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
+- [Lobsters | Hacker News](https://news.ycombinator.com/item?id=38508282)
 
-- [An ode to the neo-grotesque web](https://rednafi.com/zephyr/an_ode_to_the_neo_grotesque_web/)
+- [Let’s learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
 
-- [Open Source Supply Chain Security at Google](https://research.swtch.com/acmscored)
+- [Toolchain security features status update](https://outflux.net/slides/2023/lpc/features.pdf)
 
-- [Building interactive web pages with Guile Hoot](https://spritely.institute/news/building-interactive-web-pages-with-guile-hoot.html)
+- [sh: Relative shell script includes with realpath on FreeBSD](https://patmaddox.com/doc/trunk/www/2023-12-sh-relative-shell-script-includes-with-realpath-on-freebsd/)
 
-- [Guile Hoot v0.2.0 released](https://spritely.institute/news/guile-hoot-v020-released.html)
+- [A guide to home row mods](https://precondition.github.io/home-row-mods)
 
-- [Three problems of pinning](https://without.boats/blog/three-problems-of-pinning/)
+- [SLSA Security Levels](https://slsa.dev/spec/v1.0/levels)
 
-- [My $500M Mars Rover Mistake: A Failure Story](https://www.chrislewicki.com/articles/failurestory)
+- [Advent of Code Visualization 2023](https://www.geoffreylitt.com/aoc2023/)
 
-- [A response to 'A decade of developing a programming language'](https://www.ncameron.org/blog/a-response-to-a-decade-of-developing-a-programming-language/)
+- [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
 
-- [After 8 Years: NetHSM is Available! Formally verified open source HSM](https://www.nitrokey.com/news/2023/after-8-years-development-nethsm-10-available-first-open-source-hardware-security-module)
+- [Struct initialization](https://www.sandordargo.com/blog/2023/11/22/struct-initialization)
 
-- [Pelican 4.9: classless Simple theme with semantic HTML](https://www.paulox.net/2023/11/30/pelican-4.9-classless-simple-theme/)
+- [Endianness, and why I don't like htons(3) and friends](https://www.thecodedmessage.com/posts/endianness/)
 
-- [Another Look At The Bcachefs Performance on Linux 6.7](https://www.phoronix.com/review/bcachefs-benchmarks-linux67)
+- [ARC: A SELF-TUNING, LOW OVERHEAD REPLACEMENT CACHE](https://www.usenix.org/legacy/events/fast03/tech/full_papers/megiddo/megiddo.pdf)
 
-- [Rust std fs slower than Python!? No, it's hardware](https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/)
+- [Intro to Large Language Models [1hr Talk]](https://www.youtube.com/watch?v=zjkBMFhNj_g)
