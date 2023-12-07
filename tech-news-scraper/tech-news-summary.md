@@ -1,49 +1,49 @@
-- [Random SwiftUI Complaint #123](https://andadinosaur.com/random-swiftui-complaint-123)
+- [Why is Jepsen Written in Clojure?](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
 
-- [That's FAR-out, Man](https://blog.dfsec.com/ios/2023/11/19/thats-far-out-man/)
+- [Introducing Gemini: our largest and most capable AI model](https://blog.google/technology/ai/google-gemini-ai)
 
-- [Nerd Snipe: Small Integer Parsing](https://blog.loadzero.com/blog/parse-int-nerdsnipe/)
+- [Simplicity is better than complexity](https://commandcenter.blogspot.com/2023/12/simplicity.html)
 
-- [reaction, in replacement of fail2ban](https://blog.ppom.me/en-reaction/)
+- [Testing Data Assumptions with PostgreSQL](https://dabure.com/blog/testing-data-assumptions-with-postgresql)
 
-- [Build Stupid Tools](https://blog.stulta.dev/posts/stupid_tools/)
+- [META II: Digital Vellum in the Digital Scriptorium](https://dl.acm.org/doi/pdf/10.1145/2716276.2724586)
 
-- [Sharing my experience giving a tech talk at a conference "Getting Started w Blazor" this weekend](https://danschnau.com/blog/blazor_midevfest_2023)
+- [Rethinking Serverless with FLAME](https://fly.io/blog/rethinking-serverless-with-flame/)
 
-- [Announcing - First NixCon North America](https://discourse.nixos.org/t/announcing-first-nixcon-north-america/35874?u=zmitchell)
+- [pypush: Cross-platform iMessage POC](https://github.com/JJTech0130/pypush)
 
-- [A wigwam is a small-but-mighty project that reduces public reliance on battleships](https://github.com/surprisetalk/wigwams)
+- [fleece: A super-fast, compact, JSON-equivalent binary data format](https://github.com/couchbase/fleece)
 
-- [Inkscape 1.3.2 solves data loss bug in previous release](https://inkscape.org/news/2023/12/01/Inkscape-1-3-2-solves-data-loss-bug/)
+- [Gerbil v0.18.1 NimzoLarsen released](https://github.com/mighty-gerbils/gerbil/discussions/1079)
 
-- [Serving a vector database from GitHub Pages](https://jasonjmcghee.github.io/portable-hnsw/)
+- [Add support for `gen fn` in Rust nightly](https://github.com/rust-lang/rust/pull/118457)
 
-- [Efficient Nix Derivations with File Sets](https://johns.codes/blog/efficient-nix-derivations-with-file-sets)
+- [Winglang - New Cloud-Oriented Programming Language](https://github.com/winglang/wing)
 
-- [RetSpill: Igniting User-Controlled Data to Burn Away Linux Kernel Protections](https://kylebot.net/papers/retspill.pdf)
+- [Your GitHub pull request workflow is slowing everyone down](https://graphite.dev/blog/your-github-pr-workflow-is-slow)
 
-- [POV Candle](https://mitxela.com/projects/candle)
+- [Donald Knuth’s Annual Xmas Tree Lecture 2023 - Livestream](https://learn.stanford.edu/DonKnuthXmas-2023-Registration.html)
 
-- [Lobsters | Hacker News](https://news.ycombinator.com/item?id=38508282)
+- [Loco: the one-person framework for Rust for side-projects and startups](https://loco.rs/)
 
-- [Let’s learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
+- [Ghostty Devlog 005](https://mitchellh.com/writing/ghostty-devlog-005)
 
-- [Toolchain security features status update](https://outflux.net/slides/2023/lpc/features.pdf)
+- [Against do notation](https://pithlessly.github.io/donotation.html)
 
-- [sh: Relative shell script includes with realpath on FreeBSD](https://patmaddox.com/doc/trunk/www/2023-12-sh-relative-shell-script-includes-with-realpath-on-freebsd/)
+- [Train firmware reverse engineering discovers bogus lock up code](https://social.hackerspace.pl/@q3k/111528162462505087)
 
-- [A guide to home row mods](https://precondition.github.io/home-row-mods)
+- [SQLite Forum: JSONB has landed](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
 
-- [SLSA Security Levels](https://slsa.dev/spec/v1.0/levels)
+- [All my favorite tracing tools: eBPF, QEMU, Perfetto, new ones I built and more](https://thume.ca/2023/12/02/tracing-methods/)
 
-- [Advent of Code Visualization 2023](https://www.geoffreylitt.com/aoc2023/)
+- [Catching up with the Cosmopolitan ecosystem](https://til.simonwillison.net/cosmopolitan/ecosystem)
 
-- [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
+- [System Observability: Metrics, Sampling, and Tracing](https://two-wrongs.com/system-observability-metrics-sampling-tracing)
 
-- [Struct initialization](https://www.sandordargo.com/blog/2023/11/22/struct-initialization)
+- [Firefox on the brink?](https://www.brycewray.com/posts/2023/11/firefox-brink/)
 
-- [Endianness, and why I don't like htons(3) and friends](https://www.thecodedmessage.com/posts/endianness/)
+- [Sample chapter from Learn Enough Python to Be Dangerous, with an introduction to testing](https://www.informit.com/articles/article.aspx?p=3178912)
 
-- [ARC: A SELF-TUNING, LOW OVERHEAD REPLACEMENT CACHE](https://www.usenix.org/legacy/events/fast03/tech/full_papers/megiddo/megiddo.pdf)
+- [rqlite 8.0 - distributed SQLite: Large Dataset Support and Core Feature Upgrades](https://www.philipotoole.com/rqlite-8-0-large-dataset-support-and-core-feature-upgrades/)
 
-- [Intro to Large Language Models [1hr Talk]](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+- [Unveiling secrets of the ESP32: creating an open-source MAC Layer](https://zeus.ugent.be/blog/23-24/open-source-esp32-wifi-mac/)
