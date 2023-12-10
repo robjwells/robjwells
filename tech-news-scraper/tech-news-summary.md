@@ -1,49 +1,47 @@
-- [Why is Jepsen Written in Clojure?](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
+- [CPNG, a backwards compatible fork of PNG](http://richg42.blogspot.com/2023/12/announcing-cpng-compatible-network.html)
 
-- [Introducing Gemini: our largest and most capable AI model](https://blog.google/technology/ai/google-gemini-ai)
+- [Using FIDO keys](https://777.tf/blog/2023/12/08/using-fido-keys/)
 
-- [Simplicity is better than complexity](https://commandcenter.blogspot.com/2023/12/simplicity.html)
+- [Filling in the Knowledge Gap: HTTPS/TLS Certificates](https://blog.bityard.net/articles/2023/December/filling-in-the-gaps-httpstls-certificates.html)
 
-- [Testing Data Assumptions with PostgreSQL](https://dabure.com/blog/testing-data-assumptions-with-postgresql)
+- [Dynamic music and sound techniques for video games](https://blog.gingerbeardman.com/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)
 
-- [META II: Digital Vellum in the Digital Scriptorium](https://dl.acm.org/doi/pdf/10.1145/2716276.2724586)
+- [Data corruption in Linux ext4](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1057843)
 
-- [Rethinking Serverless with FLAME](https://fly.io/blog/rethinking-serverless-with-flame/)
+- [Comfy Game Engine 0.3 (Rust) - No Lifetimes, User Shaders, Text Rendering, 2.5D, LDTK](https://comfyengine.org/blog/release-v0-3/)
 
-- [pypush: Cross-platform iMessage POC](https://github.com/JJTech0130/pypush)
+- [Clockhands: Rename-free Instruction Set Architecture for Out-of-order Processors](https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614272)
 
-- [fleece: A super-fast, compact, JSON-equivalent binary data format](https://github.com/couchbase/fleece)
+- [Sign in with GitHub in Go](https://eli.thegreenplace.net/2023/sign-in-with-github-in-go/)
 
-- [Gerbil v0.18.1 NimzoLarsen released](https://github.com/mighty-gerbils/gerbil/discussions/1079)
+- [from worst terminal to merely mediocre](https://flak.tedunangst.com/post/from-worst-terminal-to-merely-mediocre)
 
-- [Add support for `gen fn` in Rust nightly](https://github.com/rust-lang/rust/pull/118457)
+- [porporo: a new pipe oriented OS to play with](https://git.sr.ht/~rabbits/porporo)
 
-- [Winglang - New Cloud-Oriented Programming Language](https://github.com/winglang/wing)
+- [uHTTP: Pythonic web development](https://github.com/0x67757300/uHTTP)
 
-- [Your GitHub pull request workflow is slowing everyone down](https://graphite.dev/blog/your-github-pr-workflow-is-slow)
+- [Run macOS, Windows and more via a single Nix command](https://github.com/MatthewCroughan/NixThePlanet)
 
-- [Donald Knuth’s Annual Xmas Tree Lecture 2023 - Livestream](https://learn.stanford.edu/DonKnuthXmas-2023-Registration.html)
+- [klogg: Really fast log explorer based on glogg project](https://github.com/variar/klogg)
 
-- [Loco: the one-person framework for Rust for side-projects and startups](https://loco.rs/)
+- [pinning all system calls](https://marc.info/?l=openbsd-tech&m=170205367232026&w=2)
 
-- [Ghostty Devlog 005](https://mitchellh.com/writing/ghostty-devlog-005)
+- [Makesure vs Just command runners on examples](https://maximullaris.com/makesure-vs-just.html)
 
-- [Against do notation](https://pithlessly.github.io/donotation.html)
+- [Visual Basic for Applications Language Specification](https://msopenspecs.azureedge.net/files/MS-VBAL/%5bMS-VBAL%5d.pdf)
 
-- [Train firmware reverse engineering discovers bogus lock up code](https://social.hackerspace.pl/@q3k/111528162462505087)
+- [NeurIPS 2023 Posters](https://neurips2023.vizhub.ai/)
 
-- [SQLite Forum: JSONB has landed](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
+- [Postgres Language Server: implementing the Parser](https://supabase.com/blog/postgres-language-server-implementing-parser)
 
-- [All my favorite tracing tools: eBPF, QEMU, Perfetto, new ones I built and more](https://thume.ca/2023/12/02/tracing-methods/)
+- [Maglev - V8’s Fastest Optimizing JIT](https://v8.dev/blog/maglev)
 
-- [Catching up with the Cosmopolitan ecosystem](https://til.simonwillison.net/cosmopolitan/ecosystem)
+- [BSD on Windows: Things I wish I knew existed](https://virtuallyfun.com/2023/12/08/bsd-on-windows-things-i-wish-i-knew-existed/)
 
-- [System Observability: Metrics, Sampling, and Tracing](https://two-wrongs.com/system-observability-metrics-sampling-tracing)
+- [Free Software that you can't customise is not truly Free Software](https://wuffs.org/blog/free-software-needs-to-be-customisable)
 
-- [Firefox on the brink?](https://www.brycewray.com/posts/2023/11/firefox-brink/)
+- [Alpine Linux 3.19.0 released](https://www.alpinelinux.org/posts/Alpine-3.19.0-released.html)
 
-- [Sample chapter from Learn Enough Python to Be Dangerous, with an introduction to testing](https://www.informit.com/articles/article.aspx?p=3178912)
+- [DJGPP](https://www.delorie.com/djgpp/)
 
-- [rqlite 8.0 - distributed SQLite: Large Dataset Support and Core Feature Upgrades](https://www.philipotoole.com/rqlite-8-0-large-dataset-support-and-core-feature-upgrades/)
-
-- [Unveiling secrets of the ESP32: creating an open-source MAC Layer](https://zeus.ugent.be/blog/23-24/open-source-esp32-wifi-mac/)
+- [Starting FORTH](https://www.forth.com/starting-forth/)
