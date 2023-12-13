@@ -1,47 +1,49 @@
-- [CPNG, a backwards compatible fork of PNG](http://richg42.blogspot.com/2023/12/announcing-cpng-compatible-network.html)
+- [Building a Web Game in C](https://anguscheng.com/post/2023-12-12-wasm-game-in-c-raylib/)
 
-- [Using FIDO keys](https://777.tf/blog/2023/12/08/using-fido-keys/)
+- [Trying chDB, an embeddable ClickHouse engine](https://antonz.org/trying-chdb/)
 
-- [Filling in the Knowledge Gap: HTTPS/TLS Certificates](https://blog.bityard.net/articles/2023/December/filling-in-the-gaps-httpstls-certificates.html)
+- [As ChatGPT gets “lazy,” people test “winter break hypothesis” as the cause](https://arstechnica.com/information-technology/2023/12/is-chatgpt-becoming-lazier-because-its-december-people-run-tests-to-find-out/)
 
-- [Dynamic music and sound techniques for video games](https://blog.gingerbeardman.com/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)
+- [What if an SQL Statement Returned a Database?](https://arxiv.org/abs/2312.00638)
 
-- [Data corruption in Linux ext4](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1057843)
+- [I formally modeled Dreidel for no good reason](https://buttondown.email/hillelwayne/archive/i-formally-modeled-dreidel-for-no-good-reason/)
 
-- [Comfy Game Engine 0.3 (Rust) - No Lifetimes, User Shaders, Text Rendering, 2.5D, LDTK](https://comfyengine.org/blog/release-v0-3/)
+- [The mysterious second parameter to the x86 ENTER instruction](https://devblogs.microsoft.com/oldnewthing/20231211-00/?p=109126)
 
-- [Clockhands: Rename-free Instruction Set Architecture for Out-of-order Processors](https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614272)
+- [LLMs make Programming Language Learning Curves Shallower](https://earthly.dev/blog/future-is-rusty/)
 
-- [Sign in with GitHub in Go](https://eli.thegreenplace.net/2023/sign-in-with-github-in-go/)
+- [WebP is so great… except it's not (2021)](https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/)
 
-- [from worst terminal to merely mediocre](https://flak.tedunangst.com/post/from-worst-terminal-to-merely-mediocre)
+- [Introducing FireDBG, a time traveling visual debugger for Rust](https://firedbg.sea-ql.org/blog/2023-12-12-introducing-firedbg/)
 
-- [porporo: a new pipe oriented OS to play with](https://git.sr.ht/~rabbits/porporo)
+- [OpenAny: macOS app and file launching springboard](https://github.com/CleanCocoa/OpenAny)
 
-- [uHTTP: Pythonic web development](https://github.com/0x67757300/uHTTP)
+- [GCCPreprocessHTML: Preprocess HTML with the GCC preprocessor](https://github.com/RGBCube/GCCPreprocessHTML)
 
-- [Run macOS, Windows and more via a single Nix command](https://github.com/MatthewCroughan/NixThePlanet)
+- [huh? A TUI form builder](https://github.com/charmbracelet/huh)
 
-- [klogg: Really fast log explorer based on glogg project](https://github.com/variar/klogg)
+- [Refactoring Let's Go and Let's Go Further's Code](https://github.com/jessicatarra/refactoring-greenlight)
 
-- [pinning all system calls](https://marc.info/?l=openbsd-tech&m=170205367232026&w=2)
+- [Hi, My Name Is Keyboard](https://github.com/skysafe/reblog/tree/main/cve-2023-45866)
 
-- [Makesure vs Just command runners on examples](https://maximullaris.com/makesure-vs-just.html)
+- [Finding unreachable functions with deadcode](https://go.dev/blog/deadcode)
 
-- [Visual Basic for Applications Language Specification](https://msopenspecs.azureedge.net/files/MS-VBAL/%5bMS-VBAL%5d.pdf)
+- [What is a debugger?](https://gu.outerproduct.net/debug.html)
 
-- [NeurIPS 2023 Posters](https://neurips2023.vizhub.ai/)
+- [Zero downtime Postgres upgrades](https://knock.app/blog/zero-downtime-postgres-upgrades)
 
-- [Postgres Language Server: implementing the Parser](https://supabase.com/blog/postgres-language-server-implementing-parser)
+- [Announcing Nuekit: A simple Next.js and Astro alternative with unversal hot-reloading](https://nuejs.org/blog/nuekit-010/)
 
-- [Maglev - V8’s Fastest Optimizing JIT](https://v8.dev/blog/maglev)
+- [Reclaiming the Web with a Personal Reader](https://olano.dev/2023-12-12-reclaiming-the-web-with-a-personal-reader/)
 
-- [BSD on Windows: Things I wish I knew existed](https://virtuallyfun.com/2023/12/08/bsd-on-windows-things-i-wish-i-knew-existed/)
+- [My Top 7 Perl New Features](https://perladvent.org/2023/2023-12-12.html)
 
-- [Free Software that you can't customise is not truly Free Software](https://wuffs.org/blog/free-software-needs-to-be-customisable)
+- [Finding And Debugging A Nushell Performance Issue](https://rtpg.co/2023/12/13/debugging-nu/)
 
-- [Alpine Linux 3.19.0 released](https://www.alpinelinux.org/posts/Alpine-3.19.0-released.html)
+- [Why if TYPE_CHECKING?](https://vickiboykis.com/2023/12/11/why-if-type_checking/)
 
-- [DJGPP](https://www.delorie.com/djgpp/)
+- [1500 Archers on a 28.8: Network Programming in Age of Empires 2 (2001)](https://www.gamedeveloper.com/programming/1500-archers-on-a-28-8-network-programming-in-age-of-empires-and-beyond)
 
-- [Starting FORTH](https://www.forth.com/starting-forth/)
+- [RFC for Status 420: Requester Impaired](https://www.ietf.org/archive/id/draft-richardroda-420requesterimpaired-02.html)
+
+- [Stop nesting ternaries in JavaScript](https://www.sonarsource.com/blog/stop-nesting-ternaries-javascript/)
