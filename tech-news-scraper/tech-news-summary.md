@@ -1,49 +1,41 @@
-- [Building a Web Game in C](https://anguscheng.com/post/2023-12-12-wasm-game-in-c-raylib/)
+- [Protobuf Is Almost Streamable](https://belkadan.com/blog/2023/12/Protobuf-Is-Almost-Streamable/)
 
-- [Trying chDB, an embeddable ClickHouse engine](https://antonz.org/trying-chdb/)
+- [A curiously recurring lifetime issue](https://blog.dureuill.net/articles/recurring-lifetime/)
 
-- [As ChatGPT gets “lazy,” people test “winter break hypothesis” as the cause](https://arstechnica.com/information-technology/2023/12/is-chatgpt-becoming-lazier-because-its-december-people-run-tests-to-find-out/)
+- [How we designed Flipper Cloud to never take your app down](https://blog.flippercloud.io/how-we-designed-flipper-cloud-to-never-take-your-app-down/)
 
-- [What if an SQL Statement Returned a Database?](https://arxiv.org/abs/2312.00638)
+- [Maybe Haskell](https://books.thoughtbot.com/assets/maybe-haskell.pdf)
 
-- [I formally modeled Dreidel for no good reason](https://buttondown.email/hillelwayne/archive/i-formally-modeled-dreidel-for-no-good-reason/)
+- [Why Aren't We SIEVE-ing?](https://brooker.co.za/blog/2023/12/15/sieve.html)
 
-- [The mysterious second parameter to the x86 ENTER instruction](https://devblogs.microsoft.com/oldnewthing/20231211-00/?p=109126)
+- [SQL Polyglot](https://codapi.org/sql/)
 
-- [LLMs make Programming Language Learning Curves Shallower](https://earthly.dev/blog/future-is-rusty/)
+- [Structure of FTS5 Index in SQLite](https://darksi.de/13.sqlite-fts5-structure/)
 
-- [WebP is so great… except it's not (2021)](https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/)
+- [pg_sparse: Sparse Vector Similarity Search Inside Postgres - ParadeDB](https://docs.paradedb.com/blog/introducing_sparse)
 
-- [Introducing FireDBG, a time traveling visual debugger for Rust](https://firedbg.sea-ql.org/blog/2023-12-12-introducing-firedbg/)
+- [SSH3: ssh using HTTP/3 and QUIC](https://github.com/francoismichel/ssh3)
 
-- [OpenAny: macOS app and file launching springboard](https://github.com/CleanCocoa/OpenAny)
+- [NASA Library of Formal Method Developments](https://github.com/nasa/pvslib)
 
-- [GCCPreprocessHTML: Preprocess HTML with the GCC preprocessor](https://github.com/RGBCube/GCCPreprocessHTML)
+- [CRDTs Turned Inside Out](https://interjectedfuture.com/crdts-turned-inside-out/)
 
-- [huh? A TUI form builder](https://github.com/charmbracelet/huh)
+- [Building a personal predictive text engine](https://jamesg.blog/2023/12/15/auto-write/)
 
-- [Refactoring Let's Go and Let's Go Further's Code](https://github.com/jessicatarra/refactoring-greenlight)
+- [Using Zig to Call C Code: Strings](https://mtlynch.io/notes/zig-strings-call-c-code/)
 
-- [Hi, My Name Is Keyboard](https://github.com/skysafe/reblog/tree/main/cve-2023-45866)
+- [Lessons from implementing Hurl](https://ntietz.com/blog/lessons-from-implementing-hurl/)
 
-- [Finding unreachable functions with deadcode](https://go.dev/blog/deadcode)
+- [Interfaces Are Not Meant for That](https://preslav.me/2023/12/15/golang-interfaces-are-not-meant-for-that/)
 
-- [What is a debugger?](https://gu.outerproduct.net/debug.html)
+- [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
 
-- [Zero downtime Postgres upgrades](https://knock.app/blog/zero-downtime-postgres-upgrades)
+- [Scheme in Scheme on Wasm in the browser](https://spritely.institute/news/scheme-in-scheme-on-wasm-in-the-browser.html)
 
-- [Announcing Nuekit: A simple Next.js and Astro alternative with unversal hot-reloading](https://nuejs.org/blog/nuekit-010/)
+- [Google Groups ending support for Usenet](https://support.google.com/groups/answer/11036538?hl=en)
 
-- [Reclaiming the Web with a Personal Reader](https://olano.dev/2023-12-12-reclaiming-the-web-with-a-personal-reader/)
+- [Database Fundamentals](https://tontinton.com/posts/database-fundementals/)
 
-- [My Top 7 Perl New Features](https://perladvent.org/2023/2023-12-12.html)
+- [Remove private C API functions](https://vstinner.github.io/remove-c-api-funcs-313.html)
 
-- [Finding And Debugging A Nushell Performance Issue](https://rtpg.co/2023/12/13/debugging-nu/)
-
-- [Why if TYPE_CHECKING?](https://vickiboykis.com/2023/12/11/why-if-type_checking/)
-
-- [1500 Archers on a 28.8: Network Programming in Age of Empires 2 (2001)](https://www.gamedeveloper.com/programming/1500-archers-on-a-28-8-network-programming-in-age-of-empires-and-beyond)
-
-- [RFC for Status 420: Requester Impaired](https://www.ietf.org/archive/id/draft-richardroda-420requesterimpaired-02.html)
-
-- [Stop nesting ternaries in JavaScript](https://www.sonarsource.com/blog/stop-nesting-ternaries-javascript/)
+- [Reverse engineering Bluetooth LE LED light controllers, or How I Bricked My Christmas Lights](https://www.whizzy.org/2023-12-14-bricked-xmas/)
