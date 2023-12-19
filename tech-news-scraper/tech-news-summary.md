@@ -1,41 +1,49 @@
-- [Protobuf Is Almost Streamable](https://belkadan.com/blog/2023/12/Protobuf-Is-Almost-Streamable/)
+- [Performance engineering, profilers, and seeing the invisible - Made of Bugs](https://blog.nelhage.com/post/profilers-seeing-the-invisible/)
 
-- [A curiously recurring lifetime issue](https://blog.dureuill.net/articles/recurring-lifetime/)
+- [Launching the 2023 State of Rust Survey](https://blog.rust-lang.org/2023/12/18/survey-launch.html)
 
-- [How we designed Flipper Cloud to never take your app down](https://blog.flippercloud.io/how-we-designed-flipper-cloud-to-never-take-your-app-down/)
+- [Real World OCaml](https://dev.realworldocaml.org/index.html)
 
-- [Maybe Haskell](https://books.thoughtbot.com/assets/maybe-haskell.pdf)
+- [Church vs Curry Types](https://ericnormand.me/article/church-vs-curry-types)
 
-- [Why Aren't We SIEVE-ing?](https://brooker.co.za/blog/2023/12/15/sieve.html)
+- [What to improve in my open-source documentation?](https://expr-lang.org/)
 
-- [SQL Polyglot](https://codapi.org/sql/)
+- [Introducing Fly Kubernetes](https://fly.io/blog/fks/)
 
-- [Structure of FTS5 Index in SQLite](https://darksi.de/13.sqlite-fts5-structure/)
+- [Evolving UX Design: Reduced Cognitive Load with an Anti-Dropdown Anti-Modal Form](https://gist.github.com/L8D/c27a4563f5d9e98b8220acb4bdae4cac)
 
-- [pg_sparse: Sparse Vector Similarity Search Inside Postgres - ParadeDB](https://docs.paradedb.com/blog/introducing_sparse)
+- [Gleam v0.33 – Exhaustive Gleam](https://gleam.run/news/v0.33-exhaustive-gleam/)
 
-- [SSH3: ssh using HTTP/3 and QUIC](https://github.com/francoismichel/ssh3)
+- [Lichess Upgrades to Scala 3 (2022)](https://lichess.org/@/thibault/blog/lichess--scala-3/y1sbYzJX)
 
-- [NASA Library of Formal Method Developments](https://github.com/nasa/pvslib)
+- [Progress toward a GCC-based Rust compiler](https://lwn.net/SubscriberLink/954787/41470c731eda02a4/)
 
-- [CRDTs Turned Inside Out](https://interjectedfuture.com/crdts-turned-inside-out/)
+- [Exploring the section layout in linker output](https://maskray.me/blog/2023-12-17-exploring-the-section-layout-in-linker-output)
 
-- [Building a personal predictive text engine](https://jamesg.blog/2023/12/15/auto-write/)
+- [Using Zig to Unit Test a C Application](https://mtlynch.io/notes/zig-unit-test-c/)
 
-- [Using Zig to Call C Code: Strings](https://mtlynch.io/notes/zig-strings-call-c-code/)
+- [Evaluating new software forges](https://notgull.net/finding-a-forge/)
 
-- [Lessons from implementing Hurl](https://ntietz.com/blog/lessons-from-implementing-hurl/)
+- [Three days of Advent of Code in Hurl](https://ntietz.com/blog/three-days-of-advent-of-code-in-hurl/)
 
-- [Interfaces Are Not Meant for That](https://preslav.me/2023/12/15/golang-interfaces-are-not-meant-for-that/)
+- [The World Before Git](https://osshistory.org/p/the-world-before-git)
 
-- [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
+- [Paged Out Magazine - Issue 3](https://pagedout.institute/download/PagedOut_003_beta1.pdf)
 
-- [Scheme in Scheme on Wasm in the browser](https://spritely.institute/news/scheme-in-scheme-on-wasm-in-the-browser.html)
+- [How many CPU cores can you actually use in parallel?](https://pythonspeed.com/articles/cpu-thread-pool-size/)
 
-- [Google Groups ending support for Usenet](https://support.google.com/groups/answer/11036538?hl=en)
+- [Smashing the stack for pain and misery](https://rachelbythebay.com/w/2023/12/18/boom/)
 
-- [Database Fundamentals](https://tontinton.com/posts/database-fundementals/)
+- [Tiny Code Christmas 2023](https://tcc.lovebyte.party/)
 
-- [Remove private C API functions](https://vstinner.github.io/remove-c-api-funcs-313.html)
+- [Terrapin Attack on SSH](https://terrapin-attack.com/)
 
-- [Reverse engineering Bluetooth LE LED light controllers, or How I Bricked My Christmas Lights](https://www.whizzy.org/2023-12-14-bricked-xmas/)
+- [In Go, constant variables are not used for optimization](https://utcc.utoronto.ca/~cks/space/blog/programming/GoKeepsConstantVariables)
+
+- [Good Ol' Fashioned AI](https://www.cs.swarthmore.edu/~eroberts/cs91/projects/ethics-of-ai/sec3_1.html)
+
+- [Colliding Secure Hashes](https://www.da.vidbuchanan.co.uk/blog/colliding-secure-hashes.html)
+
+- [We Have To Support Every Line of Production Code Forever](https://www.mironov.com/support-all/)
+
+- [An update on HDR and color management in KWin](https://zamundaaa.github.io/wayland/2023/12/18/update-on-hdr-and-colormanagement-in-plasma.html)
