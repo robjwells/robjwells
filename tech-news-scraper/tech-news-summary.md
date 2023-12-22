@@ -1,49 +1,49 @@
-- [Performance engineering, profilers, and seeing the invisible - Made of Bugs](https://blog.nelhage.com/post/profilers-seeing-the-invisible/)
+- [Arcan 0.6.3 – I, pty: the fool](https://arcan-fe.com/2023/12/19/arcan-0-6-3-i-pty-the-fool/)
 
-- [Launching the 2023 State of Rust Survey](https://blog.rust-lang.org/2023/12/18/survey-launch.html)
+- [What We Need Instead of “Web Components”](https://blog.carlana.net/post/2023/web-component-alternative-futures/)
 
-- [Real World OCaml](https://dev.realworldocaml.org/index.html)
+- [Announcing `async fn` and return-position `impl Trait` in traits](https://blog.rust-lang.org/2023/12/21/async-fn-rpit-in-traits.html)
 
-- [Church vs Curry Types](https://ericnormand.me/article/church-vs-curry-types)
+- [Advice for new software devs who've read all those other advice essays](https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)
 
-- [What to improve in my open-source documentation?](https://expr-lang.org/)
+- [Taking the Language Server Protocol one step further](https://garnix.io/blog/taking-lsp-one-step-further)
 
-- [Introducing Fly Kubernetes](https://fly.io/blog/fks/)
+- [Holiday protocols: secret santa with Quint - Formally specifying and model checking secret santa](https://github.com/informalsystems/quint/blob/main/tutorials/blogpost0-secretsanta/secret_santa.org)
 
-- [Evolving UX Design: Reduced Cognitive Load with an Anti-Dropdown Anti-Modal Form](https://gist.github.com/L8D/c27a4563f5d9e98b8220acb4bdae4cac)
+- [Occupancy explained](https://gpuopen.com/learn/occupancy-explained/)
 
-- [Gleam v0.33 – Exhaustive Gleam](https://gleam.run/news/v0.33-exhaustive-gleam/)
+- [Do we need to rethink what free software is? (2019)](https://mjg59.dreamwidth.org/52907.html)
 
-- [Lichess Upgrades to Scala 3 (2022)](https://lichess.org/@/thibault/blog/lichess--scala-3/y1sbYzJX)
+- [Ownership you can count on](https://muxup.com/2023q4/ownership-you-can-count-on)
 
-- [Progress toward a GCC-based Rust compiler](https://lwn.net/SubscriberLink/954787/41470c731eda02a4/)
+- [Systemd-boot and Full Disk Encryption in Tumbleweed and MicroOS](https://news.opensuse.org/2023/12/20/systemd-fde/)
 
-- [Exploring the section layout in linker output](https://maskray.me/blog/2023-12-17-exploring-the-section-layout-in-linker-output)
+- [My reference was dropped, why is the compiler complaining about multiple borrows?](https://ntietz.com/blog/my-reference-was-dropped-why-is-the-compiler-complaining-about-multiple-borrows/)
 
-- [Using Zig to Unit Test a C Application](https://mtlynch.io/notes/zig-unit-test-c/)
+- [Vulkan Video Decode: First Frames](https://poniesandlight.co.uk/reflect/island_video_decoder/)
 
-- [Evaluating new software forges](https://notgull.net/finding-a-forge/)
+- [postmarketOS v23.12 release](https://postmarketos.org/blog/2023/12/18/v23.12-release/)
 
-- [Three days of Advent of Code in Hurl](https://ntietz.com/blog/three-days-of-advent-of-code-in-hurl/)
+- [HTTP Headers of Note for Synergizing into a Cohesive Security Stratagem](https://posts.summerti.me/http-headers-of-note-for-synergizing-into-a-cohesive-security-stratagem/)
 
-- [The World Before Git](https://osshistory.org/p/the-world-before-git)
+- [SMTP Smuggling - Spoofing E-Mails Worldwide](https://sec-consult.com/blog/detail/smtp-smuggling-spoofing-e-mails-worldwide/)
 
-- [Paged Out Magazine - Issue 3](https://pagedout.institute/download/PagedOut_003_beta1.pdf)
+- [DOS on Dope: The last MVC web framework you'll ever need](https://secretgeek.net/dod_intro)
 
-- [How many CPU cores can you actually use in parallel?](https://pythonspeed.com/articles/cpu-thread-pool-size/)
+- [2023: Slint in Review](https://slint.dev/blog/2023-in-review)
 
-- [Smashing the stack for pain and misery](https://rachelbythebay.com/w/2023/12/18/boom/)
+- [Memory Safety is a Red Herring](https://steveklabnik.com/writing/memory-safety-is-a-red-herring)
 
-- [Tiny Code Christmas 2023](https://tcc.lovebyte.party/)
+- [FXYT: A tiny, stack-based, postfix canvas colouring language with 36 commands](https://susam.net/fxyt.html)
 
-- [Terrapin Attack on SSH](https://terrapin-attack.com/)
+- [How I Have Fun With Rust](https://thoughtbot.com/blog/how-i-have-fun-with-rust)
 
-- [In Go, constant variables are not used for optimization](https://utcc.utoronto.ca/~cks/space/blog/programming/GoKeepsConstantVariables)
+- [FreeBSD Desktop - Corner Actions](https://vermaden.wordpress.com/2023/12/21/freebsd-desktop-part-28-configuration-corner-actions/#respond)
 
-- [Good Ol' Fashioned AI](https://www.cs.swarthmore.edu/~eroberts/cs91/projects/ethics-of-ai/sec3_1.html)
+- [darktable 4.6.0 released](https://www.darktable.org/2023/12/darktable-4.6.0-released/)
 
-- [Colliding Secure Hashes](https://www.da.vidbuchanan.co.uk/blog/colliding-secure-hashes.html)
+- [TSIDs strike the perfect balance between integers and UUIDs for most databases](https://www.foxhound.systems/blog/time-sorted-unique-identifiers/)
 
-- [We Have To Support Every Line of Production Code Forever](https://www.mironov.com/support-all/)
+- [Qubes OS 4.2.0 has been released](https://www.qubes-os.org/news/2023/12/18/qubes-os-4-2-0-has-been-released/)
 
-- [An update on HDR and color management in KWin](https://zamundaaa.github.io/wayland/2023/12/18/update-on-hdr-and-colormanagement-in-plasma.html)
+- [Program Design by Calculation](https://www4.di.uminho.pt/~jno/ps/pdbc.pdf)
