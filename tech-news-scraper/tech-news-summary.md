@@ -1,49 +1,47 @@
-- [Arcan 0.6.3 – I, pty: the fool](https://arcan-fe.com/2023/12/19/arcan-0-6-3-i-pty-the-fool/)
+- [x86 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/~ed/x86.html)
 
-- [What We Need Instead of “Web Components”](https://blog.carlana.net/post/2023/web-component-alternative-futures/)
+- [Meilisearch Expands Search Power with Arroy's Filtered Disk ANN](https://blog.kerollmops.com/meilisearch-expands-search-power-with-arroy-s-filtered-disk-ann)
 
-- [Announcing `async fn` and return-position `impl Trait` in traits](https://blog.rust-lang.org/2023/12/21/async-fn-rpit-in-traits.html)
+- [You don't need analytics on your blog](https://blog.yossarian.net/2023/12/24/You-dont-need-analytics-on-your-blog)
 
-- [Advice for new software devs who've read all those other advice essays](https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)
+- [Using Qt for Mobile in 2023](https://camg.me/qt-mobile-2023/)
 
-- [Taking the Language Server Protocol one step further](https://garnix.io/blog/taking-lsp-one-step-further)
+- [D2: Declarative Diagramming](https://d2lang.com)
 
-- [Holiday protocols: secret santa with Quint - Formally specifying and model checking secret santa](https://github.com/informalsystems/quint/blob/main/tutorials/blogpost0-secretsanta/secret_santa.org)
+- [Kernel string overcopying](https://dxuuu.xyz/string-overcopy.html)
 
-- [Occupancy explained](https://gpuopen.com/learn/occupancy-explained/)
+- [Heynote - A dedicated scratchpad for developers](https://heynote.com/)
 
-- [Do we need to rethink what free software is? (2019)](https://mjg59.dreamwidth.org/52907.html)
+- [CI Dream](https://matklad.github.io/2023/12/24/ci-dream.html)
 
-- [Ownership you can count on](https://muxup.com/2023q4/ownership-you-can-count-on)
+- [Why large language models threaten learning, teaching, and education](https://medium.com/bits-and-behavior/more-than-calculators-why-large-language-models-threaten-public-education-480dd5300939)
 
-- [Systemd-boot and Full Disk Encryption in Tumbleweed and MicroOS](https://news.opensuse.org/2023/12/20/systemd-fde/)
+- [When the Power Macintosh ran NetWare (featuring Wormhole and Cyberpunk)](https://oldvcr.blogspot.com/2023/12/when-power-macintosh-ran-netware.html)
 
-- [My reference was dropped, why is the compiler complaining about multiple borrows?](https://ntietz.com/blog/my-reference-was-dropped-why-is-the-compiler-complaining-about-multiple-borrows/)
+- [Plasma Wayland Today](https://pappp.net/?p=59645)
 
-- [Vulkan Video Decode: First Frames](https://poniesandlight.co.uk/reflect/island_video_decoder/)
+- [The Kakoune Philosophy](https://phaazon.net/blog/kakoune-philosophy)
 
-- [postmarketOS v23.12 release](https://postmarketos.org/blog/2023/12/18/v23.12-release/)
+- [Dear Diary](https://queue.acm.org/detail.cfm?id=3631181)
 
-- [HTTP Headers of Note for Synergizing into a Cohesive Security Stratagem](https://posts.summerti.me/http-headers-of-note-for-synergizing-into-a-cohesive-security-stratagem/)
+- [Unveiling the big leap in Ruby 3.3’s IRB](https://railsatscale.com/2023-12-19-irb-for-ruby-3-3/)
 
-- [SMTP Smuggling - Spoofing E-Mails Worldwide](https://sec-consult.com/blog/detail/smtp-smuggling-spoofing-e-mails-worldwide/)
+- [Debugging dockerized Python apps in VSCode](https://rednafi.com/python/debug_dockerized_apps_in_vscode/)
 
-- [DOS on Dope: The last MVC web framework you'll ever need](https://secretgeek.net/dod_intro)
+- [Whatever happened to programming? (2010)](https://reprog.wordpress.com/2010/03/03/whatever-happened-to-programming/)
 
-- [2023: Slint in Review](https://slint.dev/blog/2023-in-review)
+- [RISC-Y Business: Raging against the reduced machine](https://secret.club/2023/12/24/riscy-business.html)
 
-- [Memory Safety is a Red Herring](https://steveklabnik.com/writing/memory-safety-is-a-red-herring)
+- [Software Engineering's Greatest Hits](https://third-bit.com/2021/07/17/software-engineerings-greatest-hits/)
 
-- [FXYT: A tiny, stack-based, postfix canvas colouring language with 36 commands](https://susam.net/fxyt.html)
+- [What is a parser mismatch vulnerability?](https://www.brainonfire.net/blog/2022/04/11/what-is-parser-mismatch/)
 
-- [How I Have Fun With Rust](https://thoughtbot.com/blog/how-i-have-fun-with-rust)
+- [DIY Espresso](https://www.fourbardesign.com/2020/10/diy-espresso.html?m=1)
 
-- [FreeBSD Desktop - Corner Actions](https://vermaden.wordpress.com/2023/12/21/freebsd-desktop-part-28-configuration-corner-actions/#respond)
+- [Dial-up over a Discord Call](https://www.lilysthings.org/blog/discord-dialup/)
 
-- [darktable 4.6.0 released](https://www.darktable.org/2023/12/darktable-4.6.0-released/)
+- [GitHub Actions Feels Bad](https://www.youtube.com/watch?v=9qljpi5jiMQ)
 
-- [TSIDs strike the perfect balance between integers and UUIDs for most databases](https://www.foxhound.systems/blog/time-sorted-unique-identifiers/)
+- [Code-It-Yourself! First Person Shooter (Quick and Simple C++)](https://www.youtube.com/watch?v=xW8skO7MFYw)
 
-- [Qubes OS 4.2.0 has been released](https://www.qubes-os.org/news/2023/12/18/qubes-os-4-2-0-has-been-released/)
-
-- [Program Design by Calculation](https://www4.di.uminho.pt/~jno/ps/pdbc.pdf)
+- [Reducing Code Size Using Outlining (2016)](https://www.youtube.com/watch?v=yorld-WSOeU)
