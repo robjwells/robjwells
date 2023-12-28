@@ -1,47 +1,49 @@
-- [x86 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/~ed/x86.html)
+- [An Experimental Evaluation of the Assumption of Independence in Multi-Version Programming](http://sunnyday.mit.edu/papers.html#ft)
 
-- [Meilisearch Expands Search Power with Arroy's Filtered Disk ANN](https://blog.kerollmops.com/meilisearch-expands-search-power-with-arroy-s-filtered-disk-ann)
+- [4 billion if statements](https://andreasjhkarlsson.github.io/jekyll/update/2023/12/27/4-billion-if-statements.html)
 
-- [You don't need analytics on your blog](https://blog.yossarian.net/2023/12/24/You-dont-need-analytics-on-your-blog)
+- [How to (and how not to) fix color banding](https://blog.frost.kiwi/GLSL-noise-and-radial-gradient/)
 
-- [Using Qt for Mobile in 2023](https://camg.me/qt-mobile-2023/)
+- [I made JSX for Lua (because I hate static sites)](https://bvisness.me/luax/)
 
-- [D2: Declarative Diagramming](https://d2lang.com)
+- [Fontimize: Subset Fonts to Exactly and Only Your Website's Used Characters](https://daveon.design/introducing-fontimize-subset-fonts-to-exactly-and-only-your-websites-used-characters.html)
 
-- [Kernel string overcopying](https://dxuuu.xyz/string-overcopy.html)
+- [The Rust I used to know (2022)](https://despairlabs.com/blog/posts/2022-08-20-the-rust-i-used-to-know/)
 
-- [Heynote - A dedicated scratchpad for developers](https://heynote.com/)
+- [A data corruption bug in OpenZFS?](https://despairlabs.com/blog/posts/2023-12-25-openzfs-data-corruption-bug/)
 
-- [CI Dream](https://matklad.github.io/2023/12/24/ci-dream.html)
+- [A Beginner's Companion to Theorem Proving in Lean 4](https://emallson.net/blog/a-beginners-companion-to-theorem-proving-in-lean/)
 
-- [Why large language models threaten learning, teaching, and education](https://medium.com/bits-and-behavior/more-than-calculators-why-large-language-models-threaten-public-education-480dd5300939)
+- [Lobsters Meetup - 37C3](https://events.ccc.de/congress/2023/hub/de/event/lobsters-meetup/)
 
-- [When the Power Macintosh ran NetWare (featuring Wormhole and Cyberpunk)](https://oldvcr.blogspot.com/2023/12/when-power-macintosh-ran-netware.html)
+- [Embeddings, Vectors, and Arithmetic](https://montyanderson.net/writing/embeddings)
 
-- [Plasma Wayland Today](https://pappp.net/?p=59645)
+- [Scan2email](https://nathangrigg.com/2023/12/scan2email/)
 
-- [The Kakoune Philosophy](https://phaazon.net/blog/kakoune-philosophy)
+- [Pluto, a modern Lua dialect](https://pluto-lang.org/)
 
-- [Dear Diary](https://queue.acm.org/detail.cfm?id=3631181)
+- [Reminiscing CGI scripts](https://rednafi.com/go/reminiscing_cgi_scripts/)
 
-- [Unveiling the big leap in Ruby 3.3’s IRB](https://railsatscale.com/2023-12-19-irb-for-ruby-3-3/)
+- [The Heart of a Language Server](https://rust-analyzer.github.io/blog/2023/12/26/the-heart-of-a-language-server.html)
 
-- [Debugging dockerized Python apps in VSCode](https://rednafi.com/python/debug_dockerized_apps_in_vscode/)
+- [Operation Triangulation: The last (hardware) mystery](https://securelist.com/operation-triangulation-the-last-hardware-mystery/111669/)
 
-- [Whatever happened to programming? (2010)](https://reprog.wordpress.com/2010/03/03/whatever-happened-to-programming/)
+- [My proof-of-concept record type](https://snarky.ca/my-proof-of-concept-record-type/)
 
-- [RISC-Y Business: Raging against the reduced machine](https://secret.club/2023/12/24/riscy-business.html)
+- [37c3 Live-Streams](https://streaming.media.ccc.de/37c3/)
 
-- [Software Engineering's Greatest Hits](https://third-bit.com/2021/07/17/software-engineerings-greatest-hits/)
+- [Using Make – writing less Makefile](https://text.causal.agency/001-make.txt)
 
-- [What is a parser mismatch vulnerability?](https://www.brainonfire.net/blog/2022/04/11/what-is-parser-mismatch/)
+- [It Takes Two to Contract](https://tigerbeetle.com/blog/2023-12-27-it-takes-two-to-contract/)
 
-- [DIY Espresso](https://www.fourbardesign.com/2020/10/diy-espresso.html?m=1)
+- [Remote Controlling an HP 1670G Logic Analyzer with a Linux PC X Server](https://tomverbeure.github.io/2023/12/26/Controlling-an-HP-1670G-with-Your-Linux-PC-X-Server.html)
 
-- [Dial-up over a Discord Call](https://www.lilysthings.org/blog/discord-dialup/)
+- [John the Toolmaker](https://two-wrongs.com/john-the-toolmaker)
 
-- [GitHub Actions Feels Bad](https://www.youtube.com/watch?v=9qljpi5jiMQ)
+- [SSH ProxyCommand == unexpected code execution (CVE-2023-51385)](https://vin01.github.io/piptagole/ssh/security/openssh/libssh/remote-code-execution/2023/12/20/openssh-proxycommand-libssh-rce.html)
 
-- [Code-It-Yourself! First Person Shooter (Quick and Simple C++)](https://www.youtube.com/watch?v=xW8skO7MFYw)
+- [A guide on Neovim's LSP client](https://vonheikemen.github.io/devlog/tools/neovim-lsp-client-guide/)
 
-- [Reducing Code Size Using Outlining (2016)](https://www.youtube.com/watch?v=yorld-WSOeU)
+- [Why Programming is a Good Medium for Expressing Poorly Understood & Sloppily-Formulated Ideas (1967)](https://web.media.mit.edu/~minsky/papers/Why%20programming%20is--.html)
+
+- [The State Of Garnet, 2023](https://wiki.alopex.li/TheStateOfGarnet2023)
