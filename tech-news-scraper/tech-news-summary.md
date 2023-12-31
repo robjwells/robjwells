@@ -1,49 +1,45 @@
-- [An Experimental Evaluation of the Assumption of Independence in Multi-Version Programming](http://sunnyday.mit.edu/papers.html#ft)
+- [A Core Calculus for Documents](https://blog.brownplt.org/2023/12/28/document-calculus.html)
 
-- [4 billion if statements](https://andreasjhkarlsson.github.io/jekyll/update/2023/12/27/4-billion-if-statements.html)
+- [Creating an OpenBSD Wireguard VPN Gateway](https://blog.lambda.cx/posts/openbsd-wireguard-vpn-gateway/)
 
-- [How to (and how not to) fix color banding](https://blog.frost.kiwi/GLSL-noise-and-radial-gradient/)
+- [Switching Things Over to ikiwiki](https://bt.ht/posts/Switching_Things_Over_to_ikiwiki/)
 
-- [I made JSX for Lua (because I hate static sites)](https://bvisness.me/luax/)
+- [How bad are search results? Let's compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
 
-- [Fontimize: Subset Fonts to Exactly and Only Your Website's Used Characters](https://daveon.design/introducing-fontimize-subset-fonts-to-exactly-and-only-your-websites-used-characters.html)
+- [8 months of OCaml after 8 years of Haskell in production](https://dev.to/chshersh/8-months-of-ocaml-after-8-years-of-haskell-in-production-h96)
 
-- [The Rust I used to know (2022)](https://despairlabs.com/blog/posts/2022-08-20-the-rust-i-used-to-know/)
+- [TDD is a personal practice](https://dev.to/thiht/tdd-is-a-personal-practice-3o76)
 
-- [A data corruption bug in OpenZFS?](https://despairlabs.com/blog/posts/2023-12-25-openzfs-data-corruption-bug/)
+- [Why Android developers no longer need Windows USB drivers](https://fabiensanglard.net/android_windows_driver/index.html)
 
-- [A Beginner's Companion to Theorem Proving in Lean 4](https://emallson.net/blog/a-beginners-companion-to-theorem-proving-in-lean/)
+- [Simulating NON-CRT Monitors with FFmpeg: Flat Panel Displays (2021)](https://int10h.org/blog/2021/03/simulating-non-crt-monitors-ffmpeg-flat-panels/)
 
-- [Lobsters Meetup - 37C3](https://events.ccc.de/congress/2023/hub/de/event/lobsters-meetup/)
+- [jank's new persistent string is fast](https://jank-lang.org/blog/2023-12-30-fast-string/)
 
-- [Embeddings, Vectors, and Arithmetic](https://montyanderson.net/writing/embeddings)
+- [Glove80: Rethinking split contoured ergonomic keyboard](https://kbd.news/Glove80-Rethinking-split-contoured-ergonomic-keyboard-1796.html)
 
-- [Scan2email](https://nathangrigg.com/2023/12/scan2email/)
+- [How JIT Compilers are Implemented and Fast: Pypy, LuaJIT, Graal and More](https://kipp.ly/jits-impls/)
 
-- [Pluto, a modern Lua dialect](https://pluto-lang.org/)
+- [commit signing in 2023 is kinda wack](https://lobi.to/writes/wacksigning/)
 
-- [Reminiscing CGI scripts](https://rednafi.com/go/reminiscing_cgi_scripts/)
+- [TestDrivenDevelopment](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
 
-- [The Heart of a Language Server](https://rust-analyzer.github.io/blog/2023/12/26/the-heart-of-a-language-server.html)
+- [Easily host Go modules on your domain](https://petersanchez.com/easily-host-go-modules-on-your-domain/)
 
-- [Operation Triangulation: The last (hardware) mystery](https://securelist.com/operation-triangulation-the-last-hardware-mystery/111669/)
+- [Functional programming sparks joy 2 (2019)](https://rachelcarmena.github.io/2019/08/20/functional-programming-sparks-joy-2.html)
 
-- [My proof-of-concept record type](https://snarky.ca/my-proof-of-concept-record-type/)
+- [Canon TDD](https://tidyfirst.substack.com/p/canon-tdd)
 
-- [37c3 Live-Streams](https://streaming.media.ccc.de/37c3/)
+- [Web CGI programs aren't particularly slow these days](https://utcc.utoronto.ca/~cks/space/blog/web/CGINotSlow)
 
-- [Using Make – writing less Makefile](https://text.causal.agency/001-make.txt)
+- [Malware abuses Google OAuth endpoint to ‘revive’ cookies, hijack accounts](https://www.bleepingcomputer.com/news/security/malware-abuses-google-oauth-endpoint-to-revive-cookies-hijack-accounts/)
 
-- [It Takes Two to Contract](https://tigerbeetle.com/blog/2023-12-27-it-takes-two-to-contract/)
+- [More fun with Apple’s internal tools: creating a PDS card](https://www.downtowndougbrown.com/2023/12/more-fun-with-apples-internal-tools-creating-a-pds-card/)
 
-- [Remote Controlling an HP 1670G Logic Analyzer with a Linux PC X Server](https://tomverbeure.github.io/2023/12/26/Controlling-an-HP-1670G-with-Your-Linux-PC-X-Server.html)
+- [Developer Touts the Benefits of 'Diagonal Mode' Linux Desktop](https://www.extremetech.com/computing/developer-touts-the-benefits-of-diagonal-mode-linux-desktop)
 
-- [John the Toolmaker](https://two-wrongs.com/john-the-toolmaker)
+- [Gentoo goes Binary](https://www.gentoo.org/news/2023/12/29/Gentoo-binary.html)
 
-- [SSH ProxyCommand == unexpected code execution (CVE-2023-51385)](https://vin01.github.io/piptagole/ssh/security/openssh/libssh/remote-code-execution/2023/12/20/openssh-proxycommand-libssh-rce.html)
+- [React Server Components: the Good, the Bad, and the Ugly](https://www.mayank.co/blog/react-server-components/)
 
-- [A guide on Neovim's LSP client](https://vonheikemen.github.io/devlog/tools/neovim-lsp-client-guide/)
-
-- [Why Programming is a Good Medium for Expressing Poorly Understood & Sloppily-Formulated Ideas (1967)](https://web.media.mit.edu/~minsky/papers/Why%20programming%20is--.html)
-
-- [The State Of Garnet, 2023](https://wiki.alopex.li/TheStateOfGarnet2023)
+- [Breaking "DRM" in Polish trains](https://www.youtube.com/watch?v=XrlrbfGZo2k)
