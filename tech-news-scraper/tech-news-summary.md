@@ -1,45 +1,47 @@
-- [The Tripartite Identity Pattern (2008)](http://habitatchronicles.com/2008/10/the-tripartite-identity-pattern/)
+- [Performance Benchmarks of Cloud Virtual Machines](https://bas.codes/posts/cloudbench2312)
 
-- [Cray 1 Supercomputer Performance Comparisons With Home Computers Phones and Tablets](http://www.roylongbottom.org.uk/Cray%201%20Supercomputer%20Performance%20Comparisons%20With%20Home%20Computers%20Phones%20and%20Tablets.htm)
+- [DAPLs: Domain Agnostic Programming Languages](https://blog.metaobject.com/2024/01/dapls-domain-agnostic-programming.html)
 
-- [Musings on the C charter](https://blog.aaronballman.com/2023/12/musings-on-the-c-charter/)
+- [SIEVE is simpler than LRU](https://cachemon.github.io/SIEVE-website/blog/2023/12/17/sieve-is-simpler-than-lru/)
 
-- [A Core Calculus for Documents](https://blog.brownplt.org/2023/12/28/document-calculus.html)
+- [Cassette (a small, Lisp-like programming language)](https://cassette-lang.com)
 
-- [A weird CPIO discrepancy](https://blog.colindou.ch/posts/lets-make-an-os-cpio-weirdness/)
+- [1995 Programming on the Sega Saturn (2010)](https://cowboyprogramming.com/2010/06/03/1995-programming-on-the-sega-saturn/)
 
-- [How bad are search results? Let's compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
+- [The I in LLM stands for intelligence](https://daniel.haxx.se/blog/2024/01/02/the-i-in-llm-stands-for-intelligence/)
 
-- [8 months of OCaml after 8 years of Haskell in production](https://dev.to/chshersh/8-months-of-ocaml-after-8-years-of-haskell-in-production-h96)
+- [Python support for the Linux perf profiler](https://docs.python.org/3.12/howto/perf_profiling.html)
 
-- [zig-cookbook: a collection of simple Zig programs that demonstrate good practices to accomplish common programming tasks](https://github.com/zigcc/zig-cookbook)
+- [The Sage Programming Language](https://github.com/adam-mcdaniel/sage)
 
-- [Llama.MIA — fork of Llama.cpp with interpretability features](https://grgv.xyz/blog/llama.mia/)
+- [language design of Starlark (compared to Python)](https://github.com/bazelbuild/starlark/blob/master/design.md)
 
-- [S-Assembler v0.1: Self-hosting RiscV Assembler](https://hephaist-os.com/sasm/releases/v0.1.html)
+- [malbolge-lisp: A lightweight (350MB) Lisp interpreter in Malbolge Unshackled, often dubbed the hardest turing complete programming language](https://github.com/kspalaiologos/malbolge-lisp)
 
-- [How I forked SteamOS for my living room PC](https://iliana.fyi/blog/build-your-own-steamos-updates/)
+- [container2wasm: convert Docker containers into WASM blobs](https://github.com/ktock/container2wasm)
 
-- [jank's new persistent string is fast](https://jank-lang.org/blog/2023-12-30-fast-string/)
+- [Fastest Way to Read Excel in Python](https://hakibenita.com/fast-excel-python)
 
-- [Writing a container in Rust](https://litchipi.site/serie/containers_in_rust)
+- [Software Technical Writing: A Handbook](https://jamesg.blog/book.pdf)
 
-- [commit signing in 2023 is kinda wack](https://lobi.to/writes/wacksigning/)
+- [Niklaus Wirth 15.2.1934 - 1.1.2024](https://lists.inf.ethz.ch/pipermail/oberon/2024/016856.html)
 
-- [O(1) Build File](https://matklad.github.io/2023/12/31/O(1)-build-file.html)
+- [Profilerpedia: Software Profiling Tool Catalog](https://profilerpedia.markhansen.co.nz/)
 
-- [Easily host Go modules on your domain](https://petersanchez.com/easily-host-go-modules-on-your-domain/)
+- [In 2024, please switch to Firefox](https://roytanck.com/2023/12/23/in-2024-please-switch-to-firefox/)
 
-- [One Button Calculator (One Line Morse Code Python Repl)](https://punkx.org/calc/)
+- [What I'd like to see for Async Rust in 2024](https://smallcultfollowing.com/babysteps/blog/2024/01/03/async-rust-2024/)
 
-- [Rust9x update: Rust 1.76.0-beta](https://seri.tools/blog/rust9x-1-76/)
+- [What is the index of an empty string in an empty string?](https://successfulsoftware.net/2023/12/13/what-is-the-index-of-an-empty-string-in-an-empty-string/)
 
-- [A Closer Look to a Key-Value Storage Engine](https://silhding.github.io/2021/08/20/A-Closer-Look-to-a-Key-Value-Storage-Engine/)
+- [Birb + Fossil: An RSS Revival?](https://timkellogg.me/blog/2024/01/03/birb)
 
-- [Stuff we figured out about AI in 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/)
+- [How the PostgreSQL optimizer works to speed up queries](https://www.cybertec-postgresql.com/en/how-the-postgresql-query-optimizer-works/)
 
-- [Email addresses are not good 'permanent' identifiers for accounts](https://utcc.utoronto.ca/~cks/space/blog/tech/EmailAddressesBadPermanentIDs )
+- [Elixir Dev Environment With Nix Flakes](https://www.mathiaspolligkeit.com/elixir-dev-environment-with-nix-flakes/)
 
-- [Web CGI programs aren't particularly slow these days](https://utcc.utoronto.ca/~cks/space/blog/web/CGINotSlow)
+- [The One Billion Row Challenge](https://www.morling.dev/blog/one-billion-row-challenge/)
 
-- [Building a custom Emacs auth-source](https://www.emoses.org/posts/emacs-custom-auth-source/)
+- [Rigol DHO914S vs Siglent 1104X-E](https://www.sebortiz.com/post/rigol_vs_siglent/)
+
+- [Vim 9.1 released](https://www.vim.org/vim-9.1-released.php)
