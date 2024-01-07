@@ -1,47 +1,49 @@
-- [Performance Benchmarks of Cloud Virtual Machines](https://bas.codes/posts/cloudbench2312)
+- [NATO Software Engineering Conferences](http://homepages.cs.ncl.ac.uk/brian.randell/NATO/index.html)
 
-- [DAPLs: Domain Agnostic Programming Languages](https://blog.metaobject.com/2024/01/dapls-domain-agnostic-programming.html)
+- [scheme modules vs whole-program compilation: fight](http://wingolog.org/archives/2024/01/05/scheme-modules-vs-whole-program-compilation-fight)
 
-- [SIEVE is simpler than LRU](https://cachemon.github.io/SIEVE-website/blog/2023/12/17/sieve-is-simpler-than-lru/)
+- [Learnable Programming](http://worrydream.com/LearnableProgramming/)
 
-- [Cassette (a small, Lisp-like programming language)](https://cassette-lang.com)
+- [In-browser code playgrounds](https://antonz.org/in-browser-code-playgrounds/)
 
-- [1995 Programming on the Sega Saturn (2010)](https://cowboyprogramming.com/2010/06/03/1995-programming-on-the-sega-saturn/)
+- [Maestro - A Unix-like kernel and operating system written in Rust](https://blog.lenot.re/a/introduction)
 
-- [The I in LLM stands for intelligence](https://daniel.haxx.se/blog/2024/01/02/the-i-in-llm-stands-for-intelligence/)
+- [NetBSD 10.0 RC2 available](https://blog.netbsd.org/tnf/entry/netbsd_10_0_rc2_available)
 
-- [Python support for the Linux perf profiler](https://docs.python.org/3.12/howto/perf_profiling.html)
+- [systemd through the eyes of a musl distribution maintainer](https://catfox.life/2024/01/05/systemd-through-the-eyes-of-a-musl-distribution-maintainer/)
 
-- [The Sage Programming Language](https://github.com/adam-mcdaniel/sage)
+- [GPT in 500 lines of SQL](https://explainextended.com/2023/12/31/happy-new-year-15/)
 
-- [language design of Starlark (compared to Python)](https://github.com/bazelbuild/starlark/blob/master/design.md)
+- [how quick is the go compiler: can you use go for scripting?](https://flak.tedunangst.com/post/how-fast-is-the-go-compiler)
 
-- [malbolge-lisp: A lightweight (350MB) Lisp interpreter in Malbolge Unshackled, often dubbed the hardest turing complete programming language](https://github.com/kspalaiologos/malbolge-lisp)
+- [Flame v0.6.0 – Data model and query library for Firestore](https://flame-odm.com/docs)
 
-- [container2wasm: convert Docker containers into WASM blobs](https://github.com/ktock/container2wasm)
+- [A better publishing workflow for static blogs](https://garrit.xyz/posts/2024-01-06-a-better-publishing-workflow-for-static-blogs)
 
-- [Fastest Way to Read Excel in Python](https://hakibenita.com/fast-excel-python)
+- [tex-oberon: Make Project Oberon Pretty Again](https://github.com/guidoism/tex-oberon)
 
-- [Software Technical Writing: A Handbook](https://jamesg.blog/book.pdf)
+- [The origins of J](https://github.com/kelas/ooj)
 
-- [Niklaus Wirth 15.2.1934 - 1.1.2024](https://lists.inf.ethz.ch/pipermail/oberon/2024/016856.html)
+- [Do we think of git commits as diffs, snapshots, and/or histories?](https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/)
 
-- [Profilerpedia: Software Profiling Tool Catalog](https://profilerpedia.markhansen.co.nz/)
+- [Stream to chromecast with resolved, vlc and bash](https://linderud.dev/blog/stream-to-chromecast-with-resolved-vlc-and-bash/)
 
-- [In 2024, please switch to Firefox](https://roytanck.com/2023/12/23/in-2024-please-switch-to-firefox/)
+- [Fixing Macs Door to Door](https://matduggan.com/fixing-macs-door-to-door/)
 
-- [What I'd like to see for Async Rust in 2024](https://smallcultfollowing.com/babysteps/blog/2024/01/03/async-rust-2024/)
+- [Linux & TPMs](https://media.ccc.de/v/all-systems-go-2023-186-linux-tpms)
 
-- [What is the index of an empty string in an empty string?](https://successfulsoftware.net/2023/12/13/what-is-the-index-of-an-empty-string-in-an-empty-string/)
+- [antlir2: Deterministic image builds with buck2](https://media.ccc.de/v/all-systems-go-2023-223-antlir2-deterministic-image-builds-with-buck2)
 
-- [Birb + Fossil: An RSS Revival?](https://timkellogg.me/blog/2024/01/03/birb)
+- [Driverless User Space File Systems for Windows, macOS, and Linux](https://thelig.ht/user-space-file-systems/)
 
-- [How the PostgreSQL optimizer works to speed up queries](https://www.cybertec-postgresql.com/en/how-the-postgresql-query-optimizer-works/)
+- [Retrospective on Viberary](https://vickiboykis.com/2024/01/05/retro-on-viberary/)
 
-- [Elixir Dev Environment With Nix Flakes](https://www.mathiaspolligkeit.com/elixir-dev-environment-with-nix-flakes/)
+- [Automate your outgoing webmentions with Webmention.app](https://webmention.app/)
 
-- [The One Billion Row Challenge](https://www.morling.dev/blog/one-billion-row-challenge/)
+- [Create Webhook for Email](https://www.email2json.com)
 
-- [Rigol DHO914S vs Siglent 1104X-E](https://www.sebortiz.com/post/rigol_vs_siglent/)
+- [The World and the Machine](https://www.hillelwayne.com/post/world-vs-machine/)
 
-- [Vim 9.1 released](https://www.vim.org/vim-9.1-released.php)
+- [Dennis Ritchie on & | vs. ==](https://www.lysator.liu.se/c/dmr-on-or.html)
+
+- [Why bad scientific code beats code following "best practices" (2014)](https://yosefk.com/blog/why-bad-scientific-code-beats-code-following-best-practices.html)
