@@ -1,49 +1,45 @@
-- [NATO Software Engineering Conferences](http://homepages.cs.ncl.ac.uk/brian.randell/NATO/index.html)
+- [missing the point of webassembly](http://wingolog.org/archives/2024/01/08/missing-the-point-of-webassembly)
 
-- [scheme modules vs whole-program compilation: fight](http://wingolog.org/archives/2024/01/05/scheme-modules-vs-whole-program-compilation-fight)
+- [SQLite 3.45: Interactive release notes](https://antonz.org/sqlite-3-45/)
 
-- [Learnable Programming](http://worrydream.com/LearnableProgramming/)
+- [The browsers biggest TLS mistake](https://blog.benjojo.co.uk/post/browsers-biggest-tls-mistake)
 
-- [In-browser code playgrounds](https://antonz.org/in-browser-code-playgrounds/)
+- [SSH based comment system](https://blog.haschek.at/2023/ssh-based-comment-system.html)
 
-- [Maestro - A Unix-like kernel and operating system written in Rust](https://blog.lenot.re/a/introduction)
+- [Error handling in Go web apps shouldn't be so awkward](https://boldlygo.tech/posts/2024-01-08-error-handling/)
 
-- [NetBSD 10.0 RC2 available](https://blog.netbsd.org/tnf/entry/netbsd_10_0_rc2_available)
+- [A Global Design System](https://bradfrost.com/blog/post/a-global-design-system/)
 
-- [systemd through the eyes of a musl distribution maintainer](https://catfox.life/2024/01/05/systemd-through-the-eyes-of-a-musl-distribution-maintainer/)
+- [Comparing lambdas in various languages (2020)](https://brevzin.github.io/c++/2020/06/18/lambda-lambda-lambda/)
 
-- [GPT in 500 lines of SQL](https://explainextended.com/2023/12/31/happy-new-year-15/)
+- [Why all([]) is true, prod([]) is 1, etc](https://buttondown.email/hillelwayne/archive/why-any-is-true-prod-is-1-etc/)
 
-- [how quick is the go compiler: can you use go for scripting?](https://flak.tedunangst.com/post/how-fast-is-the-go-compiler)
+- [Recovering markdown files from generated html](https://drewsh.com/getting-source-back-from-blogposts.html)
 
-- [Flame v0.6.0 – Data model and query library for Firestore](https://flame-odm.com/docs)
+- [Expr - 5 Years in the Making](https://expr-lang.org/blog/five-years-in-making)
 
-- [A better publishing workflow for static blogs](https://garrit.xyz/posts/2024-01-06-a-better-publishing-workflow-for-static-blogs)
+- [Extending the month to infinity](https://feaneron.com/2023/09/15/extending-the-month-to-infinity/)
 
-- [tex-oberon: Make Project Oberon Pretty Again](https://github.com/guidoism/tex-oberon)
+- [How to stop Linux threads cleanly](https://mazzo.li/posts/stopping-linux-threads.html)
 
-- [The origins of J](https://github.com/kelas/ooj)
+- [“Elixir is, officially, a gradually typed language”](https://nitter.net/josevalim/status/1744395345872683471)
 
-- [Do we think of git commits as diffs, snapshots, and/or histories?](https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/)
+- [Writing a minimal in-memory storage engine for MySQL/MariaDB](https://notes.eatonphil.com/2024-01-09-minimal-in-memory-storage-engine-for-mysql.html)
 
-- [Stream to chromecast with resolved, vlc and bash](https://linderud.dev/blog/stream-to-chromecast-with-resolved-vlc-and-bash/)
+- [The Two Reacts](https://overreacted.io/the-two-reacts/)
 
-- [Fixing Macs Door to Door](https://matduggan.com/fixing-macs-door-to-door/)
+- [Tail-Recursive & Body-Recursive Function Performance Across Elixir & BEAM versions – what’s the impact of the JIT?](https://pragtob.wordpress.com/2024/01/08/tail-recursive-body-recursive-function-performance-across-elixir-beam-versions-whats-the-impact-of-the-jit/)
 
-- [Linux & TPMs](https://media.ccc.de/v/all-systems-go-2023-186-linux-tpms)
+- [NumPy 2 is coming: preventing breakage, updating your code](https://pythonspeed.com/articles/numpy-2/)
 
-- [antlir2: Deterministic image builds with buck2](https://media.ccc.de/v/all-systems-go-2023-223-antlir2-deterministic-image-builds-with-buck2)
+- [My PostgreSQL wishlist](https://ryanguill.com/postgresql/sql/2024/01/08/postgresql-wishlist.html)
 
-- [Driverless User Space File Systems for Windows, macOS, and Linux](https://thelig.ht/user-space-file-systems/)
+- [Python 3.13 gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
 
-- [Retrospective on Viberary](https://vickiboykis.com/2024/01/05/retro-on-viberary/)
+- [path.join Considered Harmful, or openat() All The Things](https://val.packett.cool/blog/use-openat/)
 
-- [Automate your outgoing webmentions with Webmention.app](https://webmention.app/)
+- [Using Git offline](https://www.gibbard.me/using_git_offline/)
 
-- [Create Webhook for Email](https://www.email2json.com)
+- [Introducing the OCaml Local Mode](https://www.youtube.com/watch?v=PgUsmO0YyQc&list=PLCiAikFFaMJrgFrWRKn0-1EI3gVZLQJtJ)
 
-- [The World and the Machine](https://www.hillelwayne.com/post/world-vs-machine/)
-
-- [Dennis Ritchie on & | vs. ==](https://www.lysator.liu.se/c/dmr-on-or.html)
-
-- [Why bad scientific code beats code following "best practices" (2014)](https://yosefk.com/blog/why-bad-scientific-code-beats-code-following-best-practices.html)
+- [Embedding the Sophia runtime into Go applications](https://xnacly.me/posts/2024/embed-sophia/)
