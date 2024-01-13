@@ -1,45 +1,45 @@
-- [missing the point of webassembly](http://wingolog.org/archives/2024/01/08/missing-the-point-of-webassembly)
+- [How Threads will integrate with the Fediverse](http://plasticbag.org/archives/2024/01/how-threads-will-integrate-with-the-fediverse/)
 
-- [SQLite 3.45: Interactive release notes](https://antonz.org/sqlite-3-45/)
+- [Class invariants](https://akrzemi1.wordpress.com/2024/01/07/class-invariants/)
 
-- [The browsers biggest TLS mistake](https://blog.benjojo.co.uk/post/browsers-biggest-tls-mistake)
+- [Exploring Podman: A More Secure Docker Alternative](https://betterstack.com/community/guides/scaling-docker/podman-vs-docker/)
 
-- [SSH based comment system](https://blog.haschek.at/2023/ssh-based-comment-system.html)
+- [Server-side rendering local dates without FOUC](https://blog.6nok.org/server-side-rendering-local-dates-without-fouc/)
 
-- [Error handling in Go web apps shouldn't be so awkward](https://boldlygo.tech/posts/2024-01-08-error-handling/)
+- [Where is all of the fediverse?](https://blog.benjojo.co.uk/post/who-hosts-the-fediverse-instances)
 
-- [A Global Design System](https://bradfrost.com/blog/post/a-global-design-system/)
+- [Attack of the week: Airdrop tracing](https://blog.cryptographyengineering.com/2024/01/11/attack-of-the-week-airdrop-tracing/)
 
-- [Comparing lambdas in various languages (2020)](https://brevzin.github.io/c++/2020/06/18/lambda-lambda-lambda/)
+- [Graph Galaxy now supports GVPR](https://blog.graphgalaxy.com/pipeline-graph-to-gvpr.html)
 
-- [Why all([]) is true, prod([]) is 1, etc](https://buttondown.email/hillelwayne/archive/why-any-is-true-prod-is-1-etc/)
+- [Wayland really breaks things… Just for now?](https://blog.tenstral.net/2024/01/wayland-really-breaks-things-just-for-now.html)
 
-- [Recovering markdown files from generated html](https://drewsh.com/getting-source-back-from-blogposts.html)
+- [You (Might) Only Need a Tablet for Computer Science](https://ezrizhu.com/blog/tablet-for-cs)
 
-- [Expr - 5 Years in the Making](https://expr-lang.org/blog/five-years-in-making)
+- [FreeBSD Journal 2023/11-12 Issue](https://freebsdfoundation.org/past-issues/freebsd-14-0/)
 
-- [Extending the month to infinity](https://feaneron.com/2023/09/15/extending-the-month-to-infinity/)
+- [Is htmx Just Another JavaScript Framework?](https://htmx.org/essays/is-htmx-another-javascript-framework/)
 
-- [How to stop Linux threads cleanly](https://mazzo.li/posts/stopping-linux-threads.html)
+- [Scaling Golang to 192 Cores with Heavy I/O](https://jazco.dev/2024/01/10/golang-and-epoll/)
 
-- [“Elixir is, officially, a gradually typed language”](https://nitter.net/josevalim/status/1744395345872683471)
+- [jsfree: a community-curated collection of web services that work without JavaScript](https://jsfree.org/)
 
-- [Writing a minimal in-memory storage engine for MySQL/MariaDB](https://notes.eatonphil.com/2024-01-09-minimal-in-memory-storage-engine-for-mysql.html)
+- [How my link blog works](https://justinmiller.io/posts/2024/01/11/link-blog/)
 
-- [The Two Reacts](https://overreacted.io/the-two-reacts/)
+- [Introduction to Apache Hudi](https://medium.com/p/209521970112)
 
-- [Tail-Recursive & Body-Recursive Function Performance Across Elixir & BEAM versions – what’s the impact of the JIT?](https://pragtob.wordpress.com/2024/01/08/tail-recursive-body-recursive-function-performance-across-elixir-beam-versions-whats-the-impact-of-the-jit/)
+- [Nuemark: Markdown dialect for rich, interactive content](https://nuejs.org/blog/introducing-nuemark/)
 
-- [NumPy 2 is coming: preventing breakage, updating your code](https://pythonspeed.com/articles/numpy-2/)
+- [Statement regarding the ongoing SourceHut outage](https://outage.sr.ht/)
 
-- [My PostgreSQL wishlist](https://ryanguill.com/postgresql/sql/2024/01/08/postgresql-wishlist.html)
+- [Generating SVG for the Prime Knots](https://prideout.net/blog/svg_knots/)
 
-- [Python 3.13 gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+- [CSS-Sweeper - MineSweeper implemented in CSS + HTML using the Space Toggle trick (no JavaScript!)](https://propjockey.github.io/css-sweeper/)
 
-- [path.join Considered Harmful, or openat() All The Things](https://val.packett.cool/blog/use-openat/)
+- [Understanding Generative AI: Part Two - Neural Networks](https://scorpil.com/post/understanding-generative-ai-part-two-neural-networks/)
 
-- [Using Git offline](https://www.gibbard.me/using_git_offline/)
+- [The tidy tools manifesto](https://tidyverse.tidyverse.org/articles/manifesto.html)
 
-- [Introducing the OCaml Local Mode](https://www.youtube.com/watch?v=PgUsmO0YyQc&list=PLCiAikFFaMJrgFrWRKn0-1EI3gVZLQJtJ)
+- [FreeBSD Desktop Audio Improvements](https://vermaden.wordpress.com/2024/01/13/freebsd-desktop-part-29-configuration-audio-improvements/)
 
-- [Embedding the Sophia runtime into Go applications](https://xnacly.me/posts/2024/embed-sophia/)
+- [Memo: an incremental computation library that powers Dune](https://www.youtube.com/watch?v=MjWx_qfEQXg)
