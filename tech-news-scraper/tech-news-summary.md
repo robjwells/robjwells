@@ -1,45 +1,47 @@
-- [How Threads will integrate with the Fediverse](http://plasticbag.org/archives/2024/01/how-threads-will-integrate-with-the-fediverse/)
+- [The First DOS Machine (2007)](http://dosmandrivel.blogspot.com/2007/11/first-dos-machine.html)
 
-- [Class invariants](https://akrzemi1.wordpress.com/2024/01/07/class-invariants/)
+- [Lessons Learned](http://theprogrammersparadox.blogspot.com/2024/01/lessons-learned.html)
 
-- [Exploring Podman: A More Secure Docker Alternative](https://betterstack.com/community/guides/scaling-docker/podman-vs-docker/)
+- [almost all of fish shell has been rewritten in rust](https://aus.social/@zanchey/111760402786767224)
 
-- [Server-side rendering local dates without FOUC](https://blog.6nok.org/server-side-rendering-local-dates-without-fouc/)
+- [Simulating Slices of iOS Apps](https://axleos.com/simulating-slices-of-ios-apps/)
 
-- [Where is all of the fediverse?](https://blog.benjojo.co.uk/post/who-hosts-the-fediverse-instances)
+- [PIDs: Creating Stable Control in Games](https://azeemba.com/posts/pids-creating-stable-control-in-games.html)
 
-- [Attack of the week: Airdrop tracing](https://blog.cryptographyengineering.com/2024/01/11/attack-of-the-week-airdrop-tracing/)
+- [Python Packaging, One Year Later](https://chriswarrick.com/blog/2024/01/15/python-packaging-one-year-later/)
 
-- [Graph Galaxy now supports GVPR](https://blog.graphgalaxy.com/pipeline-graph-to-gvpr.html)
+- [High-speed 10Gbps full-mesh network based on USB4 for just $47.98](https://fangpenlin.com/posts/2024/01/14/high-speed-usb4-mesh-network/)
 
-- [Wayland really breaks things… Just for now?](https://blog.tenstral.net/2024/01/wayland-really-breaks-things-just-for-now.html)
+- [Upgrading an old Alpine Linux VM (or: My Yak Shaving on this Snowy Day)](https://geoff.tuxpup.com/posts/upgrading-alpine-too-long/)
 
-- [You (Might) Only Need a Tablet for Computer Science](https://ezrizhu.com/blog/tablet-for-cs)
+- [Rust and C filesystem APIs](https://lwn.net/SubscriberLink/958072/b08250c903a1097b/)
 
-- [FreeBSD Journal 2023/11-12 Issue](https://freebsdfoundation.org/past-issues/freebsd-14-0/)
+- [Exploring object file formats](https://maskray.me/blog/2024-01-14-exploring-object-file-formats)
 
-- [Is htmx Just Another JavaScript Framework?](https://htmx.org/essays/is-htmx-another-javascript-framework/)
+- [Setting up Nix on macOS](https://nixcademy.com/2024/01/15/nix-on-macos/)
 
-- [Scaling Golang to 192 Cores with Heavy I/O](https://jazco.dev/2024/01/10/golang-and-epoll/)
+- [Hub for systemd-nspawn containers and images](https://nspawn.org/)
 
-- [jsfree: a community-curated collection of web services that work without JavaScript](https://jsfree.org/)
+- [RSA is deceptively simple (and fun)](https://ntietz.com/blog/rsa-deceptively-simple/)
 
-- [How my link blog works](https://justinmiller.io/posts/2024/01/11/link-blog/)
+- [The bane of my existence: Supporting both async and sync code in Rust](https://nullderef.com/blog/rust-async-sync/)
 
-- [Introduction to Apache Hudi](https://medium.com/p/209521970112)
+- [Some Memories of Niklaus Wirth](https://odersky.github.io/blog/2024-01-04-post.html)
 
-- [Nuemark: Markdown dialect for rich, interactive content](https://nuejs.org/blog/introducing-nuemark/)
+- [When Random Isn't](https://orlp.net/blog/when-random-isnt/)
 
-- [Statement regarding the ongoing SourceHut outage](https://outage.sr.ht/)
+- [I Used Netscape Composer in 2024](https://plbrault.com/blog-posts/i-used-netscape-composer-in-2024-en/)
 
-- [Generating SVG for the Prime Knots](https://prideout.net/blog/svg_knots/)
+- [Dynamic Programming is not Black Magic](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
 
-- [CSS-Sweeper - MineSweeper implemented in CSS + HTML using the Space Toggle trick (no JavaScript!)](https://propjockey.github.io/css-sweeper/)
+- [Ruffle: 2023 in review](https://ruffle.rs/blog/2024/01/14/2023-in-review)
 
-- [Understanding Generative AI: Part Two - Neural Networks](https://scorpil.com/post/understanding-generative-ai-part-two-neural-networks/)
+- [If you want to label your code, consider Label-ing your code](https://www.codesections.com/blog/label-your-code/)
 
-- [The tidy tools manifesto](https://tidyverse.tidyverse.org/articles/manifesto.html)
+- [Haiku Activity & Contract Report, December 2023](https://www.haiku-os.org/blog/waddlesplash/2024-01-12_haiku_activity_contract_report_december_2023)
 
-- [FreeBSD Desktop Audio Improvements](https://vermaden.wordpress.com/2024/01/13/freebsd-desktop-part-29-configuration-audio-improvements/)
+- [Oils 0.19.0 - Dicts, Procs, Funcs, and Places](https://www.oilshell.org/blog/2024/01/release-0.19.0.html)
 
-- [Memo: an incremental computation library that powers Dune](https://www.youtube.com/watch?v=MjWx_qfEQXg)
+- [A 2024 Discussion Whether To Convert The Linux Kernel From C To Modern C++](https://www.phoronix.com/news/CPP-Linux-Kernel-2024-Discuss)
+
+- [SQLite: Wal2 Mode Notes](https://www.sqlite.org/cgi/src/doc/wal2/doc/wal2.md)
