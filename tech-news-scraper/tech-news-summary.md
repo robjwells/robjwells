@@ -1,47 +1,47 @@
-- [The First DOS Machine (2007)](http://dosmandrivel.blogspot.com/2007/11/first-dos-machine.html)
+- [A 2024 Plea for Lean Software (with running code)](https://berthub.eu/articles/posts/a-2024-plea-for-lean-software/)
 
-- [Lessons Learned](http://theprogrammersparadox.blogspot.com/2024/01/lessons-learned.html)
+- [Trifecta Technology](https://berthub.eu/articles/posts/trifecta-technology/)
 
-- [almost all of fish shell has been rewritten in rust](https://aus.social/@zanchey/111760402786767224)
+- [HTMX and Web Components: a Perfect Match](https://binaryigor.com/htmx-and-web-components-a-perfect-match.html)
 
-- [Simulating Slices of iOS Apps](https://axleos.com/simulating-slices-of-ios-apps/)
+- [Will the new judicial ruling in the Vizio lawsuit strengthen the GPL?](https://blog.tidelift.com/will-the-new-judicial-ruling-in-the-vizio-lawsuit-strengthen-the-gpl)
 
-- [PIDs: Creating Stable Control in Games](https://azeemba.com/posts/pids-creating-stable-control-in-games.html)
+- [LeftoverLocals:  Listening to LLM responses through leaked GPU local memory](https://blog.trailofbits.com/2024/01/16/leftoverlocals-listening-to-llm-responses-through-leaked-gpu-local-memory/)
 
-- [Python Packaging, One Year Later](https://chriswarrick.com/blog/2024/01/15/python-packaging-one-year-later/)
+- [From 0 to 1 MB in DOS](https://blogsystem5.substack.com/p/from-0-to-1-mb-in-dos)
 
-- [High-speed 10Gbps full-mesh network based on USB4 for just $47.98](https://fangpenlin.com/posts/2024/01/14/high-speed-usb4-mesh-network/)
+- [FAA Safety Continuum Doctrine](https://downloads.regulations.gov/FAA-2015-1621-0018/attachment_1.pdf)
 
-- [Upgrading an old Alpine Linux VM (or: My Yak Shaving on this Snowy Day)](https://geoff.tuxpup.com/posts/upgrading-alpine-too-long/)
+- [Dave Mills has passed away](https://elists.isoc.org/pipermail/internet-history/2024-January/009265.html)
 
-- [Rust and C filesystem APIs](https://lwn.net/SubscriberLink/958072/b08250c903a1097b/)
+- [Using `mem::take` to reduce heap allocations](https://ferrous-systems.com/blog/rustls-borrow-checker-p1/)
 
-- [Exploring object file formats](https://maskray.me/blog/2024-01-14-exploring-object-file-formats)
+- [Cost per Request](https://garrit.xyz/posts/2024-01-18-cost-per-request)
 
-- [Setting up Nix on macOS](https://nixcademy.com/2024/01/15/nix-on-macos/)
+- [Using "will" and "should" in technical writing](https://jamesg.blog/2024/01/17/will-should/)
 
-- [Hub for systemd-nspawn containers and images](https://nspawn.org/)
+- [systemd: enable indefinite service restarts](https://michael.stapelberg.ch/posts/2024-01-17-systemd-indefinite-service-restarts/)
 
-- [RSA is deceptively simple (and fun)](https://ntietz.com/blog/rsa-deceptively-simple/)
+- [Perf is not enough](https://motherduck.com/blog/perf-is-not-enough/)
 
-- [The bane of my existence: Supporting both async and sync code in Rust](https://nullderef.com/blog/rust-async-sync/)
+- [Scalable OLTP in the Cloud: What’s the big deal?](https://muratbuffalo.blogspot.com/2024/01/scalable-oltp-in-cloud-whats-big-deal.html)
 
-- [Some Memories of Niklaus Wirth](https://odersky.github.io/blog/2024-01-04-post.html)
+- [How to Design an ISA](https://queue.acm.org/detail.cfm?id=3639445)
 
-- [When Random Isn't](https://orlp.net/blog/when-random-isnt/)
+- [Test command line application written in Rust](https://rust.code-maven.com/test-command-line-application)
 
-- [I Used Netscape Composer in 2024](https://plbrault.com/blog-posts/i-used-netscape-composer-in-2024-en/)
+- [You (Might) Only Need a Microcontroller (and a Server) for Computer Science](https://snats.xyz/pages/articles/all_you_need_is_a_microcontroller.html)
 
-- [Dynamic Programming is not Black Magic](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
+- [htmx is composable??](https://timkellogg.me/blog/2024/01/17/htmx)
 
-- [Ruffle: 2023 in review](https://ruffle.rs/blog/2024/01/14/2023-in-review)
+- [Willow protocol](https://willowprotocol.org/)
 
-- [If you want to label your code, consider Label-ing your code](https://www.codesections.com/blog/label-your-code/)
+- [Gambit-C: Embedding C code directly in Scheme](https://www.deusinmachina.net/p/gambit-c-scheme-and-c-a-match-made)
 
-- [Haiku Activity & Contract Report, December 2023](https://www.haiku-os.org/blog/waddlesplash/2024-01-12_haiku_activity_contract_report_december_2023)
+- [The Director of "Toy Story" also drew the BSD Daemon logo](https://www.jacobelder.com/2024/01/17/director-of-toy-story-also-drew-bsd-daemon.html)
 
-- [Oils 0.19.0 - Dicts, Procs, Funcs, and Places](https://www.oilshell.org/blog/2024/01/release-0.19.0.html)
+- [Inside the Massive Naz.API Credential Stuffing List](https://www.troyhunt.com/inside-the-massive-naz-api-credential-stuffing-list/)
 
-- [A 2024 Discussion Whether To Convert The Linux Kernel From C To Modern C++](https://www.phoronix.com/news/CPP-Linux-Kernel-2024-Discuss)
+- [Inside Igalia: Scaling a Tech Co-Op Beyond 100 Members](https://www.youtube.com/watch?v=du7fC8VCbXg)
 
-- [SQLite: Wal2 Mode Notes](https://www.sqlite.org/cgi/src/doc/wal2/doc/wal2.md)
+- [2024 Financial Report and Fundraiser](https://ziglang.org/news/2024-financials/#2024-financial-report-and-fundraiser)
