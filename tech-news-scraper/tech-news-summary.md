@@ -1,49 +1,49 @@
-- [Clean pointer serialization in C](https://30fps.net/pages/clean-pointer-serialization/)
+- [The possibility of making $138,000 from shredded banknote pieces using computer vision](https://arxiv.org/ftp/arxiv/papers/2401/2401.06133.pdf)
 
-- [Platform Tilt: Documenting the Uneven Playing Field for an Independent Browser Like Firefox](https://blog.mozilla.org/netpolicy/2024/01/19/platform-tilt/)
+- [On “owning” software](https://avdi.codes/on-owning-software/)
 
-- [Investigating a vanishing BIOS on the Fujitsu LIFEBOOK AH532](https://blog.timschumi.net/2024/01/20/ah532-bios-investigation.html)
+- [scrapscript.py](https://bernsteinbear.com/blog/scrapscript/)
 
-- [The Bun Shell](https://bun.sh/blog/the-bun-shell)
+- [Kind of annoyed at React](https://blog.cassidoo.co/post/annoyed-at-react/)
 
-- [Ceph: A Journey to 1 TiB/s](https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/)
+- [Unsigned Commits](https://blog.glyph.im/2024/01/unsigned-commits.html)
 
-- [Linux on an 8-bit micro? (2012)](https://dmitry.gr/?r=05.Projects&proj=07.%20Linux%20on%208bit)
+- [Avoid Async Rust](https://blog.hugpoint.tech/avoid_async_rust.html)
 
-- [Data Model Debt is Forever](https://emmanuelgenard.com/software-design/2024/01/19/data-model-debt-is-forever/)
+- [4 reasons to try Mozilla’s new Firefox Linux package for Ubuntu and Debian derivatives](https://blog.mozilla.org/en/products/4-reasons-to-try-mozillas-new-firefox-linux-package-for-ubuntu-and-debian-derivatives/)
 
-- [Common Lisp VS Racket. Feedback from lispers. (2021)](https://gist.github.com/vindarel/c1ef5e043773921e3b11d8f4fe1ca7ac)
+- [TCL on the brain/worms](https://cohost.org/sakiamu/post/177439-tcl-on-the-brain)
 
-- [Programming with Spaces](https://github.com/pSpaces/Programming-with-Spaces)
+- [Insanely Great: The Apple Mac at 40](https://computerhistory.org/events/insanely-great/)
 
-- [Our least favourite x86 instruction](https://hackerbirds.neocities.org/x86-lea/)
+- [Nominal Types in Rust](https://experimentalworks.net/posts/2024-01-22-simple-phantom-types/)
 
-- [Implementing System-Versioned Tables in Postgres](https://hypirion.com/musings/implementing-system-versioned-tables-in-postgres)
+- [The History of Nix at Bellroy](https://exploring-better-ways.bellroy.com/the-history-of-nix-at-bellroy.html)
 
-- [Why Python is terrible](https://josvisser.substack.com/p/why-python-is-terrible)
+- [ZX Spectrum Raytracer](https://gabrielgambetta.com/zx-raytracer.html)
 
-- [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
+- [mtm: Perhaps the smallest useful terminal multiplexer in the world](https://github.com/deadpixi/mtm)
 
-- [C23: a slightly better C](https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/)
+- [Making Rust binaries smaller by default](https://kobzol.github.io/rust/cargo/2024/01/23/making-rust-binaries-smaller-by-default.html)
 
-- [Python packaging must be getting better: a datapoint](https://lukeplant.me.uk/blog/posts/python-packaging-must-be-getting-better-a-datapoint/)
+- [Web Components in Earnest](https://naildrivin5.com/blog/2024/01/24/web-components-in-earnest.html)
 
-- [mseal() gets closer](https://lwn.net/SubscriberLink/958438/d5f91f251b309612/)
+- [You (probably) don’t need to learn C](https://nedbatchelder.com/blog/202401/you_probably_dont_need_to_learn_c.html)
 
-- [Why Go is my favorite programming language (2017)](https://michael.stapelberg.ch/posts/2017-08-19-golang_favorite/)
+- [Speeding up zsh startup](https://notes.billmill.org/computer_usage/zsh/profiling_zsh_startup.html)
 
-- [Nightshade: Protecting Copyright](https://nightshade.cs.uchicago.edu/whatis.html)
+- [The 286's internal registers](https://rep-lodsb.mataroa.blog/blog/the-286s-internal-registers/)
 
-- [Reversing the Web-@nywhere Watch: browse fragments of the Web on your wrist](https://oldvcr.blogspot.com/2024/01/reversing-web-nywhere-watch-browse.html)
+- [Parallel stream processing with zero-copy fan-out and sharding](https://stevana.github.io/parallel_stream_processing_with_zero-copy_fan-out_and_sharding.html)
 
-- [The Open Source Sustainability Crisis](https://openpath.chadwhitacre.com/2024/the-open-source-sustainability-crisis/)
+- [Self-contained Linux applications with lone lisp](https://www.matheusmoreira.com/articles/self-contained-lone-lisp-applications)
 
-- [Reading QR codes without a computer](https://qr.blinry.org)
+- [Smoother sailing: Studying audio imperfections in Steamboat Willie](https://www.windytan.com/2024/01/smoother-sailing-steamboat-willie-flutter.html)
 
-- [TextAnalysisTool.NET](https://textanalysistool.github.io/)
+- [Egel - The Movie](https://www.youtube.com/watch?v=XCOIDUFMBVQ&ab_channel=MarcoDevillers)
 
-- [Ditching GitHub](https://tomscii.sig7.se/2024/01/Ditching-GitHub)
+- [Why SQL hang for exactly 940s? TCP and Async Rust](https://xuanwo.io/2024/01-why-sql-hang-for-exactly-940s/)
 
-- [So you think you know C?](https://wordsandbuttons.online/so_you_think_you_know_c.html)
+- [Zed is now open source](https://zed.dev/blog/zed-is-now-open-source)
 
-- [Collision Detection](https://www.jeffreythompson.org/collision-detection/index.php)
+- [Donor Bounties: A New Kind of Feature Bounty](https://ziglang.org/news/announcing-donor-bounties/)
