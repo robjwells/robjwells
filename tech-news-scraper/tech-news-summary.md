@@ -1,49 +1,49 @@
-- [The possibility of making $138,000 from shredded banknote pieces using computer vision](https://arxiv.org/ftp/arxiv/papers/2401/2401.06133.pdf)
+- [Lossy CSS compression for fun and loss (or profit)](https://blog.danieljanus.pl/2024/01/26/lossy-css-compression/)
 
-- [On “owning” software](https://avdi.codes/on-owning-software/)
+- [Identifying Rust’s collect::<Vec>() memory leak footgun](https://blog.polybdenum.com/2024/01/17/identifying-the-collect-vec-memory-leak-footgun.html)
 
-- [scrapscript.py](https://bernsteinbear.com/blog/scrapscript/)
+- [This Web Page is Best Viewed in the EU](https://cloudfour.com/thinks/this-web-page-is-best-viewed-in-the-eu/)
 
-- [Kind of annoyed at React](https://blog.cassidoo.co/post/annoyed-at-react/)
+- [Using alternative browser engines in the European Union](https://developer.apple.com/support/alternative-browser-engines/)
 
-- [Unsigned Commits](https://blog.glyph.im/2024/01/unsigned-commits.html)
+- [Switching to the meow modal editing system from evil](https://esrh.me/posts/2021-12-18-switching-to-meow.html)
 
-- [Avoid Async Rust](https://blog.hugpoint.tech/avoid_async_rust.html)
+- [c_std: Implementation of C++ standard libraries in C](https://github.com/KaisenAmin/c_std)
 
-- [4 reasons to try Mozilla’s new Firefox Linux package for Ubuntu and Debian derivatives](https://blog.mozilla.org/en/products/4-reasons-to-try-mozillas-new-firefox-linux-package-for-ubuntu-and-debian-derivatives/)
+- [Playing around with Ultra HDR](https://github.com/albertz/playground/wiki/HDR-demo)
 
-- [TCL on the brain/worms](https://cohost.org/sakiamu/post/177439-tcl-on-the-brain)
+- [Oasis: a small statically-linked linux system](https://github.com/oasislinux/oasis)
 
-- [Insanely Great: The Apple Mac at 40](https://computerhistory.org/events/insanely-great/)
+- [Topaz Unicode](https://gitlab.com/Screwtapello/topaz-unicode#topaz-unicode)
 
-- [Nominal Types in Rust](https://experimentalworks.net/posts/2024-01-22-simple-phantom-types/)
+- [Please, don’t force me to log in](https://hamatti.org/posts/please-dont-force-me-to-log-in/)
 
-- [The History of Nix at Bellroy](https://exploring-better-ways.bellroy.com/the-history-of-nix-at-bellroy.html)
+- [ArVid: how Russians squeezed 4 hard drives into one VHS tape in the 90s](https://jacobfilipp.com/arvid-vhs/)
 
-- [ZX Spectrum Raytracer](https://gabrielgambetta.com/zx-raytracer.html)
+- [Inside .git](https://jvns.ca/blog/2024/01/26/inside-git/)
 
-- [mtm: Perhaps the smallest useful terminal multiplexer in the world](https://github.com/deadpixi/mtm)
+- [Long Term Refactors](https://max.engineer/long-term-refactors)
 
-- [Making Rust binaries smaller by default](https://kobzol.github.io/rust/cargo/2024/01/23/making-rust-binaries-smaller-by-default.html)
+- [Lessons Learned From Payments Startups](https://pgrs.net/2024/01/26/lessons-learned-from-payemnts-startups/)
 
-- [Web Components in Earnest](https://naildrivin5.com/blog/2024/01/24/web-components-in-earnest.html)
+- [UEVR: An Exploration of Advanced Game Hacking Techniques](https://praydog.com/reverse-engineering/2023/07/03/uevr.html)
 
-- [You (probably) don’t need to learn C](https://nedbatchelder.com/blog/202401/you_probably_dont_need_to_learn_c.html)
+- [Patching pydantic settings in pytest](https://rednafi.com/python/patch_pydantic_settings_in_pytest/)
 
-- [Speeding up zsh startup](https://notes.billmill.org/computer_usage/zsh/profiling_zsh_startup.html)
+- [Two months in Servo: better inline layout, stable Rust, and more](https://servo.org/blog/2024/01/26/two-months-in-servo/)
 
-- [The 286's internal registers](https://rep-lodsb.mataroa.blog/blog/the-286s-internal-registers/)
+- [Rook to XSS: How I hacked chess.com with a rookie exploit](https://skii.dev/rook-to-xss/)
 
-- [Parallel stream processing with zero-copy fan-out and sharding](https://stevana.github.io/parallel_stream_processing_with_zero-copy_fan-out_and_sharding.html)
+- [Turing Complete (learning game)](https://turingcomplete.game/)
 
-- [Self-contained Linux applications with lone lisp](https://www.matheusmoreira.com/articles/self-contained-lone-lisp-applications)
+- [Aging Code](https://vadimkravcenko.com/shorts/aging-code/)
 
-- [Smoother sailing: Studying audio imperfections in Steamboat Willie](https://www.windytan.com/2024/01/smoother-sailing-steamboat-willie-flutter.html)
+- [My Impressions of Hare](https://vfoley.xyz/hare/)
 
-- [Egel - The Movie](https://www.youtube.com/watch?v=XCOIDUFMBVQ&ab_channel=MarcoDevillers)
+- [Proposed Top-Level Domain String for Private Use](https://www.icann.org/en/public-comment/proceeding/proposed-top-level-domain-string-for-private-use-24-01-2024)
 
-- [Why SQL hang for exactly 940s? TCP and Async Rust](https://xuanwo.io/2024/01-why-sql-hang-for-exactly-940s/)
+- [Zig Roadmap 2024](https://www.youtube.com/watch?v=5eL_LcxwwHg)
 
-- [Zed is now open source](https://zed.dev/blog/zed-is-now-open-source)
+- [The World's First Microprocessor: F-14 Central Air Data Computer](https://www.youtube.com/watch?v=YpruA5mC7wg)
 
-- [Donor Bounties: A New Kind of Feature Bounty](https://ziglang.org/news/announcing-donor-bounties/)
+- [A look inside `memcmp` on Intel AVX2 hardware](https://xoranth.net/memcmp-avx2/)
