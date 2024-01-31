@@ -1,49 +1,45 @@
-- [Lossy CSS compression for fun and loss (or profit)](https://blog.danieljanus.pl/2024/01/26/lossy-css-compression/)
+- [Reverse Engineering DOS Software as if It Were 1990](https://and0uille.net/misc/debug90.html)
 
-- [Identifying Rust’s collect::<Vec>() memory leak footgun](https://blog.polybdenum.com/2024/01/17/identifying-the-collect-vec-memory-leak-footgun.html)
+- [Beej's Guide to Networking Concepts](https://beej.us/guide/bgnet0/)
 
-- [This Web Page is Best Viewed in the EU](https://cloudfour.com/thinks/this-web-page-is-best-viewed-in-the-eu/)
+- [Notes on Cruise's pedestrian accident](https://danluu.com/cruise-report/)
 
-- [Using alternative browser engines in the European Union](https://developer.apple.com/support/alternative-browser-engines/)
+- [Understanding Parquet, Iceberg and Data Lakehouses at Broad](https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/)
 
-- [Switching to the meow modal editing system from evil](https://esrh.me/posts/2021-12-18-switching-to-meow.html)
+- [Announcing TypeScript 5.4 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-4-beta/)
 
-- [c_std: Implementation of C++ standard libraries in C](https://github.com/KaisenAmin/c_std)
+- [pg_analytics: Transforming Postgres into a Very Fast Analytical Database](https://docs.paradedb.com/blog/introducing_analytics)
 
-- [Playing around with Ultra HDR](https://github.com/albertz/playground/wiki/HDR-demo)
+- [Constructing a four-point egg](https://dotat.at/@/2024-01-29-four-point-egg.html)
 
-- [Oasis: a small statically-linked linux system](https://github.com/oasislinux/oasis)
+- [errno and libc](https://dxuuu.xyz/errno.html)
 
-- [Topaz Unicode](https://gitlab.com/Screwtapello/topaz-unicode#topaz-unicode)
+- [farolero: Common Lisp style conditions and restarts for Clojure](https://github.com/IGJoshua/farolero)
 
-- [Please, don’t force me to log in](https://hamatti.org/posts/please-dont-force-me-to-log-in/)
+- [SummerCart64 - a fully open source Nintendo 64 flashcart](https://github.com/Polprzewodnikowy/SummerCart64)
 
-- [ArVid: how Russians squeezed 4 hard drives into one VHS tape in the 90s](https://jacobfilipp.com/arvid-vhs/)
+- [PostgreSQL zero-downtime and reversible migrations](https://github.com/xataio/pgroll)
 
-- [Inside .git](https://jvns.ca/blog/2024/01/26/inside-git/)
+- [nix-direnv is a huge quality of life improvement](https://ianthehenry.com/posts/how-to-learn-nix/nix-direnv/)
 
-- [Long Term Refactors](https://max.engineer/long-term-refactors)
+- [Rust, A Game Review](https://llogiq.github.io/2019/06/07/game.html)
 
-- [Lessons Learned From Payments Startups](https://pgrs.net/2024/01/26/lessons-learned-from-payemnts-startups/)
+- [Building a GUI platform](https://lukewilliamboswell.github.io/roc-ray-experiment/)
 
-- [UEVR: An Exploration of Advanced Game Hacking Techniques](https://praydog.com/reverse-engineering/2023/07/03/uevr.html)
+- [My 2023 Homelab Setup](https://mudkip.me/2024/01/31/My-2023-Homelab-Setup/)
 
-- [Patching pydantic settings in pytest](https://rednafi.com/python/patch_pydantic_settings_in_pytest/)
+- [The art of good code review](https://philbooth.me/blog/the-art-of-good-code-review)
 
-- [Two months in Servo: better inline layout, stable Rust, and more](https://servo.org/blog/2024/01/26/two-months-in-servo/)
+- [Profiling your Numba code](https://pythonspeed.com/articles/numba-profiling/)
 
-- [Rook to XSS: How I hacked chess.com with a rookie exploit](https://skii.dev/rook-to-xss/)
+- [Self-hosted media center, based on open source software](https://roussos.cc/2024/01/29/home-media-center/)
 
-- [Turing Complete (learning game)](https://turingcomplete.game/)
+- [LSM in a Week](https://skyzh.github.io/mini-lsm/)
 
-- [Aging Code](https://vadimkravcenko.com/shorts/aging-code/)
+- [Guile Hoot v0.3.0 released](https://spritely.institute/news/guile-hoot-v030-released.html)
 
-- [My Impressions of Hare](https://vfoley.xyz/hare/)
+- [Post-quantum Cryptography for the Go Ecosystem](https://words.filippo.io/dispatches/mlkem768/)
 
-- [Proposed Top-Level Domain String for Private Use](https://www.icann.org/en/public-comment/proceeding/proposed-top-level-domain-string-for-private-use-24-01-2024)
+- [A Tour of the Lisps](https://www.fosskers.ca/en/blog/rounds-of-lisp)
 
-- [Zig Roadmap 2024](https://www.youtube.com/watch?v=5eL_LcxwwHg)
-
-- [The World's First Microprocessor: F-14 Central Air Data Computer](https://www.youtube.com/watch?v=YpruA5mC7wg)
-
-- [A look inside `memcmp` on Intel AVX2 hardware](https://xoranth.net/memcmp-avx2/)
+- [Daily Driving the Pinephone Pro](https://zerwuerfnis.org/daily-driving-the-pinephone-pro)
