@@ -1,45 +1,45 @@
-- [Reverse Engineering DOS Software as if It Were 1990](https://and0uille.net/misc/debug90.html)
+- [ksql](http://nsl.com/k/ksql.k)
+
+- [The Theory of Concatenative Combinators](http://tunes.org/~iepos/joy.html)
+
+- [ollama-bot: Bridge IRC to LMMs running locally](https://2mb.codes/~cmb/ollama-bot)
+
+- [Making a PDF that’s larger than Germany](https://alexwlchan.net/2024/big-pdf/)
 
 - [Beej's Guide to Networking Concepts](https://beej.us/guide/bgnet0/)
 
-- [Notes on Cruise's pedestrian accident](https://danluu.com/cruise-report/)
-
-- [Understanding Parquet, Iceberg and Data Lakehouses at Broad](https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/)
-
-- [Announcing TypeScript 5.4 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-4-beta/)
-
-- [pg_analytics: Transforming Postgres into a Very Fast Analytical Database](https://docs.paradedb.com/blog/introducing_analytics)
+- [Gtk: The Broadway windowing system](https://docs.gtk.org/gtk4/broadway.html)
 
 - [Constructing a four-point egg](https://dotat.at/@/2024-01-29-four-point-egg.html)
 
 - [errno and libc](https://dxuuu.xyz/errno.html)
 
-- [farolero: Common Lisp style conditions and restarts for Clojure](https://github.com/IGJoshua/farolero)
+- [Macaroons Escalated Quickly](https://fly.io/blog/macaroons-escalated-quickly/)
 
-- [SummerCart64 - a fully open source Nintendo 64 flashcart](https://github.com/Polprzewodnikowy/SummerCart64)
+- [Twine a open source multiplatform RSS app](https://github.com/msasikanth/twine)
 
-- [PostgreSQL zero-downtime and reversible migrations](https://github.com/xataio/pgroll)
+- [container breakout through process.cwd trickery and leaked fds](https://github.com/opencontainers/runc/security/advisories/GHSA-xr7r-f8xq-vfvv)
 
 - [nix-direnv is a huge quality of life improvement](https://ianthehenry.com/posts/how-to-learn-nix/nix-direnv/)
 
-- [Rust, A Game Review](https://llogiq.github.io/2019/06/07/game.html)
+- [The Web Performance Inequality Gap, 2024](https://infrequently.org/2024/01/performance-inequality-gap-2024/)
 
-- [Building a GUI platform](https://lukewilliamboswell.github.io/roc-ray-experiment/)
+- [Jepsen: RavenDB 6.0.2](https://jepsen.io/analyses/ravendb-6.0.2)
 
-- [My 2023 Homelab Setup](https://mudkip.me/2024/01/31/My-2023-Homelab-Setup/)
+- [Content hashing static assets to break caches with md5sum and bash](https://robertwpearce.com/content-hashing-static-assets-to-break-caches-with-md5sum-and-bash.html)
 
-- [The art of good code review](https://philbooth.me/blog/the-art-of-good-code-review)
+- [Slint 1.4 Released with additional Look and Improved APIs](https://slint.dev/blog/slint-1.4-released)
 
-- [Profiling your Numba code](https://pythonspeed.com/articles/numba-profiling/)
-
-- [Self-hosted media center, based on open source software](https://roussos.cc/2024/01/29/home-media-center/)
-
-- [LSM in a Week](https://skyzh.github.io/mini-lsm/)
-
-- [Guile Hoot v0.3.0 released](https://spritely.institute/news/guile-hoot-v030-released.html)
+- [SI Units for Request Rate](https://two-wrongs.com/si-units-for-request-rate)
 
 - [Post-quantum Cryptography for the Go Ecosystem](https://words.filippo.io/dispatches/mlkem768/)
 
-- [A Tour of the Lisps](https://www.fosskers.ca/en/blog/rounds-of-lisp)
+- [New Linux glibc flaw lets attackers get root on major distros](https://www.bleepingcomputer.com/news/security/new-linux-glibc-flaw-lets-attackers-get-root-on-major-distros/)
 
-- [Daily Driving the Pinephone Pro](https://zerwuerfnis.org/daily-driving-the-pinephone-pro)
+- [On-demand-fork: A Microsecond Fork for Memory-Intensive and Latency-Sensitive Applications](https://www.cs.purdue.edu/homes/pfonseca/papers/eurosys21-odf.pdf)
+
+- [Lottie format on the road to become a standard, joins Linux foundation](https://www.lottielab.com/blog/lottie-joins-linux-foundation)
+
+- [Sega AI](https://www.smspower.org/SegaAI/)
+
+- [Vision Pro Review: 24 Hours With Apple’s Mixed-Reality Headset](https://www.youtube.com/watch?v=8xI10SFgzQ8)
