@@ -1,45 +1,49 @@
-- [ksql](http://nsl.com/k/ksql.k)
+- [Reverse engineering standard cell logic in the Intel 386 processor](http://www.righto.com/2024/01/intel-386-standard-cells.html)
 
-- [The Theory of Concatenative Combinators](http://tunes.org/~iepos/joy.html)
+- [The Engineering behind Figma's Vector Networks](https://alexharri.com/blog/vector-networks)
 
-- [ollama-bot: Bridge IRC to LMMs running locally](https://2mb.codes/~cmb/ollama-bot)
+- [Achieving Safe, Aliasable Mutability with Unboxed Types](https://antelang.org/blog/safe_shared_mutability/)
 
-- [Making a PDF that’s larger than Germany](https://alexwlchan.net/2024/big-pdf/)
+- [How I reduced the size of my very first published docker image by 40% - A lesson in dockerizing shell scripts](https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/)
 
-- [Beej's Guide to Networking Concepts](https://beej.us/guide/bgnet0/)
+- [Compiling Pattern Matching](https://compiler.club/compiling-pattern-matching/)
 
-- [Gtk: The Broadway windowing system](https://docs.gtk.org/gtk4/broadway.html)
+- [Files are fraught with peril [2019]](https://danluu.com/deconstruct-files/)
 
-- [Constructing a four-point egg](https://dotat.at/@/2024-01-29-four-point-egg.html)
+- [Folk Computer](https://folk.computer/)
 
-- [errno and libc](https://dxuuu.xyz/errno.html)
+- [FOSDEM 2024 - Live Streaming](https://fosdem.org/2024/schedule/streaming/)
 
-- [Macaroons Escalated Quickly](https://fly.io/blog/macaroons-escalated-quickly/)
+- [How Firefox gives special permissions to some domains](https://frederik-braun.com/special-browser-privileges-for-some-domains.html)
 
-- [Twine a open source multiplatform RSS app](https://github.com/msasikanth/twine)
+- [Glide, an open blazing-fast model gateway for production-ready GenAI apps](https://github.com/EinStack/glide)
 
-- [container breakout through process.cwd trickery and leaked fds](https://github.com/opencontainers/runc/security/advisories/GHSA-xr7r-f8xq-vfvv)
+- [Creating a MacOS app with Lua (and nothing else)](https://github.com/mogenson/lua-macos-app)
 
-- [nix-direnv is a huge quality of life improvement](https://ianthehenry.com/posts/how-to-learn-nix/nix-direnv/)
+- [Source code for Drilbert, a short puzzle game](https://github.com/wheybags/drilbert-pub)
 
-- [The Web Performance Inequality Gap, 2024](https://infrequently.org/2024/01/performance-inequality-gap-2024/)
+- [Building a hypervisor, 1: KVM Introduction](https://iovec.net/2024-01-29)
 
-- [Jepsen: RavenDB 6.0.2](https://jepsen.io/analyses/ravendb-6.0.2)
+- [Everything I Know About SSDs (2019)](https://kcall.co.uk/ssd/index.html)
 
-- [Content hashing static assets to break caches with md5sum and bash](https://robertwpearce.com/content-hashing-static-assets-to-break-caches-with-md5sum-and-bash.html)
+- [Breaking Bitlocker - Bypassing the Windows Disk Encryption](https://m.youtube.com/watch?v=wTl4vEednkQ)
 
-- [Slint 1.4 Released with additional Look and Improved APIs](https://slint.dev/blog/slint-1.4-released)
+- [Introducing Pkl, a programming language for configuration](https://pkl-lang.org/blog/introducing-pkl.html)
 
-- [SI Units for Request Rate](https://two-wrongs.com/si-units-for-request-rate)
+- [Ratatui 0.26](https://ratatui.rs/highlights/v026/)
 
-- [Post-quantum Cryptography for the Go Ecosystem](https://words.filippo.io/dispatches/mlkem768/)
+- [Visual overview of a custom malloc() implementation](https://silent-tower.net/projects/visual-overview-malloc)
 
-- [New Linux glibc flaw lets attackers get root on major distros](https://www.bleepingcomputer.com/news/security/new-linux-glibc-flaw-lets-attackers-get-root-on-major-distros/)
+- [Sentry Overflow](https://technicalwriting.tools/posts/sentry-overflow/)
 
-- [On-demand-fork: A Microsecond Fork for Memory-Intensive and Latency-Sensitive Applications](https://www.cs.purdue.edu/homes/pfonseca/papers/eurosys21-odf.pdf)
+- [jj init](https://v5.chriskrycho.com/essays/jj-init/)
 
-- [Lottie format on the road to become a standard, joins Linux foundation](https://www.lottielab.com/blog/lottie-joins-linux-foundation)
+- [Let futures be futures](https://without.boats/blog/let-futures-be-futures/)
 
-- [Sega AI](https://www.smspower.org/SegaAI/)
+- [s/bash/zsh/g](https://www.arp242.net/why-zsh.html)
 
-- [Vision Pro Review: 24 Hours With Apple’s Mixed-Reality Headset](https://www.youtube.com/watch?v=8xI10SFgzQ8)
+- [Blogging in Djot instead of Markdown](https://www.jonashietala.se/blog/2024/02/02/blogging_in_djot_instead_of_markdown/)
+
+- [Rye: a Hassle-Free Python Experience](https://www.youtube.com/watch?v=q99TYA7LnuA)
+
+- [Method of Differences](https://ztoz.blog/posts/method-differences/)
