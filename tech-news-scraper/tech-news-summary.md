@@ -1,49 +1,49 @@
-- [Reverse engineering standard cell logic in the Intel 386 processor](http://www.righto.com/2024/01/intel-386-standard-cells.html)
+- [Leopard-Free Programming](http://ratfactor.com/cards/leopard-free)
 
-- [The Engineering behind Figma's Vector Networks](https://alexharri.com/blog/vector-networks)
+- [EU right to repair: Sellers will be liable for a year after products are fixed](https://arstechnica.com/tech-policy/2024/02/eu-right-to-repair-sellers-will-be-liable-for-a-year-after-products-are-fixed/)
 
-- [Achieving Safe, Aliasable Mutability with Unboxed Types](https://antelang.org/blog/safe_shared_mutability/)
+- [Bluesky and the AT Protocol: Usable Decentralized Social Media](https://arxiv.org/pdf/2402.03239.pdf)
 
-- [How I reduced the size of my very first published docker image by 40% - A lesson in dockerizing shell scripts](https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/)
+- [Expat 2.6.0 released, includes security fixes](https://blog.hartwork.org/posts/expat-2-6-0-released/)
 
-- [Compiling Pattern Matching](https://compiler.club/compiling-pattern-matching/)
+- [jQuery 4.0.0 BETA](https://blog.jquery.com/2024/02/06/jquery-4-0-0-beta/)
 
-- [Files are fraught with peril [2019]](https://danluu.com/deconstruct-files/)
+- [My FOSDEM 2024 Experience](https://blog.orhun.dev/fosdem-2024-experience/)
 
-- [Folk Computer](https://folk.computer/)
+- [Unusual basis types in programming languages](https://buttondown.email/hillelwayne/archive/unusual-basis-types-in-programming-languages/)
 
-- [FOSDEM 2024 - Live Streaming](https://fosdem.org/2024/schedule/streaming/)
+- [How to Embed 3D Models on the Web](https://cloudfour.com/thinks/how-to-embed-3d-models-on-the-web/)
 
-- [How Firefox gives special permissions to some domains](https://frederik-braun.com/special-browser-privileges-for-some-domains.html)
+- [Beautiful Code - Greg Wilson's Vision for Software Design](https://corecursive.com/beautiful-code-with-greg-wilson/)
 
-- [Glide, an open blazing-fast model gateway for production-ready GenAI apps](https://github.com/EinStack/glide)
+- [jsonfile: a quick hack for tinkering](https://crawshaw.io/blog/jsonfile)
 
-- [Creating a MacOS app with Lua (and nothing else)](https://github.com/mogenson/lua-macos-app)
+- [How I learned Haskell in just 15 years](https://duckrabbit.tech/articles/learning-haskell.html)
 
-- [Source code for Drilbert, a short puzzle game](https://github.com/wheybags/drilbert-pub)
+- [Garbage Collection Without Unsafe Code](https://fitzgeraldnick.com/2024/02/06/safe-gc.html)
 
-- [Building a hypervisor, 1: KVM Introduction](https://iovec.net/2024-01-29)
+- [When "letting it crash" is not enough](https://flawless.dev/essays/when-letting-it-crash-is-not-enough/)
 
-- [Everything I Know About SSDs (2019)](https://kcall.co.uk/ssd/index.html)
+- [Vesuvius Challenge Grandprize Winner Solution](https://github.com/younader/Vesuvius-Grandprize-Winner)
 
-- [Breaking Bitlocker - Bypassing the Windows Disk Encryption](https://m.youtube.com/watch?v=wTl4vEednkQ)
+- [Go 1.22 Release Notes](https://go.dev/doc/go1.22)
 
-- [Introducing Pkl, a programming language for configuration](https://pkl-lang.org/blog/introducing-pkl.html)
+- [Get notified when GitHub IPv6 is live](https://isgithubipv6.live/)
 
-- [Ratatui 0.26](https://ratatui.rs/highlights/v026/)
+- [Database Replication: A Practical Overview](https://medium.com/@atakanserbes/understanding-database-replication-a-practical-overview-dbe23344acc7?source=friends_link)
 
-- [Visual overview of a custom malloc() implementation](https://silent-tower.net/projects/visual-overview-malloc)
+- [Bookmarklet: Load All GitHub Comments](https://meyerweb.com/eric/thoughts/2024/02/05/bookmarklet-load-all-github-comments/)
 
-- [Sentry Overflow](https://technicalwriting.tools/posts/sentry-overflow/)
+- [A Single HTML File Spaced Repetition System/Scheduler](https://rickcarlino.com/srs.html)
 
-- [jj init](https://v5.chriskrycho.com/essays/jj-init/)
+- [Browsers Are Weird Right Now](https://tylersticka.com/journal/browsers-are-weird-right-now/)
 
-- [Let futures be futures](https://without.boats/blog/let-futures-be-futures/)
+- [Elixir Nitpicks](https://wiki.alopex.li/ElixirNitpicks)
 
-- [s/bash/zsh/g](https://www.arp242.net/why-zsh.html)
+- [Banyan VINES resurrection](https://wiki.restless.systems/wiki/Banyan_VINES_resurrection)
 
-- [Blogging in Djot instead of Markdown](https://www.jonashietala.se/blog/2024/02/02/blogging_in_djot_instead_of_markdown/)
+- [PoC||GTFO 0x22](https://www.alchemistowl.org/pocorgtfo/pocorgtfo22.pdf)
 
-- [Rye: a Hassle-Free Python Experience](https://www.youtube.com/watch?v=q99TYA7LnuA)
+- [The sinusoidal tetris](https://www.andreinc.net/2024/02/06/the-sinusoidal-tetris)
 
-- [Method of Differences](https://ztoz.blog/posts/method-differences/)
+- [Jujutsu: A Git-Compatible VCS - Git Merge 2022](https://www.youtube.com/watch?v=bx_LGilOuE4)
