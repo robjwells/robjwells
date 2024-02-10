@@ -1,49 +1,47 @@
-- [Leopard-Free Programming](http://ratfactor.com/cards/leopard-free)
+- [Buffer Overflow Vulnerabilities in KiTTY](https://blog.defcesco.io/CVE-2024-25003-CVE-2024-25004)
 
-- [EU right to repair: Sellers will be liable for a year after products are fixed](https://arstechnica.com/tech-policy/2024/02/eu-right-to-repair-sellers-will-be-liable-for-a-year-after-products-are-fixed/)
+- [Too dangerous for C++](https://blog.dureuill.net/articles/too-dangerous-cpp/)
 
-- [Bluesky and the AT Protocol: Usable Decentralized Social Media](https://arxiv.org/pdf/2402.03239.pdf)
+- [Strings do too many things](https://buttondown.email/hillelwayne/archive/strings-do-too-many-things/)
 
-- [Expat 2.6.0 released, includes security fixes](https://blog.hartwork.org/posts/expat-2-6-0-released/)
+- [(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
 
-- [jQuery 4.0.0 BETA](https://blog.jquery.com/2024/02/06/jquery-4-0-0-beta/)
+- [Comonadic builders](https://chshersh.com/posts/2019-03-25-comonadic-builders)
 
-- [My FOSDEM 2024 Experience](https://blog.orhun.dev/fosdem-2024-experience/)
+- [Add coffee stains to LaTeX documents](https://ctan.org/pkg/coffeestains)
 
-- [Unusual basis types in programming languages](https://buttondown.email/hillelwayne/archive/unusual-basis-types-in-programming-languages/)
+- [Introducing Sudo for Windows](https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/)
 
-- [How to Embed 3D Models on the Web](https://cloudfour.com/thinks/how-to-embed-3d-models-on-the-web/)
+- [Resilience and chaos engineering](https://devblogs.microsoft.com/dotnet/resilience-and-chaos-engineering/)
 
-- [Beautiful Code - Greg Wilson's Vision for Software Design](https://corecursive.com/beautiful-code-with-greg-wilson/)
+- [Using Shape Up - What Works, What We've Changed, What's Next](https://exploring-better-ways.bellroy.com/using-shape-up-what-works-what-weve-changed-whats-next.html)
 
-- [jsonfile: a quick hack for tinkering](https://crawshaw.io/blog/jsonfile)
+- [Frontlink: React realtime collaboration and updates with your backend](https://github.com/danthegoodman1/frontlink)
 
-- [How I learned Haskell in just 15 years](https://duckrabbit.tech/articles/learning-haskell.html)
+- [pose: Portable S-expressions (POSE) spec and libs](https://github.com/s-expressions/pose)
 
-- [Garbage Collection Without Unsafe Code](https://fitzgeraldnick.com/2024/02/06/safe-gc.html)
+- [How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
 
-- [When "letting it crash" is not enough](https://flawless.dev/essays/when-letting-it-crash-is-not-enough/)
+- [Go can only read 1GiB per Read call](https://kgrz.io/go-file-read-max-size-buffer.html)
 
-- [Vesuvius Challenge Grandprize Winner Solution](https://github.com/younader/Vesuvius-Grandprize-Winner)
+- [OPML is underrated](https://kmaasrud.com/blog/opml-is-underrated.html)
 
-- [Go 1.22 Release Notes](https://go.dev/doc/go1.22)
+- [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 
-- [Get notified when GitHub IPv6 is live](https://isgithubipv6.live/)
+- [Introducing Word for OpenBSD](https://marc.info/?l=openbsd-tech&m=170742832804260&w=2)
 
-- [Database Replication: A Practical Overview](https://medium.com/@atakanserbes/understanding-database-replication-a-practical-overview-dbe23344acc7?source=friends_link)
+- [Why Bloat Is Still Software’s Biggest Vulnerability](https://spectrum.ieee.org/lean-software-development)
 
-- [Bookmarklet: Load All GitHub Comments](https://meyerweb.com/eric/thoughts/2024/02/05/bookmarklet-load-all-github-comments/)
+- [What’s new in the Postgres 16 query planner / optimizer](https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/)
 
-- [A Single HTML File Spaced Repetition System/Scheduler](https://rickcarlino.com/srs.html)
+- [The world's most responsible AI model](https://www.goody2.ai/)
 
-- [Browsers Are Weird Right Now](https://tylersticka.com/journal/browsers-are-weird-right-now/)
+- [I don't care about memory safety](https://www.linkedin.com/pulse/i-dont-care-memory-safety-david-chisnall/)
 
-- [Elixir Nitpicks](https://wiki.alopex.li/ElixirNitpicks)
+- [Why Elixir Is the Best Language for Building a Bootstrapped, B2B SaaS in 2024](https://www.sleepeasy.app/2024/01/21/elixir-best-language-for-bootstrapped-b2b-saas/)
 
-- [Banyan VINES resurrection](https://wiki.restless.systems/wiki/Banyan_VINES_resurrection)
+- [Sudo On Windows a Quick Rundown](https://www.tiraniddo.dev/2024/02/sudo-on-windows-quick-rundown.html)
 
-- [PoC||GTFO 0x22](https://www.alchemistowl.org/pocorgtfo/pocorgtfo22.pdf)
+- [Opening up communication silos with Matrix 2.0 and the EU Digital Markets Act](https://www.youtube.com/watch?v=s5BrVVf0B1I)
 
-- [The sinusoidal tetris](https://www.andreinc.net/2024/02/06/the-sinusoidal-tetris)
-
-- [Jujutsu: A Git-Compatible VCS - Git Merge 2022](https://www.youtube.com/watch?v=bx_LGilOuE4)
+- [ChatGPT have killed my passion project and I am fine](https://zverok.space/blog/2024-02-09-gpt.html)
