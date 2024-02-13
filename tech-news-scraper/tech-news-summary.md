@@ -1,47 +1,47 @@
-- [Buffer Overflow Vulnerabilities in KiTTY](https://blog.defcesco.io/CVE-2024-25003-CVE-2024-25004)
+- [Maybe Everything Is a Coroutine](https://adam.nels.onl/blog/maybe-everything-is-a-coroutine/)
 
-- [Too dangerous for C++](https://blog.dureuill.net/articles/too-dangerous-cpp/)
+- [Chess-GPT’s Internal World Model](https://adamkarvonen.github.io/machine_learning/2024/01/03/chess-world-models.html)
 
-- [Strings do too many things](https://buttondown.email/hillelwayne/archive/strings-do-too-many-things/)
+- [To the crazy ones](https://alarmingdevelopment.org/?p=1708)
 
-- [(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
+- [Conway's Game of Life is Omniperiodic](https://arxiv.org/abs/2312.02799)
 
-- [Comonadic builders](https://chshersh.com/posts/2019-03-25-comonadic-builders)
+- [DJI - The ART of obfuscation](https://blog.quarkslab.com/dji-the-art-of-obfuscation.html)
 
-- [Add coffee stains to LaTeX documents](https://ctan.org/pkg/coffeestains)
+- [Glowdust is a new kind of Database Management System](https://codeberg.org/glowdust/glowdust)
 
-- [Introducing Sudo for Windows](https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/)
+- [The top of the DNS hierarchy](https://computer.rip/2024-02-11-the-top-of-the-DNS-hierarchy.html)
 
-- [Resilience and chaos engineering](https://devblogs.microsoft.com/dotnet/resilience-and-chaos-engineering/)
+- [(Plausible) Random Geography Generation with PostGIS: Fluviation](https://di.nmfay.com/random-geography-fluviation)
 
-- [Using Shape Up - What Works, What We've Changed, What's Next](https://exploring-better-ways.bellroy.com/using-shape-up-what-works-what-weve-changed-whats-next.html)
+- [wally: RPC and HTTP route mapper ideal for microservices](https://github.com/hex0punk/wally)
 
-- [Frontlink: React realtime collaboration and updates with your backend](https://github.com/danthegoodman1/frontlink)
+- [Hill-Making vs Hill-Climbing](https://kk.org/thetechnium/hill-making-vs-hill-climbing/)
 
-- [pose: Portable S-expressions (POSE) spec and libs](https://github.com/s-expressions/pose)
+- [Future of 32-bit platform support in FreeBSD](https://lists.freebsd.org/archives/freebsd-announce/2024-February/000117.html)
 
-- [How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
+- [Engine Failure: Array is gone - can we recover?](https://lucas.dohmen.io/posts/2024/02/11/engine-failure/)
 
-- [Go can only read 1GiB per Read call](https://kgrz.io/go-file-read-max-size-buffer.html)
+- [How would you explain a tensor to a computer scientist?](https://math.stackexchange.com/questions/4861085/how-would-you-explain-a-tensor-to-a-computer-scientist)
 
-- [OPML is underrated](https://kmaasrud.com/blog/opml-is-underrated.html)
+- [Minimal Linux Bootloader debugging story](https://michael.stapelberg.ch/posts/2024-02-11-minimal-linux-bootloader-debugging-story/)
 
-- [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+- [Ghostty Devlog 006](https://mitchellh.com/writing/ghostty-devlog-006)
 
-- [Introducing Word for OpenBSD](https://marc.info/?l=openbsd-tech&m=170742832804260&w=2)
+- [It Can Be Done](https://multicians.org/andre.html)
 
-- [Why Bloat Is Still Software’s Biggest Vulnerability](https://spectrum.ieee.org/lean-software-development)
+- [Tiny UPS for Tiny NAS Reloaded](https://vermaden.wordpress.com/2024/02/11/tiny-ups-for-tiny-nas-reloaded/)
 
-- [What’s new in the Postgres 16 query planner / optimizer](https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/)
+- [Balancing cube](https://willempennings.nl/balancing-cube/)
 
-- [The world's most responsible AI model](https://www.goody2.ai/)
+- [C++ — Never Do's](https://www.logikalsolutions.com/wordpress/information-technology/never/)
 
-- [I don't care about memory safety](https://www.linkedin.com/pulse/i-dont-care-memory-safety-david-chisnall/)
+- [Mojo vs. Rust: is Mojo faster than Rust?](https://www.modular.com/blog/mojo-vs-rust-is-mojo-faster-than-rust)
 
-- [Why Elixir Is the Best Language for Building a Bootstrapped, B2B SaaS in 2024](https://www.sleepeasy.app/2024/01/21/elixir-best-language-for-bootstrapped-b2b-saas/)
+- [How SSH port became 22](https://www.ssh.com/academy/ssh/port)
 
-- [Sudo On Windows a Quick Rundown](https://www.tiraniddo.dev/2024/02/sudo-on-windows-quick-rundown.html)
+- [So You Think You Know Git](https://www.youtube.com/watch?v=aolI_Rz0ZqY)
 
-- [Opening up communication silos with Matrix 2.0 and the EU Digital Markets Act](https://www.youtube.com/watch?v=s5BrVVf0B1I)
+- [I wish Go had a retry block](https://xeiaso.net/blog/2024/retry-block/)
 
-- [ChatGPT have killed my passion project and I am fine](https://zverok.space/blog/2024-02-09-gpt.html)
+- [XL: An extensible programming language](https://xlr.sourceforge.io/)
