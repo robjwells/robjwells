@@ -1,47 +1,45 @@
-- [Maybe Everything Is a Coroutine](https://adam.nels.onl/blog/maybe-everything-is-a-coroutine/)
+- [Why Python's Integer Division Floors](http://python-history.blogspot.com/2010/08/why-pythons-integer-division-floors.html)
 
-- [Chess-GPT’s Internal World Model](https://adamkarvonen.github.io/machine_learning/2024/01/03/chess-world-models.html)
+- [Dependency solving in Nix](http://www.chriswarbo.net/projects/nixos/nix_dependencies.html)
 
-- [To the crazy ones](https://alarmingdevelopment.org/?p=1708)
+- [Remote User Impersonation and Takeover via Cache Poisoning in Mastodon](https://arcanican.is/excerpts/cve-2024-23832/discovery.htm)
 
-- [Conway's Game of Life is Omniperiodic](https://arxiv.org/abs/2312.02799)
+- [Cloudflare defeats patent troll Sable at trial](https://blog.cloudflare.com/cloudflare-defeats-patent-troll-sable-at-trial)
 
-- [DJI - The ART of obfuscation](https://blog.quarkslab.com/dji-the-art-of-obfuscation.html)
+- [Barbara Nessim at The Ginza Art Space (1986)](https://blog.gingerbeardman.com/2024/02/15/barbara-nessim-at-the-ginza-art-space-1986/)
 
-- [Glowdust is a new kind of Database Management System](https://codeberg.org/glowdust/glowdust)
+- [The Matrix Trashfire](https://blog.koehntopp.info/2024/02/13/the-matrix-trashfire.html)
 
-- [The top of the DNS hierarchy](https://computer.rip/2024-02-11-the-top-of-the-DNS-hierarchy.html)
+- [Running GNU on DOS with DJGPP](https://blogsystem5.substack.com/p/running-gnu-on-dos-with-djgpp)
 
-- [(Plausible) Random Geography Generation with PostGIS: Fluviation](https://di.nmfay.com/random-geography-fluviation)
+- [From Go to Rust: The Two Types of Readable Code](https://earthly.dev/blog/readability/)
 
-- [wally: RPC and HTTP route mapper ideal for microservices](https://github.com/hex0punk/wally)
+- [progman: X11 WM modeled after Program Manager from the Windows 3 era](https://github.com/jcs/progman)
 
-- [Hill-Making vs Hill-Climbing](https://kk.org/thetechnium/hill-making-vs-hill-climbing/)
+- [EffVer: Version your code by the effort required to upgrade](https://jacobtomlinson.dev/effver/)
 
-- [Future of 32-bit platform support in FreeBSD](https://lists.freebsd.org/archives/freebsd-announce/2024-February/000117.html)
+- [Making my bookshelves clickable](https://jamesg.blog/2024/02/14/clickable-bookshelves/)
 
-- [Engine Failure: Array is gone - can we recover?](https://lucas.dohmen.io/posts/2024/02/11/engine-failure/)
+- [Rye Grows With UV](https://lucumr.pocoo.org/2024/2/15/rye-grows-with-uv/)
 
-- [How would you explain a tensor to a computer scientist?](https://math.stackexchange.com/questions/4861085/how-would-you-explain-a-tensor-to-a-computer-scientist)
+- [Announcing freenginx.org](https://mailman.nginx.org/pipermail/nginx/2024-February/GPXQY27UA5SJJZ2Y6JWTRWJB2TKPTJR7.html)
 
-- [Minimal Linux Bootloader debugging story](https://michael.stapelberg.ch/posts/2024-02-11-minimal-linux-bootloader-debugging-story/)
+- [New in Dart 3.3: Extension Types, JavaScript Interop, and More](https://medium.com/dartlang/dart-3-3-325bf2bf6c13)
 
-- [Ghostty Devlog 006](https://mitchellh.com/writing/ghostty-devlog-006)
+- [Observable announces a local first dataviz framework](https://observablehq.com/blog/observable-2-0)
 
-- [It Can Be Done](https://multicians.org/andre.html)
+- [Pandoc 3.1.12 released](https://pandoc.org/releases.html#pandoc-3.1.12-2024-02-14)
 
-- [Tiny UPS for Tiny NAS Reloaded](https://vermaden.wordpress.com/2024/02/11/tiny-ups-for-tiny-nas-reloaded/)
+- [The Auto macro](https://quuxplusone.github.io/blog/2018/08/11/the-auto-macro/)
 
-- [Balancing cube](https://willempennings.nl/balancing-cube/)
+- [Tvix Status - February '24](https://tvl.fyi/blog/tvix-update-february-24)
 
-- [C++ — Never Do's](https://www.logikalsolutions.com/wordpress/information-technology/never/)
+- [Huffman Codes – How Do They Work?](https://two-wrongs.com/huffman-codes-how-do-they-work)
 
-- [Mojo vs. Rust: is Mojo faster than Rust?](https://www.modular.com/blog/mojo-vs-rust-is-mojo-faster-than-rust)
+- [Understanding a recent optimization to Go's reflect.TypeFor](https://utcc.utoronto.ca/~cks/space/blog/programming/GoReflectTypeForOptimization)
 
-- [How SSH port became 22](https://www.ssh.com/academy/ssh/port)
+- [Performance Roulette: The Luck of Code Alignment](https://www.bazhenov.me/posts/2024-02-performance-roulette/)
 
-- [So You Think You Know Git](https://www.youtube.com/watch?v=aolI_Rz0ZqY)
+- [Calendar versioning](https://www.letsdebug.it/post/41-calendar-versioning/)
 
-- [I wish Go had a retry block](https://xeiaso.net/blog/2024/retry-block/)
-
-- [XL: An extensible programming language](https://xlr.sourceforge.io/)
+- [1.5+ million PDFs in 25 minutes](https://zerodha.tech/blog/1-5-million-pdfs-in-25-minutes/)
