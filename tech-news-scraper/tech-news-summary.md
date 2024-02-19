@@ -1,45 +1,49 @@
-- [Why Python's Integer Division Floors](http://python-history.blogspot.com/2010/08/why-pythons-integer-division-floors.html)
+- [LibFirm compiler backend](http://libfirm.org/)
 
-- [Dependency solving in Nix](http://www.chriswarbo.net/projects/nixos/nix_dependencies.html)
+- [Floats Are Weird](https://a.exozy.me/posts/floats-weird/)
 
-- [Remote User Impersonation and Takeover via Cache Poisoning in Mastodon](https://arcanican.is/excerpts/cve-2024-23832/discovery.htm)
+- [wddbfs – Mount a sqlite database as a filesystem](https://adamobeng.com/wddbfs-mount-a-sqlite-database-as-a-filesystem/)
 
-- [Cloudflare defeats patent troll Sable at trial](https://blog.cloudflare.com/cloudflare-defeats-patent-troll-sable-at-trial)
+- [Designing serverless stream storage](https://blog.schmizz.net/designing-serverless-stream-storage)
 
-- [Barbara Nessim at The Ginza Art Space (1986)](https://blog.gingerbeardman.com/2024/02/15/barbara-nessim-at-the-ginza-art-space-1986/)
+- [Bergamot: Exploring Programming Language Inference Rules](https://danilafe.com/blog/bergamot/)
 
-- [The Matrix Trashfire](https://blog.koehntopp.info/2024/02/13/the-matrix-trashfire.html)
+- [Managing dotfiles on macOS with Nix](https://davi.sh/blog/2024/02/nix-home-manager/)
 
-- [Running GNU on DOS with DJGPP](https://blogsystem5.substack.com/p/running-gnu-on-dos-with-djgpp)
+- [Ten Python datetime pitfalls, and what libraries are (not) doing about it](https://dev.arie.bovenberg.net/blog/python-datetime-pitfalls/)
 
-- [From Go to Rust: The Two Types of Readable Code](https://earthly.dev/blog/readability/)
+- [Software infrastructure 2.0: a wishlist](https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html)
 
-- [progman: X11 WM modeled after Program Manager from the Windows 3 era](https://github.com/jcs/progman)
+- [No, Utility Classes Aren't the Same As Inline Styles](https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles)
 
-- [EffVer: Version your code by the effort required to upgrade](https://jacobtomlinson.dev/effver/)
+- [Multipass C Compiler, Assembler and X86 emulator written in TypeScript](https://github.com/Mati365/ts-c-compiler)
 
-- [Making my bookshelves clickable](https://jamesg.blog/2024/02/14/clickable-bookshelves/)
+- [WsgiDAV: A generic and extendable WebDAV server based on WSGI](https://github.com/mar10/wsgidav)
 
-- [Rye Grows With UV](https://lucumr.pocoo.org/2024/2/15/rye-grows-with-uv/)
+- [Your Own Vector Search in 5 Minutes with SQLite, OpenAI Embeddings, and Node.js](https://markus.oberlehner.net/blog/your-own-vector-search-in-5-minutes-with-sqlite-openai-embeddings-and-nodejs/)
 
-- [Announcing freenginx.org](https://mailman.nginx.org/pipermail/nginx/2024-February/GPXQY27UA5SJJZ2Y6JWTRWJB2TKPTJR7.html)
+- [Serving a Website From a Git Repo Without Cloning It](https://mediocregopher.com/posts/git-proxy)
 
-- [New in Dart 3.3: Extension Types, JavaScript Interop, and More](https://medium.com/dartlang/dart-3-3-325bf2bf6c13)
+- [Writing good programming abstractions](https://notebook.drmaciver.com/posts/2024-01-13-08:28.html)
 
-- [Observable announces a local first dataviz framework](https://observablehq.com/blog/observable-2-0)
+- [Tailwind: Semantics vs Utility](https://nuejs.org/blog/tailwind-misinformation-engine/)
 
-- [Pandoc 3.1.12 released](https://pandoc.org/releases.html#pandoc-3.1.12-2024-02-14)
+- [From 1s to 4ms](https://registerspill.thorstenball.com/p/from-1s-to-4ms)
 
-- [The Auto macro](https://quuxplusone.github.io/blog/2018/08/11/the-auto-macro/)
+- [An ActivityPub Server in a Single PHP File](https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/)
 
-- [Tvix Status - February '24](https://tvl.fyi/blog/tvix-update-february-24)
+- [Using Serial Ports with Ruby](https://tenderlovemaking.com/2024/02/16/using-serial-ports-with-ruby.html)
 
-- [Huffman Codes – How Do They Work?](https://two-wrongs.com/huffman-codes-how-do-they-work)
+- [Representation Engineering Mistral-7B an Acid Trip](https://vgel.me/posts/representation-engineering/)
 
-- [Understanding a recent optimization to Go's reflect.TypeFor](https://utcc.utoronto.ca/~cks/space/blog/programming/GoReflectTypeForOptimization)
+- [FuturesUnordered and the order of futures](https://without.boats/blog/futures-unordered/)
 
-- [Performance Roulette: The Luck of Code Alignment](https://www.bazhenov.me/posts/2024-02-performance-roulette/)
+- [The Berkeley Software Distribution](https://www.abortretry.fail/p/the-berkley-software-distribution)
 
-- [Calendar versioning](https://www.letsdebug.it/post/41-calendar-versioning/)
+- [Fighting off faux-serverless bandits with the true definition of serverless](https://www.gomomento.com/blog/fighting-off-fake-serverless-bandits-with-the-true-definition-of-serverless)
 
-- [1.5+ million PDFs in 25 minutes](https://zerodha.tech/blog/1-5-million-pdfs-in-25-minutes/)
+- [An accessible one handed keyboard, inspired by FrogPad](https://www.kianryan.co.uk/2024-02-16-one-handed-accessible-keyboard-inspired-by-frogpad/)
+
+- [Type Erasure: The Implementation Details](https://www.youtube.com/watch?v=7MNyAHp0h7A)
+
+- [Testing Distributed Systems w/ Deterministic Simulation (2014)](https://youtu.be/4fFDFbi3toc)
