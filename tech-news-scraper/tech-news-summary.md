@@ -1,49 +1,49 @@
-- [LibFirm compiler backend](http://libfirm.org/)
+- [Cake - C23 and Beyond](http://thradams.com/cake/ownership.html)
 
-- [Floats Are Weird](https://a.exozy.me/posts/floats-weird/)
+- [Mastering C++ with Google Benchmark (2022)](https://ashvardanian.com/posts/google-benchmark/)
 
-- [wddbfs – Mount a sqlite database as a filesystem](https://adamobeng.com/wddbfs-mount-a-sqlite-database-as-a-filesystem/)
+- [Voyager 1’s Lonely Death](https://crookedtimber.org/2024/02/19/death-lonely-death/)
 
-- [Designing serverless stream storage](https://blog.schmizz.net/designing-serverless-stream-storage)
+- [Disputed, not Rejected](https://daniel.haxx.se/blog/2024/02/21/disputed-not-rejected/)
 
-- [Bergamot: Exploring Programming Language Inference Rules](https://danilafe.com/blog/bergamot/)
+- [SSDs Have Become Ridiculously Fast, Except in the Cloud](https://databasearchitects.blogspot.com/2024/02/ssds-have-become-ridiculously-fast.html)
 
-- [Managing dotfiles on macOS with Nix](https://davi.sh/blog/2024/02/nix-home-manager/)
+- [A tale of three architectures](https://daverupert.com/2024/02/three-architectures/)
 
-- [Ten Python datetime pitfalls, and what libraries are (not) doing about it](https://dev.arie.bovenberg.net/blog/python-datetime-pitfalls/)
+- [If you're just going to sit there doing nothing, at least do nothing correctly](https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409)
 
-- [Software infrastructure 2.0: a wishlist](https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html)
+- [Range Queries with Badger](https://garrensmith.com/Databases/Range+queries+with+Badger)
 
-- [No, Utility Classes Aren't the Same As Inline Styles](https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles)
+- [An Apple II emulator.  On a 6809 Coco3](https://github.com/dragonbytes/Apple2CoCo)
 
-- [Multipass C Compiler, Assembler and X86 emulator written in TypeScript](https://github.com/Mati365/ts-c-compiler)
+- [gptscript: Natural Language Programming](https://github.com/gptscript-ai/gptscript)
 
-- [WsgiDAV: A generic and extendable WebDAV server based on WSGI](https://github.com/mar10/wsgidav)
+- [Software defined VHS decoder](https://github.com/oyvindln/vhs-decode)
 
-- [Your Own Vector Search in 5 Minutes with SQLite, OpenAI Embeddings, and Node.js](https://markus.oberlehner.net/blog/your-own-vector-search-in-5-minutes-with-sqlite-openai-embeddings-and-nodejs/)
+- [The Fil-C Manifesto: Garbage In, Memory Safety Out](https://github.com/pizlonator/llvm-project-deluge/blob/deluge/Manifesto.md)
 
-- [Serving a Website From a Git Repo Without Cloning It](https://mediocregopher.com/posts/git-proxy)
+- [How containers work](https://ikouchiha47.github.io/2024/02/05/how-containers-work.html)
 
-- [Writing good programming abstractions](https://notebook.drmaciver.com/posts/2024-01-13-08:28.html)
+- [MMU-less systems and FDPIC](https://maskray.me/blog/2024-02-20-mmu-less-systems-and-fdpic)
 
-- [Tailwind: Semantics vs Utility](https://nuejs.org/blog/tailwind-misinformation-engine/)
+- [React Labs: What We've Been Working On](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)
 
-- [From 1s to 4ms](https://registerspill.thorstenball.com/p/from-1s-to-4ms)
+- [iMessage with PQ3: The new state of the art in quantum-secure messaging at scale](https://security.apple.com/blog/imessage-pq3/)
 
-- [An ActivityPub Server in a Single PHP File](https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/)
+- [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
 
-- [Using Serial Ports with Ruby](https://tenderlovemaking.com/2024/02/16/using-serial-ports-with-ruby.html)
+- [Why are non-DRY specs more maintainable?](https://thedailydeveloper.substack.com/p/why-are-non-dry-specs-more-maintainable)
 
-- [Representation Engineering Mistral-7B an Acid Trip](https://vgel.me/posts/representation-engineering/)
+- [Useful Uses of cat](https://two-wrongs.com/useful-uses-of-cat)
 
-- [FuturesUnordered and the order of futures](https://without.boats/blog/futures-unordered/)
+- [Three States and a Plan: The A.I. of F.E.A.R](https://www.gamedevs.org/uploads/three-states-plan-ai-of-fear.pdf)
 
-- [The Berkeley Software Distribution](https://www.abortretry.fail/p/the-berkley-software-distribution)
+- [Planner programming blows my mind](https://www.hillelwayne.com/post/picat/)
 
-- [Fighting off faux-serverless bandits with the true definition of serverless](https://www.gomomento.com/blog/fighting-off-fake-serverless-bandits-with-the-true-definition-of-serverless)
+- [This message does not exist](https://www.kmjn.org/notes/message_existence.html)
 
-- [An accessible one handed keyboard, inspired by FrogPad](https://www.kianryan.co.uk/2024-02-16-one-handed-accessible-keyboard-inspired-by-frogpad/)
+- [Windows 2000 Networking Shenanigans Part 1: Getting the damn OS Installed](https://www.lilysthings.org/blog/win2k-networking-1/)
 
-- [Type Erasure: The Implementation Details](https://www.youtube.com/watch?v=7MNyAHp0h7A)
+- [Oils 0.20.0 - Eggex, JSON, and Android](https://www.oilshell.org/blog/2024/02/release-0.20.0.html)
 
-- [Testing Distributed Systems w/ Deterministic Simulation (2014)](https://youtu.be/4fFDFbi3toc)
+- [What Modern NVMe Storage Can Do, And How To Exploit It: High-Performance I/O for High-Performance Storage Engines](https://www.vldb.org/pvldb/vol16/p2090-haas.pdf)
