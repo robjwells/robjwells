@@ -1,49 +1,47 @@
-- [Cake - C23 and Beyond](http://thradams.com/cake/ownership.html)
+- [Shoes! The easiest little GUI toolkit, for Ruby](http://shoesrb.com/)
 
-- [Mastering C++ with Google Benchmark (2022)](https://ashvardanian.com/posts/google-benchmark/)
+- [The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962](http://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html)
 
-- [Voyager 1’s Lonely Death](https://crookedtimber.org/2024/02/19/death-lonely-death/)
+- [Can you make a basic web app without googling? I can't](https://austinhenley.com/blog/webappwithoutgoogling.html)
 
-- [Disputed, not Rejected](https://daniel.haxx.se/blog/2024/02/21/disputed-not-rejected/)
+- [Really Large Repositories](https://blog.gitbutler.com/git-tips-3-really-large-repositories/)
 
-- [SSDs Have Become Ridiculously Fast, Except in the Cloud](https://databasearchitects.blogspot.com/2024/02/ssds-have-become-ridiculously-fast.html)
+- [Please Make Your Table Headings Sticky](https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/)
 
-- [A tale of three architectures](https://daverupert.com/2024/02/three-architectures/)
+- [Co-Developing Programs and Their Proof of Correctness](https://cacm.acm.org/magazines/2024/3/280078-co-developing-programs-and-their-proof-of-correctness/fulltext)
 
-- [If you're just going to sit there doing nothing, at least do nothing correctly](https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409)
+- [How to Hold KEMs](https://durumcrustulum.com/2024/02/24/how-to-hold-kems/)
 
-- [Range Queries with Badger](https://garrensmith.com/Databases/Range+queries+with+Badger)
+- [StringZilla: Up to 10x faster strings for C, C++, Python, Rust, and Swift](https://github.com/ashvardanian/StringZilla)
 
-- [An Apple II emulator.  On a 6809 Coco3](https://github.com/dragonbytes/Apple2CoCo)
+- [On Light, Colors, Mixing Paints, and Numerical Optimization](https://github.com/miciwan/PaintMixing)
 
-- [gptscript: Natural Language Programming](https://github.com/gptscript-ai/gptscript)
+- [Sway 1.9](https://github.com/swaywm/sway/releases/tag/1.9)
 
-- [Software defined VHS decoder](https://github.com/oyvindln/vhs-decode)
+- [CSS :has() Interactive Guide](https://ishadeed.com/article/css-has-guide/)
 
-- [The Fil-C Manifesto: Garbage In, Memory Safety Out](https://github.com/pizlonator/llvm-project-deluge/blob/deluge/Manifesto.md)
+- [Contributing Scrutiny to nixpkgs](https://jnsgr.uk/2024/02/contributing-scrutiny-to-nixpkgs/)
 
-- [How containers work](https://ikouchiha47.github.io/2024/02/05/how-containers-work.html)
+- [TOTP codes in the terminal](https://jpmens.net/2024/02/23/totp-codes-in-the-terminal/)
 
-- [MMU-less systems and FDPIC](https://maskray.me/blog/2024-02-20-mmu-less-systems-and-fdpic)
+- [Lattices vs Cranks](https://keymaterial.net/2024/02/24/lattices-vs-cranks/)
 
-- [React Labs: What We've Been Working On](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)
+- [Everyone seems to forget why GNOME and GNOME 3 and Unity happened (2022)](https://liam-on-linux.dreamwidth.org/85359.html)
 
-- [iMessage with PQ3: The new state of the art in quantum-secure messaging at scale](https://security.apple.com/blog/imessage-pq3/)
+- [StreetPass for Mastodon](https://streetpass.social)
 
-- [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
+- [Universal Binary Format](https://ubf.github.io/ubf/ubf-user-guide.en.html)
 
-- [Why are non-DRY specs more maintainable?](https://thedailydeveloper.substack.com/p/why-are-non-dry-specs-more-maintainable)
+- [Reverse-Engineering a Switch Lite Boardview at 6,000 Pixels Per Inch](https://usoldering.com/switch-lite/)
 
-- [Useful Uses of cat](https://two-wrongs.com/useful-uses-of-cat)
+- [Asynchronous clean-up [in Rust]](https://without.boats/blog/asynchronous-clean-up/)
 
-- [Three States and a Plan: The A.I. of F.E.A.R](https://www.gamedevs.org/uploads/three-states-plan-ai-of-fear.pdf)
+- [Intel Processor Instability Causing Oodle Decompression Failures](https://www.radgametools.com/oodleintel.htm)
 
-- [Planner programming blows my mind](https://www.hillelwayne.com/post/picat/)
+- [Snøhetta's environmentally-friendly website](https://www.snohetta.com/perspectives/digital-design-in-the-age-of-sustainability)
 
-- [This message does not exist](https://www.kmjn.org/notes/message_existence.html)
+- [System Initiative](https://www.systeminit.com/open-source/)
 
-- [Windows 2000 Networking Shenanigans Part 1: Getting the damn OS Installed](https://www.lilysthings.org/blog/win2k-networking-1/)
+- [Thanks FedEx, This is Why we Keep Getting Phished](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
 
-- [Oils 0.20.0 - Eggex, JSON, and Android](https://www.oilshell.org/blog/2024/02/release-0.20.0.html)
-
-- [What Modern NVMe Storage Can Do, And How To Exploit It: High-Performance I/O for High-Performance Storage Engines](https://www.vldb.org/pvldb/vol16/p2090-haas.pdf)
+- [Rust in the Linux kernel](https://www.youtube.com/watch?v=CEznkXjYFb4)
