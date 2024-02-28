@@ -1,47 +1,49 @@
-- [Shoes! The easiest little GUI toolkit, for Ruby](http://shoesrb.com/)
+- [Go 2019-2022: Becoming a Cloud team](https://ajmani.net/2024/02/23/go-2019-2022-becoming-a-cloud-team/)
 
-- [The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962](http://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html)
+- [M-x Reloaded: The Second Golden Age of Emacs](https://batsov.com/articles/2024/02/27/m-x-reloaded-the-second-golden-age-of-emacs/)
 
-- [Can you make a basic web app without googling? I can't](https://austinhenley.com/blog/webappwithoutgoogling.html)
+- [How I use Nix on macOS](https://blog.6nok.org/how-i-use-nix-on-macos/)
 
-- [Really Large Repositories](https://blog.gitbutler.com/git-tips-3-really-large-repositories/)
+- [Airfoil](https://ciechanow.ski/airfoil/)
 
-- [Please Make Your Table Headings Sticky](https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/)
+- [OSC8-Adoption: List of terminal emulators that support hyperlinks](https://github.com/Alhadis/OSC8-Adoption)
 
-- [Co-Developing Programs and Their Proof of Correctness](https://cacm.acm.org/magazines/2024/3/280078-co-developing-programs-and-their-proof-of-correctness/fulltext)
+- [sidebery: Firefox extension for managing tabs and bookmarks in sidebar](https://github.com/mbnuqw/sidebery)
 
-- [How to Hold KEMs](https://durumcrustulum.com/2024/02/24/how-to-hold-kems/)
+- [Hanami 2.1: Views that are a sight to see](https://hanamirb.org/blog/2024/02/27/hanami-210/)
 
-- [StringZilla: Up to 10x faster strings for C, C++, Python, Rust, and Swift](https://github.com/ashvardanian/StringZilla)
+- [Decker adds FileIO, shell commands](https://itch.io/post/9447223)
 
-- [On Light, Colors, Mixing Paints, and Numerical Optimization](https://github.com/miciwan/PaintMixing)
+- [Demystifying GPUs for CPU-centric programmers](https://medium.com/@penberg/demystifying-gpus-for-cpu-centric-programmers-e24934a620f1)
 
-- [Sway 1.9](https://github.com/swaywm/sway/releases/tag/1.9)
+- [How to love homebrew](https://notes.billmill.org/blog/2024/02/How_to_love_homebrew.html)
 
-- [CSS :has() Interactive Guide](https://ishadeed.com/article/css-has-guide/)
+- [Netlify just sent me a $104K bill for a simple static site](https://old.reddit.com/r/webdev/comments/1b14bty/netlify_just_sent_me_a_104k_bill_for_a_simple/)
 
-- [Contributing Scrutiny to nixpkgs](https://jnsgr.uk/2024/02/contributing-scrutiny-to-nixpkgs/)
+- [Jevons Paradox doesn’t always apply to software](https://pythonspeed.com/articles/software-jevons-paradox/)
 
-- [TOTP codes in the terminal](https://jpmens.net/2024/02/23/totp-codes-in-the-terminal/)
+- [Scheduling Internals](https://tontinton.com/posts/scheduling-internals/)
 
-- [Lattices vs Cranks](https://keymaterial.net/2024/02/24/lattices-vs-cranks/)
+- [Important efibootmgr(8) Command](https://vermaden.wordpress.com/2024/02/27/important-efibootmgr-command/)
 
-- [Everyone seems to forget why GNOME and GNOME 3 and Unity happened (2022)](https://liam-on-linux.dreamwidth.org/85359.html)
+- [Finding The Last Editor](https://world.hey.com/dhh/finding-the-last-editor-dae701cc)
 
-- [StreetPass for Mastodon](https://streetpass.social)
+- [Better ways to name your utils module](https://www.moderndescartes.com/essays/noutils/)
 
-- [Universal Binary Format](https://ubf.github.io/ubf/ubf-user-guide.en.html)
+- [Introducing QtAsyncio in technical preview](https://www.qt.io/blog/introducing-qtasyncio-in-technical-preview)
 
-- [Reverse-Engineering a Switch Lite Boardview at 6,000 Pixels Per Inch](https://usoldering.com/switch-lite/)
+- [A Few Ledger Aliases](https://www.skool.com/programming-masterminds-2307/exclusive-skool-content-ledger-aliases)
 
-- [Asynchronous clean-up [in Rust]](https://without.boats/blog/asynchronous-clean-up/)
+- [Prosody XMPP server is now available for SmartOS/OmniOS/OpenIndiana/Tribblix](https://www.unitedbsd.com/d/1272-prosody-xmpp-server-is-now-available-for-smartosomniosopenindianatribblix)
 
-- [Intel Processor Instability Causing Oodle Decompression Failures](https://www.radgametools.com/oodleintel.htm)
+- [A Path Toward Secure And Measurable Software](https://www.whitehouse.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf)
 
-- [Snøhetta's environmentally-friendly website](https://www.snohetta.com/perspectives/digital-design-in-the-age-of-sustainability)
+- [TigerBeetle on The Primeagen](https://www.youtube.com/watch?v=sC1B3d9C_sI)
 
-- [System Initiative](https://www.systeminit.com/open-source/)
+- [Go Enums Suck](https://www.zarl.dev/articles/enums)
 
-- [Thanks FedEx, This is Why we Keep Getting Phished](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
+- [Introducing pgroll: zero-downtime, reversible, schema migrations for Postgres](https://xata.io/blog/pgroll-schema-migrations-postgres)
 
-- [Rust in the Linux kernel](https://www.youtube.com/watch?v=CEznkXjYFb4)
+- [Progress Report January 2024](https://yuzu-emu.org/entry/yuzu-progress-report-jan-2024/)
+
+- [Explainix: Explain Nix syntax visually](https://zaynetro.com/explainix)
