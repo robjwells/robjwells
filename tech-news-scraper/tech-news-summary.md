@@ -1,49 +1,47 @@
-- [Go 2019-2022: Becoming a Cloud team](https://ajmani.net/2024/02/23/go-2019-2022-becoming-a-cloud-team/)
+- [Dotfiles digest: git](https://adrg.se/blog/dotfiles-digest-git)
 
-- [M-x Reloaded: The Second Golden Age of Emacs](https://batsov.com/articles/2024/02/27/m-x-reloaded-the-second-golden-age-of-emacs/)
+- [Array languages vs. the curse of the spreadsheet](https://blog.dhsdevelopments.com/array-languages-vs)
 
-- [How I use Nix on macOS](https://blog.6nok.org/how-i-use-nix-on-macos/)
+- [The AWS S3 Denial of Wallet amplification attack](https://blog.limbus-medtec.com/the-aws-s3-denial-of-wallet-amplification-attack-bc5a97cc041d)
 
-- [Airfoil](https://ciechanow.ski/airfoil/)
+- [JPEG XL and the Pareto Front](https://cloudinary.com/blog/jpeg-xl-and-the-pareto-front)
 
-- [OSC8-Adoption: List of terminal emulators that support hyperlinks](https://github.com/Alhadis/OSC8-Adoption)
+- [Elvish scripting case studies](https://elv.sh/learn/scripting-case-studies.html)
 
-- [sidebery: Firefox extension for managing tabs and bookmarks in sidebar](https://github.com/mbnuqw/sidebery)
+- [FOSDEM 2024 aftermath](https://genodians.org/nfeske/2024-02-15-fosdem-aftermath)
 
-- [Hanami 2.1: Views that are a sight to see](https://hanamirb.org/blog/2024/02/27/hanami-210/)
+- [repiet: A compiler for the esoteric language Piet](https://github.com/boothby/repiet)
 
-- [Decker adds FileIO, shell commands](https://itch.io/post/9447223)
+- [riposte v0.5.0 adds support for newer python versions](https://github.com/fwkz/riposte/releases/tag/v0.5.0)
 
-- [Demystifying GPUs for CPU-centric programmers](https://medium.com/@penberg/demystifying-gpus-for-cpu-centric-programmers-e24934a620f1)
+- [KDE MegaRelease 6](https://kde.org/announcements/megarelease/6/)
 
-- [How to love homebrew](https://notes.billmill.org/blog/2024/02/How_to_love_homebrew.html)
+- [In praise of Nushell](https://lars.yencken.org/in-praise-of-nushell)
 
-- [Netlify just sent me a $104K bill for a simple static site](https://old.reddit.com/r/webdev/comments/1b14bty/netlify_just_sent_me_a_104k_bill_for_a_simple/)
+- [Debian 64-bit time_t transition in progress](https://lists.debian.org/debian-devel-announce/2024/02/msg00000.html)
 
-- [Jevons Paradox doesn’t always apply to software](https://pythonspeed.com/articles/software-jevons-paradox/)
+- [A Spritely distributed-computing library](https://lwn.net/Articles/960912/)
 
-- [Scheduling Internals](https://tontinton.com/posts/scheduling-internals/)
+- [Experimenting with GC-less (heap-less) Java](https://maximullaris.com/gc_less_java.html)
 
-- [Important efibootmgr(8) Command](https://vermaden.wordpress.com/2024/02/27/important-efibootmgr-command/)
+- [Vim Game of Life](https://normalmo.de/vimlife/)
 
-- [Finding The Last Editor](https://world.hey.com/dhh/finding-the-last-editor-dae701cc)
+- [Sparrow: Distributed, Low Latency Scheduling](https://people.eecs.berkeley.edu/~matei/papers/2013/sosp_sparrow.pdf)
 
-- [Better ways to name your utils module](https://www.moderndescartes.com/essays/noutils/)
+- [How To Build AWS-Compatible APIs: AWS Sigv4](https://www.aspiring.dev/building-aws-sigv4-into-your-app/)
 
-- [Introducing QtAsyncio in technical preview](https://www.qt.io/blog/introducing-qtasyncio-in-technical-preview)
+- [The siren song of domain-specific languages](https://www.haskellforall.com/2024/02/the-siren-song-of-domain-specific.html)
 
-- [A Few Ledger Aliases](https://www.skool.com/programming-masterminds-2307/exclusive-skool-content-ledger-aliases)
+- [Secure shell over HTTP/3 connections](https://www.ietf.org/archive/id/draft-michel-ssh3-00.html)
 
-- [Prosody XMPP server is now available for SmartOS/OmniOS/OpenIndiana/Tribblix](https://www.unitedbsd.com/d/1272-prosody-xmpp-server-is-now-available-for-smartosomniosopenindianatribblix)
+- [The novice and the master: 5 programming jokes](https://www.piglei.com/articles/the-novice-and-the-maste-jokes/)
 
-- [A Path Toward Secure And Measurable Software](https://www.whitehouse.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf)
+- [The sins committed in the name of Agile](https://www.runtime.news/agile-software-promises-efficiency-it-requires-a-cultural-shift-to-get-right/)
 
-- [TigerBeetle on The Primeagen](https://www.youtube.com/watch?v=sC1B3d9C_sI)
+- [FBI using push notification tokens to identify anonymous users](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/)
 
-- [Go Enums Suck](https://www.zarl.dev/articles/enums)
+- [Composable HTTP Handlers using generics in Go](https://www.willem.dev/articles/generic-http-handlers/)
 
-- [Introducing pgroll: zero-downtime, reversible, schema migrations for Postgres](https://xata.io/blog/pgroll-schema-migrations-postgres)
+- [Advanced Property Testing (Interview with Oskar Wickström)](https://youtu.be/wHJZ0icwSkc)
 
-- [Progress Report January 2024](https://yuzu-emu.org/entry/yuzu-progress-report-jan-2024/)
-
-- [Explainix: Explain Nix syntax visually](https://zaynetro.com/explainix)
+- [Why I use Firefox](https://šime.eu/3)
