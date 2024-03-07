@@ -1,47 +1,49 @@
-- [The Case Against Geometric Algebra](https://alexkritchevsky.com/2024/02/28/geometric-algebra.html)
+- [Ryelang asciinema demo: exploring JSON](https://asciinema.org/a/615327)
 
-- [The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions](https://benhoyt.com/writings/go-1brc/)
+- [Scalable CSS](https://chriscoyier.net/2023/01/17/scalable-css/)
 
-- [How we applied advanced fuzzing techniques to cURL](https://blog.trailofbits.com/2024/03/01/toward-more-effective-curl-fuzzing/)
+- [Dada, an experiement by the creators of Rust](https://dada-lang.org/)
 
-- [A Deep Dive into the Underlying Architecture of Groq's LPU](https://codeconfessions.substack.com/p/groq-lpu-design)
+- [Announcing TypeScript 5.4](https://devblogs.microsoft.com/typescript/announcing-typescript-5-4/)
 
-- [Unexpected slowdown caused by msvcrt's allocator](https://codeforces.com/blog/entry/126677)
+- [Bitonic sorter](https://en.wikipedia.org/wiki/Bitonic_sorter)
 
-- [The Transmeta Code Morphing Software: Using Speculation, Recovery, and Adaptive Retranslation to Address Real-Life Challenges (2003)](https://courses.cs.washington.edu/courses/cse548/08wi/papers/transmeta.pdf)
+- [Embedded Swift on the Raspberry Pi Pico/RP2040 without the Pico SDK](https://forums.swift.org/t/embedded-swift-on-the-raspberry-pi-pico-rp2040-without-the-pico-sdk/69338)
 
-- [hancho: A simple pleasant build system in Python](https://github.com/aappleby/hancho)
+- [GPTComment: enforce conventions using GPT](https://github.com/cachix/gptcomment)
 
-- [atuin: Magical shell history](https://github.com/atuinsh/atuin)
+- [Use weird tests to capture tacit knowledge](https://jmduke.com/posts/essays/weird-tests-tacit-knowledge/)
 
-- [Defining, Measuring, and Managing Technical Debt](https://ieeexplore.ieee.org/document/10109339)
+- [A homelab dashboard for NixOS](https://jnsgr.uk/2024/03/a-homelab-dashboard-for-nixos/)
 
-- [Real gaming router](https://kittenlabs.de/real-gaming-router/)
+- [Enabling constraints](https://jordankaye.dev/posts/enabling-constraints/)
 
-- [What I like about Go](https://lu.sagebl.eu/notes/what-i-like-about-go/)
+- [jorge: a personal site generator with org-mode support](https://jorge.olano.dev/)
 
-- [Pyproject.nix - Nix tooling for Python project metadata](https://nix-community.github.io/pyproject.nix/)
+- [Java is becoming more like Rust, and I am here for it](https://joshaustin.tech/blog/java-is-becoming-rust/)
 
-- [Bugs I’ve filed on browsers](https://nolanlawson.com/2024/03/03/bugs-ive-filed-on-browsers/)
+- [A Minimalist MIDI Synth with Sine Waves](https://massimo-nazaria.github.io/midi-synth.html)
 
-- [An Apple district manager's Macintosh Portable in 1989-91 (featuring GEIS AppleLink and a look at System 7.0 alpha)](https://oldvcr.blogspot.com/2024/03/an-apple-district-managers-macintosh.html)
+- [How to speed up the Rust compiler in March 2024](https://nnethercote.github.io/2024/03/06/how-to-speed-up-the-rust-compiler-in-march-2024.html)
 
-- [Why single vendor is the new proprietary](https://opensource.net/why-single-vendor-is-the-new-proprietary/)
+- [How I use git worktrees](https://notes.billmill.org/blog/2024/03/How_I_use_git_worktrees.html)
 
-- [rpypkgs: A Nix flake for RPython interpreters](https://osdn.net/users/corbin/pf/rpypkgs/wiki/FrontPage)
+- [Adding systemd to postmarketOS](https://postmarketos.org/blog/2024/03/05/adding-systemd/)
 
-- [The hater’s guide to Kubernetes](https://paulbutler.org/2024/the-haters-guide-to-kubernetes/)
+- [UTF-8: Bits, Bytes, and Benefits (2010)](https://research.swtch.com/utf8)
 
-- [Reinventing Backend Subsetting at Google: Designing an algorithm with reduced connection churn that could replace deterministic subsetting](https://queue.acm.org/detail.cfm?id=3570937)
+- [Skyplane: Blazing fast bulk data transfers between any cloud](https://skyplane.org/)
 
-- [The algebraic structure of Infinite Craft](https://quuxplusone.github.io/blog/2024/03/03/infinite-craft-theory/)
+- [Open-sourcing our progress on Tailwind CSS v4.0](https://tailwindcss.com/blog/tailwindcss-v4-alpha)
 
-- [Interesting ideas in Observable Framework](https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/)
+- [Kalman Filter Explained Simply](https://thekalmanfilter.com/kalman-filter-explained-simply/)
 
-- [What happens when you push to git.sr.ht, and why was it so slow? (2019)](https://sourcehut.org/blog/2019-11-22-what-happens-on-git-push/)
+- [Connect FreeBSD 14.0-STABLE to FreeIPA/IDM](https://vermaden.wordpress.com/2024/03/06/connect-freebsd-14-0-stable-to-freeipa-idm/)
 
-- [Tiny Predictive Text](https://www.adamgrant.info/tiny-predictive-text)
+- [Font processing is still a source of vulnerabilities](https://www.canva.dev/blog/engineering/fonts-are-still-a-helvetica-of-a-problem/)
 
-- [Motion Blur All the Way Down](https://www.osar.fr/notes/motionblur/)
+- [Rustls Now Using AWS Libcrypto for Rust, Gains FIPS Support](https://www.memorysafety.org/blog/rustls-with-aws-crypto-back-end-and-fips/)
 
-- [EA Won't Let Me Play This Game - So I Hacked It](https://www.youtube.com/watch?v=tE2mZ_t_mts)
+- [Happy 20th birthday OpenTTD](https://www.openttd.org/news/2024/03/06/happy-birthday)
+
+- [Linux 6.8 Network Optimizations Can Boost TCP Performance For Many Concurrent Connections By ~40%](https://www.phoronix.com/news/Linux-6.8-Networking)
