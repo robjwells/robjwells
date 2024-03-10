@@ -1,49 +1,49 @@
-- [Ryelang asciinema demo: exploring JSON](https://asciinema.org/a/615327)
+- [What Cannot be Skipped About the Skiplist: A Survey of Skiplists and Their Applications in Big Data Systems](https://arxiv.org/abs/2403.04582)
 
-- [Scalable CSS](https://chriscoyier.net/2023/01/17/scalable-css/)
+- [Build initramfs rootless](https://blog.izissise.net/posts/initramfs/)
 
-- [Dada, an experiement by the creators of Rust](https://dada-lang.org/)
+- [SQLite on macOS: Not ACID compliant with the bundled version (2022)](https://bonsaidb.io/blog/acid-on-apple/)
 
-- [Announcing TypeScript 5.4](https://devblogs.microsoft.com/typescript/announcing-typescript-5-4/)
+- [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
 
-- [Bitonic sorter](https://en.wikipedia.org/wiki/Bitonic_sorter)
+- [Rotation with three shears](https://cohost.org/tomforsyth/post/891823-rotation-with-three)
 
-- [Embedded Swift on the Raspberry Pi Pico/RP2040 without the Pico SDK](https://forums.swift.org/t/embedded-swift-on-the-raspberry-pi-pico-rp2040-without-the-pico-sdk/69338)
+- [the Apple curl security incident 12604](https://daniel.haxx.se/blog/2024/03/08/the-apple-curl-security-incident-12604/)
 
-- [GPTComment: enforce conventions using GPT](https://github.com/cachix/gptcomment)
+- [Downpour: make games on your phone](https://downpour.games)
 
-- [Use weird tests to capture tacit knowledge](https://jmduke.com/posts/essays/weird-tests-tacit-knowledge/)
+- [Fedify: A fediverse server framework in Deno](https://github.com/dahlia/fedify)
 
-- [A homelab dashboard for NixOS](https://jnsgr.uk/2024/03/a-homelab-dashboard-for-nixos/)
+- [Yarnspin: A simple story-telling game engine](https://github.com/mattiasgustavsson/yarnspin)
 
-- [Enabling constraints](https://jordankaye.dev/posts/enabling-constraints/)
+- [Orthogonal Persistence, The Model](https://github.com/mighty-gerbils/gerbil-persist/blob/master/persist.md)
 
-- [jorge: a personal site generator with org-mode support](https://jorge.olano.dev/)
+- [The HAM Stack - A Simple Scalable Tech Stack for building modern web apps fast and cheap](https://hamy.xyz/labs/2024-02_hamstack)
 
-- [Java is becoming more like Rust, and I am here for it](https://joshaustin.tech/blog/java-is-becoming-rust/)
+- [How HEAD works in git](https://jvns.ca/blog/2024/03/08/how-head-works-in-git/)
 
-- [A Minimalist MIDI Synth with Sine Waves](https://massimo-nazaria.github.io/midi-synth.html)
+- [Announcing LumeCMS](https://lume.land/blog/posts/lume-cms/)
 
-- [How to speed up the Rust compiler in March 2024](https://nnethercote.github.io/2024/03/06/how-to-speed-up-the-rust-compiler-in-march-2024.html)
+- [How to Lose Control of your Shell](https://registerspill.thorstenball.com/p/how-to-lose-control-of-your-shell)
 
-- [How I use git worktrees](https://notes.billmill.org/blog/2024/03/How_I_use_git_worktrees.html)
+- [Making Friends with AttributeGraph](https://saagarjha.com/blog/2024/02/27/making-friends-with-attributegraph/)
 
-- [Adding systemd to postmarketOS](https://postmarketos.org/blog/2024/03/05/adding-systemd/)
+- [Secure by Design: Google’s Perspective on Memory Safety](https://security.googleblog.com/2024/03/secure-by-design-googles-perspective-on.html)
 
-- [UTF-8: Bits, Bytes, and Benefits (2010)](https://research.swtch.com/utf8)
+- [The GPT-4 barrier has finally been broken](https://simonwillison.net/2024/Mar/8/gpt-4-barrier/)
 
-- [Skyplane: Blazing fast bulk data transfers between any cloud](https://skyplane.org/)
+- [I'm betting on Call-by-Push-Value](https://thunderseethe.dev/posts/bet-on-cbpv/)
 
-- [Open-sourcing our progress on Tailwind CSS v4.0](https://tailwindcss.com/blog/tailwindcss-v4-alpha)
+- [Three Star Programmer](https://wiki.c2.com/?ThreeStarProgrammer)
 
-- [Kalman Filter Explained Simply](https://thekalmanfilter.com/kalman-filter-explained-simply/)
+- [Prolly Trees](https://www.dolthub.com/blog/2024-03-03-prolly-trees/)
 
-- [Connect FreeBSD 14.0-STABLE to FreeIPA/IDM](https://vermaden.wordpress.com/2024/03/06/connect-freebsd-14-0-stable-to-freeipa-idm/)
+- [Sudo-rs dependencies: when less is better](https://www.memorysafety.org/blog/reducing-dependencies-in-sudo/)
 
-- [Font processing is still a source of vulnerabilities](https://www.canva.dev/blog/engineering/fonts-are-still-a-helvetica-of-a-problem/)
+- [The Magic of Property Testing](https://www.youtube.com/watch?v=4bpc8NpNHRc)
 
-- [Rustls Now Using AWS Libcrypto for Rust, Gains FIPS Support](https://www.memorysafety.org/blog/rustls-with-aws-crypto-back-end-and-fips/)
+- [Rendering 3D Graphics On An Oscilloscope With An STM32](https://www.youtube.com/watch?v=TAfWea21ooM)
 
-- [Happy 20th birthday OpenTTD](https://www.openttd.org/news/2024/03/06/happy-birthday)
+- [Removing the LibJS JIT (Ladybird browser update (February 2024))](https://www.youtube.com/watch?v=dKHopzDtElY)
 
-- [Linux 6.8 Network Optimizations Can Boost TCP Performance For Many Concurrent Connections By ~40%](https://www.phoronix.com/news/Linux-6.8-Networking)
+- [How do computers add numbers so quickly?](https://www.youtube.com/watch?v=yj6wo5SCObY)
