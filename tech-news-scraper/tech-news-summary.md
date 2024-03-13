@@ -1,49 +1,47 @@
-- [What Cannot be Skipped About the Skiplist: A Survey of Skiplists and Their Applications in Big Data Systems](https://arxiv.org/abs/2403.04582)
+- [Go, Python, Rust, and production AI applications](https://ajmani.net/2024/03/11/go-python-rust-and-production-ai-applications/)
 
-- [Build initramfs rootless](https://blog.izissise.net/posts/initramfs/)
+- [Abstracting Denotational Interpreters](https://arxiv.org/abs/2403.02778)
 
-- [SQLite on macOS: Not ACID compliant with the bundled version (2022)](https://bonsaidb.io/blog/acid-on-apple/)
+- [An overdue status update on Darklang](https://blog.darklang.com/an-overdue-status-update/)
 
-- [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
+- [Google's Threat model for Post-Quantum Cryptography](https://bughunters.google.com/blog/5108747984306176/google-s-threat-model-for-post-quantum-cryptography)
 
-- [Rotation with three shears](https://cohost.org/tomforsyth/post/891823-rotation-with-three)
+- [CAP is Good, Actually](https://buttondown.email/jaffray/archive/cap-is-good-actually/)
 
-- [the Apple curl security incident 12604](https://daniel.haxx.se/blog/2024/03/08/the-apple-curl-security-incident-12604/)
+- [Cloning a laptop over NVME TCP](https://copyninja.in/blog/clone_laptop_nvmet.html)
 
-- [Downpour: make games on your phone](https://downpour.games)
+- [On The Importance of Getting The Foundations Right](https://cybernetist.com/2024/03/11/importance-of-getting-the-foundations-right/)
 
-- [Fedify: A fediverse server framework in Deno](https://github.com/dahlia/fedify)
+- [Migrating from ClickHouse to Apache Doris: what happened?](https://doris.apache.org/blog/migrating-from-clickhouse-to-apache-doris-what-happened/)
 
-- [Yarnspin: A simple story-telling game engine](https://github.com/mattiasgustavsson/yarnspin)
+- [gitu: A TUI Git client inspired by Magit](https://github.com/altsem/gitu)
 
-- [Orthogonal Persistence, The Model](https://github.com/mighty-gerbils/gerbil-persist/blob/master/persist.md)
+- [State of the Terminal](https://gpanders.com/blog/state-of-the-terminal/)
 
-- [The HAM Stack - A Simple Scalable Tech Stack for building modern web apps fast and cheap](https://hamy.xyz/labs/2024-02_hamstack)
+- [Identifying software](https://guix.gnu.org/en/blog/2024/identifying-software/)
 
-- [How HEAD works in git](https://jvns.ca/blog/2024/03/08/how-head-works-in-git/)
+- [C++ safety, in context](https://herbsutter.com/2024/03/11/safety-in-context/)
 
-- [Announcing LumeCMS](https://lume.land/blog/posts/lume-cms/)
+- [A formula for responsive font-size](https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/)
 
-- [How to Lose Control of your Shell](https://registerspill.thorstenball.com/p/how-to-lose-control-of-your-shell)
+- [J Playground](https://jsoftware.github.io/j-playground/bin/html2/)
 
-- [Making Friends with AttributeGraph](https://saagarjha.com/blog/2024/02/27/making-friends-with-attributegraph/)
+- [40 years of programming](https://liw.fi/40/)
 
-- [Secure by Design: Google’s Perspective on Memory Safety](https://security.googleblog.com/2024/03/secure-by-design-googles-perspective-on.html)
+- [json.human.js - Json Formatting for Human Beings](https://marianoguerra.github.io/json.human.js/)
 
-- [The GPT-4 barrier has finally been broken](https://simonwillison.net/2024/Mar/8/gpt-4-barrier/)
+- [Factorio Yosys: a full yosys backend for factorio that can compile a riscv core](https://mastodon.social/@thezoq2/112084897570820776)
 
-- [I'm betting on Call-by-Push-Value](https://thunderseethe.dev/posts/bet-on-cbpv/)
+- [First month on a database team](https://notes.eatonphil.com/2024-03-11-first-month-on-a-database-team.html)
 
-- [Three Star Programmer](https://wiki.c2.com/?ThreeStarProgrammer)
+- [Type Unions Don't Always Compose Well](https://rtpg.co/2024/03/11/union-types-do-not-always-compose-well/)
 
-- [Prolly Trees](https://www.dolthub.com/blog/2024-03-03-prolly-trees/)
+- [Extreme Value Statistical Process Control](https://two-wrongs.com/extreme-value-spc)
 
-- [Sudo-rs dependencies: when less is better](https://www.memorysafety.org/blog/reducing-dependencies-in-sudo/)
+- [Hello DBOS - Announcing DBOS Cloud](https://www.dbos.dev/blog/announcing-dbos)
 
-- [The Magic of Property Testing](https://www.youtube.com/watch?v=4bpc8NpNHRc)
+- [Byte-sized Swift: Building Tiny Games for the Playdate](https://www.swift.org/blog/byte-sized-swift-tiny-games-playdate/)
 
-- [Rendering 3D Graphics On An Oscilloscope With An STM32](https://www.youtube.com/watch?v=TAfWea21ooM)
+- [GhostRace: Exploiting and Mitigating Speculative Race Conditions](https://www.vusec.net/projects/ghostrace/)
 
-- [Removing the LibJS JIT (Ladybird browser update (February 2024))](https://www.youtube.com/watch?v=dKHopzDtElY)
-
-- [How do computers add numbers so quickly?](https://www.youtube.com/watch?v=yj6wo5SCObY)
+- [Screen Space Reflection](https://zznewclear13.github.io/posts/screen-space-reflection-en/)
