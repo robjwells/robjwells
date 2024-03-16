@@ -1,47 +1,47 @@
-- [Go, Python, Rust, and production AI applications](https://ajmani.net/2024/03/11/go-python-rust-and-production-ai-applications/)
+- [SoloVer is a simple and expressive versioning specification](https://beza1e1.tuxen.de/SoloVer)
 
-- [Abstracting Denotational Interpreters](https://arxiv.org/abs/2403.02778)
+- [npm install everything, and the complete and utter chaos that follows](https://boehs.org/node/npm-everything)
 
-- [An overdue status update on Darklang](https://blog.darklang.com/an-overdue-status-update/)
+- [The Montreal Problem: Why Programming Languages Need a Style Czar](https://earthly.dev/blog/language-style-czar/)
 
-- [Google's Threat model for Post-Quantum Cryptography](https://bughunters.google.com/blog/5108747984306176/google-s-threat-model-for-post-quantum-cryptography)
+- [Bellroy Technology Team: 2023 in Review](https://exploring-better-ways.bellroy.com/bellroy-technology-team-2023-in-review.html)
 
-- [CAP is Good, Actually](https://buttondown.email/jaffray/archive/cap-is-good-actually/)
+- [Diffing patches for visual programming language MaxMSP](https://github.com/Ableton/maxdevtools/tree/main/maxdiff)
 
-- [Cloning a laptop over NVME TCP](https://copyninja.in/blog/clone_laptop_nvmet.html)
+- [Дія (Ukrainian government app) source code released under EUPL](https://github.com/diia-open-source/)
 
-- [On The Importance of Getting The Foundations Right](https://cybernetist.com/2024/03/11/importance-of-getting-the-foundations-right/)
+- [GG, a GUI for Jujutsu](https://github.com/gulbanana/gg)
 
-- [Migrating from ClickHouse to Apache Doris: what happened?](https://doris.apache.org/blog/migrating-from-clickhouse-to-apache-doris-what-happened/)
+- [µON - a compact and simple binary object notation](https://github.com/vshymanskyy/muon/)
 
-- [gitu: A TUI Git client inspired by Magit](https://github.com/altsem/gitu)
+- [Onboarding roulette: deleting our employee accounts daily](https://graphite.dev/blog/onboarding-roulette)
 
-- [State of the Terminal](https://gpanders.com/blog/state-of-the-terminal/)
+- [Oh no, I started a Magit-like plugin for the Lem editor](https://lisp-journey.gitlab.io/blog/oh-no-i-started-a-magit-like-plugin-for-the-lem-editor/)
 
-- [Identifying software](https://guix.gnu.org/en/blog/2024/identifying-software/)
+- [IAM Is The Worst](https://matduggan.com/iam-is-the-worst/)
 
-- [C++ safety, in context](https://herbsutter.com/2024/03/11/safety-in-context/)
+- [Compressing Chess Moves for Fun and Profit](https://mbuffett.com/posts/compressing-chess-moves/)
 
-- [A formula for responsive font-size](https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/)
+- [How to write your own custom terraform provider](https://medium.com/@ledevedeccorentin/how-to-write-your-own-custom-terraform-provider-f1c27fa5d75e)
 
-- [J Playground](https://jsoftware.github.io/j-playground/bin/html2/)
+- [Zig, Rust, and other languages](https://notes.eatonphil.com/2024-03-15-zig-rust-and-other-languages.html)
 
-- [40 years of programming](https://liw.fi/40/)
+- [Optimizing Matrix Multiplication with Zig](https://svaniksharma.github.io/posts/2023-05-07-optimizing-matrix-multiplication-with-zig/)
 
-- [json.human.js - Json Formatting for Human Beings](https://marianoguerra.github.io/json.human.js/)
+- [How to approach a reduce problem](https://thoughtbot.com/blog/how-to-approach-a-reduce-problem)
 
-- [Factorio Yosys: a full yosys backend for factorio that can compile a riscv core](https://mastodon.social/@thezoq2/112084897570820776)
+- [Today we launched Flox 1.0](https://tinkering.xyz/releasing-flox/)
 
-- [First month on a database team](https://notes.eatonphil.com/2024-03-11-first-month-on-a-database-team.html)
+- [Tokamak: A web framework for Zig](https://tomsik.cz/posts/tokamak/)
 
-- [Type Unions Don't Always Compose Well](https://rtpg.co/2024/03/11/union-types-do-not-always-compose-well/)
+- [Making a Compiler to Prove tmux Is Turing Complete](https://willhbr.net/2024/03/15/making-a-compiler-to-prove-tmux-is-turing-complete/)
 
-- [Extreme Value Statistical Process Control](https://two-wrongs.com/extreme-value-spc)
+- [Haiku Activity & Contract Report, February 2024](https://www.haiku-os.org/blog/waddlesplash/2024-03-14_haiku_activity_contract_report_february_2024)
 
-- [Hello DBOS - Announcing DBOS Cloud](https://www.dbos.dev/blog/announcing-dbos)
+- [Experiences with Thread Programming in Microsoft Windows](https://www.johndcook.com/blog/2024/03/15/experiences-with-thread-programming-in-microsoft-windows/)
 
-- [Byte-sized Swift: Building Tiny Games for the Playdate](https://www.swift.org/blog/byte-sized-swift-tiny-games-playdate/)
+- [The t-digest: Efficient estimates of quantiles](https://www.sciencedirect.com/science/article/pii/S2665963820300403)
 
-- [GhostRace: Exploiting and Mitigating Speculative Race Conditions](https://www.vusec.net/projects/ghostrace/)
+- [Bringing Verse Transactional Memory Semantics to C++](https://www.unrealengine.com/en-US/tech-blog/bringing-verse-transactional-memory-semantics-to-c)
 
-- [Screen Space Reflection](https://zznewclear13.github.io/posts/screen-space-reflection-en/)
+- [Nix is a better Docker image builder than Docker's image builder](https://xeiaso.net/talks/2024/nix-docker-build/)
