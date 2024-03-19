@@ -1,47 +1,45 @@
-- [SoloVer is a simple and expressive versioning specification](https://beza1e1.tuxen.de/SoloVer)
+- [Fifty Things you can do with a Software Defined Radio](https://blinry.org/50-things-with-sdr/)
 
-- [npm install everything, and the complete and utter chaos that follows](https://boehs.org/node/npm-everything)
+- [Dead air on the incident call](https://blog.danslimmon.com/2024/03/18/dead-air-on-the-incident-call/)
 
-- [The Montreal Problem: Why Programming Languages Need a Style Czar](https://earthly.dev/blog/language-style-czar/)
+- [macOS 14.4 on Apple silicon broke Java](https://blogs.oracle.com/java/post/java-on-macos-14-4)
 
-- [Bellroy Technology Team: 2023 in Review](https://exploring-better-ways.bellroy.com/bellroy-technology-team-2023-in-review.html)
+- [foca: Gossip-based cluster membership discovery (SWIM)](https://caio.co/de/foca/)
 
-- [Diffing patches for visual programming language MaxMSP](https://github.com/Ableton/maxdevtools/tree/main/maxdiff)
+- [Path to understanding: elliptic curves, pairings, and BLS signatures](https://geeklaunch.io/blog/understanding-elliptic-curves-pairings-bls-signatures/)
 
-- [Дія (Ukrainian government app) source code released under EUPL](https://github.com/diia-open-source/)
+- [Gaining kernel code execution on an MTE-enabled Pixel 8](https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/)
 
-- [GG, a GUI for Jujutsu](https://github.com/gulbanana/gg)
+- [sat-css-tool: Minify CSS files through refactoring with SAT solver](https://github.com/matthewhague/sat-css-tool)
 
-- [µON - a compact and simple binary object notation](https://github.com/vshymanskyy/muon/)
+- [Vision Pro is an over-engineered “devkit”](https://hugo.blog/2024/03/11/vision-pro/)
 
-- [Onboarding roulette: deleting our employee accounts daily](https://graphite.dev/blog/onboarding-roulette)
+- [Goto Is Not A Horror](https://jerf.org/iri/post/2024/goto/)
 
-- [Oh no, I started a Magit-like plugin for the Lem editor](https://lisp-journey.gitlab.io/blog/oh-no-i-started-a-magit-like-plugin-for-the-lem-editor/)
+- [Distributed queries for pgvector](https://jkatz05.com/post/postgres/distributed-pgvector/)
 
-- [IAM Is The Worst](https://matduggan.com/iam-is-the-worst/)
+- [Simplifying Test & Release of Snapped GUI Apps](https://jnsgr.uk/2024/03/simplifying-snap-gui-testing/)
 
-- [Compressing Chess Moves for Fun and Profit](https://mbuffett.com/posts/compressing-chess-moves/)
+- [Let's Build AI](https://letsbuild.ai/)
 
-- [How to write your own custom terraform provider](https://medium.com/@ledevedeccorentin/how-to-write-your-own-custom-terraform-provider-f1c27fa5d75e)
+- [Procrastinating on my side project by torturing databases](https://ntietz.com/blog/procrastinating-on-my-side-project-by-torturing-databases/)
 
-- [Zig, Rust, and other languages](https://notes.eatonphil.com/2024-03-15-zig-rust-and-other-languages.html)
+- [Introducing pixi's multiple environments implementation](https://prefix.dev/blog/introducing_multi_env_pixi)
 
-- [Optimizing Matrix Multiplication with Zig](https://svaniksharma.github.io/posts/2023-05-07-optimizing-matrix-multiplication-with-zig/)
+- [WebSockets vs Server-Sent-Events vs Long-Polling vs WebRTC vs WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html)
 
-- [How to approach a reduce problem](https://thoughtbot.com/blog/how-to-approach-a-reduce-problem)
+- [Social Minefield - high stakes minesweeper via Clickjacking attacks](https://social-minefield.com)
 
-- [Today we launched Flox 1.0](https://tinkering.xyz/releasing-flox/)
+- [What if everybody did everything right?](https://surfingcomplexity.blog/2024/02/17/what-if-everybody-did-everything-right/)
 
-- [Tokamak: A web framework for Zig](https://tomsik.cz/posts/tokamak/)
+- [Sensible Firefox Setup](https://vermaden.wordpress.com/2024/03/18/sensible-firefox-setup/)
 
-- [Making a Compiler to Prove tmux Is Turing Complete](https://willhbr.net/2024/03/15/making-a-compiler-to-prove-tmux-is-turing-complete/)
+- [100TB benchmarks for GPU-native data processing](https://voltrondata.com/benchmarks/theseus)
 
-- [Haiku Activity & Contract Report, February 2024](https://www.haiku-os.org/blog/waddlesplash/2024-03-14_haiku_activity_contract_report_february_2024)
+- [Moving Forward, Together](https://www.chromium.org/Home/chromium-security/root-ca-policy/moving-forward-together/)
 
-- [Experiences with Thread Programming in Microsoft Windows](https://www.johndcook.com/blog/2024/03/15/experiences-with-thread-programming-in-microsoft-windows/)
+- [Episode #90: DHH - Ruby on Rails, 37signals, and the future of web development](https://www.devtools.fm/episode/90?view=TRANSCRIPT)
 
-- [The t-digest: Efficient estimates of quantiles](https://www.sciencedirect.com/science/article/pii/S2665963820300403)
+- [Just](https://www.todepond.com/wikiblogarden/better-computing/just/)
 
-- [Bringing Verse Transactional Memory Semantics to C++](https://www.unrealengine.com/en-US/tech-blog/bringing-verse-transactional-memory-semantics-to-c)
-
-- [Nix is a better Docker image builder than Docker's image builder](https://xeiaso.net/talks/2024/nix-docker-build/)
+- ["No way to prevent this" say users of only language where this regularly happens](https://xeiaso.net//shitposts/no-way-to-prevent-this/CVE-2024-22252/)
