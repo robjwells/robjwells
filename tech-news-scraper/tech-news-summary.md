@@ -1,45 +1,45 @@
-- [Fifty Things you can do with a Software Defined Radio](https://blinry.org/50-things-with-sdr/)
+- [Learn Lil in 10 Minutes](http://beyondloom.com/decker/learnlil.html)
 
-- [Dead air on the incident call](https://blog.danslimmon.com/2024/03/18/dead-air-on-the-incident-call/)
+- [5 Things We Have Forgotten About Open Source (2014)](http://jordi.inversethought.com/blog/5-things-we-have-forgotten-about-open-source/)
 
-- [macOS 14.4 on Apple silicon broke Java](https://blogs.oracle.com/java/post/java-on-macos-14-4)
+- [Unpatchable vulnerability in Apple chip leaks secret encryption keys](https://arstechnica.com/security/2024/03/hackers-can-extract-secret-encryption-keys-from-apples-mac-chips/)
 
-- [foca: Gossip-based cluster membership discovery (SWIM)](https://caio.co/de/foca/)
+- [Signed but not secure](https://blog.benjojo.co.uk/post/rpki-signed-but-not-secure)
 
-- [Path to understanding: elliptic curves, pairings, and BLS signatures](https://geeklaunch.io/blog/understanding-elliptic-curves-pairings-bls-signatures/)
+- [devenv 1.0: Rewrite in Rust](https://devenv.sh/blog/2023/03/20/devenv-10-rewrite-in-rust/)
 
-- [Gaining kernel code execution on an MTE-enabled Pixel 8](https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/)
+- [Redis dropped BSD-3 in favor of a proprietary license](https://github.com/redis/redis/pull/13157)
 
-- [sat-css-tool: Minify CSS files through refactoring with SAT solver](https://github.com/matthewhague/sat-css-tool)
+- [GoFetch: Breaking Constant-Time Cryptographic Implementations Using Data Memory-Dependent Prefetchers](https://gofetch.fail/)
 
-- [Vision Pro is an over-engineered “devkit”](https://hugo.blog/2024/03/11/vision-pro/)
+- [Apache Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol](https://kvrocks.apache.org/)
 
-- [Goto Is Not A Horror](https://jerf.org/iri/post/2024/goto/)
+- [Arch Linux minimal container userland 100% reproducible - now what?](https://lists.archlinux.org/hyperkitty/list/arch-dev-public@lists.archlinux.org/thread/AWJ6QUUTE4M27QMH5GSWVDPPMNJEFNEG/)
 
-- [Distributed queries for pgvector](https://jkatz05.com/post/postgres/distributed-pgvector/)
+- [Zig defer Patterns](https://matklad.github.io/2024/03/21/defer-patterns.html)
 
-- [Simplifying Test & Release of Snapped GUI Apps](https://jnsgr.uk/2024/03/simplifying-snap-gui-testing/)
+- [The wrong way to speed up your code with Numba](https://pythonspeed.com/articles/slow-numba/)
 
-- [Let's Build AI](https://letsbuild.ai/)
+- [Introducing GNOME 46, “Kathmandu”](https://release.gnome.org/46/)
 
-- [Procrastinating on my side project by torturing databases](https://ntietz.com/blog/procrastinating-on-my-side-project-by-torturing-databases/)
+- [Intrusive Unit Testing](https://two-wrongs.com/intrusive-unit-testing)
 
-- [Introducing pixi's multiple environments implementation](https://prefix.dev/blog/introducing_multi_env_pixi)
+- [Tiny Undervalued Hardware Companions](https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/)
 
-- [WebSockets vs Server-Sent-Events vs Long-Polling vs WebRTC vs WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html)
+- [The Real C++ Killers (Not You, Rust)](https://wordsandbuttons.online/the_real_cpp_killers.html)
 
-- [Social Minefield - high stakes minesweeper via Clickjacking attacks](https://social-minefield.com)
+- [Antithesis of a One-in-a-Million Bug: Taming Demonic Nondeterminism](https://www.cockroachlabs.com/blog/demonic-nondeterminism/)
 
-- [What if everybody did everything right?](https://surfingcomplexity.blog/2024/02/17/what-if-everybody-did-everything-right/)
+- [Picotron is a Fantasy Workstation](https://www.lexaloffle.com/picotron.php)
 
-- [Sensible Firefox Setup](https://vermaden.wordpress.com/2024/03/18/sensible-firefox-setup/)
+- [How to make use of typographic refinement in Pages & other macOS apps](https://www.macworld.com/article/234949/how-to-make-use-of-typographic-refinement-in-pages-and-other-macos-software.html)
 
-- [100TB benchmarks for GPU-native data processing](https://voltrondata.com/benchmarks/theseus)
+- [Oils 0.21.0 - Flags, Integers, Starship Bug, and Speed](https://www.oilshell.org/blog/2024/03/release-0.21.0.html)
 
-- [Moving Forward, Together](https://www.chromium.org/Home/chromium-security/root-ca-policy/moving-forward-together/)
+- [DuckDB as the New jq](https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/)
 
-- [Episode #90: DHH - Ruby on Rails, 37signals, and the future of web development](https://www.devtools.fm/episode/90?view=TRANSCRIPT)
+- [Type Predicate Inference: The TS 5.5 Feature No One Expected](https://www.totaltypescript.com/type-predicate-inference)
 
-- [Just](https://www.todepond.com/wikiblogarden/better-computing/just/)
+- [Cross-referencing code & specs for maintainability](https://www.ueber.net/who/mjl/blog/p/cross-referencing-code-and-specs-for-maintainability/)
 
-- ["No way to prevent this" say users of only language where this regularly happens](https://xeiaso.net//shitposts/no-way-to-prevent-this/CVE-2024-22252/)
+- [Introducing pgzx: create PostgreSQL extensions using Zig](https://xata.io/blog/introducing-pgzx)
