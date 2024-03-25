@@ -1,45 +1,43 @@
-- [Learn Lil in 10 Minutes](http://beyondloom.com/decker/learnlil.html)
+- [Grep by example: Interactive guide](https://antonz.org/grep-by-example/)
 
-- [5 Things We Have Forgotten About Open Source (2014)](http://jordi.inversethought.com/blog/5-things-we-have-forgotten-about-open-source/)
+- [The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606)
 
-- [Unpatchable vulnerability in Apple chip leaks secret encryption keys](https://arstechnica.com/security/2024/03/hackers-can-extract-secret-encryption-keys-from-apples-mac-chips/)
+- [Twentysix year old RedHat 5.2 on QEMU i386](https://box.matto.nl/twentysix-year-old-redhat-52-on-qemu-i386.html)
 
-- [Signed but not secure](https://blog.benjojo.co.uk/post/rpki-signed-but-not-secure)
+- [How does Spectre work?](https://bvisness.me/spectre/)
 
-- [devenv 1.0: Rewrite in Rust](https://devenv.sh/blog/2023/03/20/devenv-10-rewrite-in-rust/)
+- [failsafe-go: A fault tolerance library for Go](https://failsafe-go.dev/)
 
-- [Redis dropped BSD-3 in favor of a proprietary license](https://github.com/redis/redis/pull/13157)
+- [asak: a cross-platform audio recording/playback CLI tool with TUI, written in Rust](https://github.com/chaosprint/asak)
 
-- [GoFetch: Breaking Constant-Time Cryptographic Implementations Using Data Memory-Dependent Prefetchers](https://gofetch.fail/)
+- [lapdev: Self-Hosted Remote Dev Environment](https://github.com/lapce/lapdev)
 
-- [Apache Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol](https://kvrocks.apache.org/)
+- [TeXpresso: live rendering and error reporting for LaTeX](https://github.com/let-def/texpresso)
 
-- [Arch Linux minimal container userland 100% reproducible - now what?](https://lists.archlinux.org/hyperkitty/list/arch-dev-public@lists.archlinux.org/thread/AWJ6QUUTE4M27QMH5GSWVDPPMNJEFNEG/)
+- [The current branch in git](https://jvns.ca/blog/2024/03/22/the-current-branch-in-git/)
 
-- [Zig defer Patterns](https://matklad.github.io/2024/03/21/defer-patterns.html)
+- [Why the hell is your Kubernetes API public?](https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane)
 
-- [The wrong way to speed up your code with Numba](https://pythonspeed.com/articles/slow-numba/)
+- [vim is not about speed](https://levelup.gitconnected.com/vim-is-not-about-speed-88968ae4283c)
 
-- [Introducing GNOME 46, “Kathmandu”](https://release.gnome.org/46/)
+- [Cranelift code generation comes to Rust](https://lwn.net/SubscriberLink/964735/8b795f23495af1d4/)
 
-- [Intrusive Unit Testing](https://two-wrongs.com/intrusive-unit-testing)
+- [Lezer](https://marijnhaverbeke.nl/blog/lezer.html)
 
-- [Tiny Undervalued Hardware Companions](https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/)
+- [Styledown is a simple markup language for representing styled text](https://pkg.go.dev/src.elv.sh@master/pkg/ui/styledown)
 
-- [The Real C++ Killers (Not You, Rust)](https://wordsandbuttons.online/the_real_cpp_killers.html)
+- [Reactive Programming without Functions](https://programming-journal.org/2024/8/11/)
 
-- [Antithesis of a One-in-a-Million Bug: Taming Demonic Nondeterminism](https://www.cockroachlabs.com/blog/demonic-nondeterminism/)
+- [PSChess - A Chess Engine in PostScript](https://seriot.ch/projects/pschess.html)
 
-- [Picotron is a Fantasy Workstation](https://www.lexaloffle.com/picotron.php)
+- [Claude and ChatGPT for ad-hoc sidequests](https://simonwillison.net/2024/Mar/22/claude-and-chatgpt-case-study/)
 
-- [How to make use of typographic refinement in Pages & other macOS apps](https://www.macworld.com/article/234949/how-to-make-use-of-typographic-refinement-in-pages-and-other-macos-software.html)
+- [The ü/ü Conundrum](https://unravelweb.dev/2024/02/12/the-u-u-conundrum/)
 
-- [Oils 0.21.0 - Flags, Integers, Starship Bug, and Speed](https://www.oilshell.org/blog/2024/03/release-0.21.0.html)
+- [Redesigning OLTP for a New Order of Magnitude](https://www.infoq.com/presentations/redesign-oltp/)
 
-- [DuckDB as the New jq](https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/)
+- [Unexplanations: sql is syntactic sugar for relational algebra](https://www.scattered-thoughts.net/writing/unexplanations-sql-is-syntactic-sugar-for-relational-algebra/)
 
-- [Type Predicate Inference: The TS 5.5 Feature No One Expected](https://www.totaltypescript.com/type-predicate-inference)
+- [Poorly Classified Data: How the Internet became searchable](https://www.youtube.com/watch?v=d149l7SLLXA)
 
-- [Cross-referencing code & specs for maintainability](https://www.ueber.net/who/mjl/blog/p/cross-referencing-code-and-specs-for-maintainability/)
-
-- [Introducing pgzx: create PostgreSQL extensions using Zig](https://xata.io/blog/introducing-pgzx)
+- [Condvars and atomics do not mix](https://zeux.io/2024/03/23/condvars-atomic/)
