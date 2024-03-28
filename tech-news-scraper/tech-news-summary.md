@@ -1,43 +1,49 @@
-- [Grep by example: Interactive guide](https://antonz.org/grep-by-example/)
+- [NetBSD 10 Beta, RC1-6 and Pi Wifi and A/V](http://jspath55.blogspot.com/2024/03/netbsd-10-beta-rc1-6-and-pi-wifi-and-av.html)
 
-- [The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606)
+- [BFQ, Multiqueue-Deadline, or Kyber? Performance Characterization of Linux Storage Schedulers in the NVMe Era](https://atlarge-research.com/pdfs/2024-io-schedulers.pdf)
 
-- [Twentysix year old RedHat 5.2 on QEMU i386](https://box.matto.nl/twentysix-year-old-redhat-52-on-qemu-i386.html)
+- [Garbage Collection for Systems Programmers](https://bitbashing.io/gc-for-systems-programmers.html)
 
-- [How does Spectre work?](https://bvisness.me/spectre/)
+- [Explorative Programming](https://blog.dziban.net/essays/explorative-programming)
 
-- [failsafe-go: A fault tolerance library for Go](https://failsafe-go.dev/)
+- [Brute force text search optimizations](https://boyter.org/posts/brute-force-text-search-optimizations/)
 
-- [asak: a cross-platform audio recording/playback CLI tool with TUI, written in Rust](https://github.com/chaosprint/asak)
+- [Erasure Coding versus Tail Latency](https://brooker.co.za/blog/2023/01/06/erasure.html)
 
-- [lapdev: Self-Hosted Remote Dev Environment](https://github.com/lapce/lapdev)
+- [Preventing Cross-Service UDP Loops in QUIC](https://bughunters.google.com/blog/5960150648750080/preventing-cross-service-udp-loops-in-quic)
 
-- [TeXpresso: live rendering and error reporting for LaTeX](https://github.com/let-def/texpresso)
+- [Why x86 Doesn’t Need to Die](https://chipsandcheese.com/2024/03/27/why-x86-doesnt-need-to-die/)
 
-- [The current branch in git](https://jvns.ca/blog/2024/03/22/the-current-branch-in-git/)
+- [Who Killed the Network Switch? A Hubris Bug Story](https://cliffle.com/blog/who-killed-the-network-switch/)
 
-- [Why the hell is your Kubernetes API public?](https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane)
+- [A Small Tool for Exploring Text Embeddings](https://cybernetist.com/2024/03/27/a-small-tool-for-exploring-text-embeddings/)
 
-- [vim is not about speed](https://levelup.gitconnected.com/vim-is-not-about-speed-88968ae4283c)
+- [Two little interpreters](https://dubroy.com/blog/two-little-interpreters/)
 
-- [Cranelift code generation comes to Rust](https://lwn.net/SubscriberLink/964735/8b795f23495af1d4/)
+- [42.parquet – A Zip Bomb for the Big Data Age](https://duckdb.org/2024/03/26/42-parquet-a-zip-bomb-for-the-big-data-age.html)
 
-- [Lezer](https://marijnhaverbeke.nl/blog/lezer.html)
+- [Fledgling Languages List - New and upcoming programming languages](https://fll.presidentbeef.com/)
 
-- [Styledown is a simple markup language for representing styled text](https://pkg.go.dev/src.elv.sh@master/pkg/ui/styledown)
+- [Proxmox Import Wizard Available for Migrating VMware ESXi Based Virtual Machines](https://forum.proxmox.com/threads/new-import-wizard-available-for-migrating-vmware-esxi-based-virtual-machines.144023/)
 
-- [Reactive Programming without Functions](https://programming-journal.org/2024/8/11/)
+- [Centerpiece – Your trusty omnibox search](https://github.com/friedow/centerpiece)
 
-- [PSChess - A Chess Engine in PostScript](https://seriot.ch/projects/pschess.html)
+- [KeepYourMouthShut - A Python program to auto-generate Podcasts](https://github.com/rajtilakjee/keepyourmouthshut)
 
-- [Claude and ChatGPT for ad-hoc sidequests](https://simonwillison.net/2024/Mar/22/claude-and-chatgpt-case-study/)
+- [Concept Pieces for a Graphical Editor](https://joshleeb.com/posts/status-update-2024-mar.html)
 
-- [The ü/ü Conundrum](https://unravelweb.dev/2024/02/12/the-u-u-conundrum/)
+- [On Tech Debt: My Rust Library is now a CDO](https://lucumr.pocoo.org/2024/3/26/rust-cdo/)
 
-- [Redesigning OLTP for a New Order of Magnitude](https://www.infoq.com/presentations/redesign-oltp/)
+- [Radicle: Sovereign code forge built on Git hits v1.0](https://radicle.xyz)
 
-- [Unexplanations: sql is syntactic sugar for relational algebra](https://www.scattered-thoughts.net/writing/unexplanations-sql-is-syntactic-sugar-for-relational-algebra/)
+- [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
 
-- [Poorly Classified Data: How the Internet became searchable](https://www.youtube.com/watch?v=d149l7SLLXA)
+- [Finding NetBSD Kernel Bugs through LockDoc](https://scholz.ruhr/blog/finding-netbsd-locking-bugs/)
 
-- [Condvars and atomics do not mix](https://zeux.io/2024/03/23/condvars-atomic/)
+- [Finding memory leaks in Postgres C code](https://www.enterprisedb.com/blog/finding-memory-leaks-postgres-c-code)
+
+- [Building WOPR: A 7x4090 AI Server](https://www.mov-axbx.com/wopr/wopr_concept.html)
+
+- [Fixing a Bug in PyPy's Incremental GC](https://www.pypy.org/posts/2024/03/fixing-bug-incremental-gc.html)
+
+- [An awk implementation](https://www.raygard.net/awkdoc/)
