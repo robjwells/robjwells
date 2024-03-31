@@ -1,49 +1,49 @@
-- [NetBSD 10 Beta, RC1-6 and Pi Wifi and A/V](http://jspath55.blogspot.com/2024/03/netbsd-10-beta-rc1-6-and-pi-wifi-and-av.html)
+- [Inside an unusual 7400-series chip implemented with a gate array](http://www.righto.com/2024/03/idt-gate-array.html)
 
-- [BFQ, Multiqueue-Deadline, or Kyber? Performance Characterization of Linux Storage Schedulers in the NVMe Era](https://atlarge-research.com/pdfs/2024-io-schedulers.pdf)
+- [Ayllu - yet another email-based Git forge](https://ayllu-forge.org/)
 
-- [Garbage Collection for Systems Programmers](https://bitbashing.io/gc-for-systems-programmers.html)
+- [Changes to u128/i128 layout in Rust 1.77 and 1.78](https://blog.rust-lang.org/2024/03/30/i128-layout-update.html)
 
-- [Explorative Programming](https://blog.dziban.net/essays/explorative-programming)
+- [Fast Development In Rust, Part One](https://blog.sdf.com/p/fast-development-in-rust-part-one)
 
-- [Brute force text search optimizations](https://boyter.org/posts/brute-force-text-search-optimizations/)
+- [Fedora Workstation 40 – what are we working on](https://blogs.gnome.org/uraeus/2024/03/28/fedora-workstation-40-what-are-we-working-on/)
 
-- [Erasure Coding versus Tail Latency](https://brooker.co.za/blog/2023/01/06/erasure.html)
+- [Type Inference Was a Mistake](https://borretti.me/article/type-inference-was-a-mistake)
 
-- [Preventing Cross-Service UDP Loops in QUIC](https://bughunters.google.com/blog/5960150648750080/preventing-cross-service-udp-loops-in-quic)
+- [Beware of the DashMap deadlock](https://dev.to/acter/beware-of-the-dashmap-deadlock-lij)
 
-- [Why x86 Doesn’t Need to Die](https://chipsandcheese.com/2024/03/27/why-x86-doesnt-need-to-die/)
+- [arx: Store files and directory in an archive. Like tar, but faster and with direct random access](https://github.com/jubako/arx)
 
-- [Who Killed the Network Switch? A Hubris Bug Story](https://cliffle.com/blog/who-killed-the-network-switch/)
+- [AArch64-Explore/vol1 M1 Explainer](https://github.com/name99-org/AArch64-Explore/blob/main/vol1%20M1%20Explainer.nb.pdf)
 
-- [A Small Tool for Exploring Text Embeddings](https://cybernetist.com/2024/03/27/a-small-tool-for-exploring-text-embeddings/)
+- [Helix Release 24.03 Highlights](https://helix-editor.com/news/release-24-03-highlights/)
 
-- [Two little interpreters](https://dubroy.com/blog/two-little-interpreters/)
+- [jank gets syntax quoting and more](https://jank-lang.org/blog/2024-03-29-syntax-quoting/)
 
-- [42.parquet – A Zip Bomb for the Big Data Age](https://duckdb.org/2024/03/26/42-parquet-a-zip-bomb-for-the-big-data-age.html)
+- [sqlite for servers](https://kerkour.com/sqlite-for-servers)
 
-- [Fledgling Languages List - New and upcoming programming languages](https://fll.presidentbeef.com/)
+- [Why do (or don't) languages forbid unreachable code?](https://langdev.stackexchange.com/questions/3650/why-do-or-dont-languages-forbid-unreachable-code)
 
-- [Proxmox Import Wizard Available for Migrating VMware ESXi Based Virtual Machines](https://forum.proxmox.com/threads/new-import-wizard-available-for-migrating-vmware-esxi-based-virtual-machines.144023/)
+- [Easy Mode Rust](https://llogiq.github.io/2024/03/28/easy.html)
 
-- [Centerpiece – Your trusty omnibox search](https://github.com/friedow/centerpiece)
+- [Git as debugging tool](https://lucasoshiro.github.io/posts-en/2023-02-13-git-debug/)
 
-- [KeepYourMouthShut - A Python program to auto-generate Podcasts](https://github.com/rajtilakjee/keepyourmouthshut)
+- [Basic Things](https://matklad.github.io/2024/03/22/basic-things.html)
 
-- [Concept Pieces for a Graphical Editor](https://joshleeb.com/posts/status-update-2024-mar.html)
+- [SSPL is bad](https://ssplisbad.com/)
 
-- [On Tech Debt: My Rust Library is now a CDO](https://lucumr.pocoo.org/2024/3/26/rust-cdo/)
+- [Building an interactive shell in Golang](https://www.dolthub.com/blog/2023-03-29-interactive-shell-golang/)
 
-- [Radicle: Sovereign code forge built on Git hits v1.0](https://radicle.xyz)
+- [Life algorithms](https://www.gathering4gardner.org/g4g13gift/math/RokickiTomas-GiftExchange-LifeAlgorithms-G4G13.pdf)
 
-- [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
+- [Announcing NetBSD 10.0 (Mar 28, 2024)](https://www.netbsd.org/releases/formal-10/NetBSD-10.0.html)
 
-- [Finding NetBSD Kernel Bugs through LockDoc](https://scholz.ruhr/blog/finding-netbsd-locking-bugs/)
+- [backdoor in upstream xz/liblzma leading to ssh server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
 
-- [Finding memory leaks in Postgres C code](https://www.enterprisedb.com/blog/finding-memory-leaks-postgres-c-code)
+- [Strengths, weaknesses, opportunities, and threats facing the GNU Autotools](https://www.owlfolio.org/development/autoconf-swot/)
 
-- [Building WOPR: A 7x4090 AI Server](https://www.mov-axbx.com/wopr/wopr_concept.html)
+- [Forward Progress Guarantees in C++ [2023]](https://www.youtube.com/watch?v=g9Rgu6YEuqY)
 
-- [Fixing a Bug in PyPy's Incremental GC](https://www.pypy.org/posts/2024/03/fixing-bug-incremental-gc.html)
+- [Xr0 Makes C Safer than Rust](https://xr0.dev/safer)
 
-- [An awk implementation](https://www.raygard.net/awkdoc/)
+- [Developing a Neovim Docker Plugin from Scratch](https://youtu.be/HXABdG3xJW4)
