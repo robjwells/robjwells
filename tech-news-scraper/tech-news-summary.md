@@ -1,47 +1,49 @@
-- [This TypeScript type haunted my dreams](https://amir.rachum.com/typescript-oneof/)
+- [algojobs.io: simple tech-focused job board](https://algojobs.io/)
 
-- [Changes to u128/i128 layout in Rust 1.77 and 1.78](https://blog.rust-lang.org/2024/03/30/i128-layout-update.html)
+- [The Solution of the Zodiac Killer's 340-Character Cipher](https://arxiv.org/abs/2403.17350)
 
-- [I upgraded my iBook G4 to have an SSD](https://boredzo.org/blog/archives/2024-03-31/i-upgraded-my-ibook-g4-to-have-an-ssd)
+- [Searching Nixpkgs in Under 30 Milliseconds](https://blog.replit.com/nixpkgs-search)
 
-- [Type Inference Was a Mistake](https://borretti.me/article/type-inference-was-a-mistake)
+- [How we Built a 19 PiB Logging Platform with ClickHouse and Saved Millions](https://clickhouse.com/blog/building-a-logging-platform-with-clickhouse-and-saving-millions-over-datadog)
 
-- [Beware of the DashMap deadlock](https://dev.to/acter/beware-of-the-dashmap-deadlock-lij)
+- [The Many, Confusing File System APIs](https://cloudfour.com/thinks/the-many-confusing-file-system-apis/)
 
-- [A proposal to add signals to JavaScript](https://github.com/proposal-signals/proposal-signals)
+- [Slip and slurp in a linear CPS concatenative language](https://dcreager.net/swanson/slip-and-slurp/)
 
-- [Helix Release 24.03 Highlights](https://helix-editor.com/news/release-24-03-highlights/)
+- [Improvements to static analysis in the GCC 14 compiler](https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler)
 
-- [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
+- [Designing one-to-one relationships in PostgreSQL](https://gajus.com/blog/designing-one-to-one-relationships-in-postgresql)
 
-- [sqlite for servers](https://kerkour.com/sqlite-for-servers)
+- [The case for native assertions in PostgreSQL](https://gajus.com/blog/the-case-for-native-assertions-in-postgresql)
 
-- [Fast and concise probabilistic filters in Python](https://lemire.me/blog/2024/03/31/fast-and-concise-probabilistic-filters-in-python/)
+- [Fuck trees, use tags](https://garrit.xyz/posts/2024-04-02-fuck-trees-use-tags)
 
-- [Git as debugging tool](https://lucasoshiro.github.io/posts-en/2023-02-13-git-debug/)
+- [logfmtxx: Header only C++23 structured logging library using logfmt](https://github.com/linkdd/logfmtxx)
 
-- [Managarm: End of 2023 Update](https://managarm.org/2023/12/31/end-of-year-update.html)
+- [The 6502 Instruction Set as a Database](https://gitlab.com/Screwtapello/isa65xx)
 
-- [Basic Things](https://matklad.github.io/2024/03/22/basic-things.html)
+- [NixOS is not reproducible](https://linderud.dev/blog/nixos-is-not-reproducible/)
 
-- [mdbooker – turn your README.md into a documentation site](https://maximullaris.com/mdbooker.html)
+- [Mycorrhiza Wiki](https://mycorrhiza.wiki/)
 
-- [Explaining the internals of async-task from the ground up](https://notgull.net/async-task-explained-part1/)
+- [Introducing Jpegli: A New JPEG Coding Library](https://opensource.googleblog.com/2024/04/introducing-jpegli-new-jpeg-coding-library.html)
 
-- [Refurb weekend: Data General/One (and the worst LCD in the world)](https://oldvcr.blogspot.com/2024/03/refurb-weekend-data-generalone-and.html)
+- [autoconf makes me think we stopped evolving too soon](https://rachelbythebay.com/w/2024/04/02/autoconf/)
 
-- [Engineering a culture](https://oxide.computer/blog/engineering-culture)
+- [Putting an xz Backdoor Payload in a Valid RSA Key](https://rya.nc/xz-valid-n.html)
 
-- [How Read-Intensive is The Kernel's Use of RCU?](https://paulmck.livejournal.com/67547.html)
+- [KDE6 release: D-Bus and Polkit Galore](https://security.opensuse.org/2024/04/02/kde6-dbus-polkit.html)
 
-- [A Kinematically Coupled, Nanometer-Resolution Piezo Focus Stage](https://www.bunniestudios.com/blog/?p=7066)
+- [strudel: A  live coding platform to write dynamic music pieces in the browser](https://strudel.cc)
 
-- [Announcing NetBSD 10.0 (Mar 28, 2024)](https://www.netbsd.org/releases/formal-10/NetBSD-10.0.html)
+- [Guess My RGB](https://susam.net/myrgb.html)
 
-- [backdoor in upstream xz/liblzma leading to ssh server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
+- [Get Started with Embedded Swift on ARM and RISC-V Microcontrollers](https://swift.org/blog/embedded-swift-examples/)
 
-- [Redox OS Development Priorities for 2023/24](https://www.redox-os.org/news/development-priorities-2023-09/)
+- [Programming Apprenticeships](https://two-wrongs.com/programming-apprenticeships.html)
 
-- [A Deep Dive into Email Deliverability in 2024](https://www.xomedia.io/blog/a-deep-dive-into-email-deliverability/)
+- [IBIS hotel check-in terminal keypad-code leakage](https://www.pentagrid.ch/en/blog/ibis-hotel-check-in-terminal-keypad-code-leakage/)
 
-- [On Garbage Collection](https://xorvoid.com/on_garbage_collection.html)
+- [Introducing linkblocks, the Federated Bookmark Manager](https://www.rafa.ee/articles/introducing-linkblocks-federated-bookmark-manager/)
+
+- [OSQI](https://www.tbray.org/ongoing/When/202x/2024/04/01/OSQI)
