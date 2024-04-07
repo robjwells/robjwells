@@ -1,49 +1,47 @@
-- [algojobs.io: simple tech-focused job board](https://algojobs.io/)
+- [The challenges of building modern open source software on PowerPC Mac OS X](http://www.netbsd.org/~nia/tigersrc/)
 
-- [The Solution of the Zodiac Killer's 340-Character Cipher](https://arxiv.org/abs/2403.17350)
+- [Training LLMs over Neurally Compressed Text](https://arxiv.org/abs/2404.03626)
 
-- [Searching Nixpkgs in Under 30 Milliseconds](https://blog.replit.com/nixpkgs-search)
+- [An IRC Client in your motherboard](https://axleos.com/an-irc-client-in-your-motherboard/)
 
-- [How we Built a 19 PiB Logging Platform with ClickHouse and Saved Millions](https://clickhouse.com/blog/building-a-logging-platform-with-clickhouse-and-saving-millions-over-datadog)
+- [GNOME Builder abandons XDG_CACHE_DIR](https://blogs.gnome.org/chergert/2024/04/03/custom-artifacts-directories/)
 
-- [The Many, Confusing File System APIs](https://cloudfour.com/thinks/the-many-confusing-file-system-apis/)
+- [Chapel 2.0: Scalable and Productive Computing for All](https://chapel-lang.org/blog/posts/announcing-chapel-2.0/)
 
-- [Slip and slurp in a linear CPS concatenative language](https://dcreager.net/swanson/slip-and-slurp/)
+- [Updated App Store Guidelines Now Allowing "Retro game console emulator apps"](https://developer.apple.com/app-store/review/guidelines/)
 
-- [Improvements to static analysis in the GCC 14 compiler](https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler)
+- [eC Programming Language](https://ec-lang.org/)
 
-- [Designing one-to-one relationships in PostgreSQL](https://gajus.com/blog/designing-one-to-one-relationships-in-postgresql)
+- [Design choices for post-quantum TLS](https://educatedguesswork.org/posts/pq-rollout/)
 
-- [The case for native assertions in PostgreSQL](https://gajus.com/blog/the-case-for-native-assertions-in-postgresql)
+- [A History of Source Control Systems: SCCS and RCS](https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/)
 
-- [Fuck trees, use tags](https://garrit.xyz/posts/2024-04-02-fuck-trees-use-tags)
+- [CVE-2023-3741: how we hacked a VoIP telephone](https://havce.it/posts/cve-2023-3741/)
 
-- [logfmtxx: Header only C++23 structured logging library using logfmt](https://github.com/linkdd/logfmtxx)
+- [Building My First Homelab Server Rack](https://mtlynch.io/building-first-homelab-rack/)
 
-- [The 6502 Instruction Set as a Database](https://gitlab.com/Screwtapello/isa65xx)
+- [The Assist](https://qntm.org/assist)
 
-- [NixOS is not reproducible](https://linderud.dev/blog/nixos-is-not-reproducible/)
+- [pkgsrc on macOS: still works](https://schmonz.com/2024/04/02/pkgsrc-on-macos-still-works/)
 
-- [Mycorrhiza Wiki](https://mycorrhiza.wiki/)
+- [MDN’s AI Help and lucid lies](https://seirdy.one/posts/2024/04/04/mdn-ai-help-and-lucid-lies/)
 
-- [Introducing Jpegli: A New JPEG Coding Library](https://opensource.googleblog.com/2024/04/introducing-jpegli-new-jpeg-coding-library.html)
+- [Ownership in Rust](https://smallcultfollowing.com/babysteps/blog/2024/04/05/ownership-in-rust/)
 
-- [autoconf makes me think we stopped evolving too soon](https://rachelbythebay.com/w/2024/04/02/autoconf/)
+- [File over app](https://stephango.com/file-over-app)
 
-- [Putting an xz Backdoor Payload in a Valid RSA Key](https://rya.nc/xz-valid-n.html)
+- [Photoshop for text (2022)](https://stephango.com/photoshop-for-text)
 
-- [KDE6 release: D-Bus and Polkit Galore](https://security.opensuse.org/2024/04/02/kde6-dbus-polkit.html)
+- [Glory is only 11MB/sec away](https://thmsmlr.com/cheap-infra)
 
-- [strudel: A  live coding platform to write dynamic music pieces in the browser](https://strudel.cc)
+- [FreeBSD Zero to Desktop Speedrun Challenge](https://vermaden.wordpress.com/2024/04/05/freebsd-zero-to-desktop-speedrun-challenge/)
 
-- [Guess My RGB](https://susam.net/myrgb.html)
+- [Modal](https://wiki.xxiivv.com/site/modal)
 
-- [Get Started with Embedded Swift on ARM and RISC-V Microcontrollers](https://swift.org/blog/embedded-swift-examples/)
+- [OpenTofu may be showing us the wrong way to fork](https://www.infoworld.com/article/3714980/opentofu-may-be-showing-us-the-wrong-way-to-fork.html)
 
-- [Programming Apprenticeships](https://two-wrongs.com/programming-apprenticeships.html)
+- ["scrolll" – a demo for 32 HTML scrollbars](https://www.youtube.com/watch?v=i-aqB9Ii38Y)
 
-- [IBIS hotel check-in terminal keypad-code leakage](https://www.pentagrid.ch/en/blog/ibis-hotel-check-in-terminal-keypad-code-leakage/)
+- [Towards Impeccable Rust](https://www.youtube.com/watch?v=qfknfCsICUM)
 
-- [Introducing linkblocks, the Federated Bookmark Manager](https://www.rafa.ee/articles/introducing-linkblocks-federated-bookmark-manager/)
-
-- [OSQI](https://www.tbray.org/ongoing/When/202x/2024/04/01/OSQI)
+- [Reversing a Mystery Function](https://xorvoid.com/reversing_a_mystery_function.html)
