@@ -1,47 +1,49 @@
-- [The challenges of building modern open source software on PowerPC Mac OS X](http://www.netbsd.org/~nia/tigersrc/)
+- [TSAC: Very Low Bitrate Audio Compression](https://bellard.org/tsac/)
 
-- [Training LLMs over Neurally Compressed Text](https://arxiv.org/abs/2404.03626)
+- [C Compilers Disprove Fermat’s Last Theorem (2010)](https://blog.regehr.org/archives/140)
 
-- [An IRC Client in your motherboard](https://axleos.com/an-irc-client-in-your-motherboard/)
+- [The server chose violence](https://cliffle.com/blog/hubris-reply-fault/)
 
-- [GNOME Builder abandons XDG_CACHE_DIR](https://blogs.gnome.org/chergert/2024/04/03/custom-artifacts-directories/)
+- [Introducing Google’s new Arm-based CPU](https://cloud.google.com/blog/products/compute/introducing-googles-new-arm-based-cpu)
 
-- [Chapel 2.0: Scalable and Productive Computing for All](https://chapel-lang.org/blog/posts/announcing-chapel-2.0/)
+- [Crystal 1.12.0 is released](https://crystal-lang.org/2024/04/09/1.12.0-released/)
 
-- [Updated App Store Guidelines Now Allowing "Retro game console emulator apps"](https://developer.apple.com/app-store/review/guidelines/)
+- [Design is not recoverable from implementation](https://ericnormand.substack.com/p/design-is-not-recoverable-from-implementation)
 
-- [eC Programming Language](https://ec-lang.org/)
+- [BatBadBut: You can't securely execute commands on Windows](https://flatt.tech/research/posts/batbadbut-you-cant-securely-execute-commands-on-windows/)
 
-- [Design choices for post-quantum TLS](https://educatedguesswork.org/posts/pq-rollout/)
+- [Taskwarrior 3.0 Released](https://github.com/GothenburgBitFactory/taskwarrior/releases/tag/v3.0.0)
 
-- [A History of Source Control Systems: SCCS and RCS](https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/)
+- [SSSL - Hackless SSL bypass for the Wii U](https://github.com/PretendoNetwork/SSSL)
 
-- [CVE-2023-3741: how we hacked a VoIP telephone](https://havce.it/posts/cve-2023-3741/)
+- [melt: Backup and restore Ed25519 SSH keys with seed words](https://github.com/charmbracelet/melt)
 
-- [Building My First Homelab Server Rack](https://mtlynch.io/building-first-homelab-rack/)
+- [PILOT: Ping-based Information Lookup and Outbound Transfer](https://github.com/dahvidschloss/PILOT)
 
-- [The Assist](https://qntm.org/assist)
+- [BZIP2: Format Specification](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf)
 
-- [pkgsrc on macOS: still works](https://schmonz.com/2024/04/02/pkgsrc-on-macos-still-works/)
+- [Ratarmount: Access large archives as a filesystem efficiently](https://github.com/mxmlnkn/ratarmount)
 
-- [MDN’s AI Help and lucid lies](https://seirdy.one/posts/2024/04/04/mdn-ai-help-and-lucid-lies/)
+- [Neco: Coroutine library for C](https://github.com/tidwall/neco)
 
-- [Ownership in Rust](https://smallcultfollowing.com/babysteps/blog/2024/04/05/ownership-in-rust/)
+- [Testing HTML With Modern CSS](https://heydonworks.com/article/testing-html-with-modern-css/)
 
-- [File over app](https://stephango.com/file-over-app)
+- [my deployment platform is a shell script](https://j3s.sh/thought/my-deployment-platform-is-a-shell-script.html)
 
-- [Photoshop for text (2022)](https://stephango.com/photoshop-for-text)
+- [Notes on how to use LLMs in your product](https://lethain.com/mental-model-for-how-to-use-llms-in-products/)
 
-- [Glory is only 11MB/sec away](https://thmsmlr.com/cheap-infra)
+- [seL4 Device Driver Framework 0.4.0](https://lists.sel4.systems/hyperkitty/list/devel@sel4.systems/thread/6QKUK5C5PNN6CUR2XEUR2SSFLTCTTXLL/)
 
-- [FreeBSD Zero to Desktop Speedrun Challenge](https://vermaden.wordpress.com/2024/04/05/freebsd-zero-to-desktop-speedrun-challenge/)
+- [YETI programming language](https://mth.github.io/yeti/)
 
-- [Modal](https://wiki.xxiivv.com/site/modal)
+- [MIPS stacktrace: an unexpected journey](https://smeso.it/2024/03/02/mips-stacktrace-an-unexpected-journey.html)
 
-- [OpenTofu may be showing us the wrong way to fork](https://www.infoworld.com/article/3714980/opentofu-may-be-showing-us-the-wrong-way-to-fork.html)
+- [Guile Hoot (Scheme->Wasm compiler) 0.4.0 released](https://spritely.institute/news/guile-hoot-v040-released.html)
 
-- ["scrolll" – a demo for 32 HTML scrollbars](https://www.youtube.com/watch?v=i-aqB9Ii38Y)
+- [Lambda Screen: Fractals in Pure Lambda Calculus](https://text.marvinborner.de/2024-03-25-02.html)
 
-- [Towards Impeccable Rust](https://www.youtube.com/watch?v=qfknfCsICUM)
+- [Don't require people to change 'source code' to configure your programs](https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigureNoSourceCodeChanges)
 
-- [Reversing a Mystery Function](https://xorvoid.com/reversing_a_mystery_function.html)
+- [How I Tripped Over the Debian Weak Keys Vulnerability](https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html)
+
+- [Async Rust](https://zed.dev/blog/zed-decoded-async-rust)
