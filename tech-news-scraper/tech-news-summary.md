@@ -1,49 +1,47 @@
-- [TSAC: Very Low Bitrate Audio Compression](https://bellard.org/tsac/)
+- [Improve performance of you Rust functions by const currying](https://blog.cocl2.com/posts/const-currying-rs/)
 
-- [C Compilers Disprove Fermat’s Last Theorem (2010)](https://blog.regehr.org/archives/140)
+- [Qemu IPv6 Slirp](https://blog.izissise.net/posts/qemuipv6slirp/)
 
-- [The server chose violence](https://cliffle.com/blog/hubris-reply-fault/)
+- [OpenBSD is a Cozy Operating System](https://btxx.org/posts/OpenBSD_is_a_Cozy_Operating_System/)
 
-- [Introducing Google’s new Arm-based CPU](https://cloud.google.com/blog/products/compute/introducing-googles-new-arm-based-cpu)
+- [Cipherleaks is the first demonstrated attack against AMD SEV-SNP](https://cipherleaks.com/)
 
-- [Crystal 1.12.0 is released](https://crystal-lang.org/2024/04/09/1.12.0-released/)
+- [The Simple Beauty of XOR Floating Point Compression](https://clemenswinter.com/2024/04/07/the-simple-beauty-of-xor-floating-point-compression/)
 
-- [Design is not recoverable from implementation](https://ericnormand.substack.com/p/design-is-not-recoverable-from-implementation)
+- [Circular Buffer Performance Trick](https://cybernetist.com/2024/04/11/circular-buffer-performance-trick/)
 
-- [BatBadBut: You can't securely execute commands on Windows](https://flatt.tech/research/posts/batbadbut-you-cant-securely-execute-commands-on-windows/)
+- [Fast, Declarative, Reproduble and Composable Developer Environments using Nix](https://devenv.sh/)
 
-- [Taskwarrior 3.0 Released](https://github.com/GothenburgBitFactory/taskwarrior/releases/tag/v3.0.0)
+- [Setting up PostgreSQL for running integration tests](https://gajus.com/blog/setting-up-postgre-sql-for-running-integration-tests)
 
-- [SSSL - Hackless SSL bypass for the Wii U](https://github.com/PretendoNetwork/SSSL)
+- [Backport of .NET 2.0 - 3.5 to Windows 95](https://github.com/itsmattkc/dotnet9x)
 
-- [melt: Backup and restore Ed25519 SSH keys with seed words](https://github.com/charmbracelet/melt)
+- [Unit and Integration Tests](https://matklad.github.io/2022/07/04/unit-and-integration-tests.html)
 
-- [PILOT: Ping-based Information Lookup and Outbound Transfer](https://github.com/dahvidschloss/PILOT)
+- [Semantic Sound Synthesis with Agents](https://montyanderson.net/writing/synthesis)
 
-- [BZIP2: Format Specification](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf)
+- [Abstract methods and NotImplementedError in Ruby](https://nithinbekal.com/posts/abstract-methods-notimplementederror-ruby/)
 
-- [Ratarmount: Access large archives as a filesystem efficiently](https://github.com/mxmlnkn/ratarmount)
+- [What makes a great technical blog](https://notes.eatonphil.com/2024-04-10-what-makes-a-great-tech-blog.html)
 
-- [Neco: Coroutine library for C](https://github.com/tidwall/neco)
+- [Our Response to Hashicorp's Cease and Desist Letter](https://opentofu.org/blog/our-response-to-hashicorps-cease-and-desist/)
 
-- [Testing HTML With Modern CSS](https://heydonworks.com/article/testing-html-with-modern-css/)
+- [PEP 744 – JIT Compilation](https://peps.python.org/pep-0744/)
 
-- [my deployment platform is a shell script](https://j3s.sh/thought/my-deployment-platform-is-a-shell-script.html)
+- [A math puzzle and a better algorithm for top-k](https://quickwit.io/blog/top-k-complexity)
 
-- [Notes on how to use LLMs in your product](https://lethain.com/mental-model-for-how-to-use-llms-in-products/)
+- [Swift for C++ Practitioners](https://sfba.social/@dgregor79/112253040167641326)
 
-- [seL4 Device Driver Framework 0.4.0](https://lists.sel4.systems/hyperkitty/list/devel@sel4.systems/thread/6QKUK5C5PNN6CUR2XEUR2SSFLTCTTXLL/)
+- [Why is there no realloc that takes the number of bytes to copy?](https://shift.click/blog/missing-alloc-api/)
 
-- [YETI programming language](https://mth.github.io/yeti/)
+- [“Tear”able Puns, and Worse Ideas: A Minimally Thread-Safe Cell](https://shift.click/blog/tearcell/)
 
-- [MIPS stacktrace: an unexpected journey](https://smeso.it/2024/03/02/mips-stacktrace-an-unexpected-journey.html)
+- [SIGBOVIK 2024](https://sigbovik.org/2024/)
 
-- [Guile Hoot (Scheme->Wasm compiler) 0.4.0 released](https://spritely.institute/news/guile-hoot-v040-released.html)
+- [Unit tests considered harmful? No](https://thedailydeveloper.substack.com/p/unit-tests-considered-harmful-no)
 
-- [Lambda Screen: Fractals in Pure Lambda Calculus](https://text.marvinborner.de/2024-03-25-02.html)
+- [WebXR retro computer simulation](https://www.dompajak.com/blog/webxr-beeb-virtual-beeb/index.html)
 
-- [Don't require people to change 'source code' to configure your programs](https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigureNoSourceCodeChanges)
+- [Fivefold Slower Compared to Go? Optimizing Rust's Protobuf Decoding Performance](https://www.greptime.com/blogs/2024-04-09-rust-protobuf-performance)
 
-- [How I Tripped Over the Debian Weak Keys Vulnerability](https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html)
-
-- [Async Rust](https://zed.dev/blog/zed-decoded-async-rust)
+- [Signals. I spent 2 years to understand this part](https://www.youtube.com/watch?v=d0gS5TXarXc)
