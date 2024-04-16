@@ -1,47 +1,49 @@
-- [Improve performance of you Rust functions by const currying](https://blog.cocl2.com/posts/const-currying-rs/)
+- [Hidden dependencies in Linux binaries](http://thelittleengineerthatcould.blogspot.com/2024/04/hidden-dependencies-in-linux-binaries.html)
 
-- [Qemu IPv6 Slirp](https://blog.izissise.net/posts/qemuipv6slirp/)
+- [Building a GPS receiver](https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/)
 
-- [OpenBSD is a Cozy Operating System](https://btxx.org/posts/OpenBSD_is_a_Cozy_Operating_System/)
+- [Apple’s Mysterious Fisheye Projection](https://blog.mikeswanson.com/post/747761863530528768/apples-mysterious-fisheye-projection)
 
-- [Cipherleaks is the first demonstrated attack against AMD SEV-SNP](https://cipherleaks.com/)
+- [Trying Out Cloudflare's `foundations` Library for Rust](https://cprimozic.net/blog/trying-out-cloudflare-foundations-library/)
 
-- [The Simple Beauty of XOR Floating Point Compression](https://clemenswinter.com/2024/04/07/the-simple-beauty-of-xor-floating-point-compression/)
+- [Root Cause vs. Contributing Factors](https://felipe.rs/2024/04/08/root-cause-vs-contributing-factors/)
 
-- [Circular Buffer Performance Trick](https://cybernetist.com/2024/04/11/circular-buffer-performance-trick/)
+- [Beware of base64 encoded strings](https://garrit.xyz/posts/2024-04-15-beware-of-base64-encoded-strings)
 
-- [Fast, Declarative, Reproduble and Composable Developer Environments using Nix](https://devenv.sh/)
+- [Neverest, a CLI to synchronize, backup and restore emails](https://github.com/soywod/neverest)
 
-- [Setting up PostgreSQL for running integration tests](https://gajus.com/blog/setting-up-postgre-sql-for-running-integration-tests)
+- [Locally Perfect Spatial Hashing](https://haug.codes/blog/locally-perfect-hashing/)
 
-- [Backport of .NET 2.0 - 3.5 to Windows 95](https://github.com/itsmattkc/dotnet9x)
+- [Mastering Observability: How We Solved a Major Bug in Just 15 Minutes](https://jaywhy13.hashnode.dev/solving-like-sherlock-a-15-minute-case-with-observability)
 
-- [Unit and Integration Tests](https://matklad.github.io/2022/07/04/unit-and-integration-tests.html)
+- [Testing Practical Common Lisp code on Medley Interlisp](https://journal.paoloamoroso.com/testing-the-practical-common-lisp-code-on-medley)
 
-- [Semantic Sound Synthesis with Agents](https://montyanderson.net/writing/synthesis)
+- [Spectral Ray Tracing](https://larswander.com/writing/spectral-ray-tracing/)
 
-- [Abstract methods and NotImplementedError in Ruby](https://nithinbekal.com/posts/abstract-methods-notimplementederror-ruby/)
+- [Measuring your system’s performance using software  (Go edition)](https://lemire.me/blog/2024/03/17/measuring-your-systems-performance-using-software-go-edition/)
 
-- [What makes a great technical blog](https://notes.eatonphil.com/2024-04-10-what-makes-a-great-tech-blog.html)
+- [Story of Etak Navigator](https://maphappenings.com/2024/04/11/story-of-etak/)
 
-- [Our Response to Hashicorp's Cease and Desist Letter](https://opentofu.org/blog/our-response-to-hashicorps-cease-and-desist/)
+- [Weird monitor bugs people sent me in the last 5 years](https://notes.alinpanaitiu.com/Weird-monitor-bugs)
 
-- [PEP 744 – JIT Compilation](https://peps.python.org/pep-0744/)
+- [The origin and virtues of semicolons in programming languages](https://ntietz.com/blog/researching-why-we-use-semicolons-as-statement-terminators/)
 
-- [A math puzzle and a better algorithm for top-k](https://quickwit.io/blog/top-k-complexity)
+- [Only Spans](https://onlyspans.net/)
 
-- [Swift for C++ Practitioners](https://sfba.social/@dgregor79/112253040167641326)
+- [A Feat of Engineering](https://registerspill.thorstenball.com/p/a-feat-of-engineering)
 
-- [Why is there no realloc that takes the number of bytes to copy?](https://shift.click/blog/missing-alloc-api/)
+- [DB Indexes Do Not Magically Compose](https://rtpg.co/2024/04/14/db-indexes-do-not-magically-compose/)
 
-- [“Tear”able Puns, and Worse Ideas: A Minimally Thread-Safe Cell](https://shift.click/blog/tearcell/)
+- [XZ Utils review notes](https://tukaani.org/xz-backdoor/review.html)
 
-- [SIGBOVIK 2024](https://sigbovik.org/2024/)
+- [Why No IPv6?](https://whynoipv6.com/)
 
-- [Unit tests considered harmful? No](https://thedailydeveloper.substack.com/p/unit-tests-considered-harmful-no)
+- [Knuth–Morris–Pratt illustrated](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/knuthmorrispratt-illustrated/8EFA77D663D585B68630E372BCE1EBA4)
 
-- [WebXR retro computer simulation](https://www.dompajak.com/blog/webxr-beeb-virtual-beeb/index.html)
+- [PuTTY vulnerability vuln-p521-bias](https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html)
 
-- [Fivefold Slower Compared to Go? Optimizing Rust's Protobuf Decoding Performance](https://www.greptime.com/blogs/2024-04-09-rust-protobuf-performance)
+- [Upgrading my Chumby 8 kernel part 8: audio](https://www.downtowndougbrown.com/2024/04/upgrading-my-chumby-8-kernel-part-8-audio/)
 
-- [Signals. I spent 2 years to understand this part](https://www.youtube.com/watch?v=d0gS5TXarXc)
+- [Elastic Universal Profiling agent, a continuous profiling solution, is now open source](https://www.elastic.co/de/blog/elastic-universal-profiling-agent-open-source)
+
+- [No I don't want 2, Emacs](https://www.emoses.org/posts/dont-write-2/)
