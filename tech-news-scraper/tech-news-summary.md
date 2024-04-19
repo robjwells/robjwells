@@ -1,49 +1,49 @@
-- [Hidden dependencies in Linux binaries](http://thelittleengineerthatcould.blogspot.com/2024/04/hidden-dependencies-in-linux-binaries.html)
+- [Formal Methods: Just Good Engineering Practice?](http://brooker.co.za/blog/2024/04/17/formal.html)
 
-- [Building a GPS receiver](https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/)
+- [Ruff v0.4.0: a hand-written recursive descent parser for Python](https://astral.sh/blog/ruff-v0.4.0)
 
-- [Apple’s Mysterious Fisheye Projection](https://blog.mikeswanson.com/post/747761863530528768/apples-mysterious-fisheye-projection)
+- [Hydradancer: Faster USB Emulation for Facedancer](https://blog.quarkslab.com/hydradancer-faster-usb-emulation-for-facedancer.html)
 
-- [Trying Out Cloudflare's `foundations` Library for Rust](https://cprimozic.net/blog/trying-out-cloudflare-foundations-library/)
+- [Gazelle v0.2](https://demo.tincans.ai/)
 
-- [Root Cause vs. Contributing Factors](https://felipe.rs/2024/04/08/root-cause-vs-contributing-factors/)
+- [SQLite on Rails: The how and why of optimal performance](https://fractaledmind.github.io/2024/04/15/sqlite-on-rails-the-how-and-why-of-optimal-performance/)
 
-- [Beware of base64 encoded strings](https://garrit.xyz/posts/2024-04-15-beware-of-base64-encoded-strings)
+- [Randar Explanation and Information](https://github.com/spawnmason/randar-explanation/blob/master/README.md)
 
-- [Neverest, a CLI to synchronize, backup and restore emails](https://github.com/soywod/neverest)
+- [CVE-2024-20356: Jailbreaking a Cisco appliance to run DOOM](https://labs.nettitude.com/blog/cve-2024-20356-jailbreaking-a-cisco-appliance-to-run-doom/)
 
-- [Locally Perfect Spatial Hashing](https://haug.codes/blog/locally-perfect-hashing/)
+- [Meta Llama 3](https://llama.meta.com/llama3/)
 
-- [Mastering Observability: How We Solved a Major Bug in Just 15 Minutes](https://jaywhy13.hashnode.dev/solving-like-sherlock-a-15-minute-case-with-observability)
+- [Full-text search of the OpenBSD manual pages](https://man.ifconfig.se)
 
-- [Testing Practical Common Lisp code on Medley Interlisp](https://journal.paoloamoroso.com/testing-the-practical-common-lisp-code-on-medley)
+- [Natural Language Processing in Bash](https://massimo-nazaria.github.io/nlp.html)
 
-- [Spectral Ray Tracing](https://larswander.com/writing/spectral-ray-tracing/)
+- [The Rust Calling Convention We Deserve](https://mcyoung.xyz/2024/04/17/calling-convention/)
 
-- [Measuring your system’s performance using software  (Go edition)](https://lemire.me/blog/2024/03/17/measuring-your-systems-performance-using-software-go-edition/)
+- [We Need to Talk About the State of Calendar Software on Desktop](https://nadim.computer/posts/2024-04-18-calendar.html)
 
-- [Story of Etak Navigator](https://maphappenings.com/2024/04/11/story-of-etak/)
+- [Redis is forked](https://newsletter.vickiboykis.com/archive/redis-is-forked/)
 
-- [Weird monitor bugs people sent me in the last 5 years](https://notes.alinpanaitiu.com/Weird-monitor-bugs)
+- [XZ/LZMA Worked Example](https://nigeltao.github.io/blog/2024/xz-lzma-part-1-range-coding.html)
 
-- [The origin and virtues of semicolons in programming languages](https://ntietz.com/blog/researching-why-we-use-semicolons-as-statement-terminators/)
+- [PCIe 6.0 overview](https://pcisig.com/blog/evolution-pci-express-specification-its-sixth-generation-third-decade-and-still-going-strong)
 
-- [Only Spans](https://onlyspans.net/)
+- [seL4 on AArch64 is now verified for functional correctness](https://proofcraft.systems/news-2024/#2024-04-01)
 
-- [A Feat of Engineering](https://registerspill.thorstenball.com/p/a-feat-of-engineering)
+- [Systems Distributed '24](https://systemsdistributed.com)
 
-- [DB Indexes Do Not Magically Compose](https://rtpg.co/2024/04/14/db-indexes-do-not-magically-compose/)
+- [Hardest Problem in Computer Science: Centering Things](https://tonsky.me/blog/centering/)
 
-- [XZ Utils review notes](https://tukaani.org/xz-backdoor/review.html)
+- [Lions OS: secure – fast – adaptable](https://trustworthy.systems/publications/papers/Heiser_24:eo.abstract)
 
-- [Why No IPv6?](https://whynoipv6.com/)
+- [The History of Novell](https://www.abortretry.fail/p/the-history-of-novell)
 
-- [Knuth–Morris–Pratt illustrated](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/knuthmorrispratt-illustrated/8EFA77D663D585B68630E372BCE1EBA4)
+- [Wayland, where are we in 2024? Any good for being the default?](https://www.dedoimedo.com/computers/wayland-2024.html)
 
-- [PuTTY vulnerability vuln-p521-bias](https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html)
+- [Make your own backdoor: CFLAGS code injection, Makefile injection, pkg-config](https://www.openwall.com/lists/oss-security/2024/04/17/3)
 
-- [Upgrading my Chumby 8 kernel part 8: audio](https://www.downtowndougbrown.com/2024/04/upgrading-my-chumby-8-kernel-part-8-audio/)
+- [Ubuntu 24.04 yields a 20% advantage over Windows 11 on Ryzen7 Framework laptop](https://www.phoronix.com/review/framework-16-windows-linux)
 
-- [Elastic Universal Profiling agent, a continuous profiling solution, is now open source](https://www.elastic.co/de/blog/elastic-universal-profiling-agent-open-source)
+- [Zest: syntax](https://www.scattered-thoughts.net/writing/zest-syntax/)
 
-- [No I don't want 2, Emacs](https://www.emoses.org/posts/dont-write-2/)
+- [Why you need a "WTF Notebook"](https://www.simplermachines.com/why-you-need-a-wtf-notebook/)
