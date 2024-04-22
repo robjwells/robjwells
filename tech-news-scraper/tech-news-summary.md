@@ -1,49 +1,49 @@
-- [Formal Methods: Just Good Engineering Practice?](http://brooker.co.za/blog/2024/04/17/formal.html)
+- [Forge: A Tool to Teach Formal Methods](https://blog.brownplt.org/2024/04/21/forge.html)
 
-- [Ruff v0.4.0: a hand-written recursive descent parser for Python](https://astral.sh/blog/ruff-v0.4.0)
+- [What’s New in Go 1.22: cmp.Or](https://blog.carlana.net/post/2024/golang-cmp-or-uses-and-history/)
 
-- [Hydradancer: Faster USB Emulation for Facedancer](https://blog.quarkslab.com/hydradancer-faster-usb-emulation-for-facedancer.html)
+- [Parsing and all that](https://blog.jeffsmits.net/compsci/2024/04/07/parsing-and-all-that/)
 
-- [Gazelle v0.2](https://demo.tincans.ai/)
+- [Tips on Adding JSON Output to Your CLI App](https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/)
 
-- [SQLite on Rails: The how and why of optimal performance](https://fractaledmind.github.io/2024/04/15/sqlite-on-rails-the-how-and-why-of-optimal-performance/)
+- [Dataflow Analyses and Compiler Optimizations that Use Them, for Free](https://blog.regehr.org/archives/2578)
 
-- [Randar Explanation and Information](https://github.com/spawnmason/randar-explanation/blob/master/README.md)
+- [Shared libs, rpath and the runtime linker](https://carlosrdrz.dev/shared-libs-rpath-and-the-runtime-linker)
 
-- [CVE-2024-20356: Jailbreaking a Cisco appliance to run DOOM](https://labs.nettitude.com/blog/cve-2024-20356-jailbreaking-a-cisco-appliance-to-run-doom/)
+- [Do not buy Hisense TVs (or at least keep them offline)](https://cohost.org/ghoulnoise/post/5286766-do-not-buy-hisense-t)
 
-- [Meta Llama 3](https://llama.meta.com/llama3/)
+- [Programming vs mathematical curiosity](https://demian.ferrei.ro/blog/programmer-vs-mathematician)
 
-- [Full-text search of the OpenBSD manual pages](https://man.ifconfig.se)
+- [Inside the Super Nintendo cartridges](https://fabiensanglard.net/snes_carts/index.html)
 
-- [Natural Language Processing in Bash](https://massimo-nazaria.github.io/nlp.html)
+- [Rust Stream API visualized and exposed](https://github.com/alexpusch/rust-magic-patterns/blob/master/rust-stream-visualized/Readme.md)
 
-- [The Rust Calling Convention We Deserve](https://mcyoung.xyz/2024/04/17/calling-convention/)
+- [lunatik: Lunatik is a framework for scripting the Linux kernel with Lua](https://github.com/luainkernel/lunatik)
 
-- [We Need to Talk About the State of Calendar Software on Desktop](https://nadim.computer/posts/2024-04-18-calendar.html)
+- [thetawave: A physics based, space shooter game made with Rust and the Bevy engine](https://github.com/thetawavegame/thetawave)
 
-- [Redis is forked](https://newsletter.vickiboykis.com/archive/redis-is-forked/)
+- [git bisect-find](https://gitlab.com/kevincox/git-bisect-find)
 
-- [XZ/LZMA Worked Example](https://nigeltao.github.io/blog/2024/xz-lzma-part-1-range-coding.html)
+- [An entire Social Network in 1.6GB (GraphD Part 2)](https://jazco.dev/2024/04/20/roaring-bitmaps/)
 
-- [PCIe 6.0 overview](https://pcisig.com/blog/evolution-pci-express-specification-its-sixth-generation-third-decade-and-still-going-strong)
+- [C&C -  Solving Recursive Equations](https://jozefg.bitbucket.io/posts/2015-08-14-solve-domains.html)
 
-- [seL4 on AArch64 is now verified for functional correctness](https://proofcraft.systems/news-2024/#2024-04-01)
+- [Why you shouldn't run a BSD on a PC](https://michal.sapka.me/bsd/why-not-bsd/)
 
-- [Systems Distributed '24](https://systemsdistributed.com)
+- [Cross compiling C/Rust to win32, again](https://neugierig.org/software/blog/2024/04/cross-compile-2.html)
 
-- [Hardest Problem in Computer Science: Centering Things](https://tonsky.me/blog/centering/)
+- [Open letter to the NixOS foundation](https://save-nix-together.org/)
 
-- [Lions OS: secure – fast – adaptable](https://trustworthy.systems/publications/papers/Heiser_24:eo.abstract)
+- [Coroutines and effects](https://without.boats/blog/coroutines-and-effects/)
 
-- [The History of Novell](https://www.abortretry.fail/p/the-history-of-novell)
+- [AI isn't useless. But is it worth it?](https://www.citationneeded.news/ai-isnt-useless/)
 
-- [Wayland, where are we in 2024? Any good for being the default?](https://www.dedoimedo.com/computers/wayland-2024.html)
+- [glibc CVE-2024-2961: Buffer overflow in iconv](https://www.openwall.com/lists/oss-security/2024/04/18/4)
 
-- [Make your own backdoor: CFLAGS code injection, Makefile injection, pkg-config](https://www.openwall.com/lists/oss-security/2024/04/17/3)
+- [The Design of Everyday APIs](https://www.roguelynn.com/talks/everyday-apis/)
 
-- [Ubuntu 24.04 yields a 20% advantage over Windows 11 on Ryzen7 Framework laptop](https://www.phoronix.com/review/framework-16-windows-linux)
+- [Stanford AI Syllabus (1980)](https://www.saildart.org/AIQUAL.80[AM,DBL]1)
 
-- [Zest: syntax](https://www.scattered-thoughts.net/writing/zest-syntax/)
+- [Why We Run FreeBSD CURRENT at Netflix](https://www.youtube.com/watch?v=q4TZxj-Dq7s)
 
-- [Why you need a "WTF Notebook"](https://www.simplermachines.com/why-you-need-a-wtf-notebook/)
+- [Zig 0.12.0 Release Notes](https://ziglang.org/download/0.12.0/release-notes.html)
