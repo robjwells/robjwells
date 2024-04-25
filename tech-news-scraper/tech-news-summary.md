@@ -1,49 +1,41 @@
-- [Forge: A Tool to Teach Formal Methods](https://blog.brownplt.org/2024/04/21/forge.html)
+- [How I tricked iOS into giving me EU DMA features](https://adamdemasi.com/2024/04/20/ios-eligibility.html)
 
-- [What’s New in Go 1.22: cmp.Or](https://blog.carlana.net/post/2024/golang-cmp-or-uses-and-history/)
+- [Sysadmin friendly high speed ethernet switching](https://blog.benjojo.co.uk/post/sn2010-linux-hacking-switchdev)
 
-- [Parsing and all that](https://blog.jeffsmits.net/compsci/2024/04/07/parsing-and-all-that/)
+- [Mind the Patch Gap: Exploiting an io_uring Vulnerability in Ubuntu](https://blog.exodusintel.com/2024/03/27/mind-the-patch-gap-exploiting-an-io_uring-vulnerability-in-ubuntu/)
 
-- [Tips on Adding JSON Output to Your CLI App](https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/)
+- [Notifications in 46 and beyond – GNOME Shell & Mutter](https://blogs.gnome.org/shell-dev/2024/04/23/notifications-46-and-beyond/)
 
-- [Dataflow Analyses and Compiler Optimizations that Use Them, for Free](https://blog.regehr.org/archives/2578)
+- [Are batch scripts a security vulnerability?](https://chrisdenton.dev/p/batcmd/)
 
-- [Shared libs, rpath and the runtime linker](https://carlosrdrz.dev/shared-libs-rpath-and-the-runtime-linker)
+- [Magic Numbers](https://exple.tive.org/blarg/2024/04/24/magic-numbers/)
 
-- [Do not buy Hisense TVs (or at least keep them offline)](https://cohost.org/ghoulnoise/post/5286766-do-not-buy-hisense-t)
+- [Fine-tuning OpenAI models](https://gajus.com/blog/fine-tuning-openai-models)
 
-- [Programming vs mathematical curiosity](https://demian.ferrei.ro/blog/programmer-vs-mathematician)
+- [Learn OTP With Gleam](https://github.com/bcpeinhardt/learn_otp_with_gleam)
 
-- [Inside the Super Nintendo cartridges](https://fabiensanglard.net/snes_carts/index.html)
+- [HTML attributes vs DOM properties](https://jakearchibald.com/2024/attributes-vs-properties/)
 
-- [Rust Stream API visualized and exposed](https://github.com/alexpusch/rust-magic-patterns/blob/master/rust-stream-visualized/Readme.md)
+- [Composability: Designing a Visual Programming Language](https://johnaustin.io/articles/2024/composability-designing-a-visual-programming-language)
 
-- [lunatik: Lunatik is a framework for scripting the Linux kernel with Lua](https://github.com/luainkernel/lunatik)
+- [lean theorem prover used to show that New Foundations set theory is consistent relative to ZFC](https://leanprover-community.github.io/con-nf/)
 
-- [thetawave: A physics based, space shooter game made with Rust and the Bevy engine](https://github.com/thetawavegame/thetawave)
+- [C isn’t a Hangover; Rust isn’t a Hangover Cure](https://medium.com/@john_25313/c-isnt-a-hangover-rust-isn-t-a-hangover-cure-580c9b35b5ce)
 
-- [git bisect-find](https://gitlab.com/kevincox/git-bisect-find)
+- [Project Fluent](https://projectfluent.org/)
 
-- [An entire Social Network in 1.6GB (GraphD Part 2)](https://jazco.dev/2024/04/20/roaring-bitmaps/)
+- [Spritely Goblins v0.13.0: Object persistence and easier IO](https://spritely.institute/news/spritely-goblins-v0130-object-persistence-and-easier-io.html)
 
-- [C&C -  Solving Recursive Equations](https://jozefg.bitbucket.io/posts/2015-08-14-solve-domains.html)
+- [No, LLM Agents can not Autonomously Exploit One-day Vulnerabilities](https://struct.github.io/auto_agents_1_day.html)
 
-- [Why you shouldn't run a BSD on a PC](https://michal.sapka.me/bsd/why-not-bsd/)
+- [Ukrainian Coder's New Programming Language: One Big Data Structure](https://thenewstack.io/ukrainian-coders-new-programming-language-one-big-data-structure/)
 
-- [Cross compiling C/Rust to win32, again](https://neugierig.org/software/blog/2024/04/cross-compile-2.html)
+- [Borrow checking, RC, GC, and the Eleven (!) Other Memory Safety Approaches](https://verdagon.dev/grimoire/grimoire)
 
-- [Open letter to the NixOS foundation](https://save-nix-together.org/)
+- [A visual introduction to Fourier Series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
 
-- [Coroutines and effects](https://without.boats/blog/coroutines-and-effects/)
+- [Emacs Tidbit: rectangle-number-lines](https://www.emoses.org/posts/rectangle-number-lines/)
 
-- [AI isn't useless. But is it worth it?](https://www.citationneeded.news/ai-isnt-useless/)
+- [Dumping and extracting the SpaceX Starlink User Terminal firmware](https://www.esat.kuleuven.be/cosic/blog/dumping-and-extracting-the-spacex-starlink-user-terminal-firmware/)
 
-- [glibc CVE-2024-2961: Buffer overflow in iconv](https://www.openwall.com/lists/oss-security/2024/04/18/4)
-
-- [The Design of Everyday APIs](https://www.roguelynn.com/talks/everyday-apis/)
-
-- [Stanford AI Syllabus (1980)](https://www.saildart.org/AIQUAL.80[AM,DBL]1)
-
-- [Why We Run FreeBSD CURRENT at Netflix](https://www.youtube.com/watch?v=q4TZxj-Dq7s)
-
-- [Zig 0.12.0 Release Notes](https://ziglang.org/download/0.12.0/release-notes.html)
+- [Ruby might be faster than you think](https://www.johnhawthorn.com/2024/ruby-might-be-faster-than-you-think/)
