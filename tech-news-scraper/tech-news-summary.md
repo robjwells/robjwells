@@ -1,41 +1,49 @@
-- [How I tricked iOS into giving me EU DMA features](https://adamdemasi.com/2024/04/20/ios-eligibility.html)
+- [How to improve the RISC-V specification](https://alastairreid.github.io/riscv-spec-issues/)
 
-- [Sysadmin friendly high speed ethernet switching](https://blog.benjojo.co.uk/post/sn2010-linux-hacking-switchdev)
+- [Tasks are the wrong abstraction](https://blog.yoshuawuyts.com/tasks-are-the-wrong-abstraction/)
 
-- [Mind the Patch Gap: Exploiting an io_uring Vulnerability in Ubuntu](https://blog.exodusintel.com/2024/03/27/mind-the-patch-gap-exploiting-an-io_uring-vulnerability-in-ubuntu/)
+- [bun.report is Bun's new crash reporter](https://bun.sh/blog/bun-report-is-buns-new-crash-reporter)
 
-- [Notifications in 46 and beyond – GNOME Shell & Mutter](https://blogs.gnome.org/shell-dev/2024/04/23/notifications-46-and-beyond/)
+- [2024-04-26 microsoft at work](https://computer.rip/2024-04-26-microsoft-at-work.html)
 
-- [Are batch scripts a security vulnerability?](https://chrisdenton.dev/p/batcmd/)
+- [Three ways of handling user input (2022)](https://dubroy.com/blog/three-ways-of-handling-user-input/)
 
-- [Magic Numbers](https://exple.tive.org/blarg/2024/04/24/magic-numbers/)
+- [Exploiting the NT Kernel in 24H2: New Bugs in Old Code & Side Channels Against KASLR](https://exploits.forsale/24h2-nt-exploit/)
 
-- [Fine-tuning OpenAI models](https://gajus.com/blog/fine-tuning-openai-models)
+- [Maintaining the world’s fastest CDN at Netflix on FreeBSD](https://freebsdfoundation.org/netflix-case-study/)
 
-- [Learn OTP With Gleam](https://github.com/bcpeinhardt/learn_otp_with_gleam)
+- [Passkeys: A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)
 
-- [HTML attributes vs DOM properties](https://jakearchibald.com/2024/attributes-vs-properties/)
+- [Heed v0.20: The safest and most maintained Rust wrapper for the LMDB key-value store](https://github.com/meilisearch/heed/releases/tag/v0.20.0)
 
-- [Composability: Designing a Visual Programming Language](https://johnaustin.io/articles/2024/composability-designing-a-visual-programming-language)
+- [gf: A GDB frontend for Linux](https://github.com/nakst/gf)
 
-- [lean theorem prover used to show that New Foundations set theory is consistent relative to ZFC](https://leanprover-community.github.io/con-nf/)
+- [simone: Repurpose your YouTube videos by converting them into blog posts](https://github.com/rajtilakjee/simone)
 
-- [C isn’t a Hangover; Rust isn’t a Hangover Cure](https://medium.com/@john_25313/c-isnt-a-hangover-rust-isn-t-a-hangover-cure-580c9b35b5ce)
+- [jf: flatten nested json for easy searchability](https://github.com/say4n/jf)
 
-- [Project Fluent](https://projectfluent.org/)
+- [Reflectively constructing enums at runtime](https://highlysuspect.agency/posts/enum_reflection/)
 
-- [Spritely Goblins v0.13.0: Object persistence and easier IO](https://spritely.institute/news/spritely-goblins-v0130-object-persistence-and-easier-io.html)
+- [jank gets lazy sequences, destructuring, and loop](https://jank-lang.org/blog/2024-04-27-lazy-sequences/)
 
-- [No, LLM Agents can not Autonomously Exploit One-day Vulnerabilities](https://struct.github.io/auto_agents_1_day.html)
+- [A USB Adapter for a Depraz Mouse](https://jfloren.net/b/2021/8/6/1)
 
-- [Ukrainian Coder's New Programming Language: One Big Data Structure](https://thenewstack.io/ukrainian-coders-new-programming-language-one-big-data-structure/)
+- [Fearless CORS: a design philosophy for CORS middleware libraries (and a Go implementation)](https://jub0bs.com/posts/2023-02-08-fearless-cors/)
 
-- [Borrow checking, RC, GC, and the Eleven (!) Other Memory Safety Approaches](https://verdagon.dev/grimoire/grimoire)
+- [jub0bs/cors: a new CORS middleware library](https://jub0bs.com/posts/2024-04-27-jub0bs-cors-a-better-cors-middleware-library-for-go/)
 
-- [A visual introduction to Fourier Series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
+- [Lessons learned after 3 years of fulltime Rust game development, and why we're leaving Rust behind](https://loglog.games/blog/leaving-rust-gamedev/)
 
-- [Emacs Tidbit: rectangle-number-lines](https://www.emoses.org/posts/rectangle-number-lines/)
+- [Giving Rust a chance for in-kernel codecs](https://lwn.net/SubscriberLink/970565/ac5ffc2e9ad20f1e/)
 
-- [Dumping and extracting the SpaceX Starlink User Terminal firmware](https://www.esat.kuleuven.be/cosic/blog/dumping-and-extracting-the-spacex-starlink-user-terminal-firmware/)
+- [Clang's -O0 output: branch displacement and size increase](https://maskray.me/blog/2024-04-27-clang-o0-output-branch-displacement-and-size-increase)
 
-- [Ruby might be faster than you think](https://www.johnhawthorn.com/2024/ruby-might-be-faster-than-you-think/)
+- [nixpkgs.news](https://nixpkgs.news/)
+
+- [PEP 686 – Make UTF-8 mode default](https://peps.python.org/pep-0686/)
+
+- [Keeping track of directories using pushd and pop](https://www.lewis8s.codes/bash/linux/shell/2024/04/19/Keeping-track-of-directories-using-pushd-and-pop)
+
+- [How Not To Release Historic Source Code](https://www.os2museum.com/wp/how-not-to-release-historic-source-code/)
+
+- [Building a highly-available search engine using SQLite](https://www.philipotoole.com/building-a-highly-available-search-engine-using-sqlite/)
