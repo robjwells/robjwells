@@ -1,49 +1,49 @@
-- [How to improve the RISC-V specification](https://alastairreid.github.io/riscv-spec-issues/)
+- [Locking Engineering Principles](http://blog.ffwll.ch/2022/07/locking-engineering.html)
 
-- [Tasks are the wrong abstraction](https://blog.yoshuawuyts.com/tasks-are-the-wrong-abstraction/)
+- [So, you want to write an unsafe crate](https://blog.dureuill.net/articles/nolife-0-4/)
 
-- [bun.report is Bun's new crash reporter](https://bun.sh/blog/bun-report-is-buns-new-crash-reporter)
+- [Borgo is a new programming language that compiles to Go](https://borgo-lang.github.io/)
 
-- [2024-04-26 microsoft at work](https://computer.rip/2024-04-26-microsoft-at-work.html)
+- [Can China’s Loongson Catch Western Designs? Probably Not](https://chipsandcheese.com/2024/04/29/can-chinas-loongson-catch-western-designs-probably-not/)
 
-- [Three ways of handling user input (2022)](https://dubroy.com/blog/three-ways-of-handling-user-input/)
+- [PowerShell: the object-oriented shell you didn’t know you needed](https://chriswarrick.com/blog/2024/04/29/powershell-the-object-oriented-shell-you-didnt-know-you-needed/)
 
-- [Exploiting the NT Kernel in 24H2: New Bugs in Old Code & Side Channels Against KASLR](https://exploits.forsale/24h2-nt-exploit/)
+- [Bytecode VMs in surprising places](https://dubroy.com/blog/bytecode-vms-in-surprising-places/)
 
-- [Maintaining the world’s fastest CDN at Netflix on FreeBSD](https://freebsdfoundation.org/netflix-case-study/)
+- [One year of C (2018)](https://floooh.github.io/2018/06/02/one-year-of-c.html)
 
-- [Passkeys: A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)
+- [Highlights from Git 2.45](https://github.blog/2024-04-29-highlights-from-git-2-45/)
 
-- [Heed v0.20: The safest and most maintained Rust wrapper for the LMDB key-value store](https://github.com/meilisearch/heed/releases/tag/v0.20.0)
+- [Co-dfns: High-performance, Reliable, and Parallel APL](https://github.com/Co-dfns/Co-dfns)
 
-- [gf: A GDB frontend for Linux](https://github.com/nakst/gf)
+- [dream-html - render HTML, SVG, MathML, htmx markup from OCaml](https://github.com/yawaramin/dream-html)
 
-- [simone: Repurpose your YouTube videos by converting them into blog posts](https://github.com/rajtilakjee/simone)
+- [Llamafile’s progress, four months in](https://hacks.mozilla.org/2024/04/llamafiles-progress-four-months-in/)
 
-- [jf: flatten nested json for easy searchability](https://github.com/say4n/jf)
+- [7.css: A design system for building faithful recreations of old UIs](https://khang-nd.github.io/7.css/)
 
-- [Reflectively constructing enums at runtime](https://highlysuspect.agency/posts/enum_reflection/)
+- [How an empty S3 bucket can make your AWS bill explode](https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1)
 
-- [jank gets lazy sequences, destructuring, and loop](https://jank-lang.org/blog/2024-04-27-lazy-sequences/)
+- [No Web Without Women](https://nowebwithoutwomen.com/)
 
-- [A USB Adapter for a Depraz Mouse](https://jfloren.net/b/2021/8/6/1)
+- [fend - an arbitrary-precision unit-aware calculator](https://printfn.github.io/fend/)
 
-- [Fearless CORS: a design philosophy for CORS middleware libraries (and a Go implementation)](https://jub0bs.com/posts/2023-02-08-fearless-cors/)
+- [How to install Linux from a Windows installer](https://prose.nsood.in/linux-from-windows-installer)
 
-- [jub0bs/cors: a new CORS middleware library](https://jub0bs.com/posts/2024-04-27-jub0bs-cors-a-better-cors-middleware-library-for-go/)
+- [Functional Semantics in Imperative Clothing](https://rtfeldman.com/imperative-clothing)
 
-- [Lessons learned after 3 years of fulltime Rust game development, and why we're leaving Rust behind](https://loglog.games/blog/leaving-rust-gamedev/)
+- [Save the Web by Being Nice](https://sheep.horse/2024/4/save_the_web_by_being_nice.html)
 
-- [Giving Rust a chance for in-kernel codecs](https://lwn.net/SubscriberLink/970565/ac5ffc2e9ad20f1e/)
+- [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html)
 
-- [Clang's -O0 output: branch displacement and size increase](https://maskray.me/blog/2024-04-27-clang-o0-output-branch-displacement-and-size-increase)
+- [spigot: a command-line exact real calculator](https://www.chiark.greenend.org.uk/~sgtatham/spigot/)
 
-- [nixpkgs.news](https://nixpkgs.news/)
+- [Go Generics: Use Structs for Generic Arguments Lists](https://www.emoses.org/posts/reusable-patterns-in-go/)
 
-- [PEP 686 – Make UTF-8 mode default](https://peps.python.org/pep-0686/)
+- [run0](https://www.freedesktop.org/software/systemd/man/devel/run0.html)
 
-- [Keeping track of directories using pushd and pop](https://www.lewis8s.codes/bash/linux/shell/2024/04/19/Keeping-track-of-directories-using-pushd-and-pop)
+- [FSF to be deposed in SFC v Vizio, updates relevant FAQ entry](https://www.fsf.org/news/fsf-to-be-deposed-in-sfc-v-vizio-updates-relevant-faq-entry)
 
-- [How Not To Release Historic Source Code](https://www.os2museum.com/wp/how-not-to-release-historic-source-code/)
+- [No One Should Have That Much Power](https://www.mnot.net/blog/2024/04/29/power)
 
-- [Building a highly-available search engine using SQLite](https://www.philipotoole.com/building-a-highly-available-search-engine-using-sqlite/)
+- [I Interviewed Uncle Bob](https://www.youtube.com/watch?v=UBXXw2JSloo)
