@@ -1,49 +1,45 @@
-- [Locking Engineering Principles](http://blog.ffwll.ch/2022/07/locking-engineering.html)
+- [Large Text Compression Benchmark](http://www.mattmahoney.net/dc/text.html)
 
-- [So, you want to write an unsafe crate](https://blog.dureuill.net/articles/nolife-0-4/)
+- [The World's Loudest Lisp Program](https://blog.funcall.org//lisp%20psychoacoustics/2024/05/01/worlds-loudest-lisp-program/)
 
-- [Borgo is a new programming language that compiles to Go](https://borgo-lang.github.io/)
+- [Announcing Rust 1.78.0](https://blog.rust-lang.org/2024/05/02/Rust-1.78.0.html)
 
-- [Can China’s Loongson Catch Western Designs? Probably Not](https://chipsandcheese.com/2024/04/29/can-chinas-loongson-catch-western-designs-probably-not/)
+- [Ruby typing 2024: RBS, Steep, RBS Collections, subjective feelings](https://brandur.org/fragments/ruby-typing-2024)
 
-- [PowerShell: the object-oriented shell you didn’t know you needed](https://chriswarrick.com/blog/2024/04/29/powershell-the-object-oriented-shell-you-didnt-know-you-needed/)
+- [ECDH based Oblivious Message Retrieval](https://codeberg.org/reach/reach/src/branch/main/common/ecdh-omr)
 
-- [Bytecode VMs in surprising places](https://dubroy.com/blog/bytecode-vms-in-surprising-places/)
+- [Making a 3D Modeler, in C, in a Week](https://danielchasehooper.com/posts/shapeup/)
 
-- [One year of C (2018)](https://floooh.github.io/2018/06/02/one-year-of-c.html)
+- [Framework & NixOS Communities Join Forces](https://discourse.nixos.org/t/exciting-partnership-announcement-framework-community-nixos-communities-join-forces/44640?u=asymmetric)
 
-- [Highlights from Git 2.45](https://github.blog/2024-04-29-highlights-from-git-2-45/)
+- [sudon't](https://dotat.at/@/2024-05-02-sudo.html)
 
-- [Co-dfns: High-performance, Reliable, and Parallel APL](https://github.com/Co-dfns/Co-dfns)
+- [Vector Similarity Search in DuckDB](https://duckdb.org/2024/05/03/vector-similarity-search-vss.html)
 
-- [dream-html - render HTML, SVG, MathML, htmx markup from OCaml](https://github.com/yawaramin/dream-html)
+- [Improving Our Estimation Abilities (2020)](https://embeddedartistry.com/blog/2020/03/16/improving-our-estimation-abilities-embedded-artistrys-approach/)
 
-- [Llamafile’s progress, four months in](https://hacks.mozilla.org/2024/04/llamafiles-progress-four-months-in/)
+- [mkinitcpio v39](https://gitlab.archlinux.org/archlinux/mkinitcpio/mkinitcpio/-/releases/v39)
 
-- [7.css: A design system for building faithful recreations of old UIs](https://khang-nd.github.io/7.css/)
+- [Proposed Punctuation](https://jonathanzong.github.io/proposed-punctuation/)
 
-- [How an empty S3 bucket can make your AWS bill explode](https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1)
+- [The Time Linkerd Erased My Load Balancer](https://matduggan.com/the-time-linkerd-erased-my-load-balancer/)
 
-- [No Web Without Women](https://nowebwithoutwomen.com/)
+- [DRINK ME: (Ab)Using a LLM to compress text](https://o565.com/llm-text-compression/)
 
-- [fend - an arbitrary-precision unit-aware calculator](https://printfn.github.io/fend/)
+- [10 Elixir gotchas](https://pragtob.wordpress.com/2024/05/01/10-elixir-gotchas/)
 
-- [How to install Linux from a Windows installer](https://prose.nsood.in/linux-from-windows-installer)
+- [Hacking on PostgreSQL is really hard](https://rhaas.blogspot.com/2024/05/hacking-on-postgresql-is-really-hard.html)
 
-- [Functional Semantics in Imperative Clothing](https://rtfeldman.com/imperative-clothing)
+- [Unwind considered harmful?](https://smallcultfollowing.com/babysteps/blog/2024/05/02/unwind-considered-harmful/)
 
-- [Save the Web by Being Nice](https://sheep.horse/2024/4/save_the_web_by_being_nice.html)
+- [How are zlib, gzip and zip related?](https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they)
 
-- [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html)
+- [Having a machine room can mean having things in your machine room](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MachineRoomRaccoon)
 
-- [spigot: a command-line exact real calculator](https://www.chiark.greenend.org.uk/~sgtatham/spigot/)
+- [Building products with NetBSD – thin-clients (2009)](https://www.bsdcan.org/2009/schedule/attachments/77_BuildingProductsWithNetBSDthin-clients-Stephen-Borrill.pdf)
 
-- [Go Generics: Use Structs for Generic Arguments Lists](https://www.emoses.org/posts/reusable-patterns-in-go/)
+- [FreeBSD 2024Q1 Status Report](https://www.freebsd.org/status/report-2024-01-2024-03/)
 
-- [run0](https://www.freedesktop.org/software/systemd/man/devel/run0.html)
+- [The UX of UUIDs](https://www.unkey.com/blog/uuid-ux)
 
-- [FSF to be deposed in SFC v Vizio, updates relevant FAQ entry](https://www.fsf.org/news/fsf-to-be-deposed-in-sfc-v-vizio-updates-relevant-faq-entry)
-
-- [No One Should Have That Much Power](https://www.mnot.net/blog/2024/04/29/power)
-
-- [I Interviewed Uncle Bob](https://www.youtube.com/watch?v=UBXXw2JSloo)
+- [For Fakes Sake - Testing In Go](https://www.zarl.dev/articles/for-fake-sake)
