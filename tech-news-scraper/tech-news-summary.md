@@ -1,45 +1,45 @@
-- [Large Text Compression Benchmark](http://www.mattmahoney.net/dc/text.html)
+- [A history of CLU](http://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-561.pdf)
 
-- [The World's Loudest Lisp Program](https://blog.funcall.org//lisp%20psychoacoustics/2024/05/01/worlds-loudest-lisp-program/)
+- [Novel attack against virtually all VPN apps neuters their entire purpose](https://arstechnica.com/security/2024/05/novel-attack-against-virtually-all-vpn-apps-neuters-their-entire-purpose/)
 
-- [Announcing Rust 1.78.0](https://blog.rust-lang.org/2024/05/02/Rust-1.78.0.html)
+- [Avoiding Emacs bankruptcy, with good financial habits](https://b.tuxes.uk/avoiding-emacs-bankruptcy.html)
 
-- [Ruby typing 2024: RBS, Steep, RBS Collections, subjective feelings](https://brandur.org/fragments/ruby-typing-2024)
+- [Lila: a Lil Interpreter in Awk](https://beyondloom.com/blog/lila.html)
 
-- [ECDH based Oblivious Message Retrieval](https://codeberg.org/reach/reach/src/branch/main/common/ecdh-omr)
+- [Using an LLM for text compression](https://blog.cleverdomain.org/using-an-llm-for-text-compression)
 
-- [Making a 3D Modeler, in C, in a Week](https://danielchasehooper.com/posts/shapeup/)
+- [What is in a Rust Allocator?](https://blog.sulami.xyz/posts/what-is-in-a-rust-allocator/)
 
-- [Framework & NixOS Communities Join Forces](https://discourse.nixos.org/t/exciting-partnership-announcement-framework-community-nixos-communities-join-forces/44640?u=asymmetric)
+- [Why bother with Scripting? (2021)](https://brrt-to-the-future.blogspot.com/2021/03/why-bother-with-scripting.html?m=1)
 
-- [sudon't](https://dotat.at/@/2024-05-02-sudo.html)
+- [Using age with org-journal](https://edmundmiller.dev/posts/org-journal-age/)
 
-- [Vector Similarity Search in DuckDB](https://duckdb.org/2024/05/03/vector-similarity-search-vss.html)
+- [Encore for TypeScript](https://encore.dev/blog/encore-for-typescript)
 
-- [Improving Our Estimation Abilities (2020)](https://embeddedartistry.com/blog/2020/03/16/improving-our-estimation-abilities-embedded-artistrys-approach/)
+- [Pair Your Compilers At The ABI Café](https://faultlore.com/blah/abi-puns/)
 
-- [mkinitcpio v39](https://gitlab.archlinux.org/archlinux/mkinitcpio/mkinitcpio/-/releases/v39)
+- [The C++ Iceberg](https://fouronnes.github.io/cppiceberg/)
 
-- [Proposed Punctuation](https://jonathanzong.github.io/proposed-punctuation/)
+- [How to rewrite a C++ codebase successfully](https://gaultier.github.io/blog/how_to_rewrite_a_cpp_codebase_successfully.html)
 
-- [The Time Linkerd Erased My Load Balancer](https://matduggan.com/the-time-linkerd-erased-my-load-balancer/)
+- [octox: Operating system in Rust in the style of xv6-riscv](https://github.com/o8vm/octox)
 
-- [DRINK ME: (Ab)Using a LLM to compress text](https://o565.com/llm-text-compression/)
+- [Building a hypervisor, 2: Booting Linux](https://iovec.net/2024-05-06)
 
-- [10 Elixir gotchas](https://pragtob.wordpress.com/2024/05/01/10-elixir-gotchas/)
+- [Shortridge Makes Sense of the 2024 Verizon DBIR](https://kellyshortridge.com/blog/posts/shortridge-makes-sense-of-verizon-dbir-2024/)
 
-- [Hacking on PostgreSQL is really hard](https://rhaas.blogspot.com/2024/05/hacking-on-postgresql-is-really-hard.html)
+- [Lix](https://lix.systems/)
 
-- [Unwind considered harmful?](https://smallcultfollowing.com/babysteps/blog/2024/05/02/unwind-considered-harmful/)
+- [Modernizing accessibility for desktop Linux](https://lwn.net/SubscriberLink/971541/9a17fa52fab73bef/)
 
-- [How are zlib, gzip and zip related?](https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they)
+- [notqmail 1.09 released](https://notqmail.org/releases/1.09/)
 
-- [Having a machine room can mean having things in your machine room](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MachineRoomRaccoon)
+- [Announcing Weaver: An ergonomic CLI parsing library for Roc lang](https://sammohr.dev/blog/announcing-weaver)
 
-- [Building products with NetBSD – thin-clients (2009)](https://www.bsdcan.org/2009/schedule/attachments/77_BuildingProductsWithNetBSDthin-clients-Stephen-Borrill.pdf)
+- [HTMX and Servant: Seamless and powerful handling of HTTP errors in HTMX](https://silky.github.io/posts/htmx-haskell-interview.html)
 
-- [FreeBSD 2024Q1 Status Report](https://www.freebsd.org/status/report-2024-01-2024-03/)
+- [Heat Death of the Internet](https://www.takahe.org.nz/heat-death-of-the-internet/)
 
-- [The UX of UUIDs](https://www.unkey.com/blog/uuid-ux)
+- [Re-implementing the Nix protocol in Rust](https://www.tweag.io/blog/2024-04-25-nix-protocol-in-rust/)
 
-- [For Fakes Sake - Testing In Go](https://www.zarl.dev/articles/for-fake-sake)
+- [Exporting YouTube Subscriptions to OPML and Watching via RSS](https://www.wezm.net/v2/posts/2024/youtube-subscriptions-opml/)
