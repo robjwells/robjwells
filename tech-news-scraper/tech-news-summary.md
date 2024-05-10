@@ -1,45 +1,49 @@
-- [A history of CLU](http://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-561.pdf)
+- [Writing an SDK in Zig, Part 1](https://arne.me/blog/writing-an-sdk-in-zig-part-1)
 
-- [Novel attack against virtually all VPN apps neuters their entire purpose](https://arstechnica.com/security/2024/05/novel-attack-against-virtually-all-vpn-apps-neuters-their-entire-purpose/)
+- [Automerge 2.2: Rich Text](https://automerge.org/blog/2024/04/06/richtext/)
 
-- [Avoiding Emacs bankruptcy, with good financial habits](https://b.tuxes.uk/avoiding-emacs-bankruptcy.html)
+- [Exploring Hacker News by mapping and analyzing 40 million posts and comments for fun](https://blog.wilsonl.in/hackerverse/)
 
-- [Lila: a Lil Interpreter in Awk](https://beyondloom.com/blog/lila.html)
+- [You Need More Constraints](https://borretti.me/article/you-need-more-constraints)
 
-- [Using an LLM for text compression](https://blog.cleverdomain.org/using-an-llm-for-text-compression)
+- [It's always TCP_NODELAY. Every damn time](https://brooker.co.za/blog/2024/05/09/nagle.html)
 
-- [What is in a Rust Allocator?](https://blog.sulami.xyz/posts/what-is-in-a-rust-allocator/)
+- [Development notes from xkcd's "Machine"](https://chromakode.com/post/xkcd-machine/)
 
-- [Why bother with Scripting? (2021)](https://brrt-to-the-future.blogspot.com/2021/03/why-bother-with-scripting.html?m=1)
+- [Adobe Photoshop Source Code (2013)](https://computerhistory.org/blog/adobe-photoshop-source-code/)
 
-- [Using age with org-journal](https://edmundmiller.dev/posts/org-journal-age/)
+- [Yes, Ruby is fast, but…](https://dev.to/betaziliani/yes-ruby-is-fast-but-1l49)
 
-- [Encore for TypeScript](https://encore.dev/blog/encore-for-typescript)
+- [10 years on, what would you change about Swift?](https://forums.swift.org/t/10-years-on-what-would-you-change-about-swift/71716)
 
-- [Pair Your Compilers At The ABI Café](https://faultlore.com/blah/abi-puns/)
+- [Memory errors in consumer devices](https://fosstodon.org/@gabrielesvelto/112407741329145666)
 
-- [The C++ Iceberg](https://fouronnes.github.io/cppiceberg/)
+- [The await event horizon in JavaScript](https://frontside.com/blog/2023-12-11-await-event-horizon/)
 
-- [How to rewrite a C++ codebase successfully](https://gaultier.github.io/blog/how_to_rewrite_a_cpp_codebase_successfully.html)
+- [datatype99: Algebraic data types for C99](https://github.com/Hirrolot/datatype99)
 
-- [octox: Operating system in Rust in the style of xv6-riscv](https://github.com/o8vm/octox)
+- [bash_tls: A minimal TLS 1.2 client implementation in a pure Bash script](https://github.com/gh2o/bash_tls/)
 
-- [Building a hypervisor, 2: Booting Linux](https://iovec.net/2024-05-06)
+- [A self-hosted dashboard that puts all your feeds in one place](https://github.com/glanceapp/glance)
 
-- [Shortridge Makes Sense of the 2024 Verizon DBIR](https://kellyshortridge.com/blog/posts/shortridge-makes-sense-of-verizon-dbir-2024/)
+- [ppstep: Interactive C/C++ preprocessor macro debugger](https://github.com/notfoundry/ppstep)
 
-- [Lix](https://lix.systems/)
+- [Linking Zig to Pokemon Decomps](https://jadon.io/blog/zig-pokemon-gba/)
 
-- [Modernizing accessibility for desktop Linux](https://lwn.net/SubscriberLink/971541/9a17fa52fab73bef/)
+- [What are effective ways to sift through new research?](https://jamesg.blog/2024/05/09/new-research/)
 
-- [notqmail 1.09 released](https://notqmail.org/releases/1.09/)
+- [Introducing recon - a CLI tool to gather context for LLMs](https://joshuaclanton.dev/blog/2024-05-09-introducing-recon/)
 
-- [Announcing Weaver: An ergonomic CLI parsing library for Roc lang](https://sammohr.dev/blog/announcing-weaver)
+- [It's not about “Flakes vs. Channels”](https://samuel.dionne-riel.com/blog/2024/05/07/its-not-flakes-vs-channels.html)
 
-- [HTMX and Servant: Seamless and powerful handling of HTTP errors in HTMX](https://silky.github.io/posts/htmx-haskell-interview.html)
+- [Slop is the new name for unwanted AI-generated content](https://simonwillison.net/2024/May/8/slop/)
 
-- [Heat Death of the Internet](https://www.takahe.org.nz/heat-death-of-the-internet/)
+- [Distributed system daemons with Shepherd and Goblins funded by NLnet](https://spritely.institute/news/spritely-nlnet-grants-december-2023.html)
 
-- [Re-implementing the Nix protocol in Rust](https://www.tweag.io/blog/2024-04-25-nix-protocol-in-rust/)
+- [Symbolica](https://symbolica.io/)
 
-- [Exporting YouTube Subscriptions to OPML and Watching via RSS](https://www.wezm.net/v2/posts/2024/youtube-subscriptions-opml/)
+- [All error messages are necessarily bad to some degree](https://www.haskellforall.com/2024/05/all-error-messages-are-necessarily-bad.html)
+
+- [Rustls Gains OpenSSL and Nginx Compatibility](https://www.memorysafety.org/blog/rustls-nginx-compatibility-layer/)
+
+- [Yet Another REST Client?](https://yaak.app/blog/yet-another-api-client/)
