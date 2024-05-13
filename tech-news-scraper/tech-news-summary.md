@@ -1,49 +1,47 @@
-- [Writing an SDK in Zig, Part 1](https://arne.me/blog/writing-an-sdk-in-zig-part-1)
+- [16 years of CVE-2008-0166 - Debian OpenSSL Bug](https://16years.secvuln.info/)
 
-- [Automerge 2.2: Rich Text](https://automerge.org/blog/2024/04/06/richtext/)
+- [Can GCC use Clang as its assembler?](https://briancallahan.net/blog/20240122.html)
 
-- [Exploring Hacker News by mapping and analyzing 40 million posts and comments for fun](https://blog.wilsonl.in/hackerverse/)
+- [What is a Stun Server: The Complete Guide to NAT Traversal](https://dev.to/alakkadshaw/what-is-a-stun-server-the-complete-guide-to-nat-traversal-49gb)
 
-- [You Need More Constraints](https://borretti.me/article/you-need-more-constraints)
+- [Blinking LEDs with Raspberry Pi](https://devblogs.microsoft.com/dotnet/blinking-leds-with-raspberry-pi/)
 
-- [It's always TCP_NODELAY. Every damn time](https://brooker.co.za/blog/2024/05/09/nagle.html)
+- [Reference Counting with Linear Types](https://discourse.haskell.org/t/reference-counting-with-linear-types/9535?u=romes)
 
-- [Development notes from xkcd's "Machine"](https://chromakode.com/post/xkcd-machine/)
+- [Migrating to BIND9 dnssec-policy](https://dotat.at/@/2024-05-11-dnssec-policy.html)
 
-- [Adobe Photoshop Source Code (2013)](https://computerhistory.org/blog/adobe-photoshop-source-code/)
+- [Apple Vision Pro has the same effective resolution as Quest 3…Sometimes? And there's not much app devs can do about it, yet](https://douevenknow.us/post/750217547284086784/apple-vision-pro-has-the-same-effective-resolution)
 
-- [Yes, Ruby is fast, but…](https://dev.to/betaziliani/yes-ruby-is-fast-but-1l49)
+- [Parsing PNG images in Mojo](https://fnands.com/blog/2024/mojo-png-parsing/)
 
-- [10 years on, what would you change about Swift?](https://forums.swift.org/t/10-years-on-what-would-you-change-about-swift/71716)
+- [Debian's KeePassXC package has removed many features](https://fosstodon.org/@keepassxc/112417353193348720)
 
-- [Memory errors in consumer devices](https://fosstodon.org/@gabrielesvelto/112407741329145666)
+- [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
 
-- [The await event horizon in JavaScript](https://frontside.com/blog/2023-12-11-await-event-horizon/)
+- [The Emacs Window Management Almanac](https://karthinks.com/software/emacs-window-management-almanac/)
 
-- [datatype99: Algebraic data types for C99](https://github.com/Hirrolot/datatype99)
+- [Datalog, Chain-Forward Computation, and Relational Algebra](https://kmicinski.com/modern-deduction/2024/05/11/post-1.html)
 
-- [bash_tls: A minimal TLS 1.2 client implementation in a pure Bash script](https://github.com/gh2o/bash_tls/)
+- [How to avoid one C++ foot gun](https://pboyd.io/posts/one-c++-footgun/)
 
-- [A self-hosted dashboard that puts all your feeds in one place](https://github.com/glanceapp/glance)
+- [The alternative implementation problem](https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/)
 
-- [ppstep: Interactive C/C++ preprocessor macro debugger](https://github.com/notfoundry/ppstep)
+- [ReactOS Newsletter 104 - April/May news](https://reactos.org/blogs/newsletter-104/)
 
-- [Linking Zig to Pokemon Decomps](https://jadon.io/blog/zig-pokemon-gba/)
+- [Temporal - Good things happen](https://recife.pfeodrippe.com/notebooks/recife/notebook/temporal.html)
 
-- [What are effective ways to sift through new research?](https://jamesg.blog/2024/05/09/new-research/)
+- [Exploring the c4... compiler?](https://registerspill.thorstenball.com/p/exploring-the-c4-compiler)
 
-- [Introducing recon - a CLI tool to gather context for LLMs](https://joshuaclanton.dev/blog/2024-05-09-introducing-recon/)
+- [4403 – strfry() gives skewed distributions](https://sourceware.org/bugzilla/show_bug.cgi?id=4403#c14)
 
-- [It's not about “Flakes vs. Channels”](https://samuel.dionne-riel.com/blog/2024/05/07/its-not-flakes-vs-channels.html)
+- [Nerves Notes](https://wiki.alopex.li/NervesNotes)
 
-- [Slop is the new name for unwanted AI-generated content](https://simonwillison.net/2024/May/8/slop/)
+- [Garbage collectors are scary](https://www.enyo.de/fw/notes/garbage-collectors-are-scary.html)
 
-- [Distributed system daemons with Shepherd and Goblins funded by NLnet](https://spritely.institute/news/spritely-nlnet-grants-december-2023.html)
+- [An observation about tail calls (2011)](https://www.enyo.de/fw/notes/tail-calls.html)
 
-- [Symbolica](https://symbolica.io/)
+- [MacRelix: Unix-like features for classic Mac OS](https://www.macrelix.org/)
 
-- [All error messages are necessarily bad to some degree](https://www.haskellforall.com/2024/05/all-error-messages-are-necessarily-bad.html)
+- [IPv6 prefix lengths](https://www.potaroo.net/ispcol/2024-04/ipv6-prefixes.html)
 
-- [Rustls Gains OpenSSL and Nginx Compatibility](https://www.memorysafety.org/blog/rustls-nginx-compatibility-layer/)
-
-- [Yet Another REST Client?](https://yaak.app/blog/yet-another-api-client/)
+- [Readability of optimized Kotlin code](https://www.romainguy.dev/posts/2024/readability-of-optimized-kotlin-code/)
