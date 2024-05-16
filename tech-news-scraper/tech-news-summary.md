@@ -1,47 +1,49 @@
-- [16 years of CVE-2008-0166 - Debian OpenSSL Bug](https://16years.secvuln.info/)
+- [Bad Apple, But It's An Animated QR Code of Bad Apple](https://a.exozy.me/posts/bad-apple-animated-qr-code/)
 
-- [Can GCC use Clang as its assembler?](https://briancallahan.net/blog/20240122.html)
+- [How To PyCon](https://blog.glyph.im/2024/05/how-to-pycon.html)
 
-- [What is a Stun Server: The Complete Guide to NAT Traversal](https://dev.to/alakkadshaw/what-is-a-stun-server-the-complete-guide-to-nat-traversal-49gb)
+- [Firefox Nightly Now Available for Linux on ARM64](https://blog.nightly.mozilla.org/2024/04/19/firefox-nightly-now-available-for-linux-on-arm64/)
 
-- [Blinking LEDs with Raspberry Pi](https://devblogs.microsoft.com/dotnet/blinking-leds-with-raspberry-pi/)
+- [Heroku on two standard dynos?](https://brandur.org/fragments/heroku-two-dynos)
 
-- [Reference Counting with Linear Types](https://discourse.haskell.org/t/reference-counting-with-linear-types/9535?u=romes)
+- [ValOrDefault](https://brandur.org/fragments/val-or-default)
 
-- [Migrating to BIND9 dnssec-policy](https://dotat.at/@/2024-05-11-dnssec-policy.html)
+- [Translation of Rust's core and alloc crates to Coq](https://formal.land/blog/2024/04/26/translation-core-alloc-crates)
 
-- [Apple Vision Pro has the same effective resolution as Quest 3…Sometimes? And there's not much app devs can do about it, yet](https://douevenknow.us/post/750217547284086784/apple-vision-pro-has-the-same-effective-resolution)
+- [crash: user-configurable login shell configured by the SHELLS environment variable](https://github.com/RGBCube/crash)
 
-- [Parsing PNG images in Mojo](https://fnands.com/blog/2024/mojo-png-parsing/)
+- [procfusion: Very simple process manager written in Rust for your Docker images](https://github.com/linkdd/procfusion)
 
-- [Debian's KeePassXC package has removed many features](https://fosstodon.org/@keepassxc/112417353193348720)
+- [Some notes on Rust, mutable aliasing and formal verification](https://graydon2.dreamwidth.org/312681.html)
 
-- [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
+- [Inside a low budget consumer hardware espionage implant](https://ha.cking.ch/s8_data_line_locator/)
 
-- [The Emacs Window Management Almanac](https://karthinks.com/software/emacs-window-management-almanac/)
+- [That time PostgreSQL said "no thanks, I don't need your index"](https://jaywhy13.hashnode.dev/that-time-postgresql-said-no-thanks-i-dont-need-your-index)
 
-- [Datalog, Chain-Forward Computation, and Relational Algebra](https://kmicinski.com/modern-deduction/2024/05/11/post-1.html)
+- [Jepsen: Datomic Pro 1.0.7075](https://jepsen.io/analyses/datomic-pro-1.0.7075)
 
-- [How to avoid one C++ foot gun](https://pboyd.io/posts/one-c++-footgun/)
+- [A Rust + WASM development environment with Nix](https://jordankaye.dev/posts/rust-wasm-nix/)
 
-- [The alternative implementation problem](https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/)
+- [Sir, there's a cat in your mirror dimension](https://lcamtuf.substack.com/p/sir-theres-a-cat-in-your-mirror-dimension)
 
-- [ReactOS Newsletter 104 - April/May news](https://reactos.org/blogs/newsletter-104/)
+- [Add sysctl to disable Nagle's algorithm (RFC 896 - Congestion Control)](https://marc.info/?l=openbsd-tech&m=171562561424289&w=2)
 
-- [Temporal - Good things happen](https://recife.pfeodrippe.com/notebooks/recife/notebook/temporal.html)
+- [VMware Fusion: The Worst Website In The Entire World](https://matduggan.com/the-worst-website-in-the-entire-world/)
 
-- [Exploring the c4... compiler?](https://registerspill.thorstenball.com/p/exploring-the-c4-compiler)
+- [Make a game with Hoot for the Lisp Game Jam](https://spritely.institute/news/make-a-game-with-hoot-for-the-lisp-game-jam.html)
 
-- [4403 – strfry() gives skewed distributions](https://sourceware.org/bugzilla/show_bug.cgi?id=4403#c14)
+- [Going to the cinema is a data visualization problem](https://tonsky.me/blog/allekinos/)
 
-- [Nerves Notes](https://wiki.alopex.li/NervesNotes)
+- [Discovering Small GitHub Projects for Contributing to FOSS](https://wiki.developersindia.in/faqs/finding-small-foss-projects-on-github)
 
-- [Garbage collectors are scary](https://www.enyo.de/fw/notes/garbage-collectors-are-scary.html)
+- [Apple announces new accessibility features, including Eye Tracking](https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/)
 
-- [An observation about tail calls (2011)](https://www.enyo.de/fw/notes/tail-calls.html)
+- [ok Considered Harmful](https://www.dolthub.com/blog/2024-05-10-ok-considered-harmful/)
 
-- [MacRelix: Unix-like features for classic Mac OS](https://www.macrelix.org/)
+- [Haiku Activity & Contract Report, April 2024](https://www.haiku-os.org/blog/waddlesplash/2024-05-14-haiku_activity_contract_report_april_2024/)
 
-- [IPv6 prefix lengths](https://www.potaroo.net/ispcol/2024-04/ipv6-prefixes.html)
+- [Upstreaming Linux kernel support for the Snapdragon X Elite](https://www.qualcomm.com/developer/blog/2024/05/upstreaming-linux-kernel-support-for-the-snapdragon-x-elite)
 
-- [Readability of optimized Kotlin code](https://www.romainguy.dev/posts/2024/readability-of-optimized-kotlin-code/)
+- [An Empirical Evaluation of Columnar Storage Formats](https://www.vldb.org/pvldb/vol17/p148-zeng.pdf)
+
+- [Rebuilding my homelab: Suffering as a service](https://xeiaso.net/blog/2024/homelab-v2/)
