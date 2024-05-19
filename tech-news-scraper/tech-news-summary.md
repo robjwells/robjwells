@@ -1,49 +1,49 @@
-- [Bad Apple, But It's An Animated QR Code of Bad Apple](https://a.exozy.me/posts/bad-apple-animated-qr-code/)
+- [Anvil - Acme inspired text editor written in Go](http://anvil-editor.net)
 
-- [How To PyCon](https://blog.glyph.im/2024/05/how-to-pycon.html)
+- [Winamp has announced that it is opening up its source](https://about.winamp.com/press/article/winamp-open-source-code)
 
-- [Firefox Nightly Now Available for Linux on ARM64](https://blog.nightly.mozilla.org/2024/04/19/firefox-nightly-now-available-for-linux-on-arm64/)
+- [Don’t return err in Go](https://akavel.com/go-errors)
 
-- [Heroku on two standard dynos?](https://brandur.org/fragments/heroku-two-dynos)
+- [Cat9 Microdosing: Stash and List](https://arcan-fe.com/2024/05/17/cat9-microdosing-stash-and-list/)
 
-- [ValOrDefault](https://brandur.org/fragments/val-or-default)
+- [Firefox bookmark keywords for faster navigation](https://blog.meain.io/2024/firefox-bookmark-keywords)
 
-- [Translation of Rust's core and alloc crates to Coq](https://formal.land/blog/2024/04/26/translation-core-alloc-crates)
+- [Fixing the iterative damping interpolation in video games](https://blog.pkh.me/p/41-fixing-the-iterative-damping-interpolation-in-video-games.html)
 
-- [crash: user-configurable login shell configured by the SHELLS environment variable](https://github.com/RGBCube/crash)
+- [Faster linking times on nightly on Linux using "rust-lld"](https://blog.rust-lang.org/2024/05/17/enabling-rust-lld-on-linux.html)
 
-- [procfusion: Very simple process manager written in Rust for your Docker images](https://github.com/linkdd/procfusion)
+- [Write choose your own adventure stories and get a PDF: Yarn Spinner for Books](https://books.yarnspinner.dev/)
 
-- [Some notes on Rust, mutable aliasing and formal verification](https://graydon2.dreamwidth.org/312681.html)
+- [Go Browser Package](https://browser.dineshgowda.com/)
 
-- [Inside a low budget consumer hardware espionage implant](https://ha.cking.ch/s8_data_line_locator/)
+- [The Forged Apple Employee Badge](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
 
-- [That time PostgreSQL said "no thanks, I don't need your index"](https://jaywhy13.hashnode.dev/that-time-postgresql-said-no-thanks-i-dont-need-your-index)
+- [Haddock now lives in the GHC repository](https://discourse.haskell.org/t/haddock-now-lives-in-the-ghc-repository/9576)
 
-- [Jepsen: Datomic Pro 1.0.7075](https://jepsen.io/analyses/datomic-pro-1.0.7075)
+- [FShade: first-class shaders for F#](https://fshade.org/)
 
-- [A Rust + WASM development environment with Nix](https://jordankaye.dev/posts/rust-wasm-nix/)
+- [butano: Modern C++ high level GBA engine](https://github.com/GValiente/butano)
 
-- [Sir, there's a cat in your mirror dimension](https://lcamtuf.substack.com/p/sir-theres-a-cat-in-your-mirror-dimension)
+- [Bend: a high-level language that runs on GPUs (via HVM2)](https://github.com/HigherOrderCO/Bend)
 
-- [Add sysctl to disable Nagle's algorithm (RFC 896 - Congestion Control)](https://marc.info/?l=openbsd-tech&m=171562561424289&w=2)
+- [flawz - A Terminal UI for browsing security vulnerabilities (CVEs)](https://github.com/orhun/flawz)
 
-- [VMware Fusion: The Worst Website In The Entire World](https://matduggan.com/the-worst-website-in-the-entire-world/)
+- [ILGPU: A Modern GPU Compiler for .Net Programs](https://ilgpu.net/)
 
-- [Make a game with Hoot for the Lisp Game Jam](https://spritely.institute/news/make-a-game-with-hoot-for-the-lisp-game-jam.html)
+- [Slumber: A TUI HTTP Client](https://lucaspickering.me/posts/slumber)
 
-- [Going to the cinema is a data visualization problem](https://tonsky.me/blog/allekinos/)
+- [Non-Euclidean Doom: what happens to a game when pi is not 3.14159…](https://media.ccc.de/v/mch2022-236-non-euclidean-doom-what-happens-to-a-game-when-pi-is-not-3-14159-#t=324)
 
-- [Discovering Small GitHub Projects for Contributing to FOSS](https://wiki.developersindia.in/faqs/finding-small-foss-projects-on-github)
+- [TCP Performance and the Mathis Equation](https://netcraftsmen.com/tcp-performance-and-the-mathis-equation/)
 
-- [Apple announces new accessibility features, including Eye Tracking](https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/)
+- [Practical third-party library sandboxing with RLBox](https://rlbox.dev/)
 
-- [ok Considered Harmful](https://www.dolthub.com/blog/2024-05-10-ok-considered-harmful/)
+- [sshd(8) split into multiple binaries](https://undeadly.org/cgi?action=article;sid=20240517092416)
 
-- [Haiku Activity & Contract Report, April 2024](https://www.haiku-os.org/blog/waddlesplash/2024-05-14-haiku_activity_contract_report_april_2024/)
+- [Golang is evil on shitty networks (2022)](https://withinboredom.info/2022/12/29/golang-is-evil-on-shitty-networks/)
 
-- [Upstreaming Linux kernel support for the Snapdragon X Elite](https://www.qualcomm.com/developer/blog/2024/05/upstreaming-linux-kernel-support-for-the-snapdragon-x-elite)
+- [Decoding US Government Plans to Shift the Software Security Burden](https://www.infosecurity-magazine.com/news/us-plans-software-security-burden/)
 
-- [An Empirical Evaluation of Columnar Storage Formats](https://www.vldb.org/pvldb/vol17/p148-zeng.pdf)
+- [Computer Scientists Invent an Efficient New Way to Count](https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/)
 
-- [Rebuilding my homelab: Suffering as a service](https://xeiaso.net/blog/2024/homelab-v2/)
+- [Two cases when forward declaring is not enough](https://www.sandordargo.com/blog/2024/05/15/when-includes-are-needed)
