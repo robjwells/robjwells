@@ -1,49 +1,45 @@
-- [Anvil - Acme inspired text editor written in Go](http://anvil-editor.net)
+- [lvm thin send/recv](https://abbbi.github.io/lvm/)
 
-- [Winamp has announced that it is opening up its source](https://about.winamp.com/press/article/winamp-open-source-code)
+- [The worst bug we faced at Antithesis](https://antithesis.com/blog/worst_bug/)
 
-- [Don’t return err in Go](https://akavel.com/go-errors)
+- [A hybrid approach to semi-automated Rust verification](https://arxiv.org/abs/2403.15122)
 
-- [Cat9 Microdosing: Stash and List](https://arcan-fe.com/2024/05/17/cat9-microdosing-stash-and-list/)
+- [Clone arbitrary single Git commit](https://blog.hartwork.org/posts/clone-arbitrary-single-git-commit/)
 
-- [Firefox bookmark keywords for faster navigation](https://blog.meain.io/2024/firefox-bookmark-keywords)
+- [RustRover Is Released and Includes a Free Non-Commercial Option](https://blog.jetbrains.com/rust/2024/05/21/rustrover-is-released-and-includes-a-free-non-commercial-option/)
 
-- [Fixing the iterative damping interpolation in video games](https://blog.pkh.me/p/41-fixing-the-iterative-damping-interpolation-in-video-games.html)
+- [Stripe's monorepo developer environment](https://blog.nelhage.com/post/stripe-dev-environment/)
 
-- [Faster linking times on nightly on Linux using "rust-lld"](https://blog.rust-lang.org/2024/05/17/enabling-rust-lld-on-linux.html)
+- [Racket - the Language-Oriented Programming Language - version 8.13 is now available](https://blog.racket-lang.org/2024/05/racket-v8-13.html)
 
-- [Write choose your own adventure stories and get a PDF: Yarn Spinner for Books](https://books.yarnspinner.dev/)
+- [When is foot fast, and when is it not?](https://codeberg.org/dnkl/foot/wiki/Performance)
 
-- [Go Browser Package](https://browser.dineshgowda.com/)
+- [A history of a logo with a colon and two slashes](https://daniel.haxx.se/blog/2024/05/21/a-history-of-a-logo-with-a-colon-and-two-slashes/)
 
-- [The Forged Apple Employee Badge](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
+- [Getting OCaml Through the Eye of a Needle](https://hypirion.com/musings/getting-ocaml-through-the-eye-of-a-needle)
 
-- [Haddock now lives in the GHC repository](https://discourse.haskell.org/t/haddock-now-lives-in-the-ghc-repository/9576)
+- [Functional TypeScript #1: Algebraic Data Types](https://injuly.in/blog/ts-adt/)
 
-- [FShade: first-class shaders for F#](https://fshade.org/)
+- [PSA: iTerm2 now has ChatGPT integration](https://iterm2.com/downloads/stable/iTerm2-3_5_0.changelog)
 
-- [butano: Modern C++ high level GBA engine](https://github.com/GValiente/butano)
+- [vu128: Efficient variable-length integers](https://john-millikin.com/vu128-efficient-variable-length-integers)
 
-- [Bend: a high-level language that runs on GPUs (via HVM2)](https://github.com/HigherOrderCO/Bend)
+- [25GBit/s on macOS & iOS](https://kittenlabs.de/blog/2024/05/17/25gbit/s-on-macos-ios/)
 
-- [flawz - A Terminal UI for browsing security vulnerabilities (CVEs)](https://github.com/orhun/flawz)
+- [What's new in Kotlin 2.0.0](https://kotlinlang.org/docs/whatsnew20.html)
 
-- [ILGPU: A Modern GPU Compiler for .Net Programs](https://ilgpu.net/)
+- [CADmium: A Local-First CAD Program Built for the Browser](https://mattferraro.dev/posts/cadmium)
 
-- [Slumber: A TUI HTTP Client](https://lucaspickering.me/posts/slumber)
+- [UI Density](https://matthewstrom.com/writing/ui-density/)
 
-- [Non-Euclidean Doom: what happens to a game when pi is not 3.14159…](https://media.ccc.de/v/mch2022-236-non-euclidean-doom-what-happens-to-a-game-when-pi-is-not-3-14159-#t=324)
+- [The Ages of Programming Language Creators](https://pldb.io/posts/ageAtCreation.html)
 
-- [TCP Performance and the Mathis Equation](https://netcraftsmen.com/tcp-performance-and-the-mathis-equation/)
+- [Swap the ı and i key on your keyboard for faster modal editing](https://rgbcu.be/blog/swap-i/)
 
-- [Practical third-party library sandboxing with RLBox](https://rlbox.dev/)
+- [Common Lisp for Shell Scripting](https://simonsafar.com/2021/lisp_scripting/)
 
-- [sshd(8) split into multiple binaries](https://undeadly.org/cgi?action=article;sid=20240517092416)
+- [Erlang/OTP 27.0 Release](https://www.erlang.org/news/170)
 
-- [Golang is evil on shitty networks (2022)](https://withinboredom.info/2022/12/29/golang-is-evil-on-shitty-networks/)
+- [Small probabilities add, big ones don’t](https://www.johndcook.com/blog/2024/05/10/small-probabilities-add/)
 
-- [Decoding US Government Plans to Shift the Software Security Burden](https://www.infosecurity-magazine.com/news/us-plans-software-security-burden/)
-
-- [Computer Scientists Invent an Efficient New Way to Count](https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/)
-
-- [Two cases when forward declaring is not enough](https://www.sandordargo.com/blog/2024/05/15/when-includes-are-needed)
+- [BIOS Update Thinkpad with Boot Image](https://x61.sh/log/2024/05/21052024183107-update_bios.html)
