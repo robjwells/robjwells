@@ -1,45 +1,47 @@
-- [lvm thin send/recv](https://abbbi.github.io/lvm/)
+- [Voxel Displacement Renderer — Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
 
-- [The worst bug we faced at Antithesis](https://antithesis.com/blog/worst_bug/)
+- [A Grand Unified Theory of the AI Hype Cycle](https://blog.glyph.im/2024/05/grand-unified-ai-hype.html)
 
-- [A hybrid approach to semi-automated Rust verification](https://arxiv.org/abs/2403.15122)
+- [Analytical Methods for Dynamic Simulation of Non-penetrating Rigid Bodies](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a02843095948be29664b48c3338791ec05dcf52c)
 
-- [Clone arbitrary single Git commit](https://blog.hartwork.org/posts/clone-arbitrary-single-git-commit/)
+- [Details of Google Cloud GCVE incident (UniSuper deletion)](https://cloud.google.com/blog/products/infrastructure/details-of-google-cloud-gcve-incident/)
 
-- [RustRover Is Released and Includes a Free Non-Commercial Option](https://blog.jetbrains.com/rust/2024/05/21/rustrover-is-released-and-includes-a-free-non-commercial-option/)
+- [Reverse engineering ESP32 Wi-Fi driver: the road ahead](https://esp32-open-mac.be/posts/0005-the-road-ahead/)
 
-- [Stripe's monorepo developer environment](https://blog.nelhage.com/post/stripe-dev-environment/)
+- [ssh authentication via Yubikeys](https://feldspaten.org/2024/02/03/ssh-authentication-via-Yubikeys/)
 
-- [Racket - the Language-Oriented Programming Language - version 8.13 is now available](https://blog.racket-lang.org/2024/05/racket-v8-13.html)
+- [apple/password-manager-resources: website datasets for password managers](https://github.com/apple/password-manager-resources)
 
-- [When is foot fast, and when is it not?](https://codeberg.org/dnkl/foot/wiki/Performance)
+- [Embedded drawing tool for Emacs](https://github.com/misohena/el-easydraw)
 
-- [A history of a logo with a colon and two slashes](https://daniel.haxx.se/blog/2024/05/21/a-history-of-a-logo-with-a-colon-and-two-slashes/)
+- [BitKeeper, Linux, and licensing disputes: How Linus wrote Git in 14 days](https://graphite.dev/blog/bitkeeper-linux-story-of-git-creation)
 
-- [Getting OCaml Through the Eye of a Needle](https://hypirion.com/musings/getting-ocaml-through-the-eye-of-a-needle)
+- [Not quite Open Source (1999)](https://lwn.net/1999/features/BitKeeper.php3)
 
-- [Functional TypeScript #1: Algebraic Data Types](https://injuly.in/blog/ts-adt/)
+- [Melange 4.0 is here](https://melange.re/blog/posts/melange-4-is-here)
 
-- [PSA: iTerm2 now has ChatGPT integration](https://iterm2.com/downloads/stable/iTerm2-3_5_0.changelog)
+- [Don Knuth’s MIP, 64 years later](https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/)
 
-- [vu128: Efficient variable-length integers](https://john-millikin.com/vu128-efficient-variable-length-integers)
+- [ndindex: A Python library for manipulating indices of ndarrays](https://quansight-labs.github.io/ndindex/)
 
-- [25GBit/s on macOS & iOS](https://kittenlabs.de/blog/2024/05/17/25gbit/s-on-macos-ios/)
+- [When allocating unused memory boosts performance by 2x](https://quickwit.io/blog/performance-investigation)
 
-- [What's new in Kotlin 2.0.0](https://kotlinlang.org/docs/whatsnew20.html)
+- [Go 1.23 and go:linkname changes](https://utcc.utoronto.ca/~cks/space/blog/programming/Go123LinknameComingProblem)
 
-- [CADmium: A Local-First CAD Program Built for the Browser](https://mattferraro.dev/posts/cadmium)
+- [Exploring Seamless Rust Interop for Newer Languages, Part 1](https://verdagon.dev/blog/exploring-seamless-rust-interop-part-1)
 
-- [UI Density](https://matthewstrom.com/writing/ui-density/)
+- [Statically Typed Functional Programming with Python 3.12](https://wickstrom.tech/2024-05-23-statically-typed-functional-programming-python-312.html)
 
-- [The Ages of Programming Language Creators](https://pldb.io/posts/ageAtCreation.html)
+- [Willow Sideloading Protocol](https://willowprotocol.org/specs/sideloading)
 
-- [Swap the ı and i key on your keyboard for faster modal editing](https://rgbcu.be/blog/swap-i/)
+- [hoot's wasm toolkit](https://wingolog.org/archives/2024/05/24/hoots-wasm-toolkit)
 
-- [Common Lisp for Shell Scripting](https://simonsafar.com/2021/lisp_scripting/)
+- [Samsung Requires Independent Repair Shops to Share Customer Data, Snitch on People Who Use Aftermarket Parts, Leaked Contract Shows](https://www.404media.co/samsung-requires-independent-repair-shops-to-share-customer-data-snitch-on-people-who-use-aftermarket-parts-leaked-contract-shows/)
 
-- [Erlang/OTP 27.0 Release](https://www.erlang.org/news/170)
+- [Golden Gate Claude](https://www.anthropic.com/news/golden-gate-claude)
 
-- [Small probabilities add, big ones don’t](https://www.johndcook.com/blog/2024/05/10/small-probabilities-add/)
+- [Atomic Polling Intervals for Highly Concurrent Workloads](https://www.byronwasti.com/polling-atomics/)
 
-- [BIOS Update Thinkpad with Boot Image](https://x61.sh/log/2024/05/21052024183107-update_bios.html)
+- [Privacy, human rights, and Tornado Cash](https://www.citationneeded.news/tornado-cash/)
+
+- [What is a collision?](https://www.sassnow.ski/rigid-body-collisions/1)
