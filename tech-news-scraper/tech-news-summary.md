@@ -1,47 +1,47 @@
-- [Voxel Displacement Renderer — Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
+- [a mastodon client for palmOS](http://www.knickish.com/palm/rust/2023/09/12/a-mastodon-client-for-palmos.html)
 
-- [A Grand Unified Theory of the AI Hype Cycle](https://blog.glyph.im/2024/05/grand-unified-ai-hype.html)
+- [Amber The Programming Language compiled to Bash](https://amber-lang.com/)
 
-- [Analytical Methods for Dynamic Simulation of Non-penetrating Rigid Bodies](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a02843095948be29664b48c3338791ec05dcf52c)
+- [Another Year With Decker](https://beyondloom.com/blog/unionstate2.html)
 
-- [Details of Google Cloud GCVE incident (UniSuper deletion)](https://cloud.google.com/blog/products/infrastructure/details-of-google-cloud-gcve-incident/)
+- [Reclaiming IPv4 Class E's 240.0.0.0/4](https://blog.benjojo.co.uk/post/class-e-addresses-in-the-real-world)
 
-- [Reverse engineering ESP32 Wi-Fi driver: the road ahead](https://esp32-open-mac.be/posts/0005-the-road-ahead/)
+- [How does sync.WaitGroup work under the hood](https://blog.meain.io/2024/sync-waitgroup-internals/)
 
-- [ssh authentication via Yubikeys](https://feldspaten.org/2024/02/03/ssh-authentication-via-Yubikeys/)
+- [My Home Server Journey - From Raspberry Pi to Ryzen](https://blog.viktorpetersson.com/2024/05/04/home-server-journey.html)
 
-- [apple/password-manager-resources: website datasets for password managers](https://github.com/apple/password-manager-resources)
+- [New magic for animations in CSS](https://chasem.co/2024/05/css-animations/)
 
-- [Embedded drawing tool for Emacs](https://github.com/misohena/el-easydraw)
+- [My BDFL guiding principles](https://daniel.haxx.se/blog/2024/05/27/my-bdfl-guiding-principles/)
 
-- [BitKeeper, Linux, and licensing disputes: How Linus wrote Git in 14 days](https://graphite.dev/blog/bitkeeper-linux-story-of-git-creation)
+- [helix-gpui: helix gpui frontend](https://github.com/polachok/helix-gpui)
 
-- [Not quite Open Source (1999)](https://lwn.net/1999/features/BitKeeper.php3)
+- [Gleam v1.2 released with LSP improvements](https://gleam.run/news/fault-tolerant-gleam/)
 
-- [Melange 4.0 is here](https://melange.re/blog/posts/melange-4-is-here)
+- [Elixir math benchmarks](https://hg.sr.ht/~icefox/elixir_mathbench)
 
-- [Don Knuth’s MIP, 64 years later](https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/)
+- [When privacy expires: how I got access to tons of sensitive citizen data after buying cheap domains](https://inti.io/p/when-privacy-expires-how-i-got-access)
 
-- [ndindex: A Python library for manipulating indices of ndarrays](https://quansight-labs.github.io/ndindex/)
+- [Writing fast string ufuncs for NumPy 2.0](https://labs.quansight.org/blog/numpy-string-ufuncs)
 
-- [When allocating unused memory boosts performance by 2x](https://quickwit.io/blog/performance-investigation)
+- [Evolution of the ELF object file format](https://maskray.me/blog/2024-05-26-evolution-of-elf-object-file-format)
 
-- [Go 1.23 and go:linkname changes](https://utcc.utoronto.ca/~cks/space/blog/programming/Go123LinknameComingProblem)
+- [Old Dogs, new CSS Tricks](https://mxb.dev/blog/old-dogs-new-css-tricks/)
 
-- [Exploring Seamless Rust Interop for Newer Languages, Part 1](https://verdagon.dev/blog/exploring-seamless-rust-interop-part-1)
+- [Instead of "auth", we should say "permissions" and "login"](https://ntietz.com/blog/lets-say-instead-of-auth/)
 
-- [Statically Typed Functional Programming with Python 3.12](https://wickstrom.tech/2024-05-23-statically-typed-functional-programming-python-312.html)
+- [Refurb weekend: Canon Cat](https://oldvcr.blogspot.com/2024/05/refurb-weekend-canon-cat.html)
 
-- [Willow Sideloading Protocol](https://willowprotocol.org/specs/sideloading)
+- [Post-Open License: First Draft](https://perens.com/2024/03/08/post-open-license-first-draft/)
 
-- [hoot's wasm toolkit](https://wingolog.org/archives/2024/05/24/hoots-wasm-toolkit)
+- [On Fire Drills and Phishing Tests](https://security.googleblog.com/2024/05/on-fire-drills-and-phishing-tests.html)
 
-- [Samsung Requires Independent Repair Shops to Share Customer Data, Snitch on People Who Use Aftermarket Parts, Leaked Contract Shows](https://www.404media.co/samsung-requires-independent-repair-shops-to-share-customer-data-snitch-on-people-who-use-aftermarket-parts-leaked-contract-shows/)
+- [My new PSU burns out! I fix it, and torture it by cracking water](https://tomscii.sig7.se/2024/05/PSU-burnout-and-torture-cracking-water)
 
-- [Golden Gate Claude](https://www.anthropic.com/news/golden-gate-claude)
+- [Generating Almost Normally Distributed Values](https://two-wrongs.com/generating-almost-normally-distributed-values.html)
 
-- [Atomic Polling Intervals for Highly Concurrent Workloads](https://www.byronwasti.com/polling-atomics/)
+- [In Defense of the Mac Pro 2023](https://virtuallyfun.com/2024/05/26/in-defense-of-the-mac-pro-2023/)
 
-- [Privacy, human rights, and Tornado Cash](https://www.citationneeded.news/tornado-cash/)
+- [cps in hoot](https://wingolog.org/archives/2024/05/27/cps-in-hoot)
 
-- [What is a collision?](https://www.sassnow.ski/rigid-body-collisions/1)
+- [How We Migrated Our Static Analyzer From Java To Rust](https://www.datadoghq.com/blog/engineering/how-we-migrated-our-static-analyzer-from-java-to-rust/)
