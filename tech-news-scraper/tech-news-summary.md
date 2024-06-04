@@ -1,45 +1,45 @@
-- [Zig's New CLI Progress Bar Explained](https://andrewkelley.me/post/zig-new-cli-progress-bar-explained.html)
+- [84—24](https://84-24.org/)
 
-- [Why, after 6 years, I’m over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
+- [I'm forking Ladybird and stepping down as SerenityOS BDFL](https://awesomekling.substack.com/p/forking-ladybird-and-stepping-down-serenityos)
 
-- [Things you wish you didn't need to know about S3](https://blog.plerion.com/things-you-wish-you-didnt-need-to-know-about-s3/)
+- [SIMD detection of nested quotes](https://blog.sesse.net/blog/tech/2024-06-02-11-10_simd_detection_of_nested_quotes.html)
 
-- [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
+- [Don't name packages common nouns](https://brandur.org/fragments/go-no-common-nouns)
 
-- [Virtualization Internals Part 1 - Intro to Virtualization](https://docs.saferwall.com/blog/virtualization-internals-part-1-intro-to-virtualization/)
+- [Announcing Brioche](https://brioche.dev/blog/announcing-brioche/)
 
-- [Recall: Stealing everything you’ve ever typed or viewed on your own Windows PC is now possible](https://doublepulsar.com/recall-stealing-everything-youve-ever-typed-or-viewed-on-your-own-windows-pc-is-now-possible-da3e12e9465e)
+- [Lisp: Icing or Cake?](https://dthompson.us/posts/lisp-icing-or-cake.html)
 
-- [Reproducing GPT-2 (124M) in llm.c in 90 minutes for $20](https://github.com/karpathy/llm.c/discussions/481)
+- [Announcing DuckDB 1.0.0](https://duckdb.org/2024/06/03/announcing-duckdb-100.html)
 
-- [Alamosa: A Tiered Disk Block Cache for NetBSD](https://indico.bsdcan.org/event/1/contributions/11/attachments/2/2/presentation_bsdcan_final.pdf)
+- [{fmt}: a modern C++ string formatting library](https://fmt.dev/)
 
-- [Emacs Doesn’t Have Plugins](https://irreal.org/blog/?p=12210)
+- [Stop Scraping my Git Forge](https://gabrielsimmer.com/blog/stop-scraping-git-forge)
 
-- [jank gets chunked sequences, volatiles, atoms, and some big project updates](https://jank-lang.org/blog/2024-05-31-new-projects/)
+- [inotify-info: Linux inotify info reporting app](https://github.com/mikesart/inotify-info)
 
-- [Ezno: The quest continues](https://kaleidawave.github.io/posts/the-quest-continues/)
+- [Experimenting with local alt text generation in Firefox Nightly](https://hacks.mozilla.org/2024/05/experimenting-with-local-alt-text-generation-in-firefox-nightly/)
 
-- [25 Years of Krita](https://krita.org/en/posts/2024/krita-25-years/)
+- [An overview of the Starlark language](https://laurent.le-brun.eu/blog/an-overview-of-starlark)
 
-- [NixOS 24.05 released](https://nixos.org/blog/announcements/2024/nixos-2405/)
+- [Message authentication codes for safer distributed transactions](https://mazzo.li/posts/mac-distributed-tx.html)
 
-- [Planck expandable 65c02-based computer](https://planck6502.com/)
+- [My portable ergonomic setup](https://ntietz.com/blog/my-portable-ergonomic-setup/)
 
-- [Float Precision Revisited: Nine Digit Float Portability (2013)](https://randomascii.wordpress.com/2013/02/07/float-precision-revisited-nine-digit-float-portability/)
+- [Why are vulnerabilities out of control in 2024?](https://opensourcesecurity.io/2024/06/03/why-are-vulnerabilities-out-of-control-in-2024/)
 
-- [PyPy has been quietly working for me for several years now](https://utcc.utoronto.ca/~cks/space/blog/python/PyPyQuietlyWorking)
+- [This is why you should never use parser combinators and PEG](https://safinaskar.writeas.com/this-is-why-you-should-never-use-parser-combinators-and-peg)
 
-- [Debian 12 KDE Plasma: The right GNU/Linux distribution for professional digital painting in 2024. Reasons and complete installation guide](https://www.davidrevoy.com/article1030/debian-12-kde-plasma-2024-install-guide)
+- [Hacking Millions of Modems (and Investigating Who Hacked My Modem)](https://samcurry.net/hacking-millions-of-modems)
 
-- [Sentinel errors and errors.Is() slow your code down by 3000%](https://www.dolthub.com/blog/2024-05-31-benchmarking-go-error-handling/)
+- [Cirkoban: Sokoban meets cellular automata written in Scheme](https://spritely.institute/news/cirkoban-sokoban-meets-cellular-automata-written-in-scheme.html)
 
-- [GitHub's Missing Tab](https://www.hezmatt.org/~mpalmer/blog/2024/05/30/githubs-missing-tab.html)
+- [Flicker-free Elite on the BBC Micro (like the BBC Master)](https://stardot.org.uk/forums/viewtopic.php?t=22170)
 
-- [Refusal in LLMs is mediated by a single direction](https://www.lesswrong.com/posts/jGuXSZgv6qfdhMCuJ/refusal-in-llms-is-mediated-by-a-single-direction)
+- [Please support “skip to main content” on your docs site](https://technicalwriting.dev/a11y/skip.html)
 
-- [Why, after 8 years, I still like GraphQL sometimes in the right context](https://www.magiroux.com/eight-years-of-graphql)
+- [Libadwaita: Splitting GTK and Design Language](https://tesk.page/2024/06/03/libadwaita-splitting-gtk-and-design-language/)
 
-- [P3292R0R0: Provenance and Concurrency](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3292r0.html)
+- [FreeBSD 14.1-RELEASE Announcement](https://www.freebsd.org/releases/14.1R/announce/)
 
-- [How to Copy a File From a 30-year-old Laptop](https://www.unterminated.com/random-fun/how-to-copy-a-file-from-a-30-year-old-laptop)
+- [Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/)
