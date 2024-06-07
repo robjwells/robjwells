@@ -1,45 +1,49 @@
-- [84—24](https://84-24.org/)
+- [What kind of bug would make machine learning suddenly 40% worse at NetHack?](https://arstechnica.com/gaming/2024/06/what-kind-of-bug-would-make-machine-learning-suddenly-40-worse-at-nethack/)
 
-- [I'm forking Ladybird and stepping down as SerenityOS BDFL](https://awesomekling.substack.com/p/forking-ladybird-and-stepping-down-serenityos)
+- [Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in State-Of-the-Art Large Language Models](https://arxiv.org/abs/2406.02061)
 
-- [SIMD detection of nested quotes](https://blog.sesse.net/blog/tech/2024-06-02-11-10_simd_detection_of_nested_quotes.html)
+- [let rand = main as usize](https://codeandbitters.com/main-as-usize/)
 
-- [Don't name packages common nouns](https://brandur.org/fragments/go-no-common-nouns)
+- [Cryptographic protocol verification with hax](https://cryspen.com/post/hax-pv/)
 
-- [Announcing Brioche](https://brioche.dev/blog/announcing-brioche/)
+- [Speeding up rustc by being lazy](https://davidlattimore.github.io/posts/2024/06/05/speeding-up-rustc-by-being-lazy.html)
 
-- [Lisp: Icing or Cake?](https://dthompson.us/posts/lisp-icing-or-cake.html)
+- [evading the wifi router ban](https://devnonsense.com/posts/evading-the-wifi-router-ban/)
 
-- [Announcing DuckDB 1.0.0](https://duckdb.org/2024/06/03/announcing-duckdb-100.html)
+- [The size-change principle for program termination (2001)](https://dl.acm.org/doi/abs/10.1145/360204.360210)
 
-- [{fmt}: a modern C++ string formatting library](https://fmt.dev/)
+- [Effect – The best way to build robust apps in TypeScript](https://effect.website/)
 
-- [Stop Scraping my Git Forge](https://gabrielsimmer.com/blog/stop-scraping-git-forge)
+- [Framework Laptop 13 Deep Dive - Creating a custom high-resolution](https://frame.work/blog/framework-laptop-13-deep-dive-creating-a-custom-high-resolution)
 
-- [inotify-info: Linux inotify info reporting app](https://github.com/mikesart/inotify-info)
+- [In Memory of Mike Karels](https://freebsdfoundation.org/mike_karels/)
 
-- [Experimenting with local alt text generation in Firefox Nightly](https://hacks.mozilla.org/2024/05/experimenting-with-local-alt-text-generation-in-firefox-nightly/)
+- [lelwel: Resilient LL(1) parser generator for Rust](https://github.com/0x2a-42/lelwel)
 
-- [An overview of the Starlark language](https://laurent.le-brun.eu/blog/an-overview-of-starlark)
+- [omakub: Opinionated Ubuntu Setup](https://github.com/basecamp/omakub)
 
-- [Message authentication codes for safer distributed transactions](https://mazzo.li/posts/mac-distributed-tx.html)
+- [JavaScript UI library with reactive atomic updates](https://github.com/bloomca/veles)
 
-- [My portable ergonomic setup](https://ntietz.com/blog/my-portable-ergonomic-setup/)
+- [benchexec: BenchExec: A Framework for Reliable Benchmarking and Resource Measurement](https://github.com/sosy-lab/benchexec)
 
-- [Why are vulnerabilities out of control in 2024?](https://opensourcesecurity.io/2024/06/03/why-are-vulnerabilities-out-of-control-in-2024/)
+- [cpu-energy-meter: A tool for measuring energy consumption of Intel CPUs](https://github.com/sosy-lab/cpu-energy-meter)
 
-- [This is why you should never use parser combinators and PEG](https://safinaskar.writeas.com/this-is-why-you-should-never-use-parser-combinators-and-peg)
+- [Swift at 10](https://mjtsai.com/blog/2024/06/04/swift-at-10/)
 
-- [Hacking Millions of Modems (and Investigating Who Hacked My Modem)](https://samcurry.net/hacking-millions-of-modems)
+- [JEP 455: Primitive Types in Patterns, instanceof, and switch (Preview)](https://openjdk.org/jeps/455)
 
-- [Cirkoban: Sokoban meets cellular automata written in Scheme](https://spritely.institute/news/cirkoban-sokoban-meets-cellular-automata-written-in-scheme.html)
+- [Vulkan1.3 on the M1 in 1 month](https://rosenzweig.io/blog/vk13-on-the-m1-in-1-month.html)
 
-- [Flicker-free Elite on the BBC Micro (like the BBC Master)](https://stardot.org.uk/forums/viewtopic.php?t=22170)
+- [Accidental prompt injection against RAG applications](https://simonwillison.net/2024/Jun/6/accidental-prompt-injection/)
 
-- [Please support “skip to main content” on your docs site](https://technicalwriting.dev/a11y/skip.html)
+- [Moving Beyond Type Systems](https://vhyrro.github.io/posts/effect-systems/)
 
-- [Libadwaita: Splitting GTK and Design Language](https://tesk.page/2024/06/03/libadwaita-splitting-gtk-and-design-language/)
+- [IDisposable: What Your Mother Never Told You About Resource Deallocation (2014)](https://www.codeproject.com/Articles/29534/IDisposable-What-Your-Mother-Never-Told-You-About)
 
-- [FreeBSD 14.1-RELEASE Announcement](https://www.freebsd.org/releases/14.1R/announce/)
+- [Leveraging Zig's Allocators](https://www.openmymind.net/Leveraging-Zigs-Allocators/)
 
-- [Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/)
+- [Flaky Tests Overhaul at Uber](https://www.uber.com/blog/flaky-tests-overhaul/)
+
+- [End-to-end types: full-stack Web apps with Gleam](https://www.youtube.com/watch?v=eVtkYQva0Ic)
+
+- [Building the Zed Text Editor](https://youtu.be/fV4aPy1bmY0)
