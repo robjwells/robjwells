@@ -1,49 +1,49 @@
-- [What kind of bug would make machine learning suddenly 40% worse at NetHack?](https://arstechnica.com/gaming/2024/06/what-kind-of-bug-would-make-machine-learning-suddenly-40-worse-at-nethack/)
+- [The Skew Programming Language](https://andrewkchan.dev/posts/skew.html)
 
-- [Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in State-Of-the-Art Large Language Models](https://arxiv.org/abs/2406.02061)
+- [Algorithm for Invalidation of Cached Results of Queries to a Single Table (2013)](https://arxiv.org/pdf/2310.15360)
 
-- [let rand = main as usize](https://codeandbitters.com/main-as-usize/)
+- [Putting Go's Context package into context](https://blog.meain.io/2024/golang-context/)
 
-- [Cryptographic protocol verification with hax](https://cryspen.com/post/hax-pv/)
+- [A (Draft) Taxonomy of SIMD Usage](https://branchfree.org/2024/06/09/a-draft-taxonomy-of-simd-usage/)
 
-- [Speeding up rustc by being lazy](https://davidlattimore.github.io/posts/2024/06/05/speeding-up-rustc-by-being-lazy.html)
+- [Clang-Repl](https://clang.llvm.org/docs/ClangRepl.html)
 
-- [evading the wifi router ban](https://devnonsense.com/posts/evading-the-wifi-router-ban/)
+- [United: free and open membership software for collective organizations](https://codeberg.org/reesericci/united)
 
-- [The size-change principle for program termination (2001)](https://dl.acm.org/doi/abs/10.1145/360204.360210)
+- [dmv.org](https://computer.rip/2024-06-08-dmv.org.html)
 
-- [Effect – The best way to build robust apps in TypeScript](https://effect.website/)
+- [LLMs are not even good wordcels](https://demian.ferrei.ro/blog/chatgpt-sucks-at-pangrams)
 
-- [Framework Laptop 13 Deep Dive - Creating a custom high-resolution](https://frame.work/blog/framework-laptop-13-deep-dive-creating-a-custom-high-resolution)
+- [Effects, capabilities, and boxes: from scope-based reasoning to type-based reasoning and back (2022)](https://dl.acm.org/doi/pdf/10.1145/3527320)
 
-- [In Memory of Mike Karels](https://freebsdfoundation.org/mike_karels/)
+- [Detecting a PS2 emulator: When 1*X does not equal X](https://fobes.dev/ps2/detecting-emu-vu-floats)
 
-- [lelwel: Resilient LL(1) parser generator for Rust](https://github.com/0x2a-42/lelwel)
+- [Diff modulo base](https://git.sr.ht/~nhaehnle/diff-modulo-base)
 
-- [omakub: Opinionated Ubuntu Setup](https://github.com/basecamp/omakub)
+- [CardStock: A Python WYSIWYG GUI Builder](https://github.com/benjie-git/CardStock)
 
-- [JavaScript UI library with reactive atomic updates](https://github.com/bloomca/veles)
+- [Google Mesop: Build web apps in Python](https://github.com/google/mesop)
 
-- [benchexec: BenchExec: A Framework for Reliable Benchmarking and Resource Measurement](https://github.com/sosy-lab/benchexec)
+- [isolate: Sandbox for securely executing untrusted programs](https://github.com/ioi/isolate)
 
-- [cpu-energy-meter: A tool for measuring energy consumption of Intel CPUs](https://github.com/sosy-lab/cpu-energy-meter)
+- [DARPA Spent $1 Billion Trying to Build a Real-Life Skynet in the 1980s (2013)](https://paleofuture.com/blog/2013/4/30/darpa-spent-1-billion-trying-to-build-a-real-life-skynet-in-the-1980s)
 
-- [Swift at 10](https://mjtsai.com/blog/2024/06/04/swift-at-10/)
+- [So You Want To Build A Browser Engine](https://robert.ocallahan.org/2024/06/browser-engine.html)
 
-- [JEP 455: Primitive Types in Patterns, instanceof, and switch (Preview)](https://openjdk.org/jeps/455)
+- [SIGMOD Programming Contest Archive](https://transactional.blog/sigmod-contest/)
 
-- [Vulkan1.3 on the M1 in 1 month](https://rosenzweig.io/blog/vk13-on-the-m1-in-1-month.html)
+- [HTTP/3 needs us (and other people) to make firewall changes (2021)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/HTTP3AndOurFirewalls)
 
-- [Accidental prompt injection against RAG applications](https://simonwillison.net/2024/Jun/6/accidental-prompt-injection/)
+- [Stupid Slow: The Perceived Speed of Computers](https://www.datagubbe.se/stupidslow/)
 
-- [Moving Beyond Type Systems](https://vhyrro.github.io/posts/effect-systems/)
+- [Fixing a knockoff Altera USB Blaster that never worked](https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/)
 
-- [IDisposable: What Your Mother Never Told You About Resource Deallocation (2014)](https://www.codeproject.com/Articles/29534/IDisposable-What-Your-Mother-Never-Told-You-About)
+- [XScreenSaver: Google Store Privacy Policy](https://www.jwz.org/xscreensaver/google.html)
 
-- [Leveraging Zig's Allocators](https://www.openmymind.net/Leveraging-Zigs-Allocators/)
+- [Autodafe 1.0 Released For Freeing Projects Of Autotools](https://www.phoronix.com/news/Autodafe-1.0-Released)
 
-- [Flaky Tests Overhaul at Uber](https://www.uber.com/blog/flaky-tests-overhaul/)
+- [Create Robust Web Apps with Gleam and Lustre](https://www.youtube.com/watch?v=3kr4Ydx6GGU)
 
-- [End-to-end types: full-stack Web apps with Gleam](https://www.youtube.com/watch?v=eVtkYQva0Ic)
+- [Escape from the ivory tower: the Haskell journey (2017)](https://www.youtube.com/watch?v=re96UgMk6GQ)
 
-- [Building the Zed Text Editor](https://youtu.be/fV4aPy1bmY0)
+- [Overengineering this blog's preview site with Kubernetes](https://xeiaso.net/blog/2024/overengineering-preview-site/)
