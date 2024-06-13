@@ -1,49 +1,49 @@
-- [The Skew Programming Language](https://andrewkchan.dev/posts/skew.html)
+- [Announcing systemd v256](https://0pointer.net/blog/announcing-systemd-v256.html)
 
-- [Algorithm for Invalidation of Cached Results of Queries to a Single Table (2013)](https://arxiv.org/pdf/2310.15360)
+- [How a single ChatGPT mistake cost us $10,000+](https://archive.is/2yxws)
 
-- [Putting Go's Context package into context](https://blog.meain.io/2024/golang-context/)
+- [CPython Garbage Collection: The Internal Mechanics and Algorithms](https://blog.codingconfessions.com/p/cpython-garbage-collection-internals)
 
-- [A (Draft) Taxonomy of SIMD Usage](https://branchfree.org/2024/06/09/a-draft-taxonomy-of-simd-usage/)
+- [Python wheel filenames have no canonical form](https://blog.yossarian.net/2024/06/12/Python-wheel-filenames-have-no-canonical-form)
 
-- [Clang-Repl](https://clang.llvm.org/docs/ClangRepl.html)
+- [My experience crafting an interpreter with Rust](https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/)
 
-- [United: free and open membership software for collective organizations](https://codeberg.org/reesericci/united)
+- [How things get done on the Go Team](https://changelog.com/gotime/318)
 
-- [dmv.org](https://computer.rip/2024-06-08-dmv.org.html)
+- [Cognate: Readable and concise concatenative programming](https://cognate-lang.github.io/learn.html)
 
-- [LLMs are not even good wordcels](https://demian.ferrei.ro/blog/chatgpt-sucks-at-pangrams)
+- [the Gilbert–Johnson–Keerthi algorithm explained as simply as possibly](https://computerwebsite.net/writing/gjk)
 
-- [Effects, capabilities, and boxes: from scope-based reasoning to type-based reasoning and back (2022)](https://dl.acm.org/doi/pdf/10.1145/3527320)
+- [Why curl closes PRs on GitHub](https://daniel.haxx.se/blog/2024/06/11/why-curl-closes-prs-on-github/)
 
-- [Detecting a PS2 emulator: When 1*X does not equal X](https://fobes.dev/ps2/detecting-emu-vu-floats)
+- [nsnotifyd-2.1 released](https://dotat.at/@/2024-06-12-nsnotifyd-2-1-released.html)
 
-- [Diff modulo base](https://git.sr.ht/~nhaehnle/diff-modulo-base)
+- [Elixir v1.17 released: set-theoretic types in patterns, calendar durations, and Erlang/OTP 27 support](https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/)
 
-- [CardStock: A Python WYSIWYG GUI Builder](https://github.com/benjie-git/CardStock)
+- [Optimal SQLite settings for Django](https://gcollazo.com/optimal-sqlite-settings-for-django/)
 
-- [Google Mesop: Build web apps in Python](https://github.com/google/mesop)
+- [Long-term maintenance of PCRE2](https://github.com/PCRE2Project/pcre2/issues/426)
 
-- [isolate: Sandbox for securely executing untrusted programs](https://github.com/ioi/isolate)
+- [Jupyter has a stand alone desktop version](https://github.com/jupyterlab/jupyterlab-desktop)
 
-- [DARPA Spent $1 Billion Trying to Build a Real-Life Skynet in the 1980s (2013)](https://paleofuture.com/blog/2013/4/30/darpa-spent-1-billion-trying-to-build-a-real-life-skynet-in-the-1980s)
+- [wc2: Investigates optimizing 'wc', the Unix word count program](https://github.com/robertdavidgraham/wc2)
 
-- [So You Want To Build A Browser Engine](https://robert.ocallahan.org/2024/06/browser-engine.html)
+- [iTerm2 v3.5.1 moves AI features into external plugin](https://iterm2.com/ai-plugin.html)
 
-- [SIGMOD Programming Contest Archive](https://transactional.blog/sigmod-contest/)
+- [Training a minimap detector for League of Legends without overthinking it](https://maknee.github.io/blog/2021/League-ML-Minimap-Detection2/)
 
-- [HTTP/3 needs us (and other people) to make firewall changes (2021)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/HTTP3AndOurFirewalls)
+- [Duperemove](https://markfasheh.github.io/duperemove/)
 
-- [Stupid Slow: The Perceived Speed of Computers](https://www.datagubbe.se/stupidslow/)
+- [How to save an old printer from the e-waste pile with a Raspberry Pi](https://ounapuu.ee/posts/2024/06/12/save-old-printer/)
 
-- [Fixing a knockoff Altera USB Blaster that never worked](https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/)
+- [Unnecessary upload evasion with lftp mirrors](https://peateasea.de/unnecessary-upload-evasion-with-lftp-mirrors/)
 
-- [XScreenSaver: Google Store Privacy Policy](https://www.jwz.org/xscreensaver/google.html)
+- [Serious Engine Networking - Dive-in Analysis](https://staniks.github.io/articles/serious-engine-networking-analysis)
 
-- [Autodafe 1.0 Released For Freeing Projects Of Autotools](https://www.phoronix.com/news/Autodafe-1.0-Released)
+- [Don’t Refactor Like Uncle Bob. Please](https://theaxolot.wordpress.com/2024/05/08/dont-refactor-like-uncle-bob-please/)
 
-- [Create Robust Web Apps with Gleam and Lustre](https://www.youtube.com/watch?v=3kr4Ydx6GGU)
+- [How much math can you do in 10 lines of Python](https://wordsandbuttons.online/how_much_math_can_you_do_in_10_lines_of_python.html)
 
-- [Escape from the ivory tower: the Haskell journey (2017)](https://www.youtube.com/watch?v=re96UgMk6GQ)
+- [Ruby 3.3.3 Released](https://www.ruby-lang.org/en/news/2024/06/12/ruby-3-3-3-released/)
 
-- [Overengineering this blog's preview site with Kubernetes](https://xeiaso.net/blog/2024/overengineering-preview-site/)
+- [Getting Started with the Swift Static Linux SDK](https://www.swift.org/documentation/articles/static-linux-getting-started.html)
