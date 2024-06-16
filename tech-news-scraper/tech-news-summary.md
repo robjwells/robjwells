@@ -1,49 +1,47 @@
-- [Announcing systemd v256](https://0pointer.net/blog/announcing-systemd-v256.html)
+- [Joining Strings in Python: A "Huh" Moment](https://berglyd.net/blog/2024/06/joining-strings-in-python/)
 
-- [How a single ChatGPT mistake cost us $10,000+](https://archive.is/2yxws)
+- [systemd, 10 years later (2020)](https://blog.darknedgy.net/technology/2020/05/02/0/)
 
-- [CPython Garbage Collection: The Internal Mechanics and Algorithms](https://blog.codingconfessions.com/p/cpython-garbage-collection-internals)
+- [Address Sanitizer Internals](https://blog.gistre.epita.fr/posts/benjamin.peter-2022-10-28-address_sanitizer_internals/)
 
-- [Python wheel filenames have no canonical form](https://blog.yossarian.net/2024/06/12/Python-wheel-filenames-have-no-canonical-form)
+- [Block AI training on a web site](https://blog.zgp.org/block-ai-training-on-a-web-site/)
 
-- [My experience crafting an interpreter with Rust](https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/)
+- [Notes on implementing dark mode](https://brandur.org/fragments/dark-mode-notes)
 
-- [How things get done on the Go Team](https://changelog.com/gotime/318)
+- [Docker Considered Harmful (2021)](https://catern.com/docker.html)
 
-- [Cognate: Readable and concise concatenative programming](https://cognate-lang.github.io/learn.html)
+- [Complex Analysis - A Visual and Interactive Introduction](https://complex-analysis.com/)
 
-- [the Gilbert–Johnson–Keerthi algorithm explained as simply as possibly](https://computerwebsite.net/writing/gjk)
+- [The Problem with OpenTelemetry](https://cra.mr/the-problem-with-otel/)
 
-- [Why curl closes PRs on GitHub](https://daniel.haxx.se/blog/2024/06/11/why-curl-closes-prs-on-github/)
+- [Printing music with CSS grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
 
-- [nsnotifyd-2.1 released](https://dotat.at/@/2024-06-12-nsnotifyd-2-1-released.html)
+- [Fifty Years Of Diff](https://exple.tive.org/blarg/2024/06/14/fifty-years-of-diff-and-merge/)
 
-- [Elixir v1.17 released: set-theoretic types in patterns, calendar durations, and Erlang/OTP 27 support](https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/)
+- [Bulk Unsubscribe: Unsubscribe from marketing/promotional emails in one click](https://github.com/danthegoodman1/BulkUnsubscribe)
 
-- [Optimal SQLite settings for Django](https://gcollazo.com/optimal-sqlite-settings-for-django/)
+- [impulse-tracker: Original source code for Impulse Tracker, a music tracker for DOS](https://github.com/jthlim/impulse-tracker)
 
-- [Long-term maintenance of PCRE2](https://github.com/PCRE2Project/pcre2/issues/426)
+- [Zero draft](https://jmduke.com/posts/microblog/zero-draft/)
 
-- [Jupyter has a stand alone desktop version](https://github.com/jupyterlab/jupyterlab-desktop)
+- [Reverse Engineering a Restaurant Pager system](https://k3xec.com/td158/)
 
-- [wc2: Investigates optimizing 'wc', the Unix word count program](https://github.com/robertdavidgraham/wc2)
+- [Why I am not yet ready to switch to Zig from Rust](https://medium.com/@penberg/why-i-am-not-yet-ready-to-switch-to-zig-from-rust-3660e02f0060)
 
-- [iTerm2 v3.5.1 moves AI features into external plugin](https://iterm2.com/ai-plugin.html)
+- [Why you shouldn't parse the output of ls(1)](https://mywiki.wooledge.org/ParsingLs)
 
-- [Training a minimap detector for League of Legends without overthinking it](https://maknee.github.io/blog/2021/League-ML-Minimap-Detection2/)
+- [Lynn Conway has died](https://news.engin.umich.edu/2024/06/the-legacy-of-lynn-conway-chip-design-pioneer-and-transgender-rights-advocate/)
 
-- [Duperemove](https://markfasheh.github.io/duperemove/)
+- [Spending too much time optimizing for loops](https://octavelarose.github.io/2024/05/29/to-do-inlining.html)
 
-- [How to save an old printer from the e-waste pile with a Raspberry Pi](https://ounapuu.ee/posts/2024/06/12/save-old-printer/)
+- [When To Write a Simulator](https://sirupsen.com/napkin/problem-16-simulation)
 
-- [Unnecessary upload evasion with lftp mirrors](https://peateasea.de/unnecessary-upload-evasion-with-lftp-mirrors/)
+- [Simple proofs with Z3Py](https://www.philipzucker.com/more-stupid-z3py-tricks-simple-proofs/)
 
-- [Serious Engine Networking - Dive-in Analysis](https://staniks.github.io/articles/serious-engine-networking-analysis)
+- [Whistleblower Says Microsoft Dismissed Warnings About a Security Flaw That Russians Later Used to Hack U.S. Government](https://www.propublica.org/article/microsoft-solarwinds-golden-saml-data-breach-russian-hackers)
 
-- [Don’t Refactor Like Uncle Bob. Please](https://theaxolot.wordpress.com/2024/05/08/dont-refactor-like-uncle-bob-please/)
+- [The Tragedy of systemd (2019)](https://www.youtube.com/watch?v=o_AIw9bGogo)
 
-- [How much math can you do in 10 lines of Python](https://wordsandbuttons.online/how_much_math_can_you_do_in_10_lines_of_python.html)
+- [Entity Component System (ECS) - Definition and Simple Implementation](https://www.youtube.com/watch?v=s6TMa33niJo)
 
-- [Ruby 3.3.3 Released](https://www.ruby-lang.org/en/news/2024/06/12/ruby-3-3-3-released/)
-
-- [Getting Started with the Swift Static Linux SDK](https://www.swift.org/documentation/articles/static-linux-getting-started.html)
+- [Why Yaak is not open source](https://yaak.app/blog/why-not-open-source)
