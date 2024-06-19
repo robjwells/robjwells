@@ -1,47 +1,49 @@
-- [Joining Strings in Python: A "Huh" Moment](https://berglyd.net/blog/2024/06/joining-strings-in-python/)
+- [IPC in Rust - a Ping Pong Comparison](https://3tilley.github.io/posts/simple-ipc-ping-pong/)
 
-- [systemd, 10 years later (2020)](https://blog.darknedgy.net/technology/2020/05/02/0/)
+- [S2malloc: Statistically Secure Allocator for Use-After-Free Protection And More](https://arxiv.org/pdf/2402.01894)
 
-- [Address Sanitizer Internals](https://blog.gistre.epita.fr/posts/benjamin.peter-2022-10-28-address_sanitizer_internals/)
+- [Versioning FreeCAD files with git](https://blog.lambda.cx/posts/freecad-and-git/)
 
-- [Block AI training on a web site](https://blog.zgp.org/block-ai-training-on-a-web-site/)
+- [NumPy 2.0: an evolutionary milestone](https://blog.scientific-python.org/numpy/numpy2/)
 
-- [Notes on implementing dark mode](https://brandur.org/fragments/dark-mode-notes)
+- [Demystifying Rust's ? Operator](https://blog.sulami.xyz/posts/demystifying-rusts-questionmark-operator/)
 
-- [Docker Considered Harmful (2021)](https://catern.com/docker.html)
+- [Themes from Real World Crypto 2024](https://blog.trailofbits.com/2024/06/18/themes-from-real-world-crypto-2024/)
 
-- [Complex Analysis - A Visual and Interactive Introduction](https://complex-analysis.com/)
+- [Update on Newton, the Wayland-native accessibility project](https://blogs.gnome.org/a11y/2024/06/18/update-on-newton-the-wayland-native-accessibility-project/)
 
-- [The Problem with OpenTelemetry](https://cra.mr/the-problem-with-otel/)
+- [Introducing a new RISC-V Mainboard from DeepComputing](https://frame.work/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
 
-- [Printing music with CSS grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
+- [aurora: A static site generator implemented in Python](https://github.com/capjamesg/aurora)
 
-- [Fifty Years Of Diff](https://exple.tive.org/blarg/2024/06/14/fifty-years-of-diff-and-merge/)
+- [Go package for calculating the sunrise and sunset times for a given location](https://github.com/nathan-osman/go-sunrise)
 
-- [Bulk Unsubscribe: Unsubscribe from marketing/promotional emails in one click](https://github.com/danthegoodman1/BulkUnsubscribe)
+- [Replace FxHasher with faster and better finalized hash](https://github.com/rust-lang/rustc-hash/pull/37)
 
-- [impulse-tracker: Original source code for Impulse Tracker, a music tracker for DOS](https://github.com/jthlim/impulse-tracker)
+- [htmx 2.0.0 has been released](https://htmx.org/posts/2024-06-17-htmx-2-0-0-is-released/)
 
-- [Zero draft](https://jmduke.com/posts/microblog/zero-draft/)
+- [The Pitfalls of Comparing BigDecimals in Java](https://igorstechnoclub.com/java-bigdecimal/)
 
-- [Reverse Engineering a Restaurant Pager system](https://k3xec.com/td158/)
+- [GitHub Copilot Workspace Review](https://matduggan.com/reviewing-github-copilot-workspaces/)
 
-- [Why I am not yet ready to switch to Zig from Rust](https://medium.com/@penberg/why-i-am-not-yet-ready-to-switch-to-zig-from-rust-3660e02f0060)
+- [Regular JSON](https://neilmadden.blog/2023/05/31/regular-json/)
 
-- [Why you shouldn't parse the output of ls(1)](https://mywiki.wooledge.org/ParsingLs)
+- [I’ve Stopped Using Box Plots. Should You?](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
 
-- [Lynn Conway has died](https://news.engin.umich.edu/2024/06/the-legacy-of-lynn-conway-chip-design-pioneer-and-transgender-rights-advocate/)
+- [NLnet; 45 Projects Receiving New NGI Zero Grants](https://nlnet.nl/news/2024/20240618-Call-announcement.html)
 
-- [Spending too much time optimizing for loops](https://octavelarose.github.io/2024/05/29/to-do-inlining.html)
+- [A Note on Essential Complexity](https://olano.dev/blog/a-note-on-essential-complexity)
 
-- [When To Write a Simulator](https://sirupsen.com/napkin/problem-16-simulation)
+- [Basic Python project setup](https://peateasea.de/basic-python-project-setup/)
 
-- [Simple proofs with Z3Py](https://www.philipzucker.com/more-stupid-z3py-tricks-simple-proofs/)
+- [5 Reasons Why Box Plots are the Better Default Choice for Visualizing Performance](https://stefan-marr.de/2024/06/5-reasons-for-box-plots-as-default/)
 
-- [Whistleblower Says Microsoft Dismissed Warnings About a Security Flaw That Russians Later Used to Hack U.S. Government](https://www.propublica.org/article/microsoft-solarwinds-golden-saml-data-breach-russian-hackers)
+- [Make Python DevEx](https://tech.target.com/blog/make-python-devex)
 
-- [The Tragedy of systemd (2019)](https://www.youtube.com/watch?v=o_AIw9bGogo)
+- [SSH as a sudo replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)
 
-- [Entity Component System (ECS) - Definition and Simple Implementation](https://www.youtube.com/watch?v=s6TMa33niJo)
+- [Linux 6.10 Honors One Last ReiserFS Request Made By Hans Reiser](https://www.phoronix.com/news/ReiserFS-README-Linux-6.10)
 
-- [Why Yaak is not open source](https://yaak.app/blog/why-not-open-source)
+- [When will the HDD finally go extinct?](https://www.techzine.eu/blogs/data-management/114808/when-will-the-hdd-finally-go-extinct/)
+
+- [The past, present, and future of local-first](https://youtu.be/NMq0vncHJvU)
