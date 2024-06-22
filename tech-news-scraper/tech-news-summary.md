@@ -1,49 +1,49 @@
-- [IPC in Rust - a Ping Pong Comparison](https://3tilley.github.io/posts/simple-ipc-ping-pong/)
+- [On the Paradox of Learning to Reason from Data (2022)](https://arxiv.org/pdf/2205.11502)
 
-- [S2malloc: Statistically Secure Allocator for Use-After-Free Protection And More](https://arxiv.org/pdf/2402.01894)
+- [Cosmodoc - Cosmo’s Cosmic Adventure reverse engineering](https://cosmodoc.org/)
 
-- [Versioning FreeCAD files with git](https://blog.lambda.cx/posts/freecad-and-git/)
+- [We need to talk about testing (2021)](https://dannorth.net/we-need-to-talk-about-testing/)
 
-- [NumPy 2.0: an evolutionary milestone](https://blog.scientific-python.org/numpy/numpy2/)
+- [stalin: brutally optimizing Scheme compiler](https://github.com/barak/stalin)
 
-- [Demystifying Rust's ? Operator](https://blog.sulami.xyz/posts/demystifying-rusts-questionmark-operator/)
+- [Carbon Copy Newsletter No.3](https://github.com/carbon-language/carbon-lang/discussions/4068)
 
-- [Themes from Real World Crypto 2024](https://blog.trailofbits.com/2024/06/18/themes-from-real-world-crypto-2024/)
+- [tscircuit: React for Circuits](https://github.com/tscircuit/tscircuit)
 
-- [Update on Newton, the Wayland-native accessibility project](https://blogs.gnome.org/a11y/2024/06/18/update-on-newton-the-wayland-native-accessibility-project/)
+- [Project Naptime: Evaluating Offensive Security Capabilities of Large Language Models](https://googleprojectzero.blogspot.com/2024/06/project-naptime.html)
 
-- [Introducing a new RISC-V Mainboard from DeepComputing](https://frame.work/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
+- [On testing Go code using the standard library](https://henvic.dev/posts/testing-go/)
 
-- [aurora: A static site generator implemented in Python](https://github.com/capjamesg/aurora)
+- [Public CDNs Are Useless and Dangerous (2021)](https://httptoolkit.com/blog/public-cdn-risks/)
 
-- [Go package for calculating the sunrise and sunset times for a given location](https://github.com/nathan-osman/go-sunrise)
+- [Rewrites outside location blocks in Nginx are bad](https://kgrz.io/rewrites-outside-location-in-nginx-bad.html)
 
-- [Replace FxHasher with faster and better finalized hash](https://github.com/rust-lang/rustc-hash/pull/37)
+- [What Happens When You Put a Database in the Browser?](https://motherduck.com/blog/olap-database-in-browser/)
 
-- [htmx 2.0.0 has been released](https://htmx.org/posts/2024-06-17-htmx-2-0-0-is-released/)
+- [The revival of Pre-Scheme, a systems programming lisp](https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html)
 
-- [The Pitfalls of Comparing BigDecimals in Java](https://igorstechnoclub.com/java-bigdecimal/)
+- [Announcing River UI](https://riverqueue.com/blog/announcing-river-ui)
 
-- [GitHub Copilot Workspace Review](https://matduggan.com/reviewing-github-copilot-workspaces/)
+- [3D Printing My Teeth](https://shkspr.mobi/blog/2024/06/3d-printing-my-teeth/)
 
-- [Regular JSON](https://neilmadden.blog/2023/05/31/regular-json/)
+- [Building search-based RAG using Claude, Datasette and Val Town](https://simonwillison.net/2024/Jun/21/search-based-rag/)
 
-- [I’ve Stopped Using Box Plots. Should You?](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
+- [Claiming, auto and otherwise](https://smallcultfollowing.com/babysteps/blog/2024/06/21/claim-auto-and-otherwise/)
 
-- [NLnet; 45 Projects Receiving New NGI Zero Grants](https://nlnet.nl/news/2024/20240618-Call-announcement.html)
+- [Thoughts on Desktop Operating Systems in 2024](https://tbolt.space/2024/6/20/desktop-operating-systems-2024)
 
-- [A Note on Essential Complexity](https://olano.dev/blog/a-note-on-essential-complexity)
+- [Stop your (business rules) engines](https://www.adhocteam.us/2017/10/10/stop-your-business-rules-engines/)
 
-- [Basic Python project setup](https://peateasea.de/basic-python-project-setup/)
+- [SVG: The Good, the Bad and the Ugly](https://www.eisfunke.com/posts/2021/svg-the-good-the-bad-and-the-ugly.html)
 
-- [5 Reasons Why Box Plots are the Better Default Choice for Visualizing Performance](https://stefan-marr.de/2024/06/5-reasons-for-box-plots-as-default/)
+- [Swapping GNU coreutils for uutils coreutils on Gentoo Linux](https://www.joshmcguigan.com/blog/gentoo-uutils-coreutils/)
 
-- [Make Python DevEx](https://tech.target.com/blog/make-python-devex)
+- [Debian 12 is Better Than Windows 10](https://www.logikalsolutions.com/wordpress/information-technology/windows-10/)
 
-- [SSH as a sudo replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)
+- [Oils 0.22.0 - Docs, Pretty Printing, Nix, and Zsh](https://www.oilshell.org/blog/2024/06/release-0.22.0.html)
 
-- [Linux 6.10 Honors One Last ReiserFS Request Made By Hans Reiser](https://www.phoronix.com/news/ReiserFS-README-Linux-6.10)
+- [Django 5 by Example preface](https://www.paulox.net/2024/06/21/django-5-by-example-preface/)
 
-- [When will the HDD finally go extinct?](https://www.techzine.eu/blogs/data-management/114808/when-will-the-hdd-finally-go-extinct/)
+- [Nickel modules](https://www.tweag.io/blog/2024-06-20-nickel-modules/)
 
-- [The past, present, and future of local-first](https://youtu.be/NMq0vncHJvU)
+- [An Exploration of Cuis Smalltalk  (with Juan Vuletich)](https://youtu.be/sokb6zZC-ZE)
