@@ -1,49 +1,43 @@
-- [On the Paradox of Learning to Reason from Data (2022)](https://arxiv.org/pdf/2205.11502)
+- [Life in the FastLanes: Decoding >100 billion integers per second with scalar Rust](http://blog.spiraldb.com/life-in-the-fastlanes/)
 
-- [Cosmodoc - Cosmo’s Cosmic Adventure reverse engineering](https://cosmodoc.org/)
+- [Microfeatures I Love in Blogs and Personal Websites](https://danilafe.com/blog/blog_microfeatures/)
 
-- [We need to talk about testing (2021)](https://dannorth.net/we-need-to-talk-about-testing/)
+- [Dioxus Labs + “High-level Rust”](https://dioxus.notion.site/Dioxus-Labs-High-level-Rust-5fe1f1c9c8334815ad488410d948f05e)
 
-- [stalin: brutally optimizing Scheme compiler](https://github.com/barak/stalin)
+- [New Terminator Release: v2.1.4](https://folkwolf.net/new-terminator-release-v214/)
 
-- [Carbon Copy Newsletter No.3](https://github.com/carbon-language/carbon-lang/discussions/4068)
+- [What is mixed content?](https://frederikbraun.de/mixed-content.html)
 
-- [tscircuit: React for Circuits](https://github.com/tscircuit/tscircuit)
+- [Investigating an Event Queue Hang: The Code Works Correctly](https://gist.github.com/FeepingCreature/a8099d2bcf850a9c388ed045fa3b5c0e)
 
-- [Project Naptime: Evaluating Offensive Security Capabilities of Large Language Models](https://googleprojectzero.blogspot.com/2024/06/project-naptime.html)
+- [The Proxmox Hypervisor, on NixOS](https://github.com/SaumonNet/proxmox-nixos)
 
-- [On testing Go code using the standard library](https://henvic.dev/posts/testing-go/)
+- [Cosmopolitan v3.5.0](https://github.com/jart/cosmopolitan/releases/tag/3.5.0)
 
-- [Public CDNs Are Useless and Dangerous (2021)](https://httptoolkit.com/blog/public-cdn-risks/)
+- [New sort implementations merged in the Rust standard library - up to 2x faster](https://github.com/rust-lang/rust/pull/124032)
 
-- [Rewrites outside location blocks in Nginx are bad](https://kgrz.io/rewrites-outside-location-in-nginx-bad.html)
+- [Secrets of the ChatGPT Linux system](https://incoherency.co.uk/blog/stories/chatgpt-linux.html)
 
-- [What Happens When You Put a Database in the Browser?](https://motherduck.com/blog/olap-database-in-browser/)
+- [Indirector: High-Precision Branch Target Injection Attacks Exploiting the Indirect Branch Predictor](https://indirector.cpusec.org/index_files/Indirector_USENIX_Security_2024.pdf)
 
-- [The revival of Pre-Scheme, a systems programming lisp](https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html)
+- [More Memory Safety for Let’s Encrypt: Deploying ntpd-rs](https://letsencrypt.org/2024/06/24/ntpd-rs-deployment.html)
 
-- [Announcing River UI](https://riverqueue.com/blog/announcing-river-ui)
+- [Macros and optimizations: it's just a phase](https://marianoguerra.org/posts/macros-and-optimizations-its-just-a-phase/)
 
-- [3D Printing My Teeth](https://shkspr.mobi/blog/2024/06/3d-printing-my-teeth/)
+- [Chat Control and the New Panopticon](https://mhatta.substack.com/p/chat-control-and-the-new-panopticon)
 
-- [Building search-based RAG using Claude, Datasette and Val Town](https://simonwillison.net/2024/Jun/21/search-based-rag/)
+- [\Device\Afd, or, the Deal with the Devil that makes async Rust work on Windows](https://notgull.net/device-afd/)
 
-- [Claiming, auto and otherwise](https://smallcultfollowing.com/babysteps/blog/2024/06/21/claim-auto-and-otherwise/)
+- [No sleep until we build the ideal pub/sub library in Go](https://rauljordan.com/no-sleep-until-we-build-the-perfect-library-in-go/)
 
-- [Thoughts on Desktop Operating Systems in 2024](https://tbolt.space/2024/6/20/desktop-operating-systems-2024)
+- [Announcing the Ronin 2.1.0 Open Beta](https://ronin-rb.dev/blog/2024/06/24/announcing-the-ronin-2-1-0-open-beta.html)
 
-- [Stop your (business rules) engines](https://www.adhocteam.us/2017/10/10/stop-your-business-rules-engines/)
+- [Network protocols, sans I/O (2016)](https://sans-io.readthedocs.io/)
 
-- [SVG: The Good, the Bad and the Ugly](https://www.eisfunke.com/posts/2021/svg-the-good-the-bad-and-the-ugly.html)
+- [Local, first, forever - CRDT filesync](https://tonsky.me/blog/crdt-filesync/)
 
-- [Swapping GNU coreutils for uutils coreutils on Gentoo Linux](https://www.joshmcguigan.com/blog/gentoo-uutils-coreutils/)
+- [Why Passkey Implementation is 100x Harder Than You Think – Misconceptions, Pitfalls and Unknown Unknowns](https://www.corbado.com/blog/passkey-implementation-pitfalls-misconceptions-unknowns)
 
-- [Debian 12 is Better Than Windows 10](https://www.logikalsolutions.com/wordpress/information-technology/windows-10/)
+- [From 0/10 to 8/10: Microsoft Puts Repair Front and Center | iFixit News](https://www.ifixit.com/News/96998/from-0-10-to-8-10-microsoft-puts-repair-front-and-center)
 
-- [Oils 0.22.0 - Docs, Pretty Printing, Nix, and Zsh](https://www.oilshell.org/blog/2024/06/release-0.22.0.html)
-
-- [Django 5 by Example preface](https://www.paulox.net/2024/06/21/django-5-by-example-preface/)
-
-- [Nickel modules](https://www.tweag.io/blog/2024-06-20-nickel-modules/)
-
-- [An Exploration of Cuis Smalltalk  (with Juan Vuletich)](https://youtu.be/sokb6zZC-ZE)
+- [MIME, RSS, and existential torment](https://xeiaso.net/blog/2024/fixing-rss-mailcap/)
