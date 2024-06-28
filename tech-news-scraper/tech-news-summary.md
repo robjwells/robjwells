@@ -1,43 +1,49 @@
-- [Life in the FastLanes: Decoding >100 billion integers per second with scalar Rust](http://blog.spiraldb.com/life-in-the-fastlanes/)
+- [long term curl versions](https://daniel.haxx.se/blog/2024/06/27/long-term-curl-versions/)
 
-- [Microfeatures I Love in Blogs and Personal Websites](https://danilafe.com/blog/blog_microfeatures/)
+- [Fighting Faults in Distributed Systems](https://decomposition.al/CSE138-2024-01/zines/zine-ali.pdf)
 
-- [Dioxus Labs + “High-level Rust”](https://dioxus.notion.site/Dioxus-Labs-High-level-Rust-5fe1f1c9c8334815ad488410d948f05e)
+- [Adding parallel evaluation to Nix](https://determinate.systems/posts/parallel-nix-eval)
 
-- [New Terminator Release: v2.1.4](https://folkwolf.net/new-terminator-release-v214/)
+- [How file systems can change in Sequoia with FSKit](https://eclecticlight.co/2024/06/26/how-file-systems-can-change-in-sequoia-with-fskit/)
 
-- [What is mixed content?](https://frederikbraun.de/mixed-content.html)
+- [You probably wrote half a monad by accident](https://gieseanw.wordpress.com/2024/06/25/you-probably-wrote-half-a-monad-by-accident/)
 
-- [Investigating an Event Queue Hang: The Code Works Correctly](https://gist.github.com/FeepingCreature/a8099d2bcf850a9c388ed045fa3b5c0e)
+- [scala-3-is-yaml.scala](https://gist.github.com/igstan/92fc3b12156f7f9e2df617a647deb701)
 
-- [The Proxmox Hypervisor, on NixOS](https://github.com/SaumonNet/proxmox-nixos)
+- [k23: Experimental WASM Microkernel Operating System](https://github.com/JonasKruckenberg/k23)
 
-- [Cosmopolitan v3.5.0](https://github.com/jart/cosmopolitan/releases/tag/3.5.0)
+- [Conway's game of life, in checkboxes for some reason](https://huth.me/checkbox-life/)
 
-- [New sort implementations merged in the Rust standard library - up to 2x faster](https://github.com/rust-lang/rust/pull/124032)
+- [CVE-2024-5535: `SSL_select_next_proto` buffer overread](https://jbp.io/2024/06/27/cve-2024-5535-openssl-memory-safety.html)
 
-- [Secrets of the ChatGPT Linux system](https://incoherency.co.uk/blog/stories/chatgpt-linux.html)
+- [Python still surprises](https://kivikakk.ee/2024/06/27/python-still-surprises/)
 
-- [Indirector: High-Precision Branch Target Injection Attacks Exploiting the Indirect Branch Predictor](https://indirector.cpusec.org/index_files/Indirector_USENIX_Security_2024.pdf)
+- [How much memory does a call to ‘malloc’  allocates?](https://lemire.me/blog/2024/06/27/how-much-memory-does-a-call-to-malloc-allocates/)
 
-- [More Memory Safety for Let’s Encrypt: Deploying ntpd-rs](https://letsencrypt.org/2024/06/24/ntpd-rs-deployment.html)
+- [Linguist Translate, a privacy focused offline translation in your browser](https://linguister.io/)
 
-- [Macros and optimizations: it's just a phase](https://marianoguerra.org/posts/macros-and-optimizations-its-just-a-phase/)
+- [Hacking Amazon's eero 6 (part 2)](https://markuta.com/eero-6-hacking-part-2/)
 
-- [Chat Control and the New Panopticon](https://mhatta.substack.com/p/chat-control-and-the-new-panopticon)
+- [From ZeroVer to SemVer: A Comprehensive List of Versioning Schemes in Open Source](https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html)
 
-- [\Device\Afd, or, the Deal with the Devil that makes async Rust work on Windows](https://notgull.net/device-afd/)
+- [Better Know A Ruby Thing: On The Use of Private Methods](https://noelrappin.com/blog/2024/06/better-know-access-control-part-2/)
 
-- [No sleep until we build the ideal pub/sub library in Go](https://rauljordan.com/no-sleep-until-we-build-the-perfect-library-in-go/)
+- [My First Kubernetes: k3s 'cluster' on 3 Orange Pi Zero 3's, including the dashboard, hello-node and failover](https://raymii.org/s/tutorials/My_First_Kubernetes_k3s_cluster_on_3_Orange_Pi_Zero_3s_including_k8s_dashboard_hello-node_and_failover.html)
 
-- [Announcing the Ronin 2.1.0 Open Beta](https://ronin-rb.dev/blog/2024/06/24/announcing-the-ronin-2-1-0-open-beta.html)
+- [Netboot (PXE) Armbian on an Orange Pi Zero 3 from SPI with NFS root filesystem](https://raymii.org/s/tutorials/Netboot_PXE_Armbian_on_an_Orange_Pi_Zero_3_from_SPI_with_NFS_root_filesystem.html)
 
-- [Network protocols, sans I/O (2016)](https://sans-io.readthedocs.io/)
+- [Sustaining Digital Certificate Security - Entrust Certificate Distrust](https://security.googleblog.com/2024/06/sustaining-digital-certificate-security.html)
 
-- [Local, first, forever - CRDT filesync](https://tonsky.me/blog/crdt-filesync/)
+- [Modern cryptography on the NES](https://sgadrat.itch.io/super-tilt-bro/devlog/729390/modern-cryptography-on-the-nes)
 
-- [Why Passkey Implementation is 100x Harder Than You Think – Misconceptions, Pitfalls and Unknown Unknowns](https://www.corbado.com/blog/passkey-implementation-pitfalls-misconceptions-unknowns)
+- [Why Google Sheets ported its calculation worker from JavaScript to WasmGC](https://web.dev/case-studies/google-sheets-wasmgc)
 
-- [From 0/10 to 8/10: Microsoft Puts Repair Front and Center | iFixit News](https://www.ifixit.com/News/96998/from-0-10-to-8-10-microsoft-puts-repair-front-and-center)
+- [XAES-256-GCM](https://words.filippo.io/dispatches/xaes-256-gcm/)
 
-- [MIME, RSS, and existential torment](https://xeiaso.net/blog/2024/fixing-rss-mailcap/)
+- [Make a Prediction](https://www.jakeworth.com/posts/make-a-prediction/)
+
+- [The Smarter Way to Rust](https://www.kdab.com/the-smarter-way-to-rust/)
+
+- [Comments on Scripting, CGI, and FastCGI](https://www.oilshell.org/blog/2024/06/cgi.html)
+
+- [Relational algebra primer](https://www.relational-algebra.dev/ra-primer/introduction/)
