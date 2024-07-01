@@ -1,49 +1,49 @@
-- [long term curl versions](https://daniel.haxx.se/blog/2024/06/27/long-term-curl-versions/)
+- [ed(1) semantics](http://blog.syncpup.com/posts/ed-semantics.html)
 
-- [Fighting Faults in Distributed Systems](https://decomposition.al/CSE138-2024-01/zines/zine-ali.pdf)
+- [More MS OS/2 2.0](http://www.os2museum.com/wp/more-ms-os-2-2-0/)
 
-- [Adding parallel evaluation to Nix](https://determinate.systems/posts/parallel-nix-eval)
+- [Inside a 1 dollar radar motion sensor](https://10maurycy10.github.io/projects/motion_sensor_hacking/)
 
-- [How file systems can change in Sequoia with FSKit](https://eclecticlight.co/2024/06/26/how-file-systems-can-change-in-sequoia-with-fskit/)
+- [The Life of Lil](https://beyondloom.com/blog/life.html)
 
-- [You probably wrote half a monad by accident](https://gieseanw.wordpress.com/2024/06/25/you-probably-wrote-half-a-monad-by-accident/)
+- [Four lines of code … it was four lines of code](https://boston.conman.org/2024/06/30.1)
 
-- [scala-3-is-yaml.scala](https://gist.github.com/igstan/92fc3b12156f7f9e2df617a647deb701)
+- [How to Get Root Access to Your Sleep Number Bed](https://dillan.org/articles/how-to-get-root-access-to-your-sleep-number-bed)
 
-- [k23: Experimental WASM Microkernel Operating System](https://github.com/JonasKruckenberg/k23)
+- [EmacsConf 2024 Call for Participation](https://emacsconf.org/2024/cfp/)
 
-- [Conway's game of life, in checkboxes for some reason](https://huth.me/checkbox-life/)
+- [SmoothMQ: A drop-in replacement for SQS designed for great developer experience and efficiency](https://github.com/poundifdef/SmoothMQ)
 
-- [CVE-2024-5535: `SSL_select_next_proto` buffer overread](https://jbp.io/2024/06/27/cve-2024-5535-openssl-memory-safety.html)
+- [proxy-proxy-proxyer: Getting around restrictive proxies by going directly through them](https://github.com/virchau13/proxy-proxy-proxyer/)
 
-- [Python still surprises](https://kivikakk.ee/2024/06/27/python-still-surprises/)
+- [ImHex: display, decode and analyze binary data to reverse engineer their format, extract informations or patch values](https://imhex.werwolv.net/)
 
-- [How much memory does a call to ‘malloc’  allocates?](https://lemire.me/blog/2024/06/27/how-much-memory-does-a-call-to-malloc-allocates/)
+- [jank gets multimethods](https://jank-lang.org/blog/2024-06-29-multimethods/)
 
-- [Linguist Translate, a privacy focused offline translation in your browser](https://linguister.io/)
+- [Weekend projects: getting silly with C](https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with)
 
-- [Hacking Amazon's eero 6 (part 2)](https://markuta.com/eero-6-hacking-part-2/)
+- [ChatGPT is bullshit](https://link.springer.com/article/10.1007/s10676-024-09775-5)
 
-- [From ZeroVer to SemVer: A Comprehensive List of Versioning Schemes in Open Source](https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html)
+- [The State of Email By:  Michael Lucas](https://m.youtube.com/watch?v=HT3N8YWaGsg)
 
-- [Better Know A Ruby Thing: On The Use of Private Methods](https://noelrappin.com/blog/2024/06/better-know-access-control-part-2/)
+- [f-tests as a replacement for table-driven tests in Go](https://medium.com/@valyala/f-tests-as-a-replacement-for-table-driven-tests-in-go-8814a8b19e9e)
 
-- [My First Kubernetes: k3s 'cluster' on 3 Orange Pi Zero 3's, including the dashboard, hello-node and failover](https://raymii.org/s/tutorials/My_First_Kubernetes_k3s_cluster_on_3_Orange_Pi_Zero_3s_including_k8s_dashboard_hello-node_and_failover.html)
+- [Eight versions of UUID and when to use them](https://ntietz.com/blog/til-uses-for-the-different-uuid-versions)
 
-- [Netboot (PXE) Armbian on an Orange Pi Zero 3 from SPI with NFS root filesystem](https://raymii.org/s/tutorials/Netboot_PXE_Armbian_on_an_Orange_Pi_Zero_3_from_SPI_with_NFS_root_filesystem.html)
+- [Two tiny 65816 DTV consoles](https://oldvcr.blogspot.com/2024/06/two-tiny-65816-dtv-consoles.html)
 
-- [Sustaining Digital Certificate Security - Entrust Certificate Distrust](https://security.googleblog.com/2024/06/sustaining-digital-certificate-security.html)
+- [An unexpected journey into Microsoft Defender's signature World](https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world)
 
-- [Modern cryptography on the NES](https://sgadrat.itch.io/super-tilt-bro/devlog/729390/modern-cryptography-on-the-nes)
+- [An Experienced (Neo)Vimmer's Workflow](https://seniormars.com/posts/neovim-workflow/)
 
-- [Why Google Sheets ported its calculation worker from JavaScript to WasmGC](https://web.dev/case-studies/google-sheets-wasmgc)
+- [Below MI - IBM i for Hackers](https://silentsignal.github.io/BelowMI/)
 
-- [XAES-256-GCM](https://words.filippo.io/dispatches/xaes-256-gcm/)
+- [Understanding React Compiler](https://tonyalicea.dev/blog/understanding-react-compiler/)
 
-- [Make a Prediction](https://www.jakeworth.com/posts/make-a-prediction/)
+- [The largest number representable in 64 bits](https://tromp.github.io/blog/2023/11/24/largest-number)
 
-- [The Smarter Way to Rust](https://www.kdab.com/the-smarter-way-to-rust/)
+- [Plaintext is not a great format for (system) logs](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PlaintextNotGreatLogFormat)
 
-- [Comments on Scripting, CGI, and FastCGI](https://www.oilshell.org/blog/2024/06/cgi.html)
+- [Playing 1080p H.264 video on my old 256 MB Raspberry Pi](https://www.downtowndougbrown.com/2024/06/playing-1080p-h-264-video-on-my-old-256-mb-raspberry-pi/)
 
-- [Relational algebra primer](https://www.relational-algebra.dev/ra-primer/introduction/)
+- [If Feynman Was Teaching Today… A Simplified Python Simulation of Diffusion (Part 1)](https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle)
