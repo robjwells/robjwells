@@ -1,49 +1,47 @@
-- [ed(1) semantics](http://blog.syncpup.com/posts/ed-semantics.html)
+- [Exorcising us of the Primer](https://andymatuschak.org/primer/)
 
-- [More MS OS/2 2.0](http://www.os2museum.com/wp/more-ms-os-2-2-0/)
+- [Making a Linux-managed network switch](https://blog.brixit.nl/making-a-linux-managed-network-switch/)
 
-- [Inside a 1 dollar radar motion sensor](https://10maurycy10.github.io/projects/motion_sensor_hacking/)
+- [Against Innovation Tokens](https://blog.glyph.im/2024/07/against-innovation-tokens.html)
 
-- [The Life of Lil](https://beyondloom.com/blog/life.html)
+- [How WebRTC speaker selection works](https://blog.mozilla.org/webrtc/how-webrtc-speaker-selection-works/)
 
-- [Four lines of code … it was four lines of code](https://boston.conman.org/2024/06/30.1)
+- [Type-level Arithmetic in TypeScript: Part 1 - Type Safe Time Intervals](https://brieuckaisin.hashnode.dev/type-level-arithmetic-in-typescript-part-1-type-safe-time-intervals)
 
-- [How to Get Root Access to Your Sleep Number Bed](https://dillan.org/articles/how-to-get-root-access-to-your-sleep-number-bed)
+- [Simplifying a key-value service using CHERIoT](https://cheriot.org/development/rtos/2024/07/03/simplifying-services.html)
 
-- [EmacsConf 2024 Call for Participation](https://emacsconf.org/2024/cfp/)
+- [Invulnerable Software (2008)](https://cr.yp.to/talks/2008.04.23/slides.pdf)
 
-- [SmoothMQ: A drop-in replacement for SQS designed for great developer experience and efficiency](https://github.com/poundifdef/SmoothMQ)
+- [Announcing TypeScript 5.5](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/)
 
-- [proxy-proxy-proxyer: Getting around restrictive proxies by going directly through them](https://github.com/virchau13/proxy-proxy-proxyer/)
+- [We have proved "BB(5) = 47,176,870"](https://discuss.bbchallenge.org/t/july-2nd-2024-we-have-proved-bb-5-47-176-870/237)
 
-- [ImHex: display, decode and analyze binary data to reverse engineer their format, extract informations or patch values](https://imhex.werwolv.net/)
+- [Systems Distributed '24](https://guergabo.substack.com/p/systems-distributed-24)
 
-- [jank gets multimethods](https://jank-lang.org/blog/2024-06-29-multimethods/)
+- [Trip report: Summer ISO C++ standards meeting (St Louis, MO, USA)](https://herbsutter.com/2024/07/02/trip-report-summer-iso-c-standards-meeting-st-louis-mo-usa/)
 
-- [Weekend projects: getting silly with C](https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with)
+- [Reasons to use your shell's job control](https://jvns.ca/blog/2024/07/03/reasons-to-use-job-control/)
 
-- [ChatGPT is bullshit](https://link.springer.com/article/10.1007/s10676-024-09775-5)
+- [Ready Player Mode](https://lmno.lol/alvaro/ready-player-mode)
 
-- [The State of Email By:  Michael Lucas](https://m.youtube.com/watch?v=HT3N8YWaGsg)
+- [Ryzen 7 Mini-PC makes a power-efficient VM host](https://michael.stapelberg.ch/posts/2024-07-02-ryzen-7-mini-pc-low-power-proxmox-hypervisor/)
 
-- [f-tests as a replacement for table-driven tests in Go](https://medium.com/@valyala/f-tests-as-a-replacement-for-table-driven-tests-in-go-8814a8b19e9e)
+- [Rustlings Rewrite](https://mo8it.com/blog/rustlings-rewrite/)
 
-- [Eight versions of UUID and when to use them](https://ntietz.com/blog/til-uses-for-the-different-uuid-versions)
+- [About the time my ThinkPad T430 ran with an external GPU](https://ounapuu.ee/posts/2024/07/03/thinkpad-t430-egpu/)
 
-- [Two tiny 65816 DTV consoles](https://oldvcr.blogspot.com/2024/06/two-tiny-65816-dtv-consoles.html)
+- [Network Manager and Rust's zbus](https://rbs.io/2024/07/network-manager-and-rusts-zbus/)
 
-- [An unexpected journey into Microsoft Defender's signature World](https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world)
+- [The sad state of property-based testing libraries](https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html)
 
-- [An Experienced (Neo)Vimmer's Workflow](https://seniormars.com/posts/neovim-workflow/)
+- [I received an AI email](https://timharek.no/blog/i-received-an-ai-email)
 
-- [Below MI - IBM i for Hackers](https://silentsignal.github.io/BelowMI/)
+- [On the origins of DS_store (2006)](https://www.arno.org/on-the-origins-of-ds-store)
 
-- [Understanding React Compiler](https://tonyalicea.dev/blog/understanding-react-compiler/)
+- [Quality and productivity are not necessarily mutually exclusive](https://www.haskellforall.com/2024/07/quality-and-productivity-are-not.html)
 
-- [The largest number representable in 64 bits](https://tromp.github.io/blog/2023/11/24/largest-number)
+- [Sidekiq 7.3.0: Job Iteration](https://www.mikeperham.com/2024/07/03/iteration-and-sidekiq-7.3.0/)
 
-- [Plaintext is not a great format for (system) logs](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PlaintextNotGreatLogFormat)
+- [QR Cube -- projections of this cube give 6 QR codes with different messages](https://www.youtube.com/watch?v=OXfD0tRtAzo)
 
-- [Playing 1080p H.264 video on my old 256 MB Raspberry Pi](https://www.downtowndougbrown.com/2024/06/playing-1080p-h-264-video-on-my-old-256-mb-raspberry-pi/)
-
-- [If Feynman Was Teaching Today… A Simplified Python Simulation of Diffusion (Part 1)](https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle)
+- [What’s in my Location History?](https://zdimension.fr/whats-in-my-location-history/)
