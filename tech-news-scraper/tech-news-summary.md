@@ -1,47 +1,45 @@
-- [Exorcising us of the Primer](https://andymatuschak.org/primer/)
+- [How Optimizely (Almost) Got Me Fired](https://analythical.com/blog/optimizely-got-me-fired)
 
-- [Making a Linux-managed network switch](https://blog.brixit.nl/making-a-linux-managed-network-switch/)
+- [Resetting timers in Go](https://antonz.org/timer-reset/)
 
-- [Against Innovation Tokens](https://blog.glyph.im/2024/07/against-innovation-tokens.html)
+- [Synchronous Core, Asynchronous Shell](https://blog.sulami.xyz/posts/sync-core-async-shell/)
 
-- [How WebRTC speaker selection works](https://blog.mozilla.org/webrtc/how-webrtc-speaker-selection-works/)
+- [ImHex: A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM](https://github.com/WerWolv/ImHex)
 
-- [Type-level Arithmetic in TypeScript: Part 1 - Type Safe Time Intervals](https://brieuckaisin.hashnode.dev/type-level-arithmetic-in-typescript-part-1-type-safe-time-intervals)
+- [Common Expression Language interpreter written in Rust](https://github.com/clarkmcc/cel-rust)
 
-- [Simplifying a key-value service using CHERIoT](https://cheriot.org/development/rtos/2024/07/03/simplifying-services.html)
+- [From the Transistor to the Web Browser, a rough outline for a 12 week course](https://github.com/geohot/fromthetransistor)
 
-- [Invulnerable Software (2008)](https://cr.yp.to/talks/2008.04.23/slides.pdf)
+- [larena: Yet another simple header only arena allocator for C](https://github.com/linkdd/larena)
 
-- [Announcing TypeScript 5.5](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/)
+- [jqjq: jq implementation of jq](https://github.com/wader/jqjq)
 
-- [We have proved "BB(5) = 47,176,870"](https://discuss.bbchallenge.org/t/july-2nd-2024-we-have-proved-bb-5-47-176-870/237)
+- [How HLS Works](https://jazco.dev/2024/07/05/hls/)
 
-- [Systems Distributed '24](https://guergabo.substack.com/p/systems-distributed-24)
+- [Properly Testing Concurrent Data Structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
 
-- [Trip report: Summer ISO C++ standards meeting (St Louis, MO, USA)](https://herbsutter.com/2024/07/02/trip-report-summer-iso-c-standards-meeting-st-louis-mo-usa/)
+- [Creating a Simple Pastebin Service in Python and Flask](https://muhammadraza.me/2024/Simple-Pastebin-In-Python/)
 
-- [Reasons to use your shell's job control](https://jvns.ca/blog/2024/07/03/reasons-to-use-job-control/)
+- [Post-Open: What Comes After Open Source](https://postopen.org/)
 
-- [Ready Player Mode](https://lmno.lol/alvaro/ready-player-mode)
+- [Files As Metadata Format](https://prma.dev/posts/files-as-metadata-format)
 
-- [Ryzen 7 Mini-PC makes a power-efficient VM host](https://michael.stapelberg.ch/posts/2024-07-02-ryzen-7-mini-pc-low-power-proxmox-hypervisor/)
+- ["Technical" skills](https://sashalaundy.com/writing/technical-skills/)
 
-- [Rustlings Rewrite](https://mo8it.com/blog/rustlings-rewrite/)
+- [Path traversal in youtube-dl leading to RCE - CVE-2024-38519](https://securitylab.github.com/advisories/GHSL-2024-089_youtube-dl/)
 
-- [About the time my ThinkPad T430 ran with an external GPU](https://ounapuu.ee/posts/2024/07/03/thinkpad-t430-egpu/)
+- [Nostr and ATProto](https://shreyanjain.net/2024/07/05/nostr-and-atproto.html)
 
-- [Network Manager and Rust's zbus](https://rbs.io/2024/07/network-manager-and-rusts-zbus/)
+- [Generative art in websim](https://sites.google.com/view/generativeartinwebsim/)
 
-- [The sad state of property-based testing libraries](https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html)
+- [Dirty writes](https://surfingcomplexity.blog/2024/07/05/dirty-writes/)
 
-- [I received an AI email](https://timharek.no/blog/i-received-an-ai-email)
+- [VR optics and why IPD means too many things (2019)](https://tomforsyth1000.github.io/blog.wiki.html#%5B%5BVR%20optics%20and%20why%20IPD%20means%20too%20many%20things%5D%5D)
 
-- [On the origins of DS_store (2006)](https://www.arno.org/on-the-origins-of-ds-store)
+- [Practical Nix flake anatomy: a guided tour of flake.nix](https://vtimofeenko.com/posts/practical-nix-flake-anatomy-a-guided-tour-of-flake.nix/)
 
-- [Quality and productivity are not necessarily mutually exclusive](https://www.haskellforall.com/2024/07/quality-and-productivity-are-not.html)
+- [Synchronization is bad for scale](https://wippler.dev/posts/synchronization-is-bad-for-scale)
 
-- [Sidekiq 7.3.0: Job Iteration](https://www.mikeperham.com/2024/07/03/iteration-and-sidekiq-7.3.0/)
+- [The Software Crisis](https://wryl.tech/log/2024/the-software-crisis.html)
 
-- [QR Cube -- projections of this cube give 6 QR codes with different messages](https://www.youtube.com/watch?v=OXfD0tRtAzo)
-
-- [What’s in my Location History?](https://zdimension.fr/whats-in-my-location-history/)
+- [sans-IO: The secret to effective Rust for network services](https://www.firezone.dev/blog/sans-io)
