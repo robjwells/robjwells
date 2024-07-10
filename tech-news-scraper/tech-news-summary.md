@@ -1,45 +1,47 @@
-- [How Optimizely (Almost) Got Me Fired](https://analythical.com/blog/optimizely-got-me-fired)
+- [The Twelve-Factor App (2011)](https://12factor.net/)
 
-- [Resetting timers in Go](https://antonz.org/timer-reset/)
+- [Provably Correct, Secure, and Leakage-Free Systems](https://anish.io/thesis-defense/)
 
-- [Synchronous Core, Asynchronous Shell](https://blog.sulami.xyz/posts/sync-core-async-shell/)
+- [Optimizing a bignum library for fun](https://austinhenley.com/blog/bignum2.html)
 
-- [ImHex: A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM](https://github.com/WerWolv/ImHex)
+- [State of Text Rendering 2024](https://behdad.org/text2024/)
 
-- [Common Expression Language interpreter written in Rust](https://github.com/clarkmcc/cel-rust)
+- [Bufstream: Kafka at 10x lower cost](https://buf.build/blog/bufstream-kafka-lower-cost)
 
-- [From the Transistor to the Web Browser, a rough outline for a 12 week course](https://github.com/geohot/fromthetransistor)
+- [Binary Search Tree with SIMD](https://clement-jean.github.io/simd_binary_search_tree)
 
-- [larena: Yet another simple header only arena allocator for C](https://github.com/linkdd/larena)
+- [Reverse Engineering TicketMaster's Rotating Barcodes (SafeTix)](https://conduition.io/coding/ticketmaster/)
 
-- [jqjq: jq implementation of jq](https://github.com/wader/jqjq)
+- [Using use in Gleam](https://erikarow.land/notes/using-use-gleam)
 
-- [How HLS Works](https://jazco.dev/2024/07/05/hls/)
+- [sljit: Platform independent low-level JIT compiler](https://github.com/zherczeg/sljit)
 
-- [Properly Testing Concurrent Data Structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
+- [Auto-imports and tolerant expressions – Gleam v1.3.0](https://gleam.run/news/auto-imports-and-tolerant-expressions/)
 
-- [Creating a Simple Pastebin Service in Python and Flask](https://muhammadraza.me/2024/Simple-Pastebin-In-Python/)
+- [One File Linux: a ~20MB Alpine meta-distro that fits entirely into the ESP](https://hub.zhovner.com/geek/one-file-linux/)
 
-- [Post-Open: What Comes After Open Source](https://postopen.org/)
+- [A Look Back At Stripware](https://ironicsans.beehiiv.com/p/look-back-stripware)
 
-- [Files As Metadata Format](https://prma.dev/posts/files-as-metadata-format)
+- [Entering text in the terminal is complicated](https://jvns.ca/blog/2024/07/08/readline/)
 
-- ["Technical" skills](https://sashalaundy.com/writing/technical-skills/)
+- [gRPC Over HTTP/3](https://kmcd.dev/posts/grpc-over-http3/)
 
-- [Path traversal in youtube-dl leading to RCE - CVE-2024-38519](https://securitylab.github.com/advisories/GHSL-2024-089_youtube-dl/)
+- [Transparent APIs (2020)](https://kodare.net/2020/09/14/transparent_apis.html)
 
-- [Nostr and ATProto](https://shreyanjain.net/2024/07/05/nostr-and-atproto.html)
+- [Learn Flakes the Fun Way](https://lyte.dev/blog/learn-flakes-the-fun-way/)
 
-- [Generative art in websim](https://sites.google.com/view/generativeartinwebsim/)
+- [How I manage my KDE developer email](https://pointieststick.com/2024/07/09/how-i-manage-my-kde-email/)
 
-- [Dirty writes](https://surfingcomplexity.blog/2024/07/05/dirty-writes/)
+- [High Available k3s kubernetes cluster with keepalived, galera and longhorn](https://raymii.org/s/tutorials/High_Available_k3s_kubernetes_cluster_with_keepalived_galera_and_longhorn.html)
 
-- [VR optics and why IPD means too many things (2019)](https://tomforsyth1000.github.io/blog.wiki.html#%5B%5BVR%20optics%20and%20why%20IPD%20means%20too%20many%20things%5D%5D)
+- [PySkyWiFi: completely free, unbelievably stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/)
 
-- [Practical Nix flake anatomy: a guided tour of flake.nix](https://vtimofeenko.com/posts/practical-nix-flake-anatomy-a-guided-tour-of-flake.nix/)
+- [dynamic translation of Smalltalk to WebAssembly](https://thiscontext.com/2023/07/26/dynamic-translation-of-smalltalk-to-webassembly/)
 
-- [Synchronization is bad for scale](https://wippler.dev/posts/synchronization-is-bad-for-scale)
+- [BLAST RADIUS: MD5 chosen-prefix attack against network authentication protocol](https://www.blastradius.fail/)
 
-- [The Software Crisis](https://wryl.tech/log/2024/the-software-crisis.html)
+- [Consfigurator 1.4.1 released, including new support for FreeBSD](https://www.chiark.greenend.org.uk/pipermail/sgo-software-announce/2024/000089.html)
 
-- [sans-IO: The secret to effective Rust for network services](https://www.firezone.dev/blog/sans-io)
+- [I fixed a 6-year-old .deb installation bug in Ubuntu MATE and Xubuntu](https://www.downtowndougbrown.com/2024/07/i-fixed-a-6-year-old-deb-installation-bug-in-ubuntu-mate-and-xubuntu/)
+
+- [A look into Xenix, Microsoft's long forgotten Unix Operating System](https://www.youtube.com/watch?v=JlhDi2gGmhE)
