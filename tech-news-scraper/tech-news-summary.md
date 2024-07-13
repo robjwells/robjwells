@@ -1,47 +1,45 @@
-- [The Twelve-Factor App (2011)](https://12factor.net/)
+- ["GitHub" Is Starting to Feel Like Legacy Software](http://mistys-internet.website/blog/blog/2024/07/12/github-is-starting-to-feel-like-legacy-software)
 
-- [Provably Correct, Secure, and Leakage-Free Systems](https://anish.io/thesis-defense/)
+- [At the Mountains of Madness](https://antithesis.com/blog/madness/)
 
-- [Optimizing a bignum library for fun](https://austinhenley.com/blog/bignum2.html)
+- [“Extracting wisdom” from conference videos](https://blog.ovalerio.net/archives/2900)
 
-- [State of Text Rendering 2024](https://behdad.org/text2024/)
+- [Welcome to Thunderbird 128 "Nebula"](https://blog.thunderbird.net/2024/07/welcome-to-thunderbird-128-nebula/)
 
-- [Bufstream: Kafka at 10x lower cost](https://buf.build/blog/bufstream-kafka-lower-cost)
+- [maciNTosh: PowerPC Windows NT ported to Power Macintosh systems](https://github.com/Wack0/maciNTosh)
 
-- [Binary Search Tree with SIMD](https://clement-jean.github.io/simd_binary_search_tree)
+- [5 shortcomings of Helm](https://glasskube.dev/blog/5-helm-shortcomings/)
 
-- [Reverse Engineering TicketMaster's Rotating Barcodes (SafeTix)](https://conduition.io/coding/ticketmaster/)
+- [Where is the sandbox in your code base?](https://interjectedfuture.com/where-is-the-sandbox-in-your-code-base/)
 
-- [Using use in Gleam](https://erikarow.land/notes/using-use-gleam)
+- [Free-threaded CPython is ready to experiment with](https://labs.quansight.org/blog/free-threaded-python-rollout)
 
-- [sljit: Platform independent low-level JIT compiler](https://github.com/zherczeg/sljit)
+- [PostmarketOS: Linux for phones and more](https://lwn.net/Articles/979522/)
 
-- [Auto-imports and tolerant expressions – Gleam v1.3.0](https://gleam.run/news/auto-imports-and-tolerant-expressions/)
+- [Wireless Amiga Tank Mouse](https://lyonsden.net/wireless-tank-mouse/)
 
-- [One File Linux: a ~20MB Alpine meta-distro that fits entirely into the ESP](https://hub.zhovner.com/geek/one-file-linux/)
+- [MiniScript programming language](https://miniscript.org)
 
-- [A Look Back At Stripware](https://ironicsans.beehiiv.com/p/look-back-stripware)
+- [GUIs are Antisocial](https://mtlynch.io/notes/guis-are-antisocial/)
 
-- [Entering text in the terminal is complicated](https://jvns.ca/blog/2024/07/08/readline/)
+- [Using S3 as a container registry](https://ochagavia.nl/blog/using-s3-as-a-container-registry/)
 
-- [gRPC Over HTTP/3](https://kmcd.dev/posts/grpc-over-http3/)
+- [LLM vendors are incredibly bad at responding to security issues](https://pivot-to-ai.com/2024/07/12/llm-vendors-are-incredibly-bad-at-responding-to-security-issues/)
 
-- [Transparent APIs (2020)](https://kodare.net/2020/09/14/transparent_apis.html)
+- [Discord vs IRC Rough Notes](https://push.cx/discord-vs-irc-notes)
 
-- [Learn Flakes the Fun Way](https://lyte.dev/blog/learn-flakes-the-fun-way/)
+- [Chrome/Chromium gives extra privileges to *.google.com domains](https://simonwillison.net/2024/Jul/9/hangout_servicesthunkjs/)
 
-- [How I manage my KDE developer email](https://pointieststick.com/2024/07/09/how-i-manage-my-kde-email/)
+- [Announcing Incus 6.3 (LXD)](https://stgraber.org/2024/07/12/announcing-incus-6-3/)
 
-- [High Available k3s kubernetes cluster with keepalived, galera and longhorn](https://raymii.org/s/tutorials/High_Available_k3s_kubernetes_cluster_with_keepalived_galera_and_longhorn.html)
+- [You can deeplink to a specific PDF page](https://technicalwriting.dev/www/pdf.html)
 
-- [PySkyWiFi: completely free, unbelievably stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/)
+- [Toit programming language](https://toitlang.org/)
 
-- [dynamic translation of Smalltalk to WebAssembly](https://thiscontext.com/2023/07/26/dynamic-translation-of-smalltalk-to-webassembly/)
+- [Just Use Postgres for Everything](https://www.amazingcto.com/postgres-for-everything/)
 
-- [BLAST RADIUS: MD5 chosen-prefix attack against network authentication protocol](https://www.blastradius.fail/)
+- [Beating the compiler](https://www.mattkeeter.com/blog/2024-07-12-interpreter/)
 
-- [Consfigurator 1.4.1 released, including new support for FreeBSD](https://www.chiark.greenend.org.uk/pipermail/sgo-software-announce/2024/000089.html)
+- [The Forth Methodology of Charles Moore](https://www.ultratechnology.com/method.htm)
 
-- [I fixed a 6-year-old .deb installation bug in Ubuntu MATE and Xubuntu](https://www.downtowndougbrown.com/2024/07/i-fixed-a-6-year-old-deb-installation-bug-in-ubuntu-mate-and-xubuntu/)
-
-- [A look into Xenix, Microsoft's long forgotten Unix Operating System](https://www.youtube.com/watch?v=JlhDi2gGmhE)
+- [The economics of a Postgres free tier](https://xata.io/blog/postgres-free-tier)
