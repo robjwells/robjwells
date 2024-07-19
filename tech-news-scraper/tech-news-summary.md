@@ -1,47 +1,49 @@
-- [Beyond bufferbloat: End-to-end congestion control cannot avoid latency spikes](https://blog.apnic.net/2022/01/26/beyond-bufferbloat-end-to-end-congestion-control-cannot-avoid-latency-spikes/)
+- [ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.archive.ubuntu.com/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu](http://ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.archive.ubuntu.com/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/)
 
-- [Create Unified Kernel Image from scratch](https://blog.izissise.net/posts/uki/)
+- [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/README.html)
 
-- [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/)
+- [Gotchas with SQLite in Production](https://blog.pecar.me/sqlite-prod)
 
-- [Pull requests via git push](https://blog.sesse.net/blog/tech/2024-07-15-13-04_pull_requests_via_git_push.html)
+- [First impressions of Go 1.23's range-over-func feature](https://boldlygo.tech/posts/2024-07-18-range-over-func/)
 
-- [Lessons learned in 35 years of making software](https://dev.jimgrey.net/2024/07/03/lessons-learned-in-35-years-of-making-software/)
+- [NVIDIA Transitions Fully Towards Open-Source GPU Kernel Modules](https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/)
 
-- [tbsp - tree-based source-processing language](https://git.peppe.rs/languages/tbsp/about/)
+- [Google URL Shortener (goo.gl) links will no longer be available](https://developers.googleblog.com/en/google-url-shortener-links-will-no-longer-be-available/)
 
-- [Fusion OS - a hobby kernel implemented in Nim](https://github.com/khaledh/fusion)
+- [Semaphores in Golang and GNU make](https://dotat.at/@/2024-07-18-semaphores.html)
 
-- [mazeppa: A modern supercompiler for call-by-value functional languages](https://github.com/mazeppa-dev/mazeppa)
+- [Building the new Hypermedia Systems](https://dz4k.com/2024/new-hypermedia-systems/)
 
-- [Kubernetes instance calculator](https://learnk8s.io/kubernetes-instance-calculator)
+- [The Law of Large Numbers or Why It Is a Bad Idea to Go to the Casino](https://easylang.online/apps/tut_mcarlo.html?2407)
 
-- [Rust for filesystems](https://lwn.net/Articles/978738/)
+- [The Pitfalls of In-App Browsers](https://frontendmasters.com/blog/the-pitfalls-of-in-app-browsers/)
 
-- [System Design Sketches](https://okso.app/showcase/system-design)
+- [A proposal for destructive move through function arguments in C++ and C](https://github.com/anordal/rustlike/blob/master/proposals/destructive%20move.md)
 
-- [How insecure is Avast Secure Browser?](https://palant.info/2024/07/15/how-insecure-is-avast-secure-browser/)
+- [Helix 24.07](https://github.com/helix-editor/helix/blob/master/CHANGELOG.md#2407-2024-07-14)
 
-- [A new git collaboration service](https://pr.pico.sh/)
+- [Tests you love to read, write and change](https://jaywhy13.hashnode.dev/tests-you-love-to-read-write-and-change)
 
-- [Resource management and generators in Python](https://samgeo.codes/python-generator-cleanup/)
+- [Writing an MP4 Muxer for Fun and Profit](https://obsproject.com/blog/obs-studio-hybrid-mp4)
 
-- [SCALE GPGPU Programming Language](https://scale-lang.com/)
+- [GPT-4o mini](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
 
-- [Clojure macros continue to surprise me](https://tonsky.me/blog/clojure-macros/)
+- [The European Union must keep funding free software - HedgeDoc](https://pad.public.cat/lettre-NCP-NGI)
 
-- [I built my structural editor into a code notebook](https://vimeo.com/984437518?share=copy)
+- [Pixi - reproducible, scientific software workflows](https://prefix.dev/blog/pixi_for_scientists)
 
-- [The missing parts in Cargo](https://weihanglo.tw/posts/2024/the-missing-parts-in-cargo/)
+- [SQLite Transactions](https://reorchestrate.com/posts/sqlite-transactions/)
 
-- [Jailbreaking RabbitOS (The Hard Way)](https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html)
+- [Hash-Based Bisect Debugging in Compilers and Runtimes](https://research.swtch.com/bisect)
 
-- [Toolbox languages](https://www.hillelwayne.com/post/toolbox-languages/)
+- [commit messages are optional](https://schpet.com/note/git-commit-messages-are-optional)
 
-- [Building and scaling Notion’s data lake](https://www.notion.so/blog/building-and-scaling-notions-data-lake)
+- [NSCopyObject, the griefer that keeps on griefing](https://wadetregaskis.com/nscopyobject-the-griefer-that-keeps-on-griefing/)
 
-- [Announcing the Open Collaboration Tools](https://www.typefox.io/blog/open-collaboration-tools-announcement/)
+- [C++ Must Become Safer](https://www.alilleybrinker.com/blog/cpp-must-become-safer/)
 
-- [A Developer's Review of a Snapdragon X Laptop (Lenovo Yoga Slim 7x)](https://www.wezm.net/v2/posts/2024/yoga-7x-snapdragon-developer-review/)
+- [89 things I know about Git commits](https://www.jvt.me/posts/2024/07/12/things-know-commits/)
 
-- [Why Cloud-Native Buildpacks Should Excite Companies](https://yonkeltron.com/posts/why-cloud-native-buildpacks-should-excite-companies/)
+- [Google Now Defaults to Not Indexing Your Content](https://www.vincentschmalbach.com/google-now-defaults-to-not-indexing-your-content/)
+
+- [Postgres major version upgrades with minimal downtime](https://xata.io/blog/postgres-major-version-upgrades)
