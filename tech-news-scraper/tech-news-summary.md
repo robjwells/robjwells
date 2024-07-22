@@ -1,49 +1,49 @@
-- [ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.archive.ubuntu.com/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu](http://ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.archive.ubuntu.com/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/)
+- [Go 1.23: Interactive release notes](https://antonz.org/go-1-23/)
 
-- [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/README.html)
+- [Build your own Interpreter by CodeCrafters](https://app.codecrafters.io/courses/interpreter/overview)
 
-- [Gotchas with SQLite in Production](https://blog.pecar.me/sqlite-prod)
+- [Where is the programmer inspo?](https://avdi.codes/where-is-the-programmer-inspo/)
 
-- [First impressions of Go 1.23's range-over-func feature](https://boldlygo.tech/posts/2024-07-18-range-over-func/)
+- [Extracting ELF executables from binary blobs](https://blog.nietaanraken.nl/posts/elf-file-size/)
 
-- [NVIDIA Transitions Fully Towards Open-Source GPU Kernel Modules](https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/)
+- [Nested Dynamic Modules in NestJS](https://dev.clintonblackburn.com/2024/07/21/nested-dynamic-modules-in-nestjs)
 
-- [Google URL Shortener (goo.gl) links will no longer be available](https://developers.googleblog.com/en/google-url-shortener-links-will-no-longer-be-available/)
+- [How not to use box shadows](https://dgerrells.com/blog/how-not-to-use-box-shadows)
 
-- [Semaphores in Golang and GNU make](https://dotat.at/@/2024-07-18-semaphores.html)
+- [Maintain a golden test of your package's API with `diff-package-api` and `print-api`](https://discourse.haskell.org/t/maintain-a-golden-test-of-your-packages-api-with-diff-package-api-and-print-api/9997)
 
-- [Building the new Hypermedia Systems](https://dz4k.com/2024/new-hypermedia-systems/)
+- [UI for sums must remember products](https://eighty-twenty.org/2024/07/21/ui-for-sums-remembers-products)
 
-- [The Law of Large Numbers or Why It Is a Bad Idea to Go to the Casino](https://easylang.online/apps/tut_mcarlo.html?2407)
+- [jiff: A date-time library for Rust that encourages you to jump into the pit of success](https://github.com/BurntSushi/jiff)
 
-- [The Pitfalls of In-App Browsers](https://frontendmasters.com/blog/the-pitfalls-of-in-app-browsers/)
+- [zig-aio: io_uring like asynchronous API and coroutine powered IO tasks for zig](https://github.com/Cloudef/zig-aio)
 
-- [A proposal for destructive move through function arguments in C++ and C](https://github.com/anordal/rustlike/blob/master/proposals/destructive%20move.md)
+- [operator_precedence_parsing: C89 expressions parsed with the shunting yard algorithm in Python](https://github.com/bourguet/operator_precedence_parsing)
 
-- [Helix 24.07](https://github.com/helix-editor/helix/blob/master/CHANGELOG.md#2407-2024-07-14)
+- [Scan HTML even faster with SIMD instructions (C++ and C#)](https://lemire.me/blog/2024/07/20/scan-html-even-faster-with-simd-instructions-c-and-c/)
 
-- [Tests you love to read, write and change](https://jaywhy13.hashnode.dev/tests-you-love-to-read-write-and-change)
+- [Mapping symbols: rethinking for efficiency](https://maskray.me/blog/2024-07-21-mapping-symbols-rethinking-for-efficiency)
 
-- [Writing an MP4 Muxer for Fun and Profit](https://obsproject.com/blog/obs-studio-hybrid-mp4)
+- [Sentinel-free schemas: a thought experiment](https://minimalmodeling.substack.com/p/sentinel-free-schemas-a-thought-experiment)
 
-- [GPT-4o mini](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
+- [What TeX Gets Right](https://newton.cx/~peter/2024/what-tex-gets-right/)
 
-- [The European Union must keep funding free software - HedgeDoc](https://pad.public.cat/lettre-NCP-NGI)
+- [A brief history of Dell UNIX](https://notes.technologists.com/notes/2008/01/10/a-brief-history-of-dell-unix/)
 
-- [Pixi - reproducible, scientific software workflows](https://prefix.dev/blog/pixi_for_scientists)
+- [On Open Source and the Sustainability of the Commons](https://ploum.net/2024-07-01-opensource_sustainability.html)
 
-- [SQLite Transactions](https://reorchestrate.com/posts/sqlite-transactions/)
+- [Did you know about Instruments?](https://registerspill.thorstenball.com/p/did-you-know-about-instruments)
 
-- [Hash-Based Bisect Debugging in Compilers and Runtimes](https://research.swtch.com/bisect)
+- [Tricks In Arc Swap (2019)](https://vorner.github.io/2019/04/06/tricks-in-arc-swap.html)
 
-- [commit messages are optional](https://schpet.com/note/git-commit-messages-are-optional)
+- [An afternoon with KaiOS](https://washbear.neocities.org/kaios.html)
 
-- [NSCopyObject, the griefer that keeps on griefing](https://wadetregaskis.com/nscopyobject-the-griefer-that-keeps-on-griefing/)
+- [Pin](https://without.boats/blog/pin/)
 
-- [C++ Must Become Safer](https://www.alilleybrinker.com/blog/cpp-must-become-safer/)
+- [Give Me the Green Light Part 2: Dirty Little Secrets](https://www.redthreatsec.com/blog/give-me-the-green-light-part2-dirty-little-secrets)
 
-- [89 things I know about Git commits](https://www.jvt.me/posts/2024/07/12/things-know-commits/)
+- [Devilish fun with a modeless modal editing mode](https://www.rousette.org.uk/archives/devilish-fun-with-a-modeless-modal-editor/)
 
-- [Google Now Defaults to Not Indexing Your Content](https://www.vincentschmalbach.com/google-now-defaults-to-not-indexing-your-content/)
+- [Baby's second wasm compiler](https://www.scattered-thoughts.net/writing/babys-second-wasm-compiler)
 
-- [Postgres major version upgrades with minimal downtime](https://xata.io/blog/postgres-major-version-upgrades)
+- [Calling Go Functions from c++](https://xnacly.me/posts/2024/go-cpp-interop/)
