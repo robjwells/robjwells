@@ -1,49 +1,49 @@
-- [Go 1.23: Interactive release notes](https://antonz.org/go-1-23/)
+- [A Tricky Floating-Point Calculation](https://akr.am/blog/posts/a-tricky-floating-point-calculation)
 
-- [Build your own Interpreter by CodeCrafters](https://app.codecrafters.io/courses/interpreter/overview)
+- [Go features by version](https://antonz.org/which-go/)
 
-- [Where is the programmer inspo?](https://avdi.codes/where-is-the-programmer-inspo/)
+- [The joy, excitement, and surprise of computing - !!Con 2024](https://bangbangcon.com/index.html)
 
-- [Extracting ELF executables from binary blobs](https://blog.nietaanraken.nl/posts/elf-file-size/)
+- [Abstract interpretation in the Toy Optimizer](https://bernsteinbear.com/blog/toy-abstract-interpretation/)
 
-- [Nested Dynamic Modules in NestJS](https://dev.clintonblackburn.com/2024/07/21/nested-dynamic-modules-in-nestjs)
+- [Enhancing Your Elixir Codebase with Gleam](https://blog.appsignal.com/2024/07/23/enhancing-your-elixir-codebase-with-gleam.html)
 
-- [How not to use box shadows](https://dgerrells.com/blog/how-not-to-use-box-shadows)
+- [How a North Korean Fake IT Worker Tried to Infiltrate Us](https://blog.knowbe4.com/how-a-north-korean-fake-it-worker-tried-to-infiltrate-us)
 
-- [Maintain a golden test of your package's API with `diff-package-api` and `print-api`](https://discourse.haskell.org/t/maintain-a-golden-test-of-your-packages-api-with-diff-package-api-and-print-api/9997)
+- [Postgres sequences can commit out-of-order](https://blog.sequinstream.com/postgres-sequences-can-commit-out-of-order)
 
-- [UI for sums must remember products](https://eighty-twenty.org/2024/07/21/ui-for-sums-remembers-products)
+- [What’s so hard about constexpr allocation?](https://brevzin.github.io/c++/2024/07/24/constexpr-alloc/)
 
-- [jiff: A date-time library for Rust that encourages you to jump into the pit of success](https://github.com/BurntSushi/jiff)
+- [Leveraging types for better APIs](https://github.com/green7ea/blog/blob/master/interface-typing/README.md)
 
-- [zig-aio: io_uring like asynchronous API and coroutine powered IO tasks for zig](https://github.com/Cloudef/zig-aio)
+- [An Extensive Benchmark of C and C++ Hash Tables](https://jacksonallan.github.io/c_cpp_hash_tables_benchmark/)
 
-- [operator_precedence_parsing: C89 expressions parsed with the shunting yard algorithm in Python](https://github.com/bourguet/operator_precedence_parsing)
+- [The Development of Chez Scheme (2006)](https://legacy.cs.indiana.edu/~dyb/pubs/hocs-talk.pdf)
 
-- [Scan HTML even faster with SIMD instructions (C++ and C#)](https://lemire.me/blog/2024/07/20/scan-html-even-faster-with-simd-instructions-c-and-c/)
+- [Intent to End OCSP Service](https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html)
 
-- [Mapping symbols: rethinking for efficiency](https://maskray.me/blog/2024-07-21-mapping-symbols-rethinking-for-efficiency)
+- [Taking my diabetes treatment into my own hands](https://martin.janiczek.cz/2024/07/23/taking-my-diabetes-treatment-into-my-own-hands.html)
 
-- [Sentinel-free schemas: a thought experiment](https://minimalmodeling.substack.com/p/sentinel-free-schemas-a-thought-experiment)
+- [Understanding the Performance Implications of Storage-Disaggregated Databases](https://muratbuffalo.blogspot.com/2024/07/understanding-performance-implications.html)
 
-- [What TeX Gets Right](https://newton.cx/~peter/2024/what-tex-gets-right/)
+- [Pnut: A C to POSIX Shell Compiler you can Trust](https://pnut.sh)
 
-- [A brief history of Dell UNIX](https://notes.technologists.com/notes/2008/01/10/a-brief-history-of-dell-unix/)
+- [Named Arguments In Rust, If You Want Them](https://rtpg.co/2024/07/22/rust-named-arguments/)
 
-- [On Open Source and the Sustainability of the Commons](https://ploum.net/2024-07-01-opensource_sustainability.html)
+- [2024 Stack Overflow Developer Survey](https://survey.stackoverflow.co/2024/)
 
-- [Did you know about Instruments?](https://registerspill.thorstenball.com/p/did-you-know-about-instruments)
+- [Generating sudokus for fun and no profit](https://tn1ck.com/blog/how-to-generate-sudokus)
 
-- [Tricks In Arc Swap (2019)](https://vorner.github.io/2019/04/06/tricks-in-arc-swap.html)
+- [Anyone can Access Public Repository Data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
 
-- [An afternoon with KaiOS](https://washbear.neocities.org/kaios.html)
+- [Pinned places](https://without.boats/blog/pinned-places/)
 
-- [Pin](https://without.boats/blog/pin/)
+- [It May Soon Be Legal to Jailbreak AI to Expose How it Works](https://www.404media.co/it-may-soon-be-legal-to-jailbreak-ai-to-expose-how-it-works/)
 
-- [Give Me the Green Light Part 2: Dirty Little Secrets](https://www.redthreatsec.com/blog/give-me-the-green-light-part2-dirty-little-secrets)
+- [Software engineers are not (and should not be) technicians](https://www.haskellforall.com/2024/07/software-engineers-are-not-and-should.html)
 
-- [Devilish fun with a modeless modal editing mode](https://www.rousette.org.uk/archives/devilish-fun-with-a-modeless-modal-editor/)
+- [AI models collapse when trained on recursively generated data](https://www.nature.com/articles/s41586-024-07566-y)
 
-- [Baby's second wasm compiler](https://www.scattered-thoughts.net/writing/babys-second-wasm-compiler)
+- [How to Debug Chez Scheme Programs (2002)](https://www.scheme.com/debug/debug.html)
 
-- [Calling Go Functions from c++](https://xnacly.me/posts/2024/go-cpp-interop/)
+- [A Uniform Name Service for Spring's UNIX Environment (1994)](https://www.usenix.org/conference/usenix-winter-1994-technical-conference/uniform-name-service-springs-unix-environment)
