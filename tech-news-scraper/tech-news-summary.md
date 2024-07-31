@@ -1,45 +1,49 @@
-- [Lessons from ancient file systems](http://madcompiler.blogspot.com/2024/02/lessons-from-ancient-file-systems.html)
+- [Taking command of the Context Menu in macOS](https://blog.gingerbeardman.com/2024/07/30/taking-command-of-the-context-menu-in-macos/)
 
-- [Symbolics S-Render manual (1985)](https://archive.org/details/symbolics-s-render)
+- [Practical Math: My Journey from Idea to Application](https://blog.ignaciobrasca.com/opinion/2024/07/29/practical-math.html)
 
-- [Learning about PCI-e: Driver & DMA](https://blog.davidv.dev/posts/pcie-driver-dma/)
+- [Build your own SQS or Kafka with Postgres](https://blog.sequinstream.com/build-your-own-sqs-or-kafka-with-postgres/)
 
-- [Counting Bytes Faster Than You'd Think Possible](https://blog.mattstuchlik.com/2024/07/21/fastest-memory-read.html)
+- [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/)
 
-- [actionview-svelte-handler: Create Svelte views seamlessly in Rails applications](https://codeberg.org/reesericci/actionview-svelte-handler)
+- [Functional programming languages should be so much better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programming)
 
-- [My Favorite Tools + Techniques for Procedural Gamedev](https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/)
+- [What we got wrong about HTTP imports](https://deno.com/blog/http-imports)
 
-- [APL Since 1978 [pdf] (2020)](https://dl.acm.org/doi/pdf/10.1145/3386319)
+- [Pragmatic Category Theory | Part 1: Semigroup Intro](https://dev.to/chshersh/pragmatic-category-theory-part-1-semigroup-intro-1ign)
 
-- [Scaling One Million Checkboxes to 650,000,000 checks](https://eieio.games/essays/scaling-one-million-checkboxes/)
+- [FastHTML - Modern web applications in pure Python](https://fastht.ml/)
 
-- [Fear of over-engineering has killed engineering altogether](https://fika.bar/blogs/paoramen/fear-of-over-engineering-has-killed-engineering-altogether-01J3MM2Y3RGK8AZWYHHFJMAGJJ)
+- [NixOS Option Inspection](https://fzakaria.com/2024/07/28/nixos-option-inspection.html)
 
-- [A new Gleam feature I love](https://giacomocavalieri.me/posts/a-new-gleam-feature-i-love)
+- [Data.Maybe, and thoughts on library design](https://injuly.in/blog/monoid-maybe/)
 
-- [bashsimplecurses: A simple curses library made in bash to draw terminal interfaces](https://github.com/metal3d/bashsimplecurses)
+- [C Macro Reflection in Zig – Zig Has Better C Interop Than C Itself](https://jstrieb.github.io/posts/c-reflection-zig/)
 
-- [Minimal 64x4 – DIY computer with 4x the processing power of a C64 or Apple II](https://github.com/slu4coder/Minimal-64x4-Home-Computer)
+- [HTTP/0.9 From Scratch](https://kmcd.dev/posts/http0.9-from-scratch/)
 
-- [The bizarre secrets I found investigating corrupt Winamp skins](https://jordaneldredge.com/notes/corrupted-skins/)
+- [Go, a reasonable good language](https://kokada.capivaras.dev/blog/go-a-reasonable-good-language/)
 
-- [Quick bits: nix-shell is cursed](https://kokada.capivaras.dev/blog/quick-bits-nix-shell-is-cursed/)
+- [Troubleshooting: Terminal Lag](https://lock.cmpxchg8b.com/slowterm.html)
 
-- [Hashbang hacking for fun and, maybe in the future, profit](https://lucasew.capivaras.dev/blog/hashbang-hacking-for-fun-and-maybe-in-the-future-profit/)
+- [find + mkdir is Turing complete](https://ogiekako.vercel.app/blog/find_mkdir_tc)
 
-- [Tracing the evolution of a Python function with git log -L](https://nerderati.com/tracing-the-evolution-of-a-python-function-with-git-log/)
+- [Orca: WebAssembly apps without the web](https://orca-app.dev/)
 
-- [Meta-Thunderbolt](https://nocoffei.com/?p=247)
+- [Porffor: A from-scratch experimental ahead-of-time JS engine](https://porffor.dev/)
 
-- [Linux Network Performance Ultimate Guide](https://ntk148v.github.io/posts/linux-network-performance-ultimate-guide/)
+- [Quint](https://quint-lang.org/)
 
-- [The New Internet](https://tailscale.com/blog/new-internet)
+- [Announcing Swift Homomorphic Encryption](https://swift.org/blog/announcing-swift-homomorphic-encryption/)
 
-- [Writing a legacy PXE bootloader](https://www.2bits.in/writing-a-legacy-pxe-bootloader/)
+- [Student Resampled His t Distribution](https://two-wrongs.com/student-bootstrapped-t-distribution.html)
 
-- [Bril: An Intermediate Language for Teaching Compilers](https://www.cs.cornell.edu/~asampson/blog/bril.html)
+- [Implementing the “one or more” UI component](https://verbnounenter.net/one-or-more)
 
-- [Yggdrasil Linux - Installation and Beyond](https://youtu.be/2IAa6MYVpVs)
+- [Cogent Core, a new Go GUI (website uses the UI framework)](https://www.cogentcore.org/blog/initial-release)
 
-- [NetBSD on RISC-V - It Finally Runs NetBSD](https://youtu.be/RNHTYV4MI8Y)
+- [Certificate Revocation Incident (CNAME-Based Domain Validation)](https://www.digicert.com/support/certificate-revocation-incident)
+
+- [Paolo Melchiorre - Database generated columns⁽¹⁾: Django & SQLite](https://www.paulox.net/2023/11/07/database-generated-columns-part-1-django-and-sqlite/)
+
+- [Third-party cookies have got to go](https://www.w3.org/blog/2024/third-party-cookies-have-got-to-go/)
