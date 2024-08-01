@@ -1,49 +1,49 @@
-- [Taking command of the Context Menu in macOS](https://blog.gingerbeardman.com/2024/07/30/taking-command-of-the-context-menu-in-macos/)
+- [Calling ed(1) from less(1)](http://blog.syncpup.com/posts/calling-ed-from-less.html)
 
-- [Practical Math: My Journey from Idea to Application](https://blog.ignaciobrasca.com/opinion/2024/07/29/practical-math.html)
+- [Where does the name "algebraic data type" come from?](https://blog.poisson.chat/posts/2024-07-26-adt-history.html)
 
 - [Build your own SQS or Kafka with Postgres](https://blog.sequinstream.com/build-your-own-sqs-or-kafka-with-postgres/)
 
 - [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/)
 
-- [Functional programming languages should be so much better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programming)
+- [The Racket Book](https://docs.racket-lang.org/guide/index.html)
 
-- [What we got wrong about HTTP imports](https://deno.com/blog/http-imports)
+- [Racket Survey 2024](https://forms.gle/EYuzG4Jp9X5bqoHQ9)
 
-- [Pragmatic Category Theory | Part 1: Semigroup Intro](https://dev.to/chshersh/pragmatic-category-theory-part-1-semigroup-intro-1ign)
+- [Hello, world! - Cpp2 and cppfront](https://hsutter.github.io/cppfront/welcome/hello-world/)
 
-- [FastHTML - Modern web applications in pure Python](https://fastht.ml/)
+- [Garbage collection and closures](https://jakearchibald.com/2024/garbage-collection-and-closures/)
 
-- [NixOS Option Inspection](https://fzakaria.com/2024/07/28/nixos-option-inspection.html)
+- [How I Computer in 2024](https://jnsgr.uk/2024/07/how-i-computer-in-2024/)
 
-- [Data.Maybe, and thoughts on library design](https://injuly.in/blog/monoid-maybe/)
+- [Generating YAML files with Nix](https://kokada.capivaras.dev/blog/generating-yaml-files-with-nix/)
 
-- [C Macro Reflection in Zig – Zig Has Better C Interop Than C Itself](https://jstrieb.github.io/posts/c-reflection-zig/)
+- [Pulling Linux up by its bootstraps](https://lwn.net/SubscriberLink/983340/25f5b1f6b1247079/)
 
-- [HTTP/0.9 From Scratch](https://kmcd.dev/posts/http0.9-from-scratch/)
-
-- [Go, a reasonable good language](https://kokada.capivaras.dev/blog/go-a-reasonable-good-language/)
-
-- [Troubleshooting: Terminal Lag](https://lock.cmpxchg8b.com/slowterm.html)
+- [Light comms on the 003](https://mitxela.com/projects/lightcomm)
 
 - [find + mkdir is Turing complete](https://ogiekako.vercel.app/blog/find_mkdir_tc)
 
-- [Orca: WebAssembly apps without the web](https://orca-app.dev/)
+- [A handful of reasons JavaScript won’t be available](https://piccalil.li/blog/a-handful-of-reasons-javascript-wont-be-available/)
 
 - [Porffor: A from-scratch experimental ahead-of-time JS engine](https://porffor.dev/)
 
 - [Quint](https://quint-lang.org/)
 
+- [The language strangeness budget](https://steveklabnik.com/writing/the-language-strangeness-budget/)
+
+- [Nix Community Survey 2024](https://survey.nixos.org/2024)
+
 - [Announcing Swift Homomorphic Encryption](https://swift.org/blog/announcing-swift-homomorphic-encryption/)
 
-- [Student Resampled His t Distribution](https://two-wrongs.com/student-bootstrapped-t-distribution.html)
+- [Data Replication Design Spectrum](https://transactional.blog/blog/2024-data-replication-design-spectrum)
 
-- [Implementing the “one or more” UI component](https://verbnounenter.net/one-or-more)
+- [Adding Operational Transformation To Butler](https://tristancacqueray.github.io/blog/butler-ot)
 
-- [Cogent Core, a new Go GUI (website uses the UI framework)](https://www.cogentcore.org/blog/initial-release)
+- [Websites are Blocking the Wrong AI Scrapers (Because AI Companies Keep Making New Ones)](https://www.404media.co/websites-are-blocking-the-wrong-ai-scrapers-because-ai-companies-keep-making-new-ones/)
 
-- [Certificate Revocation Incident (CNAME-Based Domain Validation)](https://www.digicert.com/support/certificate-revocation-incident)
+- [Falcon Content Update Remediation and Guidance](https://www.crowdstrike.com/falcon-content-update-remediation-and-guidance-hub/)
 
-- [Paolo Melchiorre - Database generated columns⁽¹⁾: Django & SQLite](https://www.paulox.net/2023/11/07/database-generated-columns-part-1-django-and-sqlite/)
+- [Once more about the rule of 5](https://www.sandordargo.com/blog/2024/07/31/rule-of-5-once-again)
 
-- [Third-party cookies have got to go](https://www.w3.org/blog/2024/third-party-cookies-have-got-to-go/)
+- [Vimscript Tutorial](https://www.youtube.com/playlist?list=PLOe6AggsTaVv_IQsADuzhOzepA_tSAagN)
