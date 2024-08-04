@@ -1,49 +1,49 @@
-- [Calling ed(1) from less(1)](http://blog.syncpup.com/posts/calling-ed-from-less.html)
+- [There is only one test](https://allendowney.blogspot.com/2011/05/there-is-only-one-test.html)
 
-- [Where does the name "algebraic data type" come from?](https://blog.poisson.chat/posts/2024-07-26-adt-history.html)
+- [Clang vs. Clang](https://blog.cr.yp.to/20240803-clang.html)
 
-- [Build your own SQS or Kafka with Postgres](https://blog.sequinstream.com/build-your-own-sqs-or-kafka-with-postgres/)
+- [C is Turing complete](https://dotat.at/@/2024-08-02-turing-c.html)
 
-- [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/)
+- [Archiving and syndicating Mastodon posts](https://garrido.io/notes/archiving-and-syndicating-mastodon-posts/)
 
-- [The Racket Book](https://docs.racket-lang.org/guide/index.html)
+- [GitHub Profile Roast](https://github-roast.pages.dev/)
 
-- [Racket Survey 2024](https://forms.gle/EYuzG4Jp9X5bqoHQ9)
+- [Tzero: Social Timeboxing for IRC Channels](https://github.com/susam/tzero)
 
-- [Hello, world! - Cpp2 and cppfront](https://hsutter.github.io/cppfront/welcome/hello-world/)
+- [Multiplier v2: Code indexer specialized for C/C++](https://github.com/trailofbits/multiplier/blob/main/docs/other-indexers.md)
 
-- [Garbage collection and closures](https://jakearchibald.com/2024/garbage-collection-and-closures/)
+- [Supercharged labels – Gleam v1.4.0](https://gleam.run/news/supercharged-labels/)
 
-- [How I Computer in 2024](https://jnsgr.uk/2024/07/how-i-computer-in-2024/)
+- ["We ran out of columns" - The best, worst codebase](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
 
-- [Generating YAML files with Nix](https://kokada.capivaras.dev/blog/generating-yaml-files-with-nix/)
+- [Reduce allocations and comparison performance with the new unique package in Go 1.23](https://josephwoodward.co.uk/2024/08/performance-improvements-unique-package-go-1-23)
 
-- [Pulling Linux up by its bootstraps](https://lwn.net/SubscriberLink/983340/25f5b1f6b1247079/)
+- [Primitive Recursive Functions For A Working Programmer](https://matklad.github.io/2024/08/01/primitive-recursive-functions.html)
 
-- [Light comms on the 003](https://mitxela.com/projects/lightcomm)
+- [manifest.py](https://pypi.org/project/manifest/)
 
-- [find + mkdir is Turing complete](https://ogiekako.vercel.app/blog/find_mkdir_tc)
+- [A Knownbits Abstract Domain for the Toy Optimizer, Correctly](https://pypy.org/posts/2024/08/toy-knownbits.html)
 
-- [A handful of reasons JavaScript won’t be available](https://piccalil.li/blog/a-handful-of-reasons-javascript-wont-be-available/)
+- [Racket meet-up: Saturday, 3 August, 2024 at 18:00 UTC](https://racket.discourse.group/t/racket-meet-up-saturday-3-august-2024-at-18-00-utc/3073)
 
-- [Porffor: A from-scratch experimental ahead-of-time JS engine](https://porffor.dev/)
+- [Back-dating Git commits based on file modification dates](https://til.simonwillison.net/git/backdate-git-commits)
 
-- [Quint](https://quint-lang.org/)
+- [Go debug your core dumps somewhere else](https://trace.yshui.dev/2024-08-copy-core-dumps.html)
 
-- [The language strangeness budget](https://steveklabnik.com/writing/the-language-strangeness-budget/)
+- [Default To Large Modules](https://two-wrongs.com/decompose-into-larger-modules.html)
 
-- [Nix Community Survey 2024](https://survey.nixos.org/2024)
+- [Perfect NAS Solution](https://vermaden.wordpress.com/2024/08/04/perfect-nas-solution/)
 
-- [Announcing Swift Homomorphic Encryption](https://swift.org/blog/announcing-swift-homomorphic-encryption/)
+- [What Would It Take to Recreate Bell Labs?](https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell)
 
-- [Data Replication Design Spectrum](https://transactional.blog/blog/2024-data-replication-design-spectrum)
+- [Translating All C to Rust (TRACTOR)](https://www.darpa.mil/program/translating-all-c-to-rust)
 
-- [Adding Operational Transformation To Butler](https://tristancacqueray.github.io/blog/butler-ot)
+- [Panic! At The Async Runtime Shutdown](https://www.mattkeeter.com/blog/2024-08-01-panic/)
 
-- [Websites are Blocking the Wrong AI Scrapers (Because AI Companies Keep Making New Ones)](https://www.404media.co/websites-are-blocking-the-wrong-ai-scrapers-because-ai-companies-keep-making-new-ones/)
+- [Desugaring Haskell's do-Notation into Applicative Operations](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/desugaring-haskell-haskell16.pdf)
 
-- [Falcon Content Update Remediation and Guidance](https://www.crowdstrike.com/falcon-content-update-remediation-and-guidance-hub/)
+- [Towards userspaceification of POSIX - part I: signal handling and IO](https://www.redox-os.org/news/kernel-11/)
 
-- [Once more about the rule of 5](https://www.sandordargo.com/blog/2024/07/31/rule-of-5-once-again)
+- [Reverse engineering the 59-pound printer onboard the Space Shuttle](https://www.righto.com/2024/08/space-shuttle-interim-teleprinter.html)
 
-- [Vimscript Tutorial](https://www.youtube.com/playlist?list=PLOe6AggsTaVv_IQsADuzhOzepA_tSAagN)
+- [Versioning as Communication](https://xavd.id/blog/post/versioning-as-communication/)
