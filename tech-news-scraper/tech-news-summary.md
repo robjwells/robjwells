@@ -1,49 +1,49 @@
-- [There is only one test](https://allendowney.blogspot.com/2011/05/there-is-only-one-test.html)
+- [Hello Frink (2015)](http://ncreep.github.io/language_perils/blog/2015-01-08-hello-frink.html)
 
-- [Clang vs. Clang](https://blog.cr.yp.to/20240803-clang.html)
+- [What the heck are reverse mapped types?](https://andreasimonecosta.dev/posts/what-the-heck-are-reverse-mapped-types/)
 
-- [C is Turing complete](https://dotat.at/@/2024-08-02-turing-c.html)
+- [Cat9 Microdosing: Each and Contain](https://arcan-fe.com/2024/08/05/cat9-microdosing-each-and-contain/)
 
-- [Archiving and syndicating Mastodon posts](https://garrido.io/notes/archiving-and-syndicating-mastodon-posts/)
+- [Why is ‘Left Stick to Sprint’ so unpleasant in games?](https://aria.dog/barks/why-is-left-stick-to-sprint-so-unpleasant/)
 
-- [GitHub Profile Roast](https://github-roast.pages.dev/)
+- [An Empirical Evaluation of Columnar Storage Formats](https://arxiv.org/abs/2304.05028)
 
-- [Tzero: Social Timeboxing for IRC Channels](https://github.com/susam/tzero)
+- [Full Text Search over Postgres: Elasticsearch vs. Alternatives](https://blog.paradedb.com/pages/elasticsearch_vs_postgres)
 
-- [Multiplier v2: Code indexer specialized for C/C++](https://github.com/trailofbits/multiplier/blob/main/docs/other-indexers.md)
+- [How Postgres stores data on disk – this one's a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
 
-- [Supercharged labels – Gleam v1.4.0](https://gleam.run/news/supercharged-labels/)
+- [skint: Cheap and fast R7RS Scheme interpreter](https://github.com/false-schemers/skint)
 
-- ["We ran out of columns" - The best, worst codebase](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
+- [How to Get or Create in PostgreSQL](https://hakibenita.com/postgresql-get-or-create)
 
-- [Reduce allocations and comparison performance with the new unique package in Go 1.23](https://josephwoodward.co.uk/2024/08/performance-improvements-unique-package-go-1-23)
+- [Vertical label placement](https://iamkate.com/code/vertical-label-placement/)
 
-- [Primitive Recursive Functions For A Working Programmer](https://matklad.github.io/2024/08/01/primitive-recursive-functions.html)
+- [Video with alpha transparency on the web](https://jakearchibald.com/2024/video-with-transparency/)
 
-- [manifest.py](https://pypi.org/project/manifest/)
+- [Keygen is now Fair Source](https://keygen.sh/blog/keygen-is-now-fair-source/)
 
-- [A Knownbits Abstract Domain for the Toy Optimizer, Correctly](https://pypy.org/posts/2024/08/toy-knownbits.html)
+- [Y'all are sleeping on HTTP/3](https://kmcd.dev/posts/yall-are-sleeping-on-http3/)
 
-- [Racket meet-up: Saturday, 3 August, 2024 at 18:00 UTC](https://racket.discourse.group/t/racket-meet-up-saturday-3-august-2024-at-18-00-utc/3073)
+- [My favorite device is a Chromebook](https://kokada.capivaras.dev/blog/my-favorite-device-is-a-chromebook/)
 
-- [Back-dating Git commits based on file modification dates](https://til.simonwillison.net/git/backdate-git-commits)
+- [Radiance Cascades](https://mini.gmshaders.com/p/radiance-cascades)
 
-- [Go debug your core dumps somewhere else](https://trace.yshui.dev/2024-08-copy-core-dumps.html)
+- [Reliable JavaScript benchmarking with Tachometer](https://nolanlawson.com/2024/08/05/reliable-javascript-benchmarking-with-tachometer/)
 
-- [Default To Large Modules](https://two-wrongs.com/decompose-into-larger-modules.html)
+- [First impressions of Gleam: lots of joys and some rough edges](https://ntietz.com/blog/first-impressions-of-gleam)
 
-- [Perfect NAS Solution](https://vermaden.wordpress.com/2024/08/04/perfect-nas-solution/)
+- [Debugging a rustc segfault on illumos](https://sunshowers.io/posts/rustc-segfault-illumos/)
 
-- [What Would It Take to Recreate Bell Labs?](https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell)
+- [Dual-Boot NetBSD And Archlinux](https://vsis.online/posts/2024-07-18-uefi-netbsd-archlinux-dual-boot/)
 
-- [Translating All C to Rust (TRACTOR)](https://www.darpa.mil/program/translating-all-c-to-rust)
+- [You should use the Ruby on Rails logger block syntax](https://willj.net/posts/you-should-use-the-rails-logger-block-syntax/)
 
-- [Panic! At The Async Runtime Shutdown](https://www.mattkeeter.com/blog/2024-08-01-panic/)
+- [Crowdstrike External Technical Root Cause Analysis](https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf)
 
-- [Desugaring Haskell's do-Notation into Applicative Operations](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/desugaring-haskell-haskell16.pdf)
+- [State of Knuckledragger, a Semi-Automated Python Proof Assistant](https://www.philipzucker.com/state_o_knuck/)
 
-- [Towards userspaceification of POSIX - part I: signal handling and IO](https://www.redox-os.org/news/kernel-11/)
+- [‘You are a helpful mail assistant,’ and other Apple Intelligence instructions](https://www.theverge.com/2024/8/5/24213861/apple-intelligence-instructions-macos-15-1-sequoia-beta)
 
-- [Reverse engineering the 59-pound printer onboard the Space Shuttle](https://www.righto.com/2024/08/space-shuttle-interim-teleprinter.html)
+- [Leaking Flags from Filesystem with Spectre v1](https://www.willsroot.io/2024/08/just-a-dos-bug.html)
 
-- [Versioning as Communication](https://xavd.id/blog/post/versioning-as-communication/)
+- [Don't model the problem](https://www.youtube.com/watch?v=WcAWZGyB32U)
