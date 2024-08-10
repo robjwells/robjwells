@@ -1,49 +1,45 @@
-- [Hello Frink (2015)](http://ncreep.github.io/language_perils/blog/2015-01-08-hello-frink.html)
+- [High-precision date/time in SQLite](https://antonz.org/sqlean-time/)
 
-- [What the heck are reverse mapped types?](https://andreasimonecosta.dev/posts/what-the-heck-are-reverse-mapped-types/)
+- [Apple Intelligence Foundation Language Models](https://arxiv.org/abs/2407.21075)
 
-- [Cat9 Microdosing: Each and Contain](https://arcan-fe.com/2024/08/05/cat9-microdosing-each-and-contain/)
+- [The Painful Pitfalls of C++ STL Strings](https://ashvardanian.com/posts/painful-strings/)
 
-- [Why is ‘Left Stick to Sprint’ so unpleasant in games?](https://aria.dog/barks/why-is-left-stick-to-sprint-so-unpleasant/)
+- [Are Function Calls Still Slow in Python? An Analysis of Recent Optimizations in CPython](https://blog.codingconfessions.com/p/are-function-calls-still-slow-in-python)
 
-- [An Empirical Evaluation of Columnar Storage Formats](https://arxiv.org/abs/2304.05028)
+- [Firefox Sidebar and Vertical tabs: try them out in Nightly Firefox Labs 131](https://blog.nightly.mozilla.org/2024/08/07/firefox-sidebar-and-vertical-tabs-try-them-out-in-nightly-firefox-labs-131/)
 
-- [Full Text Search over Postgres: Elasticsearch vs. Alternatives](https://blog.paradedb.com/pages/elasticsearch_vs_postgres)
+- [Confusion Attacks: Exploiting Hidden Semantic Ambiguity in Apache HTTP Server](https://blog.orange.tw/2024/08/confusion-attacks-en.html)
 
-- [How Postgres stores data on disk – this one's a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
+- [A New Home for nhooyr/websocket](https://coder.com/blog/websocket)
 
-- [skint: Cheap and fast R7RS Scheme interpreter](https://github.com/false-schemers/skint)
+- [Hybrid Teams are the Worst](https://drakerossman.com/blog/hybrid-teams-are-the-worst)
 
-- [How to Get or Create in PostgreSQL](https://hakibenita.com/postgresql-get-or-create)
+- [SSHamble: Unexpected Exposures in SSH](https://github.com/runZeroInc/sshamble)
 
-- [Vertical label placement](https://iamkate.com/code/vertical-label-placement/)
+- [opener: Open URL in your local web browser from the SSH-connected remote environment](https://github.com/superbrothers/opener)
 
-- [Video with alpha transparency on the web](https://jakearchibald.com/2024/video-with-transparency/)
+- [What does it mean to initialize an int?](https://herbsutter.com/2024/08/07/reader-qa-what-does-it-mean-to-initialize-an-int/)
 
-- [Keygen is now Fair Source](https://keygen.sh/blog/keygen-is-now-fair-source/)
+- [Jepsen: jetcd 0.8.2](https://jepsen.io/analyses/jetcd-0.8.2)
 
-- [Y'all are sleeping on HTTP/3](https://kmcd.dev/posts/yall-are-sleeping-on-http3/)
+- [Don't write Rust like it's Java](https://jgayfer.com/dont-write-rust-like-java)
 
-- [My favorite device is a Chromebook](https://kokada.capivaras.dev/blog/my-favorite-device-is-a-chromebook/)
+- [Go structs are copied on assignment (and other things about Go I'd missed)](https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/)
 
-- [Radiance Cascades](https://mini.gmshaders.com/p/radiance-cascades)
+- [Tüüpiautomaat: automated testing of a compiler and target against each other](https://kivikakk.ee/zig/2024/08/06/t%C3%BC%C3%BCpiautomaat/)
 
-- [Reliable JavaScript benchmarking with Tachometer](https://nolanlawson.com/2024/08/05/reliable-javascript-benchmarking-with-tachometer/)
+- [1st International Workshop on Low Carbon Computing](https://locos.codeberg.page/loco2024/)
 
-- [First impressions of Gleam: lots of joys and some rough edges](https://ntietz.com/blog/first-impressions-of-gleam)
+- [Hacking a Virtual Power Plant](https://rya.nc/vpp-hack.html)
 
-- [Debugging a rustc segfault on illumos](https://sunshowers.io/posts/rustc-segfault-illumos/)
+- [Cosmic: A New Desktop Environment](https://system76.com/cosmic)
 
-- [Dual-Boot NetBSD And Archlinux](https://vsis.online/posts/2024-07-18-uefi-netbsd-archlinux-dual-boot/)
+- [Rust on RP2350](https://thejpster.org.uk/blog/blog-2024-08-08/)
 
-- [You should use the Ruby on Rails logger block syntax](https://willj.net/posts/you-should-use-the-rails-logger-block-syntax/)
+- [TVL's blog: Tvix Status - August '24](https://tvl.fyi/blog/tvix-update-august-24)
 
-- [Crowdstrike External Technical Root Cause Analysis](https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf)
+- [Reserving .INTERNAL for Private-Use Applications](https://www.icann.org/en/board-activities-and-meetings/materials/approved-resolutions-special-meeting-of-the-icann-board-29-07-2024-en#section2.a)
 
-- [State of Knuckledragger, a Semi-Automated Python Proof Assistant](https://www.philipzucker.com/state_o_knuck/)
+- [Raspberry Pi Pico 2](https://www.raspberrypi.com/products/raspberry-pi-pico-2/)
 
-- [‘You are a helpful mail assistant,’ and other Apple Intelligence instructions](https://www.theverge.com/2024/8/5/24213861/apple-intelligence-instructions-macos-15-1-sequoia-beta)
-
-- [Leaking Flags from Filesystem with Spectre v1](https://www.willsroot.io/2024/08/just-a-dos-bug.html)
-
-- [Don't model the problem](https://www.youtube.com/watch?v=WcAWZGyB32U)
+- [‘Sinkclose’ Flaw in Hundreds of Millions of AMD Chips Allows Deep, Virtually Unfixable Infections](https://www.wired.com/story/amd-chip-sinkclose-flaw/)
