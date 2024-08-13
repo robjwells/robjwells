@@ -1,45 +1,47 @@
-- [High-precision date/time in SQLite](https://antonz.org/sqlean-time/)
+- [Okay, I really like WezTerm](https://alexplescan.com/posts/2024/08/10/wezterm/)
 
-- [Apple Intelligence Foundation Language Models](https://arxiv.org/abs/2407.21075)
+- [Developing CLIs](https://anchor.dev/blog/developing-clis)
 
-- [The Painful Pitfalls of C++ STL Strings](https://ashvardanian.com/posts/painful-strings/)
+- [The colors of GTK](https://blog.gtk.org/2024/08/11/the-colors-of-gtk/)
 
-- [Are Function Calls Still Slow in Python? An Analysis of Recent Optimizations in CPython](https://blog.codingconfessions.com/p/are-function-calls-still-slow-in-python)
+- [Rust Project goals for 2024](https://blog.rust-lang.org/2024/08/12/Project-goals.html)
 
-- [Firefox Sidebar and Vertical tabs: try them out in Nightly Firefox Labs 131](https://blog.nightly.mozilla.org/2024/08/07/firefox-sidebar-and-vertical-tabs-try-them-out-in-nightly-firefox-labs-131/)
+- [Approximating sum types in Python with Pydantic](https://blog.yossarian.net/2024/08/12/Approximating-sum-types-in-Python-with-Pydantic)
 
-- [Confusion Attacks: Exploiting Hidden Semantic Ambiguity in Apache HTTP Server](https://blog.orange.tw/2024/08/confusion-attacks-en.html)
+- [Your Go version CI matrix might be wrong](https://brandur.org/fragments/go-version-matrix)
 
-- [A New Home for nhooyr/websocket](https://coder.com/blog/websocket)
+- [The Jame of Life](https://buttondown.com/hillelwayne/archive/the-jame-of-life/)
 
-- [Hybrid Teams are the Worst](https://drakerossman.com/blog/hybrid-teams-are-the-worst)
+- [Windows 98 Disk Defrag Simulator](https://defrag98.com/)
 
-- [SSHamble: Unexpected Exposures in SSH](https://github.com/runZeroInc/sshamble)
+- [Don't Write, but Return: Replacing Output Parameters with Algebraic Data Types in C-to-Rust Translation](https://dl.acm.org/doi/10.1145/3656406)
 
-- [opener: Open URL in your local web browser from the SSH-connected remote environment](https://github.com/superbrothers/opener)
+- [The Chrome Monoculture](https://endler.dev/2024/the-dying-web/)
 
-- [What does it mean to initialize an int?](https://herbsutter.com/2024/08/07/reader-qa-what-does-it-mean-to-initialize-an-int/)
+- [GIL Become Optional in Python 3.13](https://geekpython.in/gil-become-optional-in-python)
 
-- [Jepsen: jetcd 0.8.2](https://jepsen.io/analyses/jetcd-0.8.2)
+- [blitz: High performance HTML and CSS renderer](https://github.com/DioxusLabs/blitz)
 
-- [Don't write Rust like it's Java](https://jgayfer.com/dont-write-rust-like-java)
+- [Apple memory holed its broken promise for an OCSP opt-out](https://lapcatsoftware.com/articles/2024/8/3.html)
 
-- [Go structs are copied on assignment (and other things about Go I'd missed)](https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/)
+- [SQL Injection Isn't Dead - Smuggling Queries at the Protocol Level](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Paul%20Gerste%20-%20SQL%20Injection%20Isn%27t%20Dead%20Smuggling%20Queries%20at%20the%20Protocol%20Level.pdf)
 
-- [Tüüpiautomaat: automated testing of a compiler and target against each other](https://kivikakk.ee/zig/2024/08/06/t%C3%BC%C3%BCpiautomaat/)
+- [You should make a new programming language](https://ntietz.com/blog/you-should-make-a-new-terrible-programming-language/)
 
-- [1st International Workshop on Low Carbon Computing](https://locos.codeberg.page/loco2024/)
+- [Weekly Lobsters office hours + development](https://push.cx/stream)
 
-- [Hacking a Virtual Power Plant](https://rya.nc/vpp-hack.html)
+- [The Illustrated QUIC Connection: Every Byte Explained](https://quic.xargs.org/)
 
-- [Cosmic: A New Desktop Environment](https://system76.com/cosmic)
+- [A Webring written in OCaml for FP enthusiasts](https://ring.muhokama.fun)
 
-- [Rust on RP2350](https://thejpster.org.uk/blog/blog-2024-08-08/)
+- [Why don't programming languages or IDEs support attaching descriptive metadata to variables?](https://softwareengineering.stackexchange.com/questions/454526/why-dont-programming-languages-or-ides-support-attaching-descriptive-metadata-t)
 
-- [TVL's blog: Tvix Status - August '24](https://tvl.fyi/blog/tvix-update-august-24)
+- [A Flexible Minimalist Neovim for 2024](https://wickstrom.tech/2024-08-12-a-flexible-minimalist-neovim.html)
 
-- [Reserving .INTERNAL for Private-Use Applications](https://www.icann.org/en/board-activities-and-meetings/materials/approved-resolutions-special-meeting-of-the-icann-board-29-07-2024-en#section2.a)
+- [Language Server Protocol from debug symbols](https://www.forrestthewoods.com/blog/language-server-protocol-from-debug-symbols/)
 
-- [Raspberry Pi Pico 2](https://www.raspberrypi.com/products/raspberry-pi-pico-2/)
+- [Haiku Activity & Contract Report, July 2024](https://www.haiku-os.org/blog/waddlesplash/2024-08-12-haiku_activity_contract_report_july_2024/)
 
-- [‘Sinkclose’ Flaw in Hundreds of Millions of AMD Chips Allows Deep, Virtually Unfixable Infections](https://www.wired.com/story/amd-chip-sinkclose-flaw/)
+- [Go is my hammer, and everything is a nail](https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail)
+
+- [Introducing the ZDI Vanguard Awards](https://www.zerodayinitiative.com/blog/2024/8/1/introducing-the-vanguard-awards)
