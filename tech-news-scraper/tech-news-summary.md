@@ -1,47 +1,49 @@
-- [Okay, I really like WezTerm](https://alexplescan.com/posts/2024/08/10/wezterm/)
+- [Announcing the official Elixir Language Server team](http://elixir-lang.org/blog/2024/08/15/welcome-elixir-language-server-team/)
 
-- [Developing CLIs](https://anchor.dev/blog/developing-clis)
+- [Practical compilation of fexprs using partial evaluation: Fexprs can performantly replace macros in purely-functional Lisp](https://arxiv.org/abs/2303.12254)
 
-- [The colors of GTK](https://blog.gtk.org/2024/08/11/the-colors-of-gtk/)
+- [AES encryption in Go](https://bitfieldconsulting.com/posts/aes-encryption)
 
-- [Rust Project goals for 2024](https://blog.rust-lang.org/2024/08/12/Project-goals.html)
+- [Font with Built-In Syntax Highlighting](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
 
-- [Approximating sum types in Python with Pydantic](https://blog.yossarian.net/2024/08/12/Approximating-sum-types-in-Python-with-Pydantic)
+- [Why We Picked AGPL](https://blog.paradedb.com/pages/agpl)
 
-- [Your Go version CI matrix might be wrong](https://brandur.org/fragments/go-version-matrix)
+- [What’s so hard about class types as non-type template parameters?](https://brevzin.github.io/c++/2024/08/15/cnttp/)
 
-- [The Jame of Life](https://buttondown.com/hillelwayne/archive/the-jame-of-life/)
+- [Run Diablo I in your browser](https://d07riv.github.io/diabloweb/)
 
-- [Windows 98 Disk Defrag Simulator](https://defrag98.com/)
+- [How good can you be at Codenames without knowing any words?](https://danluu.com/codenames/)
 
-- [Don't Write, but Return: Replacing Output Parameters with Algebraic Data Types in C-to-Rust Translation](https://dl.acm.org/doi/10.1145/3656406)
+- [Railing against time: tools and techniques that got us 5X faster tests](https://evilmartians.com/chronicles/railing-against-time-tools-and-techniques-that-got-us-5x-faster-results)
 
-- [The Chrome Monoculture](https://endler.dev/2024/the-dying-web/)
+- [It's About the Guarantees](https://ferd.ca/it-s-about-the-guarantees.html)
 
-- [GIL Become Optional in Python 3.13](https://geekpython.in/gil-become-optional-in-python)
+- [Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API](https://github.com/PlatformLab/NanoLog)
 
-- [blitz: High performance HTML and CSS renderer](https://github.com/DioxusLabs/blitz)
+- [A Rust-based BLE Heart Rate Monitor TUI](https://github.com/nullstalgia/null_iron_heart)
 
-- [Apple memory holed its broken promise for an OCSP opt-out](https://lapcatsoftware.com/articles/2024/8/3.html)
+- [10 years of Dear ImGui](https://github.com/ocornut/imgui/issues/7892)
 
-- [SQL Injection Isn't Dead - Smuggling Queries at the Protocol Level](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Paul%20Gerste%20-%20SQL%20Injection%20Isn%27t%20Dead%20Smuggling%20Queries%20at%20the%20Protocol%20Level.pdf)
+- [codedraw: Draw with commands, export and share your creations](https://github.com/xNaCly/codedraw)
 
-- [You should make a new programming language](https://ntietz.com/blog/you-should-make-a-new-terrible-programming-language/)
+- [Reflection-based JSON in C++ at Gigabytes per Second](https://lemire.me/blog/2024/08/13/reflection-based-json-in-c-at-gigabytes-per-second/)
 
-- [Weekly Lobsters office hours + development](https://push.cx/stream)
+- [CSVs Are Kinda Bad. DSVs Are Kinda Good](https://matthodges.com/posts/2024-08-12-csv-bad-dsv-good/)
 
-- [The Illustrated QUIC Connection: Every Byte Explained](https://quic.xargs.org/)
+- [Passkeys are not passwords](https://notes.neatnik.net/2024/08/passkeys-are-not-passwords)
 
-- [A Webring written in OCaml for FP enthusiasts](https://ring.muhokama.fun)
+- [Easy file-sharing with WebDAV](https://scvalex.net/posts/70/)
 
-- [Why don't programming languages or IDEs support attaching descriptive metadata to variables?](https://softwareengineering.stackexchange.com/questions/454526/why-dont-programming-languages-or-ides-support-attaching-descriptive-metadata-t)
+- [Security Issues in Matrix’s Olm Library](https://soatok.blog/2024/08/14/security-issues-in-matrixs-olm-library/)
 
-- [A Flexible Minimalist Neovim for 2024](https://wickstrom.tech/2024-08-12-a-flexible-minimalist-neovim.html)
+- [Fixing the Rails 7+ networking stack](https://thomascannon.me/guides/fixing-the-rails-networking-stack)
 
-- [Language Server Protocol from debug symbols](https://www.forrestthewoods.com/blog/language-server-protocol-from-debug-symbols/)
+- [It works on my machine. Why?](https://thoughtbot.com/blog/it-works-on-my-machine-why)
 
-- [Haiku Activity & Contract Report, July 2024](https://www.haiku-os.org/blog/waddlesplash/2024-08-12-haiku_activity_contract_report_july_2024/)
+- [Programming Pearls: bumper sticker computer science](https://tildesites.bowdoin.edu/~ltoma/teaching/cs340/spring05/coursestuff/Bentley_BumperSticker.pdf)
 
-- [Go is my hammer, and everything is a nail](https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail)
+- [Practices of Reliable Software Design](https://two-wrongs.com/practices-of-reliable-software-design)
 
-- [Introducing the ZDI Vanguard Awards](https://www.zerodayinitiative.com/blog/2024/8/1/introducing-the-vanguard-awards)
+- [Fellowship for Maintainers](https://www.sovereigntechfund.de/programs/fellowship)
+
+- [MakeShift: Security Analysis of Shimano Di2 Wireless Gear Shifting in Bicycles](https://www.usenix.org/system/files/woot24-motallebighomi.pdf)
