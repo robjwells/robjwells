@@ -1,49 +1,45 @@
-- [Announcing the official Elixir Language Server team](http://elixir-lang.org/blog/2024/08/15/welcome-elixir-language-server-team/)
+- [Safer C++](https://alexgaynor.net/2024/aug/18/safer-c-plus-plus/)
 
-- [Practical compilation of fexprs using partial evaluation: Fexprs can performantly replace macros in purely-functional Lisp](https://arxiv.org/abs/2303.12254)
+- [C scripting with TCC and Bash](https://alurm.github.io/blog/c-scripting-with-tcc-and-bash.html)
 
-- [AES encryption in Go](https://bitfieldconsulting.com/posts/aes-encryption)
+- [Micro-libraries need to die already](https://bvisness.me/microlibraries/)
 
-- [Font with Built-In Syntax Highlighting](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
+- [Optimisation-dependent IR decisions in Clang](https://convolv.es/blog/2024/08/17/clang-ir-opt-level/)
 
-- [Why We Picked AGPL](https://blog.paradedb.com/pages/agpl)
+- [Markov chains are funnier than LLMs](https://emnudge.dev/blog/markov-chains-are-funny/)
 
-- [What’s so hard about class types as non-type template parameters?](https://brevzin.github.io/c++/2024/08/15/cnttp/)
+- [Fear Not the Association of Types](https://gavinleroy.com/writings/i-heart-assoc-types.html)
 
-- [Run Diablo I in your browser](https://d07riv.github.io/diabloweb/)
+- [bashfuck: Write any bash with only the punctuation characters](https://github.com/meithecatte/bashfuck)
 
-- [How good can you be at Codenames without knowing any words?](https://danluu.com/codenames/)
+- [ImRAD is a GUI builder for the ImGui library](https://github.com/tpecholt/imrad)
 
-- [Railing against time: tools and techniques that got us 5X faster tests](https://evilmartians.com/chronicles/railing-against-time-tools-and-techniques-that-got-us-5x-faster-results)
+- [Reckoning](https://infrequently.org/series/reckoning/)
 
-- [It's About the Guarantees](https://ferd.ca/it-s-about-the-guarantees.html)
+- [Wikipedia Reader for classic MacOS (2023)](https://jcs.org/wikipedia)
 
-- [Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API](https://github.com/PlatformLab/NanoLog)
+- [Don't Repeat Yourself and the Strong Law of Small Numbers](https://jerf.org/iri/post/2024/dry_strong/)
 
-- [A Rust-based BLE Heart Rate Monitor TUI](https://github.com/nullstalgia/null_iron_heart)
+- [A Definition of Magic in Programming Languages](https://jerf.org/iri/post/2024/magic/)
 
-- [10 years of Dear ImGui](https://github.com/ocornut/imgui/issues/7892)
+- [Making a Chess Engine in Zig](https://johns.codes/blog/making-a-chess-engine-in-zig)
 
-- [codedraw: Draw with commands, export and share your creations](https://github.com/xNaCly/codedraw)
+- [Semantic Versioning Doesn't Support Rolling Deprecation](https://kevincox.ca/2024/08/17/semver-rolling-deprecation/)
 
-- [Reflection-based JSON in C++ at Gigabytes per Second](https://lemire.me/blog/2024/08/13/reflection-based-json-in-c-at-gigabytes-per-second/)
+- [An unordered list of things I miss in Go](https://kokada.capivaras.dev/blog/an-unordered-list-of-things-i-miss-in-go/)
 
-- [CSVs Are Kinda Bad. DSVs Are Kinda Good](https://matthodges.com/posts/2024-08-12-csv-bad-dsv-good/)
+- [“The Door Problem”](https://lizengland.com/blog/2014/04/the-door-problem/)
 
-- [Passkeys are not passwords](https://notes.neatnik.net/2024/08/passkeys-are-not-passwords)
+- [Missing Salamanders: Matrix Media can be decrypted to multiple valid plaintexts using different keys](https://lotte.chir.rs/2024/08/17/Missing-Salamanders-Matrix-Media-can-be-decrypted-to-multiple-valid-plaintexts-using-different-keys/)
 
-- [Easy file-sharing with WebDAV](https://scvalex.net/posts/70/)
+- [You might be overusing Vim visual mode](https://m4xshen.dev/posts/overuse-vim-visual-mode)
 
-- [Security Issues in Matrix’s Olm Library](https://soatok.blog/2024/08/14/security-issues-in-matrixs-olm-library/)
+- [Just use Postgres](https://mccue.dev/pages/8-16-24-just-use-postgres)
 
-- [Fixing the Rails 7+ networking stack](https://thomascannon.me/guides/fixing-the-rails-networking-stack)
+- [Switching USB controller at boot on ESP32-S3](https://subalpinecircuits.com/usb-controller-esp32s3/)
 
-- [It works on my machine. Why?](https://thoughtbot.com/blog/it-works-on-my-machine-why)
+- [Incorporating Lua with Livtet](https://www.jacky.wtf/essays/2024/using-lua-with-livtet/)
 
-- [Programming Pearls: bumper sticker computer science](https://tildesites.bowdoin.edu/~ltoma/teaching/cs340/spring05/coursestuff/Bentley_BumperSticker.pdf)
+- [Mozilla's New Logo Brings Back the Dinosaur Mascot (Kinda)](https://www.omgubuntu.co.uk/2024/08/mozilla-new-logo)
 
-- [Practices of Reliable Software Design](https://two-wrongs.com/practices-of-reliable-software-design)
-
-- [Fellowship for Maintainers](https://www.sovereigntechfund.de/programs/fellowship)
-
-- [MakeShift: Security Analysis of Shimano Di2 Wireless Gear Shifting in Bicycles](https://www.usenix.org/system/files/woot24-motallebighomi.pdf)
+- [DOS's Last Stand on a modern Thinkpad: X13 Gen 1 with Intel i5-10310U](https://yeokhengmeng.com/2024/08/dos-on-thinkpad-x13-gen1/)
