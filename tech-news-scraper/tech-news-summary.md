@@ -1,45 +1,47 @@
-- [Safer C++](https://alexgaynor.net/2024/aug/18/safer-c-plus-plus/)
+- [uv: Unified Python packaging](https://astral.sh/blog/uv-unified-python-packaging)
 
-- [C scripting with TCC and Bash](https://alurm.github.io/blog/c-scripting-with-tcc-and-bash.html)
+- [The Benefits of Conforming](https://beyondloom.com/blog/conforming.html)
 
-- [Micro-libraries need to die already](https://bvisness.me/microlibraries/)
+- [Gentoo: profiles and keywords rather than releases](https://blogs.gentoo.org/mgorny/2024/08/20/gentoo-profiles-and-keywords-rather-than-releases/)
 
-- [Optimisation-dependent IR decisions in Clang](https://convolv.es/blog/2024/08/17/clang-ir-opt-level/)
+- [Being on The Semantic Web is easy, and, frankly, well worth the bother](https://csvbase.com/blog/13)
 
-- [Markov chains are funnier than LLMs](https://emnudge.dev/blog/markov-chains-are-funny/)
+- [A systematic approach to deriving incremental type checkers (2020)](https://dl.acm.org/doi/10.1145/3428195)
 
-- [Fear Not the Association of Types](https://gavinleroy.com/writings/i-heart-assoc-types.html)
+- [Simplify Your Bioinformatics Workflow with Pixi: A Fresh Take on Conda](https://edmundmiller.dev/posts/pixi-bioinformatics/)
 
-- [bashfuck: Write any bash with only the punctuation characters](https://github.com/meithecatte/bashfuck)
+- [European Commission cuts funding support for Free Software projects](https://edri.org/our-work/european-commission-cuts-funding-support-for-free-software-projects/)
 
-- [ImRAD is a GUI builder for the ImGui library](https://github.com/tpecholt/imrad)
+- [Save Effort: Build a Bash One-Liner](https://exploring-better-ways.bellroy.com/save-effort-build-a-bash-one-liner.html)
 
-- [Reckoning](https://infrequently.org/series/reckoning/)
+- [Podman testing on FreeBSD](https://github.com/oci-playground/freebsd-podman-testing)
 
-- [Wikipedia Reader for classic MacOS (2023)](https://jcs.org/wikipedia)
+- [PS4 Emulator for Windows, Linux, macOS](https://github.com/shadps4-emu/shadPS4)
 
-- [Don't Repeat Yourself and the Strong Law of Small Numbers](https://jerf.org/iri/post/2024/dry_strong/)
+- [Libations: Tailscale on the Rocks](https://jnsgr.uk/2024/08/tailscale-on-the-rocks/)
 
-- [A Definition of Magic in Programming Languages](https://jerf.org/iri/post/2024/magic/)
+- [An unordered list of hidden gems inside NixOS](https://kokada.capivaras.dev/blog/an-unordered-list-of-hidden-gems-inside-nixos/)
 
-- [Making a Chess Engine in Zig](https://johns.codes/blog/making-a-chess-engine-in-zig)
+- [Make Firefox Private Again](https://make-firefox-private-again.com/)
 
-- [Semantic Versioning Doesn't Support Rolling Deprecation](https://kevincox.ca/2024/08/17/semver-rolling-deprecation/)
+- [What is UDP?](https://pboyd.io/posts/udp/)
 
-- [An unordered list of things I miss in Go](https://kokada.capivaras.dev/blog/an-unordered-list-of-things-i-miss-in-go/)
+- [Towards a Vendor-Lock-In-Free conda Experience](https://prefix.dev/blog/towards_a_vendor_lock_in_free_conda_experience)
 
-- [“The Door Problem”](https://lizengland.com/blog/2014/04/the-door-problem/)
+- [Introducing Oblivious HTTP support in Swift](https://swift.org/blog/introducing-swift-nio-oblivious-http/)
 
-- [Missing Salamanders: Matrix Media can be decrypted to multiple valid plaintexts using different keys](https://lotte.chir.rs/2024/08/17/Missing-Salamanders-Matrix-Media-can-be-decrypted-to-multiple-valid-plaintexts-using-different-keys/)
+- [Code review antipatterns](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/code-review-antipatterns/)
 
-- [You might be overusing Vim visual mode](https://m4xshen.dev/posts/overuse-vim-visual-mode)
+- [ArcticDB: Why a Hedge Fund Built Its Own Database](https://www.infoq.com/presentations/arcticdb/)
 
-- [Just use Postgres](https://mccue.dev/pages/8-16-24-just-use-postgres)
+- [What is std::ref?](https://www.sandordargo.com/blog/2024/08/21/std-ref)
 
-- [Switching USB controller at boot on ESP32-S3](https://subalpinecircuits.com/usb-controller-esp32s3/)
+- [OpenBSD crond / crontab set_range() heap underflow (CVE-2024-43688)](https://www.supernetworks.org/CVE-2024-43688/openbsd-cron-heap-underflow.txt)
 
-- [Incorporating Lua with Livtet](https://www.jacky.wtf/essays/2024/using-lua-with-livtet/)
+- [10 Essential Terminal Commands Every Developer Should Know](https://www.trevorlasn.com/blog/10-essential-terminal-commands-every-developer-should-know)
 
-- [Mozilla's New Logo Brings Back the Dinosaur Mascot (Kinda)](https://www.omgubuntu.co.uk/2024/08/mozilla-new-logo)
+- [Interfaces, Polymorphism, Symbols and Iterators in JavaScript](https://www.youtube.com/watch?v=eW6nVCb9MQ8)
 
-- [DOS's Last Stand on a modern Thinkpad: X13 Gen 1 with Intel i5-10310U](https://yeokhengmeng.com/2024/08/dos-on-thinkpad-x13-gen1/)
+- [Zen Browser - An open-source browser based on Firefox](https://www.zen-browser.app/)
+
+- [Introducing Zed AI](https://zed.dev/blog/zed-ai)
