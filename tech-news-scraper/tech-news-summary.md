@@ -1,47 +1,49 @@
-- [uv: Unified Python packaging](https://astral.sh/blog/uv-unified-python-packaging)
+- [Relicensing Monitor: Project Listing](https://alexsci.com/relicensing-monitor/projects/)
 
-- [The Benefits of Conforming](https://beyondloom.com/blog/conforming.html)
+- [Consistently making wrong decisions whilst writing recreational C](https://amodernist.com/texts/fun-c.html)
 
-- [Gentoo: profiles and keywords rather than releases](https://blogs.gentoo.org/mgorny/2024/08/20/gentoo-profiles-and-keywords-rather-than-releases/)
+- [!!Con 2024 Livestream - Aug 24 @ 10:00am PT](https://bangbangcon.com/livestream)
 
-- [Being on The Semantic Web is easy, and, frankly, well worth the bother](https://csvbase.com/blog/13)
+- [Google’s S2, geometry on the sphere, cells and Hilbert curve (2015)](https://blog.christianperone.com/2015/08/googles-s2-geometry-on-the-sphere-cells-and-hilbert-curve/)
 
-- [A systematic approach to deriving incremental type checkers (2020)](https://dl.acm.org/doi/10.1145/3428195)
+- [Putting a meaningful dent in your error backlog](https://blog.danslimmon.com/2024/08/15/putting-a-meaningful-dent-in-your-error-backlog/)
 
-- [Simplify Your Bioinformatics Workflow with Pixi: A Fresh Take on Conda](https://edmundmiller.dev/posts/pixi-bioinformatics/)
+- [The queueing shell game](https://blog.danslimmon.com/2024/08/21/the-queueing-shell-game/)
 
-- [European Commission cuts funding support for Free Software projects](https://edri.org/our-work/european-commission-cuts-funding-support-for-free-software-projects/)
+- [Build your own SQLite, Part 2: Scanning large tables](https://blog.sylver.dev/build-your-own-sqlite-part-2-scanning-large-tables)
 
-- [Save Effort: Build a Bash One-Liner](https://exploring-better-ways.bellroy.com/save-effort-build-a-bash-one-liner.html)
+- [CardStock.run - Quickly and easily build apps on the web](https://cardstock.run)
 
-- [Podman testing on FreeBSD](https://github.com/oci-playground/freebsd-podman-testing)
+- [coupling as co-explanation](https://explaining.software/archive/coupling-as-co-explanation/)
 
-- [PS4 Emulator for Windows, Linux, macOS](https://github.com/shadps4-emu/shadPS4)
+- [JavaScript interpreter, for EYG language, available on npm](https://eyg.run/news/editions/1/)
 
-- [Libations: Tailscale on the Rocks](https://jnsgr.uk/2024/08/tailscale-on-the-rocks/)
+- [Zig and Emulators](https://floooh.github.io/2024/08/24/zig-and-emulators.html)
 
-- [An unordered list of hidden gems inside NixOS](https://kokada.capivaras.dev/blog/an-unordered-list-of-hidden-gems-inside-nixos/)
+- [Forgejo is now copyleft, just like Git](https://forgejo.org/2024-08-gpl/)
 
-- [Make Firefox Private Again](https://make-firefox-private-again.com/)
+- [Geometric Search Trees](https://g-trees.github.io/g_trees/)
 
-- [What is UDP?](https://pboyd.io/posts/udp/)
+- [ircpipe - netcat for IRC](https://gir.st/ircpipe.html)
 
-- [Towards a Vendor-Lock-In-Free conda Experience](https://prefix.dev/blog/towards_a_vendor_lock_in_free_conda_experience)
+- [You’re probably using the wrong dictionary (2014)](https://jsomers.net/blog/dictionary)
 
-- [Introducing Oblivious HTTP support in Swift](https://swift.org/blog/introducing-swift-nio-oblivious-http/)
+- [AI Training Shouldn't Erase Authorship](https://justine.lol/history/)
 
-- [Code review antipatterns](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/code-review-antipatterns/)
+- [Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
 
-- [ArcticDB: Why a Hedge Fund Built Its Own Database](https://www.infoq.com/presentations/arcticdb/)
+- [OpenBSD has reached OpenBSD of Theseus](https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2)
 
-- [What is std::ref?](https://www.sandordargo.com/blog/2024/08/21/std-ref)
+- [How to Build a Minimal ZFS NAS without Synology, QNAP, TrueNAS](https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/)
 
-- [OpenBSD crond / crontab set_range() heap underflow (CVE-2024-43688)](https://www.supernetworks.org/CVE-2024-43688/openbsd-cron-heap-underflow.txt)
+- [I sped up serde_json strings by 20%](https://purplesyringa.moe/blog/i-sped-up-serde-json-strings-by-20-percent/)
 
-- [10 Essential Terminal Commands Every Developer Should Know](https://www.trevorlasn.com/blog/10-essential-terminal-commands-every-developer-should-know)
+- [SQL Has Problems. We Can Fix Them: Pipe Syntax In SQL](https://storage.googleapis.com/gweb-research2023-media/pubtools/1004848.pdf)
 
-- [Interfaces, Polymorphism, Symbols and Iterators in JavaScript](https://www.youtube.com/watch?v=eW6nVCb9MQ8)
+- [A symbol for the fediverse ⁂](https://symbol.fediverse.info/)
 
-- [Zen Browser - An open-source browser based on Firefox](https://www.zen-browser.app/)
+- [Is the Open Source Bubble about to Burst?](https://tarakiyee.com/is-the-open-source-bubble-about-to-burst/)
 
-- [Introducing Zed AI](https://zed.dev/blog/zed-ai)
+- [Printing the web, part 2: HTML and CSS for printing books](https://www.michaelperrin.fr/blog/2019/11/printing-the-web-part-2-html-and-css-for-printing-books)
+
+- [My IRC client runs on Kubernetes](https://xeiaso.net/blog/2024/k8s-irc-client/)
