@@ -1,49 +1,49 @@
-- [Relicensing Monitor: Project Listing](https://alexsci.com/relicensing-monitor/projects/)
+- [CPython Compiler Hardening](http://nohlson.com/blog/CPython-Compiler-Hardening-Summer-Retrospective/)
 
-- [Consistently making wrong decisions whilst writing recreational C](https://amodernist.com/texts/fun-c.html)
+- [ast-grep | structural search/rewrite tool for many languages](https://ast-grep.github.io/)
 
-- [!!Con 2024 Livestream - Aug 24 @ 10:00am PT](https://bangbangcon.com/livestream)
+- [Box64 and RISC-V in 2024](https://box86.org/2024/08/box64-and-risc-v-in-2024/)
 
-- [Google’s S2, geometry on the sphere, cells and Hilbert curve (2015)](https://blog.christianperone.com/2015/08/googles-s2-geometry-on-the-sphere-cells-and-hilbert-curve/)
+- [Tesla’s TTPoE at Hot Chips 2024: Replacing TCP for low latency applications](https://chipsandcheese.com/2024/08/27/teslas-ttpoe-at-hot-chips-2024-replacing-tcp-for-low-latency-applications/)
 
-- [Putting a meaningful dent in your error backlog](https://blog.danslimmon.com/2024/08/15/putting-a-meaningful-dent-in-your-error-backlog/)
+- [Rust dylib rabbit holes](https://davidlattimore.github.io/posts/2024/08/27/rust-dylib-rabbit-holes.html)
 
-- [The queueing shell game](https://blog.danslimmon.com/2024/08/21/the-queueing-shell-game/)
+- [better explanations through coupling](https://explaining.software/archive/better-explanations-through-coupling/)
 
-- [Build your own SQLite, Part 2: Scanning large tables](https://blog.sylver.dev/build-your-own-sqlite-part-2-scanning-large-tables)
+- [Function Types in Nix](https://garnix.io/blog/typed-function-types)
 
-- [CardStock.run - Quickly and easily build apps on the web](https://cardstock.run)
+- [Compiler front-end infrastructure](https://github.com/Eliah-Lakhin/lady-deirdre)
 
-- [coupling as co-explanation](https://explaining.software/archive/coupling-as-co-explanation/)
+- [Vanilla Prime: A simpler, more sustainable way of web development](https://github.com/morris/vanilla-prime)
 
-- [JavaScript interpreter, for EYG language, available on npm](https://eyg.run/news/editions/1/)
+- [Clay: high performance UI layout library in C](https://github.com/nicbarker/clay)
 
-- [Zig and Emulators](https://floooh.github.io/2024/08/24/zig-and-emulators.html)
+- [Go 1.23's new unique package](https://go.dev/blog/unique)
 
-- [Forgejo is now copyleft, just like Git](https://forgejo.org/2024-08-gpl/)
+- [Working with Protobuf in 2024](https://kmcd.dev/posts/working-with-protobuf-in-2024/)
 
-- [Geometric Search Trees](https://g-trees.github.io/g_trees/)
+- [MiniJinja: Learnings from Building a Template Engine in Rust](https://lucumr.pocoo.org/2024/8/27/minijinja/)
 
-- [ircpipe - netcat for IRC](https://gir.st/ircpipe.html)
+- [How we run migrations across 2,800 microservices](https://monzo.com/blog/how-we-run-migrations-across-2800-microservices)
 
-- [You’re probably using the wrong dictionary (2014)](https://jsomers.net/blog/dictionary)
+- [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
 
-- [AI Training Shouldn't Erase Authorship](https://justine.lol/history/)
+- [Using dtrace with SIP enabled](https://poweruser.blog/using-dtrace-with-sip-enabled-3826a352e64b)
 
-- [Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
+- [Bonavita 1L Electric Kettle Repair](https://sequentialread.com/bonavita-electric-kettle-repair/)
 
-- [OpenBSD has reached OpenBSD of Theseus](https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2)
+- [What programming language is in this <code> block?](https://shkspr.mobi/blog/2024/08/what-programming-language-is-in-this-code-block/)
 
-- [How to Build a Minimal ZFS NAS without Synology, QNAP, TrueNAS](https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/)
+- [In C, you can sizeof() a string constant?](https://subethasoftware.com/2024/08/26/in-c-you-can-sizeof-a-string-constant/)
 
-- [I sped up serde_json strings by 20%](https://purplesyringa.moe/blog/i-sped-up-serde-json-strings-by-20-percent/)
+- [Wrap your dependencies](https://thoughtbot.com/blog/wrap-your-dependencies)
 
-- [SQL Has Problems. We Can Fix Them: Pipe Syntax In SQL](https://storage.googleapis.com/gweb-research2023-media/pubtools/1004848.pdf)
+- [Evaluating a process manager](https://tinkering.xyz/evaluating-process-manager/)
 
-- [A symbol for the fediverse ⁂](https://symbol.fediverse.info/)
+- [There can't be only one](https://www.b-list.org/weblog/2024/aug/27/highlander-problem/)
 
-- [Is the Open Source Bubble about to Burst?](https://tarakiyee.com/is-the-open-source-bubble-about-to-burst/)
+- [You're not mature enough to release your first version as v1](https://www.jvt.me/posts/2024/08/26/v0/)
 
-- [Printing the web, part 2: HTML and CSS for printing books](https://www.michaelperrin.fr/blog/2019/11/printing-the-web-part-2-html-and-css-for-printing-books)
+- [WineHQ takes over stewardship of Mono](https://www.mono-project.com/)
 
-- [My IRC client runs on Kubernetes](https://xeiaso.net/blog/2024/k8s-irc-client/)
+- [Electric Clojure v3: Differential Dataflow for UI](https://youtube.com/watch?v=mP9e_FDjHLU)
