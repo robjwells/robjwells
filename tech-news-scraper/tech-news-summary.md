@@ -1,49 +1,47 @@
-- [CPython Compiler Hardening](http://nohlson.com/blog/CPython-Compiler-Hardening-Summer-Retrospective/)
+- [CIEL Is an Extended Lisp](http://ciel-lang.org/)
 
-- [ast-grep | structural search/rewrite tool for many languages](https://ast-grep.github.io/)
+- [Upgrading from GHC 8.10 to GHC 9.6 – An experience report](http://h2.jaguarpaw.co.uk/posts/ghc-8.10-9.6-experience-report/)
 
-- [Box64 and RISC-V in 2024](https://box86.org/2024/08/box64-and-risc-v-in-2024/)
+- [Ruby shebang behavior](https://agj.bearblog.dev/ruby-shebang-behavior/)
 
-- [Tesla’s TTPoE at Hot Chips 2024: Replacing TCP for low latency applications](https://chipsandcheese.com/2024/08/27/teslas-ttpoe-at-hot-chips-2024-replacing-tcp-for-low-latency-applications/)
+- [The impact of memory safety on sandboxing](https://alexgaynor.net/2024/aug/30/impact-of-memory-safety-on-sandboxing/)
 
-- [Rust dylib rabbit holes](https://davidlattimore.github.io/posts/2024/08/27/rust-dylib-rabbit-holes.html)
+- [GCRA: leaky buckets without the buckets](https://dotat.at/@/2024-08-30-gcra.html)
 
-- [better explanations through coupling](https://explaining.software/archive/better-explanations-through-coupling/)
+- [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
 
-- [Function Types in Nix](https://garnix.io/blog/typed-function-types)
+- [aicommit: become the world's laziest committer](https://github.com/coder/aicommit)
 
-- [Compiler front-end infrastructure](https://github.com/Eliah-Lakhin/lady-deirdre)
+- [Postiz - open-source social media scheduling tool](https://github.com/gitroomhq/postiz-app)
 
-- [Vanilla Prime: A simpler, more sustainable way of web development](https://github.com/morris/vanilla-prime)
+- [PREDIBAG: Predicate-Based Agents for AI](https://github.com/naver/tamgu/wiki/3.4-PREDIBAG:--Building-Modern-AI-Agents-in-Tamgu's-Prolog)
 
-- [Clay: high performance UI layout library in C](https://github.com/nicbarker/clay)
+- [Hurl 5.0.0, the Parallel Edition](https://hurl.dev/blog/2024/08/29/hurl-5.0.0-the-parallel-edition.html)
 
-- [Go 1.23's new unique package](https://go.dev/blog/unique)
+- [Bypassing airport security via SQL injection](https://ian.sh/tsa)
 
-- [Working with Protobuf in 2024](https://kmcd.dev/posts/working-with-protobuf-in-2024/)
+- [Post Quantum Cryptography for non-cryptographers](https://keymaterial.net/2024/08/30/pqc-for-non-cryptographers/)
 
-- [MiniJinja: Learnings from Building a Template Engine in Rust](https://lucumr.pocoo.org/2024/8/27/minijinja/)
+- [Retiring from the Rust for Linux project](https://lore.kernel.org/lkml/20240828211117.9422-1-wedsonaf@gmail.com/)
 
-- [How we run migrations across 2,800 microservices](https://monzo.com/blog/how-we-run-migrations-across-2800-microservices)
+- [My Software Bookshelf](https://olano.dev/blog/my-software-bookshelf/)
 
-- [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
+- [Book about Psychedelia, a Commodore 64 light synthesizer](https://psychedeliasyndro.me)
 
-- [Using dtrace with SIP enabled](https://poweruser.blog/using-dtrace-with-sip-enabled-3826a352e64b)
+- [Writing APIs in Rust (2022)](https://sled.rs/apis.html)
 
-- [Bonavita 1L Electric Kettle Repair](https://sequentialread.com/bonavita-electric-kettle-repair/)
+- [Current zlib-rs performance](https://trifectatech.org/blog/current-zlib-rs-performance/)
 
-- [What programming language is in this <code> block?](https://shkspr.mobi/blog/2024/08/what-programming-language-is-in-this-code-block/)
+- [Bubble Sort Is Not Robust Either](https://two-wrongs.com/bubble-sort-is-not-robust-either)
 
-- [In C, you can sizeof() a string constant?](https://subethasoftware.com/2024/08/26/in-c-you-can-sizeof-a-string-constant/)
+- [Honey, I shrunk {fmt}: bringing binary size to 14k and ditching the C++ runtime](https://vitaut.net/posts/2024/binary-size/)
 
-- [Wrap your dependencies](https://thoughtbot.com/blog/wrap-your-dependencies)
+- [End of the Road: An AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
 
-- [Evaluating a process manager](https://tinkering.xyz/evaluating-process-manager/)
+- [Elasticsearch is open source, again](https://www.elastic.co/blog/elasticsearch-is-open-source-again)
 
-- [There can't be only one](https://www.b-list.org/weblog/2024/aug/27/highlander-problem/)
+- [LLMs struggle to explain themselves](https://www.jonathanychan.com/blog/llms-struggle-to-explain-themselves/)
 
-- [You're not mature enough to release your first version as v1](https://www.jvt.me/posts/2024/08/26/v0/)
+- [How to write a programming language and shell in Go with 92% test coverage and instant CI/CD](https://www.youtube.com/watch?v=YzIiUjgnSsA)
 
-- [WineHQ takes over stewardship of Mono](https://www.mono-project.com/)
-
-- [Electric Clojure v3: Differential Dataflow for UI](https://youtube.com/watch?v=mP9e_FDjHLU)
+- [Delimited Continuations are all you need](https://www.youtube.com/watch?v=uRbqLGj_6mI)
