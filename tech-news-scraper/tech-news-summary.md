@@ -1,49 +1,49 @@
-- [CIEL Is an Extended Lisp](http://ciel-lang.org/)
+- [Departure Mono](https://departuremono.com/)
 
-- [Ruby shebang behavior](https://agj.bearblog.dev/ruby-shebang-behavior/)
+- [the limb-metaphor for simplicity](https://explaining.software/archive/the-limb-metaphor-for-simplicity/)
 
-- [Symbolics S-Geometry manual (1988)](https://archive.org/details/symbolics-s-geometry-manual)
+- [In Leak, Facebook Partner Brags About Listening to Your Phone’s Microphone to Serve Ads for Stuff You Mention](https://futurism.com/the-byte/facebook-partner-phones-listening-microphone)
 
-- [CHERI Myths: I don’t need CHERI if I have safe languages](https://cheriot.org/cheri/myths/2024/08/28/cheri-myths-safe-languages.html)
+- [retronews: TUI browser for HN and Lobsters emulating classical Usenet and mail readers](https://github.com/luke8086/retronews)
 
-- [GCRA: leaky buckets without the buckets](https://dotat.at/@/2024-08-30-gcra.html)
+- [Firefox will consider a Rust implementation of JPEG-XL](https://github.com/mozilla/standards-positions/pull/1064)
 
-- [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
+- [A TUI for sniffing network traffic using eBPF on Linux](https://github.com/pythops/oryx)
 
-- [Boox Palma Review: A Phone-Sized E-Ink Android Device that isn’t a Phone](https://ewritable.com/ereaders/boox-palma/review/)
+- [zigimports: Unused imports remover for Zig](https://github.com/tusharsadhwani/zigimports)
 
-- [aicommit: become the world's laziest committer](https://github.com/coder/aicommit)
+- [gRPC: 5 Years Later, Is It Still Worth It?](https://kostyay.com/grpc-5-years-later-is-it-still-worth-it-b181a3b2b73b)
 
-- [Hurl 5.0.0, the Parallel Edition](https://hurl.dev/blog/2024/08/29/hurl-5.0.0-the-parallel-edition.html)
+- [Landlock: From a security mechanism idea to a widely available implementation](https://landlock.io/talks/2024-06-06_landlock-article.pdf)
 
-- [SSH CA with device and identity attestation: ssh-tpm-ca-authority](https://linderud.dev/blog/ssh-ca-with-device-and-identity-attestation-ssh-tpm-ca-authority/)
+- [It's not Rust, it's FreeBSD (and LLVM)](https://lists.freebsd.org/archives/freebsd-hackers/2024-September/003597.html)
 
-- [My Software Bookshelf](https://olano.dev/blog/my-software-bookshelf/)
+- [The Fundamental Law Of Software Dependencies](https://matklad.github.io/2024/09/03/the-fundamental-law-of-dependencies.html)
 
-- [Crash the GC with Random Values in unsafe.Pointers](https://philpearl.github.io/post/dumb_ways_to_die_random_pointers/)
+- [Generating Chess Puzzles Fast with Rust and Stockfish](https://mbuffett.com/posts/generating_chess_puzzles/)
 
-- [My first experience with Gleam Language](https://pliutau.com/my-first-experience-with-gleam-lang/)
+- [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/)
 
-- [Enabling DCI.DbC on a Jasper Lake NUC](https://reflexive.space/jsl-dci/)
+- [EUCLEAK: Side-Channel Attack on the YubiKey 5 Series](https://ninjalab.io/wp-content/uploads/2024/09/20240903_eucleak.pdf)
 
-- [This month in Servo: tabbed browsing, Windows buffs, devtools, and more](https://servo.org/blog/2024/08/31/this-month-in-servo/)
+- [Is this trait sealed, or not sealed — that is the question](https://predr.ag/blog/is-this-trait-sealed-or-not-sealed/)
 
-- [Writing APIs in Rust (2022)](https://sled.rs/apis.html)
+- [Setting up a cache server for apt packages](https://qmacro.org/blog/posts/2024/09/03/setting-up-a-cache-server-for-apt-packages/)
 
-- [Heart of dark mode: done, and still in progress](https://tailscale.com/blog/heart-of-dark-mode)
+- [How to deadlock Tokio application in Rust with just a single mutex](https://turso.tech/blog/how-to-deadlock-tokio-application-in-rust-with-just-a-single-mutex)
 
-- [PlayStation 2 GS emulation – the final frontier of Vulkan compute emulation](https://themaister.net/blog/2024/07/03/playstation-2-gs-emulation-the-final-frontier-of-vulkan-compute-emulation/)
+- [Python Programmers' Experience](https://two-wrongs.com/python-programmers-experience)
 
-- [Current zlib-rs performance](https://trifectatech.org/blog/current-zlib-rs-performance/)
+- [Terminfo, at this point in time, is a net-negative on the terminal ecosystem](https://twoot.site/@bean/113056942625234032)
 
-- [Bubble Sort Is Not Robust Either](https://two-wrongs.com/bubble-sort-is-not-robust-either)
+- [In practice, abstractions hide their underlying details](https://utcc.utoronto.ca/~cks/space/blog/tech/AbstractionsHideUnderlyingDetails)
 
-- [Honey, I shrunk {fmt}: bringing binary size to 14k and ditching the C++ runtime](https://vitaut.net/posts/2024/binary-size/)
+- [Implementation of Functional Languages Using Custom Hardware (1985)](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-81.html)
 
-- [Lesser-known operators in C#](https://www.alogoulogoi.com/post/2024/lesser-known-operators-in-cs.html)
+- [LSP: the good, the bad, and the ugly](https://www.michaelpj.com/blog/2024/09/03/lsp-good-bad-ugly.html)
 
-- [End of the Road: An AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
+- [Swift creator Chris Lattner on Mojo & Roc](https://www.youtube.com/watch?v=ENviIxDTmUA)
 
-- [LLMs struggle to explain themselves](https://www.jonathanychan.com/blog/llms-struggle-to-explain-themselves/)
+- [YubiKey Security Advisory YSA-2024-03](https://www.yubico.com/support/security-advisories/ysa-2024-03/)
 
-- [How to write a programming language and shell in Go with 92% test coverage and instant CI/CD](https://www.youtube.com/watch?v=YzIiUjgnSsA)
+- [Yubikey is the Digital Seat Belt We Need Today](https://www.zagaja.com/2024/09/yubikey-digital-seatbelt/)
