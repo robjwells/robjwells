@@ -1,49 +1,47 @@
-- [Departure Mono](https://departuremono.com/)
+- [Swift is a more convenient Rust](http://blog.namangoel.com/swift-is-the-more-convenient-rust)
 
-- [the limb-metaphor for simplicity](https://explaining.software/archive/the-limb-metaphor-for-simplicity/)
+- [MNT Pocket Reform - Unboxing and First Impressions](http://ratfactor.com/mnt-pocket-reform/first)
 
-- [In Leak, Facebook Partner Brags About Listening to Your Phone’s Microphone to Serve Ads for Stuff You Mention](https://futurism.com/the-byte/facebook-partner-phones-listening-microphone)
+- [Kid Pix - The Early Years](http://red-green-blue.com/kid-pix-the-early-years)
 
-- [retronews: TUI browser for HN and Lobsters emulating classical Usenet and mail readers](https://github.com/luke8086/retronews)
+- [Why I started livestreaming as a Rust developer?](https://blog.orhun.dev/livestreaming/)
 
-- [Firefox will consider a Rust implementation of JPEG-XL](https://github.com/mozilla/standards-positions/pull/1064)
+- [“Unstripping” binaries: Restoring debugging information in GDB with Pwndbg](https://blog.trailofbits.com/2024/09/06/unstripping-binaries-restoring-debugging-information-in-gdb-with-pwndbg/)
 
-- [A TUI for sniffing network traffic using eBPF on Linux](https://github.com/pythops/oryx)
+- [Porting systemd to musl libc-powered Linux](https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/)
 
-- [zigimports: Unused imports remover for Zig](https://github.com/tusharsadhwani/zigimports)
+- [Test Ad Block](https://d3ward.github.io/toolz/adblock)
 
-- [gRPC: 5 Years Later, Is It Still Worth It?](https://kostyay.com/grpc-5-years-later-is-it-still-worth-it-b181a3b2b73b)
+- [Exercism has 2M users but no money in the bank](https://exercism.org/blog/september-2024-restructure)
 
-- [Landlock: From a security mechanism idea to a widely available implementation](https://landlock.io/talks/2024-06-06_landlock-article.pdf)
+- [macro-forth: Forth implemented in compile-time rust macros](https://github.com/zdimension/macro-forth)
 
-- [It's not Rust, it's FreeBSD (and LLVM)](https://lists.freebsd.org/archives/freebsd-hackers/2024-September/003597.html)
+- [Intent to unship: HTTP/2 Push](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vU9hJg343U8/m/4cZsHz7TAQAJ)
 
-- [The Fundamental Law Of Software Dependencies](https://matklad.github.io/2024/09/03/the-fundamental-law-of-dependencies.html)
+- [Why is Browser Observability Hard | Hazel Weakly](https://hazelweakly.me/blog/why-is-browser-observability-hard/)
 
-- [Generating Chess Puzzles Fast with Rust and Stockfish](https://mbuffett.com/posts/generating_chess_puzzles/)
+- [Nginx Has Moved to GitHub](https://mailman.nginx.org/pipermail/nginx-announce/2024/ITL3AOQSAJANFJXMM3VOVOIGOUADWFFK.html)
 
-- [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/)
+- [What’s new in C++26 (part 1)](https://mariusbancila.ro/blog/2024/09/06/whats-new-in-c26-part-1/)
 
-- [EUCLEAK: Side-Channel Attack on the YubiKey 5 Series](https://ninjalab.io/wp-content/uploads/2024/09/20240903_eucleak.pdf)
+- [Try to Fix It One Level Deeper](https://matklad.github.io/2024/09/06/fix-one-level-deeper.html)
 
-- [Is this trait sealed, or not sealed — that is the question](https://predr.ag/blog/is-this-trait-sealed-or-not-sealed/)
+- [Windows 3.11 on QEMU 5.2.0](https://popey.com/blog/2024/09/windows-3.11-on-qemu-5.2.0/)
 
-- [Setting up a cache server for apt packages](https://qmacro.org/blog/posts/2024/09/03/setting-up-a-cache-server-for-apt-packages/)
+- [Guile Hoot v0.5.0 released](https://spritely.institute/news/guile-hoot-v050-released.html)
 
-- [How to deadlock Tokio application in Rust with just a single mutex](https://turso.tech/blog/how-to-deadlock-tokio-application-in-rust-with-just-a-single-mutex)
+- [OAuth from First Principles](https://stack-auth.com/blog/oauth-from-first-principles)
 
-- [Python Programmers' Experience](https://two-wrongs.com/python-programmers-experience)
+- [Frustrating interactions with the OCaml ecosystem while developing a synthesizer library](https://www.gridbugs.org/frustrating-interactions-with-the-ocaml-ecosystem-while-developing-a-synthesizer-library/)
 
-- [Terminfo, at this point in time, is a net-negative on the terminal ecosystem](https://twoot.site/@bean/113056942625234032)
+- [All maps are wrong](https://www.hereandthere.club/post/all-maps-are-wrong)
 
-- [In practice, abstractions hide their underlying details](https://utcc.utoronto.ca/~cks/space/blog/tech/AbstractionsHideUnderlyingDetails)
+- [Rust on RP2350](https://www.raspberrypi.com/news/rust-on-rp2350/)
 
-- [Implementation of Functional Languages Using Custom Hardware (1985)](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-81.html)
+- [The Memory Wall: Past, Present, and Future of DRAM](https://www.semianalysis.com/p/the-memory-wall)
 
-- [LSP: the good, the bad, and the ugly](https://www.michaelpj.com/blog/2024/09/03/lsp-good-bad-ugly.html)
+- [The Moral Implications of Being a Moderately Successful Computer Scientist and a Woman](https://www.sigops.org/2024/the-moral-implications-of-being-a-moderately-successful-computer-scientist-and-a-woman/)
 
-- [Swift creator Chris Lattner on Mojo & Roc](https://www.youtube.com/watch?v=ENviIxDTmUA)
+- [Asynchronous IO: the next billion-dollar mistake?](https://yorickpeterse.com/articles/asynchronous-io-the-next-billion-dollar-mistake/)
 
-- [YubiKey Security Advisory YSA-2024-03](https://www.yubico.com/support/security-advisories/ysa-2024-03/)
-
-- [Yubikey is the Digital Seat Belt We Need Today](https://www.zagaja.com/2024/09/yubikey-digital-seatbelt/)
+- [Customizing the NYT Games App for my Wedding](https://youtube.com/watch?v=vohvFpjNBz8)
