@@ -1,47 +1,47 @@
-- [Swift is a more convenient Rust](http://blog.namangoel.com/swift-is-the-more-convenient-rust)
+- [Client-side, ad-free dev utils (encoder/decoder, json format/minify, pivot, time convertor, diffs, QR generator, etc.)](http://utils.foo)
 
-- [MNT Pocket Reform - Unboxing and First Impressions](http://ratfactor.com/mnt-pocket-reform/first)
+- [Signatures are like backups](https://alexgaynor.net/2024/sep/09/signatures-are-like-backups/)
 
-- [Kid Pix - The Early Years](http://red-green-blue.com/kid-pix-the-early-years)
+- [Pico SDR](https://blog.porucha.net/2024/pico-sdr/index.html)
 
-- [Why I started livestreaming as a Rust developer?](https://blog.orhun.dev/livestreaming/)
+- [Random access string compression with FSST and Rust](https://blog.spiraldb.com/compressing-strings-with-fsst/)
 
-- [“Unstripping” binaries: Restoring debugging information in GDB with Pwndbg](https://blog.trailofbits.com/2024/09/06/unstripping-binaries-restoring-debugging-information-in-gdb-with-pwndbg/)
+- [Windows NT vs. Unix: A design comparison](https://blogsystem5.substack.com/p/windows-nt-vs-unix-design)
 
-- [Porting systemd to musl libc-powered Linux](https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/)
+- [What is the best pointer tagging method?](https://coredumped.dev/2024/09/09/what-is-the-best-pointer-tagging-method/)
 
-- [Test Ad Block](https://d3ward.github.io/toolz/adblock)
+- [QUIC is not Quick Enough over Fast Internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
 
-- [Exercism has 2M users but no money in the bank](https://exercism.org/blog/september-2024-restructure)
+- [Announcing simkube v1.0: Record-and-replay Kubernetes simulator](https://github.com/acrlabs/simkube)
 
-- [macro-forth: Forth implemented in compile-time rust macros](https://github.com/zdimension/macro-forth)
+- [CAR: Copy-on-write Archive](https://github.com/teknoraver/car)
 
-- [Intent to unship: HTTP/2 Push](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vU9hJg343U8/m/4cZsHz7TAQAJ)
+- [Just for Fun. No, Really](https://justforfunnoreally.dev/)
 
-- [Why is Browser Observability Hard | Hazel Weakly](https://hazelweakly.me/blog/why-is-browser-observability-hard/)
+- [not quite buildless](https://liquidex.house/programming/blog/buildsome)
 
-- [Nginx Has Moved to GitHub](https://mailman.nginx.org/pipermail/nginx-announce/2024/ITL3AOQSAJANFJXMM3VOVOIGOUADWFFK.html)
+- [Bending Zed to render my beautiful fonts with Nix](https://nazrin.limited/phame/live/1/post/1/bending_zed_to_render_my_beautiful_fonts_with_nix/)
 
-- [What’s new in C++26 (part 1)](https://mariusbancila.ro/blog/2024/09/06/whats-new-in-c26-part-1/)
+- [The State of ES5 on the Web](https://philipwalton.com/articles/the-state-of-es5-on-the-web/)
 
-- [Try to Fix It One Level Deeper](https://matklad.github.io/2024/09/06/fix-one-level-deeper.html)
+- [Nix 2.24+ is vulnerable to (remote) privilege escalation](https://puckipedia.com/7hkj-98sq/qixt)
 
-- [Windows 3.11 on QEMU 5.2.0](https://popey.com/blog/2024/09/windows-3.11-on-qemu-5.2.0/)
+- [Reclaim the stack: an Heroku replacement](https://reclaim-the-stack.com/)
 
-- [Guile Hoot v0.5.0 released](https://spritely.institute/news/guile-hoot-v050-released.html)
+- [Managing dotfiles with chezmoi](https://stoddart.github.io/2024/09/08/managing-dotfiles-with-chezmoi.html)
 
-- [OAuth from First Principles](https://stack-auth.com/blog/oauth-from-first-principles)
+- [proctrace - a high level profiler for process lifecycle events](https://tinkering.xyz/proctrace/)
 
-- [Frustrating interactions with the OCaml ecosystem while developing a synthesizer library](https://www.gridbugs.org/frustrating-interactions-with-the-ocaml-ecosystem-while-developing-a-synthesizer-library/)
+- [The Insecurity of Debian](https://unix.foo/posts/insecurity-of-debian/)
 
-- [All maps are wrong](https://www.hereandthere.club/post/all-maps-are-wrong)
+- [Nobody Cares About Security](https://www.adatosystems.com/2024/09/09/nobody-cares-about-security/)
 
-- [Rust on RP2350](https://www.raspberrypi.com/news/rust-on-rp2350/)
+- [Apple Event for September 9th, 2024](https://www.apple.com/apple-events/)
 
-- [The Memory Wall: Past, Present, and Future of DRAM](https://www.semianalysis.com/p/the-memory-wall)
+- [Possibly all the ways to get loop-finding in graphs wrong](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/findloop/)
 
-- [The Moral Implications of Being a Moderately Successful Computer Scientist and a Woman](https://www.sigops.org/2024/the-moral-implications-of-being-a-moderately-successful-computer-scientist-and-a-woman/)
+- [Redox OS 0.9.0](https://www.redox-os.org/news/release-0.9.0/)
 
-- [Asynchronous IO: the next billion-dollar mistake?](https://yorickpeterse.com/articles/asynchronous-io-the-next-billion-dollar-mistake/)
+- [The stacking workflow](https://www.stacking.dev/)
 
-- [Customizing the NYT Games App for my Wedding](https://youtube.com/watch?v=vohvFpjNBz8)
+- [Linking can be fast (if you cheat): Roc's Surgical Linker](https://youtu.be/SS_lQAjBVtk)
