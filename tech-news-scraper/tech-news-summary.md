@@ -1,47 +1,49 @@
-- [Client-side, ad-free dev utils (encoder/decoder, json format/minify, pivot, time convertor, diffs, QR generator, etc.)](http://utils.foo)
+- [Always support compressed response in an API service](http://ashishb.net/all/always-support-compressed-response-in-an-api-service/)
 
-- [Signatures are like backups](https://alexgaynor.net/2024/sep/09/signatures-are-like-backups/)
+- [How I behave](http://blog.syncpup.com/posts/how-i-behave.html)
 
-- [Pico SDR](https://blog.porucha.net/2024/pico-sdr/index.html)
+- [Jonathan Rees on "What is Object-Oriented?" (2001)](http://mumble.net/~jar/articles/oo.html)
 
-- [Random access string compression with FSST and Rust](https://blog.spiraldb.com/compressing-strings-with-fsst/)
+- [What’s in an e-graph?](https://bernsteinbear.com/blog/whats-in-an-egraph/)
 
-- [Windows NT vs. Unix: A design comparison](https://blogsystem5.substack.com/p/windows-nt-vs-unix-design)
+- [The first release candidate of FreeCAD 1.0 is out](https://blog.freecad.org/2024/09/10/the-first-release-candidate-of-freecad-1-0-is-out/)
 
-- [What is the best pointer tagging method?](https://coredumped.dev/2024/09/09/what-is-the-best-pointer-tagging-method/)
+- [Remix's concurrent submissions are fundamentally flawed (without causal ordering) - Dashbit Blog](https://dashbit.co/blog/remix-concurrent-submissions-flawed)
 
-- [QUIC is not Quick Enough over Fast Internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
+- [JSR and Deno: Final Review](https://dbushell.com/2024/08/09/jsr-and-deno-final-review/)
 
-- [Announcing simkube v1.0: Record-and-replay Kubernetes simulator](https://github.com/acrlabs/simkube)
+- [Performance Improvements in .NET 9](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-9/)
 
-- [CAR: Copy-on-write Archive](https://github.com/teknoraver/car)
+- [Vulnerability Disclosure of Feeld (dating app)](https://fortbridge.co.uk/research/feeld-dating-app-nudes-data-publicly-available/)
 
-- [Just for Fun. No, Really](https://justforfunnoreally.dev/)
+- [Ergo: Erlang-inspired event driven actor framework in Go](https://github.com/ergo-services/ergo)
 
-- [not quite buildless](https://liquidex.house/programming/blog/buildsome)
+- [Wallops: A modern IRC client for classic Mac OS](https://jcs.org/wallops)
 
-- [Bending Zed to render my beautiful fonts with Nix](https://nazrin.limited/phame/live/1/post/1/bending_zed_to_render_my_beautiful_fonts_with_nix/)
+- [Reasons I still love the fish shell](https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/)
 
-- [The State of ES5 on the Web](https://philipwalton.com/articles/the-state-of-es5-on-the-web/)
+- [The First HTML LSP That Reports Syntax Errors](https://kristoff.it/blog/first-html-lsp/)
 
-- [Nix 2.24+ is vulnerable to (remote) privilege escalation](https://puckipedia.com/7hkj-98sq/qixt)
+- [We spent $20 to achieve RCE and accidentally became the admins of .MOBI](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
 
-- [Reclaim the stack: an Heroku replacement](https://reclaim-the-stack.com/)
+- [Conditionally Disabling Code with Comptime in Zig](https://mitchellh.com/writing/zig-comptime-conditional-disable)
 
-- [Managing dotfiles with chezmoi](https://stoddart.github.io/2024/09/08/managing-dotfiles-with-chezmoi.html)
+- [OpenAI O1 Model](https://openai.com/index/learning-to-reason-with-llms/)
 
-- [proctrace - a high level profiler for process lifecycle events](https://tinkering.xyz/proctrace/)
+- [Factor 0.100 now available](https://re.factorcode.org/2024/09/factor-0-100-now-available.html)
 
-- [The Insecurity of Debian](https://unix.foo/posts/insecurity-of-debian/)
+- [Ruffle: Optimisations, Text Input, Tab Focusing and More](https://ruffle.rs/blog/2024/09/12/optimisations-text-more)
 
-- [Nobody Cares About Security](https://www.adatosystems.com/2024/09/09/nobody-cares-about-security/)
+- [RIPE Atlas probes, the world's largest Internet monitoring system](https://www.afnic.fr/en/observatory-and-resources/expert-papers/ripe-atlas-probes-the-worlds-largest-internet-monitoring-system/)
 
-- [Apple Event for September 9th, 2024](https://www.apple.com/apple-events/)
+- [Fediverse Discovery Providers](https://www.fediscovery.org/)
 
-- [Possibly all the ways to get loop-finding in graphs wrong](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/findloop/)
+- [Porting C to Rust for a Fast and Safe AV1 Media Decoder](https://www.memorysafety.org/blog/porting-c-to-rust-for-av1/)
 
-- [Redox OS 0.9.0](https://www.redox-os.org/news/release-0.9.0/)
+- [Optimizing rav1d, an AV1 Decoder in Rust](https://www.memorysafety.org/blog/rav1d-performance-optimization/)
 
-- [The stacking workflow](https://www.stacking.dev/)
+- [Proposal for Emoji: Eye Bags Face](https://www.unicode.org/L2/L2023/23260-eye-bags-face-emoji.pdf)
 
-- [Linking can be fast (if you cheat): Roc's Surgical Linker](https://youtu.be/SS_lQAjBVtk)
+- [Making libjson RFC 8259 compilant](https://xnacly.me/posts/2024/libjson/)
+
+- [I Was Wrong About Open Source](https://yaak.app/blog/now-open-source)
