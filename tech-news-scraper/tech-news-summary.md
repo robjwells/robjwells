@@ -1,49 +1,47 @@
-- [Always support compressed response in an API service](http://ashishb.net/all/always-support-compressed-response-in-an-api-service/)
+- [How Go Tests "go test"](https://atlasgo.io/blog/2024/09/09/how-go-tests-go-test)
 
-- [How I behave](http://blog.syncpup.com/posts/how-i-behave.html)
+- [Race conditions in Linux Kernel perf events](https://binarygecko.com/race-conditions-in-linux-kernel-perf-events/)
 
-- [Jonathan Rees on "What is Object-Oriented?" (2001)](http://mumble.net/~jar/articles/oo.html)
+- [Rust error handling is perfect actually](https://bitfieldconsulting.com/posts/rust-errors-option-result)
 
-- [What’s in an e-graph?](https://bernsteinbear.com/blog/whats-in-an-egraph/)
+- [LLMs don't know what they are talking about](https://danthegoodman.substack.com/p/notes-llms-dont-know-what-they-are)
 
-- [The first release candidate of FreeCAD 1.0 is out](https://blog.freecad.org/2024/09/10/the-first-release-candidate-of-freecad-1-0-is-out/)
+- [Say hello to blog.haskell.org](https://discourse.haskell.org/t/say-hello-to-blog-haskell-org/10355)
 
-- [Remix's concurrent submissions are fundamentally flawed (without causal ordering) - Dashbit Blog](https://dashbit.co/blog/remix-concurrent-submissions-flawed)
+- [LiveView Native Is Here](https://dockyard.com/blog/2024/09/09/liveview-native-is-here)
 
-- [JSR and Deno: Final Review](https://dbushell.com/2024/08/09/jsr-and-deno-final-review/)
+- [Creating your own federated microblog](https://fedify.dev/tutorial/microblog)
 
-- [Performance Improvements in .NET 9](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-9/)
+- [MiniLang: A type-safe C successor](https://github.com/NICUP14/MiniLang)
 
-- [Vulnerability Disclosure of Feeld (dating app)](https://fortbridge.co.uk/research/feeld-dating-app-nudes-data-publicly-available/)
+- [A fast full-text cli reader (works also with lobste.rs articles content)](https://github.com/piqoni/cast-text)
 
-- [Ergo: Erlang-inspired event driven actor framework in Go](https://github.com/ergo-services/ergo)
+- [Tiny Thumbnail Hashes with AVIF](https://juliobbv.com/avifhash.html)
 
-- [Wallops: A modern IRC client for classic Mac OS](https://jcs.org/wallops)
+- [Falsehoods programmers believe about TCP](https://lwn.net/Articles/990281/)
 
-- [Reasons I still love the fish shell](https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/)
+- [Linux 6.11 has been released](https://lwn.net/Articles/990307/)
 
-- [The First HTML LSP That Reports Syntax Errors](https://kristoff.it/blog/first-html-lsp/)
+- [Something went wrong](https://molily.de/something-went-wrong/)
 
-- [We spent $20 to achieve RCE and accidentally became the admins of .MOBI](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
+- [A (more) Modern CSS Reset](https://piccalil.li/blog/a-more-modern-css-reset/)
 
-- [Conditionally Disabling Code with Comptime in Zig](https://mitchellh.com/writing/zig-comptime-conditional-disable)
+- [AT&T’s CRISP Hobbits](https://thechipletter.substack.com/p/at-and-ts-crisp-hobbits)
 
-- [OpenAI O1 Model](https://openai.com/index/learning-to-reason-with-llms/)
+- [Implementing closures and first-class functions in WebAssembly](https://thestackframe.dev/implementing-closures-and-first-class-functions-in-webassembly/)
 
-- [Factor 0.100 now available](https://re.factorcode.org/2024/09/factor-0-100-now-available.html)
+- [Fractran](https://wiki.xxiivv.com/site/fractran.html)
 
-- [Ruffle: Optimisations, Text Input, Tab Focusing and More](https://ruffle.rs/blog/2024/09/12/optimisations-text-more)
+- [Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra](https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/)
 
-- [RIPE Atlas probes, the world's largest Internet monitoring system](https://www.afnic.fr/en/observatory-and-resources/expert-papers/ripe-atlas-probes-the-worlds-largest-internet-monitoring-system/)
+- [The HTTP QUERY Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-05.html)
 
-- [Fediverse Discovery Providers](https://www.fediscovery.org/)
+- [18 Months with a Framework 13](https://www.projectgus.com/2024/09/18-months-with-framework-laptop/)
 
-- [Porting C to Rust for a Fast and Safe AV1 Media Decoder](https://www.memorysafety.org/blog/porting-c-to-rust-for-av1/)
+- [Will we be writing Hare in 2099?](https://www.youtube.com/watch?v=42y2Q9io3Xs)
 
-- [Optimizing rav1d, an AV1 Decoder in Rust](https://www.memorysafety.org/blog/rav1d-performance-optimization/)
+- [Visiting Area 5150: Investigating a PC Demo](https://www.youtube.com/watch?v=VWQB6HmqKig)
 
-- [Proposal for Emoji: Eye Bags Face](https://www.unicode.org/L2/L2023/23260-eye-bags-face-emoji.pdf)
+- [Saving Voyager 1](https://www.youtube.com/watch?v=dF_9YcehCZo)
 
-- [Making libjson RFC 8259 compilant](https://xnacly.me/posts/2024/libjson/)
-
-- [I Was Wrong About Open Source](https://yaak.app/blog/now-open-source)
+- [Turning Disposable Vapes into a Fast Charge Power Bank](https://youtu.be/ehp23hrrEHY)
