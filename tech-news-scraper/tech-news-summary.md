@@ -1,47 +1,49 @@
-- [How Go Tests "go test"](https://atlasgo.io/blog/2024/09/09/how-go-tests-go-test)
+- [Why are Black Boxes so Hard to Reuse? (1994)](http://web.archive.org/web/20010707044137/http://www.parc.xerox.com/spl/projects/oi/towards-talk/transcript.html)
 
-- [Race conditions in Linux Kernel perf events](https://binarygecko.com/race-conditions-in-linux-kernel-perf-events/)
+- [TLA⁺ is more than a DSL for breadth-first search](https://ahelwer.ca/post/2024-09-18-tla-bfs-dsl/)
 
-- [Rust error handling is perfect actually](https://bitfieldconsulting.com/posts/rust-errors-option-result)
+- [Announcing General Availability of the AWS SDK for Swift](https://aws.amazon.com/blogs/developer/announcing-general-availability-of-the-aws-sdk-for-swift/)
 
-- [LLMs don't know what they are talking about](https://danthegoodman.substack.com/p/notes-llms-dont-know-what-they-are)
+- [Using SimKube 1.0: Comparing Kubernetes Cluster Autoscaler and Karpenter](https://blog.appliedcomputing.io/p/using-simkube-10-comparing-kubernetes)
 
-- [Say hello to blog.haskell.org](https://discourse.haskell.org/t/say-hello-to-blog-haskell-org/10355)
+- [Goodhart's Law in Software Engineering](https://buttondown.com/hillelwayne/archive/goodharts-law-in-software-engineering/)
 
-- [LiveView Native Is Here](https://dockyard.com/blog/2024/09/09/liveview-native-is-here)
+- [Understanding Memory Ordering in Rust](https://emschwartz.me/understanding-memory-ordering-in-rust/)
 
-- [Creating your own federated microblog](https://fedify.dev/tutorial/microblog)
+- [transparent like frosted glass](https://explaining.software/archive/transparent-like-frosted-glass/)
 
-- [MiniLang: A type-safe C successor](https://github.com/NICUP14/MiniLang)
+- [dmg-acid2: The Acid2 test, now for the original Game Boy](https://github.com/mattcurrie/dmg-acid2)
 
-- [A fast full-text cli reader (works also with lobste.rs articles content)](https://github.com/piqoni/cast-text)
+- [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)
 
-- [Tiny Thumbnail Hashes with AVIF](https://juliobbv.com/avifhash.html)
+- [That Time Berners-Lee Got Knocked Down to a Poster Session [2015]](https://hapgood.us/2015/04/21/that-time-berners-lee-got-knocked-down-to-a-poster-session/)
 
-- [Falsehoods programmers believe about TCP](https://lwn.net/Articles/990281/)
+- [Turn your blog into a book](https://jorge.olano.dev/blog/turn-your-blog-into-an-ebook/)
 
-- [Linux 6.11 has been released](https://lwn.net/Articles/990307/)
+- [Zine: A Static Site Generator Written in Zig](https://kristoff.it/blog/zine-ssg-zig/)
 
-- [Something went wrong](https://molily.de/something-went-wrong/)
+- [Update on an upcoming German broadcasting story about Tor/Onion Services](https://lists.torproject.org/pipermail/tor-relays/2024-September/021855.html)
 
-- [A (more) Modern CSS Reset](https://piccalil.li/blog/a-more-modern-css-reset/)
+- [A Signal run a day keeps the un-link away](https://michael.stapelberg.ch/posts/2024-09-18-a-signal-run-a-day-keeps-the-un-link-away/)
 
-- [AT&T’s CRISP Hobbits](https://thechipletter.substack.com/p/at-and-ts-crisp-hobbits)
+- [retrowin32: redoing syscalls](https://neugierig.org/software/blog/2024/09/retrowin32-syscalls.html)
 
-- [Implementing closures and first-class functions in WebAssembly](https://thestackframe.dev/implementing-closures-and-first-class-functions-in-webassembly/)
+- [Improving rendering performance with CSS content-visibility](https://nolanlawson.com/2024/09/18/improving-rendering-performance-with-css-content-visibility/)
 
-- [Fractran](https://wiki.xxiivv.com/site/fractran.html)
+- [Clojure Brain Teasers](https://pragprog.com/titles/mmclobrain/clojure-brain-teasers/)
 
-- [Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra](https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/)
+- [Ratchets in software development](https://qntm.org/ratchet)
 
-- [The HTTP QUERY Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-05.html)
+- [Introducing GNOME 47, “Denver”](https://release.gnome.org/47/)
 
-- [18 Months with a Framework 13](https://www.projectgus.com/2024/09/18-months-with-framework-laptop/)
+- [Restish](https://rest.sh/)
 
-- [Will we be writing Hare in 2099?](https://www.youtube.com/watch?v=42y2Q9io3Xs)
+- [Generative AI Has a Visual Plagiarism Problem](https://spectrum.ieee.org/midjourney-copyright)
 
-- [Visiting Area 5150: Investigating a PC Demo](https://www.youtube.com/watch?v=VWQB6HmqKig)
+- [Wonderful vi](https://world.hey.com/dhh/wonderful-vi-a1d034d3)
 
-- [Saving Voyager 1](https://www.youtube.com/watch?v=dF_9YcehCZo)
+- [Stop using SERIAL in Postgres](https://www.naiyerasif.com/post/2024/09/04/stop-using-serial-in-postgres/)
 
-- [Turning Disposable Vapes into a Fast Charge Power Bank](https://youtu.be/ehp23hrrEHY)
+- [Announcing Swift 6](https://www.swift.org/blog/announcing-swift-6/)
+
+- [Zig Devlog](https://ziglang.org/devlog/)
