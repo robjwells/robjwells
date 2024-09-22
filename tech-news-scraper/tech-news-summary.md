@@ -1,49 +1,49 @@
-- [Why are Black Boxes so Hard to Reuse? (1994)](http://web.archive.org/web/20010707044137/http://www.parc.xerox.com/spl/projects/oi/towards-talk/transcript.html)
+- [Arithmazium](http://www.arithmazium.org/index.html)
 
-- [TLA⁺ is more than a DSL for breadth-first search](https://ahelwer.ca/post/2024-09-18-tla-bfs-dsl/)
+- [Elite 40th Anniversary source code release](http://www.elitehomepage.org/fourty/index.htm)
 
-- [Announcing General Availability of the AWS SDK for Swift](https://aws.amazon.com/blogs/developer/announcing-general-availability-of-the-aws-sdk-for-swift/)
+- [Crushing Castlevania with Antithesis](https://antithesis.com/blog/castlevania/)
 
-- [Using SimKube 1.0: Comparing Kubernetes Cluster Autoscaler and Karpenter](https://blog.appliedcomputing.io/p/using-simkube-10-comparing-kubernetes)
+- [4 exploits, 1 bug: exploiting CVE-2024-20017 4 different ways](https://blog.coffinsec.com/0day/2024/08/30/exploiting-CVE-2024-20017-four-different-ways.html)
 
-- [Goodhart's Law in Software Engineering](https://buttondown.com/hillelwayne/archive/goodharts-law-in-software-engineering/)
+- [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/)
 
-- [Understanding Memory Ordering in Rust](https://emschwartz.me/understanding-memory-ordering-in-rust/)
+- [Portable, dynamically linked packages on Linux](https://brioche.dev/blog/portable-dynamically-linked-pacakges-on-linux/)
 
-- [transparent like frosted glass](https://explaining.software/archive/transparent-like-frosted-glass/)
+- [Languages with Alternative "Hello World" Programs](https://dgaston.net/writing/alternative-hello-world/)
 
-- [dmg-acid2: The Acid2 test, now for the original Game Boy](https://github.com/mattcurrie/dmg-acid2)
+- [How Discord Reduced Websocket Traffic by 40%](https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent)
 
-- [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)
+- [Linux/4004](https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004)
 
-- [That Time Berners-Lee Got Knocked Down to a Poster Session [2015]](https://hapgood.us/2015/04/21/that-time-berners-lee-got-knocked-down-to-a-poster-session/)
+- [The lost language extensions of MetaWare's High C Compiler](https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware's-high-c-compiler)
 
-- [Turn your blog into a book](https://jorge.olano.dev/blog/turn-your-blog-into-an-ebook/)
+- [Kubed: Kubernetes, Emacs, done](https://eshelyaron.com/kubed.html)
 
-- [Zine: A Static Site Generator Written in Zig](https://kristoff.it/blog/zine-ssg-zig/)
+- [Is AI a Silver Bullet?](https://ian-cooper.writeas.com/is-ai-a-silver-bullet)
 
-- [Update on an upcoming German broadcasting story about Tor/Onion Services](https://lists.torproject.org/pipermail/tor-relays/2024-September/021855.html)
+- [Always use an enum for your status field](https://jmduke.com/posts/post/enums/)
 
-- [A Signal run a day keeps the un-link away](https://michael.stapelberg.ch/posts/2024-09-18-a-signal-run-a-day-keeps-the-un-link-away/)
+- [Gaining Access to Anyones Browser without Them Even Visiting a Website](https://kibty.town/blog/arc/)
 
-- [retrowin32: redoing syscalls](https://neugierig.org/software/blog/2024/09/retrowin32-syscalls.html)
+- [Evolving a codebase at Google Scale](https://laurent.le-brun.eu/blog/evolving-a-codebase-at-google-scale)
 
-- [Improving rendering performance with CSS content-visibility](https://nolanlawson.com/2024/09/18/improving-rendering-performance-with-css-content-visibility/)
+- [How I batch apply and save one-liners](https://lmno.lol/alvaro/how-i-batch-apply-and-save-one-liners)
 
-- [Clojure Brain Teasers](https://pragprog.com/titles/mmclobrain/clojure-brain-teasers/)
+- [Antonymph: an audiovisual web experience that uses your browser as the medium](https://lyra.horse/antonymph)
 
-- [Ratchets in software development](https://qntm.org/ratchet)
+- [Nine Rules for SIMD Acceleration of Your Rust Code (Part 1)](https://medium.com/towards-data-science/nine-rules-for-simd-acceleration-of-your-rust-code-part-1-c16fe639ce21)
 
-- [Introducing GNOME 47, “Denver”](https://release.gnome.org/47/)
+- [My first experience with OCaml](https://pliutau.com/my-first-experience-with-ocaml/)
 
-- [Restish](https://rest.sh/)
+- [Python Type Challenges: Learn & master type hints](https://python-type-challenges.zeabur.app/)
 
-- [Generative AI Has a Visual Plagiarism Problem](https://spectrum.ieee.org/midjourney-copyright)
+- [Questioning the Criteria for Evaluating Non-cryptographic Hash Functions](https://queue.acm.org/detail.cfm?id=3690759)
 
-- [Wonderful vi](https://world.hey.com/dhh/wonderful-vi-a1d034d3)
+- [Logging all C++ destructors, poor mans run-time tracing](https://raymii.org/s/software/Logging_all_Cpp_destructors_poor_mans_run-time_tracing.html)
 
-- [Stop using SERIAL in Postgres](https://www.naiyerasif.com/post/2024/09/04/stop-using-serial-in-postgres/)
+- [OpenSSH 9.9 released](https://undeadly.org/cgi?action=article;sid=20240921181110)
 
-- [Announcing Swift 6](https://www.swift.org/blog/announcing-swift-6/)
+- [The working archivist's guide to enthusiast CD-ROM archiving tools](https://www.mistys-internet.website/blog/blog/2024/09/13/the-working-archivists-guide-to-enthusiast-cd-rom-archiving-tools/)
 
-- [Zig Devlog](https://ziglang.org/devlog/)
+- [Is It Time To Version Observability? (Charity Majors, 2024)](https://www.youtube.com/watch?v=ag2ykPO805M)
