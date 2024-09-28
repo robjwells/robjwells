@@ -1,47 +1,47 @@
-- [C Until It Is No Longer C](https://aartaka.me/c-not-c)
+- [Godot for App Development](http://tiniuc.com/godot-for-apps/)
 
-- [Genera Retrospective: "the world's first commercial object-oriented OS" (1991)](https://archive.org/details/genera-retrospective-1991)
+- [Making 8-bit Music From Scratch at the Commodore 64 BASIC Prompt](http://www.linusakesson.net/programming/music-from-scratch/index.php)
 
-- [Declare your AIndependence [includes "AI bot activity today" and "How we find AI bots"]](https://blog.cloudflare.com/declaring-your-aindependence-block-ai-bots-scrapers-and-crawlers-with-a-single-click/)
+- [Collaborative Text Editing with Eg-walker: Better, Faster, Smaller](https://arxiv.org/abs/2409.14252)
 
-- [A few secure, random bytes without `pgcrypto`](https://brandur.org/fragments/secure-bytes-without-pgcrypto)
+- [LLMs: great for business but bad business](https://ashishb.net/all/llms-great-for-business-but-bad-business/)
 
-- [Thoughts on Debugging](https://catskull.net/thoughts-on-debugging.html)
+- [CouchDB 3.4.1 released](https://blog.couchdb.org/2024/09/27/3-4-1/)
 
-- [devenv 1.2: Tasks for convergent configuration with Nix](https://devenv.sh/blog/2024/09/24/devenv-12-tasks-for-convergent-configuration-with-nix/)
+- [Web Components Are Not the Future](https://dev.to/ryansolid/web-components-are-not-the-future-48bh)
 
-- [Move Fast and Abandon Things](https://engineersneedart.com/blog/movefast/movefast.html)
+- [DRAMHiT: A Hash Table Architected for the Speed of DRAM (2023)](https://dl.acm.org/doi/pdf/10.1145/3552326.3587457)
 
-- [C++'s next decade](https://github.com/CppCon/CppCon2024/blob/main/Presentations/Peering_Forward_Cpps_Next_Decade.pdf)
+- [SQL tips and tricks](https://github.com/ben-n93/SQL-tips-and-tricks)
 
-- [Winamp Legacy source code](https://github.com/WinampDesktop/winamp)
+- [Obsessed with Cuttle: Parametric CAD for prototyping, producing, and procrastinating](https://hannahilea.com/blog/cuttle-obsession/)
 
-- [Refactoring Python with Tree-sitter & Jedi](https://jackevans.bearblog.dev/refactoring-python-with-tree-sitter-jedi/)
+- [Few lesser known tricks, quirks and features of C](https://jorenar.com/blog/less-known-c)
 
-- [Jetstream: Shrinking the AT Proto Firehose by >99%](https://jazco.dev/2024/09/24/jetstream/)
+- [Rewriting Rust](https://josephg.com/blog/rewriting-rust/)
 
-- [The Python Package Index Should Get Rid Of Its Training Wheels](https://kristoff.it/blog/python-training-wheels/)
+- [Time as a Grid](https://joshleeb.com/posts/gridclock.html)
 
-- [Committing to Rust in the kernel](https://lwn.net/SubscriberLink/991062/b0df468b40b21f5d/)
+- [Arch Linux and Valve Collaboration](https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/RIZSKIBDSLY4S5J2E2STNP5DH4XZGJMR/)
 
-- [Three-State Stability](https://matklad.github.io/2023/02/16/three-state-stability.html)
+- [systemd-ifying postmarketOS, our immutable future, and why Alpine is cooler than you thought](https://media.ccc.de/v/all-systems-go-2024-278-systemd-ifying-postmarketos-our-immutable-future-and-why-alpine-is-cooler-than-you-thought)
 
-- [What is io_uring?](https://matklad.github.io/2024/09/32/-what-is-io-uring.html)
+- [How not to change PostgreSQL column type](https://notso.boringsql.com/posts/how-not-to-change-postgresql-column-type/)
 
-- [Tagged Union Subsets with Comptime in Zig](https://mitchellh.com/writing/zig-comptime-tagged-union-subset)
+- [OpenFreeMap - Free and Open-Source Map Hosting](https://openfreemap.org/)
 
-- [What I tell people new to on-call](https://ntietz.com/blog/what-i-tell-people-new-to-oncall/)
+- [Stop Writing Classes (2012)](https://pyvideo.org/pycon-us-2012/stop-writing-classes.html)
 
-- [http:, ftp:, and ... dict:?](https://shkspr.mobi/blog/2024/09/http-ftp-and-dict/)
+- [Hacking Kia: Remotely Controlling Cars With Just a License Plate](https://samcurry.net/hacking-kia)
 
-- [XKCD 1425 (Tasks) turns ten years old today](https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/)
+- [GitHub won't let me turn off 2FA](https://skye.fyi/2024/09/github-security)
 
-- [Time spent programming is often time well spent](https://stanbright.com/time-spent-programming/)
+- [Rearchitecting: Redis to SQLite](https://wafris.org/blog/rearchitecting-for-sqlite)
 
-- [Real World Performance Gains With Postgres 17 B-tree Bulk Scans](https://www.crunchydata.com/blog/real-world-performance-gains-with-postgres-17-btree-bulk-scans)
+- [The FIPS Compliance of HKDF](https://words.filippo.io/dispatches/fips-hkdf/)
 
-- [My Asus eeePC still rocks in 2024 (with MX Linux)](https://www.dedoimedo.com/computers/eeepc-2024.html)
+- [Attacking UNIX Systems via CUPS, Part I](https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/)
 
-- [A Data-Driven Approach to Writing Better Developer Documentation](https://www.paradedb.com/blog/improving_documentation)
+- [PostgreSQL 17 Released](https://www.postgresql.org/about/news/postgresql-17-released-2936/)
 
-- [Ethernet in 17 lines of Spade](https://www.youtube.com/watch?v=0a8P0NLYPWA)
+- [Tcl/Tk 9.0](https://www.tcl-lang.org/software/tcltk/9.0.html?post=new)
