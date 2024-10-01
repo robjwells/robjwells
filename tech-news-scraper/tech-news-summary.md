@@ -1,47 +1,47 @@
-- [Godot for App Development](http://tiniuc.com/godot-for-apps/)
+- [Apple II Pixel Art](http://www.deater.net/weave/vmwprod/a2_pixels/)
 
-- [Making 8-bit Music From Scratch at the Commodore 64 BASIC Prompt](http://www.linusakesson.net/programming/music-from-scratch/index.php)
+- [The Consistency Problem of Distributed Locks](https://blog.damnever.com/en/2020/the-consistency-problem-of-distributed-lock)
 
-- [Collaborative Text Editing with Eg-walker: Better, Faster, Smaller](https://arxiv.org/abs/2409.14252)
+- [No such thing as exactly-once delivery](https://blog.sequinstream.com/at-most-once-at-least-once-and-exactly-once-delivery/)
 
-- [LLMs: great for business but bad business](https://ashishb.net/all/llms-great-for-business-but-bad-business/)
+- [Revisiting the DOS memory models](https://blogsystem5.substack.com/p/dos-memory-models)
 
-- [CouchDB 3.4.1 released](https://blog.couchdb.org/2024/09/27/3-4-1/)
+- [Code Generation in Rust vs C++26](https://brevzin.github.io/c++/2024/09/30/annotations/)
 
-- [Web Components Are Not the Future](https://dev.to/ryansolid/web-components-are-not-the-future-48bh)
+- [Integrity Constraints and the Relational Derivative](https://buttondown.com/jaffray/archive/integrity-constraints-and-the-relational/)
 
-- [DRAMHiT: A Hash Table Architected for the Speed of DRAM (2023)](https://dl.acm.org/doi/pdf/10.1145/3552326.3587457)
+- [The wonders of Prehistorik Man on the GB](https://eldred.fr/blog/prehistorik/)
 
-- [SQL tips and tricks](https://github.com/ben-n93/SQL-tips-and-tricks)
+- [Making my Nvim Feel More Like Helix with Mini.nvim](https://evantravers.com/articles/2024/09/17/making-my-nvim-act-more-like-helix-with-mini-nvim/)
 
-- [Obsessed with Cuttle: Parametric CAD for prototyping, producing, and procrastinating](https://hannahilea.com/blog/cuttle-obsession/)
+- [Why Your Rails-like Framework Is Not Widely Used](https://hermanradtke.com/why-your-rails-like-framework-is-not-widely-used/)
 
-- [Few lesser known tricks, quirks and features of C](https://jorenar.com/blog/less-known-c)
+- [Safety Goggles for Alchemists: The Path towards Safer Transmute](https://jack.wrenn.fyi/blog/safety-goggles-for-alchemists/)
 
-- [Rewriting Rust](https://josephg.com/blog/rewriting-rust/)
+- [FFmpeg 7.1 release: a tons of codecs](https://jbkempf.com/blog/2024/ffmpeg-7.1.0/)
 
-- [Time as a Grid](https://joshleeb.com/posts/gridclock.html)
+- [21 More AWS Services They Should Cancel](https://justingarrison.com/blog/2024-08-05-more-aws-services-they-should-cancel/)
 
-- [Arch Linux and Valve Collaboration](https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/RIZSKIBDSLY4S5J2E2STNP5DH4XZGJMR/)
+- [RootAsRole: A role-based alternative to sudo](https://lechatp.github.io/RootAsRole/)
 
-- [systemd-ifying postmarketOS, our immutable future, and why Alpine is cooler than you thought](https://media.ccc.de/v/all-systems-go-2024-278-systemd-ifying-postmarketos-our-immutable-future-and-why-alpine-is-cooler-than-you-thought)
+- [Rust needs a web framework for lazy developers](https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/)
 
-- [How not to change PostgreSQL column type](https://notso.boringsql.com/posts/how-not-to-change-postgresql-column-type/)
+- [Beyond multi-core parallelism: faster Mandelbrot with SIMD](https://pythonspeed.com/articles/optimizing-with-simd/)
 
-- [OpenFreeMap - Free and Open-Source Map Hosting](https://openfreemap.org/)
+- [Redis: client-side caching](https://redis.io/docs/latest/develop/reference/client-side-caching/)
 
-- [Stop Writing Classes (2012)](https://pyvideo.org/pycon-us-2012/stop-writing-classes.html)
+- [I Want Process-Aware Types](https://sean.barag.org/writing/process-aware-types)
 
-- [Hacking Kia: Remotely Controlling Cars With Just a License Plate](https://samcurry.net/hacking-kia)
+- [The insatiable hunger of (Open)AI](https://wimvanderbauwhede.codeberg.page/articles/the-insatiable-hunger-of-openai/)
 
-- [GitHub won't let me turn off 2FA](https://skye.fyi/2024/09/github-security)
+- [Building a robust frontend using progressive enhancement](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
 
-- [Rearchitecting: Redis to SQLite](https://wafris.org/blog/rearchitecting-for-sqlite)
+- [runit-2.2.0 available](https://www.mail-archive.com/supervision@list.skarnet.org/msg03158.html)
 
-- [The FIPS Compliance of HKDF](https://words.filippo.io/dispatches/fips-hkdf/)
+- [Don’t believe the hype: AGI is far from inevitable](https://www.ru.nl/en/research/research-news/dont-believe-the-hype-agi-is-far-from-inevitable)
 
-- [Attacking UNIX Systems via CUPS, Part I](https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/)
+- [Seven things I wish I would not hear as an autist](https://www.superdurszlak.dev/posts/seven-things-i-wish-i-would-not-hear-as-an-autist/)
 
-- [PostgreSQL 17 Released](https://www.postgresql.org/about/news/postgresql-17-released-2936/)
+- [How 1 Software Engineer Outperforms 138 - Lichess Case Study](https://www.youtube.com/watch?v=7VSVfQcaxFY)
 
-- [Tcl/Tk 9.0](https://www.tcl-lang.org/software/tcltk/9.0.html?post=new)
+- [The Zig Website Has Been Re-engineered](https://ziglang.org/news/website-zine/)
