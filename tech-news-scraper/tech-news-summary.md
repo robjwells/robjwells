@@ -1,47 +1,49 @@
-- [Apple II Pixel Art](http://www.deater.net/weave/vmwprod/a2_pixels/)
+- [Putting "hyper" back in the hypertext](https://alexanderpetros.com/triptych/)
 
-- [The Consistency Problem of Distributed Locks](https://blog.damnever.com/en/2020/the-consistency-problem-of-distributed-lock)
+- [We need more zero config tools](https://arne.me/blog/we-need-more-zero-config-tools)
 
-- [No such thing as exactly-once delivery](https://blog.sequinstream.com/at-most-once-at-least-once-and-exactly-once-delivery/)
+- [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
 
-- [Revisiting the DOS memory models](https://blogsystem5.substack.com/p/dos-memory-models)
+- [Birth of the Bazel](https://blog.engflow.com/2024/10/01/birth-of-the-bazel/)
 
-- [Code Generation in Rust vs C++26](https://brevzin.github.io/c++/2024/09/30/annotations/)
+- [Introducing CTF Support in Drgn for Oracle Linux](https://blogs.oracle.com/linux/post/introducing-ctf-support-in-drgn-for-oracle-linux)
 
-- [Integrity Constraints and the Relational Derivative](https://buttondown.com/jaffray/archive/integrity-constraints-and-the-relational/)
+- [Networking in C64 OS](https://c64os.com/post/commodorenetworkprotocol)
 
-- [The wonders of Prehistorik Man on the GB](https://eldred.fr/blog/prehistorik/)
+- [Something About the Social Web Foundation Makes Me Feel Icky](https://deadsuperhero.com/2024/09/swf-icky-feeling/)
 
-- [Making my Nvim Feel More Like Helix with Mini.nvim](https://evantravers.com/articles/2024/09/17/making-my-nvim-act-more-like-helix-with-mini-nvim/)
+- [bytecode interpreters for tiny computers](https://dercuano.github.io/notes/tiny-interpreters-for-microcontrollers.html)
 
-- [Why Your Rails-like Framework Is Not Widely Used](https://hermanradtke.com/why-your-rails-like-framework-is-not-widely-used/)
+- [devenv 1.3: Instant developer environments with Nix caching](https://devenv.sh/blog/2024/10/03/devenv-13-instant-developer-environments-with-nix-caching/)
 
-- [Safety Goggles for Alchemists: The Path towards Safer Transmute](https://jack.wrenn.fyi/blog/safety-goggles-for-alchemists/)
+- [Every Bit Counts, a Journey Into Prometheus Binary Data](https://fungiboletus.github.io/journey-prometheus-binary-data/)
 
-- [FFmpeg 7.1 release: a tons of codecs](https://jbkempf.com/blog/2024/ffmpeg-7.1.0/)
+- [Sorry, GenAI is NOT going to 10x computer programming](https://garymarcus.substack.com/p/sorry-genai-is-not-going-to-10x-computer)
 
-- [21 More AWS Services They Should Cancel](https://justingarrison.com/blog/2024-08-05-more-aws-services-they-should-cancel/)
+- [borkweb: babashka's first fullstack clojure framework](https://github.com/m3tti/borkweb)
 
-- [RootAsRole: A role-based alternative to sudo](https://lechatp.github.io/RootAsRole/)
+- [Mixwave - Open-Source, Scalable, Video Streaming Service (Cloudflare Stream Alternative)](https://github.com/matvp91/mixwave)
 
-- [Rust needs a web framework for lazy developers](https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/)
+- [Why Gumroad Didn't Choose htmx](https://htmx.org/essays/why-gumroad-didnt-choose-htmx/)
 
-- [Beyond multi-core parallelism: faster Mandelbrot with SIMD](https://pythonspeed.com/articles/optimizing-with-simd/)
+- [Terminal colours are tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/)
 
-- [Redis: client-side caching](https://redis.io/docs/latest/develop/reference/client-side-caching/)
+- [Rust needs an extended standard library](https://kerkour.com/rust-stdx)
 
-- [I Want Process-Aware Types](https://sean.barag.org/writing/process-aware-types)
+- [This Month in Ladybird - September 2024](https://ladybird.org/newsletter/2024-09-30/)
 
-- [The insatiable hunger of (Open)AI](https://wimvanderbauwhede.codeberg.page/articles/the-insatiable-hunger-of-openai/)
+- [Migration from Biocontainers to Seqera Containers: Part 1](https://nf-co.re/blog/2024/seqera-containers-part-1)
 
-- [Building a robust frontend using progressive enhancement](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
+- [From microservices to a monolith (homelab)](https://nico.dcotta.com/blog/FromMicroservicesToMonolith)
 
-- [runit-2.2.0 available](https://www.mail-archive.com/supervision@list.skarnet.org/msg03158.html)
+- [RISC-V Assembler: Arithmetic](https://projectf.io/posts/riscv-arithmetic/)
 
-- [Don’t believe the hype: AGI is far from inevitable](https://www.ru.nl/en/research/research-news/dont-believe-the-hype-agi-is-far-from-inevitable)
+- [Go, the greatest teaching language?](https://registerspill.thorstenball.com/p/glad-i-did-it-in-go)
 
-- [Seven things I wish I would not hear as an autist](https://www.superdurszlak.dev/posts/seven-things-i-wish-i-would-not-hear-as-an-autist/)
+- [The Go libraries that never failed us: 22 libraries you need to know (2022)](https://threedots.tech/post/list-of-recommended-libraries/)
 
-- [How 1 Software Engineer Outperforms 138 - Lichess Case Study](https://www.youtube.com/watch?v=7VSVfQcaxFY)
+- [Less htmx is More](https://unplannedobsolescence.com/blog/less-htmx-is-more/)
 
-- [The Zig Website Has Been Re-engineered](https://ziglang.org/news/website-zine/)
+- [Tauri 2.0 Stable Release](https://v2.tauri.app/blog/tauri-20/)
+
+- [Ziggy Data Language](https://ziggy-lang.io)
