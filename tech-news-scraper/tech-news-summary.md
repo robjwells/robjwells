@@ -1,49 +1,43 @@
-- [Putting "hyper" back in the hypertext](https://alexanderpetros.com/triptych/)
+- [The Brutalist Programming Manifesto](http://www.call-with-current-continuation.org/articles/brutalist-manifesto.txt)
 
-- [We need more zero config tools](https://arne.me/blog/we-need-more-zero-config-tools)
+- [Why I don't write exploits*](https://addisoncrump.info/important-information/why-i-dont-write-exploits/#)
 
-- [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
+- [6 things I learned interviewing for Staff positions (2020)](https://amyunger.com/blog/2020/09/16/6-things-i-learned-interviewing.html)
 
-- [Birth of the Bazel](https://blog.engflow.com/2024/10/01/birth-of-the-bazel/)
+- [Gleam is Pragmatic](https://blog.drewolson.org/gleam-is-pragmatic/)
 
-- [Introducing CTF Support in Drgn for Oracle Linux](https://blogs.oracle.com/linux/post/introducing-ctf-support-in-drgn-for-oracle-linux)
+- [Low-Level Development on Retail Android Hardware - Reconnaissance and Prototyping a Bootloader](https://blog.timschumi.net/2024/10/05/lldorah-bootloader-prototype.html)
 
-- [Networking in C64 OS](https://c64os.com/post/commodorenetworkprotocol)
+- [6 years with Gleam](https://crowdhailer.me/2024-10-04/6-years-with-gleam/)
 
-- [Something About the Social Web Foundation Makes Me Feel Icky](https://deadsuperhero.com/2024/09/swf-icky-feeling/)
+- [A few nice things in OpenZFS 2.3](https://despairlabs.com/blog/posts/2024-10-05-nice-things-in-openzfs-23/)
 
-- [bytecode interpreters for tiny computers](https://dercuano.github.io/notes/tiny-interpreters-for-microcontrollers.html)
+- [How to add animations to Hotwire's Turbo Streams](https://edforshaw.co.uk/hotwire-turbo-stream-animations)
 
-- [devenv 1.3: Instant developer environments with Nix caching](https://devenv.sh/blog/2024/10/03/devenv-13-instant-developer-environments-with-nix-caching/)
+- [HPy - A better C API for Python](https://hpyproject.org/)
 
-- [Every Bit Counts, a Journey Into Prometheus Binary Data](https://fungiboletus.github.io/journey-prometheus-binary-data/)
+- [Working Lego Turing Machine](https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7)
 
-- [Sorry, GenAI is NOT going to 10x computer programming](https://garymarcus.substack.com/p/sorry-genai-is-not-going-to-10x-computer)
+- [Canvases versus Documents](https://kaiwenwang.com/writing/canvases-versus-documents)
 
-- [borkweb: babashka's first fullstack clojure framework](https://github.com/m3tti/borkweb)
+- [Yet Another ASCII Table](https://larsw.xyz/yaat/)
 
-- [Mixwave - Open-Source, Scalable, Video Streaming Service (Cloudflare Stream Alternative)](https://github.com/matvp91/mixwave)
+- [Trusting clients is probably a security flaw](https://liberda.nl/weblog/trust-no-client/)
 
-- [Why Gumroad Didn't Choose htmx](https://htmx.org/essays/why-gumroad-didnt-choose-htmx/)
+- [On Ousterhout's Dichotomy](https://matklad.github.io/2024/10/06/ousterhouts-dichotomy.html)
 
-- [Terminal colours are tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/)
+- [Octothorpes: hashtags for the open internet](https://octothorp.es/docs)
 
-- [Rust needs an extended standard library](https://kerkour.com/rust-stdx)
+- [Cursed Rust](https://paper.wf/binarycat/cursed-rust)
 
-- [This Month in Ladybird - September 2024](https://ladybird.org/newsletter/2024-09-30/)
+- [SQLite: Defense Against The Dark Arts](https://sqlite.org/draft/security.html)
 
-- [Migration from Biocontainers to Seqera Containers: Part 1](https://nf-co.re/blog/2024/seqera-containers-part-1)
+- [Making the web boring again](https://washbear.neocities.org/browsers)
 
-- [From microservices to a monolith (homelab)](https://nico.dcotta.com/blog/FromMicroservicesToMonolith)
+- [Wikidata is a Giant Crosswalk File](https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html)
 
-- [RISC-V Assembler: Arithmetic](https://projectf.io/posts/riscv-arithmetic/)
+- [My Wayland Your Wayland Our Wayland](https://www.supergoodcode.com/My-Wayland-Your-Wayland-Our-Wayland/)
 
-- [Go, the greatest teaching language?](https://registerspill.thorstenball.com/p/glad-i-did-it-in-go)
+- [Swift & Interoperability](https://www.youtube.com/watch?v=wn6C_XEv1Mo)
 
-- [The Go libraries that never failed us: 22 libraries you need to know (2022)](https://threedots.tech/post/list-of-recommended-libraries/)
-
-- [Less htmx is More](https://unplannedobsolescence.com/blog/less-htmx-is-more/)
-
-- [Tauri 2.0 Stable Release](https://v2.tauri.app/blog/tauri-20/)
-
-- [Ziggy Data Language](https://ziggy-lang.io)
+- [On programming and poetry (not Python’s tool)](https://zverok.space/blog/2024-10-06-poetry.html)
