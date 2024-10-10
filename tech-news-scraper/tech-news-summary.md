@@ -1,43 +1,49 @@
-- [The Brutalist Programming Manifesto](http://www.call-with-current-continuation.org/articles/brutalist-manifesto.txt)
+- [Addition is all you need for energy efficient language models](https://arxiv.org/pdf/2410.00907)
 
-- [Why I don't write exploits*](https://addisoncrump.info/important-information/why-i-dont-write-exploits/#)
+- [Why GOV.UK's Exit this Page component doesn't use the Escape key](https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/)
 
-- [6 things I learned interviewing for Staff positions (2020)](https://amyunger.com/blog/2020/09/16/6-things-i-learned-interviewing.html)
+- [Modern PATH environment variable](https://blog.izissise.net/posts/env-path/)
 
-- [Gleam is Pragmatic](https://blog.drewolson.org/gleam-is-pragmatic/)
+- [A modest critique of Htmx](https://chrisdone.com/posts/htmx-critique/)
 
-- [Low-Level Development on Retail Android Hardware - Reconnaissance and Prototyping a Bootloader](https://blog.timschumi.net/2024/10/05/lldorah-bootloader-prototype.html)
+- [My negative views on Rust](https://chrisdone.com/posts/rust/)
 
-- [6 years with Gleam](https://crowdhailer.me/2024-10-04/6-years-with-gleam/)
+- [Announcing Deno 2](https://deno.com/blog/v2.0)
 
-- [A few nice things in OpenZFS 2.3](https://despairlabs.com/blog/posts/2024-10-05-nice-things-in-openzfs-23/)
+- [The Disappearance of an Internet Domain](https://every.to/p/the-disappearance-of-an-internet-domain)
 
-- [How to add animations to Hotwire's Turbo Streams](https://edforshaw.co.uk/hotwire-turbo-stream-animations)
+- [structures as paths](https://explaining.software/archive/structures-as-paths/)
 
-- [HPy - A better C API for Python](https://hpyproject.org/)
+- [macOS crash with `UnixDatagram`](https://github.com/rust-lang/rust/issues/131374)
 
-- [Working Lego Turing Machine](https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7)
+- [Brew Perfect Coffee Right from Your Terminal](https://github.com/sepandhaghighi/mycoffee)
 
-- [Canvases versus Documents](https://kaiwenwang.com/writing/canvases-versus-documents)
+- [Proposed roadmap for introducing CHERI into Android](https://infosec.exchange/@david_chisnall/113277021212365322)
 
-- [Yet Another ASCII Table](https://larsw.xyz/yaat/)
+- [Building Real-Time Global Illumination](https://jason.today/gi)
 
-- [Trusting clients is probably a security flaw](https://liberda.nl/weblog/trust-no-client/)
+- [Jazz - open-source framework for building local-first apps](https://jazz.tools/)
 
-- [On Ousterhout's Dichotomy](https://matklad.github.io/2024/10/06/ousterhouts-dichotomy.html)
+- [Engineers are not fans of technologies](https://jerf.org/iri/post/2024/not_about_python/)
 
-- [Octothorpes: hashtags for the open internet](https://octothorp.es/docs)
+- [Two Workflow Tips](https://matklad.github.io/2024/10/08/two-tips.html)
 
-- [Cursed Rust](https://paper.wf/binarycat/cursed-rust)
+- [How to Search Anything](https://montyanderson.net/writing/search)
 
-- [SQLite: Defense Against The Dark Arts](https://sqlite.org/draft/security.html)
+- [OOP is not that bad, actually](https://osa1.net/posts/2024-10-09-oop-good.html)
 
-- [Making the web boring again](https://washbear.neocities.org/browsers)
+- [pipe: authenticated pubsub over ssh](https://pipe.pico.sh)
 
-- [Wikidata is a Giant Crosswalk File](https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html)
+- [Performance measurements of IPC in Rust](https://pranitha.rs/posts/rust-ipc-ping-pong/)
 
-- [My Wayland Your Wayland Our Wayland](https://www.supergoodcode.com/My-Wayland-Your-Wayland-Our-Wayland/)
+- [Apple Passwords’ Generated Strong Password Format](https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/)
 
-- [Swift & Interoperability](https://www.youtube.com/watch?v=wn6C_XEv1Mo)
+- [5 Years Later: The First Win](https://thephd.dev/5-years-later-the-first-big-unicode-win-omg-yay)
 
-- [On programming and poetry (not Python’s tool)](https://zverok.space/blog/2024-10-06-poetry.html)
+- [Why I like Tcl](https://world-playground-deceit.net/blog/2024/why_tcl.html)
+
+- [Why I use KDE](https://www.osnews.com/story/140538/why-i-use-kde/)
+
+- [GCC 15 un-deprecates Itanium IA-64 Linux support](https://www.phoronix.com/news/GCC-15-Undeprecates-Itanium)
+
+- [Building Text UIs in Rust (Interview)](https://www.youtube.com/watch?v=CNVmIocyDOQ)
