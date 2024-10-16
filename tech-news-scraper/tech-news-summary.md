@@ -1,49 +1,49 @@
-- [A Dictionary of Single-Letter Variable Names](http://jackkelly.name/blog/archives/2024/10/12/a_dictionary_of_single-letter_variable_names)
+- [New passkey specifications will let users import and export them](https://9to5mac.com/2024/10/14/new-passkeys-import-export/)
 
-- [Exploring Typst, a new typesetting system similar to LaTeX](https://blog.jreyesr.com/posts/typst/)
+- [Introduction to UX/RT (2022)](https://archive.fosdem.org/2022/schedule/event/awarkentin/attachments/slides/4831/export/events/attachments/awarkentin/slides/4831/uxrt_intro.pdf)
 
-- [Arm A-Profile Architecture Developments 2024](https://community.arm.com/arm-community-blogs/b/architectures-and-processors-blog/posts/arm-a-profile-architecture-developments-2024)
+- [Graphics Tricks from Boomers](https://arnaud-carre.github.io/2024-09-08-4ktribute/)
 
-- [Dafny Standard Libraries](https://dafny.org/blog/2023/12/20/standard-libraries/)
+- [Damas-Hindley-Milner inference two ways](https://bernsteinbear.com/blog/type-inference/)
 
-- [The Ultimate Conditional Syntax](https://dl.acm.org/doi/10.1145/3689746)
+- [Why `Pin` is a part of trait signatures (and why that's a problem)](https://blog.yoshuawuyts.com/why-pin/)
 
-- [A history of Clojure (2020)](https://dl.acm.org/doi/abs/10.1145/3386321)
+- [JPEG XL’s Modular Mode Explained](https://cloudinary.com/blog/jpeg-xls-modular-mode-explained)
 
-- [LLMs don’t do formal reasoning - and that is a HUGE problem](https://garymarcus.substack.com/p/llms-dont-do-formal-reasoning-and)
+- [A minecraft server written in rust](https://github.com/Snowiiii/Pumpkin)
 
-- [1 bug, $50,000+ in bounties, Zendesk bug](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52)
+- [Rogue Legacy code is now source available](https://github.com/flibitijibibo/RogueLegacy1/)
 
-- [Dataflow and Columns and WASM, Oh My](https://github.com/frankmcsherry/blog/blob/master/posts/2024-10-11.md)
+- [The C23 edition of Modern C](https://gustedt.wordpress.com/2024/10/15/the-c23-edition-of-modern-c/)
 
-- [Idol, an IDL and binary encoding for zero-copy local IPC](https://github.com/jmillikin/idol)
+- [Code formatting in documents](https://jmtd.net/log/formatting/)
 
-- [zzz: A library for writing performant and reliable networked services](https://github.com/mookums/zzz)
+- [A Missing IDE Feature: Fold Method Bodies by Default](https://matklad.github.io/2024/10/14/missing-ide-feature.html)
 
-- [Are MathJax and KaTeX competitors?](https://groups.google.com/g/mathjax-users/c/aboJLMb50uQ/m/Y77FexF_AwAJ)
+- [Categorizing How Distributed Databases Utilize Consensus Algorithms](https://medium.com/@adamprout/categorizing-how-distributed-databases-utilize-consensus-algorithms-492c8ff9e916)
 
-- [FFI type mismatches in Rust for Linux](https://lwn.net/SubscriberLink/993163/91519b806455b8ec/)
+- [How to Write a Blog Post About How to Monetize a Blog (Satire)](https://modem.io/blog/blog-monetization-making-of/)
 
-- [Perks of Being a Python Core Developer](https://mariatta.ca/posts/perks-of-python-core/)
+- [a protocol for reliable notifications over a 1 bit fallible connection](https://paper.wf/binarycat/a-protocol-for-reliable-notifications-over-a-1-bit-fallible-connection)
 
-- [A Small Experiment in Async Rust](https://ochagavia.nl/blog/an-experiment-in-async-rust/)
+- [Should you use uv’s managed Python in production?](https://pythonspeed.com/articles/uv-python-production/)
 
-- [The optimised version of 7-Zip can't be built from source](https://pileofhacks.dev/post/the-optimised-version-of-7-zip-cant-be-built-from-source/)
+- [LocalStorage vs. IndexedDB vs. Cookies vs. OPFS vs. WASM-SQLite](https://rxdb.info/articles/localstorage-indexeddb-cookies-opfs-sqlite-wasm.html)
 
-- [Newtypes are better than abstract type synonyms](https://prophetlabs.de/posts/newtypes.html)
+- [Why make software?](https://sean.voisen.org/blog/why-make-software)
 
-- [Adapting Plan 9's listen to GNU Guix](https://the-dam.org/docs/explanations/Plan9ListenOnLinux.html)
+- [Safer with Google: Advancing Memory Safety](https://security.googleblog.com/2024/10/safer-with-google-advancing-memory.html)
 
-- [Can Logic Programming Be Liberated from Predicates and Backtracking?](https://www-ps.informatik.uni-kiel.de/~mh/papers/WLP24.pdf)
+- [Unlocking the NES (for Former Dawn)](https://somethingnerdy.com/unlocking-the-nes-for-former-dawn/)
 
-- [Virtual-Memory Assisted Buffer Management](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/_my_direct_uploads/vmcache.pdf)
+- [How To Corrupt An SQLite Database File](https://sqlite.org/draft/howtocorrupt.html)
 
-- [Tutorial on Good Lisp Programming Style (1993)](https://www.cs.umd.edu/~nau/cmsc421/norvig-lisp-style.pdf)
+- [The Stallman Report](https://stallman-report.org/)
 
-- [The Road to OCIv2 Images: What's Wrong with Tar? (2019)](https://www.cyphar.com/blog/post/20190121-ociv2-images-i-tar)
+- [Passwords have problems, but passkeys have more](https://world.hey.com/dhh/passwords-have-problems-but-passkeys-have-more-95285df9)
 
-- [AMD EPYC 9965 "Turin Dense” vs. AmpereOne 192-Core ARM CPU Review](https://www.phoronix.com/review/amd-epyc-9965-ampereone)
+- [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks)
 
-- [Every bug/quirk of the Windows resource compiler (rc.exe), probably](https://www.ryanliptak.com/blog/every-rc-exe-bug-quirk-probably/)
+- [Unison Programming Language](https://www.unison-lang.org/)
 
-- [How I animate 3Blue1Brown: a Manim demo](https://youtu.be/rbu7Zu5X1zI)
+- [Boring Tech Is Stifling Improvement](https://yonkeltron.com/posts/boring-tech-is-stifling-improvement/)
