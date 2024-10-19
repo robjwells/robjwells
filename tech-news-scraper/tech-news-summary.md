@@ -1,49 +1,47 @@
-- [New passkey specifications will let users import and export them](https://9to5mac.com/2024/10/14/new-passkeys-import-export/)
+- [Understanding DNS resolution on Linux and Kubernetes](http://jpetazzo.github.io/2024/05/12/understanding-kubernetes-dns-hostnetwork-dnspolicy-dnsconfigforming/)
 
-- [Introduction to UX/RT (2022)](https://archive.fosdem.org/2022/schedule/event/awarkentin/attachments/slides/4831/export/events/attachments/awarkentin/slides/4831/uxrt_intro.pdf)
+- [Accessible Arcan : Out of Sight](https://arcan-fe.com/2024/10/18/accessible-arcan-out-of-sight/)
 
-- [Graphics Tricks from Boomers](https://arnaud-carre.github.io/2024-09-08-4ktribute/)
+- [I've been writing software for the last 25 years. Here some things I learned so far](https://blog.rpanachi.com/after-25-years-writing-software-here-some-things-learned-so-far)
 
-- [Damas-Hindley-Milner inference two ways](https://bernsteinbear.com/blog/type-inference/)
+- [Announcing Rust 1.82.0](https://blog.rust-lang.org/2024/10/17/Rust-1.82.0.html)
 
-- [Why `Pin` is a part of trait signatures (and why that's a problem)](https://blog.yoshuawuyts.com/why-pin/)
+- [Decoding Europa Clipper](https://destevez.net/2024/10/decoding-europa-clipper/)
 
-- [JPEG XL’s Modular Mode Explained](https://cloudinary.com/blog/jpeg-xls-modular-mode-explained)
+- [Sensible SQLite defaults](https://dev.to/briandouglasie/sensible-sqlite-defaults-5ei7)
 
-- [A minecraft server written in rust](https://github.com/Snowiiii/Pumpkin)
+- [TLA+ Wiki](https://docs.tlapl.us)
 
-- [Rogue Legacy code is now source available](https://github.com/flibitijibibo/RogueLegacy1/)
+- [setBigTimeout](https://evanhahn.com/set-big-timeout/)
 
-- [The C23 edition of Modern C](https://gustedt.wordpress.com/2024/10/15/the-c23-edition-of-modern-c/)
+- [In the future using top-level await might be a backwards compatibility break in Node](https://evertpot.com/using-top-level-await-is-bc-break/)
 
-- [Code formatting in documents](https://jmtd.net/log/formatting/)
+- [superlinker: a tool for reinterpreting ELF executables and shared libraries](https://github.com/whitequark/superlinker)
 
-- [A Missing IDE Feature: Fold Method Bodies by Default](https://matklad.github.io/2024/10/14/missing-ide-feature.html)
+- [Cross-Process Spectre Exploitation](https://grsecurity.net/cross_process_spectre_exploitation)
 
-- [Categorizing How Distributed Databases Utilize Consensus Algorithms](https://medium.com/@adamprout/categorizing-how-distributed-databases-utilize-consensus-algorithms-492c8ff9e916)
+- [Yes, Go Does Have Exceptions](https://kristoff.it/blog/go-exceptions/)
 
-- [How to Write a Blog Post About How to Monetize a Blog (Satire)](https://modem.io/blog/blog-monetization-making-of/)
+- [Never Missing the Train Again, Thanks to Rust](https://lilymara.xyz/posts/2024/01/transit-kindle/)
 
-- [a protocol for reliable notifications over a 1 bit fallible connection](https://paper.wf/binarycat/a-protocol-for-reliable-notifications-over-a-1-bit-fallible-connection)
+- [A crash course in Go assembly, speeding up calculations 450%](https://pehringer.info/go_plan9_memo.html)
 
-- [Should you use uv’s managed Python in production?](https://pythonspeed.com/articles/uv-python-production/)
+- [My NumPy Year: Creating a DType for the Next Generation of Scientific Computing | Quansight Consulting](https://quansight.com/post/my-numpy-year-creating-a-dtype-for-the-next-generation-of-scientific-computing/)
 
-- [LocalStorage vs. IndexedDB vs. Cookies vs. OPFS vs. WASM-SQLite](https://rxdb.info/articles/localstorage-indexeddb-cookies-opfs-sqlite-wasm.html)
+- [How I use git](https://registerspill.thorstenball.com/p/how-i-use-git)
 
-- [Why make software?](https://sean.voisen.org/blog/why-make-software)
+- [Developing a Beautiful and Performant Block Editor in Qt C++ and QML](https://rubymamistvalove.com/block-editor)
 
-- [Safer with Google: Advancing Memory Safety](https://security.googleblog.com/2024/10/safer-with-google-advancing-memory.html)
+- [Making mailing lists nicer: Writing a mail extension for macOS with MailKit](https://sporks.space/2024/10/17/making-mailing-lists-nicer-writing-a-mail-extension-for-macos-with-mailkit/)
 
-- [Unlocking the NES (for Former Dawn)](https://somethingnerdy.com/unlocking-the-nes-for-former-dawn/)
+- [Steve Klabnik's Tutorial on Jujutsu (git replacement)](https://steveklabnik.github.io/jujutsu-tutorial/)
 
-- [How To Corrupt An SQLite Database File](https://sqlite.org/draft/howtocorrupt.html)
+- [Focus on decisions, not tasks](https://technicalwriting.dev/strategy/decisions.html)
 
-- [The Stallman Report](https://stallman-report.org/)
+- [Welcome to transputer.net (2007)](https://transputer.net/)
 
-- [Passwords have problems, but passkeys have more](https://world.hey.com/dhh/passwords-have-problems-but-passkeys-have-more-95285df9)
+- [Typst 0.12 is just ... better](https://typst.app/blog/2024/typst-0.12/)
 
-- [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks)
+- [Haiku Activity & Contract Report, September 2024 (ft. packagefs memory usage optimization)](https://www.haiku-os.org/blog/waddlesplash/2024-10-11-haiku_activity_contract_report_september_2024)
 
-- [Unison Programming Language](https://www.unison-lang.org/)
-
-- [Boring Tech Is Stifling Improvement](https://yonkeltron.com/posts/boring-tech-is-stifling-improvement/)
+- [AI can help humans find common ground](https://www.science.org/doi/10.1126/science.adq2852)
