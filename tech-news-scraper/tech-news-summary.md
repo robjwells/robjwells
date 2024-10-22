@@ -1,47 +1,47 @@
-- [Understanding DNS resolution on Linux and Kubernetes](http://jpetazzo.github.io/2024/05/12/understanding-kubernetes-dns-hostnetwork-dnspolicy-dnsconfigforming/)
+- [Jujutsu in practice](https://arne.me/blog/jj-in-practice)
 
-- [Accessible Arcan : Out of Sight](https://arcan-fe.com/2024/10/18/accessible-arcan-out-of-sight/)
+- [1+1=2 (2006)](https://blog.plover.com/math/PM.html)
 
-- [I've been writing software for the last 25 years. Here some things I learned so far](https://blog.rpanachi.com/after-25-years-writing-software-here-some-things-learned-so-far)
+- [You Should Probably Still Pay Attention to Tokenizers](https://cybernetist.com/2024/10/21/you-should-probably-pay-attention-to-tokenizers/)
 
-- [Announcing Rust 1.82.0](https://blog.rust-lang.org/2024/10/17/Rust-1.82.0.html)
+- [__init__.py files are optional. Here’s why you should still use them](https://dev.arie.bovenberg.net/blog/still-use-init-py/)
 
-- [Decoding Europa Clipper](https://destevez.net/2024/10/decoding-europa-clipper/)
+- [Mac Programming for Dummies (1999)](https://devnonsense.com/posts/mac-programming-for-dummies/)
 
-- [Sensible SQLite defaults](https://dev.to/briandouglasie/sensible-sqlite-defaults-5ei7)
+- [Android "Password Store" client for pass discontinued](https://github.com/android-password-store/Android-Password-Store/discussions/3260)
 
-- [TLA+ Wiki](https://docs.tlapl.us)
+- [Bitwarden version 2024.10.0 is no longer free software](https://github.com/bitwarden/clients/issues/11611)
 
-- [setBigTimeout](https://evanhahn.com/set-big-timeout/)
+- [phonebook: Manage DNS Records with Kubernetes](https://github.com/pier-oliviert/phonebook)
 
-- [In the future using top-level await might be a backwards compatibility break in Node](https://evertpot.com/using-top-level-await-is-bc-break/)
+- [Hide another detail](https://lmno.lol/alvaro/hide-another-detail)
 
-- [superlinker: a tool for reinterpreting ELF executables and shared libraries](https://github.com/whitequark/superlinker)
+- [Why I’m skeptical of rewriting JavaScript tools in "faster" languages](https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/)
 
-- [Cross-Process Spectre Exploitation](https://grsecurity.net/cross_process_spectre_exploitation)
+- [Introduction to Zig](https://pedropark99.github.io/zig-book/)
 
-- [Yes, Go Does Have Exceptions](https://kristoff.it/blog/go-exceptions/)
+- [20 years of Linux on the Desktop (part 1)](https://ploum.net/2024-10-20-20years-linux-desktop-part1.html)
 
-- [Never Missing the Train Again, Thanks to Rust](https://lilymara.xyz/posts/2024/01/transit-kindle/)
+- [Booting Sun SPARC Servers](https://sidneys1.com/retrocomputing/2024/10/04/booting-sun-sparc-servers.html)
 
-- [A crash course in Go assembly, speeding up calculations 450%](https://pehringer.info/go_plan9_memo.html)
+- [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/)
 
-- [My NumPy Year: Creating a DType for the Next Generation of Scientific Computing | Quansight Consulting](https://quansight.com/post/my-numpy-year-creating-a-dtype-for-the-next-generation-of-scientific-computing/)
+- [PID 1 Bash script for Docker containers explained line by line](https://sirikon.me/posts/0009-pid-1-bash-script-docker-container.html)
 
-- [How I use git](https://registerspill.thorstenball.com/p/how-i-use-git)
+- [Tauri 2.0 Stable Release](https://tauri.app/blog/tauri-20/)
 
-- [Developing a Beautiful and Performant Block Editor in Qt C++ and QML](https://rubymamistvalove.com/block-editor)
+- [Jujutsu (jj), a git compatible VCS](https://tonyfinn.com/blog/jj/)
 
-- [Making mailing lists nicer: Writing a mail extension for macOS with MailKit](https://sporks.space/2024/10/17/making-mailing-lists-nicer-writing-a-mail-extension-for-macos-with-mailkit/)
+- [Naming things (2021)](https://wiki.dpk.io/naming-things.html)
 
-- [Steve Klabnik's Tutorial on Jujutsu (git replacement)](https://steveklabnik.github.io/jujutsu-tutorial/)
+- [Naming Conventions That Need to Die (2018)](https://willcrichton.net/notes/naming-conventions-that-need-to-die/)
 
-- [Focus on decisions, not tasks](https://technicalwriting.dev/strategy/decisions.html)
+- [How to secure your new VPS: a step-by-step guide](https://www.kkyri.com/p/how-to-secure-your-new-vps-a-step-by-step-guide)
 
-- [Welcome to transputer.net (2007)](https://transputer.net/)
+- [(2^136279841)-1 is the New Largest Known Prime Number](https://www.mersenne.org)
 
-- [Typst 0.12 is just ... better](https://typst.app/blog/2024/typst-0.12/)
+- [Microsoft maintains its own Windows debloat scripts on GitHub](https://www.osnews.com/story/140955/microsoft-maintains-its-own-windows-debloat-scripts-on-github/)
 
-- [Haiku Activity & Contract Report, September 2024 (ft. packagefs memory usage optimization)](https://www.haiku-os.org/blog/waddlesplash/2024-10-11-haiku_activity_contract_report_september_2024)
+- [Life of a Zed Extension: Rust, WIT, Wasm](https://zed.dev/blog/zed-decoded-extensions)
 
-- [AI can help humans find common ground](https://www.science.org/doi/10.1126/science.adq2852)
+- [There is no such thing as a global method (in Ruby)](https://zverok.space/blog/2024-10-21-global_functions.html)
