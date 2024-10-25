@@ -1,47 +1,49 @@
-- [Jujutsu in practice](https://arne.me/blog/jj-in-practice)
+- [Introducing quantized Llama models with increased speed and a reduced memory footprint](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/)
 
-- [1+1=2 (2006)](https://blog.plover.com/math/PM.html)
+- [Smarter than 'Ctrl+F': Linking Directly to Web Page Content](https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html)
 
-- [You Should Probably Still Pay Attention to Tokenizers](https://cybernetist.com/2024/10/21/you-should-probably-pay-attention-to-tokenizers/)
+- [Request-reply in Postgres](https://blog.sequinstream.com/request-reply-in-postgres/)
 
-- [__init__.py files are optional. Here’s why you should still use them](https://dev.arie.bovenberg.net/blog/still-use-init-py/)
+- [Logical vs Physical Data Types](https://blog.spiraldb.com/logical-vs-physical-data-types/)
 
-- [Mac Programming for Dummies (1999)](https://devnonsense.com/posts/mac-programming-for-dummies/)
+- [Why did you write a new RTOS for CHERIoT?](https://cheriot.org/rtos/philosophy/history/2024/10/24/why-new-rtos.html)
 
-- [Android "Password Store" client for pass discontinued](https://github.com/android-password-store/Android-Password-Store/discussions/3260)
+- [A Practitioner's Guide to Wide Events](https://jeremymorrell.dev/blog/a-practitioners-guide-to-wide-events/)
 
-- [Bitwarden version 2024.10.0 is no longer free software](https://github.com/bitwarden/clients/issues/11611)
+- [On Rust in enterprise kernels](https://lwn.net/Articles/993337/)
 
-- [phonebook: Manage DNS Records with Kubernetes](https://github.com/pier-oliviert/phonebook)
+- [Several Russian developers lose kernel maintainership status](https://lwn.net/Articles/995186/)
 
-- [Hide another detail](https://lmno.lol/alvaro/hide-another-detail)
+- [Bookmark Keywords: a hidden firefox feature](https://paper.wf/binarycat/bookmark-keywords)
 
-- [Why I’m skeptical of rewriting JavaScript tools in "faster" languages](https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/)
+- [Framework overload: when convenience dulls innovation in software development](https://prahladyeri.github.io/blog/2024/10/framework-overload.html)
 
-- [Introduction to Zig](https://pedropark99.github.io/zig-book/)
+- [Rust Prism](https://registerspill.thorstenball.com/p/rust-prism)
 
-- [20 years of Linux on the Desktop (part 1)](https://ploum.net/2024-10-20-20years-linux-desktop-part1.html)
+- [A Compiler for 3D Machine Knitting](https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20160705213118/A-Compiler-for-3D-Machine-Knitting-Paper.pdf)
 
-- [Booting Sun SPARC Servers](https://sidneys1.com/retrocomputing/2024/10/04/booting-sun-sparc-servers.html)
+- [Security research on Private Cloud Compute](https://security.apple.com/blog/pcc-security-research/)
 
-- [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/)
+- [A line map for Milano's trams in TeX](https://stuebinm.eu/posts/milano-tram-network.html)
 
-- [PID 1 Bash script for Docker containers explained line by line](https://sirikon.me/posts/0009-pid-1-bash-script-docker-container.html)
+- [Embeddings are underrated](https://technicalwriting.dev/data/embeddings.html)
 
-- [Tauri 2.0 Stable Release](https://tauri.app/blog/tauri-20/)
+- [Announcing Toasty, an async ORM for Rust](https://tokio.rs/blog/2024-10-23-announcing-toasty)
 
-- [Jujutsu (jj), a git compatible VCS](https://tonyfinn.com/blog/jj/)
+- [Type Tailoring](https://users.cs.utah.edu/~blg/publications/tt/wcfg-ecoop-2024.pdf)
 
-- [Naming things (2021)](https://wiki.dpk.io/naming-things.html)
+- [React on the server is not PHP](https://www.artmann.co/articles/react-on-the-server-is-not-php)
 
-- [Naming Conventions That Need to Die (2018)](https://willcrichton.net/notes/naming-conventions-that-need-to-die/)
+- [Why Safety Profiles Failed](https://www.circle-lang.org/draft-profiles.html)
 
-- [How to secure your new VPS: a step-by-step guide](https://www.kkyri.com/p/how-to-secure-your-new-vps-a-step-by-step-guide)
+- [A Typed Foundation for Directional Logic Programming](https://www.cs.bham.ac.uk/%7Eudr/papers/directional.pdf)
 
-- [(2^136279841)-1 is the New Largest Known Prime Number](https://www.mersenne.org)
+- [The Structure of a Programming Language Revolution (2012)](https://www.dreamsongs.com/Files/Incommensurability.pdf)
 
-- [Microsoft maintains its own Windows debloat scripts on GitHub](https://www.osnews.com/story/140955/microsoft-maintains-its-own-windows-debloat-scripts-on-github/)
+- [Paper: Feminism in Programming Language Design](https://www.felienne.com/archives/8470)
 
-- [Life of a Zed Extension: Rust, WIT, Wasm](https://zed.dev/blog/zed-decoded-extensions)
+- [Viewing MacOS system libraries in Ghidra](https://www.scriptalert.one/2024/10/24/ghidra-dyld-extraction.html)
 
-- [There is no such thing as a global method (in Ruby)](https://zverok.space/blog/2024-10-21-global_functions.html)
+- [Building a better and scalable system for data migrations](https://yorickpeterse.com/articles/building-a-better-and-scalable-system-for-data-migrations/)
+
+- [Keynote presentation by Hal Abelson and Gerald Sussman at the fourteenth RacketCon](https://youtu.be/_2qXIDO-cWw)
