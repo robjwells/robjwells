@@ -1,49 +1,45 @@
-- [Introducing quantized Llama models with increased speed and a reduced memory footprint](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/)
+- [The unreleased Commodore HHC-4's secret identity](http://oldvcr.blogspot.com/2024/10/the-unreleased-commodore-hhc-4s-secret.html)
 
-- [Smarter than 'Ctrl+F': Linking Directly to Web Page Content](https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html)
+- [An unexpected discovery: Automated reasoning often makes systems more efficient and easier to maintain](https://aws.amazon.com/blogs/security/an-unexpected-discovery-automated-reasoning-often-makes-systems-more-efficient-and-easier-to-maintain/)
 
-- [Request-reply in Postgres](https://blog.sequinstream.com/request-reply-in-postgres/)
+- [Understanding Round Robin DNS](https://blog.hyperknot.com/p/understanding-round-robin-dns)
 
-- [Logical vs Physical Data Types](https://blog.spiraldb.com/logical-vs-physical-data-types/)
+- [What’s New in POSIX 2024 – XCU](https://blog.toast.cafe/posix2024-xcu)
 
-- [Why did you write a new RTOS for CHERIoT?](https://cheriot.org/rtos/philosophy/history/2024/10/24/why-new-rtos.html)
+- [Introducing zizmor: now you can have beautiful clean workflows](https://blog.yossarian.net/2024/10/27/Now-you-can-have-beautiful-clean-workflows)
 
-- [A Practitioner's Guide to Wide Events](https://jeremymorrell.dev/blog/a-practitioners-guide-to-wide-events/)
+- [An Ode To Vim](https://bokwoon.com/posts/1khtfep-an-ode-to-vim/)
 
-- [On Rust in enterprise kernels](https://lwn.net/Articles/993337/)
+- [Thinking JavaScript (2017)](https://davidwalsh.name/thinking-javascript)
 
-- [Several Russian developers lose kernel maintainership status](https://lwn.net/Articles/995186/)
+- [A comparison of Rust’s borrow checker to the one in C#](https://em-tg.github.io/csborrow/)
 
-- [Bookmark Keywords: a hidden firefox feature](https://paper.wf/binarycat/bookmark-keywords)
+- [EICAR test file: a string that can trigger anti-virus](https://en.wikipedia.org/wiki/EICAR_test_file)
 
-- [Framework overload: when convenience dulls innovation in software development](https://prahladyeri.github.io/blog/2024/10/framework-overload.html)
+- [Platform Strategy and Its Discontents](https://infrequently.org/2024/10/platforms-are-competitions/)
 
-- [Rust Prism](https://registerspill.thorstenball.com/p/rust-prism)
+- [This site can't be reached, but the content still exists somewhere in the cosmos](https://ipfs.io/ipfs/QmcVwBYE7Apg8UyBMpeVV43imEBa4SJ51uENxi6kwLh7te)
 
-- [A Compiler for 3D Machine Knitting](https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20160705213118/A-Compiler-for-3D-Machine-Knitting-Paper.pdf)
+- [Using less memory to look up IP addresses in Mess With DNS](https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/)
 
-- [Security research on Private Cloud Compute](https://security.apple.com/blog/pcc-security-research/)
+- [Thoughts on the New Digital Feudalism](https://mhatta.medium.com/thoughts-on-the-new-digital-feudalism-a7a1e7c801b7)
 
-- [A line map for Milano's trams in TeX](https://stuebinm.eu/posts/milano-tram-network.html)
+- [The Basics](https://registerspill.thorstenball.com/p/the-basics)
 
-- [Embeddings are underrated](https://technicalwriting.dev/data/embeddings.html)
+- [A Secure, Local AI Solution for a Tidy Gmail Inbox](https://spamslaya.com)
 
-- [Announcing Toasty, an async ORM for Rust](https://tokio.rs/blog/2024-10-23-announcing-toasty)
+- [Typeset: An HTML pre-proces­sor for web ty­pog­ra­phy](https://typeset.lllllllllllllllll.com/)
 
-- [Type Tailoring](https://users.cs.utah.edu/~blg/publications/tt/wcfg-ecoop-2024.pdf)
+- [Rudimentary 3D on the 2D HTML Canvas](https://www.charlespetzold.com/blog/2024/09/Rudimentary-3D-on-the-2D-HTML-Canvas.html)
 
-- [React on the server is not PHP](https://www.artmann.co/articles/react-on-the-server-is-not-php)
+- [Simplifying the Bench Kona](https://www.projectgus.com/2024/10/simplifying-bench-kona/)
 
-- [Why Safety Profiles Failed](https://www.circle-lang.org/draft-profiles.html)
+- [The Zero Click Internet](https://www.techspot.com/article/2908-the-zero-click-internet/)
 
-- [A Typed Foundation for Directional Logic Programming](https://www.cs.bham.ac.uk/%7Eudr/papers/directional.pdf)
+- [Transaction Isolation in Postgres, explained](https://www.thenile.dev/blog/transaction-isolation-postgres)
 
-- [The Structure of a Programming Language Revolution (2012)](https://www.dreamsongs.com/Files/Incommensurability.pdf)
+- [Cloud-Native Database Systems and Unikernels: Reimagining OS Abstractions for Modern Hardware](https://www.vldb.org/pvldb/vol17/p2115-leis.pdf)
 
-- [Paper: Feminism in Programming Language Design](https://www.felienne.com/archives/8470)
+- [Mutation Testing Better Than Coverage](https://youtu.be/Ed6Ocs3U1v4)
 
-- [Viewing MacOS system libraries in Ghidra](https://www.scriptalert.one/2024/10/24/ghidra-dyld-extraction.html)
-
-- [Building a better and scalable system for data migrations](https://yorickpeterse.com/articles/building-a-better-and-scalable-system-for-data-migrations/)
-
-- [Keynote presentation by Hal Abelson and Gerald Sussman at the fourteenth RacketCon](https://youtu.be/_2qXIDO-cWw)
+- [Frosthaven Manager - Built by the Community](https://youtu.be/O33NK52ZmUk)
