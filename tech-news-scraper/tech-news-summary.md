@@ -1,49 +1,49 @@
-- [FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)
+- [Moving my game project from C to the Odin language](https://akselmo.dev/posts/moving-from-c-to-odin/)
 
-- [Nginx Explorer - File listing](https://blog.izissise.net/posts/ngxp-listing/)
+- [Scheduling Languages: A Past, Present, and Future Taxonomy](https://arxiv.org/abs/2410.19927)
 
-- [October project goals update (Rust project)](https://blog.rust-lang.org/2024/10/31/project-goals-oct-update.html)
+- [Disaggregated Storage - a brief introduction](https://avi.im/blag/2024/disaggregated-storage/)
 
-- [Fuzzing between the lines in popular barcode software](https://blog.trailofbits.com/2024/10/31/fuzzing-between-the-lines-in-popular-barcode-software/)
+- [C++, Complexity, and Compiler Bugs](https://azeemba.com/posts/cpp-complexity-compiler-bugs.html)
 
-- [the death of the architect](https://explaining.software/archive/the-death-of-the-architect/)
+- [The Original Author of the Fernflower Java Decompiler, Stiver, has Passed Away](https://blog.jetbrains.com/idea/2024/11/in-memory-of-stiver/)
 
-- [Happy Halloween](https://functional.cafe/@racketlang/113403293852367446)
+- [Re-ranking search results on the client side](https://blog.mwmbl.org/articles/reranking-on-the-client-side/)
 
-- [Lessons learned from a successful Rust rewrite](https://gaultier.github.io/blog/lessons_learned_from_a_successful_rust_rewrite.html)
+- [What has case distinction but is neither uppercase nor lowercase?](https://devblogs.microsoft.com/oldnewthing/20241031-00/?p=110443)
 
-- [Hurmet: A notebook for calculations](https://hurmet.org/sample)
+- [Rhombus: A New Spin on Macros without All the Parentheses](https://dl.acm.org/doi/10.1145/3622818)
 
-- [Hanging Punctuation in Pandoc](https://jez.io/pandoc-hanging-punctuation/)
+- [m4 crimes for metaprogramming Processing](https://eighty-twenty.org/2024/07/22/m4-crimes)
 
-- [ASCII control characters in my terminal](https://jvns.ca/blog/2024/10/31/ascii-control-characters/)
+- [Ranging over functions in Go 1.23](https://eli.thegreenplace.net/2024/ranging-over-functions-in-go-123/)
 
-- [Running a million empty tests](https://kodare.net/2024/10/31/a-million-tests.html)
+- [Time Standards Reference](https://geometrian.com/programming/reference/timestds/index.php)
 
-- [Nobody cares about decentralization until they do](https://kyefox.com/nobody-cares-about-decentralization-until-they-do/)
+- [qcp: QUIC File Copy](https://github.com/crazyscot/qcp)
 
-- [Cramming Solitaire onto a Nintendo E-Reader card](https://mattgreer.dev/blog/cramming-solitaire-onto-a-nintendo-ereader-card/)
+- [The Lounge: a Modern, responsive, cross-platform, self-hosted web IRC client](https://github.com/thelounge/thelounge)
 
-- [Checking linearizability in Go](https://notes.eatonphil.com/2024-10-31-checking-linearizability-in-go.html)
+- [RRB Vector: A Practical General Purpose Immutable Sequence](https://infoscience.epfl.ch/entities/publication/4bfdd194-457f-4ec0-953d-a7be55ec0e1b)
 
-- [A Dream of an Ultimate OS (1995)](https://okmij.org/ftp/DreamOS.html)
+- [CSS sprite sheet animations](https://leanrada.com/notes/css-sprite-sheets/)
 
-- [Hotwire is... boring](https://old.reddit.com/r/rails/comments/1gg8516/hotwire_is_boring/)
+- [Having fun with modern C++](https://lemire.me/blog/2024/11/02/having-fun-with-modern-c/)
 
-- [Seven Obscure Languages in Seven Weeks](https://pragprog.com/titles/dzseven/seven-obscure-languages-in-seven-weeks/)
+- [Writing integration tests for a Go CLI application](https://lucapette.me/writing/writing-integration-tests-for-a-go-cli-application/)
 
-- [Everyone is wrong about that Slack flowchart](https://sophiebits.com/2024/10/30/everyone-is-wrong-about-that-slack-flowchart)
+- [Ruby on (Guard)Rails](https://mikemcquaid.com/ruby-on-guard-rails/)
 
-- [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/)
+- [Breaking CityHash64, MurmurHash2/3, wyhash, and more](https://orlp.net/blog/breaking-hash-functions/)
 
-- [Control characters in ASCII and Unicode](https://www.aivosto.com/articles/control-characters.html)
+- [Model checking safety of Ben-Or’s Byzantine consensus with Apalache](https://protocols-made-fun.com/specification/modelchecking/tlaplus/apalache/2024/11/03/ben-or.html)
 
-- [The Dual Nature of Events in Event-Driven Architecture](https://www.reactivesystems.eu/2024/10/31/the-dual-nature-of-events-in-eda.html)
+- [Say the prime](https://saytheprime.com/)
 
-- [How on Earth does ^.?$|^(..+?)\1+$ produce primes?](https://www.youtube.com/watch?v=5vbk0TwkokM)
+- [Macros, Safety, and SOA](https://tim-harding.github.io/blog/soa-rs/)
 
-- [Programming Languages That Blew My Mind (2023)](https://yoric.github.io/post/programming-languages-that-blew-my-mind/)
+- [A game to understand AI alignment by making paperclips](https://www.decisionproblem.com/paperclips/index2.html)
 
-- [Pony: High-Performance, Memory-Safe Actors](https://youtu.be/u9da3UzEhEI)
+- [Matrix and XMPP: Thoughts on Improving Messaging Protocols – Part 1](https://www.process-one.net/blog/matrix-and-xmpp-thoughts-on-improving-messaging-protocols-part-1/)
 
-- [Zed - SSH Remoting is Here](https://zed.dev/blog/remote-development)
+- [Rust's Most Subtle Syntax](https://zkrising.com/writing/rusts-most-subtle-syntax/)
