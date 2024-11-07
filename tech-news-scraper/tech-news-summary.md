@@ -1,49 +1,47 @@
-- [Moving my game project from C to the Odin language](https://akselmo.dev/posts/moving-from-c-to-odin/)
+- [Turing kicked us out of Heaven (2023)](https://buttondown.com/hillelwayne/archive/turing-kicked-us-out-of-heaven/)
 
-- [Scheduling Languages: A Past, Present, and Future Taxonomy](https://arxiv.org/abs/2410.19927)
+- [Vegetation in COD:BO4](https://c0de517e.com/015_vegetation_system.htm)
 
-- [Disaggregated Storage - a brief introduction](https://avi.im/blag/2024/disaggregated-storage/)
+- [How to Add a Blazor Server App to an ASP.NET Model/Controller Web API](https://danschnau.com/blog/how_to_add_a_Blazor_Server_App_to_an_ASPNET_Controller_Web_API)
 
-- [C++, Complexity, and Compiler Bugs](https://azeemba.com/posts/cpp-complexity-compiler-bugs.html)
+- [getopt() but smaller](https://dotat.at/@/2024-11-06-getopt.html)
 
-- [The Original Author of the Fernflower Java Decompiler, Stiver, has Passed Away](https://blog.jetbrains.com/idea/2024/11/in-memory-of-stiver/)
+- [Fruit Credits: a personal accounting app based on hledger](https://dz4k.com/2024/fruit-credits/)
 
-- [Re-ranking search results on the client side](https://blog.mwmbl.org/articles/reranking-on-the-client-side/)
+- [Perhaps Rust needs "defer"](https://gaultier.github.io/blog/perhaps_rust_needs_defer.html)
 
-- [What has case distinction but is neither uppercase nor lowercase?](https://devblogs.microsoft.com/oldnewthing/20241031-00/?p=110443)
+- [Localized, web-based, markdown, note-taking app inspired by textpod](https://github.com/Xafloc/NoteFlow)
 
-- [Rhombus: A New Spin on Macros without All the Parentheses](https://dl.acm.org/doi/10.1145/3622818)
+- [Why Podia doesn’t use review apps anymore](https://jamie.ideasasylum.com/2024/10/31/why-podia-doesnt-use-review-apps-anymore)
 
-- [m4 crimes for metaprogramming Processing](https://eighty-twenty.org/2024/07/22/m4-crimes)
+- [Emulator of Odra 1003/1013, Polish mainframes of the 1960s](https://klemens-czajka-xyz.translate.goog/?_x_tr_sl=pl&_x_tr_tl=en&_x_tr_hl=pl&_x_tr_pto=wapp)
 
-- [Ranging over functions in Go 1.23](https://eli.thegreenplace.net/2024/ranging-over-functions-in-go-123/)
+- [Upcoming changes to the DNSSEC root trust anchor](https://lists.dns-oarc.net/pipermail/dns-operations/2024-November/022711.html)
 
-- [Time Standards Reference](https://geometrian.com/programming/reference/timestds/index.php)
+- [Rust Syn Crate Tutorial: Automate Builder Patterns with Custom Macros](https://packetandpine.com/blog/rust-syn-crate-tutorial/)
 
-- [qcp: QUIC File Copy](https://github.com/crazyscot/qcp)
+- [Reliable Immutable Transfer Protocol](https://paper.wf/binarycat/reliable-immutable-transfer-protocol)
 
-- [The Lounge: a Modern, responsive, cross-platform, self-hosted web IRC client](https://github.com/thelounge/thelounge)
+- [Thinking About Recipe Formats More Than Anyone Should](https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/)
 
-- [RRB Vector: A Practical General Purpose Immutable Sequence](https://infoscience.epfl.ch/entities/publication/4bfdd194-457f-4ec0-953d-a7be55ec0e1b)
+- [Implementing distributed pooling in Elixir](https://samrat.me/elixir-distributed-pooling/)
 
-- [CSS sprite sheet animations](https://leanrada.com/notes/css-sprite-sheets/)
+- [Configuring SSH Keys for Multiple GitHub Accounts](https://stevenharman.net/configure-ssh-keys-for-multiple-github-accounts)
 
-- [Having fun with modern C++](https://lemire.me/blog/2024/11/02/having-fun-with-modern-c/)
+- [How to Learn: Userland Disk I/O](https://transactional.blog/how-to-learn/disk-io)
 
-- [Writing integration tests for a Go CLI application](https://lucapette.me/writing/writing-integration-tests-for-a-go-cli-application/)
+- [We can have a different web](https://www.citationneeded.news/we-can-have-a-different-web/)
 
-- [Ruby on (Guard)Rails](https://mikemcquaid.com/ruby-on-guard-rails/)
+- [Exploring Postgres's arena allocator by writing an HTTP server from scratch](https://www.enterprisedb.com/blog/exploring-postgress-arena-allocator-writing-http-server-scratch)
 
-- [Breaking CityHash64, MurmurHash2/3, wyhash, and more](https://orlp.net/blog/breaking-hash-functions/)
+- [Zig's (.{}){} syntax](https://www.openmymind.net/Zigs-weird-syntax/)
 
-- [Model checking safety of Ben-Or’s Byzantine consensus with Apalache](https://protocols-made-fun.com/specification/modelchecking/tlaplus/apalache/2024/11/03/ben-or.html)
+- [Thoughts on Improving Messaging Protocols — Part 2, Matrix](https://www.process-one.net/blog/thoughts-on-improving-messaging-protocols-part-2-matrix/)
 
-- [Say the prime](https://saytheprime.com/)
+- [How WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill)
 
-- [Macros, Safety, and SOA](https://tim-harding.github.io/blog/soa-rs/)
+- [GoToSocial WASM-based SQLite driver and BSD](https://www.tumfatig.net/2024/gotosocial-wasm-based-sqlite-driver-and-bsd/)
 
-- [A game to understand AI alignment by making paperclips](https://www.decisionproblem.com/paperclips/index2.html)
+- [Visualizing binary files with ImHex's DSL, the "pattern language"](https://xy2i.blogspot.com/2024/11/using-imhexs-pattern-language-to-parse.html)
 
-- [Matrix and XMPP: Thoughts on Improving Messaging Protocols – Part 1](https://www.process-one.net/blog/matrix-and-xmpp-thoughts-on-improving-messaging-protocols-part-1/)
-
-- [Rust's Most Subtle Syntax](https://zkrising.com/writing/rusts-most-subtle-syntax/)
+- [The Unreasonable Effectiveness of Naming Integers](https://ziglang.org/devlog/2024/#2024-11-04)
