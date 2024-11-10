@@ -1,47 +1,49 @@
-- [Turing kicked us out of Heaven (2023)](https://buttondown.com/hillelwayne/archive/turing-kicked-us-out-of-heaven/)
+- [Algol 68 – A Retrospective](https://accu.org/journals/overload/26/148/james_2586/)
 
-- [Vegetation in COD:BO4](https://c0de517e.com/015_vegetation_system.htm)
+- [How to self-host all of Bluesky (except the AppView (for now))](https://alice.bsky.sh/post/3laega7icmi2q)
 
-- [How to Add a Blazor Server App to an ASP.NET Model/Controller Web API](https://danschnau.com/blog/how_to_add_a_Blazor_Server_App_to_an_ASPNET_Controller_Web_API)
+- [Mergiraf: a syntax-aware merge driver for Git](https://antonin.delpeuch.eu/posts/mergiraf-a-syntax-aware-merge-driver-for-git/)
 
-- [getopt() but smaller](https://dotat.at/@/2024-11-06-getopt.html)
+- [PSA: SQLite does not do checksums](https://avi.im/blag/2024/sqlite-bit-flip/)
 
-- [Fruit Credits: a personal accounting app based on hledger](https://dz4k.com/2024/fruit-credits/)
+- [An alternative idea for a typed language living alongside/inside JavaScript](https://axisofeval.blogspot.com/2024/11/an-alternative-idea-for-typed-language.html)
 
-- [Perhaps Rust needs "defer"](https://gaultier.github.io/blog/perhaps_rust_needs_defer.html)
+- [A mental model for Linux file, hard and soft links](https://bhoot.dev/2024/on-linux-file-and-links/)
 
-- [Localized, web-based, markdown, note-taking app inspired by textpod](https://github.com/Xafloc/NoteFlow)
+- [Rust's Sneaky Deadlock With `if let` Blocks](https://brooksblog.bearblog.dev/rusts-sneaky-deadlock-with-if-let-blocks/)
 
-- [Why Podia doesn’t use review apps anymore](https://jamie.ideasasylum.com/2024/10/31/why-podia-doesnt-use-review-apps-anymore)
+- [Algol-68 seemed like a good idea – until it wasn’t](https://craftofcoding.wordpress.com/2024/10/21/algol-68-seemed-like-a-good-idea-until-it-wasnt/)
 
-- [Emulator of Odra 1003/1013, Polish mainframes of the 1960s](https://klemens-czajka-xyz.translate.goog/?_x_tr_sl=pl&_x_tr_tl=en&_x_tr_hl=pl&_x_tr_pto=wapp)
+- [Following up "Mother of all htmx demos"](https://david.guillot.me/en/posts/tech/following-up-mother-of-all-htmx-demos/)
 
-- [Upcoming changes to the DNSSEC root trust anchor](https://lists.dns-oarc.net/pipermail/dns-operations/2024-November/022711.html)
+- [Announcing Planet Nix](https://discourse.nixos.org/t/announcing-planet-nix/55350)
 
-- [Rust Syn Crate Tutorial: Automate Builder Patterns with Custom Macros](https://packetandpine.com/blog/rust-syn-crate-tutorial/)
+- [Debian GSoC 2024 Final Reports](https://framapiaf.org/@debian/113449676325133480)
 
-- [Reliable Immutable Transfer Protocol](https://paper.wf/binarycat/reliable-immutable-transfer-protocol)
+- [Known Attacks On Elliptic Curve Cryptography](https://github.com/elikaski/ECC_Attacks)
 
-- [Thinking About Recipe Formats More Than Anyone Should](https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/)
+- [Discussion: Adding memory regions to Go](https://github.com/golang/go/discussions/70257)
 
-- [Implementing distributed pooling in Elixir](https://samrat.me/elixir-distributed-pooling/)
+- [When Machine Learning Tells the Wrong Story](https://jackcook.com/2024/11/09/bigger-fish.html)
 
-- [Configuring SSH Keys for Multiple GitHub Accounts](https://stevenharman.net/configure-ssh-keys-for-multiple-github-accounts)
+- [A New Era of macOS Sandbox Escapes: Overlooked Attack Surface, 10+ New Vulns](https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/)
 
-- [How to Learn: Userland Disk I/O](https://transactional.blog/how-to-learn/disk-io)
+- [SNES & PlayStation cubic ADPCM interpolation](https://jsgroth.dev/blog/posts/snes-ps1-cubic-adpcm-interpolation/)
 
-- [We can have a different web](https://www.citationneeded.news/we-can-have-a-different-web/)
+- [The BPF instruction set architecture is now RFC 9669](https://lwn.net/Articles/997002/)
 
-- [Exploring Postgres's arena allocator by writing an HTTP server from scratch](https://www.enterprisedb.com/blog/exploring-postgress-arena-allocator-writing-http-server-scratch)
+- [Regular Restarts Are Good, Actually](https://matt.blwt.io/post/regular-restarts-are-good-actually/)
 
-- [Zig's (.{}){} syntax](https://www.openmymind.net/Zigs-weird-syntax/)
+- [Tone of Life](https://matthewbilyeu.com/tone-of-life.html?saved=AAAAAADgAYAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=)
 
-- [Thoughts on Improving Messaging Protocols — Part 2, Matrix](https://www.process-one.net/blog/thoughts-on-improving-messaging-protocols-part-2-matrix/)
+- [GenMC: Model checking for concurrent C programs](https://plv.mpi-sws.org/genmc/)
 
-- [How WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill)
+- [How We Built a Self-Healing System to Survive a Terrifying Concurrency Bug At Netflix](https://pushtoprod.substack.com/p/netflix-terrifying-concurrency-bug)
 
-- [GoToSocial WASM-based SQLite driver and BSD](https://www.tumfatig.net/2024/gotosocial-wasm-based-sqlite-driver-and-bsd/)
+- [Rails 8.0: No PaaS Required](https://rubyonrails.org/2024/11/7/rails-8-no-paas-required)
 
-- [Visualizing binary files with ImHex's DSL, the "pattern language"](https://xy2i.blogspot.com/2024/11/using-imhexs-pattern-language-to-parse.html)
+- [Unused keys in vim](https://vim.fandom.com/wiki/Unused_keys)
 
-- [The Unreasonable Effectiveness of Naming Integers](https://ziglang.org/devlog/2024/#2024-11-04)
+- [Building Bridges to C++](https://www.circle-lang.org/interop.html)
+
+- [QNX becomes free for non-commercial use](https://www.osnews.com/story/141089/qnx-becomes-free-for-non-commercial-use-releases-raspberry-pi-4-image/)
