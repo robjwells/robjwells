@@ -1,49 +1,47 @@
-- [Algol 68 – A Retrospective](https://accu.org/journals/overload/26/148/james_2586/)
+- [Jujutsu: A Haven for Mercurial Users at Mozilla](https://ahal.ca/blog/2024/jujutsu-mercurial-haven/)
 
-- [How to self-host all of Bluesky (except the AppView (for now))](https://alice.bsky.sh/post/3laega7icmi2q)
+- [What does f(x) mean in C++?](https://biowpn.github.io/bioweapon/2024/11/12/what-does-f-x-mean.html)
 
-- [Mergiraf: a syntax-aware merge driver for Git](https://antonin.delpeuch.eu/posts/mergiraf-a-syntax-aware-merge-driver-for-git/)
+- [VMware Fusion and Workstation now free for all users](https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/)
 
-- [PSA: SQLite does not do checksums](https://avi.im/blag/2024/sqlite-bit-flip/)
+- [The CVM Algorithm](https://buttondown.com/jaffray/archive/the-cvm-algorithm/)
 
-- [An alternative idea for a typed language living alongside/inside JavaScript](https://axisofeval.blogspot.com/2024/11/an-alternative-idea-for-typed-language.html)
+- [What I Wish Someone Told Me About Postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
 
-- [A mental model for Linux file, hard and soft links](https://bhoot.dev/2024/on-linux-file-and-links/)
+- [Announcing .NET 9](https://devblogs.microsoft.com/dotnet/announcing-dotnet-9/)
 
-- [Rust's Sneaky Deadlock With `if let` Blocks](https://brooksblog.bearblog.dev/rusts-sneaky-deadlock-with-if-let-blocks/)
+- [Dijkstra’s Rallying Cry for Generalization: The Advent of the Recursive Procedure, late 1950s — early 1960s](https://dijkstrascry.com/sites/default/files/papers/preprint_0.pdf)
 
-- [Algol-68 seemed like a good idea – until it wasn’t](https://craftofcoding.wordpress.com/2024/10/21/algol-68-seemed-like-a-good-idea-until-it-wasnt/)
+- [There is no road from here to there](https://discourse.suttacentral.net/t/ai-3-there-is-no-road-from-here-to-there/33426)
 
-- [Following up "Mother of all htmx demos"](https://david.guillot.me/en/posts/tech/following-up-mother-of-all-htmx-demos/)
+- [Playing Bad Apple over RSS](https://ersei.net/en/blog/bad-apple-rss)
 
-- [Announcing Planet Nix](https://discourse.nixos.org/t/announcing-planet-nix/55350)
+- [Go Turns 15](https://go.dev/blog/15years)
 
-- [Debian GSoC 2024 Final Reports](https://framapiaf.org/@debian/113449676325133480)
+- [Jepsen: Bufstream 0.1.0](https://jepsen.io/analyses/bufstream-0.1.0)
 
-- [Known Attacks On Elliptic Curve Cryptography](https://github.com/elikaski/ECC_Attacks)
+- [Hot Tub Monitoring with Home Assistant and ESPHome](https://jnsgr.uk/2024/11/hot-tub-monitoring-with-esphome/)
 
-- [Discussion: Adding memory regions to Go](https://github.com/golang/go/discussions/70257)
+- [Git and jujutsu: in miniature](https://lottia.net/notes/0013-git-jujutsu-miniature.html)
 
-- [When Machine Learning Tells the Wrong Story](https://jackcook.com/2024/11/09/bigger-fish.html)
+- [Adopting Bazel for Web at Scale](https://medium.com/airbnb-engineering/adopting-bazel-for-web-at-scale-a784b2dbe325)
 
-- [A New Era of macOS Sandbox Escapes: Overlooked Attack Surface, 10+ New Vulns](https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/)
+- [Hyperlight - Running functions in virtual machines](https://opensource.microsoft.com/blog/2024/11/07/introducing-hyperlight-virtual-machine-based-security-for-functions-at-scale/)
 
-- [SNES & PlayStation cubic ADPCM interpolation](https://jsgroth.dev/blog/posts/snes-ps1-cubic-adpcm-interpolation/)
+- [Using portable SIMD in stable Rust](https://pythonspeed.com/articles/simd-stable-rust/)
 
-- [The BPF instruction set architecture is now RFC 9669](https://lwn.net/Articles/997002/)
+- [Typed ENV Vars for Valid Environments from Dev to Production](https://runme.dev/blog/typed-env-vars)
 
-- [Regular Restarts Are Good, Actually](https://matt.blwt.io/post/regular-restarts-are-good-actually/)
+- [Qwen2.5-Coder-32B is an LLM that can code well that runs on my Mac](https://simonwillison.net/2024/Nov/12/qwen25-coder/)
 
-- [Tone of Life](https://matthewbilyeu.com/tone-of-life.html?saved=AAAAAADgAYAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=)
+- [Abusing Ubuntu 24.04 features for root privilege escalation](https://snyk.io/blog/abusing-ubuntu-root-privilege-escalation/)
 
-- [GenMC: Model checking for concurrent C programs](https://plv.mpi-sws.org/genmc/)
+- [Rust needs an official specification](https://tweedegolf.nl/en/blog/140/rust-needs-an-official-specification)
 
-- [How We Built a Self-Healing System to Survive a Terrifying Concurrency Bug At Netflix](https://pushtoprod.substack.com/p/netflix-terrifying-concurrency-bug)
+- [fmt.Sprintf vs String Concat](https://www.dolthub.com/blog/2024-11-08-sprintf-vs-concat/)
 
-- [Rails 8.0: No PaaS Required](https://rubyonrails.org/2024/11/7/rails-8-no-paas-required)
+- [3rd edition of Ross Anderson’s Security Engineering book now freely available for download](https://www.lightbluetouchpaper.org/2024/11/12/sev3-download/)
 
-- [Unused keys in vim](https://vim.fandom.com/wiki/Unused_keys)
+- [Flaunting the Internet Protocols with Tunnels](https://www.macchaffee.com/blog/2024/tunneling/)
 
-- [Building Bridges to C++](https://www.circle-lang.org/interop.html)
-
-- [QNX becomes free for non-commercial use](https://www.osnews.com/story/141089/qnx-becomes-free-for-non-commercial-use-releases-raspberry-pi-4-image/)
+- [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/)
