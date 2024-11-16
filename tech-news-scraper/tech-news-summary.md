@@ -1,47 +1,47 @@
-- [Jujutsu: A Haven for Mercurial Users at Mozilla](https://ahal.ca/blog/2024/jujutsu-mercurial-haven/)
+- [Dusting off Dreamcast Linux](http://oldvcr.blogspot.com/2023/02/dusting-off-dreamcast-linux.html?m=1)
 
-- [What does f(x) mean in C++?](https://biowpn.github.io/bioweapon/2024/11/12/what-does-f-x-mean.html)
+- [How Westwood VQA works](https://30fps.net/pages/vqa/)
 
-- [VMware Fusion and Workstation now free for all users](https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/)
+- [Maybe Bluesky has “won”](https://anderegg.ca/2024/11/15/maybe-bluesky-has-won)
 
-- [The CVM Algorithm](https://buttondown.com/jaffray/archive/the-cvm-algorithm/)
+- [Fuzzing the PHP Interpreter via Dataflow Fusion](https://arxiv.org/pdf/2410.21713)
 
-- [What I Wish Someone Told Me About Postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
+- [Attestations: A new generation of signatures on PyPI](https://blog.trailofbits.com/2024/11/14/attestations-a-new-generation-of-signatures-on-pypi/)
 
-- [Announcing .NET 9](https://devblogs.microsoft.com/dotnet/announcing-dotnet-9/)
+- [macOS Tips](https://blog.xoria.org/macos-tips/)
 
-- [Dijkstra’s Rallying Cry for Generalization: The Advent of the Recursive Procedure, late 1950s — early 1960s](https://dijkstrascry.com/sites/default/files/papers/preprint_0.pdf)
+- [Thoughts on Django’s Core](https://buttondown.com/carlton/archive/thoughts-on-djangos-core)
 
-- [There is no road from here to there](https://discourse.suttacentral.net/t/ai-3-there-is-no-road-from-here-to-there/33426)
+- [What makes concurrency so hard?](https://buttondown.com/hillelwayne/archive/what-makes-concurrency-so-hard/)
 
-- [Playing Bad Apple over RSS](https://ersei.net/en/blog/bad-apple-rss)
+- [A Linux Desktop for the family](https://chronicles.mad-scientist.club/tales/linux-desktop-for-the-family/)
 
-- [Go Turns 15](https://go.dev/blog/15years)
+- [In Memoriam: Thomas E. Kurtz, co-inventor of BASIC, 1928–2024](https://computerhistory.org/blog/in-memoriam-thomas-e-kurtz-1928-2024/)
 
-- [Jepsen: Bufstream 0.1.0](https://jepsen.io/analyses/bufstream-0.1.0)
+- [Stop Making Me Memorize The Borrow Checker](https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/)
 
-- [Hot Tub Monitoring with Home Assistant and ESPHome](https://jnsgr.uk/2024/11/hot-tub-monitoring-with-esphome/)
+- [I've been working on a borrow checker for C... (also makes sure you `free`) (context in post text)](https://gist.github.com/nikki93/2bb11237bf76fceb0bf687d6d9eef1b3#file-00-example-c)
 
-- [Git and jujutsu: in miniature](https://lottia.net/notes/0013-git-jujutsu-miniature.html)
+- [Gliimly is a programming language for web services](https://gliimly.github.io/)
 
-- [Adopting Bazel for Web at Scale](https://medium.com/airbnb-engineering/adopting-bazel-for-web-at-scale-a784b2dbe325)
+- [You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths](https://htmx.org/essays/you-cant/)
 
-- [Hyperlight - Running functions in virtual machines](https://opensource.microsoft.com/blog/2024/11/07/introducing-hyperlight-virtual-machine-based-security-for-functions-at-scale/)
+- [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
 
-- [Using portable SIMD in stable Rust](https://pythonspeed.com/articles/simd-stable-rust/)
+- [Implementing Type Systems as Macros](https://lambdaland.org/posts/2023-08-14_types_with_macros/)
 
-- [Typed ENV Vars for Valid Environments from Dev to Production](https://runme.dev/blog/typed-env-vars)
+- [We’re (finally) going to the cloud](https://meta.stackexchange.com/questions/404231/we-re-finally-going-to-the-cloud)
 
-- [Qwen2.5-Coder-32B is an LLM that can code well that runs on my Mac](https://simonwillison.net/2024/Nov/12/qwen25-coder/)
+- [Announcing Prometheus 3.0](https://prometheus.io/blog/2024/11/14/prometheus-3-0/)
 
-- [Abusing Ubuntu 24.04 features for root privilege escalation](https://snyk.io/blog/abusing-ubuntu-root-privilege-escalation/)
+- [Why is std::pin::Pin so weird?](https://sander.saares.eu/2024/11/06/why-is-stdpinpin-so-weird/)
 
-- [Rust needs an official specification](https://tweedegolf.nl/en/blog/140/rust-needs-an-official-specification)
+- [Retrofitting spatial safety to hundreds of millions of lines of C++](https://security.googleblog.com/2024/11/retrofitting-spatial-safety-to-hundreds.html?m=1)
 
-- [fmt.Sprintf vs String Concat](https://www.dolthub.com/blog/2024-11-08-sprintf-vs-concat/)
+- [What To Use Instead of PGP](https://soatok.blog/2024/11/15/what-to-use-instead-of-pgp/)
 
-- [3rd edition of Ross Anderson’s Security Engineering book now freely available for download](https://www.lightbluetouchpaper.org/2024/11/12/sev3-download/)
+- [A rustc soundness bug in the wild](https://specy.app/blog/posts/a-rustc-soundness-bug-in-the-wild)
 
-- [Flaunting the Internet Protocols with Tunnels](https://www.macchaffee.com/blog/2024/tunneling/)
+- [Cycling while typing](https://www.ohrg.org/cycling-typing)
 
-- [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/)
+- [Huawei develops 72TB SSD-tape hybrid storage device](https://www.tomshardware.com/pc-components/storage/huawei-develops-ssd-tape-hybrid-storage-device-for-warm-and-cold-storage-first-gen-med-drive-holds-up-to-72tb)
