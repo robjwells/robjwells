@@ -1,47 +1,47 @@
-- [ChatGPT is Slipping](https://adriano.fyi/posts/chatgpt-is-slipping/)
+- [Where’s _why? What Happened When One of the World’s Most Beloved Programmers Vanished (2012)](http://www.slate.com/articles/technology/technology/2012/03/ruby_ruby_on_rails_and__why_the_disappearance_of_one_of_the_world_s_most_beloved_computer_programmers_.html)
 
-- [It’s Time to Replace TCP in the Datacenter (2023)](https://arxiv.org/pdf/2210.00714)
+- [Arcan: A deeper dive into the SHMIF IPC system](https://arcan-fe.com/2024/11/21/a-deeper-dive-into-the-shmif-ipc-system/)
 
-- [Build your own SQLite in Rust, Part 3: SQL parsing 101](https://blog.sylver.dev/build-your-own-sqlite-part-3-sql-parsing-101)
+- [Why I stopped using OpenBSD](https://dataswamp.org/~solene/2024-11-15-why-i-stopped-using-openbsd.html)
 
-- [n times faster than C, Arm edition](https://blog.xoria.org/n-times-faster/)
+- [Delta Chat introduces realtime Peer-to-Peer networking](https://delta.chat/en/2024-11-20-webxdc-realtime)
 
-- [Security means securing people where they are](https://blog.yossarian.net/2024/11/18/Security-means-securing-people-where-they-are)
+- [Pidgin 3.0.0 Experimental 1 Announcement](https://discourse.imfreedom.org/t/pidgin-3-0-0-experimental-1-announcement/216)
 
-- [Story-time: C++, bounds checking, performance, and compilers](https://chandlerc.blog/posts/2024/11/story-time-bounds-checking/)
+- [Memory management and safety in Bismuth VM](https://enikofox.com/posts/memory-management-and-safety-in-bismuth-vm/)
 
-- [How Many Values Does a Boolean Have? (2020)](https://danilafe.com/blog/boolean_values/)
+- [Native compilation of Prolog predicates with Cranelift](https://files.adrianistan.eu/talk2024.pdf)
 
-- [Why did Windows 95 setup use three operating systems?](https://devblogs.microsoft.com/oldnewthing/20241112-00/?p=110507)
+- [Handling Cookies is a Minefield](https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/)
 
-- [RE: your application environment variables](https://edoput.it/2024/11/18/your-application-environment-variables.html)
+- [Jainja: a JVM written in Java](https://jainja.thenesis.org/home)
 
-- [Optimization adventures: making a parallel Rust workload 10x faster with (or without) Rayon](https://gendignoux.com/blog/2024/11/18/rust-rayon-optimized.html)
+- [OSC52: My Cut & Paste Journey](https://miek.nl/2024/january/31/osc52-my-cut-paste-journey/)
 
-- [raylib v5.5](https://github.com/raysan5/raylib/discussions/4503)
+- [They all use it](https://registerspill.thorstenball.com/p/they-all-use-it)
 
-- [Gleam v1.6.0 released](https://gleam.run/news/context-aware-compilation/)
+- [The stereographic projection of the Stern–Brocot tree](https://richardt.io/stereo_stern/)
 
-- [Gotraceui](https://gotraceui.dev/)
+- [The Entrust Distrust Will Be More Disruptive Than Intended](https://sslmate.com/blog/post/entrust_distrust_more_disruptive_than_intended)
 
-- [httpd.rocks - Setup an HTTPS-enabled web-server with httpd on OpenBSD](https://httpd.rocks)
+- [United States of America vs. Google LLC](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1062.1_1.pdf)
 
-- [Importing a frontend Javascript library without a build system](https://jvns.ca/blog/2024/11/18/how-to-import-a-javascript-library/)
+- [Async/Await Is Real And Can Hurt You](https://trouble.mataroa.blog/blog/asyncawait-is-real-and-can-hurt-you/)
 
-- [Threads Beat Async/Await](https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/)
+- [The Big Data Center Water Problem](https://www.asianometry.com/p/the-big-data-center-water-problem)
 
-- [I was banned from the hCaptcha accessibility account for not being blind (2023)](https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/)
+- [The future of bcachefs in the kernel is uncertain](https://www.patreon.com/posts/trouble-in-116412665)
 
-- [[...] Bandwidth [...] is now a solvable problem](https://queue.acm.org/detail.cfm?id=3674953)
+- [PHP 8.4.0 Release Announcement](https://www.php.net/releases/8.4/en.php)
 
-- [Adding Apple's Globe key to a QMK-powered keyboard](https://skip.house/blog/qmk-globe-key)
+- [FreeBSD 14 on a Laptop](https://www.sacredheartsc.com/blog/freebsd-14-on-the-desktop/)
 
-- [chawan: TUI Web Browser](https://sr.ht/~bptato/chawan/)
+- [Introducing our grid-aware websites project](https://www.thegreenwebfoundation.org/news/introducing-our-grid-aware-websites-project/)
 
-- [The missing text focused programming environment](https://utcc.utoronto.ca/~cks/space/blog/programming/MissingTextProgrammingEnvironment)
+- [Compiling Haskell to WebAssembly: A Step-by-Step Guide](https://www.tushar-adhatrao.in/blogs/haskell_to_wasm.html)
 
-- [Introducing DjangoVer](https://www.b-list.org/weblog/2024/nov/18/djangover/)
+- [GHC's WebAssembly backend now supports Template Haskell and GHCi](https://www.tweag.io/blog/2024-11-21-ghc-wasm-th-ghci/)
 
-- [A Walk with LuaJIT](https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding)
+- [BEAM's bright future with Gleam (and JavaScript?)](https://www.youtube.com/watch?v=fhJBEuJjxFQ&t=389s)
 
-- [What if Kubernetes was a Compiler Target?](https://www.youtube.com/watch?v=QcYsGytNBe8)
+- [TIL: Some surprising code execution sources in bash](https://yossarian.net/til/post/some-surprising-code-execution-sources-in-bash)
