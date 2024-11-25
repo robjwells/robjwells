@@ -1,47 +1,49 @@
-- [Where’s _why? What Happened When One of the World’s Most Beloved Programmers Vanished (2012)](http://www.slate.com/articles/technology/technology/2012/03/ruby_ruby_on_rails_and__why_the_disappearance_of_one_of_the_world_s_most_beloved_computer_programmers_.html)
+- [FLENG 22 - a compiler for FHGC, Strand, PCN and KL1](http://www.call-with-current-continuation.org/fleng/fleng.html)
 
-- [Arcan: A deeper dive into the SHMIF IPC system](https://arcan-fe.com/2024/11/21/a-deeper-dive-into-the-shmif-ipc-system/)
+- [Print debugging: a tool among other tools](https://andydote.co.uk/2024/11/24/print-debugging-tracing/)
 
-- [Why I stopped using OpenBSD](https://dataswamp.org/~solene/2024-11-15-why-i-stopped-using-openbsd.html)
+- [Zero Disk Architecture](https://avi.im/blag/2024/zero-disk-architecture/)
 
-- [Delta Chat introduces realtime Peer-to-Peer networking](https://delta.chat/en/2024-11-20-webxdc-realtime)
+- [Coalescence: making LLM inference 5x faster](https://blog.dottxt.co/coalescence.html)
 
-- [Pidgin 3.0.0 Experimental 1 Announcement](https://discourse.imfreedom.org/t/pidgin-3-0-0-experimental-1-announcement/216)
+- [Lecture 16: Relational Algebra](https://courses.cs.washington.edu/courses/cse444/10sp/lectures/lecture16.pdf)
 
-- [Memory management and safety in Bismuth VM](https://enikofox.com/posts/memory-management-and-safety-in-bismuth-vm/)
+- [Configuring VSCode with Nix on macOS](https://davi.sh/blog/2024/11/nix-vscode/)
 
-- [Native compilation of Prolog predicates with Cranelift](https://files.adrianistan.eu/talk2024.pdf)
+- [[RFC] A ClangIR based Safe C++](https://discourse.llvm.org/t/rfc-a-clangir-based-safe-c/83245)
 
-- [Handling Cookies is a Minefield](https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/)
+- [Are Golang Generics Simple or Incomplete? A Design Study](https://dolthub.com/blog/2024-11-22-are-golang-generics-simple-or-incomplete-1/)
 
-- [Jainja: a JVM written in Java](https://jainja.thenesis.org/home)
+- [Petnames: A humane approach to secure, decentralized naming](https://files.spritely.institute/papers/petnames.html)
 
-- [OSC52: My Cut & Paste Journey](https://miek.nl/2024/january/31/osc52-my-cut-paste-journey/)
+- [open-interpreter: A natural language interface for computers](https://github.com/OpenInterpreter/open-interpreter)
 
-- [They all use it](https://registerspill.thorstenball.com/p/they-all-use-it)
+- [Getting to Go: The Journey of Go's Garbage Collector](https://go.dev/blog/ismmkeynote)
 
-- [The stereographic projection of the Stern–Brocot tree](https://richardt.io/stereo_stern/)
+- [The two factions of C++](https://herecomesthemoon.net/2024/11/two-factions-of-cpp/)
 
-- [The Entrust Distrust Will Be More Disruptive Than Intended](https://sslmate.com/blog/post/entrust_distrust_more_disruptive_than_intended)
+- [Codin' Dirty](https://htmx.org/essays/codin-dirty/)
 
-- [United States of America vs. Google LLC](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1062.1_1.pdf)
+- [Mark–Scavenge: Waiting for Trash to Take Itself Out](https://inside.java/2024/11/22/mark-scavenge-gc/)
 
-- [Async/Await Is Real And Can Hurt You](https://trouble.mataroa.blog/blog/asyncawait-is-real-and-can-hurt-you/)
+- [Breaking out of VRChat using a Unity bug](https://khang06.github.io/vrcescape/)
 
-- [The Big Data Center Water Problem](https://www.asianometry.com/p/the-big-data-center-water-problem)
+- [Announcing Nio: An async runtime for Rust](https://nurmohammed840.github.io/posts/announcing-nio/)
 
-- [The future of bcachefs in the kernel is uncertain](https://www.patreon.com/posts/trouble-in-116412665)
+- [rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (2019)](https://phiresky.github.io/blog/2019/rga--ripgrep-for-zip-targz-docx-odt-epub-jpg/)
 
-- [PHP 8.4.0 Release Announcement](https://www.php.net/releases/8.4/en.php)
+- [Wireguard: Beyond the most basic configuration](https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/)
 
-- [FreeBSD 14 on a Laptop](https://www.sacredheartsc.com/blog/freebsd-14-on-the-desktop/)
+- [How Tailscale's infrastructure team stays small](https://tailscale.com/blog/infra-team-stays-small)
 
-- [Introducing our grid-aware websites project](https://www.thegreenwebfoundation.org/news/introducing-our-grid-aware-websites-project/)
+- [Privilege escalation vulnerabilities don't really matter](https://wheybags.com/blog/privesc.html)
 
-- [Compiling Haskell to WebAssembly: A Step-by-Step Guide](https://www.tushar-adhatrao.in/blogs/haskell_to_wasm.html)
+- [A Reintroduction to Programming](https://www.0de5.net/explore)
 
-- [GHC's WebAssembly backend now supports Template Haskell and GHCi](https://www.tweag.io/blog/2024-11-21-ghc-wasm-th-ghci/)
+- [Graphics Studies Compilation](https://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/)
 
-- [BEAM's bright future with Gleam (and JavaScript?)](https://www.youtube.com/watch?v=fhJBEuJjxFQ&t=389s)
+- [Dear friend, you have built a Kubernetes](https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/)
 
-- [TIL: Some surprising code execution sources in bash](https://yossarian.net/til/post/some-surprising-code-execution-sources-in-bash)
+- [(Re)affirm design principles for future C++ evolution](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3466r0.pdf)
+
+- [The Nearest Neighbor Attack: How A Russian APT Weaponized Nearby Wi-Fi Networks for Covert Access](https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/)
