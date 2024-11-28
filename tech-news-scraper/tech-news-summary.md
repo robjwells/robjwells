@@ -1,49 +1,49 @@
-- [FLENG 22 - a compiler for FHGC, Strand, PCN and KL1](http://www.call-with-current-continuation.org/fleng/fleng.html)
+- [Float Self-Tagging](https://arxiv.org/abs/2411.16544)
 
-- [Print debugging: a tool among other tools](https://andydote.co.uk/2024/11/24/print-debugging-tracing/)
+- [I Didn't Need Kubernetes, and You Probably Don't Either](https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run)
 
-- [Zero Disk Architecture](https://avi.im/blag/2024/zero-disk-architecture/)
+- [Write Code That Delivers Value to Clients (2021)](https://buttondown.com/hillelwayne/archive/write-code-that-delivers-value-to-clients/)
 
-- [Coalescence: making LLM inference 5x faster](https://blog.dottxt.co/coalescence.html)
+- [Redis Inc seeks control over future of Rust redis-rs client library, amid talk of trademark concerns](https://devclass.com/2024/11/27/redis-inc-seeks-control-over-future-of-rust-redis-rs-client-library-amid-talk-of-trademark-threat/)
 
-- [Lecture 16: Relational Algebra](https://courses.cs.washington.edu/courses/cse444/10sp/lectures/lecture16.pdf)
+- [Haskell: A Great Procedural Language](https://entropicthoughts.com/haskell-procedural-programming)
 
-- [Configuring VSCode with Nix on macOS](https://davi.sh/blog/2024/11/nix-vscode/)
+- [Emacs Arbitrary Code Execution and How to Avoid It](https://eshelyaron.com/posts/2024-11-27-emacs-aritrary-code-execution-and-how-to-avoid-it.html)
 
-- [[RFC] A ClangIR based Safe C++](https://discourse.llvm.org/t/rfc-a-clangir-based-safe-c/83245)
+- [senior developer agents](https://explaining.software/archive/senior-developer-agents/)
 
-- [Are Golang Generics Simple or Incomplete? A Design Study](https://dolthub.com/blog/2024-11-22-are-golang-generics-simple-or-incomplete-1/)
+- [Modern solutions against cross-site attacks](https://frederikbraun.de/modern-solutions-xsleaks.html)
 
-- [Petnames: A humane approach to secure, decentralized naming](https://files.spritely.institute/papers/petnames.html)
+- [Cursed linear types in Rust](https://geo-ant.github.io/blog/2024/rust-linear-types-use-once/)
 
-- [open-interpreter: A natural language interface for computers](https://github.com/OpenInterpreter/open-interpreter)
+- [Jaq 2.0 released with lots of improvements and jqjq support](https://github.com/01mf02/jaq/releases/tag/v2.0.0)
 
-- [Getting to Go: The Journey of Go's Garbage Collector](https://go.dev/blog/ismmkeynote)
+- [I got an IP address](https://github.com/francisrstokes/githublog/blob/main/2024/11/26/getting-an-ip-address.md)
 
-- [The two factions of C++](https://herecomesthemoon.net/2024/11/two-factions-of-cpp/)
+- [3D Printed Programming Language Logo Tree Ornaments: Designed in Haskell](https://github.com/joe-warren/christmas-ornaments)
 
-- [Codin' Dirty](https://htmx.org/essays/codin-dirty/)
+- [Janet for Mortals](https://ianthehenry.com/posts/janet-for-mortals/)
 
-- [Mark–Scavenge: Waiting for Trash to Take Itself Out](https://inside.java/2024/11/22/mark-scavenge-gc/)
+- [Rust in QEMU roadmap](https://lore.kernel.org/all/cc40943e-dec1-4890-a1d9-579350ce296f@pbonzini.local/)
 
-- [Breaking out of VRChat using a Unity bug](https://khang06.github.io/vrcescape/)
+- [Arch Linux finally starts licensing PKGBUILDs](https://lwn.net/SubscriberLink/998778/aa5fd76c0574a311/)
 
-- [Announcing Nio: An async runtime for Rust](https://nurmohammed840.github.io/posts/announcing-nio/)
+- [Go Production Performance Gotcha - GOMAXPROCS](https://metoro.io/blog/go-production-performance-gotcha-gomaxprocs)
 
-- [rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (2019)](https://phiresky.github.io/blog/2019/rga--ripgrep-for-zip-targz-docx-odt-epub-jpg/)
+- [I'm a developer not a compiler](https://news.radio-t.com/post/i-m-a-developer-not-a-compiler)
 
-- [Wireguard: Beyond the most basic configuration](https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/)
+- [Python dependency management is a dumpster fire](https://nielscautaerts.xyz/python-dependency-management-is-a-dumpster-fire.html)
 
-- [How Tailscale's infrastructure team stays small](https://tailscale.com/blog/infra-team-stays-small)
+- [Beyond Bcrypt](https://soatok.blog/2024/11/27/beyond-bcrypt/)
 
-- [Privilege escalation vulnerabilities don't really matter](https://wheybags.com/blog/privesc.html)
+- [Structured Editing and Incremental Parsing](https://tratt.net/laurie/blog/2024/structured_editing_and_incremental_parsing.html)
 
-- [A Reintroduction to Programming](https://www.0de5.net/explore)
+- [TrunkVer](https://trunkver.org/)
 
-- [Graphics Studies Compilation](https://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/)
+- [Pushing the boundaries of Streamlit](https://twitchard.github.io/posts/2024-11-27-streamlit.html)
 
-- [Dear friend, you have built a Kubernetes](https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/)
+- [Python type hints may not be not for me in practice](https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsMaybeNotForMe)
 
-- [(Re)affirm design principles for future C++ evolution](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3466r0.pdf)
+- [The Perk Weighting Issue](https://www.bungie.net/7/en/News/Article/dev_insights_perk_rng_issue)
 
-- [The Nearest Neighbor Attack: How A Russian APT Weaponized Nearby Wi-Fi Networks for Covert Access](https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/)
+- [if constexpr requires requires { requires }](https://www.think-cell.com/en/career/devblog/if-constexpr-requires-requires-requires)
