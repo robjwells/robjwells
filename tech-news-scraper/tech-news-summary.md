@@ -1,49 +1,49 @@
-- [Float Self-Tagging](https://arxiv.org/abs/2411.16544)
+- [Advent of Code 2024 starting soon](https://adventofcode.com/2024)
 
-- [I Didn't Need Kubernetes, and You Probably Don't Either](https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run)
+- [Bevy 0.15 Released](https://bevyengine.org/news/bevy-0-15)
 
-- [Write Code That Delivers Value to Clients (2021)](https://buttondown.com/hillelwayne/archive/write-code-that-delivers-value-to-clients/)
+- [Announcing rust-query](https://blog.lucasholten.com/rust-query-announcement/)
 
-- [Redis Inc seeks control over future of Rust redis-rs client library, amid talk of trademark concerns](https://devclass.com/2024/11/27/redis-inc-seeks-control-over-future-of-rust-redis-rs-client-library-amid-talk-of-trademark-threat/)
+- [Property-based Testing Patterns (2016)](https://blog.ssanj.net/posts/2016-06-26-property-based-testing-patterns.html)
 
-- [Haskell: A Great Procedural Language](https://entropicthoughts.com/haskell-procedural-programming)
+- [Why do we call it "boilerplate code?" (2022)](https://buttondown.com/hillelwayne/archive/why-do-we-call-it-boilerplate-code)
 
-- [Emacs Arbitrary Code Execution and How to Avoid It](https://eshelyaron.com/posts/2024-11-27-emacs-aritrary-code-execution-and-how-to-avoid-it.html)
+- [The complexities of enabling OpenCL support](https://catfox.life/2024/11/29/the-complexities-of-enabling-opencl-support/)
 
-- [senior developer agents](https://explaining.software/archive/senior-developer-agents/)
+- [Flu Conf 2025](https://cryptography.dog/blog/flu-conf-2025/)
 
-- [Modern solutions against cross-site attacks](https://frederikbraun.de/modern-solutions-xsleaks.html)
+- [The Harmful Consequences of the Robustness Principle](https://datatracker.ietf.org/doc/html/draft-thomson-postel-was-wrong-03)
 
-- [Cursed linear types in Rust](https://geo-ant.github.io/blog/2024/rust-linear-types-use-once/)
+- [Compilation on the GPU? A feasibility study](https://dl.acm.org/doi/abs/10.1145/3528416.3530249)
 
-- [Jaq 2.0 released with lots of improvements and jqjq support](https://github.com/01mf02/jaq/releases/tag/v2.0.0)
+- [Inline Assembly Dangers](https://fobes.dev/general/2024/02/29/inline-assembly-dangers.html)
 
-- [I got an IP address](https://github.com/francisrstokes/githublog/blob/main/2024/11/26/getting-an-ip-address.md)
+- [SheetsUI, a TUI spreadsheet application based on the IronCalc engine](https://github.com/zaphar/sheetsui)
 
-- [3D Printed Programming Language Logo Tree Ornaments: Designed in Haskell](https://github.com/joe-warren/christmas-ornaments)
+- [If Not React, Then What?](https://infrequently.org/2024/11/if-not-react-then-what/)
 
-- [Janet for Mortals](https://ianthehenry.com/posts/janet-for-mortals/)
+- [jank is now running on LLVM IR](https://jank-lang.org/blog/2024-11-29-llvm-ir/)
 
-- [Rust in QEMU roadmap](https://lore.kernel.org/all/cc40943e-dec1-4890-a1d9-579350ce296f@pbonzini.local/)
+- [Learnings after 4 years working with +50 companies on data engineering projects](https://javisantana.com/2024/11/30/learnings-after-4-years-data-eng.html)
 
-- [Arch Linux finally starts licensing PKGBUILDs](https://lwn.net/SubscriberLink/998778/aa5fd76c0574a311/)
+- [Typst as a Language](https://justinpombrio.net/2024/11/30/typst.html)
 
-- [Go Production Performance Gotcha - GOMAXPROCS](https://metoro.io/blog/go-production-performance-gotcha-gomaxprocs)
+- [Why pipes sometimes get "stuck": buffering](https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/)
 
-- [I'm a developer not a compiler](https://news.radio-t.com/post/i-m-a-developer-not-a-compiler)
+- [Semantics of Programming (video lectures that go with the "Concrete Semantics" book)](https://live.rbg.tum.de/?year=2022&term=W&view=3&slug=Sem)
 
-- [Python dependency management is a dumpster fire](https://nielscautaerts.xyz/python-dependency-management-is-a-dumpster-fire.html)
+- [Safety in an unsafe world](https://lwn.net/Articles/995814/)
 
-- [Beyond Bcrypt](https://soatok.blog/2024/11/27/beyond-bcrypt/)
+- [Operator transposition](https://moonbase.lgbt/blog/operator-transposition/)
 
-- [Structured Editing and Incremental Parsing](https://tratt.net/laurie/blog/2024/structured_editing_and_incremental_parsing.html)
+- [The Hall SC-VGA-2 video processor, the Atari ST and NeXTSTEP](https://oldvcr.blogspot.com/2024/11/the-hall-sc-vga-2-video-processor-atari.html)
 
-- [TrunkVer](https://trunkver.org/)
+- [I stan clearing maps, no cap](https://philpearl.github.io/post/map_clearing_and_size/)
 
-- [Pushing the boundaries of Streamlit](https://twitchard.github.io/posts/2024-11-27-streamlit.html)
+- [First Router Designed Specifically For OpenWrt Released](https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/)
 
-- [Python type hints may not be not for me in practice](https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsMaybeNotForMe)
+- [Storing times for human events](https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/)
 
-- [The Perk Weighting Issue](https://www.bungie.net/7/en/News/Article/dev_insights_perk_rng_issue)
+- [Making Screenshots of Test Equipment Old and New](https://tomverbeure.github.io/2024/11/29/Making-Screenshots-of-Test-Equipment.html)
 
-- [if constexpr requires requires { requires }](https://www.think-cell.com/en/career/devblog/if-constexpr-requires-requires-requires)
+- [Python type hints are probably "worth it" for me](https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsProbablyWorthItForMe)
