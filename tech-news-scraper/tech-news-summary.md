@@ -1,49 +1,49 @@
-- [Advent of Code 2024 starting soon](https://adventofcode.com/2024)
+- [Atari Floppy Disk Copy Protection](http://info-coach.fr/atari/documents/_mydoc/Atari-Copy-Protection.pdf)
 
-- [Bevy 0.15 Released](https://bevyengine.org/news/bevy-0-15)
+- [Amazon S3 Tables](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-s3-tables-apache-iceberg-tables-analytics-workloads/)
 
-- [Announcing rust-query](https://blog.lucasholten.com/rust-query-announcement/)
+- [Certificate Authorities and the Fragility of Internet Safety](https://azeemba.com/posts/certificate-authorities-and-the-fragility-of-internet-safety.html)
 
-- [Property-based Testing Patterns (2016)](https://blog.ssanj.net/posts/2016-06-26-property-based-testing-patterns.html)
+- [Dependency management fatigue, or why I forever ditched React for Go+HTMX+Templ](https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/)
 
-- [Why do we call it "boilerplate code?" (2022)](https://buttondown.com/hillelwayne/archive/why-do-we-call-it-boilerplate-code)
+- [The Next Generation of the Heroku Platform](https://blog.heroku.com/next-generation-heroku-platform)
 
-- [The complexities of enabling OpenCL support](https://catfox.life/2024/11/29/the-complexities-of-enabling-opencl-support/)
+- [No NAT November: My Month Without IPv4](https://blog.infected.systems/posts/2024-12-01-no-nat-november/)
 
-- [Flu Conf 2025](https://cryptography.dog/blog/flu-conf-2025/)
+- [When Postgres is not enough: PostgreSQL vs YDB](https://blog.ydb.tech/when-postgres-is-not-enough-performance-evaluation-of-postgresql-vs-distributed-dbmss-23bf39db2d31)
 
-- [The Harmful Consequences of the Robustness Principle](https://datatracker.ietf.org/doc/html/draft-thomson-postel-was-wrong-03)
+- [Why Go slices still surprise me](https://build-your-own.org/blog/20241125_go_slice_surprise/)
 
-- [Compilation on the GPU? A feasibility study](https://dl.acm.org/doi/abs/10.1145/3528416.3530249)
+- [Thoughts on DuckDB's Grammar Patching Thing](https://buttondown.com/jaffray/archive/thoughts-on-duckdbs-grammar-patching-thing/)
 
-- [Inline Assembly Dangers](https://fobes.dev/general/2024/02/29/inline-assembly-dangers.html)
+- [8 months of OCaml after 8 years of Haskell in production](https://chshersh.com/blog/2023-12-16-8-months-of-ocaml-after-8-years-of-haskell.html)
 
-- [SheetsUI, a TUI spreadsheet application based on the IronCalc engine](https://github.com/zaphar/sheetsui)
+- [Legacy Safety: The Wrocław C++ Meeting](https://cor3ntin.github.io/posts/profiles/)
 
-- [If Not React, Then What?](https://infrequently.org/2024/11/if-not-react-then-what/)
+- [Designing Wild's incremental linking](https://davidlattimore.github.io/posts/2024/11/19/designing-wilds-incremental-linking.html)
 
-- [jank is now running on LLVM IR](https://jank-lang.org/blog/2024-11-29-llvm-ir/)
+- [Egoless Engineering](https://egoless.engineering/)
 
-- [Learnings after 4 years working with +50 companies on data engineering projects](https://javisantana.com/2024/11/30/learnings-after-4-years-data-eng.html)
+- [EmacsConf 2024](https://emacsconf.org/2024/)
 
-- [Typst as a Language](https://justinpombrio.net/2024/11/30/typst.html)
+- [Debian on Mellanox SN2700 (32x100G) (2023)](https://ipng.ch/s/articles/2023/11/11/debian-on-mellanox-sn2700-32x100g/)
 
-- [Why pipes sometimes get "stuck": buffering](https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/)
+- [Precomputation](https://jamesg.blog/2024/11/01/precomputation/)
 
-- [Semantics of Programming (video lectures that go with the "Concrete Semantics" book)](https://live.rbg.tum.de/?year=2022&term=W&view=3&slug=Sem)
+- [Evolving my ergonomic setup (or, my laptop with extra steps)](https://ntietz.com/blog/evolving-ergo-setup/)
 
-- [Safety in an unsafe world](https://lwn.net/Articles/995814/)
+- [A Brief Introduction to OCI Containers on FreeBSD](https://people.freebsd.org/~dch/posts/2024-12-04-freebsd-containers)
 
-- [Operator transposition](https://moonbase.lgbt/blog/operator-transposition/)
+- [How PlayStation graphics & visual artefacts work](https://pikuma.com/blog/how-to-make-ps1-graphics)
 
-- [The Hall SC-VGA-2 video processor, the Atari ST and NeXTSTEP](https://oldvcr.blogspot.com/2024/11/the-hall-sc-vga-2-video-processor-atari.html)
+- [Rust9x update: Rust 1.84.0-beta](https://seri.tools/blog/rust9x-1-84/)
 
-- [I stan clearing maps, no cap](https://philpearl.github.io/post/map_clearing_and_size/)
+- [New era of slop security reports for open source](https://sethmlarson.dev/slop-security-reports)
 
-- [First Router Designed Specifically For OpenWrt Released](https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/)
+- [SQL best practices – don’t compare count(*) with 0](https://www.depesz.com/2024/12/01/sql-best-practices-dont-compare-count-with-0/)
 
-- [Storing times for human events](https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/)
+- [The next platform](https://www.macchaffee.com/blog/2024/the-next-platform/)
 
-- [Making Screenshots of Test Equipment Old and New](https://tomverbeure.github.io/2024/11/29/Making-Screenshots-of-Test-Equipment.html)
+- [Phoenix LiveView 1.0.0 is here! - Phoenix Blog](https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released)
 
-- [Python type hints are probably "worth it" for me](https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsProbablyWorthItForMe)
+- [The Return of Procedural Programming](https://www.youtube.com/watch?v=vQPHtAxOZZw)
