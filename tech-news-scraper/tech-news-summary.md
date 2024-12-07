@@ -1,49 +1,47 @@
-- [Atari Floppy Disk Copy Protection](http://info-coach.fr/atari/documents/_mydoc/Atari-Copy-Protection.pdf)
+- [Optimality of Gerver's Sofa](https://arxiv.org/abs/2411.19826)
 
-- [Amazon S3 Tables](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-s3-tables-apache-iceberg-tables-analytics-workloads/)
+- [Kubernetes on Hetzner](https://bilbof.com/posts/kubernetes-on-hetzner)
 
-- [Certificate Authorities and the Fragility of Internet Safety](https://azeemba.com/posts/certificate-authorities-and-the-fragility-of-internet-safety.html)
+- [The "simple" 38 step journey to getting an RFC](https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps)
 
-- [Dependency management fatigue, or why I forever ditched React for Go+HTMX+Templ](https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/)
+- [Launching the 2024 State of Rust Survey](https://blog.rust-lang.org/2024/12/05/annual-survey-2024-launch.html)
 
-- [The Next Generation of the Heroku Platform](https://blog.heroku.com/next-generation-heroku-platform)
+- [Box64 v0.3.2 and Box86 v0.3.8 released](https://box86.org/2024/12/new-version-of-box64-v0-3-2-and-box86-v0-3-8/)
 
-- [No NAT November: My Month Without IPv4](https://blog.infected.systems/posts/2024-12-01-no-nat-november/)
+- [Turn Android Phone to Batteryless Home Server](https://crackoverflow.com/docs/system_administration/containerization/turn_android_phone_to_batteryless_home_server/)
 
-- [When Postgres is not enough: PostgreSQL vs YDB](https://blog.ydb.tech/when-postgres-is-not-enough-performance-evaluation-of-postgresql-vs-distributed-dbmss-23bf39db2d31)
+- [Writing down (and searching through) every UUID](https://eieio.games/blog/writing-down-every-uuid/)
 
-- [Why Go slices still surprise me](https://build-your-own.org/blog/20241125_go_slice_surprise/)
+- [Fedora Moves Towards Forgejo](https://fedoramagazine.org/fedora-moves-towards-forgejo-a-unified-decision/)
 
-- [Thoughts on DuckDB's Grammar Patching Thing](https://buttondown.com/jaffray/archive/thoughts-on-duckdbs-grammar-patching-thing/)
+- [funding.json - an open manifest for describing financial requirements for FOSS projects](https://floss.fund/funding-manifest/)
 
-- [8 months of OCaml after 8 years of Haskell in production](https://chshersh.com/blog/2023-12-16-8-months-of-ocaml-after-8-years-of-haskell.html)
+- [A simple live calculator with tree-sitter + cranelift jit](https://github.com/jasonjmcghee/basic-treesitter-cranelift-jit)
 
-- [Legacy Safety: The Wrocław C++ Meeting](https://cor3ntin.github.io/posts/profiles/)
+- [The Biggest Shell Programs in the World (wiki)](https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World)
 
-- [Designing Wild's incremental linking](https://davidlattimore.github.io/posts/2024/11/19/designing-wilds-incremental-linking.html)
+- [Maliciously crafted GitHub branch name embeds crypto miner into a released package](https://github.com/ultralytics/ultralytics/issues/18027)
 
-- [Egoless Engineering](https://egoless.engineering/)
+- [Advent of Criminally Bad Ruby Code](https://jardo.dev/advent-of-criminally-bad-ruby-code)
 
-- [EmacsConf 2024](https://emacsconf.org/2024/)
+- [Debian opens a can of username worms](https://lwn.net/SubscriberLink/1000485/b900adbda6b8c2cb/)
 
-- [Debian on Mellanox SN2700 (32x100G) (2023)](https://ipng.ch/s/articles/2023/11/11/debian-on-mellanox-sn2700-32x100g/)
+- [Start With the Go Standard Library](https://matthewsanabria.dev/posts/start-with-the-go-standard-library/)
 
-- [Precomputation](https://jamesg.blog/2024/11/01/precomputation/)
+- [Historically, 4NF explanations are needlessly confusing](https://minimalmodeling.substack.com/p/historically-4nf-explanations-are)
 
-- [Evolving my ergonomic setup (or, my laptop with extra steps)](https://ntietz.com/blog/evolving-ergo-setup/)
+- [The Pentium FDIV bug, reverse-engineered](https://oldbytes.space/@kenshirriff/113606898880486330)
 
-- [A Brief Introduction to OCI Containers on FreeBSD](https://people.freebsd.org/~dch/posts/2024-12-04-freebsd-containers)
+- [React 19 is now stable](https://react.dev/blog/2024/12/05/react-19)
 
-- [How PlayStation graphics & visual artefacts work](https://pikuma.com/blog/how-to-make-ps1-graphics)
+- [Ask questions of SQLite databases and CSV/JSON files in your terminal](https://simonwillison.net/2024/Nov/25/ask-questions-of-sqlite/)
 
-- [Rust9x update: Rust 1.84.0-beta](https://seri.tools/blog/rust9x-1-84/)
+- [DaMAgeCard attack targets memory directly thru SD card reader](https://swarm.ptsecurity.com/new-dog-old-tricks-damagecard-attack-targets-memory-directly-thru-sd-card-reader/)
 
-- [New era of slop security reports for open source](https://sethmlarson.dev/slop-security-reports)
+- [Buffered IO in Unix before V7 introduced stdio](https://utcc.utoronto.ca/~cks/space/blog/unix/BufferedIOBeforeStdio)
 
-- [SQL best practices – don’t compare count(*) with 0](https://www.depesz.com/2024/12/01/sql-best-practices-dont-compare-count-with-0/)
+- [frood, an Alpine initramfs NAS](https://words.filippo.io/dispatches/frood/)
 
-- [The next platform](https://www.macchaffee.com/blog/2024/the-next-platform/)
+- [Can one explain schemes to biologists? (2014)](https://www.dam.brown.edu/people/mumford/blog/2014/Grothendieck.html)
 
-- [Phoenix LiveView 1.0.0 is here! - Phoenix Blog](https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released)
-
-- [The Return of Procedural Programming](https://www.youtube.com/watch?v=vQPHtAxOZZw)
+- [Lies I was Told About Collaborative Editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
