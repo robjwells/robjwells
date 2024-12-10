@@ -1,47 +1,47 @@
-- [Optimality of Gerver's Sofa](https://arxiv.org/abs/2411.19826)
+- [An Undefeated Pull Request Template](https://ashleemboyer.com/blog/pull-request-template/)
 
-- [Kubernetes on Hetzner](https://bilbof.com/posts/kubernetes-on-hetzner)
+- [TCC and the macOS Platform Sandbox Policy](https://bdash.net.nz/posts/tcc-and-the-platform-sandbox-policy/)
 
-- [The "simple" 38 step journey to getting an RFC](https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps)
+- [TOML for configuration](https://blog.nonstopio.com/toml-for-configuration-d6472e730997)
 
-- [Launching the 2024 State of Rust Survey](https://blog.rust-lang.org/2024/12/05/annual-survey-2024-launch.html)
+- [Apple’s use of Swift and SwiftUI in iOS 18](https://blog.timac.org/2024/1208-state-of-swift-and-swiftui-ios18/)
 
-- [Box64 v0.3.2 and Box86 v0.3.8 released](https://box86.org/2024/12/new-version-of-box64-v0-3-2-and-box86-v0-3-8/)
+- [What are the Magical Clocks for?](https://buttondown.com/jaffray/archive/what-are-the-magical-clocks-for/)
 
-- [Turn Android Phone to Batteryless Home Server](https://crackoverflow.com/docs/system_administration/containerization/turn_android_phone_to_batteryless_home_server/)
+- [Douglas Crockford Is Not Your Dad](https://douglascrockfordisnotyourdad.technomancy.us/)
 
-- [Writing down (and searching through) every UUID](https://eieio.games/blog/writing-down-every-uuid/)
+- [How to Think About Time](https://errorprone.info/docs/time)
 
-- [Fedora Moves Towards Forgejo](https://fedoramagazine.org/fedora-moves-towards-forgejo-a-unified-decision/)
+- [Compromising OpenWrt Supply Chain via Truncated SHA-256 Collision and Command Injection](https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/)
 
-- [funding.json - an open manifest for describing financial requirements for FOSS projects](https://floss.fund/funding-manifest/)
+- [Himalaya, CLI to manage emails: v1.0.0](https://github.com/pimalaya/himalaya)
 
-- [A simple live calculator with tree-sitter + cranelift jit](https://github.com/jasonjmcghee/basic-treesitter-cranelift-jit)
+- [qutebrowser: A keyboard-driven, vim-like browser based on Python and Qt](https://github.com/qutebrowser/qutebrowser)
 
-- [The Biggest Shell Programs in the World (wiki)](https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World)
+- [Data structures as jigs for programmers (Go edition)](https://lemire.me/blog/2024/12/08/data-structures-as-jigs-for-programmers-go-edition/)
 
-- [Maliciously crafted GitHub branch name embeds crypto miner into a released package](https://github.com/ultralytics/ultralytics/issues/18027)
+- [An experimental (e)shell pager](https://lmno.lol/alvaro/an-experimental-e-shell-pager)
 
-- [Advent of Criminally Bad Ruby Code](https://jardo.dev/advent-of-criminally-bad-ruby-code)
+- [Protected mode support in the original Windows 3.0 was basically a 1-man skunkworks project](https://news.microsoft.com/2000/09/10/i-found-a-cool-little-problem-that-i-just-couldnt-resist-solving/)
 
-- [Debian opens a can of username worms](https://lwn.net/SubscriberLink/1000485/b900adbda6b8c2cb/)
+- [Parsing millions of URLs per second](https://onlinelibrary.wiley.com/doi/10.1002/spe.3296)
 
-- [Start With the Go Standard Library](https://matthewsanabria.dev/posts/start-with-the-go-standard-library/)
+- [Reducing CO₂ emissions with faster software](https://pythonspeed.com/articles/co2-emissions-software/)
 
-- [Historically, 4NF explanations are needlessly confusing](https://minimalmodeling.substack.com/p/historically-4nf-explanations-are)
+- [The rule of least client-side complexity](https://rubenerd.com/the-rule-of-least-client-side-complexity/)
 
-- [The Pentium FDIV bug, reverse-engineered](https://oldbytes.space/@kenshirriff/113606898880486330)
+- [Dual_EC_DRBG with Justin Schuh and Matthew Green](https://securitycryptographywhatever.com/2024/12/07/dual-ec-drbg/)
 
-- [React 19 is now stable](https://react.dev/blog/2024/12/05/react-19)
+- [I can now run a GPT-4 class model on my laptop](https://simonwillison.net/2024/Dec/9/llama-33-70b/)
 
-- [Ask questions of SQLite databases and CSV/JSON files in your terminal](https://simonwillison.net/2024/Nov/25/ask-questions-of-sqlite/)
+- [C has its limits. If you know where to look](https://subethasoftware.com/2024/12/09/c-has-its-limits-if-you-know-where-to-look/)
 
-- [DaMAgeCard attack targets memory directly thru SD card reader](https://swarm.ptsecurity.com/new-dog-old-tricks-damagecard-attack-targets-memory-directly-thru-sd-card-reader/)
+- [Rust Futures are not guaranteed to be lazy](https://swatinem.de/blog/non-lazy-futures/)
 
-- [Buffered IO in Unix before V7 introduced stdio](https://utcc.utoronto.ca/~cks/space/blog/unix/BufferedIOBeforeStdio)
+- [The Shepherd 1.0.0 released: the init system written in Scheme](https://www.gnu.org/software/shepherd/news/2024/12/the-shepherd-1.0.0-released/)
 
-- [frood, an Alpine initramfs NAS](https://words.filippo.io/dispatches/frood/)
+- [Parsing MIDI messages in Rust](https://www.ntietz.com/blog/parsing-midi-rust/)
 
-- [Can one explain schemes to biologists? (2014)](https://www.dam.brown.edu/people/mumford/blog/2014/Grothendieck.html)
+- [Memory-safe PNG decoders now vastly outperform C PNG libraries](https://www.reddit.com/r/rust/comments/1ha7uyi/memorysafe_png_decoders_now_vastly_outperform_c/)
 
-- [Lies I was Told About Collaborative Editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
+- [Building a Tiny CDN With pyinfra and Chimera Linux](https://www.wezm.net/v2/posts/2024/tiny-cdn/)
