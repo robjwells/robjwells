@@ -1,47 +1,49 @@
-- [An Undefeated Pull Request Template](https://ashleemboyer.com/blog/pull-request-template/)
+- [Outside In Design](https://andydote.co.uk/2024/12/12/system-design-outside-in/)
 
-- [TCC and the macOS Platform Sandbox Policy](https://bdash.net.nz/posts/tcc-and-the-platform-sandbox-policy/)
+- [Beyond Gaming: X11 bridging in muvm](https://asahilinux.org/2024/12/muvm-x11-bridging/)
 
-- [TOML for configuration](https://blog.nonstopio.com/toml-for-configuration-d6472e730997)
+- [Astro 5.0](https://astro.build/blog/astro-5/)
 
-- [Apple’s use of Swift and SwiftUI in iOS 18](https://blog.timac.org/2024/1208-state-of-swift-and-swiftui-ios18/)
+- [The Humble For Loop in JavaScript](https://blog.startifact.com/posts/humble-for-loop-js/)
 
-- [What are the Magical Clocks for?](https://buttondown.com/jaffray/archive/what-are-the-magical-clocks-for/)
+- [The Humble For Loop in Rust](https://blog.startifact.com/posts/humble-for-loop-rust/)
 
-- [Douglas Crockford Is Not Your Dad](https://douglascrockfordisnotyourdad.technomancy.us/)
+- [Cursor Size Problems In Wayland, Explained](https://blogs.kde.org/2024/10/09/cursor-size-problems-in-wayland-explained/)
 
-- [How to Think About Time](https://errorprone.info/docs/time)
+- [Ad-Hoc Effects in Rust](https://capi.hannobraun.com/daily/2024-12-12)
 
-- [Compromising OpenWrt Supply Chain via Truncated SHA-256 Collision and Command Injection](https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/)
+- [UNIX Review Magazine Interviews Larry Tesler](https://computeradsfromthepast.substack.com/p/unix-review-magazine-interviews-larry)
 
-- [Himalaya, CLI to manage emails: v1.0.0](https://github.com/pimalaya/himalaya)
+- [proposal: spec: finite type set interface as union type · Issue #70752 · golang/go](https://github.com/golang/go/issues/70752)
 
-- [qutebrowser: A keyboard-driven, vim-like browser based on Python and Qt](https://github.com/qutebrowser/qutebrowser)
+- [gtk3-classic: Patches to bring back a traditional experience for GTK+3](https://github.com/lah7/gtk3-classic/)
 
-- [Data structures as jigs for programmers (Go edition)](https://lemire.me/blog/2024/12/08/data-structures-as-jigs-for-programmers-go-edition/)
+- [Non-temporal store heuristics on the Apple M2](https://github.com/ocaml/ocaml/issues/13262#issuecomment-2478765094)
 
-- [An experimental (e)shell pager](https://lmno.lol/alvaro/an-experimental-e-shell-pager)
+- ["Rules" that terminal programs follow](https://jvns.ca/blog/2024/11/26/terminal-rules/)
 
-- [Protected mode support in the original Windows 3.0 was basically a 1-man skunkworks project](https://news.microsoft.com/2000/09/10/i-found-a-cool-little-problem-that-i-just-couldnt-resist-solving/)
+- [Diving Into the Flume Water Monitor](https://lithostech.com/2024/12/diving-into-flume-water-monitor/)
 
-- [Parsing millions of URLs per second](https://onlinelibrary.wiley.com/doi/10.1002/spe.3296)
+- [Rust's incremental compiler architecture](https://lwn.net/Articles/997784/)
 
-- [Reducing CO₂ emissions with faster software](https://pythonspeed.com/articles/co2-emissions-software/)
+- [NonStop discussion around adding Rust to Git](https://lwn.net/Articles/998115/)
 
-- [The rule of least client-side complexity](https://rubenerd.com/the-rule-of-least-client-side-complexity/)
+- [What I Learned Covering (Theoretical) Computer Science in 2024](https://mailchi.mp/quantamagazine.org/why-colliding-particles-reveal-reality-4865746)
 
-- [Dual_EC_DRBG with Justin Schuh and Matthew Green](https://securitycryptographywhatever.com/2024/12/07/dual-ec-drbg/)
+- [Things You Never Wanted To Know About Go Interfaces](https://mcyoung.xyz/2024/12/12/go-abi/)
 
-- [I can now run a GPT-4 class model on my laptop](https://simonwillison.net/2024/Dec/9/llama-33-70b/)
+- [The Jujutsu version control system](https://neugierig.org/software/blog/2024/12/jujutsu.html)
 
-- [C has its limits. If you know where to look](https://subethasoftware.com/2024/12/09/c-has-its-limits-if-you-know-where-to-look/)
+- [A ChatGPT clone, in 3000 bytes of C, backed by GPT-2](https://nicholas.carlini.com/writing/2023/chat-gpt-2-in-c.html)
 
-- [Rust Futures are not guaranteed to be lazy](https://swatinem.de/blog/non-lazy-futures/)
+- [Thoughts on Rust hashing](https://purplesyringa.moe/blog/thoughts-on-rust-hashing/)
 
-- [The Shepherd 1.0.0 released: the init system written in Scheme](https://www.gnu.org/software/shepherd/news/2024/12/the-shepherd-1.0.0-released/)
+- [API Design of X (Twitter) Home Timeline](https://trekhleb.dev/blog/2024/api-design-x-home-timeline/)
 
-- [Parsing MIDI messages in Rust](https://www.ntietz.com/blog/parsing-midi-rust/)
+- [TRELLIS: Structured 3D Latents for Scalable and Versatile 3D Generation](https://trellis3d.github.io/)
 
-- [Memory-safe PNG decoders now vastly outperform C PNG libraries](https://www.reddit.com/r/rust/comments/1ha7uyi/memorysafe_png_decoders_now_vastly_outperform_c/)
+- [Read the Code: Using Drop for Safety in Rust](https://v5.chriskrycho.com/journal/read-the-code/using-drop-for-safety-in-rust/)
 
-- [Building a Tiny CDN With pyinfra and Chimera Linux](https://www.wezm.net/v2/posts/2024/tiny-cdn/)
+- [Programmers want flow. when programming, light turns RED](https://www.scannedinavian.com/programmers-want-flow-when-programming-light-turns-red.html)
+
+- [What's wrong with this Brazilian bootleg Battletoads?](https://www.youtube.com/watch?v=HvLdQLizEcs)
