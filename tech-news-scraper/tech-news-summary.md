@@ -1,49 +1,49 @@
-- [Outside In Design](https://andydote.co.uk/2024/12/12/system-design-outside-in/)
+- [Xfce 4.20 released](https://alexxcons.github.io/blogpost_14.html)
 
-- [Beyond Gaming: X11 bridging in muvm](https://asahilinux.org/2024/12/muvm-x11-bridging/)
+- [Now we’re all Forked](https://appdecentral.com/2024/12/13/now-we-are-all-forked/)
 
-- [Astro 5.0](https://astro.build/blog/astro-5/)
+- [In search of a faster SQLite](https://avi.im/blag/2024/faster-sqlite)
 
-- [The Humble For Loop in JavaScript](https://blog.startifact.com/posts/humble-for-loop-js/)
+- [Caddy Ninja - Setup an HTTPS-enabled web server with Caddy on Alpine Linux](https://caddy.ninja/)
 
-- [The Humble For Loop in Rust](https://blog.startifact.com/posts/humble-for-loop-rust/)
+- [Conway's Game of Life implemented by a manual page](https://codeberg.org/cve/mott)
 
-- [Cursor Size Problems In Wayland, Explained](https://blogs.kde.org/2024/10/09/cursor-size-problems-in-wayland-explained/)
+- [25 years of Dillo](https://dillo-browser.github.io/25-years/)
 
-- [Ad-Hoc Effects in Rust](https://capi.hannobraun.com/daily/2024-12-12)
+- [Solving Advent of Code at Compile Time with Rust Macros](https://doublefree.bearblog.dev/solving-advent-of-code-at-compile-time-with-rust-macros/)
 
-- [UNIX Review Magazine Interviews Larry Tesler](https://computeradsfromthepast.substack.com/p/unix-review-magazine-interviews-larry)
+- [Swift Language focus areas heading into 2025](https://forums.swift.org/t/swift-language-focus-areas-heading-into-2025/76611)
 
-- [proposal: spec: finite type set interface as union type · Issue #70752 · golang/go](https://github.com/golang/go/issues/70752)
+- [Home Assistant can not be secured for internet access](https://frederikbraun.de/home-assistant-can-not-be-secured-for-internet-access.html)
 
-- [gtk3-classic: Patches to bring back a traditional experience for GTK+3](https://github.com/lah7/gtk3-classic/)
+- [Fully documented and annotated source code for Elite on the Commodore 64](https://github.com/markmoxon/elite-source-code-commodore-64)
 
-- [Non-temporal store heuristics on the Apple M2](https://github.com/ocaml/ocaml/issues/13262#issuecomment-2478765094)
+- [Luon high-level programming language similar to Oberon+, integrating concepts from Lua, and targeting the LuaJIT VM](https://github.com/rochus-keller/Luon/blob/master/Readme.md)
 
-- ["Rules" that terminal programs follow](https://jvns.ca/blog/2024/11/26/terminal-rules/)
+- [Principles of Educational Programming Language Design](https://infedu.vu.lt/journal/INFEDU/article/797/info)
 
-- [Diving Into the Flume Water Monitor](https://lithostech.com/2024/12/diving-into-flume-water-monitor/)
+- [Helix: Why (And How) I Use It](https://jonathan-frere.com/posts/helix/)
 
-- [Rust's incremental compiler architecture](https://lwn.net/Articles/997784/)
+- [Mutation XSS: Explained, CVE and Challenge](https://jorianwoltjer.com/blog/p/hacking/mutation-xss)
 
-- [NonStop discussion around adding Rust to Git](https://lwn.net/Articles/998115/)
+- [Performance of Rust's match vs. lookup tables (2019)](https://kevinlynagh.com/notes/match-vs-lookup/)
 
-- [What I Learned Covering (Theoretical) Computer Science in 2024](https://mailchi.mp/quantamagazine.org/why-colliding-particles-reveal-reality-4865746)
+- [Should Programming Languages be Safe or Powerful?](https://lambdaland.org/posts/2024-11-21_powerful_or_safe_languages/)
 
-- [Things You Never Wanted To Know About Go Interfaces](https://mcyoung.xyz/2024/12/12/go-abi/)
+- [The Death of Developer Relations](https://leebriggs.co.uk/blog/2024/12/10/the-death-of-devrel)
 
-- [The Jujutsu version control system](https://neugierig.org/software/blog/2024/12/jujutsu.html)
+- [I Tried Creating a Native App in TypeScript](https://vexcess.github.io/blog/creating-a-native-app-in-typescript)
 
-- [A ChatGPT clone, in 3000 bytes of C, backed by GPT-2](https://nicholas.carlini.com/writing/2023/chat-gpt-2-in-c.html)
+- [Ubuntu 24.10 review - Oracular but not spectacular](https://www.dedoimedo.com/computers/ubuntu-24-10-review.html)
 
-- [Thoughts on Rust hashing](https://purplesyringa.moe/blog/thoughts-on-rust-hashing/)
+- [Haiku Activity & Contract Report, November 2024](https://www.haiku-os.org/blog/waddlesplash/2024-12-10-haiku_activity_contract_report_november_2024)
 
-- [API Design of X (Twitter) Home Timeline](https://trekhleb.dev/blog/2024/api-design-x-home-timeline/)
+- [Energy-Harvesting Electronic Holiday Card 2024](https://www.keacher.com/xmas24/)
 
-- [TRELLIS: Structured 3D Latents for Scalable and Versatile 3D Generation](https://trellis3d.github.io/)
+- [Load is not what you should balance: Introducing Prequal](https://www.usenix.org/conference/nsdi24/presentation/wydrowski)
 
-- [Read the Code: Using Drop for Safety in Rust](https://v5.chriskrycho.com/journal/read-the-code/using-drop-for-safety-in-rust/)
+- [Reducing WASM binary size: lessons from building a web terminal](https://www.warp.dev/blog/reducing-wasm-binary-size)
 
-- [Programmers want flow. when programming, light turns RED](https://www.scannedinavian.com/programmers-want-flow-when-programming-light-turns-red.html)
+- [Hacking the Discord app for $5000 Bounty](https://www.youtube.com/watch?v=R3SE4VKj678)
 
-- [What's wrong with this Brazilian bootleg Battletoads?](https://www.youtube.com/watch?v=HvLdQLizEcs)
+- [Far From Random: Three Mistakes From Dart/Flutter's Weak PRNG](https://www.zellic.io/blog/proton-dart-flutter-csprng-prng/)
