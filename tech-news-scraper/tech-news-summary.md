@@ -1,49 +1,49 @@
-- [Xfce 4.20 released](https://alexxcons.github.io/blogpost_14.html)
+- [What are temporal and spatial memory safety?](https://blog.yoshuawuyts.com/temporal-spatial-memory-safety/)
 
-- [Now we’re all Forked](https://appdecentral.com/2024/12/13/now-we-are-all-forked/)
+- [Day Zero: Build Good Web Apps with the Zero Sync Engine](https://bugs.rocicorp.dev/issue/0)
 
-- [In search of a faster SQLite](https://avi.im/blag/2024/faster-sqlite)
+- [Formally modeling dreidel, the sequel](https://buttondown.com/hillelwayne/archive/formally-modeling-dreidel-the-sequel/)
 
-- [Caddy Ninja - Setup an HTTPS-enabled web server with Caddy on Alpine Linux](https://caddy.ninja/)
+- [Optimizing Ruby’s JSON, Part 2](https://byroot.github.io/ruby/json/2024/12/18/optimizing-ruby-json-part-2.html)
 
-- [Conway's Game of Life implemented by a manual page](https://codeberg.org/cve/mott)
+- [Announcing Chapel 2.3](https://chapel-lang.org/blog/posts/announcing-chapel-2.3/)
 
-- [25 years of Dillo](https://dillo-browser.github.io/25-years/)
+- [Moon](https://ciechanow.ski/moon/)
 
-- [Solving Advent of Code at Compile Time with Rust Macros](https://doublefree.bearblog.dev/solving-advent-of-code-at-compile-time-with-rust-macros/)
+- [Hotwire Spark: live reloading for Rails applications](https://dev.37signals.com/announcing-hotwire-spark-live-reloading-for-rails/)
 
-- [Swift Language focus areas heading into 2025](https://forums.swift.org/t/swift-language-focus-areas-heading-into-2025/76611)
+- [Eternal Terminal](https://eternalterminal.dev/)
 
-- [Home Assistant can not be secured for internet access](https://frederikbraun.de/home-assistant-can-not-be-secured-for-internet-access.html)
+- [Introduce support for the Meson build system - git.git@904339e](https://git.kernel.org/pub/scm/git/git.git/commit/?id=904339edbd80ec5676616af6e072b41804c1c8eb)
 
-- [Fully documented and annotated source code for Elite on the Commodore 64](https://github.com/markmoxon/elite-source-code-commodore-64)
+- [An RSS aggregator that generates a simple embeddable static Markdown page](https://github.com/abuseofnotation/static-feed-aggregator)
 
-- [Luon high-level programming language similar to Oberon+, integrating concepts from Lua, and targeting the LuaJIT VM](https://github.com/rochus-keller/Luon/blob/master/Readme.md)
+- [ergo: A modern IRC server (daemon/ircd) written in Go](https://github.com/ergochat/ergo)
 
-- [Principles of Educational Programming Language Design](https://infedu.vu.lt/journal/INFEDU/article/797/info)
+- [Piccolo OS, a small multitasking OS for the Raspberry Pi Pico](https://github.com/garyexplains/piccolo_os_v1)
 
-- [Helix: Why (And How) I Use It](https://jonathan-frere.com/posts/helix/)
+- [Interactive Lustre tutorial on Gleam tours](https://gleamtours.com/lustre-tutorial/introduction/welcome-to-lustre/)
 
-- [Mutation XSS: Explained, CVE and Challenge](https://jorianwoltjer.com/blog/p/hacking/mutation-xss)
+- [Home Manager: dotfiles management](https://gvolpe.com/blog/home-manager-dotfiles-management/)
 
-- [Performance of Rust's match vs. lookup tables (2019)](https://kevinlynagh.com/notes/match-vs-lookup/)
+- [Java in the Small](https://horstmann.com/unblog/2024-12-11/index.html)
 
-- [Should Programming Languages be Safe or Powerful?](https://lambdaland.org/posts/2024-11-21_powerful_or_safe_languages/)
+- [Tiny C Binaries (2020)](https://journal.lunar.sh/2020/tiny-linux-c-binaries.html)
 
-- [The Death of Developer Relations](https://leebriggs.co.uk/blog/2024/12/10/the-death-of-devrel)
+- [Impressions of React and TypeScript from an Elixir/Elm developer](https://korban.net/posts/elm/2024-11-16-typescript-react-impressions/)
 
-- [I Tried Creating a Native App in TypeScript](https://vexcess.github.io/blog/creating-a-native-app-in-typescript)
+- [Go's Weird Little Iterators](https://mcyoung.xyz/2024/12/16/rangefuncs/)
 
-- [Ubuntu 24.10 review - Oracular but not spectacular](https://www.dedoimedo.com/computers/ubuntu-24-10-review.html)
+- [A history of the microcomputer industry in 300 adverts](https://nosher.net/archives/computers/)
 
-- [Haiku Activity & Contract Report, November 2024](https://www.haiku-os.org/blog/waddlesplash/2024-12-10-haiku_activity_contract_report_november_2024)
+- [Slint 1.9 Released with Revamped Documentation, New Live-Preview Element Inspector, and Translation Bundling](https://slint.dev/blog/slint-1.9-released)
 
-- [Energy-Harvesting Electronic Holiday Card 2024](https://www.keacher.com/xmas24/)
+- [A Survey Of System Languages (2024)](https://wiki.alopex.li/SurveyOfSystemLanguages2024)
 
-- [Load is not what you should balance: Introducing Prequal](https://www.usenix.org/conference/nsdi24/presentation/wydrowski)
+- [AI and Internet Hygiene](https://www.late-review.com/p/ai-and-internet-hygiene)
 
-- [Reducing WASM binary size: lessons from building a web terminal](https://www.warp.dev/blog/reducing-wasm-binary-size)
+- [CRUNCH - a compiler for statically typed Scheme with a minimal runtime](https://www.more-magic.net/posts/crunch.html)
 
-- [Hacking the Discord app for $5000 Bounty](https://www.youtube.com/watch?v=R3SE4VKj678)
+- [Announcing NetBSD 10.1 (Dec 16, 2024)](https://www.netbsd.org/releases/formal-10/NetBSD-10.1.html)
 
-- [Far From Random: Three Mistakes From Dart/Flutter's Weak PRNG](https://www.zellic.io/blog/proton-dart-flutter-csprng-prng/)
+- [Why We’re Moving to a Source Available License](https://www.scylladb.com/2024/12/18/why-were-moving-to-a-source-available-license/)
