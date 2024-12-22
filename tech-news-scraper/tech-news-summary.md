@@ -1,49 +1,49 @@
-- [What are temporal and spatial memory safety?](https://blog.yoshuawuyts.com/temporal-spatial-memory-safety/)
+- [Nix is a build system](http://www.chriswarbo.net/blog/2024-05-24-nix_build_system.html)
 
-- [Day Zero: Build Good Web Apps with the Zero Sync Engine](https://bugs.rocicorp.dev/issue/0)
+- [State of JavaScript 2024](https://2024.stateofjs.com/)
 
-- [Formally modeling dreidel, the sequel](https://buttondown.com/hillelwayne/archive/formally-modeling-dreidel-the-sequel/)
+- [OpenAI o3 Breakthrough High Score on ARC-AGI-Pub](https://arcprize.org/blog/oai-o3-pub-breakthrough)
 
-- [Optimizing Ruby’s JSON, Part 2](https://byroot.github.io/ruby/json/2024/12/18/optimizing-ruby-json-part-2.html)
+- [Compiling C to Safe Rust, Formalized](https://arxiv.org/abs/2412.15042)
 
-- [Announcing Chapel 2.3](https://chapel-lang.org/blog/posts/announcing-chapel-2.3/)
+- [making a website is hard](https://blog.cathoderaydude.com/doku.php?id=blog:making_a_website_is_hard)
 
-- [Moon](https://ciechanow.ski/moon/)
+- [The jank programming language](https://compiler-research.org/blogs/jank_intro/)
 
-- [Hotwire Spark: live reloading for Rails applications](https://dev.37signals.com/announcing-hotwire-spark-live-reloading-for-rails/)
+- [dropping hyper](https://daniel.haxx.se/blog/2024/12/21/dropping-hyper/)
 
-- [Eternal Terminal](https://eternalterminal.dev/)
+- [Implementing Raft: Part 5 - Exactly-once delivery](https://eli.thegreenplace.net/2024/implementing-raft-part-5-exactly-once-delivery/)
 
-- [Introduce support for the Meson build system - git.git@904339e](https://git.kernel.org/pub/scm/git/git.git/commit/?id=904339edbd80ec5676616af6e072b41804c1c8eb)
+- [a raycaster in bash](https://github.com/izabera/pseudo3d)
 
-- [An RSS aggregator that generates a simple embeddable static Markdown page](https://github.com/abuseofnotation/static-feed-aggregator)
+- [Rivet Actors, Cloudflare Durable Objects-like infrastructure built with Rust, FoundationDB, V8 Isolates](https://github.com/rivet-gg/rivet)
 
-- [ergo: A modern IRC server (daemon/ircd) written in Go](https://github.com/ergochat/ergo)
+- [Plan 9 is a bicycle](https://liam-on-linux.dreamwidth.org/93196.html)
 
-- [Piccolo OS, a small multitasking OS for the Raspberry Pi Pico](https://github.com/garyexplains/piccolo_os_v1)
+- [Three web views for Common Lisp: build cross platform GUIs with Electron, WebUI or CLOG Frame](https://lisp-journey.gitlab.io/blog/three-web-views-for-common-lisp--cross-platform-guis/)
 
-- [Interactive Lustre tutorial on Gleam tours](https://gleamtours.com/lustre-tutorial/introduction/welcome-to-lustre/)
+- [Pride Versioning](https://mastodon.online/@nikitonsky/113691789641950263)
 
-- [Home Manager: dotfiles management](https://gvolpe.com/blog/home-manager-dotfiles-management/)
+- [Rules to avoid common extended inline assembly mistakes](https://nullprogram.com/blog/2024/12/20/)
 
-- [Java in the Small](https://horstmann.com/unblog/2024-12-11/index.html)
+- [Spreadsheets 1/3 - Rye Language](https://ryelang.org/cookbook/working-with/spreadsheets/)
 
-- [Tiny C Binaries (2020)](https://journal.lunar.sh/2020/tiny-linux-c-binaries.html)
+- [Introducing S2: The Log – made serverless](https://s2.dev/blog/intro)
 
-- [Impressions of React and TypeScript from an Elixir/Elm developer](https://korban.net/posts/elm/2024-11-16-typescript-react-impressions/)
+- [Turing Machines](https://samwho.dev/turing-machines/)
 
-- [Go's Weird Little Iterators](https://mcyoung.xyz/2024/12/16/rangefuncs/)
+- [Cramming scrapscript into msgpack](https://taylor.town/flat-scraps-000)
 
-- [A history of the microcomputer industry in 300 adverts](https://nosher.net/archives/computers/)
+- [Enum of Arrays](https://tigerbeetle.com/blog/2024-12-19-enum-of-arrays/)
 
-- [Slint 1.9 Released with Revamped Documentation, New Live-Preview Element Inspector, and Translation Bundling](https://slint.dev/blog/slint-1.9-released)
+- [Ideas from "A Philosophy of Software Design"](https://www.16elt.com/2024/09/25/first-book-of-byte-sized-tech/)
 
-- [A Survey Of System Languages (2024)](https://wiki.alopex.li/SurveyOfSystemLanguages2024)
+- [darktable 5.0.0 released](https://www.darktable.org/2024/12/darktable-5.0.0-released/)
 
-- [AI and Internet Hygiene](https://www.late-review.com/p/ai-and-internet-hygiene)
+- [Understanding Objective-C by transpiling it to C++](https://www.jviotti.com/2023/12/01/understanding-objective-c-by-transpiling-it-to-cpp.html)
 
-- [CRUNCH - a compiler for statically typed Scheme with a minimal runtime](https://www.more-magic.net/posts/crunch.html)
+- [Ascending Mount FujiNet](https://www.leadedsolder.com/2024/12/17/coco-fujinet.html)
 
-- [Announcing NetBSD 10.1 (Dec 16, 2024)](https://www.netbsd.org/releases/formal-10/NetBSD-10.1.html)
+- [o1: A Technical Primer](https://www.lesswrong.com/posts/byNYzsfFmb2TpYFPW/o1-a-technical-primer)
 
-- [Why We’re Moving to a Source Available License](https://www.scylladb.com/2024/12/18/why-were-moving-to-a-source-available-license/)
+- [Synchronous Reading with Friends](https://www.rhotter.com/posts/synchronous-reading)
