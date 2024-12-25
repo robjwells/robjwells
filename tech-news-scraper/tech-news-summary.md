@@ -1,49 +1,45 @@
-- [Nix is a build system](http://www.chriswarbo.net/blog/2024-05-24-nix_build_system.html)
+- [SIMDized check which bytes are in a set](http://0x80.pl/notesen/2018-10-18-simd-byte-lookup.html)
 
-- [State of JavaScript 2024](https://2024.stateofjs.com/)
+- [Lock Files Considered Harmful](http://www.chriswarbo.net/blog/2024-05-17-lock_files_considered_harmful.html)
 
-- [OpenAI o3 Breakthrough High Score on ARC-AGI-Pub](https://arcprize.org/blog/oai-o3-pub-breakthrough)
+- [2024 State of the Adélie Linux Distribution](https://blog.adelielinux.org/2024/12/24/2024-state-of-the-adelie-linux-distribution/)
 
-- [Compiling C to Safe Rust, Formalized](https://arxiv.org/abs/2412.15042)
+- [Controlling Nondeterminism in Model-Based Tests with Prophecy Variables](https://concerningquality.com/prophecy-variables/)
 
-- [making a website is hard](https://blog.cathoderaydude.com/doku.php?id=blog:making_a_website_is_hard)
+- [Context-Generic Programming](https://contextgeneric.dev/)
 
-- [The jank programming language](https://compiler-research.org/blogs/jank_intro/)
+- [Cashing in on GIF by charging royalties](https://dfarq.homeip.net/cashing-in-on-gif-by-charging-royalties/)
 
-- [dropping hyper](https://daniel.haxx.se/blog/2024/12/21/dropping-hyper/)
+- [Debian’s approach to Rust - Dependency handling (2022)](https://diziet.dreamwidth.org/10559.html)
 
-- [Implementing Raft: Part 5 - Exactly-once delivery](https://eli.thegreenplace.net/2024/implementing-raft-part-5-exactly-once-delivery/)
+- [Application blackbox](https://dxuuu.xyz/blackbox.html)
 
-- [a raycaster in bash](https://github.com/izabera/pseudo3d)
+- [twice: chrome extension asking you to think twice when visit social media sites](https://github.com/chaosprint/twice)
 
-- [Rivet Actors, Cloudflare Durable Objects-like infrastructure built with Rust, FoundationDB, V8 Isolates](https://github.com/rivet-gg/rivet)
+- [Tiny challenges for learning WebAssembly](https://github.com/danprince/webassembly-wizardry)
 
-- [Plan 9 is a bicycle](https://liam-on-linux.dreamwidth.org/93196.html)
+- [ClipboardManager for macOS which can clip images, text and can sync to your Obsidian vault](https://github.com/workhunters/clipboard-core/tree/main)
 
-- [Three web views for Common Lisp: build cross platform GUIs with Electron, WebUI or CLOG Frame](https://lisp-journey.gitlab.io/blog/three-web-views-for-common-lisp--cross-platform-guis/)
+- [What are you doing?](https://jarvispowered.com/what-are-you-doing/)
 
-- [Pride Versioning](https://mastodon.online/@nikitonsky/113691789641950263)
+- [C++ Is An Absolute Blast](https://learncodethehardway.com/blog/31-c-plus-plus-is-an-absolute-blast/)
 
-- [Rules to avoid common extended inline assembly mistakes](https://nullprogram.com/blog/2024/12/20/)
+- [Hello emacs.tv](https://lmno.lol/alvaro/hello-emacstv)
 
-- [Spreadsheets 1/3 - Rye Language](https://ryelang.org/cookbook/working-with/spreadsheets/)
+- [How many links overlap between Lobste.rs and HN?](https://lobhn.skyshelf.app/)
 
-- [Introducing S2: The Log – made serverless](https://s2.dev/blog/intro)
+- [From Nix to Eos](https://nrd.sh/blog/nix-to-eos/)
 
-- [Turing Machines](https://samwho.dev/turing-machines/)
+- [My colleague Julius](https://ploum.net/2024-12-23-julius-en.html)
 
-- [Cramming scrapscript into msgpack](https://taylor.town/flat-scraps-000)
+- [postmarketOS v24.12: The One With Androids & Cameras, But It's Mainline Linux](https://postmarketos.org/blog/2024/12/23/v24.12-release/)
 
-- [Enum of Arrays](https://tigerbeetle.com/blog/2024-12-19-enum-of-arrays/)
+- [Jujutsu Megamerges and jj absorb](https://v5.chriskrycho.com/journal/jujutsu-megamerges-and-jj-absorb/)
 
-- [Ideas from "A Philosophy of Software Design"](https://www.16elt.com/2024/09/25/first-book-of-byte-sized-tech/)
+- [AI-generated tools can make programming more fun](https://www.geoffreylitt.com/2024/12/22/making-programming-more-fun-with-an-ai-generated-debugger)
 
-- [darktable 5.0.0 released](https://www.darktable.org/2024/12/darktable-5.0.0-released/)
+- [Symbolic Execution by Overloading __bool__](https://www.philipzucker.com/overload_bool/)
 
-- [Understanding Objective-C by transpiling it to C++](https://www.jviotti.com/2023/12/01/understanding-objective-c-by-transpiling-it-to-cpp.html)
+- [Serpent OS Enters Alpha](https://www.phoronix.com/news/Serpent-OS-Alpha-Christmas)
 
-- [Ascending Mount FujiNet](https://www.leadedsolder.com/2024/12/17/coco-fujinet.html)
-
-- [o1: A Technical Primer](https://www.lesswrong.com/posts/byNYzsfFmb2TpYFPW/o1-a-technical-primer)
-
-- [Synchronous Reading with Friends](https://www.rhotter.com/posts/synchronous-reading)
+- [Why is GCC Better Than Clang?](https://www.youtube.com/watch?v=4P32EFClwuo)
