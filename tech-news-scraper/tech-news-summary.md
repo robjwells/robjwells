@@ -1,45 +1,47 @@
-- [SIMDized check which bytes are in a set](http://0x80.pl/notesen/2018-10-18-simd-byte-lookup.html)
+- [A Simple ELF](https://4zm.org/2024/12/25/a-simple-elf.html)
 
-- [Lock Files Considered Harmful](http://www.chriswarbo.net/blog/2024-05-17-lock_files_considered_harmful.html)
+- [Seconds Since the Epoch](https://aphyr.com/posts/378-seconds-since-the-epoch)
 
-- [2024 State of the Adélie Linux Distribution](https://blog.adelielinux.org/2024/12/24/2024-state-of-the-adelie-linux-distribution/)
+- [Arcan 0.7 – The All Tomato](https://arcan-fe.com/2024/12/25/arcan-0-7-the-all-tomato/)
 
-- [Controlling Nondeterminism in Model-Based Tests with Prophecy Variables](https://concerningquality.com/prophecy-variables/)
+- [The Unbearable Slowness of Being: Why do we live at 10 bits/s?](https://arxiv.org/abs/2408.10234)
 
-- [Context-Generic Programming](https://contextgeneric.dev/)
+- [The CAP Theorem of Clustering: Why Every Algorithm Must Sacrifice Something](https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering)
 
-- [Cashing in on GIF by charging royalties](https://dfarq.homeip.net/cashing-in-on-gif-by-charging-royalties/)
+- [Chimera Linux Entering beta](https://chimera-linux.org/news/2024/12/entering-beta.html)
 
-- [Debian’s approach to Rust - Dependency handling (2022)](https://diziet.dreamwidth.org/10559.html)
+- [An Overview of Virtual Machine Architectures](https://didawiki.di.unipi.it/lib/exe/fetch.php/magistraleinformaticanetworking/spd/virmach_overview_smith-04.pdf)
 
-- [Application blackbox](https://dxuuu.xyz/blackbox.html)
+- [Run MCP Servers On Android with Gemini & Chicory](https://docs.mcp.run/blog/2024/12/27/running-tools-on-android/)
 
-- [twice: chrome extension asking you to think twice when visit social media sites](https://github.com/chaosprint/twice)
+- [Ghostty 1.0](https://ghostty.org/)
 
-- [Tiny challenges for learning WebAssembly](https://github.com/danprince/webassembly-wizardry)
+- [CobolCraft: A Minecraft server written in COBOL](https://github.com/meyfa/CobolCraft)
 
-- [ClipboardManager for macOS which can clip images, text and can sync to your Obsidian vault](https://github.com/workhunters/clipboard-core/tree/main)
+- [apparmor.d: Extensive set of AppArmor profiles](https://github.com/roddhjav/apparmor.d)
 
-- [What are you doing?](https://jarvispowered.com/what-are-you-doing/)
+- [sudo-rs: A memory safe implementation of sudo and su](https://github.com/trifectatechfoundation/sudo-rs)
 
-- [C++ Is An Absolute Blast](https://learncodethehardway.com/blog/31-c-plus-plus-is-an-absolute-blast/)
+- [The Matrix Holiday Special 2024](https://matrix.org/blog/2024/12/25/the-matrix-holiday-special-2024/)
 
-- [Hello emacs.tv](https://lmno.lol/alvaro/hello-emacstv)
+- [Lua is so underrated](https://nflatrea.bearblog.dev/lua-is-so-underrated/)
 
-- [How many links overlap between Lobste.rs and HN?](https://lobhn.skyshelf.app/)
+- [On Ada's Dependent Types, and its Types as a Whole](https://nytpu.com/gemlog/2024-12-27)
 
-- [From Nix to Eos](https://nrd.sh/blog/nix-to-eos/)
+- [Everything you ever wanted to know about “hello, world” but were afraid to ask](https://people.freebsd.org/~brooks/talks/asiabsdcon2017-helloworld/helloworld.pdf)
 
-- [My colleague Julius](https://ploum.net/2024-12-23-julius-en.html)
+- [ChatGPT search vs. Google: A deep dive analysis of 62 queries](https://searchengineland.com/chatgpt-search-vs-google-analysis-449676)
 
-- [postmarketOS v24.12: The One With Androids & Cameras, But It's Mainline Linux](https://postmarketos.org/blog/2024/12/23/v24.12-release/)
+- [38C3: Illegal Instructions Streaming](https://streaming.media.ccc.de/38c3/)
 
-- [Jujutsu Megamerges and jj absorb](https://v5.chriskrycho.com/journal/jujutsu-megamerges-and-jj-absorb/)
+- [Debugging memory corruption: Who wrote ‘2’ into my stack?](https://unity.com/blog/engine-platform/debugging-memory-debugging-memory-corruption-who-wrote-2-into-my-stack-who-the-hell)
 
-- [AI-generated tools can make programming more fun](https://www.geoffreylitt.com/2024/12/22/making-programming-more-fun-with-an-ai-generated-debugger)
+- [Perfect Desk](https://vermaden.wordpress.com/2024/12/27/perfect-desk/)
 
-- [Symbolic Execution by Overloading __bool__](https://www.philipzucker.com/overload_bool/)
+- [Does current AI represent a dead end?](https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/)
 
-- [Serpent OS Enters Alpha](https://www.phoronix.com/news/Serpent-OS-Alpha-Christmas)
+- [Running NetBSD 10.1 on a 1998 Toshiba laptop](https://www.idatum.net/running-netbsd-101-on-a-1998-toshiba-laptop.html)
 
-- [Why is GCC Better Than Clang?](https://www.youtube.com/watch?v=4P32EFClwuo)
+- [Write your Own Virtual Machine](https://www.jmeiners.com/lc3-vm/)
+
+- [USB-C head-to-head comparison](https://www.lumafield.com/article/usb-c-cable-charger-head-to-head-comparison-apple-thunderbolt-amazon-basics)
