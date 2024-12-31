@@ -1,47 +1,47 @@
-- [A Simple ELF](https://4zm.org/2024/12/25/a-simple-elf.html)
+- [Flame graphs can hide small overheads with big overall impact](https://ankush.dev/p/flamegraph-missing-forest-for-trees)
 
-- [Seconds Since the Epoch](https://aphyr.com/posts/378-seconds-since-the-epoch)
+- [Passkey technology is elegant, but it’s most definitely not usable security](https://arstechnica.com/security/2024/12/passkey-technology-is-elegant-but-its-most-definitely-not-usable-security/)
 
-- [Arcan 0.7 – The All Tomato](https://arcan-fe.com/2024/12/25/arcan-0-7-the-all-tomato/)
+- [Collection of insane and fun facts about SQLite](https://avi.im/blag/2024/sqlite-facts)
 
-- [The Unbearable Slowness of Being: Why do we live at 10 bits/s?](https://arxiv.org/abs/2408.10234)
+- [Fabrice Bellard's ts_sms: Short Message Compression using LLM](https://bellard.org/ts_sms/)
 
-- [The CAP Theorem of Clustering: Why Every Algorithm Must Sacrifice Something](https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering)
+- [Implementing a client side IPVS-based load balancer](https://blog.davidv.dev/posts/ipvs-lb/)
 
-- [Chimera Linux Entering beta](https://chimera-linux.org/news/2024/12/entering-beta.html)
+- [The Curious Case of Quentell](https://blog.startifact.com/posts/the-curious-case-of-quentell/)
 
-- [An Overview of Virtual Machine Architectures](https://didawiki.di.unipi.it/lib/exe/fetch.php/magistraleinformaticanetworking/spd/virmach_overview_smith-04.pdf)
+- [Demoscene Basics from a Basic Demoscener](https://demobasics.pixienop.net/)
 
-- [Run MCP Servers On Android with Gemini & Chicory](https://docs.mcp.run/blog/2024/12/27/running-tools-on-android/)
+- [I still believe in the bicycle for your mind, and this is my ride](https://exple.tive.org/blarg/2024/12/29/idiosyncra/)
 
-- [Ghostty 1.0](https://ghostty.org/)
+- [Jido – Run 10k agents at 25KB each](https://github.com/agentjido/jido)
 
-- [CobolCraft: A Minecraft server written in COBOL](https://github.com/meyfa/CobolCraft)
+- [A tiny library for switches and sum types in Lua](https://github.com/alurm/lua-match)
 
-- [apparmor.d: Extensive set of AppArmor profiles](https://github.com/roddhjav/apparmor.d)
+- [Adding a fully-bootstrapped Mono to GNU Guix](https://guix.gnu.org/en/blog/2024/adding-a-fully-bootstrapped-mono/)
 
-- [sudo-rs: A memory safe implementation of sudo and su](https://github.com/trifectatechfoundation/sudo-rs)
+- [Systems Ideas that Sound Good But Almost Never Work—"Let's just…"](https://hardcoresoftware.learningbyshipping.com/p/225-systems-ideas-that-sound-good)
 
-- [The Matrix Holiday Special 2024](https://matrix.org/blog/2024/12/25/the-matrix-holiday-special-2024/)
+- [LineageOS 22 released](https://lineageos.org/Changelog-29/)
 
-- [Lua is so underrated](https://nflatrea.bearblog.dev/lua-is-so-underrated/)
+- [lmno.lol - Drag and drop blogging minus the yucky bits of the modern web](https://lmno.lol)
 
-- [On Ada's Dependent Types, and its Types as a Whole](https://nytpu.com/gemlog/2024-12-27)
+- [The Homa network protocol](https://lwn.net/SubscriberLink/1003059/41b1d2ea281b6779/)
 
-- [Everything you ever wanted to know about “hello, world” but were afraid to ask](https://people.freebsd.org/~brooks/talks/asiabsdcon2017-helloworld/helloworld.pdf)
+- [What is a dependency?](https://matklad.github.io/2024/12/30/what-is-dependency.html)
 
-- [ChatGPT search vs. Google: A deep dive analysis of 62 queries](https://searchengineland.com/chatgpt-search-vs-google-analysis-449676)
+- [GitHub GraphQL API and TypeScript](https://medv.io/blog/github-graphql-api-and-typescript)
 
-- [38C3: Illegal Instructions Streaming](https://streaming.media.ccc.de/38c3/)
+- [Software Design is Knowledge Building](https://olano.dev/blog/software-design-is-knowledge-building/)
 
-- [Debugging memory corruption: Who wrote ‘2’ into my stack?](https://unity.com/blog/engine-platform/debugging-memory-debugging-memory-corruption-who-wrote-2-into-my-stack-who-the-hell)
+- [Solving the Traveling Salesman Problem: From Heuristics to a Potential Polynomial-Time Breakthrough](https://prat8897.github.io/posts/Travelling-Salesman-Problem/travellingsalesman.html)
 
-- [Perfect Desk](https://vermaden.wordpress.com/2024/12/27/perfect-desk/)
+- [So You Want to Write Java in Neovim](https://ptrtojoel.dev/posts/so-you-want-to-write-java-in-neovim/)
 
-- [Does current AI represent a dead end?](https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/)
+- [The web is too big, or scaling down](https://scottrichmond.me/the-web-is-too-big/)
 
-- [Running NetBSD 10.1 on a 1998 Toshiba laptop](https://www.idatum.net/running-netbsd-101-on-a-1998-toshiba-laptop.html)
+- [How to Quit Mainstream Social Media and Join Mastodon: A Healthier Way to Connect](https://unboundroutes.com/2024/11/29/quit-social-media-join-mastodon/)
 
-- [Write your Own Virtual Machine](https://www.jmeiners.com/lc3-vm/)
+- [My thoughts on the new NVIDIA Jetson Orin Nano](https://www.jeremymorgan.com/blog/tech/nvidia-jetson-orin-nano/)
 
-- [USB-C head-to-head comparison](https://www.lumafield.com/article/usb-c-cable-charger-head-to-head-comparison-apple-thunderbolt-amazon-basics)
+- [Installing NetBSD on the Nintendo Wii](https://youtu.be/KO9bNwE3Vps)
