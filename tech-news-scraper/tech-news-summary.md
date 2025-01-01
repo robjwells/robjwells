@@ -2,46 +2,46 @@
 
 - [Passkey technology is elegant, but it’s most definitely not usable security](https://arstechnica.com/security/2024/12/passkey-technology-is-elegant-but-its-most-definitely-not-usable-security/)
 
+- [Plan 9 -> Linux (2020)](https://asyncial.github.io/plan-9-linux/)
+
 - [Collection of insane and fun facts about SQLite](https://avi.im/blag/2024/sqlite-facts)
 
-- [Fabrice Bellard's ts_sms: Short Message Compression using LLM](https://bellard.org/ts_sms/)
+- [Optimizing Advent of Code D9P2 with High-Performance Rust](https://cprimozic.net/blog/optimizing-advent-of-code-2024/)
 
-- [Implementing a client side IPVS-based load balancer](https://blog.davidv.dev/posts/ipvs-lb/)
+- [Static search trees](https://curiouscoding.nl/posts/static-search-tree/)
 
-- [The Curious Case of Quentell](https://blog.startifact.com/posts/the-curious-case-of-quentell/)
+- [Déjà vu: Ghostly CVEs in my terminal title](https://dgl.cx/2024/12/ghostty-terminal-title)
 
-- [Demoscene Basics from a Basic Demoscener](https://demobasics.pixienop.net/)
+- [Migrating Immich from Docker to NixOS](https://diogotc.com/blog/immich-docker-to-nixos/)
 
-- [I still believe in the bicycle for your mind, and this is my ride](https://exple.tive.org/blarg/2024/12/29/idiosyncra/)
+- [Pidgin 3.0 Experimental 1 Has been released](https://discourse.imfreedom.org/t/pidgin-3-0-experimental-1-has-been-released/227)
 
-- [Jido – Run 10k agents at 25KB each](https://github.com/agentjido/jido)
+- [I’m Lovin’ It: Exploiting McDonald’s APIs to hijack deliveries and order food for a penny](https://eaton-works.com/2024/12/19/mcdelivery-india-hack/)
 
-- [A tiny library for switches and sum types in Lua](https://github.com/alurm/lua-match)
-
-- [Adding a fully-bootstrapped Mono to GNU Guix](https://guix.gnu.org/en/blog/2024/adding-a-fully-bootstrapped-mono/)
-
-- [Systems Ideas that Sound Good But Almost Never Work—"Let's just…"](https://hardcoresoftware.learningbyshipping.com/p/225-systems-ideas-that-sound-good)
-
-- [LineageOS 22 released](https://lineageos.org/Changelog-29/)
+- [up2code: A tool for checking code listings in Markdown source](https://github.com/bitfield/up2code)
 
 - [lmno.lol - Drag and drop blogging minus the yucky bits of the modern web](https://lmno.lol)
 
-- [The Homa network protocol](https://lwn.net/SubscriberLink/1003059/41b1d2ea281b6779/)
-
 - [What is a dependency?](https://matklad.github.io/2024/12/30/what-is-dependency.html)
 
-- [GitHub GraphQL API and TypeScript](https://medv.io/blog/github-graphql-api-and-typescript)
+- [Tools Worth Changing To in 2025](https://matthewsanabria.dev/posts/tools-worth-changing-to-in-2025/)
+
+- [Talk recordings of "38C3: Illegal Instructions"](https://media.ccc.de/c/38c3)
 
 - [Software Design is Knowledge Building](https://olano.dev/blog/software-design-is-knowledge-building/)
 
-- [Solving the Traveling Salesman Problem: From Heuristics to a Potential Polynomial-Time Breakthrough](https://prat8897.github.io/posts/Travelling-Salesman-Problem/travellingsalesman.html)
+- [Colliding with the SHA prefix of Linux's initial Git commit](https://people.kernel.org/kees/colliding-with-the-sha-prefix-of-linuxs-initial-git-commit)
 
-- [So You Want to Write Java in Neovim](https://ptrtojoel.dev/posts/so-you-want-to-write-java-in-neovim/)
+- [Goodbye Github Pages, Hello Coolify](https://quakkels.com/posts/202412_01_goodbye_github_pages_hello_coolify/)
 
-- [The web is too big, or scaling down](https://scottrichmond.me/the-web-is-too-big/)
+- [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
 
-- [How to Quit Mainstream Social Media and Join Mastodon: A Healthier Way to Connect](https://unboundroutes.com/2024/11/29/quit-social-media-join-mastodon/)
+- [Tech pace layers](https://snarfed.org/2024-12-30_54435)
 
-- [My thoughts on the new NVIDIA Jetson Orin Nano](https://www.jeremymorgan.com/blog/tech/nvidia-jetson-orin-nano/)
+- [3 Shifted 3 Shapes: Making a w3m Logo](https://toast.al/posts/visuallayout/2024-12-30_w3m-logo/)
 
-- [Installing NetBSD on the Nintendo Wii](https://youtu.be/KO9bNwE3Vps)
+- [Performance of LLMs on Advent of code 2024](https://www.jerpint.io/blog/advent-of-code-llms/)
+
+- [Windows 2: Final Fantasy of operating systems](https://www.ninakalinina.com/notes/win2/)
+
+- [Compiler Explorer in 2024](https://www.patreon.com/posts/compiler-in-2024-119012319)
