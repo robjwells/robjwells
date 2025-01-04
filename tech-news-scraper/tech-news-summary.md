@@ -1,47 +1,41 @@
-- [Flame graphs can hide small overheads with big overall impact](https://ankush.dev/p/flamegraph-missing-forest-for-trees)
+- [Multi-Path TCP: revolutionizing connectivity, one path at a time](https://blog.cloudflare.com/multi-path-tcp-revolutionizing-connectivity-one-path-at-a-time/)
 
-- [Passkey technology is elegant, but it’s most definitely not usable security](https://arstechnica.com/security/2024/12/passkey-technology-is-elegant-but-its-most-definitely-not-usable-security/)
+- [Test root device and root file system selection](https://blog.netbsd.org/tnf/entry/gsoc2024_diviyam)
 
-- [Plan 9 -> Linux (2020)](https://asyncial.github.io/plan-9-linux/)
+- [Never Have Outdated Footer Dates Again](https://getfullyear.com/)
 
-- [Collection of insane and fun facts about SQLite](https://avi.im/blag/2024/sqlite-facts)
+- [zizmor v1.0.0](https://github.com/woodruffw/zizmor/releases/tag/v1.0.0)
 
-- [Optimizing Advent of Code D9P2 with High-Performance Rust](https://cprimozic.net/blog/optimizing-advent-of-code-2024/)
+- [Helix 25.01 Highlights](https://helix-editor.com/news/release-25-01-highlights/)
 
-- [Static search trees](https://curiouscoding.nl/posts/static-search-tree/)
+- [Reversing the Animal Crossing letter system (2018)](https://jamchamb.net/projects/animal-crossing-letters)
 
-- [Déjà vu: Ghostly CVEs in my terminal title](https://dgl.cx/2024/12/ghostty-terminal-title)
+- [Do Files want to be Actors?](https://lewiscampbell.tech/blog/250104.html)
 
-- [Migrating Immich from Docker to NixOS](https://diogotc.com/blog/immich-docker-to-nixos/)
+- [Mandelbrot deep zoom theory and practice](https://mathr.co.uk/blog/2021-05-14_deep_zoom_theory_and_practice.html)
 
-- [Pidgin 3.0 Experimental 1 Has been released](https://discourse.imfreedom.org/t/pidgin-3-0-experimental-1-has-been-released/227)
+- [The JIT calculator challenge](https://ochagavia.nl/blog/the-jit-calculator-challenge)
 
-- [I’m Lovin’ It: Exploiting McDonald’s APIs to hijack deliveries and order food for a penny](https://eaton-works.com/2024/12/19/mcdelivery-india-hack/)
+- [Rules for Writing Software Tutorials](https://refactoringenglish.com/chapters/rules-for-software-tutorials/)
 
-- [up2code: A tool for checking code listings in Markdown source](https://github.com/bitfield/up2code)
+- [Bevy Efficiency on Mobile](https://rustunit.com/blog/2025/01-02-bevy-mobile-framerate/)
 
-- [lmno.lol - Drag and drop blogging minus the yucky bits of the modern web](https://lmno.lol)
+- [I still don’t think companies serve you ads based on spying through your microphone](https://simonwillison.net/2025/Jan/2/they-spy-on-you-but-not-like-that/)
 
-- [What is a dependency?](https://matklad.github.io/2024/12/30/what-is-dependency.html)
+- [Project idea: pkg-config support in compilers](https://sporks.space/2025/01/03/project-idea-pkg-config-support-in-compilers/)
 
-- [Tools Worth Changing To in 2025](https://matthewsanabria.dev/posts/tools-worth-changing-to-in-2025/)
+- [SQLite4 – SQLite on LSM Tree (2014)](https://sqlite.org/src4/doc/trunk/www/index.wiki)
 
-- [Talk recordings of "38C3: Illegal Instructions"](https://media.ccc.de/c/38c3)
+- [The Alder Lake SHLX anomaly](https://tavianator.com/2025/shlx.html)
 
-- [Software Design is Knowledge Building](https://olano.dev/blog/software-design-is-knowledge-building/)
+- [The intractable challenges of technical writing](https://technicalwriting.dev/strategy/challenges.html)
 
-- [Colliding with the SHA prefix of Linux's initial Git commit](https://people.kernel.org/kees/colliding-with-the-sha-prefix-of-linuxs-initial-git-commit)
+- [The State Of Garnet in 2025](https://wiki.alopex.li/TheStateOfGarnet2025)
 
-- [Goodbye Github Pages, Hello Coolify](https://quakkels.com/posts/202412_01_goodbye_github_pages_hello_coolify/)
+- [Building NetBSD in meta mode](https://www.crufty.net/sjg/docs/netbsd-meta-mode.htm)
 
-- [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
+- [An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise](https://www.usenix.org/publications/loginonline/empirical-study-rust-linux-success-dissatisfaction-and-compromise)
 
-- [Tech pace layers](https://snarfed.org/2024-12-30_54435)
+- [The Evolution of SRE at Google](https://www.usenix.org/publications/loginonline/evolution-sre-google)
 
-- [3 Shifted 3 Shapes: Making a w3m Logo](https://toast.al/posts/visuallayout/2024-12-30_w3m-logo/)
-
-- [Performance of LLMs on Advent of code 2024](https://www.jerpint.io/blog/advent-of-code-llms/)
-
-- [Windows 2: Final Fantasy of operating systems](https://www.ninakalinina.com/notes/win2/)
-
-- [Compiler Explorer in 2024](https://www.patreon.com/posts/compiler-in-2024-119012319)
+- [Spline Distance Fields](https://zone.dog/braindump/spline_fields/)
