@@ -1,41 +1,45 @@
-- [Multi-Path TCP: revolutionizing connectivity, one path at a time](https://blog.cloudflare.com/multi-path-tcp-revolutionizing-connectivity-one-path-at-a-time/)
+- [8th](https://8th-dev.com/)
 
-- [Test root device and root file system selection](https://blog.netbsd.org/tnf/entry/gsoc2024_diviyam)
+- [GHC 9.12 & Cabal 3.14 releases](https://blog.haskell.org/ghc-9-12-cabal-3-14/)
 
-- [Never Have Outdated Footer Dates Again](https://getfullyear.com/)
+- [DOOM: The Gallery Experience by bobatealee](https://bobatealee.itch.io/doom-the-gallery-experience)
 
-- [zizmor v1.0.0](https://github.com/woodruffw/zizmor/releases/tag/v1.0.0)
+- [Channel Sharding in Go](https://buttondown.com/jaffray/archive/channel-sharding-in-go/)
 
-- [Helix 25.01 Highlights](https://helix-editor.com/news/release-25-01-highlights/)
+- [The evolution of a structural code editor](https://crowdhailer.me/2025-01-02/the-evolution-of-a-structural-code-editor/)
 
-- [Reversing the Animal Crossing letter system (2018)](https://jamchamb.net/projects/animal-crossing-letters)
+- [Write your own tiny programming system(s) Course](https://d3s.mff.cuni.cz/teaching/nprg077/)
 
-- [Do Files want to be Actors?](https://lewiscampbell.tech/blog/250104.html)
+- [Queues Don't Fix Overload (2014)](https://ferd.ca/queues-don-t-fix-overload.html)
 
-- [Mandelbrot deep zoom theory and practice](https://mathr.co.uk/blog/2021-05-14_deep_zoom_theory_and_practice.html)
+- [recursive expansions](https://gist.github.com/izabera/8c541886c3992d328255944bc3de62c7)
 
-- [The JIT calculator challenge](https://ochagavia.nl/blog/the-jit-calculator-challenge)
+- [The future of htmx](https://htmx.org/essays/future/)
 
-- [Rules for Writing Software Tutorials](https://refactoringenglish.com/chapters/rules-for-software-tutorials/)
+- [Zig Strike: The ultimate toolkit for payload creation and evasion](https://kpmg.com/nl/en/home/insights/2024/12/zig-strike-the-ultimate-toolkit-for-payload-creation-and-evasion.html)
 
-- [Bevy Efficiency on Mobile](https://rustunit.com/blog/2025/01-02-bevy-mobile-framerate/)
+- [Good, Fast, Cheap: Pick 3 or Get None](https://loup-vaillant.fr/articles/good-fast-cheap)
 
-- [I still don’t think companies serve you ads based on spying through your microphone](https://simonwillison.net/2025/Jan/2/they-spy-on-you-but-not-like-that/)
+- [Review of Orbit by Mozilla](https://matduggan.com/review-of-orbit-by-mozilla/)
 
-- [Project idea: pkg-config support in compilers](https://sporks.space/2025/01/03/project-idea-pkg-config-support-in-compilers/)
+- [Rust's borrow checker: Not just a nuisance](https://mental-reverb.com/blog.php?id=46)
 
-- [SQLite4 – SQLite on LSM Tree (2014)](https://sqlite.org/src4/doc/trunk/www/index.wiki)
+- [OCRing Music from YouTube with Common Lisp](https://nickfa.ro/wiki/OCRing_Music_from_YouTube_with_Common_Lisp)
 
-- [The Alder Lake SHLX anomaly](https://tavianator.com/2025/shlx.html)
+- [Great things about Rust that aren't just performance](https://ntietz.com/blog/great-things-about-rust-beyond-perf/)
 
-- [The intractable challenges of technical writing](https://technicalwriting.dev/strategy/challenges.html)
+- [So you're writing a programming language](https://old.reddit.com/r/ProgrammingLanguages/comments/1huv4cf/so_youre_writing_a_programming_language/)
 
-- [The State Of Garnet in 2025](https://wiki.alopex.li/TheStateOfGarnet2025)
+- [Property-Based Testing for the People](https://repository.upenn.edu/server/api/core/bitstreams/8abd65a8-7b3c-43c4-b004-fb756f3bc466/content)
 
-- [Building NetBSD in meta mode](https://www.crufty.net/sjg/docs/netbsd-meta-mode.htm)
+- [A static site generator for audio producers](https://simonrepp.com/faircamp/)
 
-- [An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise](https://www.usenix.org/publications/loginonline/empirical-study-rust-linux-success-dissatisfaction-and-compromise)
+- [Try Snapshot Testing for Compilers and Compiler-Like Things](https://www.cs.cornell.edu/%7Easampson/blog/turnt.html)
 
-- [The Evolution of SRE at Google](https://www.usenix.org/publications/loginonline/evolution-sre-google)
+- [Parsing awk is tricky](https://www.raygard.net/awkdoc/pages/awk_parsing_is_tricky.html)
 
-- [Spline Distance Fields](https://zone.dog/braindump/spline_fields/)
+- [Zig's Comptime is Bonkers Good](https://www.scottredig.com/blog/bonkers_comptime/)
+
+- [They squandered the holy grail](https://xeiaso.net/blog/2025/squandered-holy-grail/)
+
+- [Typestates in Rust](https://yoric.github.io/post/rust-typestate/)
