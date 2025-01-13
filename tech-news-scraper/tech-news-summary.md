@@ -1,45 +1,49 @@
-- [Alloy 6.2.0 released](https://alloytools.discourse.group/t/alloy-6-2-0-released/508)
+- [German router maker is latest company to inadvertently clarify the LGPL license](https://arstechnica.com/gadgets/2025/01/suing-wi-fi-router-makers-remains-a-necessary-part-of-open-source-license-law/)
 
-- [WorstFit: Unveiling Hidden Transformers in Windows ANSI](https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/)
+- [Rewrite it in Rust: A Computational Physics Case Study](https://arxiv.org/pdf/2410.19146)
 
-- [Announcing Rust 1.84.0](https://blog.rust-lang.org/2025/01/09/Rust-1.84.0.html)
+- [Why I Chose Common Lisp](https://blog.djhaskin.com/blog/why-i-chose-common-lisp/)
 
-- [End-to-end testing emails](https://blog.wesleyac.com/posts/e2e-testing-email)
+- [Apple is Killing Swift](https://blog.jacobstechtavern.com/p/apple-is-killing-swift)
 
-- [Not every user owns an iPhone](https://calendar.perfplanet.com/2024/not-every-user-owns-an-iphone/)
+- [Be aware of the Makefile effect](https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect)
 
-- [broccoli: A robust message queue system for Rust applications, designed as a Rust alternative to Celery](https://github.com/densumesh/broccoli)
+- [This week in PSC (Perl Steering Council) (175) | 2025-01-09](https://blogs.perl.org/users/psc/2025/01/this-week-in-psc-175-2025-01-09.html)
 
-- [Northeastern’s redesign of the Khoury curriculum abandons the fundamentals of computer science](https://huntnewsnu.com/82511/editorial/op-eds/op-ed-northeasterns-redesign-of-the-khoury-curriculum-abandons-the-fundamentals-of-computer-science/)
+- [The Most Elegant Configuration Language](https://chshersh.com/blog/2025-01-06-the-most-elegant-configuration-language.html)
 
-- [Some Programming Language Ideas](https://jerf.org/iri/post/2025/programming_language_ideas/)
+- [Git - Reset Demystified](https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified)
 
-- [Shaping Ligatures in Monospace Fonts](https://joshleeb.com/posts/monospace-ligatures.html)
+- [niri v25.01 released](https://github.com/YaLTeR/niri/discussions/956)
 
-- [A simple trick to understand Ruby’s lazy enumerator](https://joyofrails.com/articles/simple-trick-to-understand-ruby-lazy-enumerator)
+- [All Your Codebase: C/C++ projects for the Zig build system](https://github.com/allyourcodebase)
 
-- [IP-over-Toslink](https://kittenlabs.de/ip-over-toslink/)
+- [quicknotes: A notes application that makes taking notes... quick](https://github.com/ollien/quicknotes)
 
-- [Process creation in io_uring](https://lwn.net/Articles/1002371/)
+- [boreDOM: another boring JS framework](https://hugodaniel.com/posts/boredom-another-js-framework/)
 
-- [Go is a Well-Designed Language, Actually](https://mattjhall.co.uk/posts/go-is-well-designed-actually.html)
+- [Building Bauble](https://ianthehenry.com/posts/bauble/building-bauble/)
 
-- [Can LLMs write better code if you keep asking them to “write better code”?](https://minimaxir.com/2025/01/write-better-code/)
+- [I quit my job to work on my programming language](https://jank-lang.org/blog/2025-01-10-i-quit-my-job/)
 
-- [A Pixel Parable](https://olano.dev/blog/a-pixel-parable/)
+- [What's involved in getting a "modern" terminal setup?](https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/)
 
-- [Pushing the whole company into the past on purpose](https://rachelbythebay.com/w/2025/01/09/lag/)
+- [2025 Predictions](https://macwright.com/2025/01/11/predictions.html)
 
-- [Designing Code For Forward Progress](https://rtpg.co/2025/01/10/designing-for-forward-progress/)
+- [(dxxx) 20 great CPAN modules released last week](https://niceperl.blogspot.com/2025/01/dxxx-20-great-cpan-modules-released.html)
 
-- [Tactility](https://tactility.one/)
+- [Running LLMs on the Nintendo Switch](https://nocoffei.com/?p=352)
 
-- [How Britain got its first internet connection](https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404)
+- [“Trivially relocatable” versus “trivially destructible after move”](https://quuxplusone.github.io/blog/2025/01/10/trivially-destructible-after-move/)
 
-- [Name Collision of the Year: Vector](https://www.crunchydata.com/blog/name-collision-of-the-year-vector)
+- [The Canva outage: another tale of saturation and resilience](https://surfingcomplexity.blog/2024/12/21/the-canva-outage-another-tale-of-saturation-and-resilience/)
 
-- [Google & Linux Foundation Launch "Supporters of Chromium-Based Browsers" Fund](https://www.phoronix.com/news/Supporting-Chromium-Browsers)
+- [Viewing images](https://wolf.nereid.pl/posts/image-viewer/)
 
-- [16GB Raspberry Pi 5 available now](https://www.raspberrypi.com/news/16gb-raspberry-pi-5-on-sale-now-at-120/)
+- [From ASCII to ASIC: Porting donut.c to a tiny slice of silicon](https://www.a1k0n.net/2025/01/10/tiny-tapeout-donut.html)
 
-- [dnsclay: DNS UPDATE/AXFR/NOTIFY to many custom DNS operator APIs gateway](https://www.ueber.net/who/mjl/blog/p/dnsclay-dns-update-axfr-notify-to-many-custom-dns-operator-APIs-gateway/)
+- [Enlightenment 0.27.0 Release](https://www.enlightenment.org/news/2025-01-11-enlightenment-0.27.0)
+
+- [Doug Lenat's source code for AM and EURISKO](https://www.white-flame.com/am-eurisko.html)
+
+- [Today I learned that bash has hashmaps](https://xeiaso.net/notes/2024/bash-hashmap/)
