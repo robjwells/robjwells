@@ -1,49 +1,49 @@
-- [German router maker is latest company to inadvertently clarify the LGPL license](https://arstechnica.com/gadgets/2025/01/suing-wi-fi-router-makers-remains-a-necessary-part-of-open-source-license-law/)
+- [Rapidly rendering fractals on stupidly unsuitable machines](http://cowlark.com/2018-05-26-bogomandel/index.html)
 
-- [Rewrite it in Rust: A Computational Physics Case Study](https://arxiv.org/pdf/2410.19146)
+- [Go 1.24 interactive tour](https://antonz.org/go-1-24/)
 
-- [Why I Chose Common Lisp](https://blog.djhaskin.com/blog/why-i-chose-common-lisp/)
+- [Landing the Nostromo](https://archive.org/details/creativecomputing-1981-06)
 
-- [Apple is Killing Swift](https://blog.jacobstechtavern.com/p/apple-is-killing-swift)
+- [Use cases for <form method="dialog">](https://bhoot.dev/2025/form-method-dialog/)
 
-- [Be aware of the Makefile effect](https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect)
+- [(Right-Nulled) Generalised LR Parsing](https://blog.jeffsmits.net/generalised-lr-parsing/)
 
-- [This week in PSC (Perl Steering Council) (175) | 2025-01-09](https://blogs.perl.org/users/psc/2025/01/this-week-in-psc-175-2025-01-09.html)
+- [The people should own the town square](https://blog.joinmastodon.org/2025/01/the-people-should-own-the-town-square/)
 
-- [The Most Elegant Configuration Language](https://chshersh.com/blog/2025-01-06-the-most-elegant-configuration-language.html)
+- [Branchless UTF-8 Encoding](https://cceckman.com/writing/branchless-utf8-encoding/)
 
-- [Git - Reset Demystified](https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified)
+- [Justified Text: Better Than Expected?](https://cloudfour.com/thinks/justified-text-better-than-expected/)
 
-- [niri v25.01 released](https://github.com/YaLTeR/niri/discussions/956)
+- [Why some DVLA digital services don't work at night](https://dafyddvaughan.uk/blog/2025/why-some-dvla-digital-services-dont-work-at-night/)
 
-- [All Your Codebase: C/C++ projects for the Zig build system](https://github.com/allyourcodebase)
+- [The DIY FOSS cyborg](https://dustycloud.org/blog/the-diy-foss-cyborg/)
 
-- [quicknotes: A notes application that makes taking notes... quick](https://github.com/ollien/quicknotes)
+- [gitui release 0.27 adds management of remotes](https://github.com/extrawurst/gitui/releases/tag/v0.27.0)
 
-- [boreDOM: another boring JS framework](https://hugodaniel.com/posts/boredom-another-js-framework/)
+- [Async Rust is about concurrency, not (just) performance](https://kobzol.github.io/rust/2025/01/15/async-rust-is-about-concurrency.html)
 
-- [Building Bauble](https://ianthehenry.com/posts/bauble/building-bauble/)
+- [ndjson](https://kracekumar.com/post/ndjson/)
 
-- [I quit my job to work on my programming language](https://jank-lang.org/blog/2025-01-10-i-quit-my-job/)
+- [The best laptop ever](https://mijndertstuij.nl/posts/the-best-laptop-ever/)
 
-- [What's involved in getting a "modern" terminal setup?](https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/)
+- [BASIC Star Trek Games](https://newton.freehostia.com/treks/index.html)
 
-- [2025 Predictions](https://macwright.com/2025/01/11/predictions.html)
+- [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
 
-- [(dxxx) 20 great CPAN modules released last week](https://niceperl.blogspot.com/2025/01/dxxx-20-great-cpan-modules-released.html)
+- [Don't Use Session (Signal Fork)](https://soatok.blog/2025/01/14/dont-use-session-signal-fork/)
 
-- [Running LLMs on the Nintendo Switch](https://nocoffei.com/?p=352)
+- [Fenwick Trees are Awesome](https://unnamed.website/posts/fenwick-trees-awesome/)
 
-- [“Trivially relocatable” versus “trivially destructible after move”](https://quuxplusone.github.io/blog/2025/01/10/trivially-destructible-after-move/)
+- [Unraveling a Postgres segfault that uncovered an Arm64 JIT compiler bug](https://www.datadoghq.com/blog/engineering/unraveling-a-postgres-segfault/)
 
-- [The Canva outage: another tale of saturation and resilience](https://surfingcomplexity.blog/2024/12/21/the-canva-outage-another-tale-of-saturation-and-resilience/)
+- [Django vs. FastAPI, An Honest Comparison](https://www.david-dahan.com/blog/comparing-fastapi-and-django)
 
-- [Viewing images](https://wolf.nereid.pl/posts/image-viewer/)
+- [Nix - Death by a thousand cuts](https://www.dgt.is/blog/2025-01-10-nix-death-by-a-thousand-cuts/)
 
-- [From ASCII to ASIC: Porting donut.c to a tiny slice of silicon](https://www.a1k0n.net/2025/01/10/tiny-tapeout-donut.html)
+- [RSYNC: 6 vulnerabilities](https://www.openwall.com/lists/oss-security/2025/01/14/3)
 
-- [Enlightenment 0.27.0 Release](https://www.enlightenment.org/news/2025-01-11-enlightenment-0.27.0)
+- [How This "Basic" Robot Solves Real Life Problems (without AI)](https://www.youtube.com/watch?v=-iLcOLvNfz0)
 
-- [Doug Lenat's source code for AM and EURISKO](https://www.white-flame.com/am-eurisko.html)
+- [The mess that is handling structure arguments and returns in LLVM](https://yorickpeterse.com/articles/the-mess-that-is-handling-structure-arguments-and-returns-in-llvm/)
 
-- [Today I learned that bash has hashmaps](https://xeiaso.net/notes/2024/bash-hashmap/)
+- [ZADZMO, a tarpit intended to catch web crawlers](https://zadzmo.org/code/nepenthes/)
