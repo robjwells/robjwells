@@ -1,49 +1,49 @@
-- [Rapidly rendering fractals on stupidly unsuitable machines](http://cowlark.com/2018-05-26-bogomandel/index.html)
+- [Reverse-engineering a carry-lookahead adder in the Pentium](http://www.righto.com/2025/01/pentium-carry-lookahead-reverse-engineered.html)
 
-- [Go 1.24 interactive tour](https://antonz.org/go-1-24/)
+- [Git Trailers](https://alchemists.io/articles/git_trailers)
 
-- [Landing the Nostromo](https://archive.org/details/creativecomputing-1981-06)
+- [Using ChatGPT is not bad for the environment](https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for)
 
-- [Use cases for <form method="dialog">](https://bhoot.dev/2025/form-method-dialog/)
+- [Lessons From Red Teaming 100 Generative AI Products](https://arxiv.org/abs/2501.07238)
 
-- [(Right-Nulled) Generalised LR Parsing](https://blog.jeffsmits.net/generalised-lr-parsing/)
+- [How Unix Spell Ran in 64kB RAM](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram)
 
-- [The people should own the town square](https://blog.joinmastodon.org/2025/01/the-people-should-own-the-town-square/)
+- [Private Keys in the Fortigate Leak](https://blog.hboeck.de/archives/908-Private-Keys-in-the-Fortigate-Leak.html)
 
-- [Branchless UTF-8 Encoding](https://cceckman.com/writing/branchless-utf8-encoding/)
+- [Hands-on graphics without X11](https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11)
 
-- [Justified Text: Better Than Expected?](https://cloudfour.com/thinks/justified-text-better-than-expected/)
+- [Yavalath (2007)](https://cambolbro.com/games/yavalath/)
 
-- [Why some DVLA digital services don't work at night](https://dafyddvaughan.uk/blog/2025/why-some-dvla-digital-services-dont-work-at-night/)
+- [Prototyping in Rust](https://corrode.dev/blog/prototyping/)
 
-- [The DIY FOSS cyborg](https://dustycloud.org/blog/the-diy-foss-cyborg/)
+- [A versioning scheme for end-user software](https://deniz.aksimsek.tr/2025/version/)
 
-- [gitui release 0.27 adds management of remotes](https://github.com/extrawurst/gitui/releases/tag/v0.27.0)
+- [2D Syntax](https://docs.racket-lang.org/2d/index.html)
 
-- [Async Rust is about concurrency, not (just) performance](https://kobzol.github.io/rust/2025/01/15/async-rust-is-about-concurrency.html)
+- [Wasm GC isn’t ready for realtime graphics](https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html)
 
-- [ndjson](https://kracekumar.com/post/ndjson/)
+- [Comic Mono](https://dtinth.github.io/comic-mono-font/)
 
-- [The best laptop ever](https://mijndertstuij.nl/posts/the-best-laptop-ever/)
+- [isd (interactive systemd) — a better way to work with systemd units](https://github.com/isd-project/isd)
 
-- [BASIC Star Trek Games](https://newton.freehostia.com/treks/index.html)
+- [Porting PFP from Haskell to OCaml](https://github.com/lewis-carson/PFPCaml)
 
-- [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
+- [Woodpecker CI v3.0.0 release](https://github.com/woodpecker-ci/woodpecker/releases/tag/v3.0.0)
 
-- [Don't Use Session (Signal Fork)](https://soatok.blog/2025/01/14/dont-use-session-signal-fork/)
+- [Finally, a Replacement for BERT: Introducing ModernBERT](https://huggingface.co/blog/modernbert)
 
-- [Fenwick Trees are Awesome](https://unnamed.website/posts/fenwick-trees-awesome/)
+- [Announcing Lix 2.92 "Bombe glacée"](https://lix.systems/blog/2025-01-18-lix-2.92-release/)
 
-- [Unraveling a Postgres segfault that uncovered an Arm64 JIT compiler bug](https://www.datadoghq.com/blog/engineering/unraveling-a-postgres-segfault/)
+- [Preventing data races with Pony](https://lwn.net/Articles/1001224/)
 
-- [Django vs. FastAPI, An Honest Comparison](https://www.david-dahan.com/blog/comparing-fastapi-and-django)
+- [The Cursed Art of Streaming HTML](https://rinici.de/posts/streaming-html)
 
-- [Nix - Death by a thousand cuts](https://www.dgt.is/blog/2025-01-10-nix-death-by-a-thousand-cuts/)
+- [Thoughts on having SSH allow password authentication from the Internet](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOnExposingPasswordAuth)
 
-- [RSYNC: 6 vulnerabilities](https://www.openwall.com/lists/oss-security/2025/01/14/3)
+- [Thoughts On A Month With Devin](https://www.answer.ai/posts/2025-01-08-devin.html)
 
-- [How This "Basic" Robot Solves Real Life Problems (without AI)](https://www.youtube.com/watch?v=-iLcOLvNfz0)
+- [A New Postgres Block Storage Layout for Full Text Search](https://www.paradedb.com/blog/block_storage_part_one)
 
-- [The mess that is handling structure arguments and returns in LLVM](https://yorickpeterse.com/articles/the-mess-that-is-handling-structure-arguments-and-returns-in-llvm/)
+- [Cheatsheet for jj's builtin diff editor](https://www.pauladamsmith.com/blog/2025/01/cheatsheet-for-jjs-builtin-diff-editor.html)
 
-- [ZADZMO, a tarpit intended to catch web crawlers](https://zadzmo.org/code/nepenthes/)
+- [Podcast: Type Theory Forall](https://www.typetheoryforall.com/)
