@@ -1,49 +1,49 @@
-- [Reverse-engineering a carry-lookahead adder in the Pentium](http://www.righto.com/2025/01/pentium-carry-lookahead-reverse-engineered.html)
+- [Building a tiny Linux from scratch](https://blinry.org/tiny-linux/)
 
-- [Git Trailers](https://alchemists.io/articles/git_trailers)
+- [Migrating away from bcachefs](https://blog.sesse.net/blog/tech/2025-01-20-21-45_migrating_away_from_bcachefs.html)
 
-- [Using ChatGPT is not bad for the environment](https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for)
+- [SQL Transactions in Go: The Good Way](https://blog.thibaut-rousseau.com/blog/sql-transactions-in-go-the-good-way/)
 
-- [Lessons From Red Teaming 100 Generative AI Products](https://arxiv.org/abs/2501.07238)
+- [Making “this” less annoying](https://daverupert.com/2025/01/like-this-and-like-that-and-like-this-and-uh/)
 
-- [How Unix Spell Ran in 64kB RAM](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram)
+- [I gave an AI agent edit access to my website](https://dri.es/i-gave-an-ai-agent-edit-access-to-my-website)
 
-- [Private Keys in the Fortigate Leak](https://blog.hboeck.de/archives/908-Private-Keys-in-the-Fortigate-Leak.html)
+- [ACTORS: A Model of Concurrent Computation in Distributed Systems](https://dspace.mit.edu/handle/1721.1/6952)
 
-- [Hands-on graphics without X11](https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11)
+- [Things people get wrong about Electron](https://felixrieseberg.com/things-people-get-wrong-about-electron/)
 
-- [Yavalath (2007)](https://cambolbro.com/games/yavalath/)
+- [Unique 0-click deanonymization attack targeting Signal, Discord and hundreds of platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
 
-- [Prototyping in Rust](https://corrode.dev/blog/prototyping/)
+- [evo: Version control that works the way you think](https://github.com/crazywolf132/evo)
 
-- [A versioning scheme for end-user software](https://deniz.aksimsek.tr/2025/version/)
+- [conduwuit: a very cool, featureful fork of conduit](https://github.com/girlbossceo/conduwuit)
 
-- [2D Syntax](https://docs.racket-lang.org/2d/index.html)
+- [Hyperbole: Haskell interactive serverside web framework inspired by HTMX, Elm, and Phoenix LiveView](https://github.com/seanhess/hyperbole)
 
-- [Wasm GC isn’t ready for realtime graphics](https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html)
+- [Type Inference in Rust and C++](https://herecomesthemoon.net/2025/01/type-inference-in-rust-and-cpp/)
 
-- [Comic Mono](https://dtinth.github.io/comic-mono-font/)
+- [Elementary Water Rendering](https://jysandy.github.io/posts/gradient-water-rendering/)
 
-- [isd (interactive systemd) — a better way to work with systemd units](https://github.com/isd-project/isd)
+- [I'll think twice before using Github Actions again](https://ninkovic.dev/blog/2025/think-twice-before-using-github-actions)
 
-- [Porting PFP from Haskell to OCaml](https://github.com/lewis-carson/PFPCaml)
+- ["We never update unless forced to" — cargo-semver-checks 2024 Year in Review](https://predr.ag/blog/cargo-semver-checks-2024-year-in-review/)
 
-- [Woodpecker CI v3.0.0 release](https://github.com/woodpecker-ci/woodpecker/releases/tag/v3.0.0)
+- [dreaming of smel shell](https://taylor.town/smel-000)
 
-- [Finally, a Replacement for BERT: Introducing ModernBERT](https://huggingface.co/blog/modernbert)
+- [OpenAI quietly funded independent math benchmark before setting record with o3](https://the-decoder.com/openai-quietly-funded-independent-math-benchmark-before-setting-record-with-o3/)
 
-- [Announcing Lix 2.92 "Bombe glacée"](https://lix.systems/blog/2025-01-18-lix-2.92-release/)
+- [Programming languages after LLMs](https://thetechenabler.substack.com/p/the-future-of-programming-languages)
 
-- [Preventing data races with Pony](https://lwn.net/Articles/1001224/)
+- [The hunt for error -22](https://tweedegolf.nl/en/blog/145/the-hunt-for-error--22)
 
-- [The Cursed Art of Streaming HTML](https://rinici.de/posts/streaming-html)
+- [Twine Data](https://twine-data.dev/)
 
-- [Thoughts on having SSH allow password authentication from the Internet](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOnExposingPasswordAuth)
+- [The Essence of Successful Abstractions](https://v5.chriskrycho.com/journal/essence-of-successful-abstractions/)
 
-- [Thoughts On A Month With Devin](https://www.answer.ai/posts/2025-01-08-devin.html)
+- [Using Linear Programming to find optimal builds in League of Legends](https://versary.town/blog/using-linear-programming-to-find-optimal-builds-in-league-of-legends/)
 
-- [A New Postgres Block Storage Layout for Full Text Search](https://www.paradedb.com/blog/block_storage_part_one)
+- [How many Alpine packages can you install at once?](https://www.naff.dev/blog/all-the-packages)
 
-- [Cheatsheet for jj's builtin diff editor](https://www.pauladamsmith.com/blog/2025/01/cheatsheet-for-jjs-builtin-diff-editor.html)
+- [RetroDotCards](https://www.retrodotcards.com/)
 
-- [Podcast: Type Theory Forall](https://www.typetheoryforall.com/)
+- [A platform that moulds to your needs](https://xenodium.com/a-platform-that-moulds-to-your-needs)
