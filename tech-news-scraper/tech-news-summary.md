@@ -1,49 +1,45 @@
-- [Building a tiny Linux from scratch](https://blinry.org/tiny-linux/)
+- [Template literal types in TypeScript: parsing during type checking and more](https://2ality.com/2025/01/template-literal-types.html)
 
-- [Migrating away from bcachefs](https://blog.sesse.net/blog/tech/2025-01-20-21-45_migrating_away_from_bcachefs.html)
+- [CUTECat: Concolic Execution for Computational Law](https://arxiv.org/pdf/2410.18212)
 
-- [SQL Transactions in Go: The Good Way](https://blog.thibaut-rousseau.com/blog/sql-transactions-in-go-the-good-way/)
+- [The Mythical IO-Bound Rails App](https://byroot.github.io/ruby/performance/2025/01/23/the-mythical-io-bound-rails-app.html)
 
-- [Making “this” less annoying](https://daverupert.com/2025/01/like-this-and-like-that-and-like-this-and-uh/)
+- [CVSS is dead to us](https://daniel.haxx.se/blog/2025/01/23/cvss-is-dead-to-us/)
 
-- [I gave an AI agent edit access to my website](https://dri.es/i-gave-an-ai-agent-edit-access-to-my-website)
+- [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
 
-- [ACTORS: A Model of Concurrent Computation in Distributed Systems](https://dspace.mit.edu/handle/1721.1/6952)
+- [The preview of -fbounds-safety is now accessible to the community](https://discourse.llvm.org/t/the-preview-of-fbounds-safety-is-now-accessible-to-the-community/84221)
 
-- [Things people get wrong about Electron](https://felixrieseberg.com/things-people-get-wrong-about-electron/)
+- [Google's official URL shortcut is compromised](https://gist.github.com/zachlatta/f86317493654b550c689dc6509973aa4)
 
-- [Unique 0-click deanonymization attack targeting Signal, Discord and hundreds of platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
+- [buzz 0.5.0 release](https://github.com/buzz-language/buzz/releases/tag/0.5.0)
 
-- [evo: Version control that works the way you think](https://github.com/crazywolf132/evo)
+- [wild: A very fast linker for Linux](https://github.com/davidlattimore/wild)
 
-- [conduwuit: a very cool, featureful fork of conduit](https://github.com/girlbossceo/conduwuit)
+- [UI is hell: four-function calculators](https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators)
 
-- [Hyperbole: Haskell interactive serverside web framework inspired by HTMX, Elm, and Phoenix LiveView](https://github.com/seanhess/hyperbole)
+- [Build It Yourself](https://lucumr.pocoo.org/2025/1/24/build-it-yourself/)
 
-- [Type Inference in Rust and C++](https://herecomesthemoon.net/2025/01/type-inference-in-rust-and-cpp/)
+- [The state of Vim](https://lwn.net/Articles/1002342/)
 
-- [Elementary Water Rendering](https://jysandy.github.io/posts/gradient-water-rendering/)
+- [The Drunken Plagiarists - Working with Co-pilots](https://queue.acm.org/detail.cfm?id=3711675&doi=10.1145%2F3711675)
 
-- [I'll think twice before using Github Actions again](https://ninkovic.dev/blog/2025/think-twice-before-using-github-actions)
+- [What I've learned about writing AI apps so far](https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far)
 
-- ["We never update unless forced to" — cargo-semver-checks 2024 Year in Review](https://predr.ag/blog/cargo-semver-checks-2024-year-in-review/)
+- [Trying out Zed after more than a decade of Vim/Neovim](https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/)
 
-- [dreaming of smel shell](https://taylor.town/smel-000)
+- [TabBoo: Add random jumpscares to sites you're trying to avoid](https://tabboo.xyz/)
 
-- [OpenAI quietly funded independent math benchmark before setting record with o3](https://the-decoder.com/openai-quietly-funded-independent-math-benchmark-before-setting-record-with-o3/)
+- [Results! - The Big Array Size Survey for C](https://thephd.dev/the-big-array-size-survey-for-c-results)
 
-- [Programming languages after LLMs](https://thetechenabler.substack.com/p/the-future-of-programming-languages)
+- [VIC-20 Elite](https://vic20elite.wordpress.com/)
 
-- [The hunt for error -22](https://tweedegolf.nl/en/blog/145/the-hunt-for-error--22)
+- [A WebAssembly compiler that fits in a tweet](https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet)
 
-- [Twine Data](https://twine-data.dev/)
+- [Eve Programming Language](https://witheve.com/)
 
-- [The Essence of Successful Abstractions](https://v5.chriskrycho.com/journal/essence-of-successful-abstractions/)
+- [AI's Influence on Engineering Analytics and DORA](https://www.coderabbit.ai/blog/downstream-impact-of-ai-on-engineering-analytics-and-dora)
 
-- [Using Linear Programming to find optimal builds in League of Legends](https://versary.town/blog/using-linear-programming-to-find-optimal-builds-in-league-of-legends/)
+- [ManKier - HTML man pages](https://www.mankier.com/)
 
-- [How many Alpine packages can you install at once?](https://www.naff.dev/blog/all-the-packages)
-
-- [RetroDotCards](https://www.retrodotcards.com/)
-
-- [A platform that moulds to your needs](https://xenodium.com/a-platform-that-moulds-to-your-needs)
+- [Tilde, my LLVM alternative](https://yasserarg.com/tb)
