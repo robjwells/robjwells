@@ -1,45 +1,45 @@
-- [Template literal types in TypeScript: parsing during type checking and more](https://2ality.com/2025/01/template-literal-types.html)
+- [Building personal software with Claude](https://blog.nelhage.com/post/personal-software-with-claude/)
 
-- [CUTECat: Concolic Execution for Computational Law](https://arxiv.org/pdf/2410.18212)
+- [Repeat Yourself, A Bit](https://blog.startifact.com/posts/repeat-yourself-a-bit/)
 
-- [The Mythical IO-Bound Rails App](https://byroot.github.io/ruby/performance/2025/01/23/the-mythical-io-bound-rails-app.html)
+- [The First Perfect Computer](https://celso.io/posts/2025/01/26/the-first-perfect-computer/)
 
-- [CVSS is dead to us](https://daniel.haxx.se/blog/2025/01/23/cvss-is-dead-to-us/)
+- [Steam Brick: No screen, no controller, and absolutely no sense, just a power button and a USB port](https://crastinator-pro.github.io/steam-brick/)
 
-- [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
+- [Scaling One Million Checkboxes to 650,000,000 checks (2024)](https://eieio.games/blog/scaling-one-million-checkboxes/)
 
-- [The preview of -fbounds-safety is now accessible to the community](https://discourse.llvm.org/t/the-preview-of-fbounds-safety-is-now-accessible-to-the-community/84221)
+- [Building a toast component](https://emilkowal.ski/ui/building-a-toast-component)
 
-- [Google's official URL shortcut is compromised](https://gist.github.com/zachlatta/f86317493654b550c689dc6509973aa4)
+- [My failed attempt to shrink all npm packages by 5%](https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/)
 
-- [buzz 0.5.0 release](https://github.com/buzz-language/buzz/releases/tag/0.5.0)
+- [pwru: Packet, where are you? -- eBPF-based Linux kernel networking debugger](https://github.com/cilium/pwru)
 
-- [wild: A very fast linker for Linux](https://github.com/davidlattimore/wild)
+- [noria: Fast web applications through dynamic, partially-stateful dataflow](https://github.com/mit-pdos/noria)
 
-- [UI is hell: four-function calculators](https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators)
+- [Trustfall](https://github.com/obi1kenobi/trustfall)
 
-- [Build It Yourself](https://lucumr.pocoo.org/2025/1/24/build-it-yourself/)
+- [Is NixOS truly reproducible?](https://luj.fr/blog/is-nixos-truly-reproducible.html)
 
-- [The state of Vim](https://lwn.net/Articles/1002342/)
+- [Rust’s worst feature](https://mina86.com/2025/rusts-worst-feature/)
 
-- [The Drunken Plagiarists - Working with Co-pilots](https://queue.acm.org/detail.cfm?id=3711675&doi=10.1145%2F3711675)
+- [Hard numbers in the Wayland vs X11 input latency discussion](https://mort.coffee/home/wayland-input-latency/)
 
-- [What I've learned about writing AI apps so far](https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far)
+- [Pebble smartwatches open-sourced](https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html)
 
-- [Trying out Zed after more than a decade of Vim/Neovim](https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/)
+- [really really good random number generator (rrgrng)](https://swlody.dev/Posts/really-really-good-random-number-generator-(rrgrng))
 
-- [TabBoo: Add random jumpscares to sites you're trying to avoid](https://tabboo.xyz/)
+- [Maps are faster in Go 1.24](https://www.bytesizego.com/blog/go-124-swiss-table-maps)
 
-- [Results! - The Big Array Size Survey for C](https://thephd.dev/the-big-array-size-survey-for-c-results)
+- [Image replacement in Canva designs using reverse image search](https://www.canva.dev/blog/engineering/image-replacement-in-canva-designs-using-reverse-image-search/)
 
-- [VIC-20 Elite](https://vic20elite.wordpress.com/)
+- [2024 Finances In Review](https://www.joshuakgoldberg.com/blog/2024-finances-in-review/)
 
-- [A WebAssembly compiler that fits in a tweet](https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet)
+- [The Taylorator - All Your Frequencies Are Belong to Us](https://www.scd31.com/posts/taylorator)
 
-- [Eve Programming Language](https://witheve.com/)
+- [Spritely Goblins v0.15.0: Goblins in the browser](https://www.spritely.institute/news/spritely-goblins-v0-15-0-goblins-in-the-browser.html)
 
-- [AI's Influence on Engineering Analytics and DORA](https://www.coderabbit.ai/blog/downstream-impact-of-ai-on-engineering-analytics-and-dora)
+- [Surface-Stable Fractal Dithering](https://www.youtube.com/watch?v=HPqGaIMVuLs)
 
-- [ManKier - HTML man pages](https://www.mankier.com/)
+- [The Future of Microprocessors](https://www.youtube.com/watch?v=MkbgZMCTUyU)
 
-- [Tilde, my LLVM alternative](https://yasserarg.com/tb)
+- [Poisoning AI with ".аss" subtitles](https://www.youtube.com/watch?v=NEDFUjqA1s8)
