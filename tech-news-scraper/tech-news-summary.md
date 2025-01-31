@@ -1,45 +1,49 @@
-- [Building personal software with Claude](https://blog.nelhage.com/post/personal-software-with-claude/)
+- [Building a (T1D) smartwatch from scratch](https://andrewchilds.com/posts/building-a-t1d-smartwatch-from-scratch)
 
-- [Repeat Yourself, A Bit](https://blog.startifact.com/posts/repeat-yourself-a-bit/)
+- [How Jane Street accidentally built a better build system for OCaml](https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/)
 
-- [The First Perfect Computer](https://celso.io/posts/2025/01/26/the-first-perfect-computer/)
+- [PyPI Now Supports Project Archival](https://blog.pypi.org/posts/2025-01-30-archival/)
 
-- [Steam Brick: No screen, no controller, and absolutely no sense, just a power button and a USB port](https://crastinator-pro.github.io/steam-brick/)
+- ["Will I ever use this in the real world?"](https://blog.waleedkhan.name/will-i-ever-use-this/)
 
-- [Scaling One Million Checkboxes to 650,000,000 checks (2024)](https://eieio.games/blog/scaling-one-million-checkboxes/)
+- [The UX of login codes](https://bradfrost.com/blog/post/the-ux-of-login-codes/)
 
-- [Building a toast component](https://emilkowal.ski/ui/building-a-toast-component)
+- [Introducing sealed types](https://cheriot.org/sealing/compiler/2025/01/30/introducing-sealed-types.html)
 
-- [My failed attempt to shrink all npm packages by 5%](https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/)
+- [Xerox Alto Source Code (2014)](https://computerhistory.org/blog/xerox-alto-source-code/)
 
-- [pwru: Packet, where are you? -- eBPF-based Linux kernel networking debugger](https://github.com/cilium/pwru)
+- [History of APL in the USSR](https://dl.acm.org/doi/10.1145/130647.130656)
 
-- [noria: Fast web applications through dynamic, partially-stateful dataflow](https://github.com/mit-pdos/noria)
+- [Equinix Sunset, future of gitlab.freedesktop.org](https://gitlab.freedesktop.org/freedesktop/freedesktop/-/issues/2011)
 
-- [Trustfall](https://github.com/obi1kenobi/trustfall)
+- [Ranking Programming Languages by Energy Efficiency](https://haslab.github.io/SAFER/scp21.pdf)
 
-- [Is NixOS truly reproducible?](https://luj.fr/blog/is-nixos-truly-reproducible.html)
+- [Ending Support for Expiration Notification Emails](https://letsencrypt.org/2025/01/22/ending-expiration-emails/)
 
-- [Rust’s worst feature](https://mina86.com/2025/rusts-worst-feature/)
+- [Hey DeepSeek, can you reduce junk in my inbox?](https://loshadki.app/blog/2025-01-29-protect-inbox-with-deepseek/)
 
-- [Hard numbers in the Wayland vs X11 input latency discussion](https://mort.coffee/home/wayland-input-latency/)
+- [How I Use "AI"](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
 
-- [Pebble smartwatches open-sourced](https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html)
+- [TV Setup](https://push.cx/tv-setup)
 
-- [really really good random number generator (rrgrng)](https://swlody.dev/Posts/really-really-good-random-number-generator-(rrgrng))
+- [The surprising way to save memory with BytesIO](https://pythonspeed.com/articles/bytesio-reduce-memory-usage/)
 
-- [Maps are faster in Go 1.24](https://www.bytesizego.com/blog/go-124-swiss-table-maps)
+- [Practical Pigment Mixing for Digital Painting (2021)](https://scrtwpns.com/mixbox.pdf)
 
-- [Image replacement in Canva designs using reverse image search](https://www.canva.dev/blog/engineering/image-replacement-in-canva-designs-using-reverse-image-search/)
+- [Preview crates](https://smallcultfollowing.com/babysteps/blog/2025/01/29/preview-crates/)
 
-- [2024 Finances In Review](https://www.joshuakgoldberg.com/blog/2024-finances-in-review/)
+- [Reversing the Pixel 4a battery update](https://social.treehouse.systems/@marcan/113914172433692339)
 
-- [The Taylorator - All Your Frequencies Are Belong to Us](https://www.scd31.com/posts/taylorator)
+- [Execution in the Kingdom of Nouns (2006)](https://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html)
 
-- [Spritely Goblins v0.15.0: Goblins in the browser](https://www.spritely.institute/news/spritely-goblins-v0-15-0-goblins-in-the-browser.html)
+- [Forest & Desert](https://tidyfirst.substack.com/p/forest-and-desert)
 
-- [Surface-Stable Fractal Dithering](https://www.youtube.com/watch?v=HPqGaIMVuLs)
+- [Contracts for C++ explained in 5 minutes](https://timur.audio/contracts_explained_in_5_mins)
 
-- [The Future of Microprocessors](https://www.youtube.com/watch?v=MkbgZMCTUyU)
+- [The Slow Death of OCSP](https://www.feistyduck.com/newsletter/issue_121_the_slow_death_of_ocsp)
 
-- [Poisoning AI with ".аss" subtitles](https://www.youtube.com/watch?v=NEDFUjqA1s8)
+- [The Death of Email Forwarding](https://www.mythic-beasts.com/blog/2025/01/29/the-death-of-email-forwarding/)
+
+- [Pointers Are Complicated II, or: We need better language specs (2020)](https://www.ralfj.de/blog/2020/12/14/provenance.html)
+
+- [DeepSeek database leak](https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak)
