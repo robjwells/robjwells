@@ -1,49 +1,47 @@
-- [Building a (T1D) smartwatch from scratch](https://andrewchilds.com/posts/building-a-t1d-smartwatch-from-scratch)
+- [Guten: A tiny newspaper printer](https://amanvir.com/guten)
+
+- [Using LLM to write SQLite queries](https://amjith.com/blog/2025/llm-in-litecli-1/)
 
 - [How Jane Street accidentally built a better build system for OCaml](https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/)
 
-- [PyPI Now Supports Project Archival](https://blog.pypi.org/posts/2025-01-30-archival/)
+- [Announcing Rust 1.84.1](https://blog.rust-lang.org/2025/01/30/Rust-1.84.1.html)
 
-- ["Will I ever use this in the real world?"](https://blog.waleedkhan.name/will-i-ever-use-this/)
+- [Gamedev.city: Game development-centric link aggregator](https://gamedev.city/)
 
-- [The UX of login codes](https://bradfrost.com/blog/post/the-ux-of-login-codes/)
+- [linuxpdf: Linux running inside a PDF file via a RISC-V emulator](https://github.com/ading2210/linuxpdf)
 
-- [Introducing sealed types](https://cheriot.org/sealing/compiler/2025/01/30/introducing-sealed-types.html)
+- [Potential Rust-inspired simplification for Go error handling](https://github.com/golang/go/discussions/71460)
 
-- [Xerox Alto Source Code (2014)](https://computerhistory.org/blog/xerox-alto-source-code/)
+- [nom parser combinators now released in version 8, with a new architecture](https://github.com/rust-bakery/nom/blob/main/CHANGELOG.md#800-2025-01-25)
 
-- [History of APL in the USSR](https://dl.acm.org/doi/10.1145/130647.130656)
+- [Rust's rand 0.9.0 is out](https://github.com/rust-random/rand/releases/tag/0.9.0)
 
-- [Equinix Sunset, future of gitlab.freedesktop.org](https://gitlab.freedesktop.org/freedesktop/freedesktop/-/issues/2011)
+- [The :user-valid pseudo-class](https://html-css-tip-of-the-week.netlify.app/tip/user-valid/)
 
-- [Ranking Programming Languages by Energy Efficiency](https://haslab.github.io/SAFER/scp21.pdf)
+- [Jujutsu VCS Introduction and Patterns](https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/)
 
-- [Ending Support for Expiration Notification Emails](https://letsencrypt.org/2025/01/22/ending-expiration-emails/)
+- [How we share secrets at a fully-remote startup](https://mill.plainopen.com/how-we-share-secrets-at-a-fully-remote-startup.html)
 
-- [Hey DeepSeek, can you reduce junk in my inbox?](https://loshadki.app/blog/2025-01-29-protect-inbox-with-deepseek/)
-
-- [How I Use "AI"](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
-
-- [TV Setup](https://push.cx/tv-setup)
+- [Falsehoods programmers believe about null pointers](https://purplesyringa.moe/blog/falsehoods-programmers-believe-about-null-pointers/)
 
 - [The surprising way to save memory with BytesIO](https://pythonspeed.com/articles/bytesio-reduce-memory-usage/)
 
-- [Practical Pigment Mixing for Digital Painting (2021)](https://scrtwpns.com/mixbox.pdf)
+- [Blazing-fast IoT data pipeline for infrared monitoring](https://s2.dev/blog/iot)
 
-- [Preview crates](https://smallcultfollowing.com/babysteps/blog/2025/01/29/preview-crates/)
+- [Will Scaling Reasoning Models Like o3 and R1 Unlock Superhuman Reasoning?](https://scaling-reasoning.chrisbarber.co/)
 
-- [Reversing the Pixel 4a battery update](https://social.treehouse.systems/@marcan/113914172433692339)
+- [Introducing Werk](https://simonask.github.io/introducing-werk/)
 
-- [Execution in the Kingdom of Nouns (2006)](https://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html)
+- [Jailbreaking DeepSeek R1 - Prompt Injection Using Charcodes](https://substack.com/home/post/p-156004330)
 
-- [Forest & Desert](https://tidyfirst.substack.com/p/forest-and-desert)
+- [uscope: A New Debugger and Introspection Toolchain](https://www.calabro.io/uscope)
 
-- [Contracts for C++ explained in 5 minutes](https://timur.audio/contracts_explained_in_5_mins)
+- [Designing Great Watchdog Timers for Embedded Systems](https://www.ganssle.com/watchdogs.htm)
 
-- [The Slow Death of OCSP](https://www.feistyduck.com/newsletter/issue_121_the_slow_death_of_ocsp)
+- [Navigating Global Regulations and Open Source: US OFAC Sanctions](https://www.linuxfoundation.org/blog/navigating-global-regulations-and-open-source-us-ofac-sanctions)
 
-- [The Death of Email Forwarding](https://www.mythic-beasts.com/blog/2025/01/29/the-death-of-email-forwarding/)
-
-- [Pointers Are Complicated II, or: We need better language specs (2020)](https://www.ralfj.de/blog/2020/12/14/provenance.html)
+- [What's OAuth2 Anyway?](https://www.romaglushko.com/blog/whats-aouth2/)
 
 - [DeepSeek database leak](https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak)
+
+- [Blazing-Fast Directory Tree Traversal: Haskell Streamly Beats Rust](https://www.youtube.com/watch?v=voy1iT2E4bk)
