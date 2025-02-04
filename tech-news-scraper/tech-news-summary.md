@@ -1,47 +1,45 @@
-- [Guten: A tiny newspaper printer](https://amanvir.com/guten)
+- ["GOTO Considered Harmful” Considered Harmful (1987)](http://web.archive.org/web/20090320002214/http://www.ecn.purdue.edu/ParaMount/papers/rubin87goto.pdf)
 
-- [Using LLM to write SQLite queries](https://amjith.com/blog/2025/llm-in-litecli-1/)
+- [Hollywood: split a computer console into multiple panes of genuine technical melodrama](https://a.hollywood.computer/)
 
-- [How Jane Street accidentally built a better build system for OCaml](https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/)
+- [Retaking The Web Browser, One Small Step At A Time](https://andregarzia.com/2025/02/retaking-the-web-browser-one-small-step-at-a-time.html)
 
-- [Announcing Rust 1.84.1](https://blog.rust-lang.org/2025/01/30/Rust-1.84.1.html)
+- [Incident SEV scales are a waste of time](https://blog.danslimmon.com/2025/01/29/incident-sev-scales-are-a-waste-of-time/)
 
-- [Gamedev.city: Game development-centric link aggregator](https://gamedev.city/)
+- [Build your own SQLite in Rust, Part 4: reading tables metadata](https://blog.sylver.dev/build-your-own-sqlite-part-4-reading-tables-metadata)
 
-- [linuxpdf: Linux running inside a PDF file via a RISC-V emulator](https://github.com/ading2210/linuxpdf)
+- [Follow up on emails with mu4e and org capture](https://breatheoutbreathe.in/2025-02-03-follow-up-emails-mu4e-org-capture.html)
 
-- [Potential Rust-inspired simplification for Go error handling](https://github.com/golang/go/discussions/71460)
+- [So You Want To Remove The GVL?](https://byroot.github.io/ruby/performance/2025/01/29/so-you-want-to-remove-the-gvl.html)
 
-- [nom parser combinators now released in version 8, with a new architecture](https://github.com/rust-bakery/nom/blob/main/CHANGELOG.md#800-2025-01-25)
+- [Generating image descriptions and alt-text with AI](https://dri.es/generating-image-descriptions-and-alt-text-with-ai)
 
-- [Rust's rand 0.9.0 is out](https://github.com/rust-random/rand/releases/tag/0.9.0)
+- [Five coding hats](https://dubroy.com/blog/five-coding-hats/)
 
-- [The :user-valid pseudo-class](https://html-css-tip-of-the-week.netlify.app/tip/user-valid/)
+- [Pinning Down "Future Is Not Send" Errors](https://emschwartz.me/pinning-down-future-is-not-send-errors/)
 
-- [Jujutsu VCS Introduction and Patterns](https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/)
+- [Nix: string interpolation of directories gone awry](https://fzakaria.com/2025/02/02/nix-string-interpolation-of-directories-gone-awry.html)
 
-- [How we share secrets at a fully-remote startup](https://mill.plainopen.com/how-we-share-secrets-at-a-fully-remote-startup.html)
+- [clr: Checker for Lifetimes and other Refinement types](https://github.com/ityonemo/clr)
 
-- [Falsehoods programmers believe about null pointers](https://purplesyringa.moe/blog/falsehoods-programmers-believe-about-null-pointers/)
+- [Lisa: Production-quality expert-system shell](https://github.com/youngde811/Lisa)
 
-- [The surprising way to save memory with BytesIO](https://pythonspeed.com/articles/bytesio-reduce-memory-usage/)
+- [Learn Common Lisp by Example: GTK GUI with SBCL](https://goober99.hashnode.dev/learn-common-lisp-by-example-gtk-gui-with-sbcl)
 
-- [Blazing-fast IoT data pipeline for infrared monitoring](https://s2.dev/blog/iot)
+- [Optimizing with Novel Calendrical Algorithms](https://jhpratt.dev/blog/optimizing-with-novel-calendrical-algorithms/)
 
-- [Will Scaling Reasoning Models Like o3 and R1 Unlock Superhuman Reasoning?](https://scaling-reasoning.chrisbarber.co/)
+- [Perfect is the enemy of good](https://medv.io/blog/perfect-is-the-enemy-of-good)
 
-- [Introducing Werk](https://simonask.github.io/introducing-werk/)
+- [Operational and Denotational Strategies for Understanding Code](https://noelwelsh.com/posts/operational-denotational-understanding/)
 
-- [Jailbreaking DeepSeek R1 - Prompt Injection Using Charcodes](https://substack.com/home/post/p-156004330)
+- [PanGui - A cross-platform UI library with a razor sharp focus on performance, simplicity and expressive power](https://pangui.io/)
 
-- [uscope: A New Debugger and Introspection Toolchain](https://www.calabro.io/uscope)
+- [Python free-threading guide](https://py-free-threading.github.io/)
 
-- [Designing Great Watchdog Timers for Embedded Systems](https://www.ganssle.com/watchdogs.htm)
+- [Developer philosophy](https://qntm.org/devphilo)
 
-- [Navigating Global Regulations and Open Source: US OFAC Sanctions](https://www.linuxfoundation.org/blog/navigating-global-regulations-and-open-source-us-ofac-sanctions)
+- [RUSTSEC-2025-0004: openssl: ssl::select_next_proto use after free](https://rustsec.org/advisories/RUSTSEC-2025-0004)
 
-- [What's OAuth2 Anyway?](https://www.romaglushko.com/blog/whats-aouth2/)
+- [A selfish personal argument for releasing code as Open Source](https://simonwillison.net/2025/Jan/24/selfish-open-source/)
 
-- [DeepSeek database leak](https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak)
-
-- [Blazing-Fast Directory Tree Traversal: Haskell Streamly Beats Rust](https://www.youtube.com/watch?v=voy1iT2E4bk)
+- [Gang of None? Design Patterns in Elixir](https://www.youtube.com/watch?v=agkXUp0hCW8)
