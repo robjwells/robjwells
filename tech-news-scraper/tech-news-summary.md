@@ -1,45 +1,49 @@
-- ["GOTO Considered Harmful” Considered Harmful (1987)](http://web.archive.org/web/20090320002214/http://www.ecn.purdue.edu/ParaMount/papers/rubin87goto.pdf)
+- [The Three Projections of Doctor Futamura](http://blog.sigfpe.com/2009/05/three-projections-of-doctor-futamura.html)
 
-- [Hollywood: split a computer console into multiple panes of genuine technical melodrama](https://a.hollywood.computer/)
+- [HTML Whitespace is Broken](https://blog.dwac.dev/posts/html-whitespace/)
 
-- [Retaking The Web Browser, One Small Step At A Time](https://andregarzia.com/2025/02/retaking-the-web-browser-one-small-step-at-a-time.html)
+- [String vs &str](https://blog.sulami.xyz/posts/string-vs-str/)
 
-- [Incident SEV scales are a waste of time](https://blog.danslimmon.com/2025/01/29/incident-sev-scales-are-a-waste-of-time/)
+- [It Is Time to Standardize Principles and Practices for Software Memory Safety](https://cacm.acm.org/opinion/it-is-time-to-standardize-principles-and-practices-for-software-memory-safety/)
 
-- [Build your own SQLite in Rust, Part 4: reading tables metadata](https://blog.sylver.dev/build-your-own-sqlite-part-4-reading-tables-metadata)
+- [Updating a large codebase to Rust 2024](https://codeandbitters.com/rust-2024-upgrade/)
 
-- [Follow up on emails with mu4e and org capture](https://breatheoutbreathe.in/2025-02-03-follow-up-emails-mu4e-org-capture.html)
+- [the sudoku affair](https://explaining.software/archive/the-sudoku-affair/)
 
-- [So You Want To Remove The GVL?](https://byroot.github.io/ruby/performance/2025/01/29/so-you-want-to-remove-the-gvl.html)
+- [Frink data file for non-changing units](https://frinklang.org/frinkdata/units.txt)
 
-- [Generating image descriptions and alt-text with AI](https://dri.es/generating-image-descriptions-and-alt-text-with-ai)
+- [GitHub Copilot: The agent awakens](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
 
-- [Five coding hats](https://dubroy.com/blog/five-coding-hats/)
+- [AI by Hand Exercises in Excel](https://github.com/ImagineAILab/ai-by-hand-excel)
 
-- [Pinning Down "Future Is Not Send" Errors](https://emschwartz.me/pinning-down-future-is-not-send-errors/)
+- [Library sandboxing for Verona](https://github.com/microsoft/verona-sandbox)
 
-- [Nix: string interpolation of directories gone awry](https://fzakaria.com/2025/02/02/nix-string-interpolation-of-directories-gone-awry.html)
+- [Hotline for modern Apple systems](https://github.com/mierau/hotline)
 
-- [clr: Checker for Lifetimes and other Refinement types](https://github.com/ityonemo/clr)
+- [A Closer Look At The Tanmatsu](https://hackaday.com/2025/02/04/a-closer-look-at-the-tanmatsu/)
 
-- [Lisa: Production-quality expert-system shell](https://github.com/youngde811/Lisa)
+- [You Didn't Notice MP3 Is Now Free](https://idiallo.com/blog/listen-mp3-is-free)
 
-- [Learn Common Lisp by Example: GTK GUI with SBCL](https://goober99.hashnode.dev/learn-common-lisp-by-example-gtk-gui-with-sbcl)
+- [FreeBSD and hi-fi audio setup: bit-perfect, equalizer, real-time](https://m4c.pl/blog/freebsd-audio-setup-bitperfect-equalizer-realtime/)
 
-- [Optimizing with Novel Calendrical Algorithms](https://jhpratt.dev/blog/optimizing-with-novel-calendrical-algorithms/)
+- [Comments on Shared Unix Hosting vs. the Cloud](https://oils.pub/blog/2025/02/shared-hosting.html)
 
-- [Perfect is the enemy of good](https://medv.io/blog/perfect-is-the-enemy-of-good)
+- [OpenWrt 24.10.0 - First Stable Release](https://openwrt.org/releases/24.10/notes-24.10.0)
 
-- [Operational and Denotational Strategies for Understanding Code](https://noelwelsh.com/posts/operational-denotational-understanding/)
+- [The LLM Curve of Impact on Software Engineers](https://serce.me/posts/2025-02-07-the-llm-curve-of-impact-on-software-engineers)
 
-- [PanGui - A cross-platform UI library with a razor sharp focus on performance, simplicity and expressive power](https://pangui.io/)
+- [Asdf Version Manager Has Been Re-Written in Golang](https://stratus3d.com/blog/2025/02/03/asdf-has-been-rewritten-in-go)
 
-- [Python free-threading guide](https://py-free-threading.github.io/)
+- [AIs and Robots Should Sound Robotic](https://www.schneier.com/blog/archives/2025/02/ais-and-robots-should-sound-robotic.html)
 
-- [Developer philosophy](https://qntm.org/devphilo)
+- [SQLite or PostgreSQL? It's Complicated](https://www.twilio.com/en-us/blog/sqlite-postgresql-complicated)
 
-- [RUSTSEC-2025-0004: openssl: ssl::select_next_proto use after free](https://rustsec.org/advisories/RUSTSEC-2025-0004)
+- [A Decade of TILs](https://www.visualmode.dev/a-decade-of-tils)
 
-- [A selfish personal argument for releasing code as Open Source](https://simonwillison.net/2025/Jan/24/selfish-open-source/)
+- [Subpixel Snake: The Web's Smallest Game](https://www.youtube.com/watch?v=iDwganLjpW0)
 
-- [Gang of None? Design Patterns in Elixir](https://www.youtube.com/watch?v=agkXUp0hCW8)
+- [The inevitability of the borrow checker](https://yorickpeterse.com/articles/the-inevitability-of-the-borrow-checker/)
+
+- [Profiling in production with function call traces](https://yosefk.com/blog/profiling-in-production-with-function-call-traces.html)
+
+- [DOOM running on Apple Lightning to HDMI dongle](https://youtu.be/4XCkeN0XuqA)
