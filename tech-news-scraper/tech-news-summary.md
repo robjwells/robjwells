@@ -1,49 +1,47 @@
-- [The Three Projections of Doctor Futamura](http://blog.sigfpe.com/2009/05/three-projections-of-doctor-futamura.html)
+- [TypeScript: the `satisfies` operator](https://2ality.com/2025/02/satisfies-operator.html)
 
-- [HTML Whitespace is Broken](https://blog.dwac.dev/posts/html-whitespace/)
+- [Qalculate hacks](https://anarc.at/blog/2025-02-08-qalculate-hacks/)
 
-- [String vs &str](https://blog.sulami.xyz/posts/string-vs-str/)
+- [Three Years of Ephemeral NixOS: My Experience Resetting Root on Every Boot](https://b.tuxes.uk/three-years-of-ephemeral-nixos.html)
 
-- [It Is Time to Standardize Principles and Practices for Software Memory Safety](https://cacm.acm.org/opinion/it-is-time-to-standardize-principles-and-practices-for-software-memory-safety/)
+- [postmarketOS-powered Kubernetes cluster](https://blog.denv.it/posts/pmos-k3s-cluster/)
 
-- [Updating a large codebase to Rust 2024](https://codeandbitters.com/rust-2024-upgrade/)
+- [The Visible Zorker](https://blog.zarfhome.com/2025/01/the-visible-zorker)
 
-- [the sudoku affair](https://explaining.software/archive/the-sudoku-affair/)
+- [strace can slow traced processes 400x worst case](https://brendangregg.com/blog/2014-05-11/strace-wow-much-syscall.html)
 
-- [Frink data file for non-changing units](https://frinklang.org/frinkdata/units.txt)
+- [Be Skeptical of All Code - Not Just the Funny Stuff](https://eieio.games/blog/be-skeptical-of-all-code-not-just-the-funny-stuff/)
 
-- [GitHub Copilot: The agent awakens](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
+- [Building a personal, private AI computer on a budget](https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget/)
 
-- [AI by Hand Exercises in Excel](https://github.com/ImagineAILab/ai-by-hand-excel)
+- [How we are defending Software Freedom against Apple at the EU's highest court](https://fosdem.org/2025/schedule/event/fosdem-2025-5084-how-we-are-defending-software-freedom-against-apple-at-the-eu-s-highest-court/)
 
-- [Library sandboxing for Verona](https://github.com/microsoft/verona-sandbox)
+- [blip: A tool for seeing your Internet latency](https://github.com/apenwarr/blip)
 
-- [Hotline for modern Apple systems](https://github.com/mierau/hotline)
+- [Rostra - a p2p (or rather f2f) social network](https://github.com/dpc/rostra)
 
-- [A Closer Look At The Tanmatsu](https://hackaday.com/2025/02/04/a-closer-look-at-the-tanmatsu/)
+- [Stock Portfolio Monitor for ESP32 (T-Display S3)](https://github.com/piqoni/portfolio-monitoring)
 
-- [You Didn't Notice MP3 Is Now Free](https://idiallo.com/blog/listen-mp3-is-free)
+- [Carbon is not a programming language (sort of)](https://herecomesthemoon.net/2025/02/carbon-is-not-a-language/)
 
-- [FreeBSD and hi-fi audio setup: bit-perfect, equalizer, real-time](https://m4c.pl/blog/freebsd-audio-setup-bitperfect-equalizer-realtime/)
+- [Birdie - Snapshot Testing](https://hexdocs.pm/birdie/)
 
-- [Comments on Shared Unix Hosting vs. the Cloud](https://oils.pub/blog/2025/02/shared-hosting.html)
+- [Don't "optimize" conditional moves in shaders with mix()+step()](https://iquilezles.org/articles/gpuconditionals/)
 
-- [OpenWrt 24.10.0 - First Stable Release](https://openwrt.org/releases/24.10/notes-24.10.0)
+- [Why Does Integer Addition Approximate Float Multiplication?](https://probablydance.com/2025/02/08/why-does-integer-addition-approximate-float-multiplication/)
 
-- [The LLM Curve of Impact on Software Engineers](https://serce.me/posts/2025-02-07-the-llm-curve-of-impact-on-software-engineers)
+- [RxDB - The Firestore Alternative That Can Sync with Your Own Backend](https://rxdb.info/articles/firestore-alternative.html)
 
-- [Asdf Version Manager Has Been Re-Written in Golang](https://stratus3d.com/blog/2025/02/03/asdf-has-been-rewritten-in-go)
+- [Synctrain: a rethought iOS client for Syncthing](https://t-shaped.nl/posts/synctrain-a-rethought-ios-client-for-syncthing)
 
-- [AIs and Robots Should Sound Robotic](https://www.schneier.com/blog/archives/2025/02/ais-and-robots-should-sound-robotic.html)
+- [here is how I've configure OpenBSD and FreeBSD for an IPv6 Wifi](https://vincentdelft.be/post/post_20250208)
 
-- [SQLite or PostgreSQL? It's Complicated](https://www.twilio.com/en-us/blog/sqlite-postgresql-complicated)
+- [baffled by generational garbage collection](https://wingolog.org/archives/2025/02/09/baffled-by-generational-garbage-collection)
 
-- [A Decade of TILs](https://www.visualmode.dev/a-decade-of-tils)
+- [EG Public Alpha Announcement: Developer experience focused ci/cd](https://www.egdaemon.com/posts/2025.01.30.introducing.egd/index.html)
 
-- [Subpixel Snake: The Web's Smallest Game](https://www.youtube.com/watch?v=iDwganLjpW0)
+- [UK orders Apple to give it access to encrypted cloud data](https://www.ft.com/content/57b391a0-c531-4cde-a5e9-c5d60b21a161)
 
-- [The inevitability of the borrow checker](https://yorickpeterse.com/articles/the-inevitability-of-the-borrow-checker/)
+- [Fully Dynamically Linked Rust Binary: An Experiment](https://www.kxxt.dev/blog/fully-dynamically-linked-rust-binary/)
 
-- [Profiling in production with function call traces](https://yosefk.com/blog/profiling-in-production-with-function-call-traces.html)
-
-- [DOOM running on Apple Lightning to HDMI dongle](https://youtu.be/4XCkeN0XuqA)
+- [Pragmatic ZIO](https://www.youtube.com/watch?v=Fbiu-0mMT0w)
