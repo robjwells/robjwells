@@ -1,47 +1,49 @@
-- [TypeScript: the `satisfies` operator](https://2ality.com/2025/02/satisfies-operator.html)
+- [Derivative AT a Discontinuity](https://alok.github.io/2024/09/28/discontinuous-derivative/)
 
-- [Qalculate hacks](https://anarc.at/blog/2025-02-08-qalculate-hacks/)
+- [Writing my own dithering algorithm in Racket](https://amanvir.com/blog/writing-my-own-dithering-algorithm-in-racket)
 
-- [Three Years of Ephemeral NixOS: My Experience Resetting Root on Every Boot](https://b.tuxes.uk/three-years-of-ephemeral-nixos.html)
+- [Reasoning models are just LLMs](https://antirez.com/news/146)
 
-- [postmarketOS-powered Kubernetes cluster](https://blog.denv.it/posts/pmos-k3s-cluster/)
+- [A survey of every iterator variant](https://blog.yoshuawuyts.com/a-survey-of-every-iterator-variant)
 
-- [The Visible Zorker](https://blog.zarfhome.com/2025/01/the-visible-zorker)
+- [Are Efficiency and Horizontal Scalability at odds?](https://buttondown.com/hillelwayne/archive/are-efficiency-and-horizontal-scalability-at-odds/)
 
-- [strace can slow traced processes 400x worst case](https://brendangregg.com/blog/2014-05-11/strace-wow-much-syscall.html)
+- [42links: A bookmarking server, written in Lisp](https://code.rosaelefanten.org/42links)
 
-- [Be Skeptical of All Code - Not Just the Funny Stuff](https://eieio.games/blog/be-skeptical-of-all-code-not-just-the-funny-stuff/)
+- [Your Network, Your Rules: Take Charge With Own DNS](https://dzone.com/articles/private-dns-nameserver)
 
-- [Building a personal, private AI computer on a budget](https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget/)
+- [Iteration in one language, then all the others (2016)](https://eev.ee/blog/2016/11/18/iteration-in-one-language-then-all-the-others/)
 
-- [How we are defending Software Freedom against Apple at the EU's highest court](https://fosdem.org/2025/schedule/event/fosdem-2025-5084-how-we-are-defending-software-freedom-against-apple-at-the-eu-s-highest-court/)
+- [you don't link all of libc](https://flak.tedunangst.com/post/you-dont-link-all-of-libc)
 
-- [blip: A tool for seeing your Internet latency](https://github.com/apenwarr/blip)
+- [Rust for Linux](https://fosdem.org/2025/schedule/event/fosdem-2025-6507-rust-for-linux/)
 
-- [Rostra - a p2p (or rather f2f) social network](https://github.com/dpc/rostra)
+- [HOTDOG: X11 Window Manager with Windows 3.1 Hot Dog Stand, Mac Classic and Aqua UI](https://github.com/arthurchoung/HOTDOG)
 
-- [Stock Portfolio Monitor for ESP32 (T-Display S3)](https://github.com/piqoni/portfolio-monitoring)
+- [Zodiac: simple Clojure framework](https://github.com/brettatoms/zodiac)
 
-- [Carbon is not a programming language (sort of)](https://herecomesthemoon.net/2025/02/carbon-is-not-a-language/)
+- [schemesh: A Unix shell and Lisp REPL, fused together](https://github.com/cosmos72/schemesh)
 
-- [Birdie - Snapshot Testing](https://hexdocs.pm/birdie/)
+- [ouch: Painless compression and decompression in the terminal](https://github.com/ouch-org/ouch)
 
-- [Don't "optimize" conditional moves in shaders with mix()+step()](https://iquilezles.org/articles/gpuconditionals/)
+- [How I Automated My Computer Life With macOS Folder Actions](https://interfacecraft.online/posts/blog/2025/how-i-automated-my-computer-life-with-macos-folder-actions/)
 
-- [Why Does Integer Addition Approximate Float Multiplication?](https://probablydance.com/2025/02/08/why-does-integer-addition-approximate-float-multiplication/)
+- [JJ cheat sheet](https://justinpombrio.net/2025/02/11/jj-cheat-sheet.html)
 
-- [RxDB - The Firestore Alternative That Can Sync with Your Own Backend](https://rxdb.info/articles/firestore-alternative.html)
+- [Ki Editor now supports Reveal](https://ki-editor.github.io/ki-editor/docs/normal-mode/space-menu#reveal)
 
-- [Synctrain: a rethought iOS client for Syncthing](https://t-shaped.nl/posts/synctrain-a-rethought-ios-client-for-syncthing)
+- [Smuggling arbitrary data through an emoji](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/)
 
-- [here is how I've configure OpenBSD and FreeBSD for an IPv6 Wifi](https://vincentdelft.be/post/post_20250208)
+- [How does a Linux machine connect to the internet, really?](https://pjg1.site/linux-internet-from-scratch)
 
-- [baffled by generational garbage collection](https://wingolog.org/archives/2025/02/09/baffled-by-generational-garbage-collection)
+- [Tiny JITs for a Faster FFI](https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/)
 
-- [EG Public Alpha Announcement: Developer experience focused ci/cd](https://www.egdaemon.com/posts/2025.01.30.introducing.egd/index.html)
+- [Skip: A reactive framework to code declaratively and compute continuously](https://skiplabs.io/)
 
-- [UK orders Apple to give it access to encrypted cloud data](https://www.ft.com/content/57b391a0-c531-4cde-a5e9-c5d60b21a161)
+- [GhostBSD pkg(8) Repository on FreeBSD](https://vermaden.wordpress.com/2025/02/13/ghostbsd-pkg-repository-on-freebsd/)
 
-- [Fully Dynamically Linked Rust Binary: An Experiment](https://www.kxxt.dev/blog/fully-dynamically-linked-rust-binary/)
+- [Do you use a debugger?](https://www.sandordargo.com/blog/2025/02/12/do-you-use-a-debugger)
 
-- [Pragmatic ZIO](https://www.youtube.com/watch?v=Fbiu-0mMT0w)
+- [Delivering Malware Through Abandoned Amazon S3 Buckets](https://www.schneier.com/blog/archives/2025/02/delivering-malware-through-abandoned-amazon-s3-buckets.html)
+
+- [Thomson Reuters wins an early court battle over AI, copyright, and fair use](https://www.theverge.com/news/610721/thomson-reuters-ross-intelligence-ai-copyright-infringement)
