@@ -1,49 +1,49 @@
-- [Derivative AT a Discontinuity](https://alok.github.io/2024/09/28/discontinuous-derivative/)
+- [The hardest working font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan/)
 
-- [Writing my own dithering algorithm in Racket](https://amanvir.com/blog/writing-my-own-dithering-algorithm-in-racket)
+- [How Diablo hackers uncovered a speedrun scandal](https://arstechnica.com/gaming/2025/02/the-diablo-hackers-that-debunked-a-record-speedrun/)
 
-- [Reasoning models are just LLMs](https://antirez.com/news/146)
+- [Cracking an old ZIP file to help open source the ANC's "Operation Vula" secret crypto code](https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html)
 
-- [A survey of every iterator variant](https://blog.yoshuawuyts.com/a-survey-of-every-iterator-variant)
+- [Roomy Deep Dive: ATProto + Automerge](https://blog.muni.town/roomy-deep-dive/)
 
-- [Are Efficiency and Horizontal Scalability at odds?](https://buttondown.com/hillelwayne/archive/are-efficiency-and-horizontal-scalability-at-odds/)
+- [How to Backdoor Large Language Models](https://blog.sshh.io/p/how-to-backdoor-large-language-models)
 
-- [42links: A bookmarking server, written in Lisp](https://code.rosaelefanten.org/42links)
+- [Leaking the email of any YouTube user for $10,000](https://brutecat.com/articles/leaking-youtube-emails)
 
-- [Your Network, Your Rules: Take Charge With Own DNS](https://dzone.com/articles/private-dns-nameserver)
+- [Devenv telemetry warning](https://chaos.social/@hexa/114009069746212598)
 
-- [Iteration in one language, then all the others (2016)](https://eev.ee/blog/2016/11/18/iteration-in-one-language-then-all-the-others/)
+- [Gemini (protocol)](https://en.wikipedia.org/wiki/Gemini_(protocol))
 
-- [you don't link all of libc](https://flak.tedunangst.com/post/you-dont-link-all-of-libc)
+- [Agit-Flow and git-repo](https://git-repo.info/en/2020/03/agit-flow-and-git-repo/)
 
-- [Rust for Linux](https://fosdem.org/2025/schedule/event/fosdem-2025-6507-rust-for-linux/)
+- [GulfOfMexico: perfect programming language](https://github.com/TodePond/GulfOfMexico)
 
-- [HOTDOG: X11 Window Manager with Windows 3.1 Hot Dog Stand, Mac Classic and Aqua UI](https://github.com/arthurchoung/HOTDOG)
+- [fixi.js - minimal general hypermedia controls](https://github.com/bigskysoftware/fixi)
 
-- [Zodiac: simple Clojure framework](https://github.com/brettatoms/zodiac)
+- [A transient feed aggregator built with Gleam](https://github.com/facundoolano/news.olano.dev)
 
-- [schemesh: A Unix shell and Lisp REPL, fused together](https://github.com/cosmos72/schemesh)
+- [8088 MPH Final: Old vs. New CGA (and Other Gory Details) (2015)](https://int10h.org/blog/2015/08/8088-mph-final-old-vs-new-cga-gory-details/)
 
-- [ouch: Painless compression and decompression in the terminal](https://github.com/ouch-org/ouch)
+- [TeX and Typst: Layout Models](https://laurmaedje.github.io/posts/layout-models/)
 
-- [How I Automated My Computer Life With macOS Folder Actions](https://interfacecraft.online/posts/blog/2025/how-i-automated-my-computer-life-with-macos-folder-actions/)
+- [Post-Mortem - Network Outage Affecting OpenStreetMap.org - 15 December 2024](https://operations.osmfoundation.org/2025/02/15/post-mortem.html)
 
-- [JJ cheat sheet](https://justinpombrio.net/2025/02/11/jj-cheat-sheet.html)
+- [Siren Call of SQLite on the Server](https://pid1.dev/posts/siren-call-of-sqlite-on-the-server/)
 
-- [Ki Editor now supports Reveal](https://ki-editor.github.io/ki-editor/docs/normal-mode/space-menu#reveal)
+- [Run LLMs on macOS using llm-mlx and Apple’s MLX framework](https://simonwillison.net/2025/Feb/15/llm-mlx/)
 
-- [Smuggling arbitrary data through an emoji](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/)
+- [AI is Stifling Tech Adoption](https://vale.rocks/posts/ai-is-stifling-tech-adoption)
 
-- [How does a Linux machine connect to the internet, really?](https://pjg1.site/linux-internet-from-scratch)
+- [Announcing Interop 2025](https://webkit.org/blog/16458/announcing-interop-2025/)
 
-- [Tiny JITs for a Faster FFI](https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/)
+- [Jepsen Test on Patroni: A PostgreSQL High Availability Solution (2024)](https://www.binwang.me/2024-12-02-PostgreSQL-High-Availability-Solutions-Part-1.html)
 
-- [Skip: A reactive framework to code declaratively and compute continuously](https://skiplabs.io/)
+- [NASA has a list of 10 rules for software development](https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm)
 
-- [GhostBSD pkg(8) Repository on FreeBSD](https://vermaden.wordpress.com/2025/02/13/ghostbsd-pkg-repository-on-freebsd/)
+- [Type safe variadic printf, without macros](https://www.stranger.systems/posts/by-slug/type-safe-variadic-printf.html)
 
-- [Do you use a debugger?](https://www.sandordargo.com/blog/2025/02/12/do-you-use-a-debugger)
+- [Taichi: High-performance Parallel Programming in Python](https://www.taichi-lang.org/)
 
-- [Delivering Malware Through Abandoned Amazon S3 Buckets](https://www.schneier.com/blog/archives/2025/02/delivering-malware-through-abandoned-amazon-s3-buckets.html)
+- [Parallel Random Numbers: As Easy as 1, 2, 3](https://www.thesalmons.org/john/random123/papers/random123sc11.pdf)
 
-- [Thomson Reuters wins an early court battle over AI, copyright, and fair use](https://www.theverge.com/news/610721/thomson-reuters-ross-intelligence-ai-copyright-infringement)
+- [Modding the Gulf of Mexico Back (in Google Maps)](https://www.youtube.com/watch?v=F5m2JxplnXk)
