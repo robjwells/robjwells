@@ -1,49 +1,49 @@
-- [The hardest working font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan/)
+- [Tcl the Misunderstood (2006)](https://antirez.com/articoli/tclmisunderstood.html)
 
-- [How Diablo hackers uncovered a speedrun scandal](https://arstechnica.com/gaming/2025/02/the-diablo-hackers-that-debunked-a-record-speedrun/)
+- [Code Style Sheets: CSS for Code](https://arxiv.org/pdf/2502.09386)
 
-- [Cracking an old ZIP file to help open source the ANC's "Operation Vula" secret crypto code](https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html)
+- [Japanese engineers talk about difficulties they faced with the Nintendo Switch](https://automaton-media.com/en/game-development/the-nintendo-switch-limited-cpu-and-ram-but-it-also-made-optimization-a-fun-puzzle-to-figure-out-japanese-engineers-talk-about-difficulties-they-faced/)
 
-- [Roomy Deep Dive: ATProto + Automerge](https://blog.muni.town/roomy-deep-dive/)
+- [Choosing a browser](https://eligrey.com/blog/choosing-a-browser/)
 
-- [How to Backdoor Large Language Models](https://blog.sshh.io/p/how-to-backdoor-large-language-models)
+- [Bellroy Technology Team: 2024 in Review](https://exploring-better-ways.bellroy.com/bellroy-technology-team-2024-in-review.html)
 
-- [Leaking the email of any YouTube user for $10,000](https://brutecat.com/articles/leaking-youtube-emails)
+- [nes86: x86 emulation on the NES](https://github.com/decrazyo/nes86)
 
-- [Devenv telemetry warning](https://chaos.social/@hexa/114009069746212598)
+- [go-attention: A full attention mechanism and transformer in pure Go](https://github.com/takara-ai/go-attention)
 
-- [Gemini (protocol)](https://en.wikipedia.org/wiki/Gemini_(protocol))
+- [Append-only programming](https://iafisher.com/blog/2024/08/append-only-programming)
 
-- [Agit-Flow and git-repo](https://git-repo.info/en/2020/03/agit-flow-and-git-repo/)
+- [Serving local LLMs with MLX](https://kconner.com/2025/02/17/running-local-llms-with-mlx.html)
 
-- [GulfOfMexico: perfect programming language](https://github.com/TodePond/GulfOfMexico)
+- [These years in Common Lisp: 2023-2024 in review](https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2023-2024-in-review/)
 
-- [fixi.js - minimal general hypermedia controls](https://github.com/bigskysoftware/fixi)
+- [14 years of systemd](https://lwn.net/SubscriberLink/1008721/7c31808d76480012/)
 
-- [A transient feed aggregator built with Gleam](https://github.com/facundoolano/news.olano.dev)
+- [Why I'm Writing a Scheme Implementation in 2025 (The Answer is Async Rust)](https://maplant.com/2025-02-17-Why-I'm-Writing-a-Scheme-Implementation-in-2025-(The-Answer-is-Async-Rust).html)
 
-- [8088 MPH Final: Old vs. New CGA (and Other Gory Details) (2015)](https://int10h.org/blog/2015/08/8088-mph-final-old-vs-new-cga-gory-details/)
+- [MitM attack against OpenSSH's VerifyHostKeyDNS-enabled client](https://marc.info/?l=oss-security&m=173986993304277&w=2)
 
-- [TeX and Typst: Layout Models](https://laurmaedje.github.io/posts/layout-models/)
+- [New Junior Developers Can’t Actually Code](https://nmn.gl/blog/ai-and-learning)
 
-- [Post-Mortem - Network Outage Affecting OpenStreetMap.org - 15 December 2024](https://operations.osmfoundation.org/2025/02/15/post-mortem.html)
+- [Can I ethically use LLMs?](https://ntietz.com/blog/can-i-ethically-use-llms/)
 
-- [Siren Call of SQLite on the Server](https://pid1.dev/posts/siren-call-of-sqlite-on-the-server/)
+- [Continued Fraction Arithmetic (1978)](https://perl.plover.com/classes/cftalk/INFO/gosper.txt)
 
-- [Run LLMs on macOS using llm-mlx and Apple’s MLX framework](https://simonwillison.net/2025/Feb/15/llm-mlx/)
+- [Introducing Pi-hole v6](https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/)
 
-- [AI is Stifling Tech Adoption](https://vale.rocks/posts/ai-is-stifling-tech-adoption)
+- [Reviewing the Cryptography Used by Signal](https://soatok.blog/2025/02/18/reviewing-the-cryptography-used-by-signal/)
 
-- [Announcing Interop 2025](https://webkit.org/blog/16458/announcing-interop-2025/)
+- [ACCESS.bus: The Forgotten USB Competitor](https://tedium.co/2025/02/17/access-bus-i2c-usb-competitor-history/)
 
-- [Jepsen Test on Patroni: A PostgreSQL High Availability Solution (2024)](https://www.binwang.me/2024-12-02-PostgreSQL-High-Availability-Solutions-Part-1.html)
+- [Build Rails Apps with Components](https://terminalwire.com/articles/superview)
 
-- [NASA has a list of 10 rules for software development](https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm)
+- [ArcaOS 5.1.1 released (modern OS/2)](https://www.arcanoae.com/wiki/arcaos/change-history-arcaos-5-1/)
 
-- [Type safe variadic printf, without macros](https://www.stranger.systems/posts/by-slug/type-safe-variadic-printf.html)
+- [exo software - A distributed LLM solution running on a cluster of computers, smartphones, or SBCs](https://www.cnx-software.com/2025/02/18/exo-software-a-distributed-llm-solution-running-on-a-cluster-of-computers-smartphones-or-sbcs/)
 
-- [Taichi: High-performance Parallel Programming in Python](https://www.taichi-lang.org/)
+- [General Wine/Proton Developer (Open-Source Programmer)](https://www.codeweavers.com/about/jobs#job-dev)
 
-- [Parallel Random Numbers: As Easy as 1, 2, 3](https://www.thesalmons.org/john/random123/papers/random123sc11.pdf)
+- [Representing graphs in Postgresql with SQL/PGQ](https://www.enterprisedb.com/blog/representing-graphs-postgresql-sqlpgq)
 
-- [Modding the Gulf of Mexico Back (in Google Maps)](https://www.youtube.com/watch?v=F5m2JxplnXk)
+- [Towards A Simple and Expressive Query Language](https://www.youtube.com/watch?v=TBAf5l1RmcA)
