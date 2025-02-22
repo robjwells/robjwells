@@ -1,49 +1,47 @@
-- [Tcl the Misunderstood (2006)](https://antirez.com/articoli/tclmisunderstood.html)
+- [Depth is all you need: how Antithesis crushes Gradius](https://antithesis.com/blog/2025/gradius/)
 
-- [Code Style Sheets: CSS for Code](https://arxiv.org/pdf/2502.09386)
+- [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
-- [Japanese engineers talk about difficulties they faced with the Nintendo Switch](https://automaton-media.com/en/game-development/the-nintendo-switch-limited-cpu-and-ram-but-it-also-made-optimization-a-fun-puzzle-to-figure-out-japanese-engineers-talk-about-difficulties-they-faced/)
+- [Announcing Rust 1.85.0 and Rust 2024](https://blog.rust-lang.org/2025/02/20/Rust-1.85.0.html)
 
-- [Choosing a browser](https://eligrey.com/blog/choosing-a-browser/)
+- [NixOS: the power of VM tests](https://bmcgee.ie/posts/2025/02/nixos-the-power-of-vm-tests/)
 
-- [Bellroy Technology Team: 2024 in Review](https://exploring-better-ways.bellroy.com/bellroy-technology-team-2024-in-review.html)
+- [Bash++: Bash with Classes](https://bpp.sh/)
 
-- [nes86: x86 emulation on the NES](https://github.com/decrazyo/nes86)
+- [Crustacean for Lobste.rs](https://crustacean.optionalstudio.work)
 
-- [go-attention: A full attention mechanism and transformer in pure Go](https://github.com/takara-ai/go-attention)
+- [Docker limits unauthenticated pulls to 10/hr/ip from Docker Hub, from March 1](https://docs.docker.com/docker-hub/usage/)
 
-- [Append-only programming](https://iafisher.com/blog/2024/08/append-only-programming)
+- [Quint Deserves Rust](https://informal.systems/blog/quint-deserves-rust)
 
-- [Serving local LLMs with MLX](https://kconner.com/2025/02/17/running-local-llms-with-mlx.html)
+- [Chatting with the Designer of MonoLisa](https://joshleeb.com/posts/monolisa-chat.html)
 
-- [These years in Common Lisp: 2023-2024 in review](https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2023-2024-in-review/)
+- [AI vs. an extra minute in the shower](https://kmaasrud.com/blog/ai-vs-shower.html)
 
-- [14 years of systemd](https://lwn.net/SubscriberLink/1008721/7c31808d76480012/)
+- [We Issued Our First Six Day Cert](https://letsencrypt.org/2025/02/20/first-short-lived-cert-issued/)
 
-- [Why I'm Writing a Scheme Implementation in 2025 (The Answer is Async Rust)](https://maplant.com/2025-02-17-Why-I'm-Writing-a-Scheme-Implementation-in-2025-(The-Answer-is-Async-Rust).html)
+- [Open letter to browser and OS makers](https://medium.com/@boblord/open-letter-to-browser-and-os-makers-12d65aa314f7)
 
-- [MitM attack against OpenSSH's VerifyHostKeyDNS-enabled client](https://marc.info/?l=oss-security&m=173986993304277&w=2)
+- [Chromium Ozone/Wayland: The Last Mile Stretch](https://nickdiego.dev/blog/chromium-ozone-wayland-the-last-mile-stretch/)
 
-- [New Junior Developers Can’t Actually Code](https://nmn.gl/blog/ai-and-learning)
+- [Nyx Space and Rust Power Firefly's Blue Ghost Lunar Landing](https://nyxspace.com/blog/2025/02/21/nyx-space-and-rust-power-fireflys-blue-ghost-lunar-landing/)
 
-- [Can I ethically use LLMs?](https://ntietz.com/blog/can-i-ethically-use-llms/)
+- [Running ML models in Elixir using Pythonx](https://samrat.me/running-ml-models-in-elixir-using-pythonx/)
 
-- [Continued Fraction Arithmetic (1978)](https://perl.plover.com/classes/cftalk/INFO/gosper.txt)
+- [Databases are the endgame for data-oriented design](https://spacetimedb.com/blog/databases-and-data-oriented-design)
 
-- [Introducing Pi-hole v6](https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/)
+- [START A COMPUTER CLUB](https://startacomputer.club/)
 
-- [Reviewing the Cryptography Used by Signal](https://soatok.blog/2025/02/18/reviewing-the-cryptography-used-by-signal/)
+- [How Swift's server support powers Things Cloud](https://swift.org/blog/how-swifts-server-support-powers-things-cloud/)
 
-- [ACCESS.bus: The Forgotten USB Competitor](https://tedium.co/2025/02/17/access-bus-i2c-usb-competitor-history/)
+- [The First Wasm_of_ocaml Release is Out](https://tarides.com/blog/2025-02-19-the-first-wasm-of-ocaml-release-is-out/)
 
-- [Build Rails Apps with Components](https://terminalwire.com/articles/superview)
+- [The Smallest Go Binary (5KB)](https://totallygamerjet.hashnode.dev/the-smallest-go-binary-5kb)
 
-- [ArcaOS 5.1.1 released (modern OS/2)](https://www.arcanoae.com/wiki/arcaos/change-history-arcaos-5-1/)
+- [Neut Programming Language](https://vekatze.github.io/neut/overview.html)
 
-- [exo software - A distributed LLM solution running on a cluster of computers, smartphones, or SBCs](https://www.cnx-software.com/2025/02/18/exo-software-a-distributed-llm-solution-running-on-a-cluster-of-computers-smartphones-or-sbcs/)
+- [GDScript Notes](https://wiki.alopex.li/GDScriptNotes)
 
-- [General Wine/Proton Developer (Open-Source Programmer)](https://www.codeweavers.com/about/jobs#job-dev)
+- [Apple pulls encryption feature from UK over government spying demands](https://www.theverge.com/news/617273/apple-removes-encryption-advanced-data-protection-adp-uk-spying-backdoor)
 
-- [Representing graphs in Postgresql with SQL/PGQ](https://www.enterprisedb.com/blog/representing-graphs-postgresql-sqlpgq)
-
-- [Towards A Simple and Expressive Query Language](https://www.youtube.com/watch?v=TBAf5l1RmcA)
+- [UNIX V2 "Beta" Resurrected](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html)
