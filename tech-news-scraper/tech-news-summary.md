@@ -1,47 +1,47 @@
-- [Depth is all you need: how Antithesis crushes Gradius](https://antithesis.com/blog/2025/gradius/)
+- [Smart Pointers Can't Solve Use-After-Free](http://jacko.io/smart_pointers.html)
 
-- [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
+- [The web on mobile](https://adactio.com/journal/21728)
 
-- [Announcing Rust 1.85.0 and Rust 2024](https://blog.rust-lang.org/2025/02/20/Rust-1.85.0.html)
+- [Bitwarden Authenticator](https://bitwarden.com/products/authenticator/)
 
-- [NixOS: the power of VM tests](https://bmcgee.ie/posts/2025/02/nixos-the-power-of-vm-tests/)
+- [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
 
-- [Bash++: Bash with Classes](https://bpp.sh/)
+- [Why Clojure?](https://gaiwan.co/blog/why-clojure/)
 
-- [Crustacean for Lobste.rs](https://crustacean.optionalstudio.work)
+- ["A Philosophy of Software Design" vs "Clean Code"](https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md)
 
-- [Docker limits unauthenticated pulls to 10/hr/ip from Docker Hub, from March 1](https://docs.docker.com/docker-hub/usage/)
+- [dropshot: expose REST APIs from a Rust program](https://github.com/oxidecomputer/dropshot)
 
-- [Quint Deserves Rust](https://informal.systems/blog/quint-deserves-rust)
+- [Soar – Distro Agnostic Package Manager, HomeBrew (LinuxBrew) Done Right](https://github.com/pkgforge/soar)
 
-- [Chatting with the Designer of MonoLisa](https://joshleeb.com/posts/monolisa-chat.html)
+- [Tokio + prctl = nasty bug](https://kobzol.github.io/rust/2025/02/23/tokio-plus-prctl-equals-nasty-bug.html)
 
-- [AI vs. an extra minute in the shower](https://kmaasrud.com/blog/ai-vs-shower.html)
+- [Why do frame pointers matter for OCaml?](https://lambdafoo.com/posts/2025-02-24-ocaml-frame-pointers.html)
 
-- [We Issued Our First Six Day Cert](https://letsencrypt.org/2025/02/20/first-short-lived-cert-issued/)
+- [Xcode constantly phones home](https://lapcatsoftware.com/articles/2025/2/5.html)
 
-- [Open letter to browser and OS makers](https://medium.com/@boblord/open-letter-to-browser-and-os-makers-12d65aa314f7)
+- [Emacs 30.1 released](https://lists.gnu.org/archive/html/emacs-devel/2025-02/msg00997.html)
 
-- [Chromium Ozone/Wayland: The Last Mile Stretch](https://nickdiego.dev/blog/chromium-ozone-wayland-the-last-mile-stretch/)
+- [Canadian VPS Review](https://lukecyca.com/2025/canadian-vps-review.html)
 
-- [Nyx Space and Rust Power Firefly's Blue Ghost Lunar Landing](https://nyxspace.com/blog/2025/02/21/nyx-space-and-rust-power-fireflys-blue-ghost-lunar-landing/)
+- [MacOS for KDE Users](https://matklad.github.io/2025/02/23/macos-for-kde-users.html)
 
-- [Running ML models in Elixir using Pythonx](https://samrat.me/running-ml-models-in-elixir-using-pythonx/)
+- [Transparency in Hardware/Software Interfaces](https://rfd.shared.oxide.computer/rfd/0552)
 
-- [Databases are the endgame for data-oriented design](https://spacetimedb.com/blog/databases-and-data-oriented-design)
+- [The least secure TOTP code possible](https://shkspr.mobi/blog/2025/02/the-least-secure-totp-code-possible/)
 
-- [START A COMPUTER CLUB](https://startacomputer.club/)
+- [Introducing Fullstack-Bench](https://stack.convex.dev/introducing-fullstack-bench)
 
-- [How Swift's server support powers Things Cloud](https://swift.org/blog/how-swifts-server-support-powers-things-cloud/)
+- [MathB.in Is Shutting Down](https://susam.net/mathbin-is-shutting-down.html)
 
-- [The First Wasm_of_ocaml Release is Out](https://tarides.com/blog/2025-02-19-the-first-wasm-of-ocaml-release-is-out/)
+- [Calendar.txt (2021)](https://terokarvinen.com/2021/calendar-txt/)
 
-- [The Smallest Go Binary (5KB)](https://totallygamerjet.hashnode.dev/the-smallest-go-binary-5kb)
+- [Removing Jeff Bezos From My Bed](https://trufflesecurity.com/blog/removing-jeff-bezos-from-my-bed)
 
-- [Neut Programming Language](https://vekatze.github.io/neut/overview.html)
+- [Strong Opinions on URL Design](https://vale.rocks/posts/strong-opinions-on-url-design)
 
-- [GDScript Notes](https://wiki.alopex.li/GDScriptNotes)
+- [Nil channels in Go](https://vishnubharathi.codes/blog/nil-channels-in-go/)
 
-- [Apple pulls encryption feature from UK over government spying demands](https://www.theverge.com/news/617273/apple-removes-encryption-advanced-data-protection-adp-uk-spying-backdoor)
+- [Tech hype cycles](https://wiki.alopex.li/HypeCycles)
 
-- [UNIX V2 "Beta" Resurrected](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html)
+- [Breaking into dozens of apartment buildings in five minutes on my phone](https://www.ericdaigle.ca/posts/breaking-into-dozens-of-apartments-in-five-minutes/)
