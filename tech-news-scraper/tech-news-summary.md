@@ -1,47 +1,49 @@
-- [Smart Pointers Can't Solve Use-After-Free](http://jacko.io/smart_pointers.html)
+- [NVIDIA emulation journey, part 1: RIVA 128 / NV3 architecture history and basic overview](https://86box.net/2025/02/25/riva128-part-1.html)
 
-- [The web on mobile](https://adactio.com/journal/21728)
+- [cp -  copying all files of a directory, including hidden ones](https://bhoot.dev/2025/cp-dot-copies-everything/)
 
-- [Bitwarden Authenticator](https://bitwarden.com/products/authenticator/)
+- [Firefox adds terms of use](https://blog.mozilla.org/en/products/firefox/firefox-news/firefox-terms-of-use/)
 
-- [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
+- [There Isn’t Much Point to HTTP/2 Past The Load Balancer](https://byroot.github.io/ruby/performance/2025/02/24/http2-past-the-load-balancer.html)
 
-- [Why Clojure?](https://gaiwan.co/blog/why-clojure/)
+- [Goodbye K-9 Mail](https://cketti.de/2025/02/26/goodbye-k9mail/)
 
-- ["A Philosophy of Software Design" vs "Clean Code"](https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md)
+- [Accessing region-locked iOS features, such as EU app stores](https://downrightnifty.me/blog/2025/02/27/eu-features-outside.html)
 
-- [dropshot: expose REST APIs from a Rust program](https://github.com/oxidecomputer/dropshot)
+- [Command and Conquer: Red Alert source code](https://github.com/electronicarts/CnC_Red_Alert)
 
-- [Soar – Distro Agnostic Package Manager, HomeBrew (LinuxBrew) Done Right](https://github.com/pkgforge/soar)
+- [Release fish shell 4.0.0, now ported to Rust](https://github.com/fish-shell/fish-shell/releases/tag/4.0.0)
 
-- [Tokio + prctl = nasty bug](https://kobzol.github.io/rust/2025/02/23/tokio-plus-prctl-equals-nasty-bug.html)
+- [Faster Go maps with Swiss Tables](https://go.dev/blog/swisstable)
 
-- [Why do frame pointers matter for OCaml?](https://lambdafoo.com/posts/2025-02-24-ocaml-frame-pointers.html)
+- [Visual programming is stuck on the form](https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/)
 
-- [Xcode constantly phones home](https://lapcatsoftware.com/articles/2025/2/5.html)
+- [The Pipe Operator In Generics Is Not A Sum Type](https://jerf.org/iri/post/2024/go_faq_pipe_in_generics/)
 
-- [Emacs 30.1 released](https://lists.gnu.org/archive/html/emacs-devel/2025-02/msg00997.html)
+- [Why are Jujutsu's ID Prefixes So Short?](https://jonathan-frere.com/posts/jujutsu-shortest-ids/)
 
-- [Canadian VPS Review](https://lukecyca.com/2025/canadian-vps-review.html)
+- [Tips to debug hanging Go programs](https://michael.stapelberg.ch/posts/2025-02-27-debug-hanging-go-programs/)
 
-- [MacOS for KDE Users](https://matklad.github.io/2025/02/23/macos-for-kde-users.html)
+- [Make Cross Views](https://moultano.wordpress.com/2025/02/24/you-should-make-cross-views/)
 
-- [Transparency in Hardware/Software Interfaces](https://rfd.shared.oxide.computer/rfd/0552)
+- [Building Query Compilers](https://pi3.informatik.uni-mannheim.de/~moer/querycompiler.pdf)
 
-- [The least secure TOTP code possible](https://shkspr.mobi/blog/2025/02/the-least-secure-totp-code-possible/)
+- [Git for Fansubbing: Probably a Mistake](https://redvice.org/2025/git-subbing-was-a-mistake/)
 
-- [Introducing Fullstack-Bench](https://stack.convex.dev/introducing-fullstack-bench)
+- [Assorted macOS Tips & Tricks](https://saurabhs.org/macos-tips)
 
-- [MathB.in Is Shutting Down](https://susam.net/mathbin-is-shutting-down.html)
+- [Servo Security Report: findings and solutions](https://servo.org/blog/2025/02/26/servo-security-report/)
 
-- [Calendar.txt (2021)](https://terokarvinen.com/2021/calendar-txt/)
+- [Why We Designed TigerBeetle's Docs from Scratch](https://tigerbeetle.com/blog/2025-02-27-why-we-designed-tigerbeetles-docs-from-scratch/)
 
-- [Removing Jeff Bezos From My Bed](https://trufflesecurity.com/blog/removing-jeff-bezos-from-my-bed)
+- [Testing Numbs Us to Our Loss of Intellectual Control (2020)](https://www.computer.org/csdl/magazine/so/2020/03/09068304/1j30VMzNxLO)
 
-- [Strong Opinions on URL Design](https://vale.rocks/posts/strong-opinions-on-url-design)
+- [Launching RDAP; Sunsetting WHOIS](https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en)
 
-- [Nil channels in Go](https://vishnubharathi.codes/blog/nil-channels-in-go/)
+- [Branded Types](https://www.learningtypescript.com/articles/branded-types)
 
-- [Tech hype cycles](https://wiki.alopex.li/HypeCycles)
+- [Distributed Systems Programming Has Stalled](https://www.shadaj.me/writing/distributed-programming-stalled)
 
-- [Breaking into dozens of apartment buildings in five minutes on my phone](https://www.ericdaigle.ca/posts/breaking-into-dozens-of-apartments-in-five-minutes/)
+- [TypeScript types can run DOOM](https://www.youtube.com/watch?v=0mCsluv5FXA)
+
+- [SafetyCore: new Android feature is scanning your photos for 'sensitive content'](https://www.zdnet.com/article/a-new-android-feature-is-scanning-your-photos-for-sensitive-content-how-to-stop-it/)
