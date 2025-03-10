@@ -1,49 +1,49 @@
-- [Writing an OLED display driver in MicroZig (2024)](https://andrewconl.in/blog/2024/microzig-display-driver/)
+- [Developing pkgsrc with git](https://bentsukun.ch/posts/pkgsrc-with-git/)
 
-- [Chat Bots Revisited](https://blog.cofree.coffee/2025-03-05-chat-bots-revisited/)
+- [Building Websites With Lots of Little HTML Pages](https://blog.jim-nielsen.com/2025/lots-of-little-html-pages/)
 
-- [50 years in filesystems: 1984](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)
+- [Post-Processing Shaders as a Creative Medium](https://blog.maximeheckel.com/posts/post-processing-as-a-creative-medium/)
 
-- [Succinct data structures](https://blog.startifact.com/posts/succinct/)
+- [Performance of the Python 3.14 tail-call interpreter](https://blog.nelhage.com/post/cpython-tail-call/)
 
-- [We’re fixing Edge Computing: Introducing Magic Containers](https://bunny.net/blog/introducing-magic-containers-what-edge-computing-was-meant-to-be/)
+- [Bringing WebKit back to Android](https://blogs.igalia.com/jani/bringing-webkit-back-to-android/)
 
-- [Algebraic effects are a functional approach to manage side effects](https://crowdhailer.me/2025-02-14/algebraic-effects-are-a-functional-approach-to-manage-side-effects/)
+- [Why the alleged ESP32 backdoor couldn’t happen on CHERIoT](https://cheriot.org/auditing/backdoor/2025/03/09/no-esp32-style-backdoor.html)
 
-- [Distributed Systems without Raft (part 1)](https://david-delassus.medium.com/distributed-systems-without-raft-part-1-a6b0b43db7ee)
+- [OpenSSL does a QUIC API](https://daniel.haxx.se/blog/2025/02/16/openssl-does-a-quic-api/)
 
-- [Determinate Nix 3.0](https://determinate.systems/posts/determinate-nix-30/)
+- [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
 
-- [Systems Correctness Practices at AWS: Leveraging Formal and Semi-formal Methods](https://dl.acm.org/doi/10.1145/3712057)
+- [Cutting-edge web scraping techniques](https://github.com/simonw/nicar-2025-scraping/blob/main/README.md)
 
-- [Prolly Trees](https://docs.dolthub.com/architecture/storage-engine/prolly-tree)
+- [Gleam v1.9.0 released](https://gleam.run/news/hello-echo-hello-git/)
 
-- [Strobelight: A profiling service built on open source technology](https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/)
+- [Functional vs Data-Driven development: a Case-Study in Clojure & OCaml](https://kirancodes.me/posts/log-data-oriented-programming.html)
 
-- [Why "alias" is my last resort for aliases](https://evanhahn.com/why-alias-is-my-last-resort-for-aliases/)
+- [Good Code Design From Linux/Kernel](https://leandromoreira.com/2019/08/02/linux-ffmpeg-source-internals-a-good-software-design/)
 
-- [xdg-ninja: A shell script which checks your $HOME for unwanted files and directories](https://github.com/b3nj5m1n/xdg-ninja)
+- [LFortran can now compile PRIMA](https://lfortran.org/blog/2025/03/lfortran-compiles-prima/)
 
-- [A good memory allocator in 200 lines of code](https://github.com/ziglang/zig/blob/0.14.0/lib/std/heap/SmpAllocator.zig)
+- [I built my first mechanical keyboard](https://marcin.juszkiewicz.com.pl/2025/03/09/i-built-my-first-mechanical-keyboard/)
 
-- [Ten Machine Requirements To Satisfy Essentials Of Joint Activity](https://human-machine.team/)
+- [AI and the Uncertain Future of Work](https://matthewbilyeu.com/blog/2025-03-08/ai)
 
-- [Types as a design tool](https://interjectedfuture.com/types-as-a-design-tool/)
+- [Automated architecture diagrams](https://medium.com/thefork/automated-architecture-diagrams-53f538f615b7)
 
-- [My changes to the default Phoenix boilerplate](https://mediremi.com/writing/phoenix-boilerplate/)
+- [Open source hosting service for Pijul](https://nest.pijul.com/pmeunier/nest)
 
-- [Is it true what they say: "Lobsters love Guinness"?](https://postimg.cc/phdVNwPz)
+- [Dithering in Colour](https://obrhubr.org/dithering-in-colour)
 
-- [xit is coming](https://radarroark.github.io/xit/xit-is-coming.html)
+- [List of Brave browser controversies](https://old.reddit.com/r/browsers/comments/1j1pq7b/list_of_brave_browser_controversies)
 
-- [A Happy Day for Rust](https://steveklabnik.com/writing/a-happy-day-for-rust/)
+- [On Apple Exclaves](https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194)
 
-- [(2009) Composing J in my mind](https://web.archive.org/web/20130921083348/http://kaleidic.com/2009/composing-j-in-my-mind/)
+- [What's cooking on SourceHut? Q1 2025](https://sourcehut.org/blog/2025-03-07-whats-cooking-q1-25/)
 
-- [Opsgenie is reaching its end of life soon](https://www.atlassian.com/blog/announcements/evolution-of-it-operations)
+- [The zinc systems programming language](https://sr.ht/~oconnor0/zinc/)
 
-- [Git without a forge](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/)
+- [The text sizing protocol](https://sw.kovidgoyal.net/kitty/text-sizing-protocol/)
 
-- [Five years of home-cooked apps](https://www.robinsloan.com/lab/five-years-of-home-cooked-apps/)
+- [Sorted integers compression with Elias-Fano encoding](https://www.antoniomallia.it/sorted-integers-compression-with-elias-fano-encoding.html)
 
-- [Zig 0.14.0 Release Notes](https://ziglang.org/download/0.14.0/release-notes.html)
+- [Undocumented "backdoor" found in Bluetooth chip used by a billion devices](https://www.bleepingcomputer.com/news/security/undocumented-backdoor-found-in-bluetooth-chip-used-by-a-billion-devices/)
