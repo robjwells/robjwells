@@ -1,49 +1,49 @@
-- [Guile Hoot with Fibers](https://afmoreno.srht.site/blog/guile-hoot-fibers.html)
+- [NCSA Mosaic 1.0 Released](http://1997.webhistory.org/www.lists/www-talk.1993q2/0128.html)
 
-- [Hacking a GPO 746 rotary phone](https://blog.yaymukund.com/posts/hacking-a-gpo-746-rotary-phone/)
+- [My Favorite Firefox Extensions](https://alexn.org/blog/2025/03/15/firefox-extensions/)
 
-- [Dropping RISC-V support](https://chimera-linux.org/news/2025/03/dropping-riscv.html)
+- [The Year of the Picotron Desktop](https://arnaught.neocities.org/blog/2025/03/14/year-of-the-picotron-desktop)
 
-- [Something Is Rotten in the State of Cupertino](https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino)
+- [Reviving the modprobe_path Technique: Overcoming search_binary_handler() Patch](https://blog.theori.io/reviving-the-modprobe-path-technique-overcoming-search-binary-handler-patch-2dcb8f0fae04)
 
-- [TypeScript 7: 10x Speedup and the Go Language](https://dev.to/anthonymax/typescript-7-10x-speedup-and-the-go-language-1mkf)
+- [Matching Regexps 200 Times Faster](https://eregon.me/blog/2025/03/14/matching-regexps-200-times-faster.html)
 
-- [A 10x Faster TypeScript](https://devblogs.microsoft.com/typescript/typescript-native-port/)
+- [That time I recreated Photoshop in C++](https://f055.net/technology/that-time-i/that-time-i-recreated-photoshop-in-c/)
 
-- [The DuckDB Local UI](https://duckdb.org/2025/03/12/duckdb-ui.html)
+- [Comparing Video Encoders](https://giannirosato.com/blog/post/comparing-encoders/)
 
-- [Constant-Time Code: The Pessimist Case](https://eprint.iacr.org/2025/435)
+- [The Brat virtual machine](https://gitlab.com/worst-lang/brat)
 
-- [The Future is Niri](https://ersei.net/en/blog/niri)
+- [Were multiple return values Go's biggest mistake?](https://herecomesthemoon.net/2025/03/multiple-return-values-in-go/)
 
-- [complexity as entropy](https://explaining.software/archive/complexity-as-entropy/)
+- [Is Cap'n Proto Event Loop Friendly?](https://hire.jonasgalvez.com.br/2025/mar/15/capnproto/)
 
-- [rmk: Rust keyboard firmware library with layers, macros, real-time keymap editing, wireless(BLE) and split support](https://github.com/HaoboGu/rmk)
+- [TinyKVM: The Fastest Sandbox](https://info.varnish-software.com/blog/tinykvm-the-fastest-sandbox)
 
-- [Traversal-resistant file APIs](https://go.dev/blog/osroot)
+- [Adding an edit button to my static site on mobile](https://jamesg.blog/2025/03/15/adding-an-edit-button-to-my-static-site-on-mobile)
 
-- [Carefully But Purposefully Oxidising Ubuntu](https://jnsgr.uk/2025/03/carefully-but-purposefully-oxidising-ubuntu/)
+- [Speeding up C++ code with template lambdas](https://lemire.me/blog/2025/03/15/speeding-up-c-code-with-template-lambdas/)
 
-- [The Art of Formatting Code](https://mcyoung.xyz/2025/03/11/formatters/)
+- [A look at Firefox forks](https://lwn.net/Articles/1012453/)
 
-- [Perspectives from the Technical University of Munich](https://mirawelner.com/posts/TUM_thoughts.html)
+- [Why I Don't Like Hackathons](https://mirawelner.com/posts/hackathons.html)
 
-- [The Codebase of a National Lab I Worked At](https://mirawelner.com/posts/fed_code.html)
+- [More pro for the DEC Professional 380 (featuring PRO/VENIX)](https://oldvcr.blogspot.com/2025/03/more-pro-for-dec-professional-380.html)
 
-- [Inline Evaluation Adventure](https://rigsomelight.com/2025/03/12/inline-eval-adventure.html)
+- [The Defer Technical Specification: It Is Time](https://thephd.dev/c2y-the-defer-technical-specification-its-time-go-go-go)
 
-- [Upgrading Semgrep from OCaml 4 to OCaml 5](https://semgrep.dev/blog/2025/upgrading-semgrep-from-ocaml-4-to-ocaml-5/)
+- [Web Apps in Common Lisp](https://web-apps-in-lisp.github.io/)
 
-- [Here’s how I use LLMs to help me write code](https://simonwillison.net/2025/Mar/11/using-llms-for-code/)
+- [Mojo may be the biggest programming language advance in decades (2023)](https://www.fast.ai/posts/2023-05-03-mojo-launch.html)
 
-- [On The Insecurity of Telecom Stacks in the Wake of Salt Typhoon](https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/)
+- [An introduction to Magit, an Emacs mode for Git](https://www.masteringemacs.org/article/introduction-magit-emacs-mode-git)
 
-- [Iconography of the PuTTY tools](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/putty-icons/)
+- [ArenaAllocator.free and Nested Arenas](https://www.openmymind.net/ArenaAllocator-free-and-Nested-Arenas/)
 
-- [(Re)writing an interpreter in Rust](https://www.dannyvankooten.com/blog/2022/rewriting-interpreter-rust/)
+- [Popular GitHub Action tj-actions/changed-files is compromised](https://www.stepsecurity.io/blog/harden-runner-detection-tj-actions-changed-files-action-is-compromised)
 
-- [Haiku Activity & Contract Report, February 2025](https://www.haiku-os.org/blog/waddlesplash/2025-03-11-haiku_activity_contract_report_february_2025/)
+- [Implicit Surfaces & Independent Research](https://www.youtube.com/watch?v=UxGxsGnbyJ4)
 
-- [A Perplexing Javascript Parsing Puzzle](https://www.hillelwayne.com/post/javascript-puzzle/)
+- [AdaFruit FruitJam is a Mac 384K](https://youtu.be/FAl7iO2R6W4)
 
-- [Why I stopped everything and started writing C again](https://www.kmx.io/blog/why-stopped-everything-and-started-writing-C-again)
+- [A Code Centric Journey Into the Gleam Language](https://youtu.be/PfPIiHCId0s)
