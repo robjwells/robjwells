@@ -1,49 +1,45 @@
-- [NCSA Mosaic 1.0 Released](http://1997.webhistory.org/www.lists/www-talk.1993q2/0128.html)
+- [Why SNES hardware is running faster than expected—and why it’s a problem](https://arstechnica.com/gaming/2025/03/this-small-snes-timing-issue-is-causing-big-speedrun-problems/)
 
-- [My Favorite Firefox Extensions](https://alexn.org/blog/2025/03/15/firefox-extensions/)
+- [Why I'm No Longer Talking to Architects About Microservices](https://blog.container-solutions.com/why-im-no-longer-talking-to-architects-about-microservices)
 
-- [The Year of the Picotron Desktop](https://arnaught.neocities.org/blog/2025/03/14/year-of-the-picotron-desktop)
+- [Stop Using and Recommending React](https://blog.lusito.info/stop-using-and-recommending-react.html)
 
-- [Reviving the modprobe_path Technique: Overcoming search_binary_handler() Patch](https://blog.theori.io/reviving-the-modprobe-path-technique-overcoming-search-binary-handler-patch-2dcb8f0fae04)
+- [Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries (2021)](https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/)
 
-- [Matching Regexps 200 Times Faster](https://eregon.me/blog/2025/03/14/matching-regexps-200-times-faster.html)
+- [Introducing two new PebbleOS watches](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches)
 
-- [That time I recreated Photoshop in C++](https://f055.net/technology/that-time-i/that-time-i-recreated-photoshop-in-c/)
+- [Announcing Fedora Linux 42 Beta](https://fedoramagazine.org/announcing-fedora-linux-42-beta/)
 
-- [Comparing Video Encoders](https://giannirosato.com/blog/post/comparing-encoders/)
+- [Why I Love SET](https://franklantz.substack.com/p/why-i-love-set)
 
-- [The Brat virtual machine](https://gitlab.com/worst-lang/brat)
+- [Recyling a OnePlus 6T into a Kubernetes Node](https://gabrielsimmer.com/blog/kubernetes-plus-oneplus)
 
-- [Were multiple return values Go's biggest mistake?](https://herecomesthemoon.net/2025/03/multiple-return-values-in-go/)
+- [GreptimeDB Leads in Cold Run Performance on ClickHouse’s billion JSON doc benchmark](https://greptime.com/blogs/2025-03-18-jsonbench-greptimedb-performance)
 
-- [Is Cap'n Proto Event Loop Friendly?](https://hire.jonasgalvez.com.br/2025/mar/15/capnproto/)
+- [The Atrocious State Of Binary Compatibility on Linux and How To Address It](https://jangafx.com/insights/linux-binary-compatibility)
 
-- [TinyKVM: The Fastest Sandbox](https://info.varnish-software.com/blog/tinykvm-the-fastest-sandbox)
+- [Slack: The Art of Being Busy Without Getting Anything Done](https://matduggan.com/slack-the-art-of-being-busy-without-getting-anything-done/)
 
-- [Adding an edit button to my static site on mobile](https://jamesg.blog/2025/03/15/adding-an-edit-button-to-my-static-site-on-mobile)
+- [Comptime Zig ORM](https://matklad.github.io/2025/03/19/comptime-zig-orm.html)
 
-- [Speeding up C++ code with template lambdas](https://lemire.me/blog/2025/03/15/speeding-up-c-code-with-template-lambdas/)
+- [The Real Failure Rate of EBS](https://planetscale.com/blog/the-real-fail-rate-of-ebs)
 
-- [A look at Firefox forks](https://lwn.net/Articles/1012453/)
+- [A Society That Lost Focus](https://ploum.net/2024-03-18-lost-focus.html)
 
-- [Why I Don't Like Hackathons](https://mirawelner.com/posts/hackathons.html)
+- [The Rhombus Programming Language](https://rhombus-lang.org)
 
-- [More pro for the DEC Professional 380 (featuring PRO/VENIX)](https://oldvcr.blogspot.com/2025/03/more-pro-for-dec-professional-380.html)
+- [Extracting content from an LCP "protected" ePub](https://shkspr.mobi/blog/2025/03/towards-extracting-content-from-an-lcp-protected-epub/)
 
-- [The Defer Technical Specification: It Is Time](https://thephd.dev/c2y-the-defer-technical-specification-its-time-go-go-go)
+- [Announcing Snix](https://snix.dev/blog/announcing-snix/)
 
-- [Web Apps in Common Lisp](https://web-apps-in-lisp.github.io/)
+- [Mitigating SourceHut's partial outage caused by aggressive crawlers](https://status.sr.ht/issues/2025-03-17-git.sr.ht-llms/)
 
-- [Mojo may be the biggest programming language advance in decades (2023)](https://www.fast.ai/posts/2023-05-03-mojo-launch.html)
+- [Locks, leases, fencing tokens, FizzBee](https://surfingcomplexity.blog/2025/03/03/locks-leases-fencing-tokens-fizzbee/)
 
-- [An introduction to Magit, an Emacs mode for Git](https://www.masteringemacs.org/article/introduction-magit-emacs-mode-git)
+- [I don't think error handling is a solved problem in language design](https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorHandlingNotSolvedProblem)
 
-- [ArenaAllocator.free and Nested Arenas](https://www.openmymind.net/ArenaAllocator-free-and-Nested-Arenas/)
+- [Copyright and the demoscene](https://www.datagubbe.se/scenecop/)
 
-- [Popular GitHub Action tj-actions/changed-files is compromised](https://www.stepsecurity.io/blog/harden-runner-detection-tj-actions-changed-files-action-is-compromised)
+- [GIMP 3.0 Released](https://www.gimp.org/news/2025/03/16/gimp-3-0-released/)
 
-- [Implicit Surfaces & Independent Research](https://www.youtube.com/watch?v=UxGxsGnbyJ4)
-
-- [AdaFruit FruitJam is a Mac 384K](https://youtu.be/FAl7iO2R6W4)
-
-- [A Code Centric Journey Into the Gleam Language](https://youtu.be/PfPIiHCId0s)
+- [Nginx Rejects Dark Mode Support For Error Pages](https://www.phoronix.com/news/Nginx-Dark-Mode-Errors-Rejected)
