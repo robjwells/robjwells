@@ -1,45 +1,41 @@
-- [Why SNES hardware is running faster than expected—and why it’s a problem](https://arstechnica.com/gaming/2025/03/this-small-snes-timing-issue-is-causing-big-speedrun-problems/)
+- [Deliberate Practice for Developers](https://alexalejandre.com/programming/deliberate-practice-for-developers/)
 
-- [Why I'm No Longer Talking to Architects About Microservices](https://blog.container-solutions.com/why-im-no-longer-talking-to-architects-about-microservices)
+- [Anubis: self hostable scraper defense software](https://anubis.techaro.lol/)
 
-- [Stop Using and Recommending React](https://blog.lusito.info/stop-using-and-recommending-react.html)
+- [Asahi Linux progress report: Linux kernel 6.14](https://asahilinux.org/2025/03/progress-report-6-14/)
 
-- [Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries (2021)](https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/)
+- [Trapping misbehaving bots in an AI Labyrinth](https://blog.cloudflare.com/ai-labyrinth/)
 
-- [Introducing two new PebbleOS watches](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches)
+- [Engineering flexible permissions for Zulip open-source team chat](https://blog.zulip.com/2025/03/20/engineering-flexible-permissions/)
 
-- [Announcing Fedora Linux 42 Beta](https://fedoramagazine.org/announcing-fedora-linux-42-beta/)
+- [The right way to do data fixtures in Go](https://brandur.org/fragments/go-data-fixtures)
 
-- [Why I Love SET](https://franklantz.substack.com/p/why-i-love-set)
+- ["Vibe Coding" vs Reality](https://cendyne.dev/posts/2025-03-19-vibe-coding-vs-reality.html)
 
-- [Recyling a OnePlus 6T into a Kubernetes Node](https://gabrielsimmer.com/blog/kubernetes-plus-oneplus)
+- [Chimera Linux NOT dropping RISC-V support after all](https://chimera-linux.org/news/2025/03/new-riscv-server.html)
 
-- [GreptimeDB Leads in Cold Run Performance on ClickHouse’s billion JSON doc benchmark](https://greptime.com/blogs/2025-03-18-jsonbench-greptimedb-performance)
+- [What Comes After GitHub Actions?](https://garnix.io/blog/what-comes-after-gha)
 
-- [The Atrocious State Of Binary Compatibility on Linux and How To Address It](https://jangafx.com/insights/linux-binary-compatibility)
+- [C++/Rust Interoperability Problem Statement](https://github.com/rustfoundation/interop-initiative)
 
-- [Slack: The Art of Being Busy Without Getting Anything Done](https://matduggan.com/slack-the-art-of-being-busy-without-getting-anything-done/)
+- [pow-bot-deterrent: A proof-of-work based bot deterrent](https://github.com/sequentialread/pow-bot-deterrent)
 
-- [Comptime Zig ORM](https://matklad.github.io/2025/03/19/comptime-zig-orm.html)
+- [Shaarli: personal, minimalist, super-fast, database free, bookmarking service](https://github.com/shaarli/Shaarli)
 
-- [The Real Failure Rate of EBS](https://planetscale.com/blog/the-real-fail-rate-of-ebs)
+- [Hyper-MCP - MCP server in Rust with plugin system powered by WebAssembly and OCI registry](https://github.com/tuananh/hyper-mcp)
 
-- [A Society That Lost Focus](https://ploum.net/2024-03-18-lost-focus.html)
+- [The mistakes and missed opportunities in the design of IPv6 (episode 1)](https://ipv6.hanazo.no/posts/ipv6-missed-opportunities-1/)
 
-- [The Rhombus Programming Language](https://rhombus-lang.org)
+- [Lightpanda: A new browser built for machines](https://lightpanda.io/)
 
-- [Extracting content from an LCP "protected" ePub](https://shkspr.mobi/blog/2025/03/towards-extracting-content-from-an-lcp-protected-epub/)
+- [Tiling Window Managers on macOS](https://lilysthings.org/blog/tiling-macos/)
 
-- [Announcing Snix](https://snix.dev/blog/announcing-snix/)
+- [Life Altering Postgresql Patterns](https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns)
 
-- [Mitigating SourceHut's partial outage caused by aggressive crawlers](https://status.sr.ht/issues/2025-03-17-git.sr.ht-llms/)
+- [I want a good parallel computer](https://raphlinus.github.io/gpu/2025/03/21/good-parallel-computer.html)
 
-- [Locks, leases, fencing tokens, FizzBee](https://surfingcomplexity.blog/2025/03/03/locks-leases-fencing-tokens-fizzbee/)
+- [Chunking attacks on Tarsnap (and others)](https://www.daemonology.net/blog/2025-03-21-Chunking-attacks-on-Tarsnap.html)
 
-- [I don't think error handling is a solved problem in language design](https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorHandlingNotSolvedProblem)
+- [How a glitch in an online survey replaced the word ‘yes’ with ‘forks’](https://www.pewresearch.org/decoded/2025/03/21/how-a-glitch-in-an-online-survey-replaced-the-word-yes-with-forks/)
 
-- [Copyright and the demoscene](https://www.datagubbe.se/scenecop/)
-
-- [GIMP 3.0 Released](https://www.gimp.org/news/2025/03/16/gimp-3-0-released/)
-
-- [Nginx Rejects Dark Mode Support For Error Pages](https://www.phoronix.com/news/Nginx-Dark-Mode-Errors-Rejected)
+- [Dear Apple and Google: still no app rollbacks?](https://www.tramline.app/blog/dear-apple-and-google-still-no-app-rollbacks)
