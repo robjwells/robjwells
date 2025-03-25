@@ -1,41 +1,47 @@
-- [Deliberate Practice for Developers](https://alexalejandre.com/programming/deliberate-practice-for-developers/)
+- [LLMs on a PowerPC Mac](http://www.theresistornetwork.com/2025/03/thinking-different-thinking-slowly-llms.html)
 
-- [Anubis: self hostable scraper defense software](https://anubis.techaro.lol/)
+- [Notes on coreutils in Rust](https://alexgaynor.net/2025/mar/22/coreutils-in-rust/)
 
-- [Asahi Linux progress report: Linux kernel 6.14](https://asahilinux.org/2025/03/progress-report-6-14/)
+- [GPSTracker: A self-hosted FOSS alternative to Google Maps Timeline](https://blog.fabiomanganiello.com/article/gpstracker-a-self-hosted-alternative-to-google-maps-timeline)
 
-- [Trapping misbehaving bots in an AI Labyrinth](https://blog.cloudflare.com/ai-labyrinth/)
+- [GitButler's new patch based Code Review (Beta)](https://blog.gitbutler.com/gitbutlers-new-patch-based-code-review/)
 
-- [Engineering flexible permissions for Zulip open-source team chat](https://blog.zulip.com/2025/03/20/engineering-flexible-permissions/)
+- [The next generation of Bazel builds](https://blogsystem5.substack.com/p/bazel-next-generation)
 
-- [The right way to do data fixtures in Go](https://brandur.org/fragments/go-data-fixtures)
+- [Triforce: a microphone array beamformer for Apple Silicon laptops](https://crates.io/crates/triforce-lv2)
 
-- ["Vibe Coding" vs Reality](https://cendyne.dev/posts/2025-03-19-vibe-coding-vs-reality.html)
+- [Non-Obvious Haskell Idiom: Conditional For](https://entropicthoughts.com/non-obvious-haskell-idiom-conditional-for)
 
-- [Chimera Linux NOT dropping RISC-V support after all](https://chimera-linux.org/news/2025/03/new-riscv-server.html)
+- [Nix derivations by hand](https://fzakaria.com/2025/03/23/nix-derivations-by-hand)
 
-- [What Comes After GitHub Actions?](https://garnix.io/blog/what-comes-after-gha)
+- [Bringing Record and Replay everywhere](https://github.com/sidkshatriya/me/blob/master/008-rr-everywhere.md)
 
-- [C++/Rust Interoperability Problem Statement](https://github.com/rustfoundation/interop-initiative)
+- [c-ward: An implementation of libc written in Rust](https://github.com/sunfishcode/c-ward)
 
-- [pow-bot-deterrent: A proof-of-work based bot deterrent](https://github.com/sequentialread/pow-bot-deterrent)
+- [argp: GNU command line argument parser](https://github.com/tdewolff/argp)
 
-- [Shaarli: personal, minimalist, super-fast, database free, bookmarking service](https://github.com/shaarli/Shaarli)
+- [Why Choose to Use the BSDs in 2025](https://it-notes.dragas.net/2025/03/23/osday-2025-why-choose-bsd-in-2025/)
 
-- [Hyper-MCP - MCP server in Rust with plugin system powered by WebAssembly and OCI registry](https://github.com/tuananh/hyper-mcp)
+- [Exploring Ruby Ractors -- I paid for for 10 cores I'm gonna use 10 cores](https://jpterry.com/posts/2025/03/exploring-ruby-ractors/)
 
-- [The mistakes and missed opportunities in the design of IPv6 (episode 1)](https://ipv6.hanazo.no/posts/ipv6-missed-opportunities-1/)
+- [Everyone quotes command line arguments the wrong way (on Windows)](https://learn.microsoft.com/en-us/archive/blogs/twistylittlepassagesallalike/everyone-quotes-command-line-arguments-the-wrong-way)
 
-- [Lightpanda: A new browser built for machines](https://lightpanda.io/)
+- [Notes on building an app that looks like an IKEA manual](https://nmattia.com/posts/2025-03-24-skapa-intro/)
 
-- [Tiling Window Managers on macOS](https://lilysthings.org/blog/tiling-macos/)
+- [Golang on the PlayStation 2](https://rgsilva.com/blog/ps2-go-part-1/)
 
-- [Life Altering Postgresql Patterns](https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns)
+- [Holograms, light-leaks and how to build CSS-only shaders](https://robbowen.digital/wrote-about/css-blend-mode-shaders/)
 
-- [I want a good parallel computer](https://raphlinus.github.io/gpu/2025/03/21/good-parallel-computer.html)
+- [A Cassette Audio Control for the Web](https://sheep.horse/2025/3/a_cassette_audio_control_for_the_web.html)
 
-- [Chunking attacks on Tarsnap (and others)](https://www.daemonology.net/blog/2025-03-21-Chunking-attacks-on-Tarsnap.html)
+- [Post Apocalyptic Computing](https://thomashunter.name/posts/2025-03-23-post-apocalyptic-computing)
 
-- [How a glitch in an online survey replaced the word ‘yes’ with ‘forks’](https://www.pewresearch.org/decoded/2025/03/21/how-a-glitch-in-an-online-survey-replaced-the-word-yes-with-forks/)
+- [Figma’s not a design tool — it’s a Rube Goldberg machine for avoiding code](https://uxdesign.cc/figmas-not-a-design-tool-it-s-a-rube-goldberg-machine-for-avoiding-code-2a24f11add5d)
 
-- [Dear Apple and Google: still no app rollbacks?](https://www.tramline.app/blog/dear-apple-and-google-still-no-app-rollbacks)
+- [Avoid building a security treadmill](https://www.macchaffee.com/blog/2025/security-treadmill/)
+
+- [The Prospero Challenge](https://www.mattkeeter.com/projects/prospero/)
+
+- [Ledger Implementation in PostgreSQL](https://www.pgrs.net/2025/03/24/pgledger-ledger-implementation-in-postgresql/)
+
+- [RCE Vulnerabilities in k8s Ingress NGINX  (9.8 CVE for ingress-nginx)](https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities)
