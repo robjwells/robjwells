@@ -1,47 +1,47 @@
-- [LLMs on a PowerPC Mac](http://www.theresistornetwork.com/2025/03/thinking-different-thinking-slowly-llms.html)
+- [A Roadmap for a modern Plasma Login Manager](https://blog.davidedmundson.co.uk/blog/a-roadmap-for-a-modern-plasma-login-manager/)
 
-- [Notes on coreutils in Rust](https://alexgaynor.net/2025/mar/22/coreutils-in-rust/)
+- [Pile of Eternal Rejections: The Cost of Garbage Collection for State Machine Replication – Aleksey Charapko](https://charap.co/pile-of-eternal-rejections-the-cost-of-garbage-collection-for-state-machine-replication/)
 
-- [GPSTracker: A self-hosted FOSS alternative to Google Maps Timeline](https://blog.fabiomanganiello.com/article/gpstracker-a-self-hosted-alternative-to-google-maps-timeline)
+- [A Shell for the Container Age: Introducing Dagger Shell - Dagger](https://dagger.io/blog/dagger-shell)
 
-- [GitButler's new patch based Code Review (Beta)](https://blog.gitbutler.com/gitbutlers-new-patch-based-code-review/)
+- [prepare()-ing for execution: a new API for process creation](https://gist.github.com/clausecker/721cda7172b82c179032859f3216a8ee)
 
-- [The next generation of Bazel builds](https://blogsystem5.substack.com/p/bazel-next-generation)
+- [SJS: a static AOT compiler for a subset of JavaScript (2016)](https://github.com/Samsung/SJS)
 
-- [Triforce: a microphone array beamformer for Apple Silicon laptops](https://crates.io/crates/triforce-lv2)
+- [milliForth for the 6502](https://github.com/agsb/milliForth-6502)
 
-- [Non-Obvious Haskell Idiom: Conditional For](https://entropicthoughts.com/non-obvious-haskell-idiom-conditional-for)
+- [What's New in Neovim 0.11](https://gpanders.com/blog/whats-new-in-neovim-0-11/)
 
-- [Nix derivations by hand](https://fzakaria.com/2025/03/23/nix-derivations-by-hand)
+- [Piranesi’s Perspective Trick](https://medium.com/@brunopostle/piranesis-perspective-trick-6bcd7a754da9)
 
-- [Bringing Record and Replay everywhere](https://github.com/sidkshatriya/me/blob/master/008-rr-everywhere.md)
+- [Things that go wrong with disk IO](https://notes.eatonphil.com/2025-03-27-things-that-go-wrong-with-disk-io.html)
 
-- [c-ward: An implementation of libc written in Rust](https://github.com/sunfishcode/c-ward)
+- [Atom vs. RSS (2013)](https://nullprogram.com/blog/2013/09/23/)
 
-- [argp: GNU command line argument parser](https://github.com/tdewolff/argp)
+- [How to Write Blog Posts that Developers Read](https://refactoringenglish.com/chapters/write-blog-posts-developers-read/)
 
-- [Why Choose to Use the BSDs in 2025](https://it-notes.dragas.net/2025/03/23/osday-2025-why-choose-bsd-in-2025/)
+- [Ferrous Systems Donates Ferrocene Language Specification to Rust Project](https://rustfoundation.org/media/ferrous-systems-donates-ferrocene-language-specification-to-rust-project/)
 
-- [Exploring Ruby Ractors -- I paid for for 10 cores I'm gonna use 10 cores](https://jpterry.com/posts/2025/03/exploring-ruby-ractors/)
+- [oss-sec: Three bypasses of Ubuntu's unprivileged user namespace restrictions](https://seclists.org/oss-sec/2025/q1/253)
 
-- [Everyone quotes command line arguments the wrong way (on Windows)](https://learn.microsoft.com/en-us/archive/blogs/twistylittlepassagesallalike/everyone-quotes-command-line-arguments-the-wrong-way)
+- [Spade, a hardware description language inspired by modern software languages](https://spade-lang.org/)
 
-- [Notes on building an app that looks like an IKEA manual](https://nmattia.com/posts/2025-03-24-skapa-intro/)
+- [“Normal” engineers are the key to great teams](https://spectrum.ieee.org/10x-engineer)
 
-- [Golang on the PlayStation 2](https://rgsilva.com/blog/ps2-go-part-1/)
+- [Servo vs Ladybird](https://thelibre.news/servo-vs-ladybird/)
 
-- [Holograms, light-leaks and how to build CSS-only shaders](https://robbowen.digital/wrote-about/css-blend-mode-shaders/)
+- [SpecTec has been adopted](https://webassembly.org/news/2025-03-27-spectec/)
 
-- [A Cassette Audio Control for the Web](https://sheep.horse/2025/3/a_cassette_audio_control_for_the_web.html)
+- [The way we're thinking about breaking changes is really silly](https://welltypedwitch.bearblog.dev/the-way-were-thinking-about-breaking-changes-is-really-silly/)
 
-- [Post Apocalyptic Computing](https://thomashunter.name/posts/2025-03-23-post-apocalyptic-computing)
+- [Google will now develop the Android OS in private](https://www.androidauthority.com/google-android-development-aosp-3538503/)
 
-- [Figma’s not a design tool — it’s a Rube Goldberg machine for avoiding code](https://uxdesign.cc/figmas-not-a-design-tool-it-s-a-rube-goldberg-machine-for-avoiding-code-2a24f11add5d)
+- [Oracle customers confirm data stolen in alleged cloud breach is valid](https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/)
 
-- [Avoid building a security treadmill](https://www.macchaffee.com/blog/2025/security-treadmill/)
+- [War story: the hardest bug I ever debugged](https://www.clientserver.dev/p/war-story-the-hardest-bug-i-ever)
 
-- [The Prospero Challenge](https://www.mattkeeter.com/projects/prospero/)
+- [Fedora-based Linux distribution marking to EU public sector](https://www.linuxjournal.com/content/eu-os-bold-step-toward-digital-sovereignty-europe)
 
-- [Ledger Implementation in PostgreSQL](https://www.pgrs.net/2025/03/24/pgledger-ledger-implementation-in-postgresql/)
+- [Take this on-call rotation and shove it](https://www.scottsmitelli.com/articles/take-oncall-and-shove-it/)
 
-- [RCE Vulnerabilities in k8s Ingress NGINX  (9.8 CVE for ingress-nginx)](https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities)
+- [Open Letter to Meta: Support True Messaging Interoperability with XMPP](https://xmpp.org/announcements/open-letter-meta-dma/)
