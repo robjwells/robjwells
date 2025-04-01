@@ -1,49 +1,49 @@
-- [Self-contained Python scripts with uv](http://blog.dusktreader.dev/2025/03/29/self-contained-python-scripts-with-uv/)
+- [AI/Math Puzzle](https://aggressivelyparaphrasing.me/2025/03/31/can-you-solve-this-ai-math-puzzle-and-get-a-prize-i-couldnt/)
 
-- [TCRF has been getting DDoSed](https://blog.xkeeper.net/uncategorized/tcrf-has-been-getting-ddosed/)
+- [The Evolution of HTTPS Adoption in Firefox](https://attackanddefense.dev/2024/03/31/https-first-in-firefox-136.html)
 
-- [File Systems Unfit as Distributed Storage Backend (2019)](https://dl.acm.org/doi/pdf/10.1145/3341301.3359656)
+- [The <select> element can now be customized with CSS](https://developer.chrome.com/blog/a-customizable-select)
 
-- [syntax highlighting with tree-sitter](https://dotat.at/@/2025-03-30-hilite.html)
+- [Pidgin 3.0 Experimental 2 (2.91.0) has been released](https://discourse.imfreedom.org/t/pidgin-3-0-experimental-2-2-91-0-has-been-released/262)
 
-- [A brief history of compression on Macs](https://eclecticlight.co/2025/03/29/a-brief-history-of-compression-on-macs/)
+- [Empowering WebAssembly with Thin Kernel Interfaces](https://dl.acm.org/doi/10.1145/3689031.3717470)
 
-- [Ente Photos v1](https://ente.io/blog/v1)
+- [Hoster - Built Using FreeBSD/Bhyve/ZFS/PF/Go Makes VM/Jails Deployments Fast and Easy](https://docs.hoster-core.gateway-it.com/)
 
-- [Nix vanity store paths](https://fzakaria.com/2025/03/27/nix-vanity-store-paths)
+- [Framework 13 AMD Setup with FreeBSD](https://euroquis.nl/freebsd/2025/03/16/framework.html)
 
-- [Cross Compiling Swift](https://khanwinter.com/2025-03-29-Cross-Compiling-Swift/)
+- [Dipping my toes in OpenBSD, in Amsterdam](https://ewintr.nl/posts/2025/dipping-my-toes-in-openbsd-in-amsterdam/)
 
-- [Koto Programming Language](https://koto.dev/)
+- [Impromptu disaster recovery](https://fasterthanli.me/articles/impromptu-disaster-recovery)
 
-- [Towards fearless SIMD, 7 years later](https://linebender.org/blog/towards-fearless-simd/)
+- [What’s in a Nix store path](https://fzakaria.com/2025/03/28/what-s-in-a-nix-store-path)
 
-- [Rust Any part 3: Finally we have upcasts](https://lucumr.pocoo.org/2025/3/27/any-upcast/)
+- [Windows on ARM on a Smart Watch](https://gus33000.me/fish/)
 
-- [Why Is This Site Built With C](https://marcelofern.com/posts/c/why-is-this-site-built-with-c/index.html)
+- [Ekapkgs, a poly-repo fork of Nixpkgs](https://nixcademy.com/posts/ekala-project/)
 
-- [Horseless intelligence](https://nedbatchelder.com/blog/202503/horseless_intelligence.html)
+- [Shadowing in Python gave me an UnboundLocalError](https://ntietz.com/blog/pythons-shadowing-behavior-always-surprises-me/)
 
-- [Guidelines for Evaluating Differential Privacy Guarantees](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-226.pdf)
+- [GNU Octave: Scientific Programming Language](https://octave.org/index)
 
-- [Convert Linux to Windows](https://philipbohun.com/blog/0007.html)
+- [Giving up the dylib dream](https://octet-stream.net/b/scb/2025-03-31-giving-up-the-dylib-dream.html)
 
-- [The Surprise of Multiple Dependency Graphs](https://queue.acm.org/detail.cfm?ref=rss&id=3723000)
+- [There is no Vibe Engineering](https://serce.me/posts/2025-31-03-there-is-no-vibe-engineering)
 
-- [I made a little puzzle game about a rogue chess knight](https://rakhim.exotext.com/knight-ride-a-game-about-rogue-chess-knight)
-
-- [Labor of Division (2010)](https://ridiculousfish.com/blog/posts/labor-of-division-episode-i.html)
-
-- [.arpa, rDNS and a few magical ICMP hacks](https://sdomi.pl/weblog/24-arpa-hacks/)
-
-- [How To Become A Hacker: A Step-By-Step Guide](https://sebastiancarlos.medium.com/how-to-become-a-hacker-a-step-by-step-guide-94902dc425b0)
+- [How I Spent Saturday Recovering A Passkey Or Why Open-Source Software Matters](https://taggr.link/post/1425921)
 
 - [SaaS Is Broken: Why Bring Your Own Cloud (BYOC) Is the Future](https://thenewstack.io/saas-is-broken-why-bring-your-own-cloud-byoc-is-the-future/)
 
-- [Missile vs. Laser: The Game of Terminal Maneuvers](https://www.ethanheilman.com/x/31/index.html)
+- [Foundation Models and Unix](https://vagos.github.io/blog/foundation-models-unix.html)
 
-- [A Programmer's Reading List: 100 Articles I Enjoyed (1-50)](https://www.piglei.com/articles/en-programmer-reading-list-part-one/)
+- [Warren's Abstract Machine: A Tutorial Reconstruction (1999)](https://web.archive.org/web/20110403055600/http://wambook.sourceforge.net/)
 
-- [CodeQLEAKED - Public Secrets Exposure Leads toSupply Chain Attack on GitHub CodeQL](https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/)
+- [Interaction nets](https://wiki.xxiivv.com/site/interaction_nets.html)
 
-- [Baseline implementations should be predictable](https://www.pvk.ca/Blog/2021/05/14/baseline-implementations-should-be-predictable/)
+- [How to borrow memory (2021)](https://www.falsifian.org/blog/2021/06/04/catalytic/)
+
+- [Building Real-Time Video Transcription & Sentiment Analysis for Peer Support](https://www.kuky.com/)
+
+- [An AlphaStation's SROM](https://www.thejpster.org.uk/blog/blog-2025-03-30/)
+
+- [Building native packages is complicated](https://xeiaso.net/blog/2025/anubis-packaging/)
