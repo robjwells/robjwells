@@ -1,49 +1,47 @@
-- [The Steam Deck is Software-Freedom friendly](https://agnishom.github.io/blog/2024/steam-deck/)
+- [MacLynx beta 6: back to the Power Mac](http://oldvcr.blogspot.com/2025/04/maclynx-beta-6-back-to-power-mac.html)
 
-- [A study of undefined behavior across foreign function boundaries in Rust libraries](https://arxiv.org/abs/2404.11671)
+- [The Insanity of Being a Software Engineer](https://0x1.pt/2025/04/06/the-insanity-of-being-a-software-engineer/)
 
-- [Deadlock-free Mutexes and Directed Acyclic Graphs (2022)](https://bertptrs.nl/2022/06/23/deadlock-free-mutexes-and-directed-acyclic-graphs.html)
+- [Hiding elements that require JavaScript without JavaScript](https://0xda.de/blog/2025/04/hiding-elements-that-require-javascript-without-javascript/)
 
-- [Announcing Rust 1.86.0](https://blog.rust-lang.org/2025/04/03/Rust-1.86.0.html)
+- [Baby Steps into Genetic Programming](https://aerique.blogspot.com/2011/01/baby-steps-into-genetic-programming.html)
 
-- [TDD Guided by ZOMBIES (2016)](https://blog.wingman-sw.com/tdd-guided-by-zombies)
+- [The Llama 4 herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
 
-- [Of manners and machines](https://commaok.xyz/post/manners/)
+- [Vector Sets are part of Redis](https://antirez.com/news/149)
 
-- [How crawlers impact the operations of the Wikimedia projects](https://diff.wikimedia.org/2025/04/01/how-crawlers-impact-the-operations-of-the-wikimedia-projects/)
+- [Ran out of infrastructure titles](https://arch.dog/bark/2025-03-30-infrastructure)
 
-- [Nix that looks like Bazel](https://fzakaria.com/2025/04/02/nix-that-looks-like-bazel)
+- [Vernacular Web: Indigenous and Barbarians](https://art.teleportacia.org/observation/vernacular/)
 
-- [InitWare: systemd-like fork for BSDs](https://github.com/InitWare/InitWare)
+- [Nix derivations by hand, without guessing](https://bernsteinbear.com/blog/nix-by-hand/)
 
-- [Introducing Bare, a small and modular JavaScript runtime](https://github.com/holepunchto/bare)
+- [8-pin Linux](https://dmitry.gr/?r=05.Projects&proj=36.%208pinLinux)
 
-- [regname: Mass renamer TUI written in Rust](https://github.com/linkdd/regname)
+- [A short story of my programming language Easylang](https://easylang.online/apps/story.html)
 
-- [Introducing Nix Ninja – open-source Ninja-compatible build system for Nix](https://github.com/pdtpartners/nix-ninja)
+- [certicoq: A Verified Compiler for Gallina, Written in Gallina](https://github.com/CertiCoq/certicoq)
 
-- [Graphite (Rusty FOSS procedural 2D design app) new feature demos from Q4](https://graphite.rs/blog/graphite-progress-report-q4-2024/)
+- [Try: test anti-framework via CL Condition System](https://github.com/melisgl/try)
 
-- [Keeping the LHC colliding: Providing Extended Lifecycle support for EL7 (by moving to Debian)](https://indico.cern.ch/event/1477299/contributions/6363918/attachments/3044399/5378883/20250403-HEPiX-cern-els7.pdf)
+- [nodo: Call Node.js from Ruby](https://github.com/mtgrosser/nodo)
 
-- [Minimal CSS-only blurry image placeholders](https://leanrada.com/notes/css-only-lqip/)
+- [rauthy: OpenID Connect Single Sign-On Identity & Access Management](https://github.com/sebadob/rauthy)
 
-- [Rewriting my site in vanilla web](https://leanrada.com/notes/vanilla-web-rewrite/)
+- [Done with GitHub Actions Supply Chain Attacks](https://huijzer.xyz/posts/jas/)
 
-- [Gerrit, GitButler, and Jujutsu projects collaborating on change-id commit footer](https://lore.kernel.org/git/CAESOdVAspxUJKGAA58i0tvks4ZOfoGf1Aa5gPr0FXzdcywqUUw@mail.gmail.com/T/#u)
+- [One does not simply update one's dependencies](https://rosswintle.uk/2025/04/one-does-not-simply-update-ones-dependencies/)
 
-- [Why I stopped using AI code editors](https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors/)
+- [Email over NNCP (via exim)](https://salsa.debian.org/jgoerzen/docker-nncpnet-mailnode/-/wikis/home)
 
-- [AI ambivalence](https://nolanlawson.com/2025/04/02/ai-ambivalence/)
+- [Model error](https://surfingcomplexity.blog/2025/04/06/model-error/)
 
-- [How We Got the Generics We Have: (Or, how I learned to stop worrying and love erasure)](https://openjdk.org/projects/valhalla/design-notes/in-defense-of-erasure)
+- [More Contrast, Please](https://susam.net/more-contrast-please.html)
 
-- [Overengineered anchor links](https://thirty-five.com/overengineered-anchoring)
+- [The order of files in /etc/ssh/sshd_config.d/ matters (and may surprise you)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHConfigOrderMatters)
 
-- [Why we are still using 88x31 buttons](https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons)
+- [The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort & Confidence Effects From a Survey of Knowledge Workers](https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf)
 
-- [Fast(er) binary search in Rust](https://www.bazhenov.me/posts/faster-binary-search-in-rust/)
+- [Microsoft turns 50: A look back at everything from the Altair to the Zune](https://www.npr.org/2025/04/04/nx-s1-5328683/microsoft-50-year-anniversary-computing-revolution)
 
-- [Why we decided to go for the Big Rewrite (2019)](https://www.channable.com/tech/why-we-decided-to-go-for-the-big-rewrite)
-
-- [Celebrate 50 years of Microsoft with the company's original source code](https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code?WT.mc_id=20250331100000_Microsoft-50th_MED-MED)
+- [Making a Brainf*** JIT Compiler in Rust](https://www.youtube.com/watch?v=3aRdIijtGrM)
