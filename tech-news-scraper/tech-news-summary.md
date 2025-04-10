@@ -1,47 +1,49 @@
-- [MacLynx beta 6: back to the Power Mac](http://oldvcr.blogspot.com/2025/04/maclynx-beta-6-back-to-power-mac.html)
+- [How Prime Video Cut UI Latency 7.6x by Switching to Rust](https://analyticsindiamag.com/global-tech/how-prime-video-cut-ui-latency-7-6x-by-switching-to-rust/)
 
-- [The Insanity of Being a Software Engineer](https://0x1.pt/2025/04/06/the-insanity-of-being-a-software-engineer/)
+- [Visualizing a Million Time Series with the Density Line Chart](https://arxiv.org/pdf/1808.06019)
 
-- [Hiding elements that require JavaScript without JavaScript](https://0xda.de/blog/2025/04/hiding-elements-that-require-javascript-without-javascript/)
+- [Hardening the Firefox Frontend with Content Security Policies](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html)
 
-- [Baby Steps into Genetic Programming](https://aerique.blogspot.com/2011/01/baby-steps-into-genetic-programming.html)
+- [Maintenance Notice - Whisky Documentation](https://docs.getwhisky.app/maintenance-notice)
 
-- [The Llama 4 herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
+- [Parser Combinators Beat Regexes](https://entropicthoughts.com/parser-combinators-beat-regexes)
 
-- [Vector Sets are part of Redis](https://antirez.com/news/149)
+- [what if the poison were rust?](https://flak.tedunangst.com/post/what-if-the-poison-were-rust)
 
-- [Ran out of infrastructure titles](https://arch.dog/bark/2025-03-30-infrastructure)
+- [git-withme - Peer-to-peer, encrypted, ephemeral Git collaboration (git daemon with encryption)](https://git.sr.ht/~meejah/git-withme)
 
-- [Vernacular Web: Indigenous and Barbarians](https://art.teleportacia.org/observation/vernacular/)
+- [barrelfish](https://github.com/BarrelfishOS/barrelfish)
 
-- [Nix derivations by hand, without guessing](https://bernsteinbear.com/blog/nix-by-hand/)
+- [facet: Rust reflection, serialization, deserialization — know the shape of your types](https://github.com/facet-rs/facet)
 
-- [8-pin Linux](https://dmitry.gr/?r=05.Projects&proj=36.%208pinLinux)
+- [RFC 3446 - Introduce the Store API for great good](https://github.com/matthieu-m/rfcs/blob/store/text/3446-store.md)
 
-- [A short story of my programming language Easylang](https://easylang.online/apps/story.html)
+- [Netbird: connect your devices into a WireGuard overlay network with SSO, MFA and granular access controls](https://github.com/netbirdio/netbird)
 
-- [certicoq: A Verified Compiler for Gallina, Written in Gallina](https://github.com/CertiCoq/certicoq)
+- [A compiler for the Micron programming language - the Oberon with the power of C](https://github.com/rochus-keller/micron/)
 
-- [Try: test anti-framework via CL Condition System](https://github.com/melisgl/try)
+- [A surprising enum size optimization in the Rust compiler](https://jpfennell.com/posts/enum-type-size/)
 
-- [nodo: Call Node.js from Ruby](https://github.com/mtgrosser/nodo)
+- [Koreo: The platform engineering toolkit for Kubernetes](https://koreo.dev)
 
-- [rauthy: OpenID Connect Single Sign-On Identity & Access Management](https://github.com/sebadob/rauthy)
+- [“It’s not that bad” they told me - Coreboot](https://lilysthings.org/blog/coreboot/)
 
-- [Done with GitHub Actions Supply Chain Attacks](https://huijzer.xyz/posts/jas/)
+- [Is not writing tests unprofessional? (2019)](https://matthiasnoback.nl/2019/09/is-not-writing-tests-unprofessional/)
 
-- [One does not simply update one's dependencies](https://rosswintle.uk/2025/04/one-does-not-simply-update-ones-dependencies/)
+- [Async from scratch 1: What's in a Future, anyway?](https://natkr.com/2025-04-10-async-from-scratch-1/)
 
-- [Email over NNCP (via exim)](https://salsa.debian.org/jgoerzen/docker-nncpnet-mailnode/-/wikis/home)
+- [How to Sync Anything](https://neighbourhood.ie/blog/2025/04/06/how-to-sync-anything)
 
-- [Model error](https://surfingcomplexity.blog/2025/04/06/model-error/)
+- [React for Two Computers](https://overreacted.io/react-for-two-computers/)
 
-- [More Contrast, Please](https://susam.net/more-contrast-please.html)
+- [An LLM Query Understanding Service](https://softwaredoug.com/blog/2025/04/08/llm-query-understand)
 
-- [The order of files in /etc/ssh/sshd_config.d/ matters (and may surprise you)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHConfigOrderMatters)
+- [Elliptical Python Programming](https://susam.net/elliptical-python-programming.html)
 
-- [The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort & Confidence Effects From a Survey of Knowledge Workers](https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf)
+- [Better typography with text-wrap pretty](https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/)
 
-- [Microsoft turns 50: A look back at everything from the Altair to the Zune](https://www.npr.org/2025/04/04/nx-s1-5328683/microsoft-50-year-anniversary-computing-revolution)
+- [Man pages are great, man readers are the problem](https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/)
 
-- [Making a Brainf*** JIT Compiler in Rust](https://www.youtube.com/watch?v=3aRdIijtGrM)
+- [OpenSSH 10.0 released](https://www.openwall.com/lists/oss-security/2025/04/09/1)
+
+- [Obituary for Cyc](https://yuxi-liu-wired.github.io/essays/posts/cyc/)
