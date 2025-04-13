@@ -1,49 +1,47 @@
-- [How Prime Video Cut UI Latency 7.6x by Switching to Rust](https://analyticsindiamag.com/global-tech/how-prime-video-cut-ui-latency-7-6x-by-switching-to-rust/)
+- [The 5 Levels of Configuration Languages](https://beza1e1.tuxen.de/config_levels.html)
 
-- [Visualizing a Million Time Series with the Density Line Chart](https://arxiv.org/pdf/1808.06019)
+- [Python Performance: Why 'if not list' is 2x Faster Than Using len()](https://blog.codingconfessions.com/p/python-performance-why-if-not-list)
 
-- [Hardening the Firefox Frontend with Content Security Policies](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html)
+- [Holographic Masks](https://codepen.io/HejChristian/full/YPzLbYX)
 
-- [Maintenance Notice - Whisky Documentation](https://docs.getwhisky.app/maintenance-notice)
+- [CORE-MATH: high performance open-source mathematical functions with correct rounding](https://core-math.gitlabpages.inria.fr/)
 
-- [Parser Combinators Beat Regexes](https://entropicthoughts.com/parser-combinators-beat-regexes)
+- [Datastar - The hypermedia framework](https://data-star.dev/)
 
-- [what if the poison were rust?](https://flak.tedunangst.com/post/what-if-the-poison-were-rust)
+- [Why Pascal is Not My Favourite Language (1981)](https://doc.cat-v.org/bell_labs/why_pascal/why_pascal_is_not_my_favorite_language.pdf)
 
-- [git-withme - Peer-to-peer, encrypted, ephemeral Git collaboration (git daemon with encryption)](https://git.sr.ht/~meejah/git-withme)
+- [Rust to C compiler - 95.9% test pass rate, odd platforms](https://fractalfir.github.io/generated_html/cg_clr_odd_platforms.html)
 
-- [barrelfish](https://github.com/BarrelfishOS/barrelfish)
+- [ZCS — An Entity Component System in Zig](https://gamesbymason.com/blog/2025/zcs/)
 
-- [facet: Rust reflection, serialization, deserialization — know the shape of your types](https://github.com/facet-rs/facet)
+- [Performance Analysis and Tuning on Modern CPUs](https://github.com/dendibakh/perf-book)
 
-- [RFC 3446 - Introduce the Store API for great good](https://github.com/matthieu-m/rfcs/blob/store/text/3446-store.md)
+- [awe: A compiler for the Algol W programming language](https://github.com/glynawe/awe)
 
-- [Netbird: connect your devices into a WireGuard overlay network with SSO, MFA and granular access controls](https://github.com/netbirdio/netbird)
+- [cl-yasboi: Yet Another Starter Boilerplate for Common Lisp](https://github.com/sebastiancarlos/cl-yasboi)
 
-- [A compiler for the Micron programming language - the Oberon with the power of C](https://github.com/rochus-keller/micron/)
+- [Nix Trigonometric Math Library from Ground Zero](https://lantian.pub/en/article/modify-computer/nix-trigonometric-math-library-from-zero.lantian/)
 
-- [A surprising enum size optimization in the Rust compiler](https://jpfennell.com/posts/enum-type-size/)
+- [Shadertoys ported to Rust GPU](https://rust-gpu.github.io/blog/2025/04/10/shadertoys)
 
-- [Koreo: The platform engineering toolkit for Kubernetes](https://koreo.dev)
+- [CaMeL offers a promising new direction for mitigating prompt injection attacks](https://simonwillison.net/2025/Apr/11/camel/)
 
-- [“It’s not that bad” they told me - Coreboot](https://lilysthings.org/blog/coreboot/)
+- [Slopsquatting: Planting Malicious Packages Under Names AIs Will Hallucinate](https://socket.dev/blog/slopsquatting-how-ai-hallucinations-are-fueling-a-new-class-of-supply-chain-attacks)
 
-- [Is not writing tests unprofessional? (2019)](https://matthiasnoback.nl/2019/09/is-not-writing-tests-unprofessional/)
+- [Erlang’s not about lightweight processes and message passing…](https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html)
 
-- [Async from scratch 1: What's in a Future, anyway?](https://natkr.com/2025-04-10-async-from-scratch-1/)
+- [RNG and Cosine in Nix](https://unnamed.website/posts/rng-cosine-nix/)
 
-- [How to Sync Anything](https://neighbourhood.ie/blog/2025/04/06/how-to-sync-anything)
+- [Some features that every JavaScript developer should know in 2025](https://waspdev.com/articles/2025-04-06/features-that-every-js-developer-must-know-in-2025)
 
-- [React for Two Computers](https://overreacted.io/react-for-two-computers/)
+- [Generative AI in Servo](https://www.azabani.com/2025/04/11/generative-ai-in-servo.html)
 
-- [An LLM Query Understanding Service](https://softwaredoug.com/blog/2025/04/08/llm-query-understand)
+- [BPS is a GPS alternative that nobody's heard of](https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard)
 
-- [Elliptical Python Programming](https://susam.net/elliptical-python-programming.html)
+- [Bug in Outlook PST Password Protection (2006)](https://www.nirsoft.net/articles/pst_password_bug.html)
 
-- [Better typography with text-wrap pretty](https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/)
+- [Natural Language Is Now the Only No-Code Tool That Matters](https://www.xfaang.com/blog/Natural-Language-Is-Now-the-Only-No-Code-Tool-That-Matters/slvrJ005SjSnDqnIIfeVX)
 
-- [Man pages are great, man readers are the problem](https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/)
+- [Creating 256 Bytes of RAM (in a simulation)](https://www.youtube.com/watch?v=HGkuRp5HfH8)
 
-- [OpenSSH 10.0 released](https://www.openwall.com/lists/oss-security/2025/04/09/1)
-
-- [Obituary for Cyc](https://yuxi-liu-wired.github.io/essays/posts/cyc/)
+- [Anubis works](https://xeiaso.net/notes/2025/anubis-works/)
