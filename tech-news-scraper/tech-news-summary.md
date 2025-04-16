@@ -1,47 +1,49 @@
-- [The 5 Levels of Configuration Languages](https://beza1e1.tuxen.de/config_levels.html)
+- [AerynOS](https://aerynos.com/)
 
-- [Python Performance: Why 'if not list' is 2x Faster Than Using len()](https://blog.codingconfessions.com/p/python-performance-why-if-not-list)
+- [A flowing WebGL gradient, deconstructed](https://alexharri.com/blog/webgl-gradients)
 
-- [Holographic Masks](https://codepen.io/HejChristian/full/YPzLbYX)
+- [Arch Linux now has an official WSL image](https://antiz.fr/blog/archlinux-official-wsl-image/)
 
-- [CORE-MATH: high performance open-source mathematical functions with correct rounding](https://core-math.gitlabpages.inria.fr/)
+- [The Story Behind K2 Mode and How It Works](https://blog.jetbrains.com/idea/2025/04/the-story-behind-k2-mode-and-how-it-works/)
 
-- [Datastar - The hypermedia framework](https://data-star.dev/)
+- [Dangerous Arbitrary File Read Vulnerability in Yelp (CVE-2025-3155)](https://blogs.gnome.org/mcatanzaro/2025/04/15/dangerous-arbitrary-file-read-vulnerability-in-yelp-cve-2025-3155/)
 
-- [Why Pascal is Not My Favourite Language (1981)](https://doc.cat-v.org/bell_labs/why_pascal/why_pascal_is_not_my_favorite_language.pdf)
+- [Two Years of Rust](https://borretti.me/article/two-years-of-rust)
 
-- [Rust to C compiler - 95.9% test pass rate, odd platforms](https://fractalfir.github.io/generated_html/cg_clr_odd_platforms.html)
+- [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/README.html)
 
-- [ZCS — An Entity Component System in Zig](https://gamesbymason.com/blog/2025/zcs/)
+- [Bug Bash 2025 Conference Experience](https://concerningquality.com/bug-bash-2025/)
 
-- [Performance Analysis and Tuning on Modern CPUs](https://github.com/dendibakh/perf-book)
+- [A Relational Model of Data (1969)](https://dl.acm.org/doi/pdf/10.1145/362384.362685)
 
-- [awe: A compiler for the Algol W programming language](https://github.com/glynawe/awe)
+- [The Problem with “Vibe Coding”](https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html)
 
-- [cl-yasboi: Yet Another Starter Boilerplate for Common Lisp](https://github.com/sebastiancarlos/cl-yasboi)
+- [The answer is 42! Fedora Linux 42, that is](https://fedoramagazine.org/announcing-fedora-linux-42/)
 
-- [Nix Trigonometric Math Library from Ground Zero](https://lantian.pub/en/article/modify-computer/nix-trigonometric-math-library-from-zero.lantian/)
+- [clolog](https://github.com/bobschrag/clolog)
 
-- [Shadertoys ported to Rust GPU](https://rust-gpu.github.io/blog/2025/04/10/shadertoys)
+- [Gleam v1.10.0 released](https://gleam.run/news/global-rename-and-find-references/)
 
-- [CaMeL offers a promising new direction for mitigating prompt injection attacks](https://simonwillison.net/2025/Apr/11/camel/)
+- [MITRE will stop issuing new CVEs](https://infosec.exchange/@briankrebs/114343835430587973)
 
-- [Slopsquatting: Planting Malicious Packages Under Names AIs Will Hallucinate](https://socket.dev/blog/slopsquatting-how-ai-hallucinations-are-fueling-a-new-class-of-supply-chain-attacks)
+- [Ursa - ClickHouse Research Fork](https://maksimkita.com/blog/ursa-clickhouse-research-fork.html)
 
-- [Erlang’s not about lightweight processes and message passing…](https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html)
+- [Atomicless Concurrency (2023)](https://mcyoung.xyz/2023/03/29/rseq-checkout/)
 
-- [RNG and Cosine in Nix](https://unnamed.website/posts/rng-cosine-nix/)
+- [What the Hell Is a Target Triple?](https://mcyoung.xyz/2025/04/14/target-triples/)
 
-- [Some features that every JavaScript developer should know in 2025](https://waspdev.com/articles/2025-04-06/features-that-every-js-developer-must-know-in-2025)
+- [When Life Gives You Java](https://oblac.rs/2025-04-15-when-life-gives-you-java/)
 
-- [Generative AI in Servo](https://www.azabani.com/2025/04/11/generative-ai-in-servo.html)
+- [JSX Over The Wire](https://overreacted.io/jsx-over-the-wire/)
 
-- [BPS is a GPS alternative that nobody's heard of](https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard)
+- [You cannot have our user's data](https://sourcehut.org/blog/2025-04-15-you-cannot-have-our-users-data/)
 
-- [Bug in Outlook PST Password Protection (2006)](https://www.nirsoft.net/articles/pst_password_bug.html)
+- [Company's Surveillance Tech Makes Immigrants 'Easy Pickings'](https://web.archive.org/web/20250415024529/https://www.nytimes.com/2025/04/14/technology/trump-immigration-tech-geo-group.html)
 
-- [Natural Language Is Now the Only No-Code Tool That Matters](https://www.xfaang.com/blog/Natural-Language-Is-Now-the-Only-No-Code-Tool-That-Matters/slvrJ005SjSnDqnIIfeVX)
+- [A 2025 Survey of Rust GUI Libraries](https://www.boringcactus.com/2025/04/13/2025-survey-of-rust-gui-libraries.html)
 
-- [Creating 256 Bytes of RAM (in a simulation)](https://www.youtube.com/watch?v=HGkuRp5HfH8)
+- [What Makes a Great Developer Experience?](https://www.codesimplicity.com/post/what-makes-a-great-developer-experience/)
 
-- [Anubis works](https://xeiaso.net/notes/2025/anubis-works/)
+- [Cutting Down Rust Compile Times With One Thousand Crates](https://www.feldera.com/blog/cutting-down-rust-compile-times-from-30-to-2-minutes-with-one-thousand-crates)
+
+- [The Post-Developer Era](https://www.joshwcomeau.com/blog/the-post-developer-era/)
