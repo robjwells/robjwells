@@ -1,49 +1,43 @@
-- [AerynOS](https://aerynos.com/)
+- [15,000 lines of verified cryptography now in Python](http://jonathan.protzenko.fr/2025/04/18/python.html)
 
-- [A flowing WebGL gradient, deconstructed](https://alexharri.com/blog/webgl-gradients)
+- [Arch Linux: Valkey to replace Redis in the [extra] Repository](https://archlinux.org/news/valkey-to-replace-redis-in-the-extra-repository/)
 
-- [Arch Linux now has an official WSL image](https://antiz.fr/blog/archlinux-official-wsl-image/)
+- [Stop Writing `__init__` Methods](https://blog.glyph.im/2025/04/stop-writing-init-methods.html)
 
-- [The Story Behind K2 Mode and How It Works](https://blog.jetbrains.com/idea/2025/04/the-story-behind-k2-mode-and-how-it-works/)
+- [Microsecond transforms: Building a fast sandbox for user code](https://blog.sequinstream.com/microsecond-transforms-building-a-lightning-fast-sandbox-for-user-code/)
 
-- [Dangerous Arbitrary File Read Vulnerability in Yelp (CVE-2025-3155)](https://blogs.gnome.org/mcatanzaro/2025/04/15/dangerous-arbitrary-file-read-vulnerability-in-yelp-cve-2025-3155/)
+- [Using ~/.ssh/authorized keys to decide what the incoming connection can do](https://dan.langille.org/2025/04/17/using-ssh-authorized-keys-to-decide-what-the-incoming-connection-can-do/)
 
-- [Two Years of Rust](https://borretti.me/article/two-years-of-rust)
+- [Reflections on Unikernels](https://dave.recoil.org/unikernels/)
 
-- [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/README.html)
+- [System Design of a Cellular APL Computer](https://ieeexplore.ieee.org/document/1671509)
 
-- [Bug Bash 2025 Conference Experience](https://concerningquality.com/bug-bash-2025/)
+- [Bring Back RSS Feeds to Browsers](https://jetgirl.art/bring-back-rss-feeds-to-browsers/)
 
-- [A Relational Model of Data (1969)](https://dl.acm.org/doi/pdf/10.1145/362384.362685)
+- [Vibing code quality](https://jml.io/posts/vibing-code-quality/)
 
-- [The Problem with “Vibe Coding”](https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html)
+- [Ratatui - Are We Embedded Yet?](https://jslazak.com/are-we-embedded-yet-0/)
 
-- [The answer is 42! Fedora Linux 42, that is](https://fedoramagazine.org/announcing-fedora-linux-42/)
+- [Revisiting an early critique of formal verification](https://lawrencecpaulson.github.io/2025/03/14/revisiting_demillo.html)
 
-- [clolog](https://github.com/bobschrag/clolog)
+- [Are your channels visible enough?](https://libera.chat/news/visibility)
 
-- [Gleam v1.10.0 released](https://gleam.run/news/global-rename-and-find-references/)
+- [Easter hack: terraform-provider-openwrt](https://linderud.dev/blog/easter-hack-terraform-provider-openwrt/)
 
-- [MITRE will stop issuing new CVEs](https://infosec.exchange/@briankrebs/114343835430587973)
+- [How to make people feel stupid (2008)](https://nedbatchelder.com/blog/200801/how_to_make_people_feel_stupid.html)
 
-- [Ursa - ClickHouse Research Fork](https://maksimkita.com/blog/ursa-clickhouse-research-fork.html)
+- [pahole: Analysing Memory Layout of Complex Data Structures With Ease](https://pramodkumbhar.com/2023/11/pahole-to-analyz-data-structure-memory-layouts-with-ease/)
 
-- [Atomicless Concurrency (2023)](https://mcyoung.xyz/2023/03/29/rseq-checkout/)
+- [Marching Events: What does iCalendar have to do with ray marching?](https://pwy.io/posts/marching-events/)
 
-- [What the Hell Is a Target Triple?](https://mcyoung.xyz/2025/04/14/target-triples/)
+- [Image segmentation using Gemini 2.5](https://simonwillison.net/2025/Apr/18/gemini-image-segmentation/)
 
-- [When Life Gives You Java](https://oblac.rs/2025-04-15-when-life-gives-you-java/)
+- [Four Years of Jai](https://smarimccarthy.is/posts/2024-12-02-four-years-of-jai/)
 
-- [JSX Over The Wire](https://overreacted.io/jsx-over-the-wire/)
+- [Antithesis driven testing](https://sqlsync.dev/posts/antithesis-driven-testing/)
 
-- [You cannot have our user's data](https://sourcehut.org/blog/2025-04-15-you-cannot-have-our-users-data/)
+- [Buried Toggles Begging to be Brought to Light](https://venam.net/blog/unix/2025/04/18/mechanism_policy.html)
 
-- [Company's Surveillance Tech Makes Immigrants 'Easy Pickings'](https://web.archive.org/web/20250415024529/https://www.nytimes.com/2025/04/14/technology/trump-immigration-tech-geo-group.html)
+- [Why I Cannot Be Technical](https://www.fightforthehuman.com/why-i-cannot-be-technical/)
 
-- [A 2025 Survey of Rust GUI Libraries](https://www.boringcactus.com/2025/04/13/2025-survey-of-rust-gui-libraries.html)
-
-- [What Makes a Great Developer Experience?](https://www.codesimplicity.com/post/what-makes-a-great-developer-experience/)
-
-- [Cutting Down Rust Compile Times With One Thousand Crates](https://www.feldera.com/blog/cutting-down-rust-compile-times-from-30-to-2-minutes-with-one-thousand-crates)
-
-- [The Post-Developer Era](https://www.joshwcomeau.com/blog/the-post-developer-era/)
+- [Common shell script mistakes](https://www.pixelbeat.org/programming/shell_script_mistakes.html)
