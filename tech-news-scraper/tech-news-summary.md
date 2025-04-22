@@ -1,43 +1,47 @@
-- [15,000 lines of verified cryptography now in Python](http://jonathan.protzenko.fr/2025/04/18/python.html)
+- [What I'd do as a College Freshman in 2025](http://muratbuffalo.blogspot.com/2025/04/what-id-do-as-college-freshman.html)
 
-- [Arch Linux: Valkey to replace Redis in the [extra] Repository](https://archlinux.org/news/valkey-to-replace-redis-in-the-extra-repository/)
+- [How I use Kate Editor](https://akselmo.dev/posts/how-i-use-kate-editor/)
 
-- [Stop Writing `__init__` Methods](https://blog.glyph.im/2025/04/stop-writing-init-methods.html)
+- [This blog is hosted on a Nintendo Wii](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/)
 
-- [Microsecond transforms: Building a fast sandbox for user code](https://blog.sequinstream.com/microsecond-transforms-building-a-lightning-fast-sandbox-for-user-code/)
+- [LLMs Reduce Development Friction. Is That a Good Thing?](https://blog.ollien.com/posts/llm-friction/)
 
-- [Using ~/.ssh/authorized keys to decide what the incoming connection can do](https://dan.langille.org/2025/04/17/using-ssh-authorized-keys-to-decide-what-the-incoming-connection-can-do/)
+- [Attacking My Landlord's Boiler](https://blog.videah.net/attacking-my-landlords-boiler/)
 
-- [Reflections on Unikernels](https://dave.recoil.org/unikernels/)
+- [A New Form of Verification on Bluesky](https://bsky.social/about/blog/04-21-2025-verification)
 
-- [System Design of a Cellular APL Computer](https://ieeexplore.ieee.org/document/1671509)
+- [Python's new t-strings](https://davepeck.org/2025/04/11/pythons-new-t-strings/)
 
-- [Bring Back RSS Feeds to Browsers](https://jetgirl.art/bring-back-rss-feeds-to-browsers/)
+- [Nerdlog: Fast, multi-host TUI log viewer with timeline histogram](https://dmitryfrank.com/projects/nerdlog/article)
 
-- [Vibing code quality](https://jml.io/posts/vibing-code-quality/)
+- [Retracing Google’s steps: recreating the Webtable in Rust](https://fjall-rs.github.io/post/recreating-webtable/)
 
-- [Ratatui - Are We Embedded Yet?](https://jslazak.com/are-we-embedded-yet-0/)
+- [Reverse engineering the obfuscated TikTok VM](https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering)
 
-- [Revisiting an early critique of formal verification](https://lawrencecpaulson.github.io/2025/03/14/revisiting_demillo.html)
+- [Turing-Drawings](https://github.com/maximecb/Turing-Drawings)
 
-- [Are your channels visible enough?](https://libera.chat/news/visibility)
+- [pgdog: Horizontal scaling for PostgreSQL with automatic sharding](https://github.com/pgdogdev/pgdog)
 
-- [Easter hack: terraform-provider-openwrt](https://linderud.dev/blog/easter-hack-terraform-provider-openwrt/)
+- [The Record/Tuple ECMAScript Proposal has been withdrawn](https://github.com/tc39/proposal-record-tuple)
 
-- [How to make people feel stupid (2008)](https://nedbatchelder.com/blog/200801/how_to_make_people_feel_stupid.html)
+- [Projects For Old OS X](https://jonathanalland.com/old-osx-projects.html)
 
-- [pahole: Analysing Memory Layout of Complex Data Structures With Ease](https://pramodkumbhar.com/2023/11/pahole-to-analyz-data-structure-memory-layouts-with-ease/)
+- [Things Zig comptime Won't Do](https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html)
 
-- [Marching Events: What does iCalendar have to do with ray marching?](https://pwy.io/posts/marching-events/)
+- [Cheating the Reaper in Go](https://mcyoung.xyz/2025/04/21/go-arenas/)
 
-- [Image segmentation using Gemini 2.5](https://simonwillison.net/2025/Apr/18/gemini-image-segmentation/)
+- [Regex affordances](https://nedbatchelder.com/blog/202504/regex_affordances.html)
 
-- [Four Years of Jai](https://smarimccarthy.is/posts/2024-12-02-four-years-of-jai/)
+- [Getting Forked by Microsoft](https://philiplaine.com/posts/getting-forked-by-microsoft/)
 
-- [Antithesis driven testing](https://sqlsync.dev/posts/antithesis-driven-testing/)
+- [First impressions of Pocket Flow’s tutorial generator](https://technicalwriting.dev/ml/pocketflow/index.html)
 
-- [Buried Toggles Begging to be Brought to Light](https://venam.net/blog/unix/2025/04/18/mechanism_policy.html)
+- [Values in the wild: Discovering and analyzing values in real-world language model interactions](https://www.anthropic.com/research/values-wild)
 
-- [Why I Cannot Be Technical](https://www.fightforthehuman.com/why-i-cannot-be-technical/)
+- [Separating work and personal config](https://www.emoses.org/posts/keeping-work-separate/)
 
-- [Common shell script mistakes](https://www.pixelbeat.org/programming/shell_script_mistakes.html)
+- [Why are big tech companies so slow?](https://www.seangoedecke.com/difficulty-in-big-tech/)
+
+- [Decentralizing Schemes](https://www.tbray.org/ongoing/When/202x/2025/04/16/Decentralized-Schemes)
+
+- [Building a Website Fit for 1999](https://www.wezm.net/v2/posts/2025/website-fit-for-1999/)
