@@ -1,47 +1,49 @@
-- [What I'd do as a College Freshman in 2025](http://muratbuffalo.blogspot.com/2025/04/what-id-do-as-college-freshman.html)
+- [Implementing Unsure Calculator in 100 lines of Haskell](https://alt-romes.github.io/posts/2025-04-25-unsure-calculator-in-100-lines-of-haskell.html)
 
-- [How I use Kate Editor](https://akselmo.dev/posts/how-i-use-kate-editor/)
+- [The tools I love are made by awful people](https://ankursethi.com/blog/the-tools-i-love-are-made-by-awful-people/)
 
-- [This blog is hosted on a Nintendo Wii](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/)
+- [Bevy 0.16](https://bevyengine.org/news/bevy-0-16/)
 
-- [LLMs Reduce Development Friction. Is That a Good Thing?](https://blog.ollien.com/posts/llm-friction/)
+- [Bluefish](https://bluefishjs.org/)
 
-- [Attacking My Landlord's Boiler](https://blog.videah.net/attacking-my-landlords-boiler/)
+- [Requirements change until they don't](https://buttondown.com/hillelwayne/archive/requirements-change-until-they-dont/)
 
-- [A New Form of Verification on Bluesky](https://bsky.social/about/blog/04-21-2025-verification)
+- [How I Got Hacked: A Warning about Malicious PoCs](https://chocapikk.com/posts/2025/s1nk/)
 
-- [Python's new t-strings](https://davepeck.org/2025/04/11/pythons-new-t-strings/)
+- [I wrote to the address in the GPLv2 license notice and received the GPLv3 license](https://code.mendhak.com/gpl-v2-address-letter/)
 
-- [Nerdlog: Fast, multi-host TUI log viewer with timeline histogram](https://dmitryfrank.com/projects/nerdlog/article)
+- [How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/)
 
-- [Retracing Google’s steps: recreating the Webtable in Rust](https://fjall-rs.github.io/post/recreating-webtable/)
+- [The cryptoint library](https://cr.yp.to/papers/cryptoint-20250424.pdf)
 
-- [Reverse engineering the obfuscated TikTok VM](https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering)
+- [How Discord Indexes Trillions of Messages](https://discord.com/blog/how-discord-indexes-trillions-of-messages)
 
-- [Turing-Drawings](https://github.com/maximecb/Turing-Drawings)
+- [How decentralized is the fediverse, really?](https://discuss.systems/@ricci/114396317436420669)
 
-- [pgdog: Horizontal scaling for PostgreSQL with automatic sharding](https://github.com/pgdogdev/pgdog)
+- [You wouldn't steal a font](https://fedi.rib.gay/notes/a6xqityngfubsz0f)
 
-- [The Record/Tuple ECMAScript Proposal has been withdrawn](https://github.com/tc39/proposal-record-tuple)
+- [Oniguruma, a popular regex library, is archived, the project "ended"](https://github.com/kkos/oniguruma)
 
-- [Projects For Old OS X](https://jonathanalland.com/old-osx-projects.html)
+- [Observability 2.0 and the Database for It](https://greptime.com/blogs/2025-04-25-greptimedb-observability2-new-database)
 
-- [Things Zig comptime Won't Do](https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html)
+- [First Successful Lightning Triggering and Guiding Using a Drone](https://group.ntt/en/newsrelease/2025/04/18/250418a.html)
 
-- [Cheating the Reaper in Go](https://mcyoung.xyz/2025/04/21/go-arenas/)
+- [Speeding up Ruby by rewriting C… in Ruby](https://jpcamara.com/2024/12/01/speeding-up-ruby.html)
 
-- [Regex affordances](https://nedbatchelder.com/blog/202504/regex_affordances.html)
+- [GitHub potential leaking of private emails and Hacker One](https://omarabid.com/hacker-one)
 
-- [Getting Forked by Microsoft](https://philiplaine.com/posts/getting-forked-by-microsoft/)
+- [Hacking My Coworker (In Minecraft)](https://redvice.org/assets/pdfs/minecraft2025.pdf)
 
-- [First impressions of Pocket Flow’s tutorial generator](https://technicalwriting.dev/ml/pocketflow/index.html)
+- [PATH should be a system call](https://simonsafar.com/2025/path_as_system_call/)
 
-- [Values in the wild: Discovering and analyzing values in real-world language model interactions](https://www.anthropic.com/research/values-wild)
+- [Towards Vortex 1.0](https://spiraldb.com/post/towards-vortex-10)
 
-- [Separating work and personal config](https://www.emoses.org/posts/keeping-work-separate/)
+- [The ‘trickonometry’ of math olympiad inequalities](https://www.andreinc.net/2025/03/17/the-trickonometry-of-math-olympiad-inequalities)
 
-- [Why are big tech companies so slow?](https://www.seangoedecke.com/difficulty-in-big-tech/)
+- [Protecting NATS and the integrity of open source: CNCF’s commitment to the community](https://www.cncf.io/blog/2025/04/24/protecting-nats-and-the-integrity-of-open-source-cncfs-commitment-to-the-community/)
 
-- [Decentralizing Schemes](https://www.tbray.org/ongoing/When/202x/2025/04/16/Decentralized-Schemes)
+- [Notation as a Tool of Thought (1979)](https://www.jsoftware.com/papers/tot.htm)
 
-- [Building a Website Fit for 1999](https://www.wezm.net/v2/posts/2025/website-fit-for-1999/)
+- [What If We Could Rebuild Kafka From Scratch?](https://www.morling.dev/blog/what-if-we-could-rebuild-kafka-from-scratch/)
+
+- [Avoid continue](https://www.teamten.com/lawrence/programming/avoid-continue.html)
