@@ -1,49 +1,49 @@
-- [Implementing Unsure Calculator in 100 lines of Haskell](https://alt-romes.github.io/posts/2025-04-25-unsure-calculator-in-100-lines-of-haskell.html)
+- [How to Program a Text Adventure in C](http://helderman.github.io/htpataic/)
 
-- [The tools I love are made by awful people](https://ankursethi.com/blog/the-tools-i-love-are-made-by-awful-people/)
+- [9front “clause 15 common elements of maus and star type” released](https://9front.org/releases/2025/04/26/0/)
 
-- [Bevy 0.16](https://bevyengine.org/news/bevy-0-16/)
+- [Past, Present, and Future of Sorbet Type Syntax](https://blog.jez.io/history-of-sorbet-syntax/)
 
-- [Bluefish](https://bluefishjs.org/)
+- [A Can of Shardines: SQLite Multitenancy With Rails](https://blog.julik.nl/2025/04/a-can-of-shardines)
 
-- [Requirements change until they don't](https://buttondown.com/hillelwayne/archive/requirements-change-until-they-dont/)
+- [Unlocking Ractors: object_id](https://byroot.github.io/ruby/performance/2025/04/26/unlocking-ractors-object-id.html)
 
-- [How I Got Hacked: A Warning about Malicious PoCs](https://chocapikk.com/posts/2025/s1nk/)
+- [Comfy.Guide](https://comfy.guide/)
 
-- [I wrote to the address in the GPLv2 license notice and received the GPLv3 license](https://code.mendhak.com/gpl-v2-address-letter/)
+- [Remove these tags from <head>](https://getoutofmyhead.dev/)
 
-- [How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/)
+- [Compiler reminders](https://jfmengels.net/compiler-reminders)
 
-- [The cryptoint library](https://cr.yp.to/papers/cryptoint-20250424.pdf)
+- [What's new in APT 3.0](https://lwn.net/Articles/1017315/)
 
-- [How Discord Indexes Trillions of Messages](https://discord.com/blog/how-discord-indexes-trillions-of-messages)
+- [OpenBSD 7.7 released April 28, 2025](https://marc.info/?l=openbsd-misc&m=174577758604758&w=2)
 
-- [How decentralized is the fediverse, really?](https://discuss.systems/@ricci/114396317436420669)
+- [Boxie - an always offline audio player for my 3 year old](https://mariozechner.at/posts/2025-04-20-boxie/)
 
-- [You wouldn't steal a font](https://fedi.rib.gay/notes/a6xqityngfubsz0f)
+- [What Does "use client" Do?](https://overreacted.io/what-does-use-client-do/)
 
-- [Oniguruma, a popular regex library, is archived, the project "ended"](https://github.com/kkos/oniguruma)
+- [A Half-Century of Silicon Valley](https://oxide-and-friends.transistor.fm/episodes/a-half-century-of-silicon-valley-with-randy-shoup)
 
-- [Observability 2.0 and the Database for It](https://greptime.com/blogs/2025-04-25-greptimedb-observability2-new-database)
+- [How a Single Line Of Code Could Brick Your iPhone](https://rambo.codes/posts/2025-04-24-how-a-single-line-of-code-could-brick-your-iphone)
 
-- [First Successful Lightning Triggering and Guiding Using a Drone](https://group.ntt/en/newsrelease/2025/04/18/250418a.html)
+- [SIGBOVIK 2025 conference proceedings](https://sigbovik.org/2025/proceedings.pdf)
 
-- [Speeding up Ruby by rewriting C… in Ruby](https://jpcamara.com/2024/12/01/speeding-up-ruby.html)
+- [Watching o3 guess a photo’s location is surreal, dystopian and wildly entertaining](https://simonwillison.net/2025/Apr/26/o3-photo-locations/)
 
-- [GitHub potential leaking of private emails and Hacker One](https://omarabid.com/hacker-one)
+- [Smallweb – Your Internet Folder](https://smallweb.run/)
 
-- [Hacking My Coworker (In Minecraft)](https://redvice.org/assets/pdfs/minecraft2025.pdf)
+- [Are "AI" systems really tools?](https://tante.cc/2025/04/27/are-ai-system-really-tools/)
 
-- [PATH should be a system call](https://simonsafar.com/2025/path_as_system_call/)
+- [Parallel ./configure](https://tavianator.com/2025/configure.html)
 
-- [Towards Vortex 1.0](https://spiraldb.com/post/towards-vortex-10)
+- [Apple Encrypted Archive](https://theapplewiki.com/wiki/Apple_Encrypted_Archive)
 
-- [The ‘trickonometry’ of math olympiad inequalities](https://www.andreinc.net/2025/03/17/the-trickonometry-of-math-olympiad-inequalities)
+- [systemd system extensions for Fedora image based systems](https://travier.github.io/fedora-sysexts/)
 
-- [Protecting NATS and the integrity of open source: CNCF’s commitment to the community](https://www.cncf.io/blog/2025/04/24/protecting-nats-and-the-integrity-of-open-source-cncfs-commitment-to-the-community/)
+- [import death; die](https://web.archive.org/web/20240206194712/https://bpa.st/3FGA)
 
-- [Notation as a Tool of Thought (1979)](https://www.jsoftware.com/papers/tot.htm)
+- [Unauthorized Experiment on CMV Involving AI-generated Comments](https://www.reddit.com/r/changemyview/comments/1k8b2hj/meta_unauthorized_experiment_on_cmv_involving/)
 
-- [What If We Could Rebuild Kafka From Scratch?](https://www.morling.dev/blog/what-if-we-could-rebuild-kafka-from-scratch/)
+- [Technical Debt as Theory Building and Practice](https://www.usenix.org/conference/srecon25americas/presentation/lam)
 
-- [Avoid continue](https://www.teamten.com/lawrence/programming/avoid-continue.html)
+- [Silent Bugs Matter: A Study of Compiler-Introduced Security Bugs](https://www.usenix.org/conference/usenixsecurity23/presentation/xu-jianhao)
