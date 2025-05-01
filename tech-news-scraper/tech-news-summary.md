@@ -1,49 +1,47 @@
-- [How to Program a Text Adventure in C](http://helderman.github.io/htpataic/)
+- [A cheat sheet for why using ChatGPT is not bad for the environment](https://andymasley.substack.com/p/a-cheat-sheet-for-conversations-about)
 
-- [9front “clause 15 common elements of maus and star type” released](https://9front.org/releases/2025/04/26/0/)
+- [Windows RDP lets you log-in using revoked passwords. Microsoft is ok with that](https://arstechnica.com/security/2025/04/windows-rdp-lets-you-log-in-using-revoked-passwords-microsoft-is-ok-with-that/)
 
-- [Past, Present, and Future of Sorbet Type Syntax](https://blog.jez.io/history-of-sorbet-syntax/)
+- [Problem with React Update Model](https://blog.bloomca.me/2025/04/20/problem-with-react-update-model.html)
 
-- [A Can of Shardines: SQLite Multitenancy With Rails](https://blog.julik.nl/2025/04/a-can-of-shardines)
+- [checking the wifi](https://flak.tedunangst.com/post/checking-the-wifi)
 
-- [Unlocking Ractors: object_id](https://byroot.github.io/ruby/performance/2025/04/26/unlocking-ractors-object-id.html)
+- [[vimrc] Bracket and quote matching and automatic shifting](https://gist.github.com/wa008/4da70e1970b590497bf057e4358a6248)
 
-- [Comfy.Guide](https://comfy.guide/)
+- [Linux in Excel](https://github.com/NSG650/LinuxInExcel)
 
-- [Remove these tags from <head>](https://getoutofmyhead.dev/)
+- [verb: Emacs org-mode alternative to postman](https://github.com/federicotdn/verb)
 
-- [Compiler reminders](https://jfmengels.net/compiler-reminders)
+- [Firefox Git Migration, the unofficial guide](https://glandium.org/blog/?p=4370)
 
-- [What's new in APT 3.0](https://lwn.net/Articles/1017315/)
+- [I use Zip Bombs to Protect my Server](https://idiallo.com/blog/zipbomb-protection)
 
-- [OpenBSD 7.7 released April 28, 2025](https://marc.info/?l=openbsd-misc&m=174577758604758&w=2)
+- [The Rise & Fall of Erlang at Ericsson AB (2023)](https://iknek.github.io/blog/the-erlang-story/)
 
-- [Boxie - an always offline audio player for my 3 year old](https://mariozechner.at/posts/2025-04-20-boxie/)
+- [Jepsen: Amazon RDS for PostgreSQL 17.4](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4)
 
-- [What Does "use client" Do?](https://overreacted.io/what-does-use-client-do/)
+- [Pwning the Ladybird browser](https://jessie.cafe/posts/pwning-ladybirds-libjs/)
 
-- [A Half-Century of Silicon Valley](https://oxide-and-friends.transistor.fm/episodes/a-half-century-of-silicon-valley-with-randy-shoup)
+- [Future of OSL in jeopardy](https://lists.osuosl.org/pipermail/hosting/2025-April/000639.html)
 
-- [How a Single Line Of Code Could Brick Your iPhone](https://rambo.codes/posts/2025-04-24-how-a-single-line-of-code-could-brick-your-iphone)
+- [Against Horizontal Scroll](https://matklad.github.io/2025/04/22/horizontal-scroll.html)
 
-- [SIGBOVIK 2025 conference proceedings](https://sigbovik.org/2025/proceedings.pdf)
+- [Co-dfns versus BQN's implementation](https://mlochbaum.github.io/BQN/implementation/codfns.html)
 
-- [Watching o3 guess a photo’s location is surreal, dystopian and wildly entertaining](https://simonwillison.net/2025/Apr/26/o3-photo-locations/)
+- [Simplest backpropagation explainer without chain rule](https://poonai.xyz/posts/simplest-backpropagation-explainer-without-chain-rule/)
 
-- [Smallweb – Your Internet Folder](https://smallweb.run/)
+- [Pyrefly: A faster Python type checker written in Rust](https://pyrefly.org/)
 
-- [Are "AI" systems really tools?](https://tante.cc/2025/04/27/are-ai-system-really-tools/)
+- [Understanding the recent criticism of the Chatbot Arena](https://simonwillison.net/2025/Apr/30/criticism-of-the-chatbot-arena/)
 
-- [Parallel ./configure](https://tavianator.com/2025/configure.html)
+- [Swarm Testing Data Structures](https://tigerbeetle.com/blog/2025-04-23-swarm-testing-data-structures/)
 
-- [Apple Encrypted Archive](https://theapplewiki.com/wiki/Apple_Encrypted_Archive)
+- [Elixir is not owned by Big Tech](https://underjord.io/elixir-is-not-owned-by-big-tech.html)
 
-- [systemd system extensions for Fedora image based systems](https://travier.github.io/fedora-sysexts/)
+- [Giving V8 a Heads-Up: Faster JavaScript Startup with Explicit Compile Hints](https://v8.dev/blog/explicit-compile-hints)
 
-- [import death; die](https://web.archive.org/web/20240206194712/https://bpa.st/3FGA)
+- [Polishing your typography with line height units](https://webkit.org/blog/16831/line-height-units/)
 
-- [Unauthorized Experiment on CMV Involving AI-generated Comments](https://www.reddit.com/r/changemyview/comments/1k8b2hj/meta_unauthorized_experiment_on_cmv_involving/)
+- [Doom GPU Flame Graphs](https://www.brendangregg.com/blog/2025-05-01/doom-gpu-flame-graphs.html)
 
-- [Technical Debt as Theory Building and Practice](https://www.usenix.org/conference/srecon25americas/presentation/lam)
-
-- [Silent Bugs Matter: A Study of Compiler-Introduced Security Bugs](https://www.usenix.org/conference/usenixsecurity23/presentation/xu-jianhao)
+- [AirBorne: Wormable Zero-Click RCE in Apple AirPlay](https://www.oligo.security/blog/airborne)
