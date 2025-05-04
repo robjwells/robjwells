@@ -1,47 +1,47 @@
-- [A cheat sheet for why using ChatGPT is not bad for the environment](https://andymasley.substack.com/p/a-cheat-sheet-for-conversations-about)
+- [What went wrong with wireless USB](http://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html)
 
-- [Windows RDP lets you log-in using revoked passwords. Microsoft is ok with that](https://arstechnica.com/security/2025/04/windows-rdp-lets-you-log-in-using-revoked-passwords-microsoft-is-ok-with-that/)
+- [Dying for Beauty](https://alan.norbauer.com/articles/dying-for-beauty/)
 
-- [Problem with React Update Model](https://blog.bloomca.me/2025/04/20/problem-with-react-update-model.html)
+- [Stop treating `AGI' as the north-star goal of AI research](https://arxiv.org/abs/2502.03689)
 
-- [checking the wifi](https://flak.tedunangst.com/post/checking-the-wifi)
+- [Replacing Kubernetes with systemd (2024)](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)
 
-- [[vimrc] Bracket and quote matching and automatic shifting](https://gist.github.com/wa008/4da70e1970b590497bf057e4358a6248)
+- [Refactoring Rhythm](https://choly.ca/post/refactor-rhythm/)
 
-- [Linux in Excel](https://github.com/NSG650/LinuxInExcel)
+- [Progressive Dehancement](https://dbushell.com/2025/05/02/progressive-dehancement/)
 
-- [verb: Emacs org-mode alternative to postman](https://github.com/federicotdn/verb)
+- [Alpine.js Alternative](https://dev.to/hmpljs/best-alpinejs-alternative-2hme)
 
-- [Firefox Git Migration, the unofficial guide](https://glandium.org/blog/?p=4370)
+- [Contributions to ruby/spec by Ruby implementation](https://eregon.me/blog/2025/05/03/contributions-to-ruby-spec.html)
 
-- [I use Zip Bombs to Protect my Server](https://idiallo.com/blog/zipbomb-protection)
+- [Seeking an Answer: Why can’t HTML alone do includes?](https://frontendmasters.com/blog/seeking-an-answer-why-cant-html-alone-do-includes/)
 
-- [The Rise & Fall of Erlang at Ericsson AB (2023)](https://iknek.github.io/blog/the-erlang-story/)
+- [Gorgeous-GRUB: collection of decent community-made GRUB themes](https://github.com/Jacksaur/Gorgeous-GRUB)
 
-- [Jepsen: Amazon RDS for PostgreSQL 17.4](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4)
+- [understanding-j: An introduction to the J programming language that gets to the point](https://github.com/bugsbugsbux/understanding-j)
 
-- [Pwning the Ladybird browser](https://jessie.cafe/posts/pwning-ladybirds-libjs/)
+- [epub-utils: A Python CLI and utility library for manipulating EPUB files](https://github.com/ernestofgonzalez/epub-utils)
 
-- [Future of OSL in jeopardy](https://lists.osuosl.org/pipermail/hosting/2025-April/000639.html)
+- [Hello my perverted friend](https://hackerfactor.com/blog/index.php?/archives/1066-Hello-my-perverted-friend.html)
 
-- [Against Horizontal Scroll](https://matklad.github.io/2025/04/22/horizontal-scroll.html)
+- [How We Fell Out of Love with Next.js and Back in Love with Ruby on Rails & Inertia.js](https://hardcover.app/blog/part-1-how-we-fell-out-of-love-with-next-js-and-back-in-love-with-ruby-on-rails-inertia-js)
 
-- [Co-dfns versus BQN's implementation](https://mlochbaum.github.io/BQN/implementation/codfns.html)
+- [Java Strings Just Got Faster](https://inside.java/2025/05/01/strings-just-got-faster/)
 
-- [Simplest backpropagation explainer without chain rule](https://poonai.xyz/posts/simplest-backpropagation-explainer-without-chain-rule/)
+- [Wide Models and Active Record custom validation contexts](https://island94.org/2025/04/wide-models-and-active-record-custom-validation-contexts)
 
-- [Pyrefly: A faster Python type checker written in Rust](https://pyrefly.org/)
+- [Starting on seamless C++ interop in jank](https://jank-lang.org/blog/2025-05-02-starting-seamless-interop/)
 
-- [Understanding the recent criticism of the Chatbot Arena](https://simonwillison.net/2025/Apr/30/criticism-of-the-chatbot-arena/)
+- [Rye principles](https://ryelang.org/#rye-principles)
 
-- [Swarm Testing Data Structures](https://tigerbeetle.com/blog/2025-04-23-swarm-testing-data-structures/)
+- [A Full-Network ATProto Relay for $34 a Month](https://whtwnd.com/bnewbold.net/3lo7a2a4qxg2l)
 
-- [Elixir is not owned by Big Tech](https://underjord.io/elixir-is-not-owned-by-big-tech.html)
+- [Don't make Google sell Chrome](https://world.hey.com/dhh/don-t-make-google-sell-chrome-93cefbc6)
 
-- [Giving V8 a Heads-Up: Faster JavaScript Startup with Explicit Compile Hints](https://v8.dev/blog/explicit-compile-hints)
+- [Post-Quantum Cryptography on NetBSD](https://www.netmeister.org/blog/netbsd-pqc.html)
 
-- [Polishing your typography with line height units](https://webkit.org/blog/16831/line-height-units/)
+- [A Better Man Page Viewer](https://www.visualmode.dev/a-better-man-page-viewer)
 
-- [Doom GPU Flame Graphs](https://www.brendangregg.com/blog/2025-05-01/doom-gpu-flame-graphs.html)
+- [jj tips and tricks](https://zerowidth.com/2025/jj-tips-and-tricks/)
 
-- [AirBorne: Wormable Zero-Click RCE in Apple AirPlay](https://www.oligo.security/blog/airborne)
+- [What I’ve learned from jj](https://zerowidth.com/2025/what-ive-learned-from-jj/)
