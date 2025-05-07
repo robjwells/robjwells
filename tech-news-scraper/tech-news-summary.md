@@ -1,47 +1,49 @@
-- [What went wrong with wireless USB](http://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html)
+- [The Bitter Lesson (2019)](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 
-- [Dying for Beauty](https://alan.norbauer.com/articles/dying-for-beauty/)
+- [An appeal to Apple from Anukari regarding GPU frequency scaling](https://anukari.com/blog/devlog/an-appeal-to-apple)
 
-- [Stop treating `AGI' as the north-star goal of AI research](https://arxiv.org/abs/2502.03689)
+- [Implementing a Struct of Arrays](https://brevzin.github.io/c++/2025/05/02/soa/)
 
-- [Replacing Kubernetes with systemd (2024)](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)
+- [An Interactive Debugger for Rust Trait Errors](https://cel.cs.brown.edu/blog/an-interactive-debugger-for-rust-trait-errors/)
 
-- [Refactoring Rhythm](https://choly.ca/post/refactor-rhythm/)
+- [Glossary Web Component](https://dbushell.com/2025/05/07/glossary-web-component/)
 
-- [Progressive Dehancement](https://dbushell.com/2025/05/02/progressive-dehancement/)
+- [Lazarus release 4.0](https://forum.lazarus.freepascal.org/index.php?topic=71050.0)
 
-- [Alpine.js Alternative](https://dev.to/hmpljs/best-alpinejs-alternative-2hme)
+- [GenAI-accelerated TLA+ challenge](https://foundation.tlapl.us/challenge/index.html)
 
-- [Contributions to ruby/spec by Ruby implementation](https://eregon.me/blog/2025/05/03/contributions-to-ruby-spec.html)
+- [nnd: A TUI alternative to gdb](https://github.com/al13n321/nnd)
 
-- [Seeking an Answer: Why can’t HTML alone do includes?](https://frontendmasters.com/blog/seeking-an-answer-why-cant-html-alone-do-includes/)
+- [Framebuffer user interface](https://github.com/martinfama/fui)
 
-- [Gorgeous-GRUB: collection of decent community-made GRUB themes](https://github.com/Jacksaur/Gorgeous-GRUB)
+- [bash/POSIX-compatible shell implemented in Rust](https://github.com/reubeno/brush)
 
-- [understanding-j: An introduction to the J programming language that gets to the point](https://github.com/bugsbugsbux/understanding-j)
+- [Performance Improvements in JDK 24](https://inside.java/2025/03/19/performance-improvements-in-jdk24/)
 
-- [epub-utils: A Python CLI and utility library for manipulating EPUB files](https://github.com/ernestofgonzalez/epub-utils)
+- [Rust in QEMU update](https://lore.kernel.org/qemu-devel/d3d1944e-2482-4aa7-b621-596246a08107@gnu.org/T/#u)
 
-- [Hello my perverted friend](https://hackerfactor.com/blog/index.php?/archives/1066-Hello-my-perverted-friend.html)
+- [The Curse of Knowing How, or; Fixing Everything](https://notashelf.dev/posts/curse-of-knowing)
 
-- [How We Fell Out of Love with Next.js and Back in Love with Ruby on Rails & Inertia.js](https://hardcover.app/blog/part-1-how-we-fell-out-of-love-with-next-js-and-back-in-love-with-ruby-on-rails-inertia-js)
+- [Interviewing Software Developers: From Junior to Architect in a Single Programming Task](https://old.reddit.com/r/aethernet/comments/1kfwyln/interviewing_software_developers_from_junior_to/)
 
-- [Java Strings Just Got Faster](https://inside.java/2025/05/01/strings-just-got-faster/)
+- [Reverse-engineering Fujitsu M7MU RELC hardware compression](https://op-co.de/blog/posts/fujitsu_relc_compression/)
 
-- [Wide Models and Active Record custom validation contexts](https://island94.org/2025/04/wide-models-and-active-record-custom-validation-contexts)
+- [How to build a fleet of networked offsite backups using Linux, WireGuard and rsync](https://ounapuu.ee/posts/2024/12/11/wireguard-backup-fleet/)
 
-- [Starting on seamless C++ interop in jank](https://jank-lang.org/blog/2025-05-02-starting-seamless-interop/)
+- [Towards React Server Components in Clojure, Part 1](https://romanliutikov.com/blog/towards-react-server-components-in-clojure-part-1)
 
-- [Rye principles](https://ryelang.org/#rye-principles)
+- [Wikimedia Cloud VPS: IPv6 support](https://techblog.wikimedia.org/2025/05/06/wikimedia-cloud-vps-ipv6-support/)
 
-- [A Full-Network ATProto Relay for $34 a Month](https://whtwnd.com/bnewbold.net/3lo7a2a4qxg2l)
+- [Memory-safe sudo to become the default in Ubuntu](https://trifectatech.org/blog/memory-safe-sudo-to-become-the-default-in-ubuntu/)
 
-- [Don't make Google sell Chrome](https://world.hey.com/dhh/don-t-make-google-sell-chrome-93cefbc6)
+- [What is my fuzzer doing?](https://tweedegolf.nl/en/blog/154/what-is-my-fuzzer-doing)
 
-- [Post-Quantum Cryptography on NetBSD](https://www.netmeister.org/blog/netbsd-pqc.html)
+- [Podfox: World's First Container-Aware Browser](https://val.packett.cool/blog/podfox/)
 
-- [A Better Man Page Viewer](https://www.visualmode.dev/a-better-man-page-viewer)
+- [OCaml cross-compilation: an experiment](https://www.chrisarmstrong.dev/posts/ocaml-cross-compilation-an-experiment)
 
-- [jj tips and tricks](https://zerowidth.com/2025/jj-tips-and-tricks/)
+- [The state of SSL stacks](https://www.haproxy.com/blog/state-of-ssl-stacks)
 
-- [What I’ve learned from jj](https://zerowidth.com/2025/what-ive-learned-from-jj/)
+- [curl now requires disclosing whether AI was used on bug reports](https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1)
+
+- ["Vibe Coding" by Emergent Garden](https://www.youtube.com/watch?v=1OxBv9Q7Uxo)
