@@ -1,49 +1,47 @@
-- [The Bitter Lesson (2019)](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+- [eBPF mystery: When is IPv4 not IPv4? When it's pretending to be IPv6](https://blog.gripdev.xyz/2025/05/06/ebpf-mystery-when-is-ipv4-not-ipv4-when-its-ipv6/)
 
-- [An appeal to Apple from Anukari regarding GPU frequency scaling](https://anukari.com/blog/devlog/an-appeal-to-apple)
+- [Write the most clever code you possibly can](https://buttondown.com/hillelwayne/archive/write-the-most-clever-code-you-possibly-can/)
 
-- [Implementing a Struct of Arrays](https://brevzin.github.io/c++/2025/05/02/soa/)
+- [Can It Run Doom? An Archive of All Known Ports](https://canitrundoom.org/)
 
-- [An Interactive Debugger for Rust Trait Errors](https://cel.cs.brown.edu/blog/an-interactive-debugger-for-rust-trait-errors/)
+- [Ada in China (1994)](https://dl.acm.org/doi/pdf/10.1145/181476.181483)
 
-- [Glossary Web Component](https://dbushell.com/2025/05/07/glossary-web-component/)
+- [branchless development](https://flak.tedunangst.com/post/branchless-development)
 
-- [Lazarus release 4.0](https://forum.lazarus.freepascal.org/index.php?topic=71050.0)
+- [Breaking the Sound Barrier Part I: Fuzzing CoreAudio with Mach Messages](https://googleprojectzero.blogspot.com/2025/05/breaking-sound-barrier-part-i-fuzzing.html)
 
-- [GenAI-accelerated TLA+ challenge](https://foundation.tlapl.us/challenge/index.html)
+- [Algebraic Effects: Another mistake carried through to perfection?](https://kjosib.github.io/Counterpoint/effects.html)
 
-- [nnd: A TUI alternative to gdb](https://github.com/al13n321/nnd)
+- [16-bit Intel 8088 Chip by Charles Bukowski](https://kottke.org/25/05/16-bit-intel-8088-chip-by-charles-bukowski)
 
-- [Framebuffer user interface](https://github.com/martinfama/fui)
+- [Rusty Nu POSIX](https://mort.io/blog/nu-posix/)
 
-- [bash/POSIX-compatible shell implemented in Rust](https://github.com/reubeno/brush)
+- [Microservices Are a Tax Your Startup Probably Can’t Afford](https://nexo.sh/posts/microservices-for-startups/)
 
-- [Performance Improvements in JDK 24](https://inside.java/2025/03/19/performance-improvements-in-jdk24/)
+- [Static as a Server](https://overreacted.io/static-as-a-server/)
 
-- [Rust in QEMU update](https://lore.kernel.org/qemu-devel/d3d1944e-2482-4aa7-b621-596246a08107@gnu.org/T/#u)
+- [Stability by Design](https://potetm.com/devtalk/stability-by-design.html)
 
-- [The Curse of Knowing How, or; Fixing Everything](https://notashelf.dev/posts/curse-of-knowing)
+- [Reservoir Sampling](https://samwho.dev/reservoir-sampling/)
 
-- [Interviewing Software Developers: From Junior to Architect in a Single Programming Task](https://old.reddit.com/r/aethernet/comments/1kfwyln/interviewing_software_developers_from_junior_to/)
+- [Web Browser telemetry](https://sizeof.cat/post/web-browser-telemetry-2025-edition/)
 
-- [Reverse-engineering Fujitsu M7MU RELC hardware compression](https://op-co.de/blog/posts/fujitsu_relc_compression/)
+- [Announcing Spritely Oaken](https://spritely.institute/news/announcing-spritely-oaken.html)
 
-- [How to build a fleet of networked offsite backups using Linux, WireGuard and rsync](https://ounapuu.ee/posts/2024/12/11/wireguard-backup-fleet/)
+- [Composition: the feature I've wanted in Flox since I joined the company](https://tinkering.xyz/flox-composition/)
 
-- [Towards React Server Components in Clojure, Part 1](https://romanliutikov.com/blog/towards-react-server-components-in-clojure-part-1)
+- [Rust Dependencies scare Me](https://vincents.dev/blog/rust-dependencies-scare-me/?)
 
-- [Wikimedia Cloud VPS: IPv6 support](https://techblog.wikimedia.org/2025/05/06/wikimedia-cloud-vps-ipv6-support/)
+- [Wasm 2.0 Completed](https://webassembly.org/news/2025-03-20-wasm-2.0/)
 
-- [Memory-safe sudo to become the default in Ubuntu](https://trifectatech.org/blog/memory-safe-sudo-to-become-the-default-in-ubuntu/)
+- [Wikipedia legally challenges 'flawed' online safety rules](https://www.bbc.co.uk/news/articles/c62j2gr8866o)
 
-- [What is my fuzzer doing?](https://tweedegolf.nl/en/blog/154/what-is-my-fuzzer-doing)
+- [2.5D rendering on PlayDate](https://www.ligeiagames.com/ligeia-blog/castle-kellmore-rendering)
 
-- [Podfox: World's First Container-Aware Browser](https://val.packett.cool/blog/podfox/)
+- [Spatial Data-Management (1979)](https://www.media.mit.edu/speech/papers/1979/bolt_1979_spatial_data-management.pdf)
 
-- [OCaml cross-compilation: an experiment](https://www.chrisarmstrong.dev/posts/ocaml-cross-compilation-an-experiment)
+- [A Formal Analysis of Apple’s iMessage PQ3 Protocol](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-595-linker.pdf)
 
-- [The state of SSL stacks](https://www.haproxy.com/blog/state-of-ssl-stacks)
+- [Joys and sorrows of designing a language](https://www.youtube.com/watch?v=Zx5DcBt61bQ)
 
-- [curl now requires disclosing whether AI was used on bug reports](https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1)
-
-- ["Vibe Coding" by Emergent Garden](https://www.youtube.com/watch?v=1OxBv9Q7Uxo)
+- [So we finished decompiling LEGO Island](https://youtube.com/watch?v=gthm-0Av93Q&pp=ygUjd2UgZmluaXNoZWQgZGVjb21waWxpbmcgbGVnbyBpc2xhbmQ%3D)
