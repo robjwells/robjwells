@@ -1,47 +1,47 @@
-- [eBPF mystery: When is IPv4 not IPv4? When it's pretending to be IPv6](https://blog.gripdev.xyz/2025/05/06/ebpf-mystery-when-is-ipv4-not-ipv4-when-its-ipv6/)
+- [Modular verification of MongoDB Transactions using TLA+](http://muratbuffalo.blogspot.com/2025/05/modular-verification-of-mongodb.html)
 
-- [Write the most clever code you possibly can](https://buttondown.com/hillelwayne/archive/write-the-most-clever-code-you-possibly-can/)
+- [Why Bell Labs Worked](https://1517.substack.com/p/why-bell-labs-worked)
 
-- [Can It Run Doom? An Archive of All Known Ports](https://canitrundoom.org/)
+- [Avoid #each_with_object (generally)](https://clayshentrup.medium.com/avoid-each-with-object-generally-89e3b2800b38)
 
-- [Ada in China (1994)](https://dl.acm.org/doi/pdf/10.1145/181476.181483)
+- [Flattening Rust's Learning Curve](https://corrode.dev/blog/flattening-rusts-learning-curve/)
 
-- [branchless development](https://flak.tedunangst.com/post/branchless-development)
+- [Why do Saturation and Luminance go all the way to 240, but Hue goes only to 239? And why 239 anyway?](https://devblogs.microsoft.com/oldnewthing/20151013-00/?p=91371)
 
-- [Breaking the Sound Barrier Part I: Fuzzing CoreAudio with Mach Messages](https://googleprojectzero.blogspot.com/2025/05/breaking-sound-barrier-part-i-fuzzing.html)
+- [The Audio Stack Is a Crime Scene](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-2-the-audio-stack-is-a-crime-scene/)
 
-- [Algebraic Effects: Another mistake carried through to perfection?](https://kjosib.github.io/Counterpoint/effects.html)
+- [Windows Todo application built with pure C and the Win32 API](https://github.com/Efeckc17/simple-todo-c)
 
-- [16-bit Intel 8088 Chip by Charles Bukowski](https://kottke.org/25/05/16-bit-intel-8088-chip-by-charles-bukowski)
+- [Buckaroo - a Table UI to expedite data analysis for notebook environments](https://github.com/paddymul/buckaroo)
 
-- [Rusty Nu POSIX](https://mort.io/blog/nu-posix/)
+- [A modern microframework for web development in C](https://github.com/savashn/ecewo)
 
-- [Microservices Are a Tax Your Startup Probably Can’t Afford](https://nexo.sh/posts/microservices-for-startups/)
+- [Why Vibe When you Can Fly! Machtiani is now Open Source](https://github.com/tursomari/machtiani)
 
-- [Static as a Server](https://overreacted.io/static-as-a-server/)
+- [Spall: a code profiler that runs in your browser](https://gravitymoth.com/spall/spall-web.html)
 
-- [Stability by Design](https://potetm.com/devtalk/stability-by-design.html)
+- [Migrating to Codeberg](https://guix.gnu.org/blog/2025/migrating-to-codeberg/)
 
-- [Reservoir Sampling](https://samwho.dev/reservoir-sampling/)
+- [The last of YaST?](https://lwn.net/SubscriberLink/1020408/8c022fd8256693d5/)
 
-- [Web Browser telemetry](https://sizeof.cat/post/web-browser-telemetry-2025-edition/)
+- [Impressions on the new 13 inch Framework laptop](https://marius.federated.id/posts/2025/may/framework)
 
-- [Announcing Spritely Oaken](https://spritely.institute/news/announcing-spritely-oaken.html)
+- [curl's CI job for spotting domain squatting](https://mastodon.social/@bagder/114493950931893559)
 
-- [Composition: the feature I've wanted in Flox since I joined the company](https://tinkering.xyz/flox-composition/)
+- [Patela: A basement full of amnesic servers](https://osservatorionessuno.org/blog/2025/05/patela-a-basement-full-of-amnesic-servers/)
 
-- [Rust Dependencies scare Me](https://vincents.dev/blog/rust-dependencies-scare-me/?)
+- [Plain Vanilla Web](https://plainvanillaweb.com/index.html)
 
-- [Wasm 2.0 Completed](https://webassembly.org/news/2025-03-20-wasm-2.0/)
+- [Hyper-Typing](https://pscanf.com/s/341/)
 
-- [Wikipedia legally challenges 'flawed' online safety rules](https://www.bbc.co.uk/news/articles/c62j2gr8866o)
+- [Multiple Security Issues in Screen](https://security.opensuse.org/2025/05/12/screen-security-issues.html)
 
-- [2.5D rendering on PlayDate](https://www.ligeiagames.com/ligeia-blog/castle-kellmore-rendering)
+- [Two months in Servo: CSS nesting, Shadow DOM, Clipboard API, and more](https://servo.org/blog/2025/05/09/this-month-in-servo/)
 
-- [Spatial Data-Management (1979)](https://www.media.mit.edu/speech/papers/1979/bolt_1979_spatial_data-management.pdf)
+- [Can You Really Trust That Permission Pop-Up On macOS? (CVE-2025-31250)](https://wts.dev/posts/tcc-who/)
 
-- [A Formal Analysis of Apple’s iMessage PQ3 Protocol](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-595-linker.pdf)
+- [Stop Saying "Responsible Disclosure"](https://www.da.vidbuchanan.co.uk/blog/responsible-disclosure.html)
 
-- [Joys and sorrows of designing a language](https://www.youtube.com/watch?v=Zx5DcBt61bQ)
+- [China Just Made the World's Fastest Transistor and It Is Not Made of Silicon](https://www.zmescience.com/science/news-science/china-just-made-the-worlds-fastest-transistor-and-it-is-not-made-of-silicon/)
 
-- [So we finished decompiling LEGO Island](https://youtube.com/watch?v=gthm-0Av93Q&pp=ygUjd2UgZmluaXNoZWQgZGVjb21waWxpbmcgbGVnbyBpc2xhbmQ%3D)
+- [YS — YAML Done Wisely](https://yamlscript.org/)
