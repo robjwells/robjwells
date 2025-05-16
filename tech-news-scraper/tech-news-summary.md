@@ -1,47 +1,49 @@
-- [Modular verification of MongoDB Transactions using TLA+](http://muratbuffalo.blogspot.com/2025/05/modular-verification-of-mongodb.html)
+- [The current state of TLA⁺ development](https://ahelwer.ca/post/2025-05-15-tla-dev-status/)
 
-- [Why Bell Labs Worked](https://1517.substack.com/p/why-bell-labs-worked)
+- [Asahi Linux Progress Report: Linux 6.15](https://asahilinux.org/2025/05/progress-report-6-15/)
 
-- [Avoid #each_with_object (generally)](https://clayshentrup.medium.com/avoid-each-with-object-generally-89e3b2800b38)
+- [Rethinking Modern Asynchronous Paradigms](https://blog.dogac.dev/modern-asynchronous-paradigms/)
 
-- [Flattening Rust's Learning Curve](https://corrode.dev/blog/flattening-rusts-learning-curve/)
+- [Stack overflow is almost dead](https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/)
 
-- [Why do Saturation and Luminance go all the way to 240, but Hue goes only to 239? And why 239 anyway?](https://devblogs.microsoft.com/oldnewthing/20151013-00/?p=91371)
+- [Announcing Rust 1.87.0 and ten years of Rust](https://blog.rust-lang.org/2025/05/15/Rust-1.87.0/)
 
-- [The Audio Stack Is a Crime Scene](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-2-the-audio-stack-is-a-crime-scene/)
+- [SMS 2FA is not just insecure, it's also hostile to mountain people](https://blog.stillgreenmoss.net/sms-2fa-is-not-just-insecure-its-also-hostile-to-mountain-people)
 
-- [Windows Todo application built with pure C and the Win32 API](https://github.com/Efeckc17/simple-todo-c)
+- [Initialization in C++ is bonkers (2017)](https://blog.tartanllama.xyz/initialization-is-bonkers/)
 
-- [Buckaroo - a Table UI to expedite data analysis for notebook environments](https://github.com/paddymul/buckaroo)
+- [Introducing oniux: Kernel-level Tor isolation for any Linux app](https://blog.torproject.org/introducing-oniux-tor-isolation-using-linux-namespaces/)
 
-- [A modern microframework for web development in C](https://github.com/savashn/ecewo)
+- [Lua for Elixir](https://davelucia.com/blog/lua-elixir)
 
-- [Why Vibe When you Can Fly! Machtiani is now Open Source](https://github.com/tursomari/machtiani)
+- [Introducing lazy trees in Determinate Nix 3.5](https://determinate.systems/posts/changelog-determinate-nix-352/)
 
-- [Spall: a code profiler that runs in your browser](https://gravitymoth.com/spall/spall-web.html)
+- [I don’t like NumPy](https://dynomight.net/numpy/)
 
-- [Migrating to Codeberg](https://guix.gnu.org/blog/2025/migrating-to-codeberg/)
+- [Falcon-Edge: A series of powerful, universal, fine-tunable 1.58bit language models](https://falcon-lm.github.io/blog/falcon-edge/)
 
-- [The last of YaST?](https://lwn.net/SubscriberLink/1020408/8c022fd8256693d5/)
+- [sunbeam: command-line launcher](https://github.com/pomdtr/sunbeam)
 
-- [Impressions on the new 13 inch Framework laptop](https://marius.federated.id/posts/2025/may/framework)
+- [A leap year check in three instructions](https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html)
 
-- [curl's CI job for spotting domain squatting](https://mastodon.social/@bagder/114493950931893559)
+- [Why I wrote the fx web server](https://huijzer.xyz/posts/74)
 
-- [Patela: A basement full of amnesic servers](https://osservatorionessuno.org/blog/2025/05/patela-a-basement-full-of-amnesic-servers/)
+- [Scalar Select Anti-Pattern](https://matklad.github.io/2025/05/14/scalar-select-aniti-pattern.html)
 
-- [Plain Vanilla Web](https://plainvanillaweb.com/index.html)
+- [My 2025 high-end Linux PC](https://michael.stapelberg.ch/posts/2025-05-15-my-2025-high-end-linux-pc/)
 
-- [Hyper-Typing](https://pscanf.com/s/341/)
+- [If AI is so good at coding … where are the open source contributions?](https://pivot-to-ai.com/2025/05/13/if-ai-is-so-good-at-coding-where-are-the-open-source-contributions/)
 
-- [Multiple Security Issues in Screen](https://security.opensuse.org/2025/05/12/screen-security-issues.html)
+- [10 Years of Stable Rust: An Infrastructure Story](https://rustfoundation.org/media/10-years-of-stable-rust-an-infrastructure-story/)
 
-- [Two months in Servo: CSS nesting, Shadow DOM, Clipboard API, and more](https://servo.org/blog/2025/05/09/this-month-in-servo/)
+- [Rust 1.0, ten years later](https://steveklabnik.com/writing/rust-ten-years-later/)
 
-- [Can You Really Trust That Permission Pop-Up On macOS? (CVE-2025-31250)](https://wts.dev/posts/tcc-who/)
+- [Please Please Please](https://we.phorge.it/book/flavor/article/please_please_please/)
 
-- [Stop Saying "Responsible Disclosure"](https://www.da.vidbuchanan.co.uk/blog/responsible-disclosure.html)
+- [Stop using REST for state synchronization](https://www.mbid.me/posts/stop-using-rest-for-state-synchronization/)
 
-- [China Just Made the World's Fastest Transistor and It Is Not Made of Silicon](https://www.zmescience.com/science/news-science/china-just-made-the-worlds-fastest-transistor-and-it-is-not-made-of-silicon/)
+- [Declaring a friendship to self](https://www.sandordargo.com/blog/2025/05/14/friend-self)
 
-- [YS — YAML Done Wisely](https://yamlscript.org/)
+- [There's More To That Nugget of Wisdom (2023)](https://www.stackstaves.net/post/2023-12-07-theres-more-to-that/)
+
+- [Computational Public Space](https://www.youtube.com/watch?v=PixPSNRDNMU)
