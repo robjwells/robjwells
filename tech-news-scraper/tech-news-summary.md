@@ -1,49 +1,49 @@
-- [The current state of TLA⁺ development](https://ahelwer.ca/post/2025-05-15-tla-dev-status/)
+- [Ditching Obsidian and building my own](https://amberwilliams.io/blogs/building-my-own-pkms)
 
-- [Asahi Linux Progress Report: Linux 6.15](https://asahilinux.org/2025/05/progress-report-6-15/)
+- [Postman is logging all your secrets and environment variables](https://anonymousdata.medium.com/postman-is-logging-all-your-secrets-and-environment-variables-9c316e92d424)
 
-- [Rethinking Modern Asynchronous Paradigms](https://blog.dogac.dev/modern-asynchronous-paradigms/)
+- [Japan's IC cards are weird and wonderful](https://aruarian.dance/blog/japan-ic-cards/)
 
-- [Stack overflow is almost dead](https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/)
+- [Adding Mastodon Comments to your Blog](https://beej.us/blog/data/mastodon-comments/)
 
-- [Announcing Rust 1.87.0 and ten years of Rust](https://blog.rust-lang.org/2025/05/15/Rust-1.87.0/)
+- [Firefox Security Response to pwn2own 2025](https://blog.mozilla.org/security/2025/05/17/firefox-security-response-to-pwn2own-2025/)
 
-- [SMS 2FA is not just insecure, it's also hostile to mountain people](https://blog.stillgreenmoss.net/sms-2fa-is-not-just-insecure-its-also-hostile-to-mountain-people)
+- [Developing Karton, the KDE Virtual Machine Manager](https://blogs.kde.org/2025/05/18/gsoc-2025-project-intro-developing-karton-the-kde-virtual-machine-manager/)
 
-- [Initialization in C++ is bonkers (2017)](https://blog.tartanllama.xyz/initialization-is-bonkers/)
+- [A Beginner's Guide to SourceHut](https://btxx.org/posts/beginners-guide-sourcehut/)
 
-- [Introducing oniux: Kernel-level Tor isolation for any Linux app](https://blog.torproject.org/introducing-oniux-tor-isolation-using-linux-namespaces/)
+- [The X220 ThinkPad is the Best Laptop in the World (2023)](https://btxx.org/posts/x220/)
 
-- [Lua for Elixir](https://davelucia.com/blog/lua-elixir)
+- [CHERIoT: The last ten years](https://cheriot.org/cheri/history/2025/05/16/last-ten-years.html)
 
-- [Introducing lazy trees in Determinate Nix 3.5](https://determinate.systems/posts/changelog-determinate-nix-352/)
+- [Agent Recursion](https://choly.ca/post/agent-recursion/)
 
-- [I don’t like NumPy](https://dynomight.net/numpy/)
+- [Building my childhood dream PC](https://fabiensanglard.net/2168/index.html)
 
-- [Falcon-Edge: A series of powerful, universal, fine-tunable 1.58bit language models](https://falcon-lm.github.io/blog/falcon-edge/)
+- ["Safe" YAML monster](https://gist.github.com/taramtrampam/fca4e599992909b48a3ba1ce69e215a2)
 
-- [sunbeam: command-line launcher](https://github.com/pomdtr/sunbeam)
+- [Another HTML/CSS engine](https://github.com/skift-org/vaev)
 
-- [A leap year check in three instructions](https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html)
+- [macOS VMs in a Docker Container](https://github.com/trycua/cua/tree/main/libs/lumier)
 
-- [Why I wrote the fx web server](https://huijzer.xyz/posts/74)
+- [Push Ifs Up And Fors Down (2023)](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 
-- [Scalar Select Anti-Pattern](https://matklad.github.io/2025/05/14/scalar-select-aniti-pattern.html)
+- [async/await versus the Calloop Model](https://notgull.net/calloop/)
 
-- [My 2025 high-end Linux PC](https://michael.stapelberg.ch/posts/2025-05-15-my-2025-high-end-linux-pc/)
+- [Mimalloc Cigarette: Losing one week of my life catching a memory leak](https://pwy.io/posts/mimalloc-cigarette/)
 
-- [If AI is so good at coding … where are the open source contributions?](https://pivot-to-ai.com/2025/05/13/if-ai-is-so-good-at-coding-where-are-the-open-source-contributions/)
+- [iOS Deep-Linking with Bevy in Rust](https://rustunit.com/blog/2025/05-18-bevy-ios-deep-linking/)
 
-- [10 Years of Stable Rust: An Infrastructure Story](https://rustfoundation.org/media/10-years-of-stable-rust-an-infrastructure-story/)
+- [An Asia Internet History: First Decade (1980-1990)](https://sites.google.com/site/internethistoryasia/book1)
 
-- [Rust 1.0, ten years later](https://steveklabnik.com/writing/rust-ten-years-later/)
+- [Rust turns 10](https://smallcultfollowing.com/babysteps/blog/2025/05/15/10-years-of-rust/)
 
-- [Please Please Please](https://we.phorge.it/book/flavor/article/please_please_please/)
+- [Mystical](https://suberic.net/~dmm/projects/mystical/README.html)
 
-- [Stop using REST for state synchronization](https://www.mbid.me/posts/stop-using-rest-for-state-synchronization/)
+- [TestDesiderata](https://testdesiderata.com/)
 
-- [Declaring a friendship to self](https://www.sandordargo.com/blog/2025/05/14/friend-self)
+- [Mapgen4 trade routes](https://www.redblobgames.com/blog/2025-05-08-mapgen4-trade-routes/)
 
-- [There's More To That Nugget of Wisdom (2023)](https://www.stackstaves.net/post/2023-12-07-theres-more-to-that/)
+- [The little editor that could](https://www.youtube.com/watch?v=GoyNMFccbow)
 
-- [Computational Public Space](https://www.youtube.com/watch?v=PixPSNRDNMU)
+- [LLM text chat is everywhere. Who’s optimizing its UX?](https://xenodium.com/llm-text-chat-is-everywhere-whos-optimizing-ux)
