@@ -1,49 +1,49 @@
-- [Ditching Obsidian and building my own](https://amberwilliams.io/blogs/building-my-own-pkms)
+- [apply.coop - Matching people with jobs that fit their values & passions](https://apply.coop)
 
-- [Postman is logging all your secrets and environment variables](https://anonymousdata.medium.com/postman-is-logging-all-your-secrets-and-environment-variables-9c316e92d424)
+- [Using Large Language Models for Commit Message Generation: A Preliminary Study](https://arxiv.org/abs/2401.05926)
 
-- [Japan's IC cards are weird and wonderful](https://aruarian.dance/blog/japan-ic-cards/)
+- [There Ain’t No Such Thing as a Free Custom Memory Allocator](https://arxiv.org/pdf/2206.11728)
 
-- [Adding Mastodon Comments to your Blog](https://beej.us/blog/data/mastodon-comments/)
+- [Introducing Roto: A Compiled Scripting Language for Rust](https://blog.nlnetlabs.nl/introducing-roto-a-compiled-scripting-language-for-rust/)
 
-- [Firefox Security Response to pwn2own 2025](https://blog.mozilla.org/security/2025/05/17/firefox-security-response-to-pwn2own-2025/)
+- [Reports of Deno's Demise Have Been Greatly Exaggerated](https://deno.com/blog/greatly-exaggerated)
 
-- [Developing Karton, the KDE Virtual Machine Manager](https://blogs.kde.org/2025/05/18/gsoc-2025-project-intro-developing-karton-the-kde-virtual-machine-manager/)
+- [Building a fast website with the MASH stack in Rust](https://emschwartz.me/building-a-fast-website-with-the-mash-stack-in-rust/)
 
-- [A Beginner's Guide to SourceHut](https://btxx.org/posts/beginners-guide-sourcehut/)
+- [An Open File Format for storing the information from a forge such as issues, pull/merge requests, milestones](https://f3.forgefriends.org/)
 
-- [The X220 ThinkPad is the Best Laptop in the World (2023)](https://btxx.org/posts/x220/)
+- [Litestream: Revamped](https://fly.io/blog/litestream-revamped/)
 
-- [CHERIoT: The last ten years](https://cheriot.org/cheri/history/2025/05/16/last-ten-years.html)
+- [kotlin-lsp: Kotlin Language Server and plugin for Visual Studio Code](https://github.com/Kotlin/kotlin-lsp)
 
-- [Agent Recursion](https://choly.ca/post/agent-recursion/)
+- [Introduction to Bases - Obsidian Help](https://help.obsidian.md/bases)
 
-- [Building my childhood dream PC](https://fabiensanglard.net/2168/index.html)
+- [My Technological Regrets](https://jezenthomas.com/2025/01/my-technological-regrets/)
 
-- ["Safe" YAML monster](https://gist.github.com/taramtrampam/fca4e599992909b48a3ba1ce69e215a2)
+- [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/)
 
-- [Another HTML/CSS engine](https://github.com/skift-org/vaev)
+- [Artiflakery, an easy way to distribute static Nix flake artifacts](https://luj.fr/blog/artiflakery-webserver-flake-artifacts.html)
 
-- [macOS VMs in a Docker Container](https://github.com/trycua/cua/tree/main/libs/lumier)
+- [Reading code is still the most effective method to debug multi-thread bug](https://nanxiao.me/en/reading-code-is-still-the-most-effective-method-to-debug-multi-thread-bug/)
 
-- [Push Ifs Up And Fors Down (2023)](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
+- [Introducing Converse 11: A Major Leap Forward for XMPP Webchat](https://opkode.com/blog/2025-05-21-converse-11/)
 
-- [async/await versus the Calloop Model](https://notgull.net/calloop/)
+- [Tales From Mainframe Modernization](https://oppi.li/posts/tales_from_mainframe_modernization/)
 
-- [Mimalloc Cigarette: Losing one week of my life catching a memory leak](https://pwy.io/posts/mimalloc-cigarette/)
+- [TypeID in Lua](https://push.cx/typeid-in-lua)
 
-- [iOS Deep-Linking with Bevy in Rust](https://rustunit.com/blog/2025/05-18-bevy-ios-deep-linking/)
+- [Functional hash tables explained](https://spritely.institute/news/functional-hash-tables-explained.html)
 
-- [An Asia Internet History: First Decade (1980-1990)](https://sites.google.com/site/internethistoryasia/book1)
+- [Vim vs. Kakoune puzzles](https://strongly-typed-thoughts.net/blog/vim-kakoune-puzzles-2025)
 
-- [Rust turns 10](https://smallcultfollowing.com/babysteps/blog/2025/05/15/10-years-of-rust/)
+- [Idiomatic errors in Clojure](https://www.daveliepmann.com/articles/idiomatic-clojure-errors.html)
 
-- [Mystical](https://suberic.net/~dmm/projects/mystical/README.html)
+- [ChatGPT Heard About Eagles Fans](https://www.dbreunig.com/2025/05/21/chatgpt-heard-about-eagles-fans.html)
 
-- [TestDesiderata](https://testdesiderata.com/)
+- [Erlang/OTP 28 Highlights](https://www.erlang.org/blog/highlights-otp-28/)
 
-- [Mapgen4 trade routes](https://www.redblobgames.com/blog/2025-05-08-mapgen4-trade-routes/)
+- [Erlang/OTP 28.0 Release](https://www.erlang.org/news/180)
 
-- [The little editor that could](https://www.youtube.com/watch?v=GoyNMFccbow)
+- [Gradients are the new intervals](https://www.mattkeeter.com/blog/2025-05-14-gradients/)
 
-- [LLM text chat is everywhere. Who’s optimizing its UX?](https://xenodium.com/llm-text-chat-is-everywhere-whos-optimizing-ux)
+- [We did the math on AI’s energy footprint. Here’s the story you haven’t heard](https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/)
