@@ -1,49 +1,49 @@
-- [apply.coop - Matching people with jobs that fit their values & passions](https://apply.coop)
+- [The hierarchical hypermedia world of Hyper-G](http://oldvcr.blogspot.com/2025/05/prior-art-dept-hierarchical-hypermedia.html)
 
-- [Using Large Language Models for Commit Message Generation: A Preliminary Study](https://arxiv.org/abs/2401.05926)
+- [Having your compile-time cake and eating it too](https://0x44.xyz/blog/comptime-1)
 
-- [There Ain’t No Such Thing as a Free Custom Memory Allocator](https://arxiv.org/pdf/2206.11728)
+- [Sandboxing AI Tools with Guix Containers](https://200ok.ch/posts/2025-05-23_sandboxing_ai_tools:_how_guix_containers_keep_your_host_safe_while_empowering_llms.html)
 
-- [Introducing Roto: A Compiled Scripting Language for Rust](https://blog.nlnetlabs.nl/introducing-roto-a-compiled-scripting-language-for-rust/)
+- [Concepts vs type traits](https://akrzemi1.wordpress.com/2025/05/24/concepts-vs-type-traits/)
 
-- [Reports of Deno's Demise Have Been Greatly Exaggerated](https://deno.com/blog/greatly-exaggerated)
+- [Why Algebraic Effects?](https://antelang.org/blog/why_effects/)
 
-- [Building a fast website with the MASH stack in Rust](https://emschwartz.me/building-a-fast-website-with-the-mash-stack-in-rust/)
+- [CAPTCHAs don't work any more for ticket sellers](https://behind.pretix.eu/2025/05/23/captchas-are-over/)
 
-- [An Open File Format for storing the information from a forge such as issues, pull/merge requests, milestones](https://f3.forgefriends.org/)
+- [tachy0n: The last 0day jailbreak](https://blog.siguza.net/tachy0n/)
 
-- [Litestream: Revamped](https://fly.io/blog/litestream-revamped/)
+- [goal - embeddable scripting array language](https://codeberg.org/anaseto/goal)
 
-- [kotlin-lsp: Kotlin Language Server and plugin for Visual Studio Code](https://github.com/Kotlin/kotlin-lsp)
+- [Reinvent the Wheel](https://endler.dev/2025/reinvent-the-wheel/)
 
-- [Introduction to Bases - Obsidian Help](https://help.obsidian.md/bases)
+- [Making Postgres distributed with FoundationDB](https://fabianlindfors.se/blog/making-postgres-distributed/)
 
-- [My Technological Regrets](https://jezenthomas.com/2025/01/my-technological-regrets/)
+- [Petnames: A humane approach to secure, decentralized naming](https://files.spritely.institute/papers/petnames.html)
 
-- [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/)
+- [gail: An AI-powered GitHub Issue Labeler](https://github.com/atgreen/gail)
 
-- [Artiflakery, an easy way to distribute static Nix flake artifacts](https://luj.fr/blog/artiflakery-webserver-flake-artifacts.html)
+- [There is no Diffie-Hellman but Elliptic Curve Diffie-Hellman](https://keymaterial.net/2025/05/23/there-is-no-diffie-hellman-but-elliptic-curve-diffie-hellman/)
 
-- [Reading code is still the most effective method to debug multi-thread bug](https://nanxiao.me/en/reading-code-is-still-the-most-effective-method-to-debug-multi-thread-bug/)
+- [Domain Theory Lecture Notes](https://liamoc.net/forest/dt-001Y/index.xml)
 
-- [Introducing Converse 11: A Major Leap Forward for XMPP Webchat](https://opkode.com/blog/2025-05-21-converse-11/)
+- [The future of Flatpak](https://lwn.net/Articles/1020571/)
 
-- [Tales From Mainframe Modernization](https://oppi.li/posts/tales_from_mainframe_modernization/)
+- [Pain in the dots](https://matthew-brett.github.io/pydagogue/pain_in_dots.html)
 
-- [TypeID in Lua](https://push.cx/typeid-in-lua)
+- [NixOS 25.05 released](https://nixos.org/blog/announcements/2025/nixos-2505/)
 
-- [Functional hash tables explained](https://spritely.institute/news/functional-hash-tables-explained.html)
+- [The GCC compiler backend can now fully bootstrap the Rust compiler](https://old.reddit.com/r/rust/comments/1ktph3c/media_the_gcc_compiler_backend_can_now_fully)
 
-- [Vim vs. Kakoune puzzles](https://strongly-typed-thoughts.net/blog/vim-kakoune-puzzles-2025)
+- [Configuring Jujutsu](https://oppi.li/posts/configuring_jujutsu/)
 
-- [Idiomatic errors in Clojure](https://www.daveliepmann.com/articles/idiomatic-clojure-errors.html)
+- [rqlite turns 10: Observations from a decade building Distributed Systems](https://philipotoole.com/rqlite-turns-10-lessons-from-a-decade-of-building-distributed-systems/)
 
-- [ChatGPT Heard About Eagles Fans](https://www.dbreunig.com/2025/05/21/chatgpt-heard-about-eagles-fans.html)
+- [Why I no longer have an old-school cert on my https site](https://rachelbythebay.com/w/2025/05/22/ssl/)
 
-- [Erlang/OTP 28 Highlights](https://www.erlang.org/blog/highlights-otp-28/)
+- [How I used o3 to find CVE-2025-37899, a remote zeroday vulnerability in the Linux kernel’s SMB implementation](https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/)
 
-- [Erlang/OTP 28.0 Release](https://www.erlang.org/news/180)
+- [Building interactive web pages with Guile Hoot](https://spritely.institute/news/building-interactive-web-pages-with-guile-hoot.html)
 
-- [Gradients are the new intervals](https://www.mattkeeter.com/blog/2025-05-14-gradients/)
+- [Remote Prompt Injection in GitLab Duo Leads to Source Code Theft](https://www.legitsecurity.com/blog/remote-prompt-injection-in-gitlab-duo)
 
-- [We did the math on AI’s energy footprint. Here’s the story you haven’t heard](https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/)
+- [Fedora 43 Cleared To Ship With Wayland-Only GNOME](https://www.phoronix.com/news/Fedora-43-Wayland-Only-GNOME)
