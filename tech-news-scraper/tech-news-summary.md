@@ -1,49 +1,49 @@
-- [The hierarchical hypermedia world of Hyper-G](http://oldvcr.blogspot.com/2025/05/prior-art-dept-hierarchical-hypermedia.html)
+- [BGP handling bug causes widespread internet routing instability](https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident)
 
-- [Having your compile-time cake and eating it too](https://0x44.xyz/blog/comptime-1)
+- [Pyrefly vs. ty: Comparing Python’s Two New Rust-Based Type Checkers](https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/)
 
-- [Sandboxing AI Tools with Guix Containers](https://200ok.ch/posts/2025-05-23_sandboxing_ai_tools:_how_guix_containers_keep_your_host_safe_while_empowering_llms.html)
+- [MCP explained without hype or fluff](https://blog.nilenso.com/blog/2025/05/12/mcp-explained-without-hype-or-fluff/)
 
-- [Concepts vs type traits](https://akrzemi1.wordpress.com/2025/05/24/concepts-vs-type-traits/)
+- [You Can Choose Tools That Make You Happy](https://borretti.me/article/you-can-choose-tools-that-make-you-happy)
 
-- [Why Algebraic Effects?](https://antelang.org/blog/why_effects/)
+- [Add Virtual Threads to Python](https://discuss.python.org/t/add-virtual-threads-to-python/91403)
 
-- [CAPTCHAs don't work any more for ticket sellers](https://behind.pretix.eu/2025/05/23/captchas-are-over/)
+- [List of "tech for good" job boards](https://evanhahn.com/list-of-tech-for-good-job-boards/)
 
-- [tachy0n: The last 0day jailbreak](https://blog.siguza.net/tachy0n/)
+- [The two types of open source](https://filiph.net/text/two-types-of-open-source.html)
 
-- [goal - embeddable scripting array language](https://codeberg.org/anaseto/goal)
+- [OpenTPU: Open source reimplementation of TPU](https://github.com/UCSBarchlab/OpenTPU)
 
-- [Reinvent the Wheel](https://endler.dev/2025/reinvent-the-wheel/)
+- [Script to check CODEOWNERS files in all repositories of a github-organisation](https://github.com/sigio/github-audit-org-codeowner)
 
-- [Making Postgres distributed with FoundationDB](https://fabianlindfors.se/blog/making-postgres-distributed/)
+- [Hacker Public Radio BSD Overview](https://hackerpublicradio.org/eps/hpr4388/index.html)
 
-- [Petnames: A humane approach to secure, decentralized naming](https://files.spritely.institute/papers/petnames.html)
+- [Docker](https://icculus.org/openbox/2/docker/)
 
-- [gail: An AI-powered GitHub Issue Labeler](https://github.com/atgreen/gail)
+- [Rust streams and timeouts gotcha](https://laplab.me/posts/rust-streams-gotcha/)
 
-- [There is no Diffie-Hellman but Elliptic Curve Diffie-Hellman](https://keymaterial.net/2025/05/23/there-is-no-diffie-hellman-but-elliptic-curve-diffie-hellman/)
+- [Hacker News now runs on top of Common Lisp](https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/)
 
-- [Domain Theory Lecture Notes](https://liamoc.net/forest/dt-001Y/index.xml)
+- [Luciole Math: a typeface developed explicitly for visually impaired academics](https://luciole-vision.com/en/math.html)
 
-- [The future of Flatpak](https://lwn.net/Articles/1020571/)
+- [Own Your Email Domain](https://matthewsanabria.dev/posts/own-your-email-domain/)
 
-- [Pain in the dots](https://matthew-brett.github.io/pydagogue/pain_in_dots.html)
+- [Five-year review of BQN design](https://mlochbaum.github.io/BQN/commentary/fiveyears.html)
 
-- [NixOS 25.05 released](https://nixos.org/blog/announcements/2025/nixos-2505/)
+- [What a Difference a Faster Hash Makes](https://nickdrozd.github.io/2025/05/27/faster-hash.html)
 
-- [The GCC compiler backend can now fully bootstrap the Rust compiler](https://old.reddit.com/r/rust/comments/1ktph3c/media_the_gcc_compiler_backend_can_now_fully)
+- [Scrappy: make little apps for you and your friends](https://pontus.granstrom.me/scrappy/)
 
-- [Configuring Jujutsu](https://oppi.li/posts/configuring_jujutsu/)
+- [GitHub MCP Exploited: Accessing private repositories via MCP](https://simonwillison.net/2025/May/26/github-mcp-exploited/)
 
-- [rqlite turns 10: Observations from a decade building Distributed Systems](https://philipotoole.com/rqlite-turns-10-lessons-from-a-decade-of-building-distributed-systems/)
+- [Large Language Models can run tools in your terminal with LLM 0.26](https://simonwillison.net/2025/May/27/llm-tools/)
 
-- [Why I no longer have an old-school cert on my https site](https://rachelbythebay.com/w/2025/05/22/ssl/)
+- [SIMD in zlib-rs (part 2): compare256](https://tweedegolf.nl/en/blog/155/simd-in-zlib-rs-part-2-compare256)
 
-- [How I used o3 to find CVE-2025-37899, a remote zeroday vulnerability in the Linux kernel’s SMB implementation](https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/)
+- [Failed Backup Server Build](https://vermaden.wordpress.com/2025/05/28/failed-backup-server-build/)
 
-- [Building interactive web pages with Guile Hoot](https://spritely.institute/news/building-interactive-web-pages-with-guile-hoot.html)
+- [Just make it scale: An Aurora DSQL story](https://www.allthingsdistributed.com/2025/05/just-make-it-scale-an-aurora-dsql-story.html)
 
-- [Remote Prompt Injection in GitLab Duo Leads to Source Code Theft](https://www.legitsecurity.com/blog/remote-prompt-injection-in-gitlab-duo)
+- [Teaching old hippies new tricks](https://www.oblomovka.com/wp/2025/01/02/teaching-old-hippies-new-tricks/)
 
-- [Fedora 43 Cleared To Ship With Wayland-Only GNOME](https://www.phoronix.com/news/Fedora-43-Wayland-Only-GNOME)
+- [Awesome Emacs on macOS](https://xenodium.com/awesome-emacs-on-macos)
