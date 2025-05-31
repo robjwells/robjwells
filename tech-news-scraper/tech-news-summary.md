@@ -1,49 +1,45 @@
-- [BGP handling bug causes widespread internet routing instability](https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident)
+- [Revisiting Loop Recognition in C++... in Rust](http://blomqu.ist/posts/2025/loop-recognition)
 
-- [Pyrefly vs. ty: Comparing Python’s Two New Rust-Based Type Checkers](https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/)
+- [MinIO Removes Web UI Features from Community Version, Pushes Users to Paid Plans](https://biggo.com/news/202505261334_MinIO_Removes_Web_UI_Features)
 
-- [MCP explained without hype or fluff](https://blog.nilenso.com/blog/2025/05/12/mcp-explained-without-hype-or-fluff/)
+- [The case for using a web browser as your terminal](https://blog.pomdtr.me/posts/tweety-v1/)
 
-- [You Can Choose Tools That Make You Happy](https://borretti.me/article/you-can-choose-tools-that-make-you-happy)
+- [A poor man’s types](https://blog.snork.dev/posts/a-poor-man-s-types.html)
 
-- [Add Virtual Threads to Python](https://discuss.python.org/t/add-virtual-threads-to-python/91403)
+- [Systems Correctness Practices at Amazon Web Services](https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/)
 
-- [List of "tech for good" job boards](https://evanhahn.com/list-of-tech-for-good-job-boards/)
+- [C++ to Rust Phrasebook](https://cel.cs.brown.edu/crp/title-page.html)
 
-- [The two types of open source](https://filiph.net/text/two-types-of-open-source.html)
+- [Simpler backoff](https://commaok.xyz/post/simple-backoff/)
 
-- [OpenTPU: Open source reimplementation of TPU](https://github.com/UCSBarchlab/OpenTPU)
+- [Decomplexification](https://daniel.haxx.se/blog/2025/05/29/decomplexification/)
 
-- [Script to check CODEOWNERS files in all repositories of a github-organisation](https://github.com/sigio/github-audit-org-codeowner)
+- [What is Racket DOING???](https://defn.io/2025/05/30/racket-thread-stack-dumps/)
 
-- [Hacker Public Radio BSD Overview](https://hackerpublicradio.org/eps/hpr4388/index.html)
+- [Improving EC2 boot time from 4s to 2.8s](https://depot.dev/blog/accelerating-builds-improve-ec2-boot-time)
 
-- [Docker](https://icculus.org/openbox/2/docker/)
+- [Announcing dotnet run app.cs—A simpler way to start with C# and .NET 10](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/)
 
-- [Rust streams and timeouts gotcha](https://laplab.me/posts/rust-streams-gotcha/)
+- [I Want to Love Linux. It Doesn't Love Me Back: Post 3 – Speakup, BRLTTY, and the Forgotten Infrastructure of Console Access](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-3-speakup-brltty-and-the-forgotten-infrastructure-of-console-access/)
 
-- [Hacker News now runs on top of Common Lisp](https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/)
+- [A break from programming languages](https://lexi-lambda.github.io/blog/2025/05/29/a-break-from-programming-languages/)
 
-- [Luciole Math: a typeface developed explicitly for visually impaired academics](https://luciole-vision.com/en/math.html)
+- [Net-Negative Cursor](https://lukasatkinson.de/2025/net-negative-cursor/)
 
-- [Own Your Email Domain](https://matthewsanabria.dev/posts/own-your-email-domain/)
+- [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
 
-- [Five-year review of BQN design](https://mlochbaum.github.io/BQN/commentary/fiveyears.html)
+- [Which New Language Should I Learn for Web Development?](https://mtlynch.io/notes/which-new-language/)
 
-- [What a Difference a Faster Hash Makes](https://nickdrozd.github.io/2025/05/27/faster-hash.html)
+- [Programming Beyond Practices](https://notes.skillstopractice.com/pbp.pdf)
 
-- [Scrappy: make little apps for you and your friends](https://pontus.granstrom.me/scrappy/)
+- [The Book of Shen](https://shenlanguage.org/TBoS/tbos.html)
 
-- [GitHub MCP Exploited: Accessing private repositories via MCP](https://simonwillison.net/2025/May/26/github-mcp-exploited/)
+- [This website does not exist](https://thiswebsitedoesnotexist.net/)
 
-- [Large Language Models can run tools in your terminal with LLM 0.26](https://simonwillison.net/2025/May/27/llm-tools/)
+- [The radix 2^51 trick to 256-bit addition (2020)](https://www.chosenplaintext.ca/articles/radix-2-51-trick.html)
 
-- [SIMD in zlib-rs (part 2): compare256](https://tweedegolf.nl/en/blog/155/simd-in-zlib-rs-part-2-compare256)
+- [Using ‘Slop Forensics’ to Determine Model Ancestry](https://www.dbreunig.com/2025/05/30/using-slop-forensics-to-determine-model-ancestry.html)
 
-- [Failed Backup Server Build](https://vermaden.wordpress.com/2025/05/28/failed-backup-server-build/)
+- [Types and other techniques as an accessibility tool for the ADHD brain](https://www.youtube.com/watch?v=DG5gLPFKcbk)
 
-- [Just make it scale: An Aurora DSQL story](https://www.allthingsdistributed.com/2025/05/just-make-it-scale-an-aurora-dsql-story.html)
-
-- [Teaching old hippies new tricks](https://www.oblomovka.com/wp/2025/01/02/teaching-old-hippies-new-tricks/)
-
-- [Awesome Emacs on macOS](https://xenodium.com/awesome-emacs-on-macos)
+- [The Linux 6.15 kernel arrives and it's a big victory for Rust fans](https://www.zdnet.com/article/the-linux-6-15-kernel-arrives-and-its-big-a-victory-for-rust-fans/)
