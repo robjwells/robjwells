@@ -1,47 +1,49 @@
-- [Harpoom: of course the Apple Network Server can be hacked into running Doom](http://oldvcr.blogspot.com/2025/05/harpoom-of-course-apple-network-server.html)
+- [Mapping latitude and longitude to country, state, or city](https://austinhenley.com/blog/coord2state.html)
 
-- [Beating the kCTF PoW with AVX512IFMA for $51k](https://anemato.de/blog/kctf-vdf)
+- [Vibe coding case study: ScubaDuck](https://blog.ezyang.com/2025/06/vibe-coding-case-study-scubaduck/)
 
-- [TPDE: A Fast Adaptable Compiler Back-End Framework](https://arxiv.org/abs/2505.22610)
+- [jujutsu on tangled](https://blog.tangled.sh/stacking)
 
-- [GSO: Challenging Software Optimization Tasks for Evaluating SWE-Agents](https://arxiv.org/abs/2505.23671)
+- [Building Industrial Strength Software without Unit Tests](https://chrispenner.ca/posts/transcript-tests)
 
-- [MinIO Removes Web UI Features from Community Version, Pushes Users to Paid Plans](https://biggo.com/news/202505261334_MinIO_Removes_Web_UI_Features)
+- [Where did <random> go wrong?](https://codingnest.com/files/What%20Went%20Wrong%20With%20_random__.pdf)
 
-- [A poor man’s types](https://blog.snork.dev/posts/a-poor-man-s-types.html)
+- [GenAI is Our Polyester](https://culture.ghost.io/genai-is-our-polyester/)
 
-- [My Backup Infrastructure, 2025 Edition](https://borretti.me/article/my-backup-infrastructure-2025-edition)
+- [DiffX - Next-Generation Extensible Diff Format](https://diffx.org/)
 
-- [C++ to Rust Phrasebook](https://cel.cs.brown.edu/crp/title-page.html)
+- [Handling bidirectional control flow](https://dl.acm.org/doi/10.1145/3428207)
 
-- [Simpler backoff](https://commaok.xyz/post/simple-backoff/)
+- [Beachpatrol: CLI to automate your everyday web browser](https://github.com/sebastiancarlos/beachpatrol)
 
-- [Improving EC2 boot time from 4s to 2.8s](https://depot.dev/blog/accelerating-builds-improve-ec2-boot-time)
+- [swift-cross-ui: A cross-platform declarative UI framework, inspired by SwiftUI](https://github.com/stackotter/swift-cross-ui)
 
-- [I Want to Love Linux. It Doesn't Love Me Back: Post 3 – Speakup, BRLTTY, and the Forgotten Infrastructure of Console Access](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-3-speakup-brltty-and-the-forgotten-infrastructure-of-console-access/)
+- [Gleam v1.11.0 released](https://gleam.run/news/gleam-javascript-gets-30-percent-faster/)
 
-- [TclForth: Multi-platform desktop Forth based on Tcl/Tk](https://github.com/wejgaard/TclForth)
+- [[ On | No ] syntactic support for error handling](https://go.dev/blog/error-syntax)
 
-- [Why Use Structured Errors in Rust Applications?](https://home.expurple.me/posts/why-use-structured-errors-in-rust-applications/)
+- [Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/)
 
-- [Using lots of little tools to aggressively reject the bots](https://lambdacreate.com/posts/68)
+- [Why GUIs are built at least 2.5 times](https://patricia.no/2025/05/30/why_lean_software_dev_is_wrong.html)
 
-- [Kees Cook Account Disabled for Suspected Malicous Activity](https://lore.kernel.org/all/20250531-resolute-glittering-cuckoo-b6cd91@lemur/)
+- [Deep learning gets the glory, deep fact checking gets ignored](https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html)
 
-- [Mel's Loop - A Comprehensive Guide to The Story of Mel](https://melsloop.com)
+- [What Happens If We Inline Everything?](https://sbaziotis.com/compilers/what-happens-if-we-inline-everything.html)
 
-- [Precision Clock Mk IV](https://mitxela.com/projects/precision_clock_mk_iv)
+- [Claude Code is My Computer](https://steipete.me/posts/2025/claude-code-is-my-computer)
 
-- [Implementing a Forth](https://ratfactor.com/forth/implementing)
+- [Things are different between system and application monitoring](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SystemVsApplicationMonitoring)
 
-- [Structured errors in Go](https://southcla.ws/structured-errors-in-go)
+- [Red Language Reference Manual](https://www.iment.com/maida/computer/redref/index.htm)
 
-- [PunchCard Key Backup](https://volution.ro/pckb/)
+- [Zero-Cost 'Tagless Final' in Rust with GADT-style Enums](https://www.inferara.com/en/blog/rust-tagless-final-gadt/)
 
-- [Using ‘Slop Forensics’ to Determine Model Ancestry](https://www.dbreunig.com/2025/05/30/using-slop-forensics-to-determine-model-ancestry.html)
+- [Google Logo Ligature Bug](https://www.jefftk.com/p/google-logo-ligature-bug)
 
-- [Tools built on tree-sitter's concrete syntax trees](https://www.scannedinavian.com/tools-built-on-tree-sitters-concrete-syntax-trees.html)
+- [Don't McBlock me](https://www.schneems.com/2025/06/03/dont-mcblock-me/)
 
-- [WebSockets guarantee order - so why are my messages scrambled?](https://www.sitongpeng.com/writing/websockets-guarantee-order-so-why-are-my-messages-scrambled)
+- [Interfacing MCP with Combinatorial, Convex, and SMT Solvers](https://www.stephendiehl.com/posts/smt_and_mcp_solvers/)
 
-- [Configure your Git](https://www.youtube.com/watch?v=G3NJzFX6XhY)
+- [Swift at Apple: migrating the Password Monitoring service from Java](https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/)
+
+- [How Compiler Explorer Works in 2025](https://xania.org/202506/how-compiler-explorer-works)
