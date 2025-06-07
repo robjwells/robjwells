@@ -1,49 +1,47 @@
-- [Mapping latitude and longitude to country, state, or city](https://austinhenley.com/blog/coord2state.html)
+- [Analyzing Metastable Failures in Distributed Systems](http://muratbuffalo.blogspot.com/2025/06/analyzing-metastable-failures-in.html)
 
-- [Vibe coding case study: ScubaDuck](https://blog.ezyang.com/2025/06/vibe-coding-case-study-scubaduck/)
+- [A year of funded FreeBSD](http://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html)
 
-- [jujutsu on tangled](https://blog.tangled.sh/stacking)
+- [I Think I’m Done Thinking About genAI For Now](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html)
 
-- [Building Industrial Strength Software without Unit Tests](https://chrispenner.ca/posts/transcript-tests)
+- [Sharing everything I could understand about gradient noise](https://blog.pkh.me/p/42-sharing-everything-i-could-understand-about-gradient-noise.html)
 
-- [Where did <random> go wrong?](https://codingnest.com/files/What%20Went%20Wrong%20With%20_random__.pdf)
+- [AI is a gamechanger for TLA+ users](https://buttondown.com/hillelwayne/archive/ai-is-a-gamechanger-for-tla-users/)
 
-- [GenAI is Our Polyester](https://culture.ghost.io/genai-is-our-polyester/)
+- [Supercharging GCP Navigation with Alfred](https://dineshgowda.com/posts/supercharging-gcp-navigation-with-alfred/)
 
-- [DiffX - Next-Generation Extensible Diff Format](https://diffx.org/)
+- [Curate your shell history](https://esham.io/2025/05/shell-history)
 
-- [Handling bidirectional control flow](https://dl.acm.org/doi/10.1145/3428207)
+- [magic namerefs](https://gist.github.com/izabera/e4717562e20eb6cfb6e05f8019883efb)
 
-- [Beachpatrol: CLI to automate your everyday web browser](https://github.com/sebastiancarlos/beachpatrol)
+- [Binary Lambda Calculus](https://gist.github.com/tromp/86b3184f852f65bfb814e3ab0987d861)
 
-- [swift-cross-ui: A cross-platform declarative UI framework, inspired by SwiftUI](https://github.com/stackotter/swift-cross-ui)
+- [git-remote-sqlite: Single-file Git repos that can replicate with Litestream](https://github.com/chrislloyd/git-remote-sqlite)
 
-- [Gleam v1.11.0 released](https://gleam.run/news/gleam-javascript-gets-30-percent-faster/)
+- [The next phase of jank's C++ interop](https://jank-lang.org/blog/2025-06-06-next-phase-of-interop/)
 
-- [[ On | No ] syntactic support for error handling](https://go.dev/blog/error-syntax)
+- [Jepsen: TigerBeetle 0.16.11](https://jepsen.io/analyses/tigerbeetle-0.16.11)
 
-- [Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/)
+- [I Learned Rust In 24 Hours To Eat Free Pizza Morally](https://medium.com/@sebastiancarlos/i-learned-rust-in-24-hours-to-eat-free-pizza-morally-28ea8312e523)
 
-- [Why GUIs are built at least 2.5 times](https://patricia.no/2025/05/30/why_lean_software_dev_is_wrong.html)
+- [I Let ChatGPT Make All My Architectural Decisions for a Month: The Surprising Results](https://medium.com/@sohail_saifi/i-let-chatgpt-make-all-my-architectural-decisions-for-a-month-the-surprising-results-e21f1254c74c)
 
-- [Deep learning gets the glory, deep fact checking gets ignored](https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html)
+- [Small Programs and Languages](https://ratfactor.com/cards/pl-small)
 
-- [What Happens If We Inline Everything?](https://sbaziotis.com/compilers/what-happens-if-we-inline-everything.html)
+- [CLIPS: An Elevator Pitch](https://ryjo.codes/articles/clips-elevator-pitch.html)
 
-- [Claude Code is My Computer](https://steipete.me/posts/2025/claude-code-is-my-computer)
+- [Hacking is Necessary](https://scharenbroch.dev/blog/hacking-is-necessary/)
 
-- [Things are different between system and application monitoring](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SystemVsApplicationMonitoring)
+- [APL Interpreter in Haskell (2024)](https://scharenbroch.dev/projects/apl-interpreter/)
 
-- [Red Language Reference Manual](https://www.iment.com/maida/computer/redref/index.htm)
+- [Fuzzer Blind Spots (Meet Jepsen!)](https://tigerbeetle.com/blog/2025-06-06-fuzzer-blind-spots-meet-jepsen/)
 
-- [Zero-Cost 'Tagless Final' in Rust with GADT-style Enums](https://www.inferara.com/en/blog/rust-tagless-final-gadt/)
+- [Conventional Commit message generator using local LLMs](https://wimpysworld.com/posts/faff-ollama-conventional-commit-generator/)
 
-- [Google Logo Ligature Bug](https://www.jefftk.com/p/google-logo-ligature-bug)
+- [In which I have Opinions about parsing and grammars](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/parsing/)
 
-- [Don't McBlock me](https://www.schneems.com/2025/06/03/dont-mcblock-me/)
+- [Just fucking code](https://www.justfuckingcode.com/)
 
-- [Interfacing MCP with Combinatorial, Convex, and SMT Solvers](https://www.stephendiehl.com/posts/smt_and_mcp_solvers/)
+- [GPU Memory Consistency: Specifications, Testing, and Opportunities for Performance Tooling](https://www.sigarch.org/gpu-memory-consistency-specifications-testing-and-opportunities-for-performance-tooling/)
 
-- [Swift at Apple: migrating the Password Monitoring service from Java](https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/)
-
-- [How Compiler Explorer Works in 2025](https://xania.org/202506/how-compiler-explorer-works)
+- [Introducing facet: Reflection for Rust](https://youtu.be/0mqFCqw_XvI)
