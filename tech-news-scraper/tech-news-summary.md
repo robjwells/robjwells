@@ -1,47 +1,47 @@
-- [Analyzing Metastable Failures in Distributed Systems](http://muratbuffalo.blogspot.com/2025/06/analyzing-metastable-failures-in.html)
+- [Implementing DOES> in Forth, the entire reason I started this mess](https://boston.conman.org/2025/06/09.1)
 
-- [A year of funded FreeBSD](http://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html)
+- [Bruteforcing the phone number of any Google user](https://brutecat.com/articles/leaking-google-phones)
 
-- [I Think I’m Done Thinking About genAI For Now](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html)
+- [How I program with Agents](https://crawshaw.io/blog/programming-with-agents)
 
-- [Sharing everything I could understand about gradient noise](https://blog.pkh.me/p/42-sharing-everything-i-could-understand-about-gradient-noise.html)
+- [12 Development Tools](https://dev.to/anthonymax/12-open-source-tools-every-developer-should-know-pn2)
 
-- [AI is a gamechanger for TLA+ users](https://buttondown.com/hillelwayne/archive/ai-is-a-gamechanger-for-tla-users/)
+- [The Gap Through Which We Praise the Machine](https://ferd.ca/the-gap-through-which-we-praise-the-machine.html)
 
-- [Supercharging GCP Navigation with Alfred](https://dineshgowda.com/posts/supercharging-gcp-navigation-with-alfred/)
+- [killing X11](https://flak.tedunangst.com/post/killing-X11)
 
-- [Curate your shell history](https://esham.io/2025/05/shell-history)
+- [Your Phoenix application, directly on your Tailnet](https://gist.github.com/Munksgaard/9102f0be2562f7ba1eca32b7e0da643e)
 
-- [magic namerefs](https://gist.github.com/izabera/e4717562e20eb6cfb6e05f8019883efb)
+- [Munal OS: A graphical experimental OS with WASM sandboxing](https://github.com/Askannz/munal-os)
 
-- [Binary Lambda Calculus](https://gist.github.com/tromp/86b3184f852f65bfb814e3ab0987d861)
+- [Ish: Grep-like text search with optimal alignment, built with Mojo](https://github.com/BioRadOpenSource/ish)
 
-- [git-remote-sqlite: Single-file Git repos that can replicate with Litestream](https://github.com/chrislloyd/git-remote-sqlite)
+- [container: tool for creating and running Linux containers using lightweight virtual machines on a Mac](https://github.com/apple/container)
 
-- [The next phase of jank's C++ interop](https://jank-lang.org/blog/2025-06-06-next-phase-of-interop/)
+- [Two Approaches to Solving the “Quiet Fediverse” Problem: Conversation Backfilling Mechanisms](https://hackers.pub/@hongminhee/2025/quiet-fediverse-two-approaches/en)
 
-- [Jepsen: TigerBeetle 0.16.11](https://jepsen.io/analyses/tigerbeetle-0.16.11)
+- [Qwen3 embedding models](https://huggingface.co/Qwen/Qwen3-Embedding-0.6B-GGUF)
 
-- [I Learned Rust In 24 Hours To Eat Free Pizza Morally](https://medium.com/@sebastiancarlos/i-learned-rust-in-24-hours-to-eat-free-pizza-morally-28ea8312e523)
+- [Why doesn’t Rust care more about compiler performance?](https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html)
 
-- [I Let ChatGPT Make All My Architectural Decisions for a Month: The Surprising Results](https://medium.com/@sohail_saifi/i-let-chatgpt-make-all-my-architectural-decisions-for-a-month-the-surprising-results-e21f1254c74c)
+- [The Illusion of Thinking](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)
 
-- [Small Programs and Languages](https://ratfactor.com/cards/pl-small)
+- [The high-level OS challenge](https://ochagavia.nl/blog/the-high-level-os-challenge/)
 
-- [CLIPS: An Elevator Pitch](https://ryjo.codes/articles/clips-elevator-pitch.html)
+- [Cross-compiling Zig on an old Kindle](https://samkhawase.com/blog/zig-kindle-gdb/)
 
-- [Hacking is Necessary](https://scharenbroch.dev/blog/hacking-is-necessary/)
+- [Is Rust faster than C?](https://steveklabnik.com/writing/is-rust-faster-than-c/)
 
-- [APL Interpreter in Haskell (2024)](https://scharenbroch.dev/projects/apl-interpreter/)
+- [Apple WWDC 2025](https://www.apple.com/apple-events/)
 
-- [Fuzzer Blind Spots (Meet Jepsen!)](https://tigerbeetle.com/blog/2025-06-06-fuzzer-blind-spots-meet-jepsen/)
+- [A Low-Impact Keybase Impersonation Issue on Lobsters](https://www.naff.dev/blog/lobsters-keybase-impersonation)
 
-- [Conventional Commit message generator using local LLMs](https://wimpysworld.com/posts/faff-ollama-conventional-commit-generator/)
+- [Radeon Software For Linux Dropping AMD's Proprietary OpenGL/Vulkan Drivers](https://www.phoronix.com/news/Radeon-Software-Drop-Prop-GL-VK)
 
-- [In which I have Opinions about parsing and grammars](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/parsing/)
+- [LLMs are cheap](https://www.snellman.net/blog/archive/2025-06-02-llms-are-cheap/)
 
-- [Just fucking code](https://www.justfuckingcode.com/)
+- [AI Angst](https://www.tbray.org/ongoing/When/202x/2025/06/06/My-AI-Angst)
 
-- [GPU Memory Consistency: Specifications, Testing, and Opportunities for Performance Tooling](https://www.sigarch.org/gpu-memory-consistency-specifications-testing-and-opportunities-for-performance-tooling/)
+- [Zig's self-hosted x86 backend is now default in Debug mode](https://ziglang.org/devlog/2025/?unique/#2025-06-08)
 
-- [Introducing facet: Reflection for Rust](https://youtu.be/0mqFCqw_XvI)
+- [Makefile.md - Possibly Use(ful|less) Polyglot Synthesis of Makefile and Markdown](https://zoo.dev/blog/polyglot-makefile-markdown)
