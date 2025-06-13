@@ -1,47 +1,49 @@
-- [Implementing DOES> in Forth, the entire reason I started this mess](https://boston.conman.org/2025/06/09.1)
+- [CP/M 2.2, CP/M 3.0, CP/M-86, Concurrent CP/M-86 listings by Digital Research](http://www.bitsavers.org/pdf/digitalResearch/CPM_Listings)
 
-- [Bruteforcing the phone number of any Google user](https://brutecat.com/articles/leaking-google-phones)
+- [Asterinas: A Linux ABI-compatible, Rust-based framekernel OS](https://asterinas.github.io/2025/06/04/kernel-memory-safety-mission-accomplished.html)
 
-- [How I program with Agents](https://crawshaw.io/blog/programming-with-agents)
+- [What I talk about when I talk about IRs](https://bernsteinbear.com/blog/irs/)
 
-- [12 Development Tools](https://dev.to/anthonymax/12-open-source-tools-every-developer-should-know-pn2)
+- [Whatever happened to sandboxfs?](https://blogsystem5.substack.com/p/whatever-happened-to-sandboxfs)
 
-- [The Gap Through Which We Praise the Machine](https://ferd.ca/the-gap-through-which-we-praise-the-machine.html)
+- [Solving LinkedIn Queens with SMT](https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/)
 
-- [killing X11](https://flak.tedunangst.com/post/killing-X11)
+- [Three Algorithms for YSH Syntax Highlighting](https://codeberg.org/oils/oils.vim/src/branch/main/doc/algorithms.md)
 
-- [Your Phoenix application, directly on your Tailnet](https://gist.github.com/Munksgaard/9102f0be2562f7ba1eca32b7e0da643e)
+- [Verse Language](https://dev.epicgames.com/documentation/en-us/fortnite/verse-language-reference)
 
-- [Munal OS: A graphical experimental OS with WASM sandboxing](https://github.com/Askannz/munal-os)
+- [macOS Tahoe brings a new disk image format](https://eclecticlight.co/2025/06/12/macos-tahoe-brings-a-new-disk-image-format/)
 
-- [Ish: Grep-like text search with optimal alignment, built with Mojo](https://github.com/BioRadOpenSource/ish)
+- [AI Boom Drives 150% Surge in Indirect Emissions at Major Tech Firms, UN Warns](https://esgnews.com/ai-boom-drives-150-surge-in-indirect-emissions-at-major-tech-firms-un-warns/)
 
-- [container: tool for creating and running Linux containers using lightweight virtual machines on a Mac](https://github.com/apple/container)
+- [Cursor YOLO deleted everything in my computer](https://forum.cursor.com/t/cursor-yolo-deleted-everything-in-my-computer/103131)
 
-- [Two Approaches to Solving the “Quiet Fediverse” Problem: Conversation Backfilling Mechanisms](https://hackers.pub/@hongminhee/2025/quiet-fediverse-two-approaches/en)
+- [jemalloc Postmortem](https://jasone.github.io/2025/06/12/jemalloc-postmortem/)
 
-- [Qwen3 embedding models](https://huggingface.co/Qwen/Qwen3-Embedding-0.6B-GGUF)
+- [Agentic Coding Recommendations](https://lucumr.pocoo.org/2025/6/12/agentic-coding/)
 
-- [Why doesn’t Rust care more about compiler performance?](https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html)
+- [Next.js 15.1+ is unusable outside of Vercel](https://omarabid.com/nextjs-vercel)
 
-- [The Illusion of Thinking](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)
+- [The Python Language Summit 2025](https://pyfound.blogspot.com/2025/06/python-language-summit-2025.html)
 
-- [The high-level OS challenge](https://ochagavia.nl/blog/the-high-level-os-challenge/)
+- [Writing a Verified Postfix Calculator in Ada/SPARK](https://pyjarrett.github.io/2025/06/10/postfix-calculator.html)
 
-- [Cross-compiling Zig on an old Kindle](https://samkhawase.com/blog/zig-kindle-gdb/)
+- [Reflections on Sudoku, Or the Impossibility of Systematizing Thought](https://rjp.io/blog/2025-06-07-reflections-on-sudoku)
 
-- [Is Rust faster than C?](https://steveklabnik.com/writing/is-rust-faster-than-c/)
+- [diceomatic: a DSL for making children's dice games](https://robertheaton.com/diceomatic/)
 
-- [Apple WWDC 2025](https://www.apple.com/apple-events/)
+- [Frequent reauth doesn't make you more secure](https://tailscale.com/blog/frequent-reath-security)
 
-- [A Low-Impact Keybase Impersonation Issue on Lobsters](https://www.naff.dev/blog/lobsters-keybase-impersonation)
+- [How much EU is in DNS4EU?](https://techlog.jenslink.net/posts/dns4eu/)
 
-- [Radeon Software For Linux Dropping AMD's Proprietary OpenGL/Vulkan Drivers](https://www.phoronix.com/news/Radeon-Software-Drop-Prop-GL-VK)
+- [Architecture Decision Records](https://www.beflagrant.com/blog/adrs)
 
-- [LLMs are cheap](https://www.snellman.net/blog/archive/2025-06-02-llms-are-cheap/)
+- [EU launches EU-based, privacy-focused DNS resolution service](https://www.helpnetsecurity.com/2025/06/09/eu-launches-eu-based-privacy-focused-dns-resolution-service/)
 
-- [AI Angst](https://www.tbray.org/ongoing/When/202x/2025/06/06/My-AI-Angst)
+- [Rumour: Google intends to discontinue the Android Open Source Project](https://www.osnews.com/story/142553/rumour-google-intends-to-discontinue-the-android-open-source-project/)
 
-- [Zig's self-hosted x86 backend is now default in Debug mode](https://ziglang.org/devlog/2025/?unique/#2025-06-08)
+- [Linus Torvalds Rejects The Idea Of Enabling DAMON By Default In The Linux Kernel](https://www.phoronix.com/news/Linux-DAMON-By-Default-No)
 
-- [Makefile.md - Possibly Use(ful|less) Polyglot Synthesis of Makefile and Markdown](https://zoo.dev/blog/polyglot-makefile-markdown)
+- [“Localhost tracking” explained. It could cost Meta €32b](https://www.zeropartydata.es/p/localhost-tracking-explained-it-could)
+
+- [The Case for Software Craftsmanship in the Era of Vibes](https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes)
