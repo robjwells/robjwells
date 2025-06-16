@@ -1,49 +1,49 @@
-- [CP/M 2.2, CP/M 3.0, CP/M-86, Concurrent CP/M-86 listings by Digital Research](http://www.bitsavers.org/pdf/digitalResearch/CPM_Listings)
+- [Inside the Apollo "8-Ball" FDAI (Flight Director / Attitude Indicator)](http://www.righto.com/2025/06/inside-apollo-fdai.html)
 
-- [Asterinas: A Linux ABI-compatible, Rust-based framekernel OS](https://asterinas.github.io/2025/06/04/kernel-memory-safety-mission-accomplished.html)
+- [todo.txt tasks in my TRMNL](https://akselmo.dev/posts/todotxt-in-my-trmnl/)
 
-- [What I talk about when I talk about IRs](https://bernsteinbear.com/blog/irs/)
+- [Simplest C++ callback, from SumatraPDF](https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html)
 
-- [Whatever happened to sandboxfs?](https://blogsystem5.substack.com/p/whatever-happened-to-sandboxfs)
+- [Hypershell: A Type-Level DSL for Shell-Scripting in Rust powered by Context-Generic Programming](https://contextgeneric.dev/blog/hypershell-release/)
 
-- [Solving LinkedIn Queens with SMT](https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/)
+- [Datalog in Minikanren](https://deosjr.github.io/dynamicland/datalog.html)
 
-- [Three Algorithms for YSH Syntax Highlighting](https://codeberg.org/oils/oils.vim/src/branch/main/doc/algorithms.md)
+- [The Elixir Pipe Operator](https://dev.to/adolfont/the-elixir-pipe-operator-38fa)
 
-- [Verse Language](https://dev.epicgames.com/documentation/en-us/fortnite/verse-language-reference)
+- [HTML spec change: escaping < and > in attributes](https://developer.chrome.com/blog/escape-attributes)
 
-- [macOS Tahoe brings a new disk image format](https://eclecticlight.co/2025/06/12/macos-tahoe-brings-a-new-disk-image-format/)
+- [DevTUI - A Swiss-army app for developers](https://devtui.com)
 
-- [AI Boom Drives 150% Surge in Indirect Emissions at Major Tech Firms, UN Warns](https://esgnews.com/ai-boom-drives-150-surge-in-indirect-emissions-at-major-tech-firms-un-warns/)
+- [A SQLite VFS for remote databases via gRPC](https://github.com/danthegoodman1/gRPSQLite)
 
-- [Cursor YOLO deleted everything in my computer](https://forum.cursor.com/t/cursor-yolo-deleted-everything-in-my-computer/103131)
+- [Mosh: the mobile shell](https://mosh.org)
 
-- [jemalloc Postmortem](https://jasone.github.io/2025/06/12/jemalloc-postmortem/)
+- [OxCaml, Jane Street's extension of OCaml is now open-source](https://oxcaml.org)
 
-- [Agentic Coding Recommendations](https://lucumr.pocoo.org/2025/6/12/agentic-coding/)
+- [How fast can the RPython GC allocate?](https://pypy.org/posts/2025/06/rpython-gc-allocation-speed.html)
 
-- [Next.js 15.1+ is unusable outside of Vercel](https://omarabid.com/nextjs-vercel)
+- [Building software on top of Large Language Models](https://simonwillison.net/2025/May/15/building-on-llms/)
 
-- [The Python Language Summit 2025](https://pyfound.blogspot.com/2025/06/python-language-summit-2025.html)
+- [Quick takes on the GCP public incident write-up](https://surfingcomplexity.blog/2025/06/14/quick-takes-on-the-gcp-public-incident-write-up/)
 
-- [Writing a Verified Postfix Calculator in Ada/SPARK](https://pyjarrett.github.io/2025/06/10/postfix-calculator.html)
+- [Why SSL was renamed to TLS in late 90s (2014)](https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html)
 
-- [Reflections on Sudoku, Or the Impossibility of Systematizing Thought](https://rjp.io/blog/2025-06-07-reflections-on-sudoku)
+- [A meta-analysis of three different notions of software complexity](https://typesanitizer.com/blog/complexity-definitions.html)
 
-- [diceomatic: a DSL for making children's dice games](https://robertheaton.com/diceomatic/)
+- [Jokes and Humour in the public Android API](https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/)
 
-- [Frequent reauth doesn't make you more secure](https://tailscale.com/blog/frequent-reath-security)
+- [Breaking down ‘EchoLeak’, the First Zero-Click AI Vulnerability Enabling Data Exfiltration from Microsoft 365 Copilot](https://www.aim.security/lp/aim-labs-echoleak-blogpost)
 
-- [How much EU is in DNS4EU?](https://techlog.jenslink.net/posts/dns4eu/)
+- [Breaking my Security Assignments](https://www.akpain.net/blog/breaking-secnet-assignments/)
 
-- [Architecture Decision Records](https://www.beflagrant.com/blog/adrs)
+- [Modifying an HDMI dummy plug’s EDID using a Raspberry Pi](https://www.downtowndougbrown.com/2025/06/modifying-an-hdmi-dummy-plugs-edid-using-a-raspberry-pi/)
 
-- [EU launches EU-based, privacy-focused DNS resolution service](https://www.helpnetsecurity.com/2025/06/09/eu-launches-eu-based-privacy-focused-dns-resolution-service/)
+- [The Art of Lisp & Writing](https://www.dreamsongs.com/ArtOfLisp.html)
 
-- [Rumour: Google intends to discontinue the Android Open Source Project](https://www.osnews.com/story/142553/rumour-google-intends-to-discontinue-the-android-open-source-project/)
+- [Writing Toy Software Is A Joy](https://www.jsbarretto.com/blog/software-is-joy/)
 
-- [Linus Torvalds Rejects The Idea Of Enabling DAMON By Default In The Linux Kernel](https://www.phoronix.com/news/Linux-DAMON-By-Default-No)
+- [Modular: What about the MLIR compiler infrastructure? (Democratizing AI Compute, Part 8)](https://www.modular.com/blog/democratizing-ai-compute-part-8-what-about-the-mlir-compiler-infrastructure)
 
-- [“Localhost tracking” explained. It could cost Meta €32b](https://www.zeropartydata.es/p/localhost-tracking-explained-it-could)
+- [How the Final Cartridge III Freezer works](https://www.pagetable.com/?p=1810)
 
-- [The Case for Software Craftsmanship in the Era of Vibes](https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes)
+- [1x Forth (1999)](https://www.ultratechnology.com/1xforth.htm)
