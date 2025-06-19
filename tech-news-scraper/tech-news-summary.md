@@ -1,49 +1,49 @@
-- [Inside the Apollo "8-Ball" FDAI (Flight Director / Attitude Indicator)](http://www.righto.com/2025/06/inside-apollo-fdai.html)
+- [Accessibility Programming Doesn't Feel Accessible](https://acidiclight.dev/blog/accessibility-does-not-feel-accessible/)
 
-- [todo.txt tasks in my TRMNL](https://akselmo.dev/posts/todotxt-in-my-trmnl/)
+- [Why I Won't Use AI](https://agentultra.com/blog/why-i-wont-use-ai/index.html)
 
-- [Simplest C++ callback, from SumatraPDF](https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html)
+- [GCC, glibc, stack unwinding and relocations – A war story](https://blog.sergiodj.net/posts/gcc-glibc-stack-unwinding-relocations-bug/)
 
-- [Hypershell: A Type-Level DSL for Shell-Scripting in Rust powered by Context-Generic Programming](https://contextgeneric.dev/blog/hypershell-release/)
+- [Building JSON on the Command Line is Obnoxious](https://blog.stulta.dev/posts/annoying_json/)
 
-- [Datalog in Minikanren](https://deosjr.github.io/dynamicland/datalog.html)
+- [Analysing Rust crates for weekend (hobbyist) vs weekday (working-dev) downloads](https://boydkane.com/projects/crates-download-ratio)
 
-- [The Elixir Pipe Operator](https://dev.to/adolfont/the-elixir-pipe-operator-38fa)
+- [Should we design for iffy internet?](https://bytes.zone/posts/should-we-design-for-iffy-internet/)
 
-- [HTML spec change: escaping < and > in attributes](https://developer.chrome.com/blog/escape-attributes)
+- [Moving on from Nix](https://carlosbecker.com/posts/bye-nix/)
 
-- [DevTUI - A Swiss-army app for developers](https://devtui.com)
+- [s7 scheme](https://ccrma.stanford.edu/software/snd/snd/s7.html)
 
-- [A SQLite VFS for remote databases via gRPC](https://github.com/danthegoodman1/gRPSQLite)
+- [Lisp: Icing or Cake?](https://dthompson.us/posts/lisp-icing-or-cake.html)
 
-- [Mosh: the mobile shell](https://mosh.org)
+- [hammurabi: A Rust recreation of the classic 1968 BASIC game](https://github.com/stjepangolemac/hammurabi)
 
-- [OxCaml, Jane Street's extension of OCaml is now open-source](https://oxcaml.org)
+- [is it really FOSS?](https://isitreallyfoss.com/)
 
-- [How fast can the RPython GC allocate?](https://pypy.org/posts/2025/06/rpython-gc-allocation-speed.html)
+- [Resurrecting a dead torrent tracker and finding 3 million peers](https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html)
 
-- [Building software on top of Large Language Models](https://simonwillison.net/2025/May/15/building-on-llms/)
+- [Programming Language Design in the Era of LLMs: A Return to Mediocrity?](https://kirancodes.me/posts/log-lang-design-llms.html)
 
-- [Quick takes on the GCP public incident write-up](https://surfingcomplexity.blog/2025/06/14/quick-takes-on-the-gcp-public-incident-write-up/)
+- [Cock.li email provider data leak from roundcube](https://mail.cock.li/)
 
-- [Why SSL was renamed to TLS in late 90s (2014)](https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html)
+- [A deep-dive explainer on Ink and Switch's BeeKEM protocol](https://meri.garden/a-deep-dive-explainer-on-beekem-protocol/)
 
-- [A meta-analysis of three different notions of software complexity](https://typesanitizer.com/blog/complexity-definitions.html)
+- [MCP Specification - 2025-06-18](https://modelcontextprotocol.io/specification/2025-06-18)
 
-- [Jokes and Humour in the public Android API](https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/)
+- [Quick notes on a brief agentic coding experience](https://olano.dev/blog/agentic-coding-experience/)
 
-- [Breaking down ‘EchoLeak’, the First Zero-Click AI Vulnerability Enabling Data Exfiltration from Microsoft 365 Copilot](https://www.aim.security/lp/aim-labs-echoleak-blogpost)
+- [Shadow: A browser engine from scratch in Javascript](https://shadow.goose.icu)
 
-- [Breaking my Security Assignments](https://www.akpain.net/blog/breaking-secnet-assignments/)
+- [It’s True, “We” Don’t Care About Accessibility on Linux](https://tesk.page/2025/06/18/its-true-we-dont-care-about-accessibility-on-linux/)
 
-- [Modifying an HDMI dummy plug’s EDID using a Raspberry Pi](https://www.downtowndougbrown.com/2025/06/modifying-an-hdmi-dummy-plugs-edid-using-a-raspberry-pi/)
+- [bzip2 crate switches from C to 100% rust](https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/)
 
-- [The Art of Lisp & Writing](https://www.dreamsongs.com/ArtOfLisp.html)
+- [The Server Doesn't Render Anything](https://unplannedobsolescence.com/blog/the-server-doesnt-render/)
 
-- [Writing Toy Software Is A Joy](https://www.jsbarretto.com/blog/software-is-joy/)
+- [The plight of the misunderstood memory ordering](https://www.grayolson.me/blog/posts/misunderstood-memory-ordering/)
 
-- [Modular: What about the MLIR compiler infrastructure? (Democratizing AI Compute, Part 8)](https://www.modular.com/blog/democratizing-ai-compute-part-8-what-about-the-mlir-compiler-infrastructure)
+- [KiCad and Wayland Support](https://www.kicad.org/blog/2025/06/KiCad-and-Wayland-Support/)
 
-- [How the Final Cartridge III Freezer works](https://www.pagetable.com/?p=1810)
+- [Double-Entry Ledgers: The Missing Primitive in Modern Software](https://www.pgrs.net/2025/06/17/double-entry-ledgers-missing-primitive-in-modern-software/)
 
-- [1x Forth (1999)](https://www.ultratechnology.com/1xforth.htm)
+- [The Zed Debugger is Here](https://zed.dev/blog/debugger)
