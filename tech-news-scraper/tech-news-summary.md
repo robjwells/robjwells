@@ -1,49 +1,49 @@
-- [Accessibility Programming Doesn't Feel Accessible](https://acidiclight.dev/blog/accessibility-does-not-feel-accessible/)
+- [See Jane 128 by Arktronics run (featuring Magic Desk, 3-Plus-1 and the Thomson MO5)](http://oldvcr.blogspot.com/2025/06/see-jane-128-by-arktronics-run.html)
 
-- [Why I Won't Use AI](https://agentultra.com/blog/why-i-wont-use-ai/index.html)
+- [Mozilla is killing its Pocket and Fakespot services to focus on Firefox](https://arstechnica.com/gadgets/2025/05/mozilla-is-killing-its-pocket-and-fakespot-services-to-focus-on-firefox/)
 
-- [GCC, glibc, stack unwinding and relocations – A war story](https://blog.sergiodj.net/posts/gcc-glibc-stack-unwinding-relocations-bug/)
+- [All roads lead to disaster](https://blog.jsbarretto.com/post/all-roads-lead-to-disaster)
 
-- [Building JSON on the Command Line is Obnoxious](https://blog.stulta.dev/posts/annoying_json/)
+- [Why computational reproducibility matters](https://blog.khinsen.net/posts/2025/06/20/computational-reproducibility.html)
 
-- [Analysing Rust crates for weekend (hobbyist) vs weekday (working-dev) downloads](https://boydkane.com/projects/crates-download-ratio)
+- [Unexpected security footguns in Go's parsers](https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/)
 
-- [Should we design for iffy internet?](https://bytes.zone/posts/should-we-design-for-iffy-internet/)
+- [In Praise of “Normal” Engineers](https://charity.wtf/2025/06/19/in-praise-of-normal-engineers/)
 
-- [Moving on from Nix](https://carlosbecker.com/posts/bye-nix/)
+- [Scaling our Observability platform beyond 100 Petabytes by embracing wide events and replacing OTel](https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel)
 
-- [s7 scheme](https://ccrma.stanford.edu/software/snd/snd/s7.html)
+- [Cosmoe: BeOS Class Library on top of Wayland](https://cosmoe.org/index.html)
 
-- [Lisp: Icing or Cake?](https://dthompson.us/posts/lisp-icing-or-cake.html)
+- [Writing a basic Linux device driver when you know nothing about Linux drivers or USB](https://crescentro.se/posts/writing-drivers/)
 
-- [hammurabi: A Rust recreation of the classic 1968 BASIC game](https://github.com/stjepangolemac/hammurabi)
+- [B compiler written in Crust](https://github.com/tsoding/b)
 
-- [is it really FOSS?](https://isitreallyfoss.com/)
+- [Announcing LogTape 1.0.0](https://hackers.pub/@hongminhee/2025/announcing-logtape-1-0)
 
-- [Resurrecting a dead torrent tracker and finding 3 million peers](https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html)
+- [Hare 0.25.2 released](https://harelang.org/blog/2025-06-21-hare-0.25.2-released/)
 
-- [Programming Language Design in the Era of LLMs: A Return to Mediocrity?](https://kirancodes.me/posts/log-lang-design-llms.html)
+- [Trip report: June 2025 ISO C++ standards meeting](https://herbsutter.com/2025/06/21/trip-report-june-2025-iso-c-standards-meeting-sofia-bulgaria/)
 
-- [Cock.li email provider data leak from roundcube](https://mail.cock.li/)
+- [YouTube’s new anti-adblock measures](https://iter.ca/post/yt-adblock/)
 
-- [A deep-dive explainer on Ink and Switch's BeeKEM protocol](https://meri.garden/a-deep-dive-explainer-on-beekem-protocol/)
+- [my website is one binary](https://j3s.sh/thought/my-website-is-one-binary.html)
 
-- [MCP Specification - 2025-06-18](https://modelcontextprotocol.io/specification/2025-06-18)
+- [Balatro for the Nintendo E-Reader](https://mattgreer.dev/blog/balatro-for-the-nintendo-ereader/)
 
-- [Quick notes on a brief agentic coding experience](https://olano.dev/blog/agentic-coding-experience/)
+- [Remaking Celeste's Lighting](https://noelberry.ca/posts/celeste_lighting/)
 
-- [Shadow: A browser engine from scratch in Javascript](https://shadow.goose.icu)
+- [Open Dylan 2025.1 - Open Dylan Release](https://opendylan.org/release-notes/2025.1.html)
 
-- [It’s True, “We” Don’t Care About Accessibility on Linux](https://tesk.page/2025/06/18/its-true-we-dont-care-about-accessibility-on-linux/)
+- [About Plasma’s X11 session](https://pointieststick.com/2025/06/21/about-plasmas-x11-session/)
 
-- [bzip2 crate switches from C to 100% rust](https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/)
+- [Application First - Media over QUIC](https://quic.video/blog/application-first)
 
-- [The Server Doesn't Render Anything](https://unplannedobsolescence.com/blog/the-server-doesnt-render/)
+- [Adding linear-time lookbehinds to RE2](https://systemf.epfl.ch/blog/re2-lookbehinds/)
 
-- [The plight of the misunderstood memory ordering](https://www.grayolson.me/blog/posts/misunderstood-memory-ordering/)
+- [To Bind and Loose a Reference (2020)](https://thephd.dev/to-bind-and-loose-a-reference-optional)
 
-- [KiCad and Wayland Support](https://www.kicad.org/blog/2025/06/KiCad-and-Wayland-Support/)
+- [More Undervalued Hardware Companions](https://vermaden.wordpress.com/2025/06/21/more-undervalued-hardware-companions/)
 
-- [Double-Entry Ledgers: The Missing Primitive in Modern Software](https://www.pgrs.net/2025/06/17/double-entry-ledgers-missing-primitive-in-modern-software/)
+- [Good at the Job, Bad at the Interview: Time to Rethink Hiring](https://www.linkedin.com/pulse/good-job-bad-interview-time-rethink-hiring-christopher-robertson-jdnie)
 
-- [The Zed Debugger is Here](https://zed.dev/blog/debugger)
+- [Rhapsody OS: Installing Apple’s Lost x86 OS from 1998 on a 3.4 Ghz i7 CPU & SSD](https://www.youtube.com/watch?v=uE6qp94InBM)
