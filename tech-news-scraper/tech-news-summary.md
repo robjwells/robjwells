@@ -1,49 +1,49 @@
-- [See Jane 128 by Arktronics run (featuring Magic Desk, 3-Plus-1 and the Thomson MO5)](http://oldvcr.blogspot.com/2025/06/see-jane-128-by-arktronics-run.html)
+- [Waiting for SQL:202y: Vectors](http://peter.eisentraut.org/blog/2025/06/24/waiting-for-sql-202y-vectors)
 
-- [Mozilla is killing its Pocket and Fakespot services to focus on Firefox](https://arstechnica.com/gadgets/2025/05/mozilla-is-killing-its-pocket-and-fakespot-services-to-focus-on-firefox/)
+- [The one-more-re-nightmare compiler (2021)](https://applied-langua.ge/posts/omrn-compiler.html)
 
-- [All roads lead to disaster](https://blog.jsbarretto.com/post/all-roads-lead-to-disaster)
+- [Everyone should copy Thunderbird's donation model](https://blog.cyrneko.eu/everyone-should-copy-thunderbird)
 
-- [Why computational reproducibility matters](https://blog.khinsen.net/posts/2025/06/20/computational-reproducibility.html)
+- [Making TRAMP go Brrrr…](https://coredumped.dev/2025/06/18/making-tramp-go-brrrr./)
 
-- [Unexpected security footguns in Go's parsers](https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/)
+- [A family of OpenSSL forks](https://daniel.haxx.se/blog/2025/06/23/a-family-of-forks/)
 
-- [In Praise of “Normal” Engineers](https://charity.wtf/2025/06/19/in-praise-of-normal-engineers/)
+- [Lifetime Dispersion and Generational GC: An Intellectual Abstract](https://dl.acm.org/doi/10.1145/3735950.3735958)
 
-- [Scaling our Observability platform beyond 100 Petabytes by embracing wide events and replacing OTel](https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel)
+- [forbidden secrets of ancient X11 scaling technology revealed](https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed)
 
-- [Cosmoe: BeOS Class Library on top of Wayland](https://cosmoe.org/index.html)
+- [Bazel’s Original Sins](https://fzakaria.com/2025/06/22/bazel-s-original-sins)
 
-- [Writing a basic Linux device driver when you know nothing about Linux drivers or USB](https://crescentro.se/posts/writing-drivers/)
+- [LR(1) parse-tables generator](https://github.com/wldfngrs/parser-generator)
 
-- [B compiler written in Crust](https://github.com/tsoding/b)
+- [Chromium's build system is switching from Ninja to Siso for external developers](https://groups.google.com/a/chromium.org/g/chromium-dev/c/v-WOvWUtOpg)
 
-- [Announcing LogTape 1.0.0](https://hackers.pub/@hongminhee/2025/announcing-logtape-1-0)
+- [how i use my terminal](https://jyn.dev/how-i-use-my-terminal/)
 
-- [Hare 0.25.2 released](https://harelang.org/blog/2025-06-21-hare-0.25.2-released/)
+- [Fixes for five Lix CVEs](https://lix.systems/blog/2025-06-24-lix-cves/)
 
-- [Trip report: June 2025 ISO C++ standards meeting](https://herbsutter.com/2025/06/21/trip-report-june-2025-iso-c-standards-meeting-sofia-bulgaria/)
+- [The Bitter Lesson is coming for Tokenization](https://lucalp.dev/bitter-lesson-tokenization-and-blt)
 
-- [YouTube’s new anti-adblock measures](https://iter.ca/post/yt-adblock/)
+- [Onion Services: Design, Protocol and Implementation](https://media.ccc.de/v/gpn23-52-onion-services-design-protocol-and-implementation)
 
-- [my website is one binary](https://j3s.sh/thought/my-website-is-one-binary.html)
+- [A Lisp adventure on the calm waters of the dead C](https://mihaiolteanu.me/language-abstractions)
 
-- [Balatro for the Nintendo E-Reader](https://mattgreer.dev/blog/balatro-for-the-nintendo-ereader/)
+- [Porting GPU shaders to Rust GPU 30x faster with AI](https://rust-gpu.github.io/blog/2025/06/24/vulkan-shader-port/)
 
-- [Remaking Celeste's Lighting](https://noelberry.ca/posts/celeste_lighting/)
+- [Interesting Bits of Postgres Grammar](https://steve.dignam.xyz/2025/06/20/interesting-bits-of-postgres-grammar/)
 
-- [Open Dylan 2025.1 - Open Dylan Release](https://opendylan.org/release-notes/2025.1.html)
+- [Nix Development Setup for Factor](https://toast.al/posts/softwarecraft/2025-06-24_factor-nix-dev-environment/)
 
-- [About Plasma’s X11 session](https://pointieststick.com/2025/06/21/about-plasmas-x11-session/)
+- [Nix/NixOS is the new “dotfiles golf” - and that’s awesome](https://whynot.fail/nixos/the-new-dotfile-golf/)
 
-- [Application First - Media over QUIC](https://quic.video/blog/application-first)
+- [Fun with uv and PEP 723](https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723)
 
-- [Adding linear-time lookbehinds to RE2](https://systemf.epfl.ch/blog/re2-lookbehinds/)
+- [Using LXCFS together with Podman](https://www.die-welt.net/2025/06/using-lxcfs-together-with-podman/)
 
-- [To Bind and Loose a Reference (2020)](https://thephd.dev/to-bind-and-loose-a-reference-optional)
+- [Finding a 27-year-old easter egg in the Power Mac G3 ROM](https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/)
 
-- [More Undervalued Hardware Companions](https://vermaden.wordpress.com/2025/06/21/more-undervalued-hardware-companions/)
+- [Firefox 140 Released With "Unload Tab", CSS Custom Highlighting API](https://www.phoronix.com/news/Firefox-140)
 
-- [Good at the Job, Bad at the Interview: Time to Rethink Hiring](https://www.linkedin.com/pulse/good-job-bad-interview-time-rethink-hiring-christopher-robertson-jdnie)
+- [Skip the Design Patterns Architecting with Nouns and Verbs](https://www.youtube.com/watch?v=v-N6r8lcsNc)
 
-- [Rhapsody OS: Installing Apple’s Lost x86 OS from 1998 on a 3.4 Ghz i7 CPU & SSD](https://www.youtube.com/watch?v=uE6qp94InBM)
+- [Build your first iOS app on Linux / Windows](https://xtool.sh/tutorials/xtool/first-app)
