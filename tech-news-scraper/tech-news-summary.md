@@ -1,49 +1,47 @@
-- [Waiting for SQL:202y: Vectors](http://peter.eisentraut.org/blog/2025/06/24/waiting-for-sql-202y-vectors)
+- [LispmFPGA: the goal of this project is to create a small Lisp-Machine in an FPGA](http://www.aviduratas.de/lisp/lispmfpga/index.html)
 
-- [The one-more-re-nightmare compiler (2021)](https://applied-langua.ge/posts/omrn-compiler.html)
+- [Apple announces sweeping App Store changes in the EU](https://9to5mac.com/2025/06/26/apple-announces-sweeping-app-store-changes-in-the-eu/)
 
-- [Everyone should copy Thunderbird's donation model](https://blog.cyrneko.eu/everyone-should-copy-thunderbird)
+- [Android phones could soon warn you of “Stingrays” snooping on your communications](https://arstechnica.com/gadgets/2025/06/future-android-phones-could-warn-you-about-data-stealing-fake-cell-towers/)
 
-- [Making TRAMP go Brrrr…](https://coredumped.dev/2025/06/18/making-tramp-go-brrrr./)
+- [Go is an 80/20 language](https://blog.kowalczyk.info/article/d-2025-06-26/go-is-8020-language.html)
 
-- [A family of OpenSSL forks](https://daniel.haxx.se/blog/2025/06/23/a-family-of-forks/)
+- [Announcing Rust 1.88.0](https://blog.rust-lang.org/2025/06/26/Rust-1.88.0/)
 
-- [Lifetime Dispersion and Generational GC: An Intellectual Abstract](https://dl.acm.org/doi/10.1145/3735950.3735958)
+- [Structuring Arrays with Algebraic Shapes](https://dl.acm.org/doi/abs/10.1145/3736112.3736141)
 
-- [forbidden secrets of ancient X11 scaling technology revealed](https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed)
+- [omarchy: Opinionated Arch/Hyprland Setup](https://github.com/basecamp/omarchy)
 
-- [Bazel’s Original Sins](https://fzakaria.com/2025/06/22/bazel-s-original-sins)
+- [Transmitting data via ultrasound without any special equipment](https://halcy.de/blog/2025/06/27/transmitting-data-via-ultrasound-without-any-special-equipment/)
 
-- [LR(1) parse-tables generator](https://github.com/wldfngrs/parser-generator)
+- [Run coverage on tests](https://hugovk.dev/blog/2025/run-coverage-on-tests/)
 
-- [Chromium's build system is switching from Ninja to Siso for external developers](https://groups.google.com/a/chromium.org/g/chromium-dev/c/v-WOvWUtOpg)
+- [Conferences, Clarity, and Smokescreens](https://infrequently.org/2025/06/conferences-clarity-and-smokescreens/)
 
-- [how i use my terminal](https://jyn.dev/how-i-use-my-terminal/)
+- [Adding a trash can to Linux with trash-cli](https://ittavern.com/adding-a-trash-can-to-linux-with-trash-cli/)
 
-- [Fixes for five Lix CVEs](https://lix.systems/blog/2025-06-24-lix-cves/)
+- [New zine: The Secret Rules of the Terminal](https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/)
 
-- [The Bitter Lesson is coming for Tokenization](https://lucalp.dev/bitter-lesson-tokenization-and-blt)
+- [Python can run Mojo now](https://koaning.io/posts/giving-mojo-a-spin/)
 
-- [Onion Services: Design, Protocol and Implementation](https://media.ccc.de/v/gpn23-52-onion-services-design-protocol-and-implementation)
+- [My Lights Run on Bash](https://kramkow.ski/article/2025/06/27/my_lights_run_on_bash.html)
 
-- [A Lisp adventure on the calm waters of the dead C](https://mihaiolteanu.me/language-abstractions)
+- [Parameterized types in C using the new tag compatibility rule](https://nullprogram.com/blog/2025/06/26/)
 
-- [Porting GPU shaders to Rust GPU 30x faster with AI](https://rust-gpu.github.io/blog/2025/06/24/vulkan-shader-port/)
+- [Guidelines for buildable and testable code examples](https://pigweed.dev/docs/contributing/docs/examples.html)
 
-- [Interesting Bits of Postgres Grammar](https://steve.dignam.xyz/2025/06/20/interesting-bits-of-postgres-grammar/)
+- ["Why is the Rust compiler so slow?"](https://sharnoff.io/blog/why-rust-compiler-slow)
 
-- [Nix Development Setup for Factor](https://toast.al/posts/softwarecraft/2025-06-24_factor-nix-dev-environment/)
+- [Announcing Sniffnet v1.4: it’s 2X faster than Wireshark at processing PCAP files](https://sniffnet.net/news/v1.4/)
 
-- [Nix/NixOS is the new “dotfiles golf” - and that’s awesome](https://whynot.fail/nixos/the-new-dotfile-golf/)
+- [Cross-compiling Common Lisp for Windows](https://www.fosskers.ca/en/blog/cl-windows)
 
-- [Fun with uv and PEP 723](https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723)
+- [Simplifying Vulkan Synchronization](https://www.khronos.org/blog/so-long-image-layouts-simplifying-vulkan-synchronisation)
 
-- [Using LXCFS together with Podman](https://www.die-welt.net/2025/06/using-lxcfs-together-with-podman/)
+- [PNG is back](https://www.programmax.net/articles/png-is-back/)
 
-- [Finding a 27-year-old easter egg in the Power Mac G3 ROM](https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/)
+- [Slightly better named character reference tokenization than Chrome, Safari, and Firefox](https://www.ryanliptak.com/blog/better-named-character-reference-tokenization/)
 
-- [Firefox 140 Released With "Unload Tab", CSS Custom Highlighting API](https://www.phoronix.com/news/Firefox-140)
+- [Memory Safety is Merely Table Stakes: Safe Interactions with Foreign Languages through Omniglot](https://www.usenix.org/publications/loginonline/memory-safety-merely-table-stakes)
 
-- [Skip the Design Patterns Architecting with Nouns and Verbs](https://www.youtube.com/watch?v=v-N6r8lcsNc)
-
-- [Build your first iOS app on Linux / Windows](https://xtool.sh/tutorials/xtool/first-app)
+- [Richard Feldman on new language adoption in the LLM age](https://youtu.be/ZsBHc-J9f8o)
