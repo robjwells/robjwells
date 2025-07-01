@@ -1,47 +1,47 @@
-- [LispmFPGA: the goal of this project is to create a small Lisp-Machine in an FPGA](http://www.aviduratas.de/lisp/lispmfpga/index.html)
+- [Google Developer Search Appliance – Proxmox Port](https://archive.org/details/google-search-appliance-proxmox-40G-image-inside.tar)
 
-- [Apple announces sweeping App Store changes in the EU](https://9to5mac.com/2025/06/26/apple-announces-sweeping-app-store-changes-in-the-eu/)
+- [Orchestrating Edge AI workloads on a Jetson Orin Nano with Nomad](https://atodorov.me/2025/06/27/orchestrating-edge-ai-workloads-on-a-jetson-orin-nano-with-nomad/)
 
-- [Android phones could soon warn you of “Stingrays” snooping on your communications](https://arstechnica.com/gadgets/2025/06/future-android-phones-could-warn-you-about-data-stealing-fake-cell-towers/)
+- [Maestro now supports GCC](https://blog.lenot.re/a/compiler)
 
-- [Go is an 80/20 language](https://blog.kowalczyk.info/article/d-2025-06-26/go-is-8020-language.html)
+- [Tools I love: mise(-en-place)](https://blog.vbang.dk/2025/06/29/tools-i-love-mise/)
 
-- [Announcing Rust 1.88.0](https://blog.rust-lang.org/2025/06/26/Rust-1.88.0/)
+- [Tail Latency Might Matter More Than You Think](https://brooker.co.za/blog/2021/04/19/latency.html)
 
-- [Structuring Arrays with Algebraic Shapes](https://dl.acm.org/doi/abs/10.1145/3736112.3736141)
+- [Caching is an Abstraction, not an Optimization](https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/)
 
-- [omarchy: Opinionated Arch/Hyprland Setup](https://github.com/basecamp/omarchy)
+- [Use keyword-only arguments in Python dataclasses](https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/)
 
-- [Transmitting data via ultrasound without any special equipment](https://halcy.de/blog/2025/06/27/transmitting-data-via-ultrasound-without-any-special-equipment/)
+- [How I Write Type Safe Generic Data Structures in C](https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/)
 
-- [Run coverage on tests](https://hugovk.dev/blog/2025/run-coverage-on-tests/)
+- [VibeTunnel - access terminal from the browser to command agents](https://github.com/amantus-ai/vibetunnel)
 
-- [Conferences, Clarity, and Smokescreens](https://infrequently.org/2025/06/conferences-clarity-and-smokescreens/)
+- [The provenance memory model for C](https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/)
 
-- [Adding a trash can to Linux with trash-cli](https://ittavern.com/adding-a-trash-can-to-linux-with-trash-cli/)
+- [Making Rails delegated_type’s clearer](https://kaspth.com/posts/making-rails-delegated_types-clearer)
 
-- [New zine: The Secret Rules of the Terminal](https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/)
+- [Critical correctness bug in Lix](https://lix.systems/blog/2025-06-27-lix-critical-bug/)
 
-- [Python can run Mojo now](https://koaning.io/posts/giving-mojo-a-spin/)
+- [History of UNIX Manpages](https://manpages.bsd.lv/history.html)
 
-- [My Lights Run on Bash](https://kramkow.ski/article/2025/06/27/my_lights_run_on_bash.html)
+- [That boolean should probably be something else](https://ntietz.com/blog/that-boolean-should-probably-be-something-else/)
 
-- [Parameterized types in C using the new tag compatibility rule](https://nullprogram.com/blog/2025/06/26/)
+- [llvm: InstCombine: improve optimizations for ceiling division with no overflow—a PR by Alex Gaynor and Claude Code](https://simonwillison.net/2025/Jun/30/llvm/)
 
-- [Guidelines for buildable and testable code examples](https://pigweed.dev/docs/contributing/docs/examples.html)
+- [Agile Was Never Your Problem](https://thecynical.dev/posts/agile-was-never-your-problem/)
 
-- ["Why is the Rust compiler so slow?"](https://sharnoff.io/blog/why-rust-compiler-slow)
+- [How often is the query plan optimal?](https://vondra.me/posts/how-often-is-the-query-plan-optimal/)
 
-- [Announcing Sniffnet v1.4: it’s 2X faster than Wireshark at processing PCAP files](https://sniffnet.net/news/v1.4/)
+- [The role of the University is to resist AI](https://www.danmcquillan.org/cpct_seminar.html)
 
-- [Cross-compiling Common Lisp for Windows](https://www.fosskers.ca/en/blog/cl-windows)
+- [An update on improving passkey support in Linux](https://www.iinuwa.xyz/blog/linux-passkeys-update/)
 
-- [Simplifying Vulkan Synchronization](https://www.khronos.org/blog/so-long-image-layouts-simplifying-vulkan-synchronisation)
+- [Reverse Engineering Vercel's BotID](https://www.nullpt.rs/reversing-botid)
 
-- [PNG is back](https://www.programmax.net/articles/png-is-back/)
+- [Building Replication-Safe LSM Trees in Postgres](https://www.paradedb.com/blog/lsm_trees_in_postgres)
 
-- [Slightly better named character reference tokenization than Chrome, Safari, and Firefox](https://www.ryanliptak.com/blog/better-named-character-reference-tokenization/)
+- [CVE-2025-32463 Vulnerability Advisory: Sudo chroot Elevation of Privilege](https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot)
 
-- [Memory Safety is Merely Table Stakes: Safe Interactions with Foreign Languages through Omniglot](https://www.usenix.org/publications/loginonline/memory-safety-merely-table-stakes)
+- [Doing My Day Job on Chimera Linux](https://www.wezm.net/v2/posts/2025/daily-driving-chimera-for-work/)
 
-- [Richard Feldman on new language adoption in the LLM age](https://youtu.be/ZsBHc-J9f8o)
+- [Zig Community Mirrors](https://ziglang.org/download/community-mirrors/)
