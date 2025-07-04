@@ -1,47 +1,47 @@
-- [Google Developer Search Appliance – Proxmox Port](https://archive.org/details/google-search-appliance-proxmox-40G-image-inside.tar)
+- [A Higgs-bugson in the Linux Kernel](https://blog.janestreet.com/a-higgs-bugson-in-the-linux-kernel/)
 
-- [Orchestrating Edge AI workloads on a Jetson Orin Nano with Nomad](https://atodorov.me/2025/06/27/orchestrating-edge-ai-workloads-on-a-jetson-orin-nano-with-nomad/)
+- [10 features of D that I love](https://bradley.chatha.dev/blog/dlang-propaganda/features-of-d-that-i-love/)
 
-- [Maestro now supports GCC](https://blog.lenot.re/a/compiler)
+- [The most mysterious bug I solved at work](https://cadence.moe/blog/2025-07-02-the-most-mysterious-bug-i-solved-at-work)
 
-- [Tools I love: mise(-en-place)](https://blog.vbang.dk/2025/06/29/tools-i-love-mise/)
+- [When AI Codes, What’s Left for me?](https://corecursive.com/coding-agents/)
 
-- [Tail Latency Might Matter More Than You Think](https://brooker.co.za/blog/2021/04/19/latency.html)
+- [RFC 9799: ACME Extensions for ".onion"](https://datatracker.ietf.org/doc/rfc9799/)
 
-- [Caching is an Abstraction, not an Optimization](https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/)
+- [Taking over 60k spyware user accounts with SQL injection](https://ericdaigle.ca/posts/taking-over-60k-spyware-user-accounts/)
 
-- [Use keyword-only arguments in Python dataclasses](https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/)
+- [writing a little gosh](https://flak.tedunangst.com/post/writing-a-gosh)
 
-- [How I Write Type Safe Generic Data Structures in C](https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/)
+- [jujutsu v0.31.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.31.0)
 
-- [VibeTunnel - access terminal from the browser to command agents](https://github.com/amantus-ai/vibetunnel)
+- [Yet another ZIP trick](https://hackarcana.com/article/yet-another-zip-trick)
 
-- [The provenance memory model for C](https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/)
+- [This Overly Long Variable Name Could Have Been a Comment](https://jonathan-frere.com/posts/names-vs-comments/)
 
-- [Making Rails delegated_type’s clearer](https://kaspth.com/posts/making-rails-delegated_types-clearer)
+- [Tools: Code Is All You Need](https://lucumr.pocoo.org/2025/7/3/tools/)
 
-- [Critical correctness bug in Lix](https://lix.systems/blog/2025-06-27-lix-critical-bug/)
+- [Taming agentic engineering - Prompts are code, .json/.md files are state](https://mariozechner.at/posts/2025-06-02-prompts-are-code/)
 
-- [History of UNIX Manpages](https://manpages.bsd.lv/history.html)
+- [Portability of tar features](https://mgorny.pl/articles/portability-of-tar-features.html)
 
-- [That boolean should probably be something else](https://ntietz.com/blog/that-boolean-should-probably-be-something-else/)
+- [goHardDrive Leaked Personal Data for Thousands of Customers](https://mtlynch.io/goharddrive-leak/)
 
-- [llvm: InstCombine: improve optimizations for ceiling division with no overflow—a PR by Alex Gaynor and Claude Code](https://simonwillison.net/2025/Jun/30/llvm/)
+- [copyleft-next](https://next.copyleft.org/)
 
-- [Agile Was Never Your Problem](https://thecynical.dev/posts/agile-was-never-your-problem/)
+- [Writing Code Was Never The Bottleneck](https://ordep.dev/posts/writing-code-was-never-the-bottleneck)
 
-- [How often is the query plan optimal?](https://vondra.me/posts/how-often-is-the-query-plan-optimal/)
+- [Coding in Advent](https://panadestein.github.io/blog/posts/aoc24.html)
 
-- [The role of the University is to resist AI](https://www.danmcquillan.org/cpct_seminar.html)
+- [Introducing tmux-rs](https://richardscollin.github.io/tmux-rs/)
 
-- [An update on improving passkey support in Linux](https://www.iinuwa.xyz/blog/linux-passkeys-update/)
+- [The scary and surprisingly deep rabbit hole of Rust's temporaries](https://taping-memory.dev/temporaries-rabbit-hole/)
 
-- [Reverse Engineering Vercel's BotID](https://www.nullpt.rs/reversing-botid)
+- [Introducing the first alpha of Turso: The next evolution of SQLite](https://turso.tech/blog/turso-the-next-evolution-of-sqlite?ref=console.dev)
 
-- [Building Replication-Safe LSM Trees in Postgres](https://www.paradedb.com/blog/lsm_trees_in_postgres)
+- [Project Vend: Can Claude run a small shop? (And why does that matter?)](https://www.anthropic.com/research/project-vend-1)
 
-- [CVE-2025-32463 Vulnerability Advisory: Sudo chroot Elevation of Privilege](https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot)
+- [Our Fullstack Architecture: Eta, HTMX, and Lit](https://www.lorenstew.art/blog/eta-htmx-lit-stack)
 
-- [Doing My Day Job on Chimera Linux](https://www.wezm.net/v2/posts/2025/daily-driving-chimera-for-work/)
+- [Why I'm Dialing Back My LLM Usage](https://zed.dev/blog/dialing-back-my-llm-usage-with-alberto-fortin)
 
-- [Zig Community Mirrors](https://ziglang.org/download/community-mirrors/)
+- [Tiny Great Languages: MOUSE](https://zserge.com/posts/langs-mouse/)
