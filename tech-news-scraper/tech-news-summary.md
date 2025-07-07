@@ -1,47 +1,49 @@
-- [A Higgs-bugson in the Linux Kernel](https://blog.janestreet.com/a-higgs-bugson-in-the-linux-kernel/)
+- [Take Two: Eshell](http://yummymelon.com/devnull/take-two-eshell.html)
 
-- [10 features of D that I love](https://bradley.chatha.dev/blog/dlang-propaganda/features-of-d-that-i-love/)
+- [Progress report on rustc_codegen_cranelift (June 2025)](https://bjorn3.github.io/2025/06/30/progress-report-june-2025.html)
 
-- [The most mysterious bug I solved at work](https://cadence.moe/blog/2025-07-02-the-most-mysterious-bug-i-solved-at-work)
+- [Ziglings: Learn Zig by fixing broken programs](https://codeberg.org/ziglings/exercises)
 
-- [When AI Codes, What’s Left for me?](https://corecursive.com/coding-agents/)
+- [Anubis Pilot Project Report - June 2025](https://dukespace.lib.duke.edu/server/api/core/bitstreams/816ef134-55cf-49f6-9a8b-1e8a2324b1ff/content)
 
-- [RFC 9799: ACME Extensions for ".onion"](https://datatracker.ietf.org/doc/rfc9799/)
+- [Belgium is unsafe for CVD](https://floort.net/posts/belgium-unsafe-for-cvd/)
 
-- [Taking over 60k spyware user accounts with SQL injection](https://ericdaigle.ca/posts/taking-over-60k-spyware-user-accounts/)
+- [Building the Rust compiler with GCC](https://fractalfir.github.io/generated_html/cg_gcc_bootstrap.html)
 
-- [writing a little gosh](https://flak.tedunangst.com/post/writing-a-gosh)
+- [Serving 200 million requests per day with a cgi-bin](https://jacob.gold/posts/serving-200-million-requests-with-cgi-bin/)
 
-- [jujutsu v0.31.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.31.0)
+- [A Taste of Matzo: A Language for Random Text](https://journal.infinitenegativeutility.com/a-taste-of-matzo-a-language-for-random-text)
 
-- [Yet another ZIP trick](https://hackarcana.com/article/yet-another-zip-trick)
+- [theory building without a mentor](https://jyn.dev/theory-building-without-a-mentor/)
 
-- [This Overly Long Variable Name Could Have Been a Comment](https://jonathan-frere.com/posts/names-vs-comments/)
+- [Readline v8.3 release](https://lists.gnu.org/archive/html/bug-readline/2025-07/msg00004.html)
 
-- [Tools: Code Is All You Need](https://lucumr.pocoo.org/2025/7/3/tools/)
+- [C mistakes among the vulnerabilities present in curl code](https://mastodon.social/@bagder/114806766613678922)
 
-- [Taming agentic engineering - Prompts are code, .json/.md files are state](https://mariozechner.at/posts/2025-06-02-prompts-are-code/)
+- [Unsoundness and accidental features in the #[target_feature] attribute](https://predr.ag/blog/unsoundness-and-accidental-features-in-target-feature/)
 
-- [Portability of tar features](https://mgorny.pl/articles/portability-of-tar-features.html)
+- [What is OpenTelemetry? [a basic guide]](https://signoz.io/blog/what-is-opentelemetry/)
 
-- [goHardDrive Leaked Personal Data for Thousands of Customers](https://mtlynch.io/goharddrive-leak/)
+- [Conventional Commits makes me sad](https://srazkvt.codeberg.page/posts/2025-07-06-conventional-commits-makes-me-sad.html)
 
-- [copyleft-next](https://next.copyleft.org/)
+- [Micro Common Lisp](https://t3x.org/mcl/index.html)
 
-- [Writing Code Was Never The Bottleneck](https://ordep.dev/posts/writing-code-was-never-the-bottleneck)
+- [Decker Fantasy Camp](https://www.arraycast.com/episodes/episode109-deckerfantasycamp)
 
-- [Coding in Advent](https://panadestein.github.io/blog/posts/aoc24.html)
+- [Linux: a Portable Operating System (1997)](https://www.cs.helsinki.fi/u/kutvonen/index_files/linus.pdf)
 
-- [Introducing tmux-rs](https://richardscollin.github.io/tmux-rs/)
+- [Plasma 6.4 Wayland vs X11, processor and power benchmarks](https://www.dedoimedo.com/computers/plasma-6-4-performance-wayland-x11-power-cpu-kernel.html)
 
-- [The scary and surprisingly deep rabbit hole of Rust's temporaries](https://taping-memory.dev/temporaries-rabbit-hole/)
+- [Apple Pay vs. Alternative Payment Services](https://www.taler.net/en/news/2025-05.html)
 
-- [Introducing the first alpha of Turso: The next evolution of SQLite](https://turso.tech/blog/turso-the-next-evolution-of-sqlite?ref=console.dev)
+- [The Real GenAI Issue](https://www.tbray.org/ongoing/When/202x/2025/07/06/AI-Manifesto)
 
-- [Project Vend: Can Claude run a small shop? (And why does that matter?)](https://www.anthropic.com/research/project-vend-1)
+- [quickly converting djot to html+mathml](https://www.unix.dog/~yosh/blog/djot-to-html-with-mathml.html)
 
-- [Our Fullstack Architecture: Eta, HTMX, and Lit](https://www.lorenstew.art/blog/eta-htmx-lit-stack)
+- [160 Core RISC-V supercluster on a single M.2](https://www.youtube.com/watch?v=HRfbQJ6FdF0)
 
-- [Why I'm Dialing Back My LLM Usage](https://zed.dev/blog/dialing-back-my-llm-usage-with-alberto-fortin)
+- [Russ Cox solves AoC 2021 Day 24 using Go in Acme [Compiler Analysis]](https://www.youtube.com/watch?v=hmq6veCFo0Y)
 
-- [Tiny Great Languages: MOUSE](https://zserge.com/posts/langs-mouse/)
+- [Coalton: Toward safe, flexible, and efficient software in Common Lisp](https://www.youtube.com/watch?v=of92m4XNgrM)
+
+- [Why I got rid of all my neovim plugins](https://yobibyte.github.io/vim.html)
