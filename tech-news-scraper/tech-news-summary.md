@@ -1,49 +1,49 @@
-- [Take Two: Eshell](http://yummymelon.com/devnull/take-two-eshell.html)
+- [HyAB k-means for color quantization](https://30fps.net/pages/hyab-kmeans/)
 
-- [Progress report on rustc_codegen_cranelift (June 2025)](https://bjorn3.github.io/2025/06/30/progress-report-june-2025.html)
+- [Frame of preference – A history of Mac settings, 1984–2004](https://aresluna.org/frame-of-preference/)
 
-- [Ziglings: Learn Zig by fixing broken programs](https://codeberg.org/ziglings/exercises)
+- [Announcing FOKS, the Federated Open Key Service](https://blog.foks.pub/posts/introducing/)
 
-- [Anubis Pilot Project Report - June 2025](https://dukespace.lib.duke.edu/server/api/core/bitstreams/816ef134-55cf-49f6-9a8b-1e8a2324b1ff/content)
+- [systemd has been a complete, utter, unmitigated success](https://blog.tjll.net/the-systemd-revolution-has-been-a-success/)
 
-- [Belgium is unsafe for CVD](https://floort.net/posts/belgium-unsafe-for-cvd/)
+- [Summary of the May 2025 TC39 plenary](https://blogs.igalia.com/compilers/2025/07/03/summary-of-the-may-2025-tc39-plenary/)
 
-- [Building the Rust compiler with GCC](https://fractalfir.github.io/generated_html/cg_gcc_bootstrap.html)
+- [Roll your own in-game UI with Clay and NanoVG](https://dev.to/linkdd/roll-your-own-in-game-ui-with-clay-and-nanovg-part-2-25pf)
 
-- [Serving 200 million requests per day with a cgi-bin](https://jacob.gold/posts/serving-200-million-requests-with-cgi-bin/)
+- [Vim Fugitive in action (2021)](https://dzx.fr/blog/introduction-to-vim-fugitive/)
 
-- [A Taste of Matzo: A Language for Random Text](https://journal.infinitenegativeutility.com/a-taste-of-matzo-a-language-for-random-text)
+- [How I build software quickly](https://evanhahn.com/how-i-build-software-quickly/)
 
-- [theory building without a mentor](https://jyn.dev/theory-building-without-a-mentor/)
+- [Hare by Example](https://harebyexample.org)
 
-- [Readline v8.3 release](https://lists.gnu.org/archive/html/bug-readline/2025-07/msg00004.html)
+- [Writing a very simple JIT Compiler in about 1000 lines of C](https://kuterdinel.com/writing-a-very-simple-jit-compiler-in-about-1000-lines-of-c.html)
 
-- [C mistakes among the vulnerabilities present in curl code](https://mastodon.social/@bagder/114806766613678922)
+- [Closures for Hare](https://lists.sr.ht/~sircmpwn/hare-rfc/%3CDB54BK1QFAMO.VURD1415NHT3@ddevault.org%3E)
 
-- [Unsoundness and accidental features in the #[target_feature] attribute](https://predr.ag/blog/unsoundness-and-accidental-features-in-target-feature/)
+- [Client-side epub generation](https://little.webby.press/)
 
-- [What is OpenTelemetry? [a basic guide]](https://signoz.io/blog/what-is-opentelemetry/)
+- [Brut: A New Web Framework for Ruby](https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html)
 
-- [Conventional Commits makes me sad](https://srazkvt.codeberg.page/posts/2025-07-06-conventional-commits-makes-me-sad.html)
+- [Variadic Generics ideas that won’t work for Rust](https://poignardazur.github.io//2025/07/09/variadic-generics-dead-ends/)
 
-- [Micro Common Lisp](https://t3x.org/mcl/index.html)
+- [Phrase origin: Why do we “call” functions?](https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/)
 
-- [Decker Fantasy Camp](https://www.arraycast.com/episodes/episode109-deckerfantasycamp)
+- [Get the location of the ISS using DNS](https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/)
 
-- [Linux: a Portable Operating System (1997)](https://www.cs.helsinki.fi/u/kutvonen/index_files/linus.pdf)
+- [An online searchable reference tool for C intrinsics of all major SIMD engines](https://simd.info/)
 
-- [Plasma 6.4 Wayland vs X11, processor and power benchmarks](https://www.dedoimedo.com/computers/plasma-6-4-performance-wayland-x11-power-cpu-kernel.html)
+- [Functional Functions - A Comprehensive Proposal Overviewing Blocks, Nested Functions, and Lambdas for C](https://thephd.dev/_vendor/future_cxx/papers/C%20-%20Functional%20Functions.html)
 
-- [Apple Pay vs. Alternative Payment Services](https://www.taler.net/en/news/2025-05.html)
+- [Using fs_usage to see what files a process is using](https://til.simonwillison.net/macos/fs-usage)
 
-- [The Real GenAI Issue](https://www.tbray.org/ongoing/When/202x/2025/07/06/AI-Manifesto)
+- [Oregon Programming Languages Summer School (OPLSS) 2025: Types, Logic, and Formal Methods](https://www.cs.uoregon.edu/research/summerschool/summer25/topics.php)
 
-- [quickly converting djot to html+mathml](https://www.unix.dog/~yosh/blog/djot-to-html-with-mathml.html)
+- [A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux](https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html)
 
-- [160 Core RISC-V supercluster on a single M.2](https://www.youtube.com/watch?v=HRfbQJ6FdF0)
+- [The Tree Borrows paper is finally published](https://www.ralfj.de/blog/2025/07/07/tree-borrows-paper.html)
 
-- [Russ Cox solves AoC 2021 Day 24 using Go in Acme [Compiler Analysis]](https://www.youtube.com/watch?v=hmq6veCFo0Y)
+- [Is the doc bot docs, or not?](https://www.robinsloan.com/lab/what-are-we-even-doing-here/)
 
-- [Coalton: Toward safe, flexible, and efficient software in Common Lisp](https://www.youtube.com/watch?v=of92m4XNgrM)
+- [MicroHs, a tiny Haskell Compiler](https://www.youtube.com/watch?v=SJwvPEq4Mok)
 
-- [Why I got rid of all my neovim plugins](https://yobibyte.github.io/vim.html)
+- [(Quite) A Few Words About Async](https://yoric.github.io/post/quite-a-few-words-about-async/)
