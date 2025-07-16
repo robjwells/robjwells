@@ -1,49 +1,49 @@
-- [How I found a bypass in Google's big anti-adblock update](https://0x44.xyz/blog/web-request-blocking/)
+- [OpenZFS Bug Ported to Zig](https://andrewkelley.me/post/openzfs-bug-ported-zig.html)
 
-- [angr (open-source binary analysis platform for Python)](https://angr.io/)
+- [A distributed systems reliability glossary](https://antithesis.com/resources/reliability_glossary/)
 
-- [Anubis now supports non-JS challenges](https://anubis.techaro.lol/blog/release/v1.20.0/#no-js-challenge)
+- [Automerge 3.0](https://automerge.github.io/blog/automerge-3/)
 
-- [Clustered PostgreSQL](https://arch.dog/bark/clustered-postgresql)
+- [Bedrock: A tiny, portable 8-bit virtual computer (uxn fork)](https://benbridle.com/projects/bedrock.html)
 
-- [Placing functions](https://blog.yoshuawuyts.com/placing-functions/)
+- [How I keep up with AI progress](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/)
 
-- [Building a Simple Router with OpenBSD](https://btxx.org/posts/openbsd-router/)
+- [Compiler bootstrapping in Nixpkgs](https://blog.obsidian.systems/compiler-bootstrapping-in-nixpkgs/)
 
-- [Forget Borrow Checkers: C3 Solved Memory Lifetimes With Scopes](https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/)
+- [Death by a thousand slops](https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/)
 
-- [Cybersecurity Risk Assessment Request](https://daniel.haxx.se/blog/2025/07/11/cybersecurity-risk-assessment-request/)
+- [Initial implementation of the experimental C++ Lifetime Safety Analysis (-Wexperimental-lifetime-safety) has just landed in Clang](https://discourse.llvm.org/t/announcing-the-lifetime-safety-breakout-group/87333)
 
-- [aeron: Efficient reliable UDP unicast, UDP multicast, and IPC message transport](https://github.com/aeron-io/aeron)
+- [Diving into Plasma Bigscreen](https://espi.dev/posts/2025/07/plasma-bigscreen/)
 
-- [sca-fuzzer: Revizor - a fuzzer to search for microarchitectural leaks in CPUs](https://github.com/microsoft/sca-fuzzer)
+- [OpenZFS Bug Ported to C](https://flak.tedunangst.com/post/OpenZFS-Bug-Ported-to-C)
 
-- [Haunted by Legacy: Discovering and Exploiting Vulnerable Tunnelling Hosts](https://github.com/vanhoefm/tunneltester)
+- [Hazel: A live functional programming environment with typed holes](https://github.com/hazelgrove/hazel)
 
-- [Damn Small Link Forwarder (DSLF): a bit.ly replacement written in rust](https://github.com/vpetersson/dslf)
+- [The FIPS 140-3 Go Cryptographic Module](https://go.dev/blog/fips140)
 
-- [Measuring power network frequency using junk you have in your closet](https://halcy.de/blog/2025/02/09/measuring-power-network-frequency-using-junk-you-have-in-your-closet/)
+- [Game of Trees Hub](https://gothub.org/)
 
-- [Hanami and the elephant in the room](https://hanamirb.org/blog/2025/07/11/hanami-and-the-elephant-in-the-room/)
+- [How to Get Foreign Keys Horribly Wrong](https://hakibenita.com/django-foreign-keys)
 
-- [jank is C++](https://jank-lang.org/blog/2025-07-11-jank-is-cpp/)
+- [Helix 25.07 Highlights](https://helix-editor.com/news/release-25-07-highlights/)
 
-- [Working through ‘Writing A C Compiler’](https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/)
+- [The Best C++ Library](https://mcyoung.xyz/2025/07/14/best/#fnref:terrible-people)
 
-- [new Date("wtf")](https://jsdate.wtf/)
+- [Introducing go-cdc-chunkers: chunk and deduplicate everything](https://plakar.io/posts/2025-07-11/introducing-go-cdc-chunkers-chunk-and-deduplicate-everything/)
 
-- [constrained languages are easier to optimize](https://jyn.dev/constrained-languages-are-easier-to-optimize/)
+- [Google Wifi Pro: Glitching from Root to EL3: Part 1 - Characterization](https://raelize.com/blog/google-wifi-pro-glitching-from-root-to-el3-part-1-characterization/)
 
-- [Zig's New Async I/O](https://kristoff.it/blog/zig-new-async-io/)
+- [Adding lookbehinds to rust-lang/regex](https://systemf.epfl.ch/blog/rust-regex-lookbehinds/)
 
-- [Simple live reload for developing static sites](https://leanrada.com/notes/simple-live-reload/)
+- [Trying Guix: A Nixer's Impressions](https://tazj.in/blog/trying-guix)
 
-- [Dyson Sphere Program's new multithreading framework](https://store.steampowered.com/news/app/1366540/view/543361383085900510)
+- [The sound of inevitability](https://tomrenner.com/posts/llm-inevitabilism/)
 
-- [Hacking coroutines into C](https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html)
+- [Wikipedia outage report for May's Pope traffic spike](https://wikitech.wikimedia.org/wiki/Incidents/2025-05-08_Papal_announcement_traffic_surge)
 
-- [Don't animate height](https://www.granola.ai/blog/dont-animate-height)
+- [Encrypting Files with Passkeys and age](https://words.filippo.io/passkey-encryption/)
 
-- [Easy dynamic dispatch using GLIBC Hardware Capabilities](https://www.kvr.at/posts/easy-dynamic-dispatch-using-GLIBC-hardware-capabilities/)
+- [Poor man's bitemporal data system in SQLite and Clojure](https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html)
 
-- [Faking a JPEG](https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/)
+- [Panasonic + OpenBSD = <3](https://x61.sh/log/2025/07/03072025160538-panasonic_openbsd.html)
