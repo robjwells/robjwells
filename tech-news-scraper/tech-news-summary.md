@@ -1,49 +1,47 @@
-- [OpenZFS Bug Ported to Zig](https://andrewkelley.me/post/openzfs-bug-ported-zig.html)
+- [Async Rust Is A Bad Language](https://bitbashing.io/async-rust.html)
 
-- [A distributed systems reliability glossary](https://antithesis.com/resources/reliability_glossary/)
+- [Pimping my Casio: Part Deux](https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html)
 
-- [Automerge 3.0](https://automerge.github.io/blog/automerge-3/)
+- [The current technology is not ready for proper blending](https://blog.pkh.me/p/43-the-current-technology-is-not-ready-for-proper-blending.html)
 
-- [Bedrock: A tiny, portable 8-bit virtual computer (uxn fork)](https://benbridle.com/projects/bedrock.html)
+- [polycode: Encode a binary file as a rational polynomial function](https://codeberg.org/cve/polycode)
 
-- [How I keep up with AI progress](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/)
+- [Shutting down Clear Linux OS](https://community.clearlinux.org/t/all-good-things-come-to-an-end-shutting-down-clear-linux-os/10716)
 
-- [Compiler bootstrapping in Nixpkgs](https://blog.obsidian.systems/compiler-bootstrapping-in-nixpkgs/)
+- [Forgejo v12](https://forgejo.org/2025-07-release-v12-0/)
 
-- [Death by a thousand slops](https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/)
+- [Kap lang](https://kapdemo.dhsdevelopments.com/)
 
-- [Initial implementation of the experimental C++ Lifetime Safety Analysis (-Wexperimental-lifetime-safety) has just landed in Clang](https://discourse.llvm.org/t/announcing-the-lifetime-safety-breakout-group/87333)
+- [Asynchrony is not Concurrency](https://kristoff.it/blog/asynchrony-is-not-concurrency/)
 
-- [Diving into Plasma Bigscreen](https://espi.dev/posts/2025/07/plasma-bigscreen/)
+- [NIH Is Far Cheaper Than The Wrong Dependency](https://lewiscampbell.tech/blog/250718.html)
 
-- [OpenZFS Bug Ported to C](https://flak.tedunangst.com/post/OpenZFS-Bug-Ported-to-C)
+- [firefox-patch-bin, librewolf-fix-bin and zen-browser-patched-bin AUR packages contain malware](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/7EZTJXLIAQLARQNTMEW2HBWZYE626IFJ/)
 
-- [Hazel: A live functional programming environment with typed holes](https://github.com/hazelgrove/hazel)
+- [How I Fixed Ruby's Most Annoying Problem: 60-Second Gem Installs](https://mensfeld.pl/2025/07/solving-ruby-rdkafka-installation-problem/)
 
-- [The FIPS 140-3 Go Cryptographic Module](https://go.dev/blog/fips140)
+- [Jsonptr: Using Wuffs’ Memory-Safe, Zero-Allocation JSON Decoder](https://nigeltao.github.io/blog/2020/jsonptr.html)
 
-- [Game of Trees Hub](https://gothub.org/)
+- [Petition: Repeal the Online Safety Act](https://petition.parliament.uk/petitions/722903)
 
-- [How to Get Foreign Keys Horribly Wrong](https://hakibenita.com/django-foreign-keys)
+- [When Root Meets Immutable: OpenBSD chflags vs. Log Tampering](https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/)
 
-- [Helix 25.07 Highlights](https://helix-editor.com/news/release-25-07-highlights/)
+- [Engineering the End of Work](https://schmud.de/posts/2025-07-15-engineering-end-of-work.html)
 
-- [The Best C++ Library](https://mcyoung.xyz/2025/07/14/best/#fnref:terrible-people)
+- [Two Simple Rules to Fix Code Reviews](https://serce.me/posts/2025-07-17-two-simple-rules-to-fix-code-reviews)
 
-- [Introducing go-cdc-chunkers: chunk and deduplicate everything](https://plakar.io/posts/2025-07-11/introducing-go-cdc-chunkers-chunk-and-deduplicate-everything/)
+- [Servo adds support for network inspector devtools](https://servo.org/blog/2025/07/17/this-month-in-servo/)
 
-- [Google Wifi Pro: Glitching from Root to EL3: Part 1 - Characterization](https://raelize.com/blog/google-wifi-pro-glitching-from-root-to-el3-part-1-characterization/)
+- [lsr: ls but with io_uring](https://tangled.sh/@rockorager.dev/lsr)
 
-- [Adding lookbehinds to rust-lang/regex](https://systemf.epfl.ch/blog/rust-regex-lookbehinds/)
+- [How Go 1.24's Swiss Tables saved us hundreds of gigabytes](https://www.datadoghq.com/blog/engineering/go-swiss-tables/)
 
-- [Trying Guix: A Nixer's Impressions](https://tazj.in/blog/trying-guix)
+- [Zig's new Writer](https://www.openmymind.net/Zigs-New-Writer/)
 
-- [The sound of inevitability](https://tomrenner.com/posts/llm-inevitabilism/)
+- [Magic The Gathering - Deal infinite damage for 4GRU, as long as the twin primes conjecture is true](https://www.reddit.com/r/BadMtgCombos/comments/1feps3y/deal_infinite_damage_for_4gru_as_long_as_the_twin/)
 
-- [Wikipedia outage report for May's Pope traffic spike](https://wikitech.wikimedia.org/wiki/Incidents/2025-05-08_Papal_announcement_traffic_surge)
+- [Firefox dev says Intel Raptor Lake crashes are increasing with rising temperatures in record European heat wave](https://www.tomshardware.com/pc-components/cpus/firefox-dev-says-intel-raptor-lake-crashes-are-increasing-with-rising-temperatures-in-record-european-heat-wave-mozilla-staffs-tracking-overwhelmed-by-intel-crash-reports-team-disables-the-function)
 
-- [Encrypting Files with Passkeys and age](https://words.filippo.io/passkey-encryption/)
+- [Super Mario Bros is (Computationally) Hard](https://www.youtube.com/watch?v=unLPk4H1hto)
 
-- [Poor man's bitemporal data system in SQLite and Clojure](https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html)
-
-- [Panasonic + OpenBSD = <3](https://x61.sh/log/2025/07/03072025160538-panasonic_openbsd.html)
+- [The Big OOPs: Anatomy of a Thirty-five-year Mistake](https://www.youtube.com/watch?v=wo84LFzx5nI)
